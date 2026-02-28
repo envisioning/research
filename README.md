@@ -16,9 +16,9 @@ The goal is simple: make high-quality technology research easy to browse, reuse,
 
 ## License
 
-This dataset is published as Creative Commons BY-NC-SA 4.0
+This dataset is published under the MIT License.
 
-If you are republishing, remixing, or deriving from this dataset, include clear attribution to Envisioning and link back to this repository.
+If you are republishing, remixing, or deriving from this dataset, please include attribution to Envisioning and link back to this repository.
 
 ## What This Repository Contains
 
