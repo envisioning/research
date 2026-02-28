@@ -1,0 +1,200 @@
+[
+  {
+    "hub_slug": "cities",
+    "tag1": [
+      {
+        "count": 59,
+        "label": "Economic Sustainability"
+      },
+      {
+        "count": 78,
+        "label": "Environmental Sustainability"
+      },
+      {
+        "count": 69,
+        "label": "Social Sustainability"
+      },
+      {
+        "count": 67,
+        "label": "Spatial Sustainability"
+      }
+    ],
+    "tag2": [
+      {
+        "count": 61,
+        "label": "Humanitarian Relief"
+      },
+      {
+        "count": 89,
+        "label": "Reconstruction and Asset Recovery"
+      },
+      {
+        "count": 66,
+        "label": "Restoration of Basic Services"
+      }
+    ],
+    "tag3": [
+      {
+        "count": 26,
+        "label": "Concept"
+      },
+      {
+        "count": 13,
+        "label": "Policy"
+      },
+      {
+        "count": 78,
+        "label": "Technology"
+      }
+    ]
+  },
+  {
+    "hub_slug": "moradia",
+    "tag1": [
+      {
+        "count": 22,
+        "label": "Capital"
+      },
+      {
+        "count": 70,
+        "label": "Cidade"
+      },
+      {
+        "count": 26,
+        "label": "Mercado Cadeia"
+      },
+      {
+        "count": 42,
+        "label": "Operacao"
+      },
+      {
+        "count": 60,
+        "label": "Producao"
+      }
+    ],
+    "tag2": [],
+    "tag3": []
+  },
+  {
+    "hub_slug": "sakan",
+    "tag1": [
+      {
+        "count": 24,
+        "label": "Asset Management"
+      },
+      {
+        "count": 20,
+        "label": "Capital"
+      },
+      {
+        "count": 46,
+        "label": "Development"
+      },
+      {
+        "count": 28,
+        "label": "Government"
+      },
+      {
+        "count": 22,
+        "label": "Innovation"
+      }
+    ],
+    "tag2": [],
+    "tag3": []
+  },
+  {
+    "hub_slug": "subspace",
+    "tag1": [
+      {
+        "count": 12,
+        "label": "Borg"
+      },
+      {
+        "count": 2,
+        "label": "Cardassian"
+      },
+      {
+        "count": 99,
+        "label": "Federation"
+      },
+      {
+        "count": 2,
+        "label": "Ferengi"
+      },
+      {
+        "count": 8,
+        "label": "Human"
+      },
+      {
+        "count": 7,
+        "label": "Klingon"
+      },
+      {
+        "count": 5,
+        "label": "Romulan"
+      },
+      {
+        "count": 7,
+        "label": "Vulcan"
+      }
+    ],
+    "tag2": [
+      {
+        "count": 28,
+        "label": "DS9"
+      },
+      {
+        "count": 1,
+        "label": "DSC"
+      },
+      {
+        "count": 6,
+        "label": "ENT"
+      },
+      {
+        "count": 7,
+        "label": "Films"
+      },
+      {
+        "count": 63,
+        "label": "TNG"
+      },
+      {
+        "count": 39,
+        "label": "TOS"
+      },
+      {
+        "count": 41,
+        "label": "VOY"
+      }
+    ],
+    "tag3": []
+  },
+  {
+    "hub_slug": "wonen",
+    "tag1": [
+      {
+        "count": 60,
+        "label": "Community"
+      },
+      {
+        "count": 73,
+        "label": "Developers"
+      },
+      {
+        "count": 83,
+        "label": "Government"
+      },
+      {
+        "count": 31,
+        "label": "Innovation"
+      },
+      {
+        "count": 29,
+        "label": "Investors"
+      }
+    ],
+    "tag2": [],
+    "tag3": []
+  }
+]

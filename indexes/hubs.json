@@ -1,0 +1,415 @@
+[
+  {
+    "id": "190798b8-2e9d-4638-8597-f658b190dba6",
+    "slug": "aegis",
+    "technology_count": 57,
+    "title": "Aegis",
+    "topic_description": "Defense systems, security technologies, intelligence architectures, and resilience mechanisms."
+  },
+  {
+    "id": "22b05ab3-621c-4e63-9870-74f1e1df364e",
+    "slug": "agape",
+    "technology_count": 83,
+    "title": "Agape",
+    "topic_description": "The future of giving, care, and collective responsibility. Tracking how philanthropy, redistribution, and social investment are being re-architected by computation: power shifts, capital instruments, knowledge systems, technology infrastructure, geopolitics, cultural narratives, and organizational forms."
+  },
+  {
+    "id": "1fd84b36-d8d5-48cf-92d7-2afe2a517943",
+    "slug": "agora",
+    "technology_count": 74,
+    "title": "Agora",
+    "topic_description": "Civic systems, participation, legitimacy, digital governance, and the future of democratic coordination."
+  },
+  {
+    "id": "7f2f7b70-2d95-421c-9acd-3181cdd24a8e",
+    "slug": "altitude",
+    "technology_count": 67,
+    "title": "Altitude",
+    "topic_description": "Airlines, aerospace infrastructure, regulation, fuel, automation, and the technologies reshaping air travel."
+  },
+  {
+    "id": "5cbcafa7-d6c0-4456-9600-b0420ac7f0d9",
+    "slug": "apogee",
+    "technology_count": 64,
+    "title": "Apogee",
+    "topic_description": "Orbital systems, launch technologies, satellite infrastructure, and off-planet exploration."
+  },
+  {
+    "id": "587738a4-f140-4966-86fc-f3e04a5005c4",
+    "slug": "atlas",
+    "technology_count": 52,
+    "title": "Atlas",
+    "topic_description": "Mobility networks, travel technologies, service systems, and global passenger experiences."
+  },
+  {
+    "id": "38cc410e-4f53-44ab-b87d-c9e5d6549150",
+    "slug": "atmos",
+    "technology_count": 55,
+    "title": "Atmos",
+    "topic_description": "Climate technologies, energy systems, storage solutions, and environmental engineering."
+  },
+  {
+    "id": "f0b81279-4a5f-4c50-a003-8ca8dff93b08",
+    "slug": "aura",
+    "technology_count": 53,
+    "title": "Aura",
+    "topic_description": "Bioactive wearables, regenerative treatments, identity technologies, and aesthetic innovation."
+  },
+  {
+    "id": "1f2c84d6-5a15-4ee7-8c60-222922b1eb67",
+    "slug": "axiom",
+    "technology_count": 52,
+    "title": "Axiom",
+    "topic_description": "Cognitive tools, instructional technologies, learning platforms, and education systems."
+  },
+  {
+    "id": "7644b3de-dc06-49b1-9c78-452b874266f1",
+    "slug": "beacon",
+    "technology_count": 49,
+    "title": "Beacon",
+    "topic_description": "Emotional data rights, identity governance, behavioral oversight, and authenticity protection."
+  },
+  {
+    "id": "96b7f360-53ad-42c3-9591-29addc07e6dd",
+    "slug": "cities",
+    "technology_count": 97,
+    "title": "Cities",
+    "topic_description": "Urban technologies, smart infrastructure, planning systems, and sustainable city development."
+  },
+  {
+    "id": "98d7cc05-3cad-4c73-897d-903c1615b0c3",
+    "slug": "continuum",
+    "technology_count": 50,
+    "title": "Continuum",
+    "topic_description": "Long-term systems and infrastructures supporting societal stability and planetary resilience."
+  },
+  {
+    "id": "044372b1-a6c8-4fa6-8dcd-41964d937aa9",
+    "slug": "cortex",
+    "technology_count": 45,
+    "title": "Cortex",
+    "topic_description": "Cognitive interfaces, neural engineering, brain–machine systems, and human augmentation."
+  },
+  {
+    "id": "455e82b4-4ffe-456f-9c18-57dddb840c20",
+    "slug": "cradle",
+    "technology_count": 32,
+    "title": "Cradle",
+    "topic_description": "Fertility tools, perinatal care technologies, neonatal systems, and early-development support."
+  },
+  {
+    "id": "753e382c-f49a-4423-8705-884173137e58",
+    "slug": "datatrends",
+    "technology_count": 71,
+    "title": "DataTrends",
+    "topic_description": "Analytics governance, next-gen methods, real-world applications, strategic frameworks, and analytical competencies shaping the future of Data & Analytics."
+  },
+  {
+    "id": "3439750d-3d19-4661-a07e-0d89251f9377",
+    "slug": "eclipse",
+    "technology_count": 39,
+    "title": "Eclipse",
+    "topic_description": "Memorial technologies, legacy management, care-planning systems, and evolving transition rituals."
+  },
+  {
+    "id": "68bdce72-11c2-44d8-9b28-4c6884b58f62",
+    "slug": "epoch",
+    "technology_count": 57,
+    "title": "Epoch",
+    "topic_description": "Epoch maps the emerging technological landscape of human longevity and extension, exploring the tools that are reshaping what it means to age."
+  },
+  {
+    "id": "578eb807-9684-45aa-b03e-eb1150f1e376",
+    "slug": "eros",
+    "technology_count": 49,
+    "title": "Eros",
+    "topic_description": "Connection interfaces, intimacy tools, social-bond platforms, and cultural interaction systems."
+  },
+  {
+    "id": "01ff0c30-601d-4cfe-ad88-5af7916aa996",
+    "slug": "fabric",
+    "technology_count": 70,
+    "title": "Fabric",
+    "topic_description": "Advanced textiles, material innovation, garment technologies, and adaptive apparel systems."
+  },
+  {
+    "id": "3b45acc9-c42c-42f0-9b35-d6ff2bfe070e",
+    "slug": "folio",
+    "technology_count": 47,
+    "title": "Folio",
+    "topic_description": "Intelligent archives, semantic discovery tools, adaptive learning interfaces, preservation technologies, and the evolving infrastructures that shape how communities access, organize, and produce knowledge."
+  },
+  {
+    "id": "b0922130-079f-4f3a-a75e-d49929e5e103",
+    "slug": "forge",
+    "technology_count": 47,
+    "title": "Forge",
+    "topic_description": "Automation systems, industrial robotics, supply-chain technologies, and advanced manufacturing."
+  },
+  {
+    "id": "a640a0d9-bf0c-4b2e-87ac-7dc2031b0e3e",
+    "slug": "grid",
+    "technology_count": 48,
+    "title": "Grid",
+    "topic_description": "Power systems, utility infrastructure, hydrogen economy technologies, and energy distribution networks."
+  },
+  {
+    "id": "5a0c3f8c-ac71-43e0-94dc-dc3816b02787",
+    "slug": "habitat",
+    "technology_count": 44,
+    "title": "Habitat",
+    "topic_description": "Construction technologies, smart-building systems, spatial development, and real-estate innovation."
+  },
+  {
+    "id": "87163fc8-9e32-4857-8bc6-9979ecde5cd3",
+    "slug": "harvest",
+    "technology_count": 24,
+    "title": "Harvest",
+    "topic_description": "Agricultural systems, food logistics, retail supply chains, and value-chain technologies."
+  },
+  {
+    "id": "d84d202b-0d11-4eb4-878b-5c368a03cc85",
+    "slug": "haul",
+    "technology_count": 49,
+    "title": "Haul",
+    "topic_description": "Warehousing systems, global logistics, autonomous transport, and supply-chain intelligence."
+  },
+  {
+    "id": "280509ad-e0e9-40db-abca-e415e14ae846",
+    "slug": "helix",
+    "technology_count": 56,
+    "title": "Helix",
+    "topic_description": "Biotech platforms, longevity science, bio-engineering tools, and human-performance enhancement."
+  },
+  {
+    "id": "575a8aa3-7b00-40f4-8a94-b8b90147f2d3",
+    "slug": "horizons",
+    "technology_count": 85,
+    "title": "Horizons",
+    "topic_description": "A comprehensive scan tracking signals, trends, readiness levels, and emerging technologies across domains."
+  },
+  {
+    "id": "a7082b8e-3141-4bcf-90b8-7d73587dc71b",
+    "slug": "impulse",
+    "technology_count": 24,
+    "title": "Impulse",
+    "topic_description": "Stimulus-design technologies, psychoactive delivery systems, perception modulation, and behavioral influence mechanisms."
+  },
+  {
+    "id": "87a053e9-847d-425a-93d0-519f0e9587c8",
+    "slug": "interface",
+    "technology_count": 99,
+    "title": "Interface",
+    "topic_description": "Consumer electronics, spatial computing, wearables, and ambient systems shaping how people interact with technology through voice, gesture, vision, and embedded intelligence."
+  },
+  {
+    "id": "3bcb3e84-1ea9-4771-84f5-141ffe653085",
+    "slug": "lattice",
+    "technology_count": 49,
+    "title": "Lattice",
+    "topic_description": "Programmable finance, decentralized trust, digital-economy architectures, and emerging value networks."
+  },
+  {
+    "id": "27da9500-3ded-4fff-b5ef-1f178f64b2b7",
+    "slug": "lexicon",
+    "technology_count": 0,
+    "title": "Lexicon",
+    "topic_description": "A living vocabulary mapping core concepts, definitions, and use cases for AI governance, safety, and deployment."
+  },
+  {
+    "id": "60dbf65f-01ad-44c4-9c6c-9677d7d85c7d",
+    "slug": "liminal",
+    "technology_count": 41,
+    "title": "Liminal",
+    "topic_description": "Spatial computing, immersive systems, sensory overlays, and hybrid presence stacks."
+  },
+  {
+    "id": "b99140ea-0ec8-4cdd-90d7-d39f497cfb6d",
+    "slug": "link",
+    "technology_count": 72,
+    "title": "Link",
+    "topic_description": "Data networks, satellite connectivity, edge infrastructure"
+  },
+  {
+    "id": "3edf251e-3fb7-4e18-aa05-8e6dc009b64b",
+    "slug": "lumen",
+    "technology_count": 45,
+    "title": "Lumen",
+    "topic_description": "Architectural, urban, industrial, and biological lighting technologies shaping perception, energy use, and behavior."
+  },
+  {
+    "id": "1a382d3e-0323-4094-9079-0fec2cf094ca",
+    "slug": "meridian",
+    "technology_count": 44,
+    "title": "Meridian",
+    "topic_description": "Compute infrastructure, telecom networks, space and cyber capabilities, and coordination systems shaping global alignment."
+  },
+  {
+    "id": "2647f46e-75e0-4a9f-9398-ce5d575d398a",
+    "slug": "moradia",
+    "technology_count": 166,
+    "title": "Moradia",
+    "topic_description": "Uma leitura estruturada das pressões que moldam a habitação no Brasil."
+  },
+  {
+    "id": "ad21d8f0-c50e-4823-bcf4-dc4554651beb",
+    "slug": "pixels",
+    "technology_count": 67,
+    "title": "Pixels",
+    "topic_description": "Game engines, interaction systems, creator tools, and virtual-economy infrastructures."
+  },
+  {
+    "id": "c1cb7431-e0cf-4447-a4de-f4338102a681",
+    "slug": "polis",
+    "technology_count": 36,
+    "title": "Polis",
+    "topic_description": "Civic innovation, regulatory technologies, institutional systems, and public-sector infrastructure."
+  },
+  {
+    "id": "834ae2f5-5c5d-4933-a3f3-99f54d3e6775",
+    "slug": "prism",
+    "technology_count": 68,
+    "title": "Prism",
+    "topic_description": "Media technologies, immersive formats, distribution systems, and content-creation tools."
+  },
+  {
+    "id": "57ae4dd7-3d58-4277-9143-c6ff75f0d8d3",
+    "slug": "quadrant",
+    "technology_count": 52,
+    "title": "Quadrant",
+    "topic_description": "Cyber-physical systems, automation intelligence, integrated robotics, and self-optimizing industrial processes."
+  },
+  {
+    "id": "06ea318c-0d60-4132-953a-da0d3306303a",
+    "slug": "sakan",
+    "technology_count": 67,
+    "title": "Sakan",
+    "topic_description": "How the Gulf builds, operates, and connects: technologies, systems, and models shaping urban development across UAE and GCC nations."
+  },
+  {
+    "id": "1ad06997-a78e-4c84-b307-79f7b0c3cab9",
+    "slug": "scaffold",
+    "technology_count": 69,
+    "title": "Scaffold",
+    "topic_description": "Construction companies, capital structures, regulation, labor, and the systems that enable the built environment."
+  },
+  {
+    "id": "da639b11-62d4-49f0-83fb-dfbefab578d1",
+    "slug": "sentinel",
+    "technology_count": 41,
+    "title": "Sentinel",
+    "topic_description": "Authentication technologies, provenance tracking, verification layers, and integrity safeguards."
+  },
+  {
+    "id": "40fe878e-58d4-41f0-b519-4afacec68663",
+    "slug": "solace",
+    "technology_count": 29,
+    "title": "Solace",
+    "topic_description": "Wellbeing technologies, human-centered systems, psychological-safety tools, and compassionate digital experiences."
+  },
+  {
+    "id": "58abdcfc-ef41-4d90-b214-3f35bf0780de",
+    "slug": "soma",
+    "technology_count": 45,
+    "title": "Soma",
+    "topic_description": "Affective systems, identity technologies, generative culture engines, and social-interaction interfaces."
+  },
+  {
+    "id": "e8e23936-847e-4855-a668-24d67cfce243",
+    "slug": "spore",
+    "technology_count": 51,
+    "title": "Spore",
+    "topic_description": "Agricultural innovation, regenerative practices, biological production systems, and future food technologies."
+  },
+  {
+    "id": "c63695fa-26ea-432a-a4ee-4de87d59a8b2",
+    "slug": "stratum",
+    "technology_count": 50,
+    "title": "Stratum",
+    "topic_description": "Mining systems, materials processing, petrochemical technologies, and large-scale industrial infrastructures."
+  },
+  {
+    "id": "6322876a-ade2-434f-842f-a3cc95a92e86",
+    "slug": "stride",
+    "technology_count": 28,
+    "title": "Stride",
+    "topic_description": "Athletic equipment, performance analytics, biomechanics tools, and training technologies."
+  },
+  {
+    "id": "3737e19f-5105-46fe-a202-c3d59e94162f",
+    "slug": "subspace",
+    "technology_count": 129,
+    "title": "Subspace",
+    "topic_description": "Comparative analysis of fictional technologies, real-world scientific progress, readiness frameworks, and speculative innovation."
+  },
+  {
+    "id": "ac0ab9b6-e850-4bdf-ac56-d5988ac494b7",
+    "slug": "substrate",
+    "technology_count": 49,
+    "title": "Substrate",
+    "topic_description": "Energy grids, telecom networks, water infrastructure, and planetary-scale systems."
+  },
+  {
+    "id": "7e609e25-88a4-4db1-b206-3a57bdcb971f",
+    "slug": "superposition",
+    "technology_count": 54,
+    "title": "Superposition",
+    "topic_description": "Quantum technologies, matter-energy interfaces, computational systems, and quantum-information architectures."
+  },
+  {
+    "id": "8815467f-c684-433a-9e5c-fe84164dcf1f",
+    "slug": "synapse",
+    "technology_count": 35,
+    "title": "Synapse",
+    "topic_description": "Enterprise systems, coordination tools, labor-transformation technologies, and productivity architectures."
+  },
+  {
+    "id": "927d3f60-a9c5-414c-8602-d4e995f72b5e",
+    "slug": "vault",
+    "technology_count": 42,
+    "title": "Vault",
+    "topic_description": "Banking infrastructure, capital-market systems, insurance technologies, and financial innovation."
+  },
+  {
+    "id": "cd5908dc-e8be-4866-934c-a23452dbe66f",
+    "slug": "vector",
+    "technology_count": 31,
+    "title": "Vector",
+    "topic_description": "Autonomous mobility, EV infrastructure, multimodal transport, and logistics technologies."
+  },
+  {
+    "id": "2232d60b-6430-4f99-9bc5-d2ce8b042221",
+    "slug": "vitals",
+    "technology_count": 36,
+    "title": "Vitals",
+    "topic_description": "Clinical operations, telehealth platforms, medical infrastructure, and care-delivery technologies."
+  },
+  {
+    "id": "a750f330-5ce3-4582-b73d-55af0411f9d8",
+    "slug": "vortex",
+    "technology_count": 38,
+    "title": "Vortex",
+    "topic_description": "Content-production systems, distribution technologies, interaction formats, and streaming ecosystems."
+  },
+  {
+    "id": "fe20437b-c37d-4bea-97e0-bc178b400220",
+    "slug": "wintermute",
+    "technology_count": 58,
+    "title": "Wintermute",
+    "topic_description": "AI systems, autonomous agents, synthetic cognition, and machine-driven intelligence architectures."
+  },
+  {
+    "id": "e86b2f2a-ffe8-473f-8912-38d596e16358",
+    "slug": "wonen",
+    "technology_count": 93,
+    "title": "Wonen",
+    "topic_description": "Barriers, governance, and solutions: signals shaping housing and real-estate development across Netherlands, Belgium, and Luxembourg."
+  },
+  {
+    "id": "cee358b5-515e-4dc3-8559-1d0ee6a19bce",
+    "slug": "xenotech",
+    "technology_count": 177,
+    "title": "Xenotech",
+    "topic_description": "Frontier technologies, suppressed science claims, anomalous engineering, and speculative innovation domains."
+  }
+]
