@@ -148,7 +148,7 @@ If you want to run the same publishing pipeline for your own CMS/database:
 2. Install dependencies:
 
 ```bash
-python -m pip install -r scripts/requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 3. Set environment variables:
