@@ -29,6 +29,8 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          NEXT_PUBLIC_SUPABASE_URL_CMS: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL_CMS }}
+          NEXT_PUBLIC_SUPABASE_ANON_KEY_CMS: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY_CMS }}
         run: python scripts/sync.py --full
 
       - name: Commit and push changes
