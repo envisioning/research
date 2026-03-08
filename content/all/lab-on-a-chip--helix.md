@@ -8,7 +8,6 @@ collection: hardware
 trl: 7
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/helix/technologies/lab-on-a-chip-placeholder.jpg
 ---
 
 # Lab-on-a-Chip

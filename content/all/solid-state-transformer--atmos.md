@@ -8,7 +8,6 @@ collection: hardware
 trl: 5
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/atmos/technologies/solid-state-transformer-placeholder.jpg
 ---
 
 # Solid-State Transformer

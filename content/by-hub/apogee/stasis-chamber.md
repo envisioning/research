@@ -4,11 +4,10 @@ hub: apogee
 title: Stasis Chamber
 summary: Induced torpor for interplanetary and interstellar space travel.
 permalink: https://www.envisioning.com/apogee/stasis-chamber
-collection: foundations
+collection: applications
 trl: 4
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/apogee/technologies/stasis-chamber-placeholder.jpg
 ---
 
 # Stasis Chamber

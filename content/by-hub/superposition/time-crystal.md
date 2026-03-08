@@ -4,11 +4,10 @@ hub: superposition
 title: Time Crystal
 summary: Quantum systems with persistent periodic behavior; research for stable qubits.
 permalink: https://www.envisioning.com/superposition/time-crystal
-collection: foundations
+collection: applications
 trl: 4
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/superposition/technologies/time-crystal-placeholder.jpg
 ---
 
 # Time Crystal

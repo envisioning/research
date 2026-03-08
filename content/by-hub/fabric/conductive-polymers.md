@@ -8,7 +8,6 @@ collection: materials
 trl: 5
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/fabric/technologies/conductive-polymers-placeholder.jpg
 ---
 
 # Conductive Polymers

@@ -4,11 +4,10 @@ hub: helix
 title: Head Transplant
 summary: Surgical transfer of head onto donor body; animal experiments including 2-headed result.
 permalink: https://www.envisioning.com/helix/head-transplant
-collection: foundations
+collection: applications
 trl: 2
 impact: 5
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/helix/technologies/head-transplant-placeholder.jpg
 ---
 
 # Head Transplant

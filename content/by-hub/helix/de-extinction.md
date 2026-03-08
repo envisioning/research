@@ -4,11 +4,10 @@ hub: helix
 title: De-Extinction
 summary: Revival of extinct species via genetic engineering and cloning.
 permalink: https://www.envisioning.com/helix/de-extinction
-collection: foundations
+collection: applications
 trl: 4
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/helix/technologies/de-extinction-placeholder.jpg
 ---
 
 # De-Extinction

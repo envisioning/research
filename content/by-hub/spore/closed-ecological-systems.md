@@ -4,11 +4,10 @@ hub: spore
 title: Closed Ecological Systems
 summary: Self-sustaining biospheres for research, agriculture, and long-duration habitation.
 permalink: https://www.envisioning.com/spore/closed-ecological-systems
-collection: foundations
+collection: applications
 trl: 4
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/spore/technologies/closed-ecological-systems-placeholder.jpg
 ---
 
 # Closed Ecological Systems

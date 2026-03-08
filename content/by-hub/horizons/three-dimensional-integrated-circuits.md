@@ -8,7 +8,6 @@ collection: hardware
 trl: 7
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/horizons/technologies/3d-integrated-circuits-placeholder.jpg
 ---
 
 # Three-Dimensional Integrated Circuits

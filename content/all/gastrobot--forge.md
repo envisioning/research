@@ -8,7 +8,6 @@ collection: hardware
 trl: 5
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/forge/technologies/gastrobot-placeholder.jpg
 ---
 
 # Gastrobot

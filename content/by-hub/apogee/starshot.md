@@ -4,11 +4,10 @@ hub: apogee
 title: Starshot
 summary: Breakthrough Starshot; uncrewed interstellar probes via laser-driven sails.
 permalink: https://www.envisioning.com/apogee/starshot
-collection: foundations
+collection: applications
 trl: 2
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/apogee/technologies/starshot-placeholder.jpg
 ---
 
 # Starshot

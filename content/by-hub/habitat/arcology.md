@@ -4,11 +4,10 @@ hub: habitat
 title: Arcology
 summary: Hyper-dense, self-contained urban megastructures combining architecture and ecology.
 permalink: https://www.envisioning.com/habitat/arcology
-collection: foundations
+collection: applications
 trl: 3
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/habitat/technologies/arcology-placeholder.jpg
 ---
 
 # Arcology

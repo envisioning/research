@@ -4,11 +4,10 @@ hub: wintermute
 title: Artificial General Intelligence
 summary: Hypothetical AI matching or exceeding human cognitive breadth.
 permalink: https://www.envisioning.com/wintermute/artificial-general-intelligence
-collection: foundations
+collection: applications
 trl: 2
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/wintermute/technologies/agi-placeholder.jpg
 ---
 
 # Artificial General Intelligence

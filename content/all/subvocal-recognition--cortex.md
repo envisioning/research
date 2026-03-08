@@ -4,11 +4,10 @@ hub: cortex
 title: Subvocal Recognition
 summary: Detecting speech from neuromuscular signals without audible output.
 permalink: https://www.envisioning.com/cortex/subvocal-recognition
-collection: foundations
+collection: applications
 trl: 5
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/cortex/technologies/subvocal-recognition-placeholder.jpg
 ---
 
 # Subvocal Recognition

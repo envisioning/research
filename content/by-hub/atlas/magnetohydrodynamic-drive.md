@@ -8,7 +8,6 @@ collection: hardware
 trl: 4
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/atlas/technologies/mhd-drive-placeholder.jpg
 ---
 
 # Magnetohydrodynamic Drive

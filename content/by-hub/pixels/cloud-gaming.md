@@ -8,7 +8,6 @@ collection: applications
 trl: 8
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/pixels/technologies/cloud-gaming-placeholder.jpg
 ---
 
 # Cloud Gaming

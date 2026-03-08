@@ -4,11 +4,10 @@ hub: atmos
 title: Space-Based Solar Power
 summary: Orbital solar arrays beaming power to Earth via microwaves or lasers.
 permalink: https://www.envisioning.com/atmos/space-based-solar-power
-collection: foundations
+collection: applications
 trl: 2
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/atmos/technologies/sbsp-placeholder.jpg
 ---
 
 # Space-Based Solar Power

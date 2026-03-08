@@ -8,7 +8,6 @@ collection: applications
 trl: 5
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/spore/technologies/agricultural-robotics-placeholder.jpg
 ---
 
 # Agricultural Robotics

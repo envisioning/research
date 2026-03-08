@@ -8,7 +8,6 @@ collection: hardware
 trl: 4
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/horizons/technologies/nems-placeholder.jpg
 ---
 
 # Nanoelectromechanical Systems (NEMS)

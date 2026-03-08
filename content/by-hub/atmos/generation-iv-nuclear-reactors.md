@@ -4,11 +4,10 @@ hub: atmos
 title: Generation IV Nuclear Reactors
 summary: Advanced reactor designs—fast, molten salt, etc.—for electricity and waste transmutation.
 permalink: https://www.envisioning.com/atmos/generation-iv-nuclear-reactors
-collection: foundations
+collection: applications
 trl: 4
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/atmos/technologies/gen4-nuclear-placeholder.jpg
 ---
 
 # Generation IV Nuclear Reactors

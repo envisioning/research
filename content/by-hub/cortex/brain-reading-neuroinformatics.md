@@ -4,11 +4,10 @@ hub: cortex
 title: Brain-Reading / Neuroinformatics
 summary: Decoding neural activity for brain-state inference and brain-computer interfaces.
 permalink: https://www.envisioning.com/cortex/brain-reading-neuroinformatics
-collection: foundations
+collection: applications
 trl: 5
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/cortex/technologies/brain-reading-placeholder.jpg
 ---
 
 # Brain-Reading / Neuroinformatics

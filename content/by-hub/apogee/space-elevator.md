@@ -4,11 +4,10 @@ hub: apogee
 title: Space Elevator
 summary: Non-rocket spacelaunch via tether to geostationary orbit; research.
 permalink: https://www.envisioning.com/apogee/space-elevator
-collection: foundations
+collection: applications
 trl: 2
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/apogee/technologies/space-elevator-placeholder.jpg
 ---
 
 # Space Elevator

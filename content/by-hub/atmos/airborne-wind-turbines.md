@@ -8,7 +8,6 @@ collection: applications
 trl: 4
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/atmos/technologies/airborne-wind-placeholder.jpg
 ---
 
 # Airborne Wind Turbines

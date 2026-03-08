@@ -8,7 +8,6 @@ collection: materials
 trl: 4
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/fabric/technologies/multi-function-structures-placeholder.jpg
 ---
 
 # Multi-Function Structures

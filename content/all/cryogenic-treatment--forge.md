@@ -8,7 +8,6 @@ collection: materials
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/forge/technologies/cryogenic-treatment-placeholder.jpg
 ---
 
 # Cryogenic Treatment

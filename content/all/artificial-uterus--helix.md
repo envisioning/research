@@ -4,11 +4,10 @@ hub: helix
 title: Artificial Uterus
 summary: Extracorporeal gestation for space travel, reprogenetics, and medical support.
 permalink: https://www.envisioning.com/helix/artificial-uterus
-collection: foundations
+collection: applications
 trl: 4
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/helix/technologies/artificial-uterus-placeholder.jpg
 ---
 
 # Artificial Uterus

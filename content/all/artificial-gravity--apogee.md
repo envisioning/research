@@ -4,11 +4,10 @@ hub: apogee
 title: Artificial Gravity
 summary: Simulated gravity via rotation for space travel; spin gravity.
 permalink: https://www.envisioning.com/apogee/artificial-gravity
-collection: foundations
+collection: applications
 trl: 5
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/apogee/technologies/artificial-gravity-placeholder.jpg
 ---
 
 # Artificial Gravity

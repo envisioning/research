@@ -8,7 +8,6 @@ collection: materials
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/habitat/technologies/translucent-concrete-placeholder.jpg
 ---
 
 # Translucent Concrete

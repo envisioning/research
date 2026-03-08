@@ -8,7 +8,6 @@ collection: hardware
 trl: 8
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/atlas/technologies/maglev-placeholder.jpg
 ---
 
 # Maglev Train

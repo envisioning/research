@@ -4,11 +4,10 @@ hub: haul
 title: Physical Internet
 summary: Open, modular logistics network analogous to digital Internet; research.
 permalink: https://www.envisioning.com/haul/physical-internet
-collection: foundations
+collection: applications
 trl: 3
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/haul/technologies/physical-internet-placeholder.jpg
 ---
 
 # Physical Internet

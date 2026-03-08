@@ -4,11 +4,10 @@ hub: habitat
 title: Earthscraper
 summary: Inverted skyscrapers built downward into the ground; demonstrated in Mexico City concept.
 permalink: https://www.envisioning.com/habitat/earthscraper
-collection: foundations
+collection: applications
 trl: 3
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/habitat/technologies/earthscraper-placeholder.jpg
 ---
 
 # Earthscraper

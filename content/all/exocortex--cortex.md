@@ -4,11 +4,10 @@ hub: cortex
 title: Exocortex
 summary: External cognitive augmentation—hardware and software extending mental capacity.
 permalink: https://www.envisioning.com/cortex/exocortex
-collection: foundations
+collection: applications
 trl: 5
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/cortex/technologies/exocortex-placeholder.jpg
 ---
 
 # Exocortex

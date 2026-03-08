@@ -4,11 +4,10 @@ hub: cortex
 title: Wetware Computer
 summary: Computing using biological neural tissue.
 permalink: https://www.envisioning.com/cortex/wetware-computer
-collection: foundations
+collection: applications
 trl: 3
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/cortex/technologies/wetware-computer-placeholder.jpg
 ---
 
 # Wetware Computer

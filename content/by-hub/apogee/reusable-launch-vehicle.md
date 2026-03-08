@@ -8,7 +8,6 @@ collection: hardware
 trl: 9
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/apogee/technologies/reusable-launch-placeholder.jpg
 ---
 
 # Reusable Launch Vehicle

@@ -8,7 +8,6 @@ collection: applications
 trl: 6
 impact: 4
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/interface/technologies/cashierless-stores-placeholder.jpg
 ---
 
 # Cashierless Stores

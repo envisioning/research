@@ -8,7 +8,6 @@ collection: applications
 trl: 8
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/vortex/technologies/4d-film-placeholder.jpg
 ---
 
 # 4D Film

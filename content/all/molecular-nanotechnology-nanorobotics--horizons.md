@@ -4,11 +4,10 @@ hub: horizons
 title: Molecular Nanotechnology / Nanorobotics
 summary: Hypothetical machines that manipulate matter at molecular scale.
 permalink: https://www.envisioning.com/horizons/molecular-nanotechnology-nanorobotics
-collection: foundations
+collection: applications
 trl: 2
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/horizons/technologies/nanorobotics-placeholder.jpg
 ---
 
 # Molecular Nanotechnology / Nanorobotics

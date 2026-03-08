@@ -8,7 +8,6 @@ collection: hardware
 trl: 2
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/apogee/technologies/fusion-rocket-placeholder.jpg
 ---
 
 # Fusion Rocket

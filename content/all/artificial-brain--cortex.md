@@ -4,11 +4,10 @@ hub: cortex
 title: Artificial Brain
 summary: Computational models of brain structure and function.
 permalink: https://www.envisioning.com/cortex/artificial-brain
-collection: foundations
+collection: applications
 trl: 4
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764200000/cortex/technologies/artificial-brain-placeholder.jpg
 ---
 
 # Artificial Brain
