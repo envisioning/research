@@ -71,9 +71,13 @@ class SyncTests(unittest.TestCase):
             "sources": [{"technology_id": "uuid-1", "url": "https://legacy.example", "title": "Legacy", "position": 0}],
             "technology_tags": [], "tags": [], "research_metrics": [],
             "links": {"technology_evidence": [
-                {"id": "e2", "technology_id": "uuid-1", "url": "https://old.example", "title": "Old", "year": 2019},
-                {"id": "e1", "technology_id": "uuid-1", "url": "https://new.example", "title": "New", "year": 2025},
+                {"id": "e2", "technology_id": "uuid-1", "url": "https://old.example", "title": "Old", "year": 2019,
+                 "support_strength": 0.5},
+                {"id": "e1", "technology_id": "uuid-1", "url": "https://new.example", "title": "New", "year": 2025,
+                 "support_strength": 1},
                 {"id": "e3", "technology_id": "uuid-1", "url": None, "title": "No link", "year": 2026},
+                {"id": "e4", "technology_id": "uuid-1", "url": "https://dead.example", "title": "Dead",
+                 "year": 2024, "support_strength": 0},
             ]},
         }
         techs, _ = sync.build_enriched(data)

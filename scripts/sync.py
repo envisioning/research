@@ -338,7 +338,9 @@ def build_enriched(data: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dic
                 rows,
                 key=lambda r: (-(r.get("year") or 0), str(r.get("title") or ""), str(r.get("id"))),
             )
-            if row.get("url")
+            # A retired source (support_strength 0) stays in the JSONL record
+            # but leaves the public Sources list.
+            if row.get("url") and float(row.get("support_strength") or 0) > 0
         ]
 
     tag_by_row_id = {str(t["id"]): t for t in data.get("tags", [])}
