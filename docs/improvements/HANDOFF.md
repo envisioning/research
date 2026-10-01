@@ -20,7 +20,7 @@ Supabase is the source of truth. Data flows one way: **CMS → app** and **CMS �
 3. **CMS writes use preview → review → apply.** Run every enrichment or rewrite script in preview mode, write the review JSON, get it approved, then `--apply`. Nothing is published automatically.
 4. **Before any bulk CMS update**, export the affected rows (`select * from technologies where research_id = ...`) into a dated file under the scratchpad or `logs/`, so the change can be reverted.
 5. **This repo is public.** Never commit secrets, credential names, internal URLs or infrastructure details here. Keep those in research-app.
-6. **Work through PRs.** One PR per issue or tightly related group. Reference the issue (`Fixes #N`). Keep `python -m unittest scripts.test_sync` green.
+6. **Work in `main`.** The maintainer decided on 2026-10-01: commit to `main`, one commit per issue or tightly related group, and reference the issue (`Fixes #N`). If you open a PR, merge it yourself after `validate.yml` passes. Keep `python -m unittest scripts.test_sync` green.
 7. **Don't widen scope.** If you find something new, file an issue; don't fold it into the current PR.
 
 ## Access you need
@@ -50,8 +50,8 @@ Status key: ☐ todo · 🧑 needs a human decision before continuing.
 | # | Task | Issue | Done when |
 |---|---|---|---|
 | 1.1 | `--max-delete-ratio` and `--summary-file` in `sync.py`, with tests | research#6 | tests green |
-| 1.2 | `sync.yml` opens a PR instead of pushing; failure opens a "Sync failing" issue | research#6 | one scheduled run observed producing a PR or no-op |
-| 1.3 | `validate.yml` on pull_request: unit tests + `audit.py --strict` | research#6 | runs on a PR |
+| 1.2 | `sync.yml` pushes to `main` only after the delete guard and `audit.py --strict` pass; failure opens a "Sync failing" issue | research#6 | one run observed producing a commit or no-op |
+| 1.3 | `validate.yml` on push to `main` and on pull_request: unit tests + `audit.py --strict` | research#6 | runs on a push |
 | 1.4 | Re-enable the schedule | research#3 | workflow enabled |
 
 ### Phase 2: correct data

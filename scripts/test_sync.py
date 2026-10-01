@@ -92,6 +92,39 @@ class SyncTests(unittest.TestCase):
             self.assertEqual(stats["deleted"], 1)
             self.assertFalse(stale.exists())
 
+    def test_delete_ratio(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            kept = [Path(tmp) / f"kept-{i}.md" for i in range(9)]
+            stale = Path(tmp) / "stale.md"
+            for p in [*kept, stale]:
+                p.write_text("x\n", encoding="utf-8")
+            new = Path(tmp) / "new.md"
+
+            self.assertAlmostEqual(sync.delete_ratio({*kept, new}, {stale}), 0.1)
+            self.assertEqual(sync.delete_ratio({new}, set()), 0.0)
+
+    def test_planned_hub_stale_matches_slug_hub_names(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            all_dir = Path(tmp) / "all"
+            by_hub_dir = Path(tmp) / "by-hub"
+            (by_hub_dir / "lattice").mkdir(parents=True)
+            all_dir.mkdir()
+            keep = all_dir / "orbital-lattice--lattice.md"
+            gone = all_dir / "old-entry--lattice.md"
+            other = all_dir / "old-entry--grid.md"
+            gone_by_hub = by_hub_dir / "lattice" / "old-entry.md"
+            for p in (keep, gone, other, gone_by_hub):
+                p.write_text("x\n", encoding="utf-8")
+
+            orig = sync.CONTENT_ALL_DIR, sync.CONTENT_BY_HUB_DIR
+            sync.CONTENT_ALL_DIR, sync.CONTENT_BY_HUB_DIR = all_dir, by_hub_dir
+            try:
+                stale = sync.planned_hub_stale("lattice", {keep})
+            finally:
+                sync.CONTENT_ALL_DIR, sync.CONTENT_BY_HUB_DIR = orig
+
+            self.assertEqual(stale, {gone, gone_by_hub})
+
 
 if __name__ == "__main__":
     unittest.main()

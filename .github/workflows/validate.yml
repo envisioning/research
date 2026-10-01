@@ -1,0 +1,31 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Unit tests
+        run: python -m unittest scripts.test_sync
+
+      # score_fields_labelled stays ignored until the schema-v2 export (docs/improvements/03-schema-v2.md).
+      - name: Audit
+        run: python scripts/audit.py --strict --ignore score_fields_labelled

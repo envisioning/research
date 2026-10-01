@@ -8,6 +8,7 @@ Usage:
     python scripts/audit.py              # human-readable report
     python scripts/audit.py --json       # machine-readable report
     python scripts/audit.py --strict     # exit 1 if any blocking check fails
+    python scripts/audit.py --strict --ignore score_fields_labelled
 """
 
 from __future__ import annotations
@@ -219,15 +220,21 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Audit the published research dataset")
     parser.add_argument("--json", action="store_true", help="Print the full report as JSON")
     parser.add_argument("--strict", action="store_true", help="Exit 1 if any blocking check fails")
+    parser.add_argument(
+        "--ignore", action="append", default=[], metavar="CHECK", help="Do not let this check fail --strict"
+    )
     args = parser.parse_args()
 
     report = audit()
+    unknown = set(args.ignore) - set(report["checks"])
+    if unknown:
+        parser.error(f"unknown check: {', '.join(sorted(unknown))}")
     if args.json:
         print(json.dumps(report, indent=2, ensure_ascii=False))
     else:
         print_report(report)
 
-    failed = [n for n, c in report["checks"].items() if c["blocking"] and not c["ok"]]
+    failed = [n for n, c in report["checks"].items() if c["blocking"] and not c["ok"] and n not in args.ignore]
     return 1 if args.strict and failed else 0
 
 

@@ -176,6 +176,8 @@ python scripts/sync.py --hub synapse
 python scripts/sync.py --full --dry-run
 ```
 
+The sync refuses to run when it would delete more than 2% of the existing files. It lists the files and writes nothing. To allow a larger deletion on purpose, pass `--max-delete-ratio` (for example `--max-delete-ratio 0.1`).
+
 
 ## Maintenance
 

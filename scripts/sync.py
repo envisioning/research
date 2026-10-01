@@ -16,6 +16,7 @@ import argparse
 import json
 import os
 import re
+import sys
 from urllib.parse import quote
 from collections import defaultdict
 from dataclasses import dataclass
@@ -509,7 +510,7 @@ def planned_full_stale(expected_paths: set[Path]) -> set[Path]:
 
 
 def planned_hub_stale(hub_slug: str, expected_paths: set[Path]) -> set[Path]:
-    stale = set(CONTENT_ALL_DIR.glob(f"{hub_slug}--*.md"))
+    stale = set(CONTENT_ALL_DIR.glob(f"*--{hub_slug}.md"))
     hub_dir = CONTENT_BY_HUB_DIR / hub_slug
     if hub_dir.exists():
         stale |= {p for p in hub_dir.glob("*.md") if p.is_file()}
@@ -590,7 +591,19 @@ def parse_args() -> argparse.Namespace:
     mode.add_argument("--full", action="store_true", help="Sync all hubs and rebuild global indexes")
     mode.add_argument("--hub", type=str, help="Sync only one hub slug")
     parser.add_argument("--dry-run", action="store_true", help="Show changes without writing files")
+    parser.add_argument(
+        "--max-delete-ratio",
+        type=float,
+        default=0.02,
+        help="Stop without writing if more than this share of existing files would be deleted (default 0.02)",
+    )
+    parser.add_argument("--summary-file", type=Path, help="Also write the JSON summary to this path")
     return parser.parse_args()
+
+
+def delete_ratio(expected_paths: set[Path], stale_files: set[Path]) -> float:
+    existing = sum(1 for p in expected_paths if p.exists()) + len(stale_files)
+    return len(stale_files) / existing if existing else 0.0
 
 
 def main() -> int:
@@ -619,9 +632,19 @@ def main() -> int:
         assert args.hub is not None
         stale_files = planned_hub_stale(args.hub, expected_paths)
 
+    ratio = delete_ratio(expected_paths, stale_files)
+    if ratio > args.max_delete_ratio:
+        listing = "\n".join(f"  {p.relative_to(REPO_ROOT)}" for p in sorted(stale_files, key=str))
+        print(
+            f"Refusing to delete {len(stale_files)} files ({ratio:.1%} of existing, "
+            f"limit {args.max_delete_ratio:.1%}). Nothing was written.\n{listing}",
+            file=sys.stderr,
+        )
+        return 2
+
     stats = apply_file_updates(expected_files, stale_files, dry_run=args.dry_run)
 
-    print(json.dumps({
+    summary = json.dumps({
         "mode": mode,
         "hub": args.hub,
         "dry_run": args.dry_run,
@@ -629,7 +652,10 @@ def main() -> int:
         "hub_count": len(hubs),
         "technology_count": len(techs),
         **stats,
-    }, indent=2))
+    }, indent=2)
+    print(summary)
+    if args.summary_file:
+        args.summary_file.write_text(summary + "\n", encoding="utf-8")
 
     return 0
 
