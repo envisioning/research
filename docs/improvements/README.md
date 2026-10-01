@@ -2,6 +2,8 @@
 
 How the Envisioning research data is produced, where it is broken today, and the order in which to fix it. Each step has a runbook in this folder and a tracking issue.
 
+Agent handoff: [`HANDOFF.md`](HANDOFF.md).
+
 ## How the system works
 
 ```
