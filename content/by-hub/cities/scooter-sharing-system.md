@@ -8,7 +8,7 @@ permalink: https://www.envisioning.com/cities/scooter-sharing-system
 collection: applications
 trl: 9
 impact: 5
-investment: 5
+investment: 3
 image_url: null
 ---
 
