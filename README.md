@@ -177,6 +177,10 @@ python scripts/sync.py --full --dry-run
 ```
 
 
+## Maintenance
+
+Run `python scripts/audit.py` to check the published files for consistency and data-quality problems (no credentials needed). The improvement plan and runbooks are in [`docs/improvements/`](docs/improvements/README.md).
+
 ## Contributing
 
 Issues and pull requests are welcome for:

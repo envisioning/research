@@ -27,7 +27,22 @@ CONTENT_ALL_DIR = REPO_ROOT / "content" / "all"
 CONTENT_BY_HUB_DIR = REPO_ROOT / "content" / "by-hub"
 INDEXES_DIR = REPO_ROOT / "indexes"
 
-SCORE_RANGES = {"trl": (1, 9), "impact": (1, 5), "investment": (1, 5)}
+SCORE_FIELDS = ("trl", "impact", "investment")  # exported names for metric1/2/3
+DEFAULT_METRICS = (("Technology Readiness Level", 9), ("Impact", 5), ("Investment", 5))
+# Hubs whose metric1/2/3 are not TRL/impact/investment, from each hub's
+# research_metrics.metrics_config in the CMS. None means the hub has no such metric.
+# Remove once indexes/hubs.json exports metrics_config.
+HUB_METRICS = {
+    "agape": (("Maturity Ring", 4), ("Systemic Leverage", 4), ("Ethical Tension", 4)),
+    "cities": (("Technology Readiness Level", 9), ("Diffusion of Innovation", 5), ("Technology Life Cycle", 4)),
+    "datatrends": (("Innovation Stage", 6), ("Implementation Complexity", 3), ("Urgency for Competitiveness", 3)),
+    "interface": (("Technology Readiness Level", 9), ("Frequency at CES 2026", 5), None),
+    "moradia": (("Grau de Adoção", 5), ("Escala de Inclusividade", 5), ("Fricção Operacional e Cultural", 5)),
+    "sakan": (("Market Maturity", 5), ("Regional Readiness", 5), ("Investment Intensity", 5)),
+    "subspace": (("Technology Readiness Level", 9), ("Prominence", 5), ("Scientific Basis", 3)),
+    "wonen": (("Regulatory Complexity", 5), ("Community Acceptance", 5), ("Social Value Generation", 5)),
+    "xenotech": (("Citation Frequency", 5), ("Plausibility Score", 5), ("Technology Readiness Level", 9)),
+}
 FILLER_PHRASES = ["unprecedented", "seamless", "paradigm shift", "revolutioniz", "cutting-edge"]
 MIN_HUB_SIZE = 40
 
@@ -79,14 +94,26 @@ def audit() -> dict[str, Any]:
     score_missing: dict[str, list[str]] = defaultdict(list)
     score_out_of_range: list[dict[str, Any]] = []
     for e in entries:
-        for field, (lo, hi) in SCORE_RANGES.items():
+        metrics = HUB_METRICS.get(e["hub"], DEFAULT_METRICS)
+        for field, metric in zip(SCORE_FIELDS, metrics):
+            if metric is None:
+                continue
             value = e.get(field)
             if value is None:
                 score_missing[field].append(e["_path"])
-            elif not lo <= value <= hi:
-                score_out_of_range.append({"path": e["_path"], "field": field, "value": value})
+            elif not 1 <= value <= metric[1]:
+                score_out_of_range.append({"path": e["_path"], "field": field, "metric": metric[0], "value": value})
 
-    impact = Counter(e.get("impact") for e in entries if e.get("impact") is not None)
+    mislabelled = {
+        hub: {f: (m[0] if m else None) for f, m in zip(SCORE_FIELDS, metrics)}
+        for hub, metrics in sorted(HUB_METRICS.items())
+        if hub in hub_sizes and metrics != DEFAULT_METRICS
+    }
+
+    # Impact skew is only meaningful where metric2 really is impact.
+    impact = Counter(
+        e.get("impact") for e in entries if e["hub"] not in HUB_METRICS and e.get("impact") is not None
+    )
     impact_total = sum(impact.values()) or 1
 
     slug_hubs: dict[str, list[str]] = defaultdict(list)
@@ -121,6 +148,13 @@ def audit() -> dict[str, Any]:
         },
         "hub_counts_current": {"blocking": True, "ok": not stale_hub_counts, "stale": stale_hub_counts},
         "scores_in_range": {"blocking": True, "ok": not score_out_of_range, "out_of_range": score_out_of_range},
+        "score_fields_labelled": {
+            "blocking": True,
+            "ok": not mislabelled,
+            "hubs": len(mislabelled),
+            "entries": sum(hub_sizes[h] for h in mislabelled),
+            "actual_metrics": mislabelled,
+        },
         # Non-blocking: data-quality work items.
         "scores_present": {
             "blocking": False,
