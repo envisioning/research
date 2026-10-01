@@ -24,8 +24,8 @@ Run `python scripts/audit.py` for live numbers.
 |---|---|
 | Export | Every scheduled sync has failed since 2026-03-01; the schedule is now off |
 | Consistency | 115 files missing from the index, 32 orphan by-hub files, 4 diverged copies, 22 stale hub counts |
-| Metrics | `trl/impact/investment` labels are wrong for 9 hubs (986 entries) |
-| Scores | interface metric2 empty; 15 moradia entries unscored; 89% of entries have impact 4–5 |
+| Metrics | `trl/impact/investment` labels are wrong for 8 hubs (885 entries) |
+| Scores | interface impact/investment all 3 (likely a bulk default); 15 moradia entries unscored; 89% of entries have impact 4–5 |
 | Content | no sources or dates published; 99 technologies written separately in several hubs; 254 entries without images |
 | SEO | per-hub sitemaps switched off in the app; canonical tags and structured data not checked |
 

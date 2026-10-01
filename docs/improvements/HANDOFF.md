@@ -77,7 +77,7 @@ Status key: ☐ todo · 🧑 needs a human decision before continuing.
 | # | Task | Issue | Done when |
 |---|---|---|---|
 | 4.1 | Fix the cities out-of-range value; check metrics on all importer-inserted rows | app#7 | `scores_in_range` passes |
-| 4.2 | 🧑 interface metric2: fill or remove? moradia ×15: score or unpublish? | app#7 | `scores_present` passes or exceptions documented |
+| 4.2 | 🧑 interface impact/investment all 3: score or accept? moradia ×15: score or unpublish? | app#7 | `scores_present` passes or exceptions documented |
 | 4.3 | Database check that scores stay within each hub's scale | app#7 | migration merged |
 | 4.4 | Images for the 254 entries that lack one (`regenerate-hub-images.ts --missing-only`) | research#9 | `images_present` passes |
 | 4.5 | Impact re-calibration, one default-metrics hub per batch | research#9 | share of 4–5 ≤ 50% |

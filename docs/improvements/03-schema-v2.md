@@ -19,7 +19,7 @@ Add a test in `scripts/test_sync.py` for each of these.
 
 ## Step 2: hub-specific metrics (breaking change, so version it)
 
-Today `metric1/2/3` are exported as `trl/impact/investment` for every hub. In 9 hubs they mean something else (see #5 and `HUB_METRICS` in `scripts/audit.py`).
+Today `metric1/2/3` are exported as `trl/impact/investment` for every hub. In 8 hubs they mean something else (see #5 and `HUB_METRICS` in `scripts/audit.py`).
 
 v2 frontmatter:
 

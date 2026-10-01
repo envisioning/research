@@ -7,9 +7,9 @@ All fixes happen in the CMS using the app repo's preview → review JSON → `--
 ## Missing and invalid scores
 | Item | Action |
 |---|---|
-| interface metric2 (CES frequency) empty × 99 | score it, or remove metric2 from interface `metrics_config` |
+| interface: the 99 entries that had no impact or investment in March now all have impact = 3 and investment = 3 (the hub uses the standard TRL / Impact / Investment scales) | a uniform 3 looks like a bulk default: score them, or accept and document it |
 | moradia × 15 unscored | score against `metrics_config` definitions, or unpublish |
-| cities `scooter-sharing-system` metric3 = 5 (scale 1–4) | correct it; then check all importer-inserted rows |
+| ~~cities `scooter-sharing-system` metric3 = 5 (scale 1–4)~~ | done 2026-10-01: set to 3 (Maturity). The other 114 importer-inserted rows are in range (app#3) |
 | prevent recurrence | database check: value ≤ max `definitions.value` for the hub's metric |
 
 ## Impact calibration

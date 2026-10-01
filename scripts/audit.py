@@ -37,7 +37,6 @@ HUB_METRICS = {
     "agape": (("Maturity Ring", 4), ("Systemic Leverage", 4), ("Ethical Tension", 4)),
     "cities": (("Technology Readiness Level", 9), ("Diffusion of Innovation", 5), ("Technology Life Cycle", 4)),
     "datatrends": (("Innovation Stage", 6), ("Implementation Complexity", 3), ("Urgency for Competitiveness", 3)),
-    "interface": (("Technology Readiness Level", 9), ("Frequency at CES 2026", 5), None),
     "moradia": (("Grau de Adoção", 5), ("Escala de Inclusividade", 5), ("Fricção Operacional e Cultural", 5)),
     "sakan": (("Market Maturity", 5), ("Regional Readiness", 5), ("Investment Intensity", 5)),
     "subspace": (("Technology Readiness Level", 9), ("Prominence", 5), ("Scientific Basis", 3)),
