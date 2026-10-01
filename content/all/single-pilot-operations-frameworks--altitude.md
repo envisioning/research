@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649463/altitude/technologies/single-pilot-operations-frameworks-google-gemini-3-pro-image-preview-r6mqpx.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Single-Pilot Operations (SPO) Frameworks

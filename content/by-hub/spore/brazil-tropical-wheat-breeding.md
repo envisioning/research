@@ -10,6 +10,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793123/spore/technologies/6ba9e287-9461-4d04-a4b3-7ece0cb365c7-google-gemini-3.1-flash-image-preview-mntmdh.jpg
+updated_at: '2026-09-28T17:17:02.772911+00:00'
+last_reviewed: null
 ---
 
 # Tropical Wheat Breeding
@@ -25,3 +27,9 @@ Wheat traditionally requires cool, temperate climates. EMBRAPA has spent 40 year
 The cerrado already produces roughly 10% of Brazil's wheat as a safrinha crop after soybeans. The goal is to expand this dramatically: if even a fraction of the cerrado's 200 million hectares grows wheat, Brazil could shift from importing 7 million tons annually to self-sufficiency.
 
 The geopolitical dimension is significant. Brazil's wheat imports come primarily from Argentina, the US, and Canada. Achieving wheat self-sufficiency would eliminate a major food security dependency and complete the cerrado transformation story — from infertile savanna to full-spectrum grain producer.
+
+## Sources
+
+- [https://www.czapp.com/analyst-insights/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/](https://www.czapp.com/analyst-insights/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/)
+- [https://www.world-grain.com/articles/20184-brazil-seeks-wheat-self-sufficiency](https://www.world-grain.com/articles/20184-brazil-seeks-wheat-self-sufficiency)
+- [https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Brazil's+'Tropical+Wheat'+-+Paving+the+way+to+self-sufficiency_Brasilia_Brazil_BR2024-0017](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Brazil's+'Tropical+Wheat'+-+Paving+the+way+to+self-sufficiency_Brasilia_Brazil_BR2024-0017)

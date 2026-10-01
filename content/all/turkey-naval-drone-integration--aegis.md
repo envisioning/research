@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856211/aegis/technologies/c16b104c-d303-43d8-a129-f47e1503066f-google-gemini-3.1-flash-image-preview-4tpyv7.jpg
+updated_at: '2026-09-28T17:16:38.702822+00:00'
+last_reviewed: null
 ---
 
 # Naval Drone Operations Ecosystem
@@ -26,3 +28,7 @@ Turkey is developing a comprehensive naval drone operations ecosystem centered o
 The integration of drone operations with Turkey's growing fleet of indigenous warships — Ada corvettes, Istanbul frigates, and the planned TF-2000 destroyers — creates a networked naval force where surface vessels and unmanned aircraft share targeting data and coordinate strikes. The MILGEM combat management systems developed by HAVELSAN provide the C2 backbone for these integrated operations.
 
 Few navies have achieved meaningful drone-warship integration beyond small ISR quadcopters. Turkey's development of carrier-capable combat drones that can operate from amphibious assault ships and potentially from frigate flight decks represents a doctrinal innovation that smaller navies worldwide are watching closely. The naval drone ecosystem could become Turkey's next major defense export category after land-based drones.
+
+## Sources
+
+- [https://www.19fortyfive.com/2025/03/new-tb3-drone-proves-turkey-is-a-military-juggernaut/](https://www.19fortyfive.com/2025/03/new-tb3-drone-proves-turkey-is-a-military-juggernaut/)

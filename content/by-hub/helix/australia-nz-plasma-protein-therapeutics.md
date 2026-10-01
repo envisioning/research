@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858657/helix/technologies/99a143a3-b116-44b4-aec6-998c3fced05a-google-gemini-3.1-flash-image-preview-rnzbh9.png
+updated_at: '2026-09-28T17:16:44.03229+00:00'
+last_reviewed: null
 ---
 
 # Plasma-Derived Protein Therapeutics
@@ -26,3 +28,8 @@ CSL Behring, a division of Melbourne-headquartered CSL Limited, is the global le
 Plasma-derived therapies are irreplaceable for many conditions — no synthetic alternative exists for polyvalent immunoglobulin, which contains the collective immune experience of thousands of donors. The therapies serve patients with primary immune deficiencies, bleeding disorders, and neurological conditions. Global demand is growing 6-8% annually, driven by improved diagnosis in developing countries and expanding clinical indications.
 
 CSL's position as a top-5 global biotech company (market capitalization approximately AU$130B) makes it Australia's most valuable healthcare company and a cornerstone of sovereign pharmaceutical capability. The company's September 2025 restructuring — spinning out its Seqirus vaccine business and consolidating R&D — signals a strategic focus on its core plasma franchise while maintaining the vaccine manufacturing sovereignty established during COVID. CSL's 58 active clinical trials demonstrate continued innovation in a field that many assumed was a mature industry.
+
+## Sources
+
+- [https://www.csl.com](https://www.csl.com)
+- [https://www.europeanpharmaceuticalreview.com/news/264831/csl-headcount-cuts-restructure-seqirus-vaccines/](https://www.europeanpharmaceuticalreview.com/news/264831/csl-headcount-cuts-restructure-seqirus-vaccines/)

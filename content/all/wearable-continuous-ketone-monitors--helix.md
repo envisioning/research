@@ -9,6 +9,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764093382/helix/technologies/wearable-continuous-ketone-monitors-gemini-3-pro-wji8k2.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Wearable Continuous Ketone Monitors (CKM)

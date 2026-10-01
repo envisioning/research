@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815802/forge/technologies/b3c16dd1-5f35-41f7-889b-1222b59dcb83-google-gemini-3.1-flash-image-preview-g1sb2d.jpg
+updated_at: '2026-09-28T17:17:44.288596+00:00'
+last_reviewed: null
 ---
 
 # Bio-Based & Biodegradable Plastics
@@ -26,3 +28,7 @@ Thailand — Thailand leverages its agricultural base (world's largest cassava e
 The feedstock advantage is decisive: cassava starch is cheaper in Thailand than anywhere else, making PLA production cost-competitive with petroleum-based plastics at scale. The Thai government's Bio-Circular-Green (BCG) economic model explicitly targets bioplastics as a strategic industry, offering tax incentives and R&D grants for bioplastic manufacturers.
 
 Globally, as single-use plastic bans expand (the EU, China, India), demand for biodegradable alternatives grows faster than supply. Thailand's combination of cheap agricultural feedstock, existing petrochemical engineering talent (from PTT and SCG), and government industrial policy creates a potential monopoly position in Asian bioplastics — similar to its existing dominance in natural rubber products.
+
+## Sources
+
+- [https://www.thailand-business-news.com/banking/209138-asias-digital-payments-forecast-q1-2025-highlights-enhanced-integration-and-increased-cross-border-activity](https://www.thailand-business-news.com/banking/209138-asias-digital-payments-forecast-q1-2025-highlights-enhanced-integration-and-increased-cross-border-activity)

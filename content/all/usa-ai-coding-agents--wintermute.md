@@ -11,6 +11,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861640/wintermute/technologies/c41cdb51-bd39-483e-8711-11163792b232-google-gemini-3.1-flash-image-preview-c9h8ic.jpg
+updated_at: '2026-09-28T17:17:48.409261+00:00'
+last_reviewed: null
 ---
 
 # AI Coding Agents
@@ -26,3 +28,8 @@ AI coding agents have moved from autocomplete to full autonomous development wor
 The impact on software development is already measurable. Companies report 30-60% productivity gains for individual developers, and the nature of engineering work is shifting from writing code to reviewing and directing AI-generated code. This compresses the timeline for building software products and democratizes software creation for non-programmers.
 
 Strategically, coding agents amplify the US advantage in software innovation by making small teams dramatically more productive. They also create a new competitive dynamic: if AI can write code, the bottleneck shifts to taste, architecture decisions, and domain expertise rather than implementation speed.
+
+## Sources
+
+- [https://www.pulumi.com/blog/ai-predictions-2026-devops-guide/](https://www.pulumi.com/blog/ai-predictions-2026-devops-guide/)
+- [https://www.ibm.com/think/news/ai-tech-trends-predictions-2026](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)

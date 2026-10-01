@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861321/forge/technologies/a6c5e3a3-248f-4873-9b9c-02d40ee49d77-google-gemini-3.1-flash-image-preview-alpltb.png
+updated_at: '2026-09-28T17:17:50.601504+00:00'
+last_reviewed: null
 ---
 
 # Industrial-Scale Metal Additive Manufacturing
@@ -26,3 +28,8 @@ Metal additive manufacturing (3D printing) has moved from prototyping to product
 Metal AM enables geometries impossible with traditional machining: internal cooling channels, lattice structures for weight reduction, and topology-optimized shapes. It also dramatically reduces lead times — from months of tooling and machining to days of printing. For defense and space applications where production volumes are small and performance requirements extreme, AM is often superior to conventional manufacturing.
 
 The US leads in metal AM through both technology providers (Desktop Metal, Velo3D, 3D Systems) and major adopters (GE, Boeing, Lockheed). The technology has strategic implications for defense supply chains: critical spare parts can be printed on-demand at forward operating bases or aboard ships, reducing the logistics tail that constrains military operations.
+
+## Sources
+
+- [https://payloadspace.com/what-to-expect-in-2026/](https://payloadspace.com/what-to-expect-in-2026/)
+- [https://www.svb.com/trends-insights/reports/future-of-frontier-tech/](https://www.svb.com/trends-insights/reports/future-of-frontier-tech/)

@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883068/atmos/technologies/2c42e9f4-01b8-4ea8-8025-05e9fa2ad487-google-gemini-3.1-flash-image-preview-05a5cp.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Concentrated Solar Power

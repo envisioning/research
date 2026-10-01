@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816582/aegis/technologies/322c69fd-6806-42a2-afc5-77cf11acf75f-google-gemini-3.1-flash-image-preview-mbloof.png
+updated_at: '2026-09-28T17:18:19.762889+00:00'
+last_reviewed: null
 ---
 
 # Mega-Construction and Engineering Services
@@ -26,3 +28,8 @@ Korean construction and engineering companies consistently rank among the top 10
 The construction-industrial complex is a hidden engine of Korea's technology exports. When Korea wins a nuclear plant contract (APR-1400 in Czech Republic, UAE), the construction companies deliver the physical plant. When Samsung builds a new semiconductor fab, Samsung C&T handles construction. When Songdo smart city technology is exported, POSCO E&C builds it. Korean EPC (Engineering, Procurement, Construction) firms are the physical manifestation of Korea's technology capabilities — they turn blueprints into functioning infrastructure anywhere in the world.
 
 Korean firms' competitive advantage is speed and precision on complex projects, honed by decades of building at home under tight timelines and demanding clients (the chaebols). The Barakah nuclear plant's relatively on-schedule delivery — compared to catastrophic delays at Western nuclear projects — is largely attributable to Korean construction management. Annual overseas construction orders exceed $30B, with the Middle East, Southeast Asia, and Central Asia as primary markets.
+
+## Sources
+
+- [https://www.samsungcnt.com/eng/](https://www.samsungcnt.com/eng/)
+- [https://www.hyundai-enc.com/eng/](https://www.hyundai-enc.com/eng/)

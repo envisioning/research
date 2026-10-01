@@ -10,6 +10,8 @@ trl: 4
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882821/wonen/technologies/25c4a8a5-4966-4aed-b9f2-2f0ea65eec55-google-gemini-3.1-flash-image-preview-p1nasn.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # PFAS Soil Contamination

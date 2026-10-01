@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766663572/habitacao/technologies/compressao-raio-vida-cotidiana-reconfiguracao-urbana-google-gemini-3-pro-image-preview-rwecqk.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Compressão do Raio de Vida Cotidiana e Reconfiguração Urbana

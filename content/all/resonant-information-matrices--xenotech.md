@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902967/xenotech/technologies/resonant-information-matrices-openrouter-google-gemini-3.1-flash-image-preview-jqz1az.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Resonant Information Matrices
@@ -50,3 +52,8 @@ Resonant metamaterials (split-ring resonators, helical antennas, fractal geometr
 Testimonial accounts imply symbols directly modulate propulsion fields—undemonstrated in human systems. Speculative mechanisms include: vacuum resonance coupling where symbols tune zero-point field fluctuations; gravitational harmonic induction creating standing-wave propulsion; or plasma-acoustic hybrid modes in boundary layers controlled by surface resonators. The matrix may also serve multi-modal functions: communication (modulated carrier frequencies), sensing (passive resonator response to external fields), or energy harvesting (capturing ambient EM/acoustic energy).
 
 Resonant information matrices bridge established resonator physics (acoustic/photonic metamaterials, quantum coherence control) with testimony describing frequency-based craft interfaces. As metamaterial design, piezoelectric integration, and harmonic control systems mature, symbol-frequency coupling becomes a credible interface paradigm—though direct propulsion field control via resonance remains speculative.
+
+## Sources
+
+- [Resonant Field Persistence and Harmonic Mirror Modeling in Nonlinear Fluid Systems: A Unified Framework for Consciousness-Electromagnetic Field Interactions](https://img1.wsimg.com/blobby/go/954c7f01-9f68-49a8-a254-72b0d961955f/downloads/9603b4db-4e03-43b3-9132-6dcb4668b134/resonant_field_paperV2expanded.pdf?ver=1750100937451) (2025)
+- [We Decoded the June 14 Military Broadcast Using Harmonic Resonance—Here’s What It Really Said](https://bjklock.com/p/we-decoded-the-june-14-military-broadcast) (2025)

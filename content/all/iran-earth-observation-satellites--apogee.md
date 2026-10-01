@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774873052/apogee/technologies/ccd9d530-d022-464a-979b-c257fb2c83e6-google-gemini-3.1-flash-image-preview-31k870.jpg
+updated_at: '2026-09-28T17:16:37.10448+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Earth Observation Satellites
@@ -26,3 +28,9 @@ Iran has placed multiple indigenous earth observation satellites into orbit, inc
 Earth observation satellites serve dual military and civilian purposes: crop monitoring, natural disaster response, urban planning, and environmental tracking on the civilian side; battlefield surveillance, damage assessment, and intelligence collection on the military side. For a country under heavy sanctions and intelligence embargo, indigenous imaging capability has particular value — it provides strategic awareness independent of foreign data sources. The Noor satellites, operated by the IRGC, are explicitly military reconnaissance platforms.
 
 The current generation of Iranian imaging satellites is modest by global standards — resolution and coverage lag significantly behind commercial constellations like Planet or Maxar, let alone national systems of major powers. However, the trajectory is toward higher capability, and the combination of indigenous satellite production with domestic launch vehicles gives Iran a complete sovereign observation chain. Plans for larger, more capable imaging satellites continue to be announced, though funding and technical challenges remain significant.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Iranian_Space_Agency](https://en.wikipedia.org/wiki/Iranian_Space_Agency)
+- [https://www.reuters.com/world/middle-east/iran-launches-advanced-module-deploy-satellites-higher-altitudes-media-say-2024-12-06/](https://www.reuters.com/world/middle-east/iran-launches-advanced-module-deploy-satellites-higher-altitudes-media-say-2024-12-06/)
+- [https://wanaen.com/three-iranian-satellites-to-be-launched-simultaneously-this-fall/](https://wanaen.com/three-iranian-satellites-to-be-launched-simultaneously-this-fall/)

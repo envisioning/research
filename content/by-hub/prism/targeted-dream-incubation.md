@@ -9,6 +9,8 @@ trl: 3
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074492/pulse/technologies/targeted-dream-incubation-gemini-3-pro-d9f71e.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Targeted Dream Incubation

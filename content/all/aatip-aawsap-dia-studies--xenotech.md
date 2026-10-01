@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772894715/xenotech/technologies/aatip-aawsap-dia-studies-openrouter-google-gemini-3.1-flash-image-preview-auo2y9.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Aerospace Studies

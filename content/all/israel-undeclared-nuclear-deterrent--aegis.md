@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875245/aegis/technologies/37758031-f294-4d93-bdc9-135cfd36ef7b-google-gemini-3.1-flash-image-preview-9ep8ju.jpg
+updated_at: '2026-09-28T17:16:50.904826+00:00'
+last_reviewed: null
 ---
 
 # Nuclear Deterrent Capability
@@ -25,3 +27,9 @@ Israel is widely assessed to possess nuclear weapons capability, though it maint
 Israel's nuclear capability is the ultimate expression of technological sovereignty — the ability to guarantee national survival through independent deterrence. The program was driven by the same motivation as the Ofek satellite program: after being denied security guarantees during existential crises, Israel concluded it could not depend on external powers for survival. The opacity policy allows Israel to maintain deterrence while avoiding the diplomatic consequences of declared nuclear status.
 
 Strategically, Israel's nuclear capability shapes the entire Middle Eastern security architecture and influences global nonproliferation dynamics. The technology represents decades of indigenous nuclear physics, materials science, weapons engineering, and delivery system development — capabilities that required building an entire nuclear fuel cycle from enrichment to weaponization. While not a source of technology export, the capability fundamentally underpins Israel's strategic position and influences the development of its conventional defense technologies (which are designed to handle threats below the nuclear threshold).
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Shimon_Peres_Negev_Nuclear_Research_Center](https://en.wikipedia.org/wiki/Shimon_Peres_Negev_Nuclear_Research_Center)
+- [https://observer.co.uk/news/international/article/inside-dimona-the-secret-nuclear-site-at-the-heart-of-israels-undeclared-arsenal](https://observer.co.uk/news/international/article/inside-dimona-the-secret-nuclear-site-at-the-heart-of-israels-undeclared-arsenal)
+- [https://www.aa.com.tr/en/middle-east/explainer-dimona-what-to-know-about-israel-s-nuclear-site/3852733](https://www.aa.com.tr/en/middle-east/explainer-dimona-what-to-know-about-israel-s-nuclear-site/3852733)

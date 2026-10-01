@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127972/stride/technologies/smart-insoles-google-gemini-3-pro-image-preview-9pqurz.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Wearable Force Sensors

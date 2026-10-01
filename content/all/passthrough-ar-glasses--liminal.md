@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124817/liminal/technologies/passthrough-ar-glasses-google-gemini-3-pro-image-preview-4s30bf.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Passthrough AR Glasses

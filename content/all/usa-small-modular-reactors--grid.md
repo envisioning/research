@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860303/grid/technologies/00fc592d-765c-4899-b1f9-a9a28a20dbd7-google-gemini-3.1-flash-image-preview-j791uf.png
+updated_at: '2026-09-28T17:16:30.322914+00:00'
+last_reviewed: null
 ---
 
 # Small Modular Nuclear Reactors (SMRs)
@@ -26,3 +28,8 @@ Small Modular Reactors generate 50-300 MW of power using factory-built modules t
 SMRs address nuclear energy's two biggest barriers: cost and construction time. By standardizing designs and manufacturing modules in factories, SMRs aim to reduce capital costs and compress timelines from 10-15 years for conventional reactors to 3-5 years. They also offer passive safety systems that don't require human intervention or external power in emergencies.
 
 The AI data center boom has created urgent new demand for SMRs. Hyperscalers including Google, Microsoft, and Amazon have signed agreements or expressed interest in nuclear power for their data centers. The NRC's new Part 53 framework provides technology-inclusive licensing for advanced reactors, removing a key regulatory bottleneck. However, SMRs remain unproven at commercial scale, and NuScale's cancellation of its first commercial project in Idaho raised questions about economic viability.
+
+## Sources
+
+- [https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech](https://www.nuclearbusiness-platform.com/media/insights/top-5-smr-tech)
+- [https://www.nrc.gov/reactors/new-reactors/advanced](https://www.nrc.gov/reactors/new-reactors/advanced)

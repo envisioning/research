@@ -9,6 +9,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: null
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # On-Device AI Pill Counter
@@ -22,3 +24,11 @@ Computer vision systems that count pills locally without cloud processing
 On-device AI pill counters use computer vision and machine learning running directly on compact devices to automatically count pills with high accuracy and speed. These systems process images locally without requiring cloud connectivity, ensuring privacy, low latency, and operation in environments without internet access. The AI algorithms can identify and count various pill types, shapes, sizes, and colors, handling complex scenarios like overlapping pills, different lighting conditions, and various container types.
 
 The technology addresses critical needs in pharmacies, hospitals, and pharmaceutical manufacturing where accurate pill counting is essential for patient safety and regulatory compliance. On-device processing ensures that sensitive medical information never leaves the device, addressing privacy concerns. The compact form factor makes these systems portable and suitable for use in various settings. Fast processing enables high-throughput counting, improving efficiency in busy pharmacies and manufacturing facilities. The systems reduce human error in manual counting, provide audit trails, and can integrate with inventory management systems. This technology is particularly valuable for controlled substances, high-value medications, and situations requiring precise dosage verification.
+
+## Sources
+
+- [QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design](https://arxiv.org/html/2601.14549v1) (2026)
+- [Real-time pill image recognition on edge devices with Adaptive Lightweight Attention](https://link.springer.com/10.1007/s11554-025-01831-7) (2026)
+- [Counting on AI: The Future of Pharmacy Automation](https://www.foundingminds.ai/blogs/ai-pharmacy-automation-pill-counter) (2025)
+- [Pill Counter AI on the App Store](https://apps.apple.com/us/app/pill-counter-ai/id6744669057) (2025)
+- [Pill Counting Kiosk | Vision-Powered iOS Solutions](https://www.ailatech.com/experiences/pill-counting-kiosk) (2025)

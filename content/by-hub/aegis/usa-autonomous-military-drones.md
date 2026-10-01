@@ -11,6 +11,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861479/aegis/technologies/b6e3f5c9-d097-401e-874f-0f907aea21b9-google-gemini-3.1-flash-image-preview-f2phd2.jpg
+updated_at: '2026-09-28T17:17:54.181861+00:00'
+last_reviewed: null
 ---
 
 # AI-Piloted Military Drones
@@ -26,3 +28,8 @@ Shield AI's Hivemind is an AI pilot system that enables autonomous flight withou
 Autonomous military drones address the fundamental problem exposed by Ukraine: modern warfare consumes drones at industrial rates, and there aren't enough trained pilots to fly them all remotely. AI-piloted drones can operate in GPS-denied and communications-jammed environments where remote control is impossible. They can also coordinate as swarms, overwhelming air defenses through sheer numbers.
 
 Shield AI's trajectory — from Batcave garage startup to $12 billion valuation in under a decade — illustrates how Silicon Valley innovation culture is reshaping defense procurement. The company's success has attracted major defense investors and partnerships, positioning the US to lead in autonomous military systems that may define 21st-century warfare.
+
+## Sources
+
+- [https://finance.yahoo.com/news/shield-ai-took-drones-batcave-120000058.html](https://finance.yahoo.com/news/shield-ai-took-drones-batcave-120000058.html)
+- [https://acquinox.capital/insights/gen-ai-and-ai-agents/shield-ai-why-the-12-billion-defence-tech-opportunity-may-be-taking-off](https://acquinox.capital/insights/gen-ai-and-ai-agents/shield-ai-why-the-12-billion-defence-tech-opportunity-may-be-taking-off)

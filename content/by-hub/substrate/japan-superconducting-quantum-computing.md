@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818789/substrate/technologies/65eb28a3-8281-4682-ae5a-4c75a10b88d1-google-gemini-3.1-flash-image-preview-6hvh3d.png
+updated_at: '2026-09-28T17:17:27.136733+00:00'
+last_reviewed: null
 ---
 
 # Superconducting Quantum Computing
@@ -26,3 +28,8 @@ In April 2025, Fujitsu and RIKEN jointly developed a 256-qubit superconducting q
 The roadmap is aggressive: a 1,000-qubit system is planned for installation at Fujitsu Technology Park in 2026, and in August 2025, Fujitsu announced official development of a 10,000+ qubit superconducting quantum computer targeting completion by 2030. The collaboration agreement between RIKEN and Fujitsu has been extended through March 2029. The approach combines superconducting qubits with quantum error correction and hybrid quantum-classical algorithms.
 
 Japan's quantum computing program benefits from RIKEN's deep physics expertise and Fujitsu's computing platform engineering. While IBM, Google, and Chinese competitors have larger qubit counts, Japan's focus on error-corrected, commercially usable quantum computing — rather than raw qubit numbers — reflects a quality-over-quantity approach. The ¥135 billion AI infrastructure investment announced in 2025 includes quantum computing as a pillar, signaling sustained government commitment.
+
+## Sources
+
+- [https://www.riken.jp/en/news_pubs/news/2025/20250422_1/index.html](https://www.riken.jp/en/news_pubs/news/2025/20250422_1/index.html)
+- [https://global.fujitsu/en-global/pr/news/2025/08/01-01-en](https://global.fujitsu/en-global/pr/news/2025/08/01-01-en)

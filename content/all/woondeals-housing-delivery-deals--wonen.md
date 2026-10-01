@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889093/wonen/technologies/71cabab2-c8c4-4987-ba1b-8b87d832d2bc-google-gemini-3.1-flash-image-preview-l9w9kh.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Woondeals (Housing Delivery Deals)

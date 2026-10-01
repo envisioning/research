@@ -9,6 +9,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643167/agora/technologies/automated-redistricting-with-fairness-constraints-google-gemini-3-pro-image-preview-y96a5t.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Automated Redistricting with Fairness Constraints

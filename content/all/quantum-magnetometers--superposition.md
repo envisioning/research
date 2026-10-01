@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181202/superposition/technologies/quantum-magnetometers-gemini-3-pro-yyejfw.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Quantum Magnetometers

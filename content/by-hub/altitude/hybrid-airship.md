@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887193/altitude/technologies/545f7753-26d7-4e49-969e-3d9a480b47d2-google-gemini-3.1-flash-image-preview-81ai5g.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Hybrid Airship

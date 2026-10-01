@@ -3,19 +3,22 @@ slug: participatory-funding-apps
 hub: agape
 title: Participatory Funding Apps
 summary: Mobile and web applications enabling community-driven funding decisions,
+  putting resource allocation power in the hands of beneficiaries.
 permalink: https://www.envisioning.com/agape/participatory-funding-apps
 collection: technology-infrastructure
 trl: 2
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368246/agape/signals/participatory-funding-apps-google-gemini-3-pro-image-preview-6dc6kg.png
+updated_at: '2026-10-01T09:32:19.979619+00:00'
+last_reviewed: null
 ---
 
 # Participatory Funding Apps
 
 ## Summary
 
-Mobile and web applications enabling community-driven funding decisions,
+Mobile and web applications enabling community-driven funding decisions, putting resource allocation power in the hands of beneficiaries.
 
 ## Description
 

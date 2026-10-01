@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985434/wintermute/technologies/code-native-foundation-models-gemini-3-pro-j549j9.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Code-Native Foundation Models

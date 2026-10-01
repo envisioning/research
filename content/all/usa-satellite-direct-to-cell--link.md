@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861989/link/technologies/ed063658-83c3-4462-b660-39afc8a54c01-google-gemini-3.1-flash-image-preview-kp4v6g.jpg
+updated_at: '2026-09-28T17:17:50.837491+00:00'
+last_reviewed: null
 ---
 
 # Satellite Direct-to-Cell Connectivity
@@ -26,3 +28,8 @@ Satellite direct-to-cell technology allows standard, unmodified smartphones to c
 This eliminates cellular dead zones for the first time in mobile phone history. Hikers, boaters, and rural residents can send texts and (eventually) make voice calls and access data from anywhere on Earth using their existing phones. The technology is also critical for disaster response — when terrestrial cell towers are destroyed by hurricanes, earthquakes, or wildfires, satellite connectivity provides backup communications.
 
 The strategic implications extend to military communications and emergency services. A phone that can always reach a satellite is inherently more resilient than one dependent on fixed infrastructure. The US leads through SpaceX's Starlink constellation advantage (thousands of satellites already in orbit) and the T-Mobile partnership that provides immediate access to a major carrier's subscriber base.
+
+## Sources
+
+- [https://payloadspace.com/what-to-expect-in-2026/](https://payloadspace.com/what-to-expect-in-2026/)
+- [https://www.weforum.org/stories/2025/12/the-top-frontier-tech-stories-from-2025/](https://www.weforum.org/stories/2025/12/the-top-frontier-tech-stories-from-2025/)

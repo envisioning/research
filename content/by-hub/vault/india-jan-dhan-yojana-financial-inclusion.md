@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809342/vault/technologies/ab23893d-ea92-4f0a-ae5f-06f70e5658c4-google-gemini-3.1-flash-image-preview-bbextp.png
+updated_at: '2026-09-28T17:17:10.55734+00:00'
+last_reviewed: null
 ---
 
 # Jan Dhan Yojana Financial Inclusion Program
@@ -26,3 +28,9 @@ Pradhan Mantri Jan Dhan Yojana (PMJDY), launched in August 2014, is the world's 
 Jan Dhan accounts are the banking infrastructure layer that enables everything else in India's digital financial ecosystem. UPI needs bank accounts to work. Direct Benefit Transfer needs bank accounts to receive welfare payments. Insurance, credit, and savings products all require bank accounts as a starting point. By giving 530+ million previously unbanked Indians a bank account, Jan Dhan created the foundation for India's entire fintech revolution.
 
 The program's impact is best understood through the JAM trinity: Jan Dhan (bank accounts) + Aadhaar (identity) + Mobile (phones). Together, these three layers enable the Indian government and private sector to deliver financial services to virtually every adult Indian. Before JAM, financial inclusion was an aspirational goal; after JAM, it became operational reality. The program is now in its second phase, focusing on improving account activity (many early accounts were dormant) and expanding services like micro-insurance and pension products.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Pradhan_Mantri_Jan_Dhan_Yojana](https://en.wikipedia.org/wiki/Pradhan_Mantri_Jan_Dhan_Yojana)
+- [https://pmjdy.gov.in/](https://pmjdy.gov.in/)
+- [https://www.biometricupdate.com/202312/india-layers-new-ids-for-workers-on-top-of-aadhaar-as-dpi-projects-expand](https://www.biometricupdate.com/202312/india-layers-new-ids-for-workers-on-top-of-aadhaar-as-dpi-projects-expand)

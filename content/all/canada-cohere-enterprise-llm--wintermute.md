@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871810/wintermute/technologies/dba18fc0-d64b-4565-8f34-6a399c273b2c-google-gemini-3.1-flash-image-preview-lf4xw4.png
+updated_at: '2026-09-28T17:18:40.524577+00:00'
+last_reviewed: null
 ---
 
 # Cohere Enterprise Language Models
@@ -26,3 +28,8 @@ Cohere is a Toronto-based AI company founded in 2019 by Aidan Gomez (co-inventor
 Cohere's significance lies in its positioning as the credible non-American alternative for enterprises and governments that want frontier AI without dependence on US hyperscalers. Its multilingual models support 100+ languages, and its enterprise deployment model addresses data residency requirements that matter enormously to European, Canadian, and Asian customers.
 
 As Canada's champion in the global LLM race, Cohere represents a test of whether a country with world-class AI research can also produce a commercially competitive AI platform company. The company's 2026 valuation and customer base make it one of the most valuable Canadian tech companies, and its success or failure will significantly shape perceptions of Canada's ability to commercialize its AI advantage.
+
+## Sources
+
+- [https://brief.bismarckanalysis.com/p/ai-2026-cohere-is-canadas-artificial](https://brief.bismarckanalysis.com/p/ai-2026-cohere-is-canadas-artificial)
+- [https://cohere.com/](https://cohere.com/)

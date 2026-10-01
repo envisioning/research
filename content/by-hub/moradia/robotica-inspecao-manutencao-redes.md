@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583569/habitacao/technologies/robotica-inspecao-manutencao-redes-google-gemini-3-pro-image-preview-1b3iks.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Robótica para Inspeção e Manutenção de Redes
@@ -25,3 +27,8 @@ A infraestrutura urbana subterrânea — composta por redes de água, esgoto e d
 Para concessionárias de saneamento e gestores municipais, essa solução representa uma mudança fundamental no paradigma de gestão de ativos urbanos. O envelhecimento acelerado das redes brasileiras — muitas com décadas de operação sem manutenção adequada — cria um cenário de perdas hídricas que frequentemente ultrapassam 40% do volume distribuído, além de riscos crescentes de colapsos e contaminação. A inspeção robótica permite diagnósticos precisos e não invasivos, reduzindo drasticamente os custos associados a escavações exploratórias desnecessárias e minimizando transtornos ao tráfego e à população. Mais importante, viabiliza a transição de modelos reativos de manutenção — onde problemas são abordados apenas após falhas — para estratégias preditivas baseadas em dados contínuos de monitoramento. Essa capacidade de antecipação não apenas prolonga a vida útil dos ativos, mas também otimiza alocação de recursos, permitindo que intervenções sejam planejadas e executadas de forma mais eficiente.
 
 No contexto brasileiro, a adoção dessa tecnologia ainda é incipiente, concentrando-se principalmente em concessionárias de grandes centros urbanos e em projetos-piloto de modernização. Empresas de saneamento em São Paulo, Rio de Janeiro e outras capitais começam a incorporar frotas robóticas em seus programas de redução de perdas e gestão de ativos, frequentemente com suporte de financiamento internacional ou parcerias público-privadas. A relevância dessa solução tende a crescer à medida que o novo marco regulatório do saneamento pressiona por metas de universalização e eficiência, tornando insustentável a manutenção de práticas tradicionais de inspeção. Além disso, a integração com sistemas de informação geográfica e plataformas de gestão inteligente de redes posiciona a robótica de inspeção como componente essencial de cidades mais resilientes, onde a infraestrutura subterrânea é monitorada continuamente, permitindo respostas rápidas a emergências e planejamento urbano mais informado.
+
+## Sources
+
+- [Como Acontece a Inspeção Robotizada de Forma Técnica e Segura](https://azimutetech.com.br/como-acontece-a-inspecao-robotizada-de-forma-tecnica-e-segura) (2025)
+- [Prefeitura utiliza robôs para vídeo inspeção de galerias pluviais](https://www.sjc.sp.gov.br/noticias/2025/marco/10/prefeitura-utiliza-robos-para-video-inspecao-de-galerias-pluviais) (2025)

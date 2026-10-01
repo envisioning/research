@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853532/polis/technologies/82ff6122-7039-479c-9c3c-8374e4e2bf12-google-gemini-3.1-flash-image-preview-ea04lh.jpg
+updated_at: '2026-09-28T17:17:03.593109+00:00'
+last_reviewed: null
 ---
 
 # Digital Euro CBDC
@@ -25,3 +27,7 @@ The Digital Euro is the ECB's central bank digital currency (CBDC) project — a
 The preparation phase (2023-2025) developed the technical framework, with a decision on issuance expected after legislative approval. The design emphasizes privacy (offline payments possible without data collection), financial inclusion (no bank account required), and pan-European interoperability (works across all eurozone countries with any payment provider).
 
 The strategic motivation is monetary sovereignty in the digital age. As cash usage declines and private digital payment systems (Apple Pay, WeChat Pay, stablecoins) grow, central banks risk losing control of retail payment infrastructure. The Digital Euro ensures that public money — not controlled by any private company — remains available as digital payments become dominant.
+
+## Sources
+
+- [https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html)

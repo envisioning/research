@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772621000/epoch/technologies/longevity-gene-augmentation-73jloz.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Longevity Gene Augmentation

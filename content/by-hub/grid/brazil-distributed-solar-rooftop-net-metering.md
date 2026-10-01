@@ -10,6 +10,8 @@ trl: 9
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793735/grid/technologies/e27644e1-dfdd-484d-9fbc-c71df6eb2cd8-google-gemini-3.1-flash-image-preview-uhu4ik.png
+updated_at: '2026-09-28T17:16:31.160526+00:00'
+last_reviewed: null
 ---
 
 # Distributed Solar (Rooftop + Net Metering)
@@ -25,3 +27,7 @@ Brazil's distributed solar market exploded after ANEEL established net metering 
 The growth is driven by Brazil's high retail electricity prices (among the most expensive in Latin America) combined with exceptional solar irradiation across most of the country. Payback periods for rooftop solar dropped below 4 years in many regions.
 
 The 2022 regulatory framework (Lei 14.300) introduced a transition period for net metering, creating a rush of installations before less favorable rules take full effect in 2029. This regulatory dynamic — combined with cheap Chinese panels — turned Brazil into one of the fastest-growing solar markets globally.
+
+## Sources
+
+- [https://en.clickpetroleoegas.com.br/com-potencial-superior-a-100-gw-em-projetos-brasil-entra-na-rota-da-energia-eolica-offshore/](https://en.clickpetroleoegas.com.br/com-potencial-superior-a-100-gw-em-projetos-brasil-entra-na-rota-da-energia-eolica-offshore/)

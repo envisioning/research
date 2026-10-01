@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792617/grid/technologies/22ec7c05-8cfc-45b7-ab70-ac8fe6d41dee-google-gemini-3.1-flash-image-preview-ukn4qy.jpg
+updated_at: '2026-09-28T17:17:54.263791+00:00'
+last_reviewed: null
 ---
 
 # Sustainable Aviation Fuel (SAF) from Ethanol
@@ -26,3 +28,8 @@ Brazil passed the 'Fuel of the Future' law establishing mandatory SAF blending t
 Embraer has certified and flown aircraft on ethanol-derived biofuel, building on its 2004 certification of the ethanol-powered Ipanema agricultural aircraft. The company is positioned to supply both the aircraft and the fuel ecosystem.
 
 The economics require a premium over conventional jet fuel, but Brazil has structural advantages: cheap sugarcane, existing ethanol infrastructure, and a regulatory mandate. If ATJ technology matures, Brazil's ethanol industry could pivot from ground transport to aviation — extending its biofuel dominance into the last major fossil-fuel-dependent transport sector.
+
+## Sources
+
+- [https://www.embraer.com/media-center/en/?mediatype=NEWS&detail=1487](https://www.embraer.com/media-center/en/?mediatype=NEWS&detail=1487)
+- [https://advancedbiofuelsusa.info/the-current-scenario-of-saf-production-in-brazil-2025](https://advancedbiofuelsusa.info/the-current-scenario-of-saf-production-in-brazil-2025)

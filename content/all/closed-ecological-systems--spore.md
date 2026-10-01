@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897704/spore/technologies/97799660-4ddb-4dd7-ab3f-0d2fa0de01e2-google-gemini-3.1-flash-image-preview-enh1ph.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Closed Ecological Systems

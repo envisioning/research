@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807434/link/technologies/2a228a9f-1eac-413d-b12a-08bca448f99b-google-gemini-3.1-flash-image-preview-j4858d.jpg
+updated_at: '2026-09-28T17:16:51.338379+00:00'
+last_reviewed: null
 ---
 
 # Jio as National Digital Infrastructure Platform
@@ -26,3 +28,9 @@ Reliance Jio's 2016 launch is arguably the single most transformative corporate 
 The Jio effect on Indian society is comparable to what electrification did a century ago. Before Jio, India's internet penetration was ~25%; by 2025 it exceeded 60%. A vegetable vendor in rural Bihar now accepts UPI payments, watches cricket on JioCinema, and orders wholesale supplies through JioMart — all on a $50 Jio phone. Jio didn't just provide connectivity; it created the economic conditions for India's entire digital ecosystem to flourish. PhonePe, Zomato, Swiggy, Zerodha, and hundreds of Indian digital companies exist at their current scale because Jio made data nearly free.
 
 Strategically, Jio represents India's alternative to both the US model (multiple competing platforms) and the Chinese model (state-backed super-apps). It's a privately-owned, vertically integrated digital utility that functions as quasi-public infrastructure. Jio's satellite communications arm (Jio SpaceFiber) is now competing with Starlink for India's satellite internet market. The company's planned AI infrastructure investments — including NVIDIA GPU clusters and Indian-language AI models — position it as the foundational layer for India's AI future. No other single entity in any country has transformed digital access at this speed and scale.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Jio_Platforms](https://en.wikipedia.org/wiki/Jio_Platforms)
+- [https://www.hindustantimes.com/business/state-of-india-s-telecom-5g-and-broadband-momentum-drives-jio-and-airtel-101765438765136.html](https://www.hindustantimes.com/business/state-of-india-s-telecom-5g-and-broadband-momentum-drives-jio-and-airtel-101765438765136.html)
+- [https://www.moneycontrol.com/news/business/satellite-licences-cleared-for-starlink-jio-and-oneweb-spectrum-pricing-next-says-scindia-13845467.html](https://www.moneycontrol.com/news/business/satellite-licences-cleared-for-starlink-jio-and-oneweb-spectrum-pricing-next-says-scindia-13845467.html)

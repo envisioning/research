@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897970/wonen/technologies/9ef466cc-ff01-422c-acab-d85c54672514-google-gemini-3.1-flash-image-preview-dzv5sp.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Stedelijke Herverkaveling (Land Readjustment)

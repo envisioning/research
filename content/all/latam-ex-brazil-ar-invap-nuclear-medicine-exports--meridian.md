@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812812/meridian/technologies/54bb0bb7-8ccd-466a-bc16-5f62ecf3b07b-google-gemini-3.1-flash-image-preview-cqj9qk.png
+updated_at: '2026-09-28T17:17:21.483211+00:00'
+last_reviewed: null
 ---
 
 # INVAP Nuclear Research Reactor Exports
@@ -26,3 +28,9 @@ INVAP, a state-owned high-technology company based in Bariloche, Argentina, is o
 What makes INVAP remarkable is its provenance. Argentina developed a complete nuclear fuel cycle and reactor design capability during the 20th century, making it one of the most advanced nuclear-capable nations outside the traditional powers. INVAP emerged from this ecosystem, inheriting deep expertise in reactor physics, fuel element design, and nuclear instrumentation. The company builds not just reactors but also radioisotope production facilities, nuclear medicine centers, and satellite systems — a diversification that has kept it financially viable through Argentina's recurring economic crises. Its reactors typically use low-enriched uranium fuel, making them attractive to countries that want nuclear technology without proliferation concerns.
 
 Strategically, INVAP occupies a unique niche. The global demand for research reactors is growing, driven by the medical isotope market (particularly Molybdenum-99 for diagnostic imaging) and the need for neutron sources in materials science. Many Cold War-era research reactors are approaching end of life, creating a replacement market. INVAP competes against established players like France's Framatome and South Korea's KAERI, but offers a distinctive value proposition: turnkey capability at lower cost, with technology transfer agreements that appeal to developing nations seeking nuclear sovereignty without weapons implications.
+
+## Sources
+
+- [https://www.invap.com.ar/en/nuclear-projects/](https://www.invap.com.ar/en/nuclear-projects/)
+- [https://www.ansto.gov.au/facilities/australian-centre-for-neutron-scattering/opal-multi-purpose-reactor](https://www.ansto.gov.au/facilities/australian-centre-for-neutron-scattering/opal-multi-purpose-reactor)
+- [https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/argentina](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/argentina)

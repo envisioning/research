@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856249/apogee/technologies/cf03e536-85cd-489e-94ef-96a7ed128896-google-gemini-3.1-flash-image-preview-y5r5yx.jpg
+updated_at: '2026-09-28T17:17:46.541895+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Communications Satellite
@@ -26,3 +28,9 @@ Türksat 6A is Turkey's first domestically produced communications satellite, la
 The Türksat 6A program demonstrates Turkey's capability to design, manufacture, and test a complex geostationary satellite domestically — a significant step up from its previous imaging satellites (RASAT, Göktürk-2, IMECE) which operated in lower orbits. The X-Band military communications payload provides sovereign secure communications capacity independent of NATO or commercial providers.
 
 Strategically, Türksat 6A reduces Turkey's dependence on foreign satellite operators for telecommunications and broadcasting while generating export potential — the satellite's coverage of new markets in Southeast Asia creates commercial opportunities. The program also builds the engineering base for future, more ambitious satellite programs including next-generation reconnaissance and communications platforms.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/T%C3%BCrksat_6A](https://en.wikipedia.org/wiki/T%C3%BCrksat_6A)
+- [https://breakingdefense.com/2024/07/turkey-launches-first-mostly-indigenous-comms-satellite-could-appeal-to-gulf-amid-space-push/](https://breakingdefense.com/2024/07/turkey-launches-first-mostly-indigenous-comms-satellite-could-appeal-to-gulf-amid-space-push/)
+- [https://tubitak.gov.tr/en/news/our-first-domestic-and-national-communication-satellite-turksat-6a-was-launched-space](https://tubitak.gov.tr/en/news/our-first-domestic-and-national-communication-satellite-turksat-6a-was-launched-space)

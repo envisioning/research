@@ -9,6 +9,8 @@ trl: 3
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766327205/formar/technologies/materiais-isolantes-termicos-tropicais-google-gemini-3-pro-image-preview-q4q9b2.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Materiais Isolantes Térmicos Tropicais

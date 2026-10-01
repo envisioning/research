@@ -10,6 +10,8 @@ trl: 8
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812758/vault/technologies/47147de4-dcc3-4f75-b4ac-57e79d004f06-google-gemini-3.1-flash-image-preview-qdw5rv.jpg
+updated_at: '2026-09-28T17:17:39.152861+00:00'
+last_reviewed: null
 ---
 
 # Digital Banking & Crypto-Dollar Infrastructure
@@ -25,3 +27,9 @@ Argentina's persistent macroeconomic instability — inflation exceeding 200% in
 The technology stack includes peer-to-peer crypto exchanges (matching peso sellers with dollar buyers), automated market makers for peso-stablecoin trading pairs, and custodial wallets that let users hold dollar-denominated assets without access to formal banking. Argentina consistently ranks among the top 10-15 countries globally for cryptocurrency adoption, with stablecoin usage per capita among the world's highest — driven not by speculation but by the practical need to preserve purchasing power.
 
 Milei's government has taken a market-friendly approach to crypto regulation, positioning Argentina as a potential hub for Latin American crypto-finance. The strategic irony is notable: Argentina's macroeconomic dysfunction has produced some of the most battle-tested financial technology in the region. Companies that can build reliable financial products in an environment of 200% inflation, capital controls, and currency crises can handle any market condition — making Argentine fintech exports particularly robust.
+
+## Sources
+
+- [https://practiceguides.chambers.com/practice-guides/fintech-2025/mexico/trends-and-developments](https://practiceguides.chambers.com/practice-guides/fintech-2025/mexico/trends-and-developments)
+- [https://buenosairesherald.com/business/mining/argentinas-new-10-year-lithium-plan-just-dropped](https://buenosairesherald.com/business/mining/argentinas-new-10-year-lithium-plan-just-dropped)
+- [https://discoveryalert.com.au/argentina-lithium-production-boost-75-growth-2025/](https://discoveryalert.com.au/argentina-lithium-production-boost-75-growth-2025/)

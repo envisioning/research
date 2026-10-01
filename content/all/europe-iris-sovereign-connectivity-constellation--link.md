@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853493/link/technologies/7cd8a795-30df-48dd-ac4a-b447badf0e12-google-gemini-3.1-flash-image-preview-xohzwb.png
+updated_at: '2026-09-28T17:18:24.793974+00:00'
+last_reviewed: null
 ---
 
 # IRIS² Sovereign Connectivity Constellation
@@ -25,3 +27,7 @@ IRIS² (Infrastructure for Resilience, Interconnectivity and Security by Satelli
 The SpaceRISE consortium (led by Eutelsat, SES, and Hispasat with technology partners Airbus, Thales Alenia Space, and others) was awarded the concession in 2024. Initial services are targeted for 2028, with full operational capability by 2030.
 
 The strategic rationale is threefold: government secure communications (military, diplomatic, border control) independent of US systems, rural broadband (connecting the 5% of Europeans without adequate internet), and critical infrastructure resilience (backup connectivity for energy grids, financial systems, and emergency services). IRIS² ensures Europe has sovereign space-based connectivity that cannot be denied or degraded by a foreign actor.
+
+## Sources
+
+- [https://defence-industry-space.ec.europa.eu/eu-space/iris2_en](https://defence-industry-space.ec.europa.eu/eu-space/iris2_en)

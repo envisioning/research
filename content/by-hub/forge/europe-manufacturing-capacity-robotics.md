@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853791/forge/technologies/b08d3773-e2c8-492d-a610-d5a3b17e5db0-google-gemini-3.1-flash-image-preview-w1a8hb.jpg
+updated_at: '2026-09-28T17:18:24.952985+00:00'
+last_reviewed: null
 ---
 
 # Manufacturing Capacity Robotics
@@ -25,3 +27,7 @@ Isembard (UK, £9M raised in 2025) builds robotic manufacturing systems designed
 The manufacturing capacity crisis is a strategic vulnerability exposed by COVID supply chain disruptions and the reshoring imperative: Western nations realized they had offshored so much production that they couldn't manufacture essential goods domestically. Rebuilding manufacturing capacity at the speed required for national security demands a different approach — modular, rapidly deployable robotic production systems rather than bespoke factory construction.
 
 Isembard sits at the intersection of defense industrial policy and robotics: NATO nations need to produce munitions, drones, and equipment at wartime rates, but decades of peacetime consolidation left manufacturing capacity inadequate. The company's approach — standardized robotic manufacturing cells that can be reconfigured for different products — enables the flexible, rapid-scaling production capability that defense planners require.
+
+## Sources
+
+- [https://tech.eu/2025/04/24/isembard-raised-9m-to-address-manufacturing-capacity-crisis-in-the-west/](https://tech.eu/2025/04/24/isembard-raised-9m-to-address-manufacturing-capacity-crisis-in-the-west/)

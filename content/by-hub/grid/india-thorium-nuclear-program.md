@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807588/grid/technologies/37c0ac75-7d21-40d3-bf2d-64ea2cb2d04d-google-gemini-3.1-flash-image-preview-a50y66.jpg
+updated_at: '2026-09-28T17:18:06.156804+00:00'
+last_reviewed: null
 ---
 
 # Three-Stage Nuclear Power Program (Thorium Cycle)
@@ -26,3 +28,9 @@ India's three-stage nuclear power program is a uniquely ambitious, multi-decade 
 The Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, Tamil Nadu, has been under construction and testing, with the government announcing plans for four additional 600 MWe fast breeder reactors. The 2024 Union Budget opened the door for private sector participation in nuclear power for the first time, potentially accelerating investment and deployment.
 
 India's thorium nuclear program is strategically significant because thorium is far more abundant than uranium, and thorium reactors produce less long-lived radioactive waste. If India successfully commercializes thorium-based nuclear energy, it would gain energy independence from uranium-importing constraints and possess a technology that could be exported to thorium-rich nations worldwide. No other country has invested as systematically in closing the thorium fuel cycle.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/India's_three-stage_nuclear_power_programme](https://en.wikipedia.org/wiki/India's_three-stage_nuclear_power_programme)
+- [https://world-nuclear.org/information-library/country-profiles/countries-g-n/india](https://world-nuclear.org/information-library/country-profiles/countries-g-n/india)
+- [https://www.orfonline.org/expert-speak/the-prototype-fast-breeder-reactor-and-india-s-pursuit-for-energy-security](https://www.orfonline.org/expert-speak/the-prototype-fast-breeder-reactor-and-india-s-pursuit-for-energy-security)

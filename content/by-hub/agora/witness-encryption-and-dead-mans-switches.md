@@ -9,6 +9,8 @@ trl: 4
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889247/agora/technologies/7720d2cc-1911-4b32-bda8-dd19aa3b5a21-google-gemini-3.1-flash-image-preview-3io6wf.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Witness Encryption & Dead Man's Switches

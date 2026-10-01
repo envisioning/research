@@ -9,6 +9,8 @@ trl: 3
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765478555/folio/technologies/neural-interface-headsets-google-gemini-3-pro-image-preview-sihab7.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Neural Interface Headsets

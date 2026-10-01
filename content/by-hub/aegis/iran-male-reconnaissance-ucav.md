@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872832/aegis/technologies/9b12fa4c-885a-4811-9979-baaa4a733280-google-gemini-3.1-flash-image-preview-kf1omz.jpg
+updated_at: '2026-09-28T17:17:16.420083+00:00'
+last_reviewed: null
 ---
 
 # Medium-Altitude Reconnaissance & Strike UAVs
@@ -26,3 +28,9 @@ Iran's medium-altitude long-endurance (MALE) drone fleet — anchored by the Moh
 The program originated in the Iran-Iraq War era, making Iran one of the earliest adopters of military drone technology. Decades of iterative development have produced a mature industrial base capable of serial production. The Mohajer-6 has been deployed in domestic military exercises and transferred to allied forces. Iran has also developed the Shahed-129, a larger MALE platform with armed capability and longer endurance.
 
 Strategically, the MALE drone program complements the loitering munition fleet by providing the reconnaissance layer that identifies and designates targets. The export dimension is significant: Iran has become a competitive supplier of armed drones to countries unable or unwilling to purchase Western or Chinese alternatives, carving out a niche in the lower end of the global MALE drone market.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Mohajer-6](https://en.wikipedia.org/wiki/Mohajer-6)
+- [https://en.wikipedia.org/wiki/Shahed_drones](https://en.wikipedia.org/wiki/Shahed_drones)
+- [https://www.army-technology.com/projects/fattah-hypersonic-ballistic-missile-iran/](https://www.army-technology.com/projects/fattah-hypersonic-ballistic-missile-iran/)

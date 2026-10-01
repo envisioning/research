@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074453/aura/technologies/custom-3d-printed-cosmetics-gemini-3-pro-au3k8e.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Custom 3D-Printed Cosmetics

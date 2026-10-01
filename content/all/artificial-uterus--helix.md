@@ -9,6 +9,8 @@ trl: 4
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889498/helix/technologies/8447836f-c490-4ac7-9e11-83bf320f4fa7-google-gemini-3.1-flash-image-preview-7wuspe.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Artificial Uterus

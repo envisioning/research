@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774854244/polis/technologies/f7f46a26-e2d6-4d5d-8e44-48c99e81c8f3-google-gemini-3.1-flash-image-preview-oooc1a.jpg
+updated_at: '2026-09-28T17:17:05.05199+00:00'
+last_reviewed: null
 ---
 
 # X-Road Decentralized Data Exchange
@@ -26,3 +28,9 @@ X-Road is Estonia's data exchange layer — a decentralized, encrypted, blockcha
 The architecture is the innovation: rather than building a centralized government database (which creates a single point of failure and privacy concern), X-Road lets each institution maintain its own database while enabling authorized cross-queries. When a citizen applies for a building permit, the system automatically retrieves land registry data, tax status, and identity verification from separate databases — in milliseconds, without any of those databases sharing raw data with each other. The 'once only' principle means citizens never provide the same information twice.
 
 X-Road has been adopted by Finland (as Suomi.fi), deployed in Iceland, Ukraine, and Japan, and studied by 20+ additional countries. Estonia and Finland jointly operate a cross-border X-Road connection — a Finnish doctor can access an Estonian patient's prescription data in real-time, the world's first cross-border interoperable government data exchange. The technology underpins Estonia's e-Residency program, which has attracted 110,000+ digital residents from 170 countries who run businesses entirely through Estonia's digital infrastructure without physically being in the country.
+
+## Sources
+
+- [https://www.e-resident.gov.ee/blog/posts/firsts-from-estonia/](https://www.e-resident.gov.ee/blog/posts/firsts-from-estonia/)
+- [https://www.e-resident.gov.ee/blog/posts/a-to-z-of-e-residency-part-3/](https://www.e-resident.gov.ee/blog/posts/a-to-z-of-e-residency-part-3/)
+- [https://interoperable-europe.ec.europa.eu/collection/public-sector-tech-watch/use-national-blockchain-infrastructure-support-e-residency-initiative-estonia](https://interoperable-europe.ec.europa.eu/collection/public-sector-tech-watch/use-national-blockchain-infrastructure-support-e-residency-initiative-estonia)

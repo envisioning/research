@@ -3,19 +3,22 @@ slug: misinformation-epistemic-crisis-funding
 hub: agape
 title: Funding to Combat Misinformation & Epistemic Crisis
 summary: Growing philanthropic investment in combating misinformation, supporting
+  journalism, and addressing the broader epistemic crisis.
 permalink: https://www.envisioning.com/agape/misinformation-epistemic-crisis-funding
 collection: knowledge-evidence-sensemaking
 trl: 2
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367783/agape/signals/misinformation-epistemic-crisis-funding-google-gemini-3-pro-image-preview-s37dyl.jpg
+updated_at: '2026-10-01T09:32:01.404111+00:00'
+last_reviewed: null
 ---
 
 # Funding to Combat Misinformation & Epistemic Crisis
 
 ## Summary
 
-Growing philanthropic investment in combating misinformation, supporting
+Growing philanthropic investment in combating misinformation, supporting journalism, and addressing the broader epistemic crisis.
 
 ## Description
 

@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774854068/aegis/technologies/df79f8d0-5d7e-4325-a6d4-de4f719c9017-google-gemini-3.1-flash-image-preview-zbe1my.jpg
+updated_at: '2026-09-28T17:16:27.193514+00:00'
+last_reviewed: null
 ---
 
 # Modular Rapid-Production Missile Systems
@@ -25,3 +27,7 @@ Frankenburg Technologies (Estonia, €150M raised) is developing missile systems
 The Russia-Ukraine war exposed Europe's critical weakness in munitions production. European nations collectively produce far fewer artillery rounds and missiles than required for high-intensity conflict. The ammunition crisis — where Ukraine consumed in weeks what European factories produce in months — forced a fundamental rethink of European defense manufacturing.
 
 The modular approach challenges the traditional European defense model of expensive, bespoke systems produced in small batches by national champions. By designing for mass production from the start, companies like Frankenburg aim to bring commercial manufacturing efficiency to defense — a shift that could reshape European defense industrial policy.
+
+## Sources
+
+- [https://nitter.net/itsolelehmann/status/1912455565886038201](https://nitter.net/itsolelehmann/status/1912455565886038201)

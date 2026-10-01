@@ -10,6 +10,8 @@ trl: 2
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766599016/habitacao/technologies/transferencia-tecnologica-transfronteirica-habitacao-google-gemini-3-pro-image-preview-l2hnqq.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Transferência Tecnológica em Habitação Acessível
@@ -25,3 +27,7 @@ Transferência tecnológica transfronteiriça em habitação acessível descreve
 No Brasil, isso representa reconhecimento de que soluções desenvolvidas para desafios locais (déficit habitacional, custos, escala) podem ser valiosas em outros contextos, especialmente em mercados onde habitação acessível é também um desafio. A tecnologia está em estágio inicial mas mostra potencial para criar novos modelos de negócio baseados em exportação de conhecimento.
 
 O sinal de mudança é a transformação de habitação acessível de 'problema local' para 'oportunidade de exportação de conhecimento', criando novos modelos de negócio onde expertise brasileira em habitação social e construção industrializada se torna ativo exportável. Isso impacta como se pensa inovação (não apenas importação, mas exportação), desenvolvimento de capacidades locais e posicionamento do Brasil no mercado global de construção e habitação.
+
+## Sources
+
+- [Guia completo da casa adaptada: como transformar cada ambiente em um espaço acessível e inclusivo](https://www.deficienteciente.com.br/guia-completo-da-casa-adaptada-como-transformar-cada-ambiente-em-um-espaco-acessivel-e-inclusivo.html) (2025)

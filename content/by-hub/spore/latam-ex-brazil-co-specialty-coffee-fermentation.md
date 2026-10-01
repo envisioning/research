@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813317/spore/technologies/c5cf492f-cae1-4077-a3a6-95cd52eee71f-google-gemini-3.1-flash-image-preview-08dxvq.png
+updated_at: '2026-09-28T17:17:36.160102+00:00'
+last_reviewed: null
 ---
 
 # Colombia Specialty Coffee Processing Technology
@@ -25,3 +27,9 @@ Colombia's specialty coffee sector has evolved from simply growing high-altitude
 The technology ecosystem extends beyond fermentation tanks. Colombian specialty producers now deploy refractometers to measure mucilage sugar content, pH meters for fermentation monitoring, and moisture meters calibrated for different drying protocols (raised beds, mechanical dryers, hybrid systems). The Cenicafé research institute, funded by the Colombian coffee federation (FNC), has published extensively on optimal fermentation microbiomes, identifying specific yeast and lactic acid bacteria strains that produce desired flavor outcomes. Startups like Demetria use near-infrared spectroscopy and AI to grade green coffee quality without destructive cupping, enabling consistent quality at scale.
 
 Strategically, Colombia is transforming from a volume coffee exporter competing on price against Brazil and Vietnam into a processing technology leader that captures value through technique rather than terroir alone. This matters because climate change is shifting optimal growing altitudes upward and increasing temperature variability — potentially undermining Colombia's traditional geographic advantage. By building processing expertise that can extract premium quality from a wider range of raw cherries, Colombia hedges its climate risk while establishing intellectual property in coffee science that is already being licensed and imitated across Central America, Africa, and Southeast Asia. The specialty segment now represents over 30% of Colombia's coffee export value despite being less than 15% by volume.
+
+## Sources
+
+- [https://perfectdailygrind.com/2023/04/anaerobic-fermentation-coffee-processing/](https://perfectdailygrind.com/2023/04/anaerobic-fermentation-coffee-processing/)
+- [https://www.cenicafe.org/](https://www.cenicafe.org/)
+- [https://sca.coffee/research/coffee-fermentation](https://sca.coffee/research/coffee-fermentation)

@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373233/datatrends/technologies/data-driven-culture-google-gemini-3-pro-image-preview-1zlubo.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Management-Led Data Culture

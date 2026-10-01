@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871598/apogee/technologies/b9cf9fc2-1904-4d15-9973-8245d74fdf6e-google-gemini-3.1-flash-image-preview-ra1mj9.png
+updated_at: '2026-09-28T17:16:52.838384+00:00'
+last_reviewed: null
 ---
 
 # RADARSAT Constellation Mission Expansion
@@ -26,3 +28,8 @@ The RADARSAT Constellation Mission (RCM), consisting of three synthetic aperture
 RCM matters because synthetic aperture radar is one of the few Earth observation technologies that works in Canada's challenging conditions — through clouds, darkness, and the Arctic winter. This is essential for monitoring the Northwest Passage (increasingly navigable due to climate change), tracking illegal fishing, managing disaster response, and supporting military operations in the North.
 
 The strategic significance of RCM expansion is fundamentally about Arctic sovereignty. As the Arctic opens due to climate change, Canada faces increasing pressure to demonstrate effective monitoring and control of its Northern territory and waters. Satellite-based radar surveillance is the only practical way to maintain awareness over such vast and remote areas. The fourth satellite improves revisit time and coverage, strengthening Canada's ability to assert sovereignty over one of the world's most strategically important emerging regions.
+
+## Sources
+
+- [https://www.canada.ca/en/space-agency/news/2025/12/government-of-canada-invests-47-million-to-secure-access-to-essential-canadian-earth-observation-data.html](https://www.canada.ca/en/space-agency/news/2025/12/government-of-canada-invests-47-million-to-secure-access-to-essential-canadian-earth-observation-data.html)
+- [https://mda.space/article/mda-space-awarded-initial-contract-by-canadian-space-agency-for-radarsat-constellation-mission-replenishment-satellite](https://mda.space/article/mda-space-awarded-initial-contract-by-canadian-space-agency-for-radarsat-constellation-mission-replenishment-satellite)

@@ -10,6 +10,8 @@ trl: 1
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902990/xenotech/technologies/usap-reverse-engineering-openrouter-google-gemini-3.1-flash-image-preview-9j1zz9.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Reverse Engineering
@@ -35,3 +37,7 @@ Alleged programs include studying exotic propulsion, metamaterials, anti-gravity
 Verification faces fundamental barriers
 
 extreme secrecy prevents independent confirmation; whistleblower testimonies contain classified information that cannot be corroborated publicly; alternative explanations exist for all claimed evidence; and government denial is consistent with either nonexistence or legitimate concealment. The reverse-engineering narrative has persisted for decades across multiple independent sources while remaining unsubstantiated through physical evidence or conclusive documentation.
+
+## Sources
+
+- [Whistleblower: Feds recovered ‘non-human’ biological material from UFO crash site](https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site) (2025)

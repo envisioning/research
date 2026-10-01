@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938707/xenotech/technologies/bio-synthetic-probes-organic-instruments-imagegen-v1.png
+updated_at: '2026-08-28T17:38:28.112417+00:00'
+last_reviewed: null
 ---
 
 # Bio-Synthetic Probes
@@ -80,3 +82,10 @@ While lacking empirical evidence, bio-synthetic probes represent a coherent tech
 ## Significance
 
 Bio-Synthetic Probes represent a fundamental advancement in xenotechnological speculation, bridging conventional medical technology with biological consciousness integration. As instruments optimized for living system interaction, they exemplify the biological interface frontier of advanced technology, suggesting evolution beyond mechanical systems toward organic-mechanical hybrid intelligence.
+
+## Sources
+
+- [Hydrogel with cell-cell adhesion cues enhances neural regeneration](http://www.nature.com/articles/s41467-026-68632-9) (2026)
+- [World’s First Living Neuron Computer Plays Doom Game](https://www.electricaltechnology.org/2026/03/worlds-first-living-neuron-biological-computer.html) (2026)
+- [A movable long-term implantable soft microfibre for dynamic bioelectronics](https://www.nature.com/articles/s41586-025-09344-w) (2025)
+- [High-density soft bioelectronic fibres for multimodal sensing and stimulation](https://www.nature.com/articles/s41586-025-09481-2) (2025)

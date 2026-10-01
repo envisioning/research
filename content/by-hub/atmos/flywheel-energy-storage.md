@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886742/atmos/technologies/3e2a82c2-73d2-460e-aab5-e35e17c05cec-google-gemini-3.1-flash-image-preview-rf8lr5.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Flywheel Energy Storage

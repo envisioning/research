@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871483/wintermute/technologies/a70fcbc9-1d30-4633-be19-c890fea3e812-google-gemini-3.1-flash-image-preview-fobak3.png
+updated_at: '2026-09-28T17:17:06.124259+00:00'
+last_reviewed: null
 ---
 
 # AI Safety Evaluation Methods
@@ -25,3 +27,8 @@ Multiple Canada CIFAR AI Chairs at the Vector Institute and Mila are developing 
 These methods matter because static benchmarks are increasingly gamed by AI companies, and the world needs dynamic evaluation approaches that can assess model safety, alignment, and capability more honestly. Canadian researchers are at the forefront of developing methods that are harder to overfit and more representative of real-world deployment scenarios.
 
 The strategic implication is that Canada is positioning itself as a global authority on AI safety evaluation — a role that could become regulatory infrastructure as governments worldwide require independent AI audits. This is a quintessentially Canadian play: not building the biggest models, but ensuring the world has trustworthy ways to evaluate them.
+
+## Sources
+
+- [https://cifar.ca/cifarnews/2025/12/03/building-safer-ai-with-advanced-evaluation-methods/](https://cifar.ca/cifarnews/2025/12/03/building-safer-ai-with-advanced-evaluation-methods/)
+- [https://cifar.ca/cifarnews/2025/07/03/new-and-returning-ai-talent-at-cifar/](https://cifar.ca/cifarnews/2025/07/03/new-and-returning-ai-talent-at-cifar/)

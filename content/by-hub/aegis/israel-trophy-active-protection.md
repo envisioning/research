@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875390/aegis/technologies/5976a3bd-e1c2-46da-bd6b-e3d055065f5f-google-gemini-3.1-flash-image-preview-06l4bl.jpg
+updated_at: '2026-09-28T17:18:43.112674+00:00'
+last_reviewed: null
 ---
 
 # Active Protection System for Armored Vehicles
@@ -25,3 +27,8 @@ Trophy (ASPRO-A) is an active protection system developed by Rafael that detects
 Trophy has redefined armored warfare by dramatically improving tank survivability against anti-tank guided missiles — the weapon class that had increasingly tilted the cost equation against heavy armor. In Gaza operations, Trophy achieved an unprecedented 100% success rate against various ATGM threats, fundamentally challenging the narrative that tanks are obsolete in modern warfare.
 
 The U.S. Army adopted Trophy for its M1 Abrams main battle tanks, marking a historic acknowledgment that American vehicle protection technology had been surpassed by an Israeli system. Trophy is now being adapted to counter drone threats, extending its relevance into the emerging domain of unmanned aerial systems. The system's combat pedigree and continuous evolution make it the global gold standard in vehicle active protection.
+
+## Sources
+
+- [https://drrichswier.com/2025/08/30/heres-how-israeli-military-technology-continues-to-improve-the-u-s-military/](https://drrichswier.com/2025/08/30/heres-how-israeli-military-technology-continues-to-improve-the-u-s-military/)
+- [https://en.wikipedia.org/wiki/Trophy_(countermeasure)](https://en.wikipedia.org/wiki/Trophy_(countermeasure))

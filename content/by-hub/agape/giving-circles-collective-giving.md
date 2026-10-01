@@ -3,19 +3,22 @@ slug: giving-circles-collective-giving
 hub: agape
 title: Rise of Giving Circles & Collective Giving
 summary: Proliferation of giving circles and collective giving models that democratize
+  donor decision-making and build community.
 permalink: https://www.envisioning.com/agape/giving-circles-collective-giving
 collection: power-agency-governance
 trl: 2
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367682/agape/signals/giving-circles-collective-giving-google-gemini-3-pro-image-preview-u6y7tr.jpg
+updated_at: '2026-10-01T09:30:49.980612+00:00'
+last_reviewed: null
 ---
 
 # Rise of Giving Circles & Collective Giving
 
 ## Summary
 
-Proliferation of giving circles and collective giving models that democratize
+Proliferation of giving circles and collective giving models that democratize donor decision-making and build community.
 
 ## Description
 

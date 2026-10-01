@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810221/helix/technologies/31e2904d-a0f0-4bc5-9d78-df5af298a08c-google-gemini-3.1-flash-image-preview-2zn13o.jpg
+updated_at: '2026-09-28T17:18:08.044298+00:00'
+last_reviewed: null
 ---
 
 # Digitized Community Health Worker Platforms
@@ -26,3 +28,8 @@ Community health workers (CHWs) are the backbone of healthcare delivery in rural
 These platforms work offline-first, syncing data when connectivity is available. They support SMS-based reporting for CHWs without smartphones. AI-assisted triage helps workers with limited training identify danger signs in pregnant women, malnourished children, and patients with TB or malaria symptoms. Real-time dashboards give health ministries visibility into disease patterns across thousands of remote communities.
 
 The model is uniquely African in its design philosophy: rather than waiting for enough doctors (Africa has 0.2 physicians per 1,000 people vs. 3.5 in Europe), it multiplies the effectiveness of existing human infrastructure with technology. Ethiopia's Health Extension Program, Kenya's Community Health Strategy, and Rwanda's CHW network all use these digital tools at national scale. The approach is now being studied and adopted in South Asia and Southeast Asia.
+
+## Sources
+
+- [https://mohacafrica.org/technology-in-african-healthcare/](https://mohacafrica.org/technology-in-african-healthcare/)
+- [https://www.healthcare.digital/single-post/healthtech-africa-emerges-in-2025-driven-by-significant-investments-and-innovation](https://www.healthcare.digital/single-post/healthtech-africa-emerges-in-2025-driven-by-significant-investments-and-innovation)

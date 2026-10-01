@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858456/grid/technologies/78030abb-9364-4408-a29a-def6e434e236-google-gemini-3.1-flash-image-preview-i3fqni.jpg
+updated_at: '2026-09-28T17:16:46.931452+00:00'
+last_reviewed: null
 ---
 
 # Geothermal Direct-Use Heating for Agriculture
@@ -26,3 +28,8 @@ New Zealand is developing web-based tools and incentive programs to help greenho
 New Zealand's geothermal strategy explicitly targets expanded direct-use applications as a pathway to decarbonize regional industries. The country's existing geothermal fields produce hot water at temperatures suitable for most industrial heating applications (80-180°C), and the geographic concentration of horticulture and forestry near geothermal resources in the central North Island creates a natural synergy. The government's 'From the Ground Up' strategy launched in July 2025 includes direct-use expansion as a near-term priority.
 
 Direct-use geothermal represents a lower-risk, lower-cost complement to the high-profile supercritical drilling program. While supercritical technology aims for breakthrough energy production, direct-use heating delivers immediate emissions reductions using proven technology. For New Zealand's agricultural export industries — facing increasing pressure from trading partners to demonstrate low carbon footprints — geothermal-heated greenhouses and processing facilities offer a competitive advantage that fossil-fuel-dependent competitors cannot easily replicate.
+
+## Sources
+
+- [https://www.thinkgeoenergy.com/new-zealand-launches-long-term-strategy-for-sustainable-growth-of-geothermal-sector/](https://www.thinkgeoenergy.com/new-zealand-launches-long-term-strategy-for-sustainable-growth-of-geothermal-sector/)
+- [https://newsroom.co.nz/2025/07/31/geothermal-strategy-can-be-catalyst-for-transformational-change/](https://newsroom.co.nz/2025/07/31/geothermal-strategy-can-be-catalyst-for-transformational-change/)

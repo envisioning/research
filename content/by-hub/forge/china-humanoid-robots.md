@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797932/forge/technologies/d05704f7-099e-439d-a156-29035f305b75-google-gemini-3.1-flash-image-preview-mqyn64.jpg
+updated_at: '2026-09-28T17:17:03.690715+00:00'
+last_reviewed: null
 ---
 
 # Humanoid Robots
@@ -25,3 +27,9 @@ China's humanoid robot industry went from research curiosity to mass production 
 The primary deployment target is automotive manufacturing. BYD and other automakers are testing humanoids for tasks that are too complex for fixed robots but too dangerous or repetitive for humans — loading parts, quality inspection, warehouse logistics. The government warned of a bubble (NDRC), but the market is consolidating around a handful of serious players.
 
 The 90% shipment gap with the US reflects a manufacturing advantage, not necessarily a technology lead. US firms like Figure AI and Boston Dynamics may have more sophisticated models, but China's ability to produce at scale and low cost is creating a deployment lead that generates the real-world data needed to improve.
+
+## Sources
+
+- [https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/](https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/)
+- [https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-in-2025](https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-in-2025)
+- [https://www.theresarobotforthat.com/chinese-firms-ship-10000-humanoids-us-just-150/](https://www.theresarobotforthat.com/chinese-firms-ship-10000-humanoids-us-just-150/)

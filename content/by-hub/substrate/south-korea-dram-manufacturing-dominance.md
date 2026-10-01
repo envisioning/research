@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816855/substrate/technologies/70ec0bdf-3eb4-4d0c-93d6-2e8dfb44f2cb-google-gemini-3.1-flash-image-preview-utnihh.png
+updated_at: '2026-09-28T17:17:36.955867+00:00'
+last_reviewed: null
 ---
 
 # Advanced DRAM Manufacturing
@@ -25,3 +27,8 @@ Samsung and SK Hynix produce DRAM at the most advanced process nodes in the worl
 DRAM manufacturing is one of the most capital-intensive and technically demanding industries on Earth. Each generation requires tens of billions in fab investment and pushes lithography, deposition, and etching to physical limits. Micron (US) is the only non-Korean competitor with significant share, and it trails both Samsung and SK Hynix in volume and process maturity.
 
 Korea's DRAM dominance underpins its entire semiconductor strategy — the cash flow from memory finances R&D in logic chips, advanced packaging, and next-generation memory architectures. Any disruption to Korean DRAM production would cascade through the global electronics supply chain within weeks.
+
+## Sources
+
+- [https://www.statista.com/statistics/271726/global-market-share-held-by-dram-chip-vendors/](https://www.statista.com/statistics/271726/global-market-share-held-by-dram-chip-vendors/)
+- [https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-dram-market-dominance-2025](https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-dram-market-dominance-2025)

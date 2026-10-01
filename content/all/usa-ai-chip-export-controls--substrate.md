@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774862092/substrate/technologies/f5557606-d03b-40f6-a68d-df1f6d4e3eac-google-gemini-3.1-flash-image-preview-qqn4tl.jpg
+updated_at: '2026-09-28T17:17:50.670275+00:00'
+last_reviewed: null
 ---
 
 # AI Chip Export Control Regime
@@ -26,3 +28,8 @@ The Bureau of Industry and Security's AI Diffusion Rule, issued January 2025, es
 This represents the most aggressive US technology denial strategy since Cold War-era COCOM export controls. The policy leverages a unique chokepoint: virtually all advanced AI chips are designed by US companies (NVIDIA, AMD, Intel) or use US-origin electronic design automation (EDA) tools, giving Washington extraordinary leverage over global AI development.
 
 The strategic logic is to slow China's AI advancement while the US builds an insurmountable lead. However, the policy carries risks: it incentivizes China to develop fully indigenous chip ecosystems, fragments the global technology market, and may reduce US company revenues that fund R&D. The regime also creates diplomatic tensions with allies who want unrestricted access to AI technology.
+
+## Sources
+
+- [https://www.congress.gov/crs-product/R48642](https://www.congress.gov/crs-product/R48642)
+- [https://www.cfr.org/articles/how-2026-could-decide-future-artificial-intelligence](https://www.cfr.org/articles/how-2026-could-decide-future-artificial-intelligence)

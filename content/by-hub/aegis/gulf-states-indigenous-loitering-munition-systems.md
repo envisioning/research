@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814059/aegis/technologies/4e740926-f9d6-4e64-8401-8e02ca5e6e94-google-gemini-3.1-flash-image-preview-p60m75.png
+updated_at: '2026-09-28T17:18:12.774293+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Loitering Munition Systems
@@ -26,3 +28,8 @@ The UAE's ADASI subsidiary (under EDGE Group) has developed multiple families of
 Loitering munitions have become the defining weapons of 21st-century conflict — as demonstrated in Nagorno-Karabakh, Ukraine, and Yemen. Nations that cannot produce them domestically face a critical capability gap. The Gulf states' transition from pure consumers to producers of these systems represents a fundamental shift in regional military-industrial power, moving beyond the traditional model of purchasing Western or Israeli systems.
 
 The indigenous loitering munition capability is strategically significant because these weapons are often subject to the tightest export controls. Israel's Harop and US Switchblade are restricted to approved buyers; Turkey's Bayraktar has shown how domestic drone production transforms geopolitical leverage. The UAE's ability to produce, use, and export these systems independently — without US or Israeli permission — makes it the first Gulf nation with genuine autonomous strike sovereignty.
+
+## Sources
+
+- [https://edgegroup.ae/adasi](https://edgegroup.ae/adasi)
+- [https://www.armyrecognition.com/focus-analysis-conflicts/army/defence-security-industry-technology/halcon-edge-from-uae-has-designed-shadow-jet-engine-powered-uavs-loitering-munitions](https://www.armyrecognition.com/focus-analysis-conflicts/army/defence-security-industry-technology/halcon-edge-from-uae-has-designed-shadow-jet-engine-powered-uavs-loitering-munitions)

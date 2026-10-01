@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817647/grid/technologies/de334492-cb8a-4a2c-bf99-29b2c4757a55-google-gemini-3.1-flash-image-preview-g9j5p1.png
+updated_at: '2026-09-28T17:17:37.597555+00:00'
+last_reviewed: null
 ---
 
 # Hydrogen Fuel Cell Manufacturing
@@ -26,3 +28,8 @@ Hyundai's HTWO brand encompasses its hydrogen fuel cell system business, operati
 Hyundai's vertical integration in hydrogen is unmatched globally — it manufactures the membrane electrode assemblies, stacks, balance-of-plant components, and complete vehicle platforms in-house. Toyota has comparable fuel cell technology but has not achieved the same manufacturing scale or breadth of application. Hyundai has shipped Xcient hydrogen trucks to Switzerland, Germany, and California.
 
 The HTWO business is being spun into a standalone entity to sell fuel cell systems to third parties, positioning Hyundai as a supplier to the broader hydrogen industry rather than just a captive user. If the hydrogen economy scales as Korea projects, HTWO's head start in manufacturing could create a dominant position analogous to Korea's role in memory chips.
+
+## Sources
+
+- [https://www.htwo.hyundai.com/](https://www.htwo.hyundai.com/)
+- [https://www.hyundai.com/worldwide/en/company/newsroom/htwo-fuel-cell-factory](https://www.hyundai.com/worldwide/en/company/newsroom/htwo-fuel-cell-factory)

@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855683/aegis/technologies/7a229ae5-424b-4a45-b4da-7954214ba577-google-gemini-3.1-flash-image-preview-ssyvdr.jpg
+updated_at: '2026-09-28T17:17:47.36199+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Utility Helicopter Platform
@@ -26,3 +28,7 @@ The TAI T625 Gökbey is Turkey's first fully indigenous general-purpose helicopt
 The Gökbey fills a critical gap in Turkey's rotorcraft capability. While Turkey successfully produces the T129 ATAK light attack helicopter (based on the AgustaWestland A129 Mangusta), it remains dependent on foreign helicopter types for utility roles. The Gökbey's indigenous design means Turkey controls the type certificate, upgrade path, and export rights — unlike the T129, whose engine exports were blocked by the US for certain customers.
 
 The helicopter is designed in utility, VIP, medevac, search-and-rescue, and maritime variants, creating a versatile platform family that can serve military and civilian markets. Export potential is significant, particularly for countries that face restrictions on purchasing Western helicopter types or prefer to diversify their supply chains away from US and European manufacturers.
+
+## Sources
+
+- [https://www.defenceturkey.com/en/content/original-power-system-ts1400-turboshaft-engine-developed-by-tei-s-seasoned-team-of-experts-for-the-t625-helicopter-3546](https://www.defenceturkey.com/en/content/original-power-system-ts1400-turboshaft-engine-developed-by-tei-s-seasoned-team-of-experts-for-the-t625-helicopter-3546)

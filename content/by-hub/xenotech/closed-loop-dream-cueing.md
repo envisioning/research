@@ -10,6 +10,8 @@ trl: 5
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939881/xenotech/technologies/closed-loop-dream-cueing-imagegen-v1.png
+updated_at: '2026-08-28T17:58:02.06223+00:00'
+last_reviewed: null
 ---
 
 # Dream Cueing Systems

@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875956/forge/technologies/d15e6833-6f2c-41bd-8b64-9db250c2848a-google-gemini-3.1-flash-image-preview-9hp5mi.jpg
+updated_at: '2026-09-28T17:17:26.115132+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Ground Combat and Patrol Vehicles
@@ -26,3 +28,7 @@ Israel has been a pioneer in deploying autonomous and semi-autonomous ground veh
 The operational imperative is clear: autonomous ground vehicles reduce soldier exposure in high-risk border and urban environments. Israel's extensive experience operating these systems in real-world security scenarios — not just field exercises — provides invaluable data for improving autonomy algorithms, terrain navigation, and human-machine teaming protocols.
 
 Strategically, autonomous ground combat vehicles represent the next frontier of military robotics after aerial drones. Israel's head start in operational deployment, combined with its AI, computer vision, and defense expertise, positions it as a leading exporter of ground autonomy technology. The U.S. Army's Robotic Combat Vehicle program and similar NATO initiatives are closely studying Israeli UGV operational experience.
+
+## Sources
+
+- [https://mod.gov.il/en/press-releases/press-room/quantum-computing-autonomous-systems-and-ai-israel-mod-showcases-breakthrough-technologies-at-bengaluru-tech-summit-2025](https://mod.gov.il/en/press-releases/press-room/quantum-computing-autonomous-systems-and-ai-israel-mod-showcases-breakthrough-technologies-at-bengaluru-tech-summit-2025)

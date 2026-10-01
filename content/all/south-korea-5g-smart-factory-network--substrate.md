@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817510/substrate/technologies/c82bcb58-11b3-47de-96ca-eda61d6fd40b-google-gemini-3.1-flash-image-preview-l9z7cn.jpg
+updated_at: '2026-09-28T17:17:21.245411+00:00'
+last_reviewed: null
 ---
 
 # 5G-Connected Smart Factory Network
@@ -26,3 +28,8 @@ The Korean government's Manufacturing Innovation 3.0 strategy set a target of 30
 Korea's 5G smart factory advantage comes from a unique convergence: the world's most advanced 5G infrastructure (60% subscriber penetration), the highest industrial robot density, and chaebol manufacturers willing to invest billions in digitization. Samsung's Pyeongtaek semiconductor fab, for example, uses 5G-connected autonomous guided vehicles, real-time defect detection via AI vision systems, and digital twins that simulate production flows before implementation. This is not a pilot — it's production-scale deployment.
 
 The program also targets SMEs (small and medium enterprises), which make up 99% of Korean businesses but lag in digitization. Government subsidies cover 50-70% of smart factory conversion costs for SMEs, creating a nationwide manufacturing upgrade that improves the competitiveness of Korea's entire industrial base, not just the chaebols. The model is now being exported to Vietnam, Indonesia, and Uzbekistan through Korea's ODA (Official Development Assistance) programs.
+
+## Sources
+
+- [https://thediplomat.com/2025/05/the-rise-of-ai-manufacturing-in-china-and-south-korea/](https://thediplomat.com/2025/05/the-rise-of-ai-manufacturing-in-china-and-south-korea/)
+- [https://www.trade.gov/country-commercial-guides/south-korea-manufacturing-technology-smart-factory](https://www.trade.gov/country-commercial-guides/south-korea-manufacturing-technology-smart-factory)

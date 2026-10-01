@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642038/altitude/technologies/blended-wing-body-airframes-google-gemini-3-pro-image-preview-m728gk.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Blended Wing Body (BWB) & Novel Airframes

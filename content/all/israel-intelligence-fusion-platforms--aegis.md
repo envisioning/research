@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875651/aegis/technologies/a48e7dad-a9fc-4e1a-836f-1b40a30ec450-google-gemini-3.1-flash-image-preview-5lecxn.jpg
+updated_at: '2026-09-28T17:16:36.731603+00:00'
+last_reviewed: null
 ---
 
 # Multi-Source Intelligence Fusion and Analysis Platforms
@@ -26,3 +28,8 @@ Israel has developed world-leading intelligence fusion platforms that integrate 
 These platforms leverage Israel's unique combination of intelligence domain expertise (from military service), AI/ML capabilities (for pattern recognition and anomaly detection), and big data engineering (for processing massive data volumes in real-time). The technology has evolved from passive collection and analysis to predictive intelligence — using historical patterns to anticipate threats before they materialize.
 
 Strategically, Israeli intelligence technology is a major export category that creates deep bilateral relationships with customer nations' security establishments. However, it also generates controversy — tools like NSO Group's Pegasus spyware and Cellebrite's phone-cracking technology have been criticized for enabling authoritarian surveillance. This tension between capability and responsibility is a defining challenge for Israel's intelligence technology industry.
+
+## Sources
+
+- [https://defence24.com/geopolitics/cyber-forces-israel](https://defence24.com/geopolitics/cyber-forces-israel)
+- [https://en.wikipedia.org/wiki/Unit_8200](https://en.wikipedia.org/wiki/Unit_8200)

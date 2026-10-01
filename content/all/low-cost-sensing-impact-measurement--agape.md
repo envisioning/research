@@ -3,19 +3,22 @@ slug: low-cost-sensing-impact-measurement
 hub: agape
 title: Low-Cost Sensing Devices for Impact Measurement
 summary: IoT sensors and devices tracking program outcomes in the field, enabling
+  real-time monitoring of social interventions.
 permalink: https://www.envisioning.com/agape/low-cost-sensing-impact-measurement
 collection: technology-infrastructure
 trl: 1
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368006/agape/signals/low-cost-sensing-impact-measurement-google-gemini-3-pro-image-preview-43n353.jpg
+updated_at: '2026-10-01T09:31:55.813256+00:00'
+last_reviewed: null
 ---
 
 # Low-Cost Sensing Devices for Impact Measurement
 
 ## Summary
 
-IoT sensors and devices tracking program outcomes in the field, enabling
+IoT sensors and devices tracking program outcomes in the field, enabling real-time monitoring of social interventions.
 
 ## Description
 

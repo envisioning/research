@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814428/apogee/technologies/b3afebe7-231e-47f2-9782-92e192041349-google-gemini-3.1-flash-image-preview-el2hri.jpg
+updated_at: '2026-09-28T17:17:24.630098+00:00'
+last_reviewed: null
 ---
 
 # MBZ-SAT Indigenous Earth Imaging Satellite
@@ -26,3 +28,9 @@ MBZ-SAT, named after UAE President Sheikh Mohamed bin Zayed, was launched on Jan
 The satellite provides high-resolution imagery for environmental monitoring, infrastructure management, navigation, and disaster relief — practical applications that serve both UAE national interests and potential commercial customers. MBZ-SAT's companion, Etihad-SAT (using radar imaging technology), expands the UAE's earth observation capabilities to all-weather, day-night imaging. Together, they give the UAE independent intelligence capabilities that previously required purchasing imagery from Western or Chinese satellite operators.
 
 The localization of satellite manufacturing creates industrial capabilities that extend far beyond space. The precision engineering, clean room manufacturing, composite materials, and systems integration required to build satellites domestically create a skilled workforce and supplier base applicable to aviation, defense, medical devices, and advanced electronics. The UAE's 25-year journey from purchasing its first satellite (Thuraya-1 in 2000) to manufacturing MBZ-SAT domestically illustrates how strategic patience and knowledge transfer can build genuine technological sovereignty.
+
+## Sources
+
+- [https://mediaoffice.ae/en/news/2025/january/15-01/mbrsc-announces-the-successful-launch-of-mbz-sat](https://mediaoffice.ae/en/news/2025/january/15-01/mbrsc-announces-the-successful-launch-of-mbz-sat)
+- [https://www.khaleejtimes.com/space/uae-made-mbz-sat-to-blast-off-in-january-2025-from-california](https://www.khaleejtimes.com/space/uae-made-mbz-sat-to-blast-off-in-january-2025-from-california)
+- [https://www.thenationalnews.com/future/space/2025/01/14/mbz-sat-launch-live/](https://www.thenationalnews.com/future/space/2025/01/14/mbz-sat-launch-live/)

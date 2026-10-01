@@ -10,6 +10,8 @@ trl: 7
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132966/haul/technologies/trade-finance-digitalization-google-gemini-3-pro-image-preview-atbx2m.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Trade Finance Digitalization Platforms

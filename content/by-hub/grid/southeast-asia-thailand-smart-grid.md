@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816133/grid/technologies/d104f3e1-a850-4739-a73c-b890bb9d0f3a-google-gemini-3.1-flash-image-preview-hwha5a.png
+updated_at: '2026-09-28T17:17:45.424986+00:00'
+last_reviewed: null
 ---
 
 # Smart Grid & Demand Response Systems
@@ -26,3 +28,7 @@ Thailand — The Electricity Generating Authority of Thailand (EGAT) is deployin
 Thailand's Power Development Plan targets 30% renewable energy by 2037, requiring fundamental grid modernization. The challenge is managing the 'duck curve' — solar generation peaks during the day when commercial demand is moderate, then drops at evening peak demand. Battery storage and demand response smooth this mismatch, but require intelligent grid management that Thailand's aging infrastructure wasn't designed for.
 
 The smart grid buildout coincides with the data center boom: the $23 billion in data center investments create predictable, large-scale electricity demand that can be shaped through demand response agreements. If data centers agree to load flexibility (shifting computational workloads based on grid conditions), they become grid stabilization assets rather than pure demand — a symbiotic relationship between digital and energy infrastructure.
+
+## Sources
+
+- [https://www.reuters.com/world/asia-pacific/thailand-says-approves-31-billion-of-data-centre-investments-2025-11-10/](https://www.reuters.com/world/asia-pacific/thailand-says-approves-31-billion-of-data-centre-investments-2025-11-10/)

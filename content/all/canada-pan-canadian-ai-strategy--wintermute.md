@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871618/wintermute/technologies/c06ab11e-1a81-4fc4-901d-37508ec10fdb-google-gemini-3.1-flash-image-preview-utkx6q.jpg
+updated_at: '2026-09-28T17:18:40.272016+00:00'
+last_reviewed: null
 ---
 
 # Pan-Canadian AI Strategy
@@ -26,3 +28,8 @@ The Pan-Canadian AI Strategy, launched in 2017 and renewed in 2021, channels fed
 This strategy matters because it created the institutional scaffolding that keeps Canada's AI talent pipeline flowing at a time when US and European labs aggressively recruit Canadian researchers. The three institutes collectively train thousands of graduate students and postdocs annually, and the AI Chairs program has attracted global talent including researchers who might otherwise work exclusively for private companies.
 
 Strategically, the Pan-Canadian AI Strategy is both Canada's crown jewel and its vulnerability. The research output is world-class — Mila alone produces more papers in top ML venues than many entire countries — but the commercial capture rate remains below what the investment warrants. The strategy's evolution toward applied partnerships and commercialization support in Phase 2 signals awareness of this gap.
+
+## Sources
+
+- [https://cifar.ca/ai/](https://cifar.ca/ai/)
+- [https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy](https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy)

@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898104/altitude/technologies/a96e7d31-0446-4137-b59e-6d4e8b3d1547-google-gemini-3.1-flash-image-preview-0s55zw.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Spaceplane

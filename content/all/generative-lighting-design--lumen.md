@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649903/lumen/technologies/generative-lighting-design-google-gemini-3-pro-image-preview-acg20o.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Generative Lighting Design

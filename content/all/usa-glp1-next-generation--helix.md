@@ -11,6 +11,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861208/helix/technologies/9a4722b7-1ed3-48c4-a285-62147741f0c5-google-gemini-3.1-flash-image-preview-aj5bp3.jpg
+updated_at: '2026-09-28T17:18:34.901241+00:00'
+last_reviewed: null
 ---
 
 # Next-Generation GLP-1 & Multi-Agonist Therapeutics
@@ -26,3 +28,8 @@ The GLP-1 revolution is entering its second phase. First-generation injectable s
 The clinical impact extends far beyond weight loss. GLP-1 drugs have shown benefits for cardiovascular disease, kidney disease, fatty liver disease, addiction, and neurodegeneration. They are being called 'the most important drug class since statins.' Medicare coverage expansion in 2026 will dramatically increase US access, with Novo Nordisk and Eli Lilly both signing government pricing agreements.
 
 The strategic implications are enormous: if 40% of US adults are obese and GLP-1s can safely reduce that, the downstream effects on healthcare costs, disability, and productivity could be measured in hundreds of billions annually. The technology is US-dominated (Eli Lilly) and Europe-dominated (Novo Nordisk), creating a Western pharmaceutical advantage in the fastest-growing drug market in history.
+
+## Sources
+
+- [https://www.biopharmadive.com/news/novo-nordisk-oral-wegovy-fda-approve-glp-1/808578/](https://www.biopharmadive.com/news/novo-nordisk-oral-wegovy-fda-approve-glp-1/808578/)
+- [https://www.npr.org/2026/01/01/nx-s1-5661682/whats-ahead-for-the-weight-loss-drugs-known-as-glp-1s-in-2026](https://www.npr.org/2026/01/01/nx-s1-5661682/whats-ahead-for-the-weight-loss-drugs-known-as-glp-1s-in-2026)

@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126911/quadrant/technologies/blockchain-traceability-google-gemini-3-pro-image-preview-6ce41t.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Blockchain Traceability Platforms

@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886921/superposition/technologies/431e320b-78d0-4221-8005-04250452eca2-google-gemini-3.1-flash-image-preview-qodede.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Time Crystal

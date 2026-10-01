@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872384/aegis/technologies/0b8813f1-a8a7-41ec-bd86-cd3db8afd0ce-google-gemini-3.1-flash-image-preview-e4pubs.jpg
+updated_at: '2026-09-28T17:17:16.828399+00:00'
+last_reviewed: null
 ---
 
 # Precision-Guided Ballistic Missile Systems
@@ -26,3 +28,9 @@ Iran maintains the largest and most diverse ballistic missile arsenal in the Mid
 The critical technological advancement in recent years has been the addition of terminal guidance to conventionally-armed ballistic missiles. Early Iranian missiles had circular error probable (CEP) measurements in kilometers; newer systems claim CEP figures in the tens of meters, achieved through GPS/INS integration, scene-matching terminal guidance, and maneuverable reentry vehicles. The April and October 2024 strikes against Israel provided the first large-scale combat data on these systems' actual accuracy.
 
 Iran's missile program is the cornerstone of its deterrence strategy, compensating for a conventional military that cannot match regional adversaries in airpower or naval capability. The program has continued to advance despite decades of sanctions and technology denial, demonstrating deep indigenous engineering capability in propulsion, guidance, materials science, and systems integration. It also represents a proliferation concern, with technology and components shared with allied groups in the region.
+
+## Sources
+
+- [https://www.iranwatch.org/our-publications/weapon-program-background-report/irans-centrifuges-models-status](https://www.iranwatch.org/our-publications/weapon-program-background-report/irans-centrifuges-models-status)
+- [https://en.wikipedia.org/wiki/Fattah-1](https://en.wikipedia.org/wiki/Fattah-1)
+- [https://www.armyrecognition.com/news/army-news/2026/iran-builds-layered-missile-and-mine-shield-against-u-s-carriers-in-strait-of-hormuz](https://www.armyrecognition.com/news/army-news/2026/iran-builds-layered-missile-and-mine-shield-against-u-s-carriers-in-strait-of-hormuz)

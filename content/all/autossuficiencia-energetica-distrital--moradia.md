@@ -10,6 +10,8 @@ trl: null
 impact: null
 investment: null
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326882/conectar/technologies/microgrids-urbanas-google-gemini-3-pro-image-preview-84bgnh.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Autossuficiência Energética Distrital (Energy-as-a-Node)
@@ -25,3 +27,7 @@ Autossuficiência energética distrital representa a transformação de edifíci
 No Brasil, essa integração é especialmente relevante dado a abundância solar, necessidade de resiliência energética frente a eventos extremos, e pressão por descarbonização. A tecnologia está em expansão em condomínios residenciais, edifícios comerciais e distritos que buscam reduzir custos, aumentar resiliência e contribuir para matriz energética limpa. A combinação de geração local, armazenamento e gestão inteligente transforma a lógica de investimento de capex alto para opex menor com menos interrupção de serviço. Plataformas de billing inteligente são essenciais para edifícios com geração solar distribuída, permitindo rastreamento de produção, consumo e créditos energéticos, oferecendo transparência, precisão e redução de custos administrativos.
 
 O sinal de mudança é estrutural: no futuro, essas tecnologias não existem em isolamento, mas formam um único sistema de orquestração energética onde edifícios e distritos são nós autônomos que podem operar independentemente da rede principal, negociar energia com a rede, e oferecer serviços de estabilização e resposta de demanda. Isso cria novos modelos de gestão energética que combinam geração local, armazenamento, resiliência, integração com a rede, medição inteligente e billing automatizado, especialmente relevante onde continuidade de serviços é crítica e eventos extremos podem interromper fornecimento.
+
+## Sources
+
+- [Greenvolt lança a primeira comunidade de energia com bateria de armazenamento em Portugal em parceria com a Ascendi](https://executivedigest.sapo.pt/noticias/greenvolt-lanca-a-primeira-comunidade-de-energia-com-bateria-de-armazenamento-em-portugal-em-parceria-com-a-ascendi) (2025)

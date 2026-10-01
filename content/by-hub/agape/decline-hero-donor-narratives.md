@@ -3,19 +3,22 @@ slug: decline-hero-donor-narratives
 hub: agape
 title: Decline of Hero-Donor Narratives
 summary: Decline of hero-donor narratives in favor of collective action, as individualistic
+  giving stories lose cultural resonance.
 permalink: https://www.envisioning.com/agape/decline-hero-donor-narratives
 collection: culture-values-narratives
 trl: 2
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372224/agape/signals/decline-hero-donor-narratives-google-gemini-3-pro-image-preview-8giknp.png
+updated_at: '2026-10-01T09:29:41.636056+00:00'
+last_reviewed: null
 ---
 
 # Decline of Hero-Donor Narratives
 
 ## Summary
 
-Decline of hero-donor narratives in favor of collective action, as individualistic
+Decline of hero-donor narratives in favor of collective action, as individualistic giving stories lose cultural resonance.
 
 ## Description
 

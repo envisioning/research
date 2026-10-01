@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812337/grid/technologies/061f2ef5-4ff1-4bbf-9c38-e35599eb2028-google-gemini-3.1-flash-image-preview-3une1r.png
+updated_at: '2026-09-28T17:17:23.082681+00:00'
+last_reviewed: null
 ---
 
 # ACR-300 Advanced SMR Deployment
@@ -25,3 +27,9 @@ In March 2025, Argentina announced plans to install four ACR-300 small modular r
 The ACR-300 (Advanced CANDU Reactor) is a light-water-cooled, heavy-water-moderated design that builds on Canada's CANDU reactor heritage — a technology Argentina has decades of operational experience with through Embalse. The ACR design uses slightly enriched uranium, natural uranium, and mixed oxide fuels, providing fuel cycle flexibility. The modular construction approach — factory-fabricating major components and assembling on-site — aims to reduce construction timelines compared to traditional nuclear builds.
 
 The strategic context includes Argentina's growing electricity demand (driven by Vaca Muerta industrial development and data centers), the need for firm baseload power to complement intermittent renewables, and the Milei administration's pro-nuclear stance. If all four units are built, they would represent the largest nuclear construction program in Latin America and make Argentina a significant nuclear power nation. The challenge is financing: at an estimated $5-8 billion per unit, the total investment exceeds Argentina's current fiscal capacity, requiring international partners.
+
+## Sources
+
+- [https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina](https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina)
+- [https://world-nuclear.org/our-association/publications/world-nuclear-outlook-report/argentina---world-nuclear-outlook-report](https://world-nuclear.org/our-association/publications/world-nuclear-outlook-report/argentina---world-nuclear-outlook-report)
+- [https://www.world-nuclear-news.org/articles/critical-design-review-for-argentina-s-carem-small](https://www.world-nuclear-news.org/articles/critical-design-review-for-argentina-s-carem-small)

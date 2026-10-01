@@ -10,6 +10,8 @@ trl: 2
 impact: 5
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179255/soma/technologies/collective-data-rights-google-gemini-3-pro-image-preview-f8tu3l.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Collective Data Rights

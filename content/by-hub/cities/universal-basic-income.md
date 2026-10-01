@@ -10,6 +10,8 @@ trl: 7
 impact: 1
 investment: 1
 image_url: https://www.datocms-assets.com/134194/1719228244-universal-basic-income.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Universal Basic Income
@@ -27,3 +29,12 @@ UBI, also known as unconditional basic income, functions as a regular financial 
 As automation continues to evolve, the displacement of traditional jobs is expected to increase, creating a need for new forms of social security. UBI addresses this by decoupling income from employment, thereby providing a buffer against the unpredictable nature of the modern job market. Furthermore, it encourages economic participation and innovation by giving people the financial freedom to explore new career paths, start businesses, and contribute creatively to their communities. This fosters a dynamic urban environment where economic activity is driven by diverse and innovative pursuits rather than mere survival.
 
 In essence, UBI is not just a financial instrument but a transformative social policy. It promotes social cohesion by reducing poverty and economic stress, often sources of urban unrest and instability. UBI can help reduce crime rates, improve mental health outcomes, and enhance the overall quality of life in urban areas by ensuring that all city dwellers have their basic needs met. Additionally, with a secure financial base, residents are more likely to engage in civic activities, volunteer, and invest in their local communities, strengthening the social fabric of cities.
+
+## Sources
+
+- [Basic Income in Cities: A Guide to City Experiments and Pilot Projects](https://www.nlc.org/resource/universal-basic-income-whos-piloting-it/)
+- [Can universal basic income boost financial inclusion and transparency?](https://www.brookings.edu/articles/can-universal-basic-income-boost-financial-inclusion-and-transparency/)
+- [Research shows benefits of guaranteed income as launch of Harris County pilot program nears](https://kinder.rice.edu/urbanedge/benefits-guaranteed-income-harris-county)
+- [The social legitimacy of the universal basic income from a social justice perspective: a comparative analysis of Germany and Slovenia](https://www.cambridge.org/core/journals/journal-of-international-and-comparative-social-policy/article/social-legitimacy-of-the-universal-basic-income-from-a-social-justice-perspective-a-comparative-analysis-of-germany-and-slovenia/BAAE78488B5F3AD7766733891589E7CF)
+- [Three reasons for universal basic income](https://www.brookings.edu/articles/three-reasons-for-universal-basic-income/)
+- [Unboxing Universal Basic Income](https://econreview.studentorg.berkeley.edu/unboxing-universal-basic-income/)

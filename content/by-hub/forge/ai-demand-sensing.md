@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111346/forge/technologies/ai-demand-sensing-google-gemini-3-pro-image-preview-g4cl6k.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # AI Demand Sensing and Dynamic Planning

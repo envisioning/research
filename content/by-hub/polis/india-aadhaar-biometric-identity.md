@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807499/polis/technologies/30a7c8fb-1e72-437e-8b43-538cce3f48a6-google-gemini-3.1-flash-image-preview-ncv43i.png
+updated_at: '2026-09-28T17:17:11.4597+00:00'
+last_reviewed: null
 ---
 
 # Aadhaar Biometric Identity System
@@ -25,3 +27,9 @@ Aadhaar is a 12-digit unique identity number issued by the Unique Identification
 Before Aadhaar, hundreds of millions of Indians had no formal identity document, making them invisible to the financial system, unable to open bank accounts or receive government benefits. Aadhaar solved this at population scale. It became the foundation layer for India Stack — enabling everything from instant bank account opening (eKYC) to digital signatures to welfare distribution.
 
 The geopolitical significance is substantial. Aadhaar demonstrated that a developing nation could build a digital identity system covering its entire population at a cost of roughly $1 per enrollment. The World Bank has studied it as a model for other developing nations. Critics raise privacy concerns about centralized biometric databases, but the system's role in enabling financial inclusion for 500+ million previously unbanked Indians is undeniable.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Aadhaar](https://en.wikipedia.org/wiki/Aadhaar)
+- [https://www.biometricupdate.com/202312/india-layers-new-ids-for-workers-on-top-of-aadhaar-as-dpi-projects-expand](https://www.biometricupdate.com/202312/india-layers-new-ids-for-workers-on-top-of-aadhaar-as-dpi-projects-expand)
+- [https://uidai.gov.in/](https://uidai.gov.in/)

@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125640/continuum/technologies/rights-of-nature-frameworks-google-gemini-3-pro-image-preview-te7a5v.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Rights of Nature Legal Frameworks

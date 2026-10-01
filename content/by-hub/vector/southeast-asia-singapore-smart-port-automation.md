@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815524/vector/technologies/72cab317-a7f7-4936-9a26-efb0abd79824-google-gemini-3.1-flash-image-preview-snhpx5.jpg
+updated_at: '2026-09-28T17:17:10.31039+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Port & Maritime Logistics Technology
@@ -26,3 +28,7 @@ Singapore — The Tuas Mega Port, under phased construction through 2040, will b
 Singapore handles 37+ million containers annually as the world's busiest transshipment hub. Automation is essential because the city-state cannot expand its workforce to match growing trade volumes. The Tuas system integrates with MPA (Maritime and Port Authority) vessel traffic management, creating an end-to-end digital logistics chain from open ocean to warehouse.
 
 The strategic significance extends beyond Singapore: as the world's shipping hub, Singapore's port technology sets standards that ripple across global logistics. Technologies proven at Tuas — autonomous cranes, AI scheduling, predictive maintenance — become the default specification for new port construction worldwide. Singapore is effectively writing the operating system for 21st-century maritime logistics.
+
+## Sources
+
+- [https://www.straitstimes.com/tech/supercomputing-sector-gets-270-million-boost-to-nurture-specialists-build-next-gen-computers](https://www.straitstimes.com/tech/supercomputing-sector-gets-270-million-boost-to-nurture-specialists-build-next-gen-computers)

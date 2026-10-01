@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819141/forge/technologies/90057730-05ed-4fe5-aab3-3f1c299e71b8-google-gemini-3.1-flash-image-preview-mqx19w.png
+updated_at: '2026-09-28T17:17:25.600018+00:00'
+last_reviewed: null
 ---
 
 # Service and Logistics Robots
@@ -25,3 +27,8 @@ Japan's service robotics deployment spans convenience stores (FamilyMart's auton
 The labor crisis driving adoption is severe: Japan faces a projected shortage of 6.4 million workers by 2030. This is not a future prediction but a present reality — convenience stores cannot staff night shifts, hospitals lack orderlies, and logistics companies cannot find enough drivers. Service robots are filling these gaps incrementally, with each successful deployment expanding social acceptance.
 
 Japan's service robotics market is expected to exceed $4 billion by 2028, with applications expanding into construction site inspection, agricultural harvesting, and public space cleaning. The country's dense urban environment and high standards for reliability create a demanding testing ground that produces robust, commercially viable systems.
+
+## Sources
+
+- [https://newo.ai/japan-robotics-market-2025-2033/](https://newo.ai/japan-robotics-market-2025-2033/)
+- [https://itbusinesstoday.com/tech/top-10-robotics-companies-driving-japans-innovation-in-2025/](https://itbusinesstoday.com/tech/top-10-robotics-companies-driving-japans-innovation-in-2025/)

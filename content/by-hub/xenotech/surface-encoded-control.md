@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903205/xenotech/technologies/surface-encoded-control-openrouter-google-gemini-3.1-flash-image-preview-n9fiec.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Surface-Encoded Control Systems
@@ -48,3 +50,8 @@ Advanced nanofabrication (femtosecond laser micro-structuring, atomic layer depo
 Testimonial descriptions imply direct causal links between surface patterns and propulsion/stability—undemonstrated in human technology. Speculative mechanisms include: topological field coupling where surface geometry directly shapes space-time curvature; quantum vacuum boundary control via Casimir-force engineering; or plasma sheath patterning for boundary-layer stabilization. The inscriptions may also serve redundant roles: aesthetic/cultural (insignia), informational (status displays), or ritual/symbolic (alignment protocols for operators).
 
 Surface-encoded control systems bridge established metamaterial and programmable matter research with encounter testimony describing functional inscriptions on craft. As nanofabrication, active materials, and field-based interfaces advance, the concept of geometry-as-code becomes increasingly plausible—though direct field modulation for propulsion remains speculative.
+
+## Sources
+
+- [Electromagnetic (EM) metasurface with wireless signal control function fabricated by 3D printing](https://www.nature.com/articles/s41378-025-01113-z) (2026)
+- [Flexible intelligent microwave metasurface with shape-guided adaptive programming](https://doi.org/10.1038/s41467-025-58249-9) (2025)

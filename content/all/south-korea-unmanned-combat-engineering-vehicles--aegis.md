@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817680/aegis/technologies/e2a0a5e5-2d3a-473c-a46f-9a2629831ba4-google-gemini-3.1-flash-image-preview-5mrkb3.png
+updated_at: '2026-09-28T17:18:21.78157+00:00'
+last_reviewed: null
 ---
 
 # Unmanned Combat Engineering Vehicles
@@ -26,3 +28,8 @@ The South Korean Army tested the K-CEV (Combat Engineering Vehicle) in its first
 The K-CEV represents Korea's approach to unmanned ground vehicles: rather than building standalone robots, it converts existing armored vehicle platforms into optionally unmanned systems that can seamlessly transition between crewed and autonomous operation. This dual-mode capability is pragmatic — it allows the military to integrate unmanned technology into existing force structures without completely replacing proven platforms. The AI target detection system works with both the vehicle's own sensors and data from its companion drones, creating a fused picture of the operational environment.
 
 Korea's ground robotics program is less visible than its naval and air drone efforts but equally ambitious. The military has been operating autonomous sentry robots along the DMZ for years, and the K-CEV extends unmanned ground capability from static surveillance to mobile combat engineering — mine clearing, obstacle breaching, and route clearance in contested environments. The export potential is significant: countries purchasing K2 tanks and K9 howitzers from Korea are natural customers for unmanned engineering vehicles from the same defense industrial ecosystem.
+
+## Sources
+
+- [https://www.armyrecognition.com/news/army-news/2026/south-korea-deploys-new-unmanned-k-cev-combat-engineering-vehicle-in-first-combat-exercise](https://www.armyrecognition.com/news/army-news/2026/south-korea-deploys-new-unmanned-k-cev-combat-engineering-vehicle-in-first-combat-exercise)
+- [https://www.trade.gov/market-intelligence/south-korea-unmanned-defense-systems](https://www.trade.gov/market-intelligence/south-korea-unmanned-defense-systems)

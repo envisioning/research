@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792951/grid/technologies/5bec2565-4d2b-4970-8730-f169556ed92b-google-gemini-3.1-flash-image-preview-odliq5.jpg
+updated_at: '2026-09-28T17:16:52.146736+00:00'
+last_reviewed: null
 ---
 
 # Smart Grid and Distribution Automation
@@ -26,3 +28,7 @@ Brazil's electricity distribution network faces a modernization challenge: integ
 ANEEL's Resolution 111/25 (June 2025) established 13 guidelines for distribution network digitalization, covering advanced metering infrastructure (AMI), real-time monitoring, demand response, and resilience to extreme weather. Utilities like CPFL, EDP, and Enel are deploying smart meters, automated reclosers, and distribution management systems.
 
 The scale is enormous: Brazil has over 90 million electricity consumers across a territory larger than continental Europe. Smart grid infrastructure must work across dense urban São Paulo and remote Amazonian communities connected by single-phase lines. The technical challenge of managing bidirectional power flows from millions of rooftop solar installations — while preventing grid instability — is driving real innovation in distribution automation.
+
+## Sources
+
+- [https://www.gnpw.com.br/en/energy-transition/challenges-of-transition-and-modernization-of-the-brazilian-power-grid-infrastructure-regulation-and-resilience/](https://www.gnpw.com.br/en/energy-transition/challenges-of-transition-and-modernization-of-the-brazilian-power-grid-infrastructure-regulation-and-resilience/)

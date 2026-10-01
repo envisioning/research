@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872579/stratum/technologies/55f79b84-9bbc-48fa-9dc3-bd88042236c2-google-gemini-3.1-flash-image-preview-8hfica.jpg
+updated_at: '2026-09-28T17:16:41.122214+00:00'
+last_reviewed: null
 ---
 
 # Direct Reduced Iron (DRI) Steel Production
@@ -26,3 +28,9 @@ Iran is the world's second-largest producer of direct reduced iron (DRI), a stee
 DRI technology is strategically significant for Iran because it converts two abundant domestic resources (iron ore and natural gas) into a high-value industrial product without requiring coking coal, which Iran lacks. The MIDREX process dominates Iranian DRI production, though domestic engineering firms have developed modifications and operational optimizations suited to local conditions. The technology chain extends from mining through pelletization, reduction, and electric arc furnace steelmaking, creating an integrated domestic steel value chain that supports construction, automotive, and infrastructure sectors.
 
 Iran's DRI dominance has global implications for the steel industry's decarbonization trajectory. DRI produced with natural gas emits roughly 50-60% less CO2 than blast furnace steelmaking, and the same plants can potentially transition to hydrogen-based reduction as green hydrogen becomes available. Iran exports both DRI and finished steel products to regional markets, and the technology represents one of the country's most significant non-oil industrial capabilities. The scale of production — approaching 10% of total world steel output via the DRI route — makes Iran a structural player in global steel markets.
+
+## Sources
+
+- [https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-iran.pdf](https://pubs.usgs.gov/myb/vol3/2020-21/myb3-2020-21-iran.pdf)
+- [https://journal.issiran.com/article_702055_8904f36d125794fd4285c4ea53f91f3f.pdf](https://journal.issiran.com/article_702055_8904f36d125794fd4285c4ea53f91f3f.pdf)
+- [https://www.midrex.com/wp-content/uploads/MidrexSTATSBook2023.Final_.pdf](https://www.midrex.com/wp-content/uploads/MidrexSTATSBook2023.Final_.pdf)

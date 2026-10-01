@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793518/meridian/technologies/b629f7fa-10bb-480c-9e49-0635ccabe38e-google-gemini-3.1-flash-image-preview-hfeat7.jpg
+updated_at: '2026-09-28T17:16:50.54351+00:00'
+last_reviewed: null
 ---
 
 # Orion BSL-4 Maximum Biosafety Laboratory
@@ -26,3 +28,9 @@ Orion is under construction at CNPEM in Campinas, adjacent to the Sirius synchro
 This connection is the key innovation: researchers will be able to study the molecular structure of BSL-4 pathogens (Ebola, Marburg, Nipah, novel coronaviruses) using Sirius's atomic-resolution imaging — something no other facility on Earth can do. Understanding pathogen structure at this level accelerates vaccine and antiviral development.
 
 Orion was included in Brazil's federal Growth Acceleration Program (PAC), signaling government commitment to pandemic preparedness infrastructure. The facility addresses a critical gap: during COVID-19, Latin America had no BSL-4 capability and depended entirely on European and US labs for high-containment pathogen research.
+
+## Sources
+
+- [https://cnpem.br/en/brasil-tera-nb4-conectado-sincrotron-mundo/](https://cnpem.br/en/brasil-tera-nb4-conectado-sincrotron-mundo/)
+- [https://agencia.fapesp.br/orion-will-be-the-worlds-first-maximum-biosafety-lab-linked-to-a-synchrotron-light-source/52207](https://agencia.fapesp.br/orion-will-be-the-worlds-first-maximum-biosafety-lab-linked-to-a-synchrotron-light-source/52207)
+- [https://lnbio.cnpem.br/en/first-biolab-in-south-america-for-studying-worlds-deadliest-viruses-is-set-to-open/](https://lnbio.cnpem.br/en/first-biolab-in-south-america-for-studying-worlds-deadliest-viruses-is-set-to-open/)

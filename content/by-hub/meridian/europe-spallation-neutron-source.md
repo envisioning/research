@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853568/meridian/technologies/892cd25a-f611-45ab-8289-f9d1a4be950c-google-gemini-3.1-flash-image-preview-2dnpqp.png
+updated_at: '2026-09-28T17:17:04.80083+00:00'
+last_reviewed: null
 ---
 
 # Spallation Neutron Source
@@ -26,3 +28,9 @@ The European Spallation Source (ESS) under construction in Lund, Sweden, will pr
 Neutrons are uniquely powerful scientific probes: they penetrate deep into materials and are sensitive to light elements (hydrogen, lithium, oxygen) that X-rays largely ignore. This makes neutron scattering indispensable for studying battery electrolytes, protein folding, magnetic materials, polymer dynamics, and engineering stress in turbine blades. No other technique can image hydrogen in a fuel cell membrane or map water molecules inside a functioning enzyme.
 
 The ESS fills a critical gap as older European neutron sources retire. The reactor-based neutron source at ILL Grenoble (operating since 1971) and ISIS at the Rutherford Appleton Laboratory in the UK will eventually need replacement. Funded by 13 European nations, the ESS continues the European model of shared 'big science' infrastructure — too expensive for any single country but collectively producing world-leading capabilities. The data management center in Copenhagen adds a computational dimension, creating an integrated neutron science platform.
+
+## Sources
+
+- [https://ess.eu/about](https://ess.eu/about)
+- [https://en.wikipedia.org/wiki/European_Spallation_Source](https://en.wikipedia.org/wiki/European_Spallation_Source)
+- [https://www.innovationnewsnetwork.com/ess-powering-a-bright-future-for-science-and-technology/67095/](https://www.innovationnewsnetwork.com/ess-powering-a-bright-future-for-science-and-technology/67095/)

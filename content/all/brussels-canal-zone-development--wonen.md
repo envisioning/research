@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882358/wonen/technologies/0920361c-574e-4503-9296-e49808982305-google-gemini-3.1-flash-image-preview-bsh865.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Brussels Canal Zone Development

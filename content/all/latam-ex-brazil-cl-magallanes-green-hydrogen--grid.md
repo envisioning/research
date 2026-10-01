@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812421/grid/technologies/172a20fe-b8f7-4d88-9568-86af70fd7a9c-google-gemini-3.1-flash-image-preview-jgka3t.png
+updated_at: '2026-09-28T17:16:26.914354+00:00'
+last_reviewed: null
 ---
 
 # Chile Green Hydrogen Export Hub (Magallanes)
@@ -25,3 +27,9 @@ Chile's Magallanes region at the southern tip of Patagonia possesses what may be
 Chile's green hydrogen ambitions address a structural opportunity: the country has world-class renewable resources but a small domestic market. Converting cheap wind and solar electricity into hydrogen and ammonia creates an exportable energy commodity — essentially bottling Patagonian wind for shipment to industrial markets in Japan, South Korea, Germany, and the Netherlands. Chile's national hydrogen strategy, launched in 2020, aims for 5 GW of electrolyzer capacity by 2025 and 25 GW by 2030, with the goal of producing the world's cheapest green hydrogen at under $1.50/kg.
 
 The strategic implications are substantial. If Chile executes even a fraction of its pipeline, it becomes a first-mover in the global green hydrogen export market — a position analogous to Qatar's role in LNG. The Magallanes projects also represent a potential economic lifeline for a region historically dependent on oil extraction and sheep farming. Key risks include electrolyzer supply chain bottlenecks, port infrastructure gaps, and whether the cost of shipping hydrogen-derived ammonia across the Pacific can compete with locally produced alternatives in Asia. Chile's sharp ramp-up projected for 2030–2032 will be the critical test.
+
+## Sources
+
+- [https://ammoniaenergy.org/articles/hyex-ammonia-from-the-chilean-desert/](https://ammoniaenergy.org/articles/hyex-ammonia-from-the-chilean-desert/)
+- [https://energyfocus.the-eic.com/energy-transition/chiles-green-hydrogen-boom](https://energyfocus.the-eic.com/energy-transition/chiles-green-hydrogen-boom)
+- [https://www.iea.org/policies/15257-national-green-hydrogen-strategy-chile](https://www.iea.org/policies/15257-national-green-hydrogen-strategy-chile)

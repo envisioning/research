@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461585/sentinel/technologies/continuous-authentication-google-gemini-3-pro-image-preview-l9shfm.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Continuous Authentication Systems

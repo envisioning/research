@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815131/aegis/technologies/2a56db7b-d123-4ae2-b532-117ad8538ccf-google-gemini-3.1-flash-image-preview-p0azgx.png
+updated_at: '2026-09-28T17:16:27.280984+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Submarine Construction Program
@@ -25,3 +27,9 @@ Indonesia is building indigenous submarine construction capability through a str
 The strategic context is Indonesia's vast archipelagic geography — over 17,000 islands spanning 5,100 km — which makes submarine warfare capability existential for territorial defense. The South China Sea tensions and increasing Chinese naval presence have accelerated procurement timelines. Indonesia's submarine fleet is small (currently 5 boats including legacy German Type 209s) compared to neighbors like Vietnam (6 Russian Kilo-class) and Singapore (4 Invincible-class from Germany).
 
 The long-term significance lies in defense industrial sovereignty. PT PAL's progression from knock-down assembly to full indigenous construction mirrors South Korea's own submarine development path with HDW/TKMS decades earlier. If Indonesia can master submarine construction, it becomes a potential exporter to other ASEAN navies — a geopolitical shift that would reduce regional dependence on European and Korean defense suppliers.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Nagapasa-class_submarine](https://en.wikipedia.org/wiki/Nagapasa-class_submarine)
+- [https://www.nti.org/analysis/articles/indonesia-submarine-capabilities/](https://www.nti.org/analysis/articles/indonesia-submarine-capabilities/)
+- [https://www.globalsecurity.org/military/world/indonesia/kri-ss.htm](https://www.globalsecurity.org/military/world/indonesia/kri-ss.htm)

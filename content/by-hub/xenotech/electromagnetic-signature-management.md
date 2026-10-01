@@ -10,6 +10,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897792/xenotech/technologies/electromagnetic-signature-management-openrouter-google-gemini-3.1-flash-image-preview-icn7lp.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cloaking
@@ -38,3 +40,11 @@ Active camouflage systems using cameras and displays achieve crude adaptive camo
 
 Alternative explanations include
 atmospheric phenomena creating illusion of disappearance; sensor limitations or artifacts; psychological inattention or memory gaps (witnesses not noticing object departure); and classified human stealth technology incrementally beyond public knowledge. However, multi-sensor corroboration (visual, radar, infrared simultaneously failing to detect known present object) and multiple independent witnesses remain challenging to explain conventionally. Signature management represents area where human technology trajectory intersects with UAP performance—making it plausible that advanced human systems account for some reports, while most exotic claims remain unverified.
+
+## Sources
+
+- [Adaptive transparent cloaking tunnel enabled by Meta-Reinforcement-Learning Metasurfaces](https://link.springer.com/article/10.1186/s43074-025-00224-0) (2026)
+- [A Self-Cleaning Hierarchical Thermal Cloak](https://www.researchsquare.com/article/rs-6321675/v1.pdf?c=1744722537000) (2025)
+- [Dynamic Nonlinear IR Stealth System Based on Graphene-Metallic Nanoparticles and Adaptive Electrostatic Field Control](https://medium.com/@koroshgushkamazan/dynamic-nonlinear-ir-stealth-system-based-on-graphene-metallic-nanoparticles-and-adaptive-79b7260a067e) (2025)
+- [Multi-spectrally-consistent camouflage metasurface simultaneously for visible, infrared and microwave regimes](https://link.springer.com/article/10.1007/s42114-025-01553-1) (2025)
+- [Space-to-ground infrared camouflage with radiative heat dissipation](https://www.nature.com/articles/s41377-025-01824-y) (2025)

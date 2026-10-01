@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860443/apogee/technologies/1499c2bf-17b4-4311-8710-a088969989ff-google-gemini-3.1-flash-image-preview-e3e5qp.jpg
+updated_at: '2026-09-28T17:17:49.204224+00:00'
+last_reviewed: null
 ---
 
 # Commercial Space Stations
@@ -26,3 +28,8 @@ With the International Space Station approaching end-of-life (currently planned 
 Commercial space stations are designed to serve multiple markets: government research, pharmaceutical manufacturing, tourism, media production, and materials science. Unlike the ISS, which costs NASA approximately $3-4 billion per year to operate, commercial stations will sell access to multiple customers, potentially reducing per-user costs dramatically.
 
 The transition from government-owned to commercially-operated orbital infrastructure represents a fundamental shift in how humanity uses space. It also creates a commercial demand signal for frequent crew and cargo launches, space manufacturing capabilities, and orbital services — building the foundations of a space economy.
+
+## Sources
+
+- [https://payloadspace.com/what-to-expect-in-2026/](https://payloadspace.com/what-to-expect-in-2026/)
+- [https://spacenexus.us/guide/space-launch-schedule-2026](https://spacenexus.us/guide/space-launch-schedule-2026)

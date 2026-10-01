@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985465/wintermute/technologies/neuro-symbolic-reasoning-systems-gemini-3-pro-lz4lod.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Neuro-Symbolic Reasoning Systems

@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813414/link/technologies/d6d413cf-eb4e-4d1a-b86e-68a2ca15fd90-google-gemini-3.1-flash-image-preview-for37u.png
+updated_at: '2026-09-28T17:17:35.443213+00:00'
+last_reviewed: null
 ---
 
 # ARSAT Geostationary Communications Satellites
@@ -26,3 +28,9 @@ ARSAT-1 (launched 2014) and ARSAT-2 (2015) are geostationary telecommunications 
 The technology includes Ku-band and C-band transponders with coverage beams shaped for South American geography, deployable solar arrays providing 3+ kW power, and station-keeping thrusters for 15-year operational life. INVAP's satellite integration facility in Bariloche performs final assembly, integration, and testing — a complete satellite manufacturing capability that operates independently of foreign contractors for the bus platform.
 
 ARSAT represents telecommunications sovereignty — Argentina controls its own orbital positions and communications infrastructure rather than leasing capacity from foreign operators. This has both commercial value (ARSAT services generate revenue) and strategic value (government and military communications independent of foreign providers). ARSAT-3 has been planned but not yet funded, and the commercial viability of geostationary satellites faces increasing competition from LEO constellations like Starlink. Argentina's challenge is maintaining and expanding this indigenous capability in a rapidly evolving satellite communications market.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/SAOCOM](https://en.wikipedia.org/wiki/SAOCOM)
+- [https://www.eoportal.org/satellite-missions/saocom](https://www.eoportal.org/satellite-missions/saocom)
+- [https://earth.esa.int/eogateway/missions/saocom](https://earth.esa.int/eogateway/missions/saocom)

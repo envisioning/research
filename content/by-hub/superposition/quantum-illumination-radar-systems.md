@@ -9,6 +9,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181124/superposition/technologies/quantum-illumination-radar-systems-gemini-3-pro-n6v358.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Quantum Illumination Radar Systems

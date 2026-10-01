@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774796727/grid/technologies/5514ebc1-11dd-43ad-9e3a-57506a47365b-google-gemini-3.1-flash-image-preview-pt8p6p.jpg
+updated_at: '2026-09-28T17:17:57.446958+00:00'
+last_reviewed: null
 ---
 
 # Mobile Photovoltaic Power Stations
@@ -26,3 +28,7 @@ Chinese manufacturers are producing mobile photovoltaic power stations — truck
 The stations are used for disaster relief, remote construction sites, military field operations, and temporary events. The rapid deployment capability — unfolding panels and generating power within hours — fills a gap between diesel generators (fast but fossil-fueled) and permanent solar installations (clean but slow to build).
 
 China's dominance in solar panel manufacturing and battery production gives it a cost advantage in building these integrated mobile units. The technology represents the convergence of two Chinese industrial strengths: photovoltaics and lithium battery storage.
+
+## Sources
+
+- [https://nitter.net/XueJia24682/status/2035336613631492208](https://nitter.net/XueJia24682/status/2035336613631492208)

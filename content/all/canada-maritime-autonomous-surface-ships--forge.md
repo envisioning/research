@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871543/forge/technologies/aca3f5f7-0d5c-4019-bd9b-737ee83cca72-google-gemini-3.1-flash-image-preview-m2xj6s.jpg
+updated_at: '2026-09-28T17:16:58.123225+00:00'
+last_reviewed: null
 ---
 
 # Maritime Autonomous Surface Ships (MASS)
@@ -26,3 +28,8 @@ The National Research Council of Canada, working with Transport Canada's Innovat
 MASS matters because these are essentially sea-going drones capable of 24-hour surveillance, ocean mapping, hydrographic surveys, and defense applications — all without crew. Canada's expertise in AI, engineering, sensor systems, naval architecture, and machine learning, combined with the world's longest coastline and access to three oceans with diverse marine conditions, positions it uniquely for MASS development. The global MASS market is projected to reach US$12 billion by 2029.
 
 The strategic angle is that MASS directly addresses Canada's coastline-to-navy ratio problem. With 243,042 km of coastline but a modest navy, autonomous vessels offer a force multiplier for maritime surveillance, especially in the Arctic. The regulatory framework being developed through the Blue Economy roadmap could become a reference standard internationally, as the IMO's own MASS code is expected to be ready for voluntary use by 2025. Canada's early regulatory work positions it to shape international rules rather than merely comply with them.
+
+## Sources
+
+- [https://nrc.canada.ca/en/stories/how-canada-advancing-autonomous-ships-smart-ocean-technology](https://nrc.canada.ca/en/stories/how-canada-advancing-autonomous-ships-smart-ocean-technology)
+- [https://tc.canada.ca/en/marine-transportation/marine-safety-management-system-tp-13585-e-tier-i-policies/tier-i-policy-oversight-small-maritime-autonomous-surface-ships-mass](https://tc.canada.ca/en/marine-transportation/marine-safety-management-system-tp-13585-e-tier-i-policies/tier-i-policy-oversight-small-maritime-autonomous-surface-ships-mass)

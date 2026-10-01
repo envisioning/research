@@ -12,6 +12,8 @@ trl: 6
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861439/helix/technologies/b27a7612-0b51-4dd7-ab16-0f0825c4b746-google-gemini-3.1-flash-image-preview-umcg4s.png
+updated_at: '2026-09-28T17:17:51.079424+00:00'
+last_reviewed: null
 ---
 
 # In Vivo CRISPR Gene Editing via Lipid Nanoparticle Delivery
@@ -27,3 +29,8 @@ Intellia Therapeutics is pioneering in vivo CRISPR gene editing — delivering C
 In vivo CRISPR via LNP delivery is a fundamentally different paradigm from ex vivo gene therapy (like Casgevy for sickle cell disease, which requires extracting, editing, and reinfusing a patient's stem cells). In vivo delivery turns gene editing into an injection — dramatically simpler, cheaper, and scalable. Intellia also demonstrated that patients can be re-dosed with CRISPR LNPs to achieve additive effects, a first in the field that vastly expands the therapeutic design space.
 
 The platform faces safety challenges — a patient death in the nex-z trial in early 2026 led to a Phase 3 hold, and grade 4 liver enzyme elevations have been observed. But the fundamental proof of concept is established: LNP-delivered CRISPR can edit genes inside a living human body with a single IV infusion. As LNP technology improves to target tissues beyond the liver (lungs, brain, muscle), in vivo CRISPR could become a general platform for treating thousands of genetic diseases with one-time injections rather than lifelong drug regimens.
+
+## Sources
+
+- [https://innovativegenomics.org/news/crispr-clinical-trials-2025/](https://innovativegenomics.org/news/crispr-clinical-trials-2025/)
+- [https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-presents-positive-pooled-phase-12-data](https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-presents-positive-pooled-phase-12-data)

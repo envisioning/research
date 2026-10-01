@@ -9,6 +9,8 @@ trl: 6
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886900/agora/technologies/42c610b9-d3ff-448f-a30b-abf862edecc3-google-gemini-3.1-flash-image-preview-nluhju.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Consent Management for Civic Data

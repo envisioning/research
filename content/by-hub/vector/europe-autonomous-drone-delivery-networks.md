@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853071/vector/technologies/4a2d0a8b-95ad-4f4d-823a-9739ea40a1b1-google-gemini-3.1-flash-image-preview-cumjvf.jpg
+updated_at: '2026-09-28T17:16:41.375631+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Drone Delivery Networks
@@ -25,3 +27,7 @@ Manna Aero (Dublin) operates what may be the world's most active autonomous dron
 While Amazon Prime Air and Google's Wing receive more attention, Manna claims higher operational throughput and plans expansion into the UK. The company has regulatory approval for beyond-visual-line-of-sight operations in Ireland — a critical certification that limits most drone delivery competitors to small, supervised areas.
 
 The European regulatory environment (EASA's U-space framework for urban air mobility) is creating standardized rules for drone operations across EU member states. This harmonized regulatory approach could enable drone delivery networks to scale across the single market without country-by-country certification — a significant advantage over the US, where FAA approval is granted on a site-by-site basis.
+
+## Sources
+
+- [https://www.theguardian.com/technology/2025/apr/11/amazon-slayer-dublin-startup-manna-aero-taking-giants-autonomous-drone-deliveries](https://www.theguardian.com/technology/2025/apr/11/amazon-slayer-dublin-startup-manna-aero-taking-giants-autonomous-drone-deliveries)

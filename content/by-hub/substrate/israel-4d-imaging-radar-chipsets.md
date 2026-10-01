@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875831/substrate/technologies/b4e20bfc-0e56-4e27-b1e3-c033b0d5c77f-google-gemini-3.1-flash-image-preview-rxsi8s.png
+updated_at: '2026-09-28T17:18:43.847531+00:00'
+last_reviewed: null
 ---
 
 # 4D Imaging Radar Chipsets for Autonomous Perception
@@ -25,3 +27,9 @@ Arbe Robotics has developed a dedicated 4D imaging radar chipset that provides u
 Traditional automotive radar operates at low angular resolution, making it useful for adaptive cruise control but inadequate for autonomous driving. Arbe's chipset architecture uses a massive MIMO antenna array processed by a dedicated radar processor to achieve 100x the resolution of conventional radar. This positions radar as a viable primary perception sensor rather than just a supplement to cameras and lidar — a significant architectural shift for autonomous vehicle design.
 
 Strategically, 4D imaging radar could become the perception backbone for autonomous vehicles and defense systems that must operate in conditions where cameras and lidar fail — fog, rain, dust, darkness, and sensor-blinding attacks. Israel's cluster of perception sensor companies (Arbe for radar, Innoviz for lidar, Mobileye for cameras) gives it end-to-end coverage of the autonomous vehicle sensor stack. Arbe's Nasdaq listing and partnerships with major automotive OEMs provide commercial validation for this approach.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Arbe_Robotics](https://en.wikipedia.org/wiki/Arbe_Robotics)
+- [https://ir.arberobotics.com/news/press-releases/detail/159/arbe-wins-sensor-technology-solution-of-the-year-in](https://ir.arberobotics.com/news/press-releases/detail/159/arbe-wins-sensor-technology-solution-of-the-year-in)
+- [https://www.globenewswire.com/news-release/2025/09/03/3143503/0/en/Arbe-Wins-Innovation-Award-in-2025-Just-Auto-Excellence-Awards.html](https://www.globenewswire.com/news-release/2025/09/03/3143503/0/en/Arbe-Wins-Innovation-Award-in-2025-Just-Auto-Excellence-Awards.html)

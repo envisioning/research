@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774876059/aegis/technologies/e85fb5d9-996d-4964-af61-544cc1dc462a-google-gemini-3.1-flash-image-preview-e6cvpu.jpg
+updated_at: '2026-09-28T17:17:24.379044+00:00'
+last_reviewed: null
 ---
 
 # Agentless Cloud Security Posture Management
@@ -25,3 +27,8 @@ Wiz developed a cloud security platform that scans entire cloud environments (AW
 The technology addresses a fundamental challenge of cloud computing: as organizations deploy thousands of cloud services, containers, and serverless functions, maintaining security visibility becomes exponentially difficult. Wiz's agentless approach — which connects via cloud APIs rather than requiring software installation — enables complete environment scanning in minutes rather than months, covering workloads that agent-based tools cannot reach.
 
 Strategically, Wiz's trajectory epitomizes the Israeli cybersecurity model: military intelligence training → enterprise security company → massive exit. The $32B acquisition price reflects not just technology value but the strategic importance of cloud security as enterprise computing moves entirely to cloud platforms. Wiz's approach has spawned a category (CSPM) and validated agentless scanning as the dominant architecture for cloud security.
+
+## Sources
+
+- [https://www.calcalistech.com/ctechnews/article/sjltwsk2kg](https://www.calcalistech.com/ctechnews/article/sjltwsk2kg)
+- [https://www.calcalistech.com/ctechnews/article/b1o113p8mbx](https://www.calcalistech.com/ctechnews/article/b1o113p8mbx)

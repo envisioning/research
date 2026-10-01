@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853190/forge/technologies/54efc3b0-8331-45bb-9d76-33cd7e31e85e-google-gemini-3.1-flash-image-preview-ac80zg.png
+updated_at: '2026-09-28T17:17:02.685947+00:00'
+last_reviewed: null
 ---
 
 # Cognitive Industrial Robots
@@ -25,3 +27,7 @@ NEURA Robotics (Germany, €120M raised) builds robots with cognitive capabiliti
 With a €1B order book, the demand is proven. Industrial customers need robots that can handle product variations, unexpected situations, and mixed environments where humans and machines work together. Traditional industrial robots require precise programming for every task; cognitive robots figure out the details themselves.
 
 Germany's robotics ecosystem (KUKA, Franka Emika, NEURA, plus research at DLR and Fraunhofer) represents the densest concentration of advanced robotics expertise outside Japan. The manufacturing heritage — Germany is the world's third-largest robot market — provides both the customer base and the engineering talent pipeline for next-generation cognitive systems.
+
+## Sources
+
+- [https://nitter.net/itsolelehmann/status/1910639908227866823](https://nitter.net/itsolelehmann/status/1910639908227866823)

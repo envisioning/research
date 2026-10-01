@@ -10,6 +10,8 @@ trl: 2
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903387/xenotech/technologies/torsion-field-theory-openrouter-google-gemini-3.1-flash-image-preview-zmy3on.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Torsion Field Theory

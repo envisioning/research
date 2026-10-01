@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128431/harvest/technologies/perishable-demand-forecasting-google-gemini-3-pro-image-preview-yyd0tu.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Perishable Demand Forecasting
@@ -25,3 +27,11 @@ Perishable demand forecasting represents a sophisticated application of machine 
 The food retail and distribution industry faces a persistent challenge: perishable goods represent both significant revenue opportunities and major sources of waste and lost profit. Research suggests that grocery retailers typically experience shrink rates of 5-10% on fresh produce alone, translating to billions in annual losses across the industry. Traditional forecasting methods struggle with the inherent volatility of perishable demand, where a single miscalculation can result in either empty shelves that disappoint customers and erode loyalty, or excess inventory that must be discarded. Perishable demand forecasting addresses this challenge by enabling more precise procurement decisions, allowing retailers to order quantities that closely match anticipated demand. This precision extends beyond the store level, informing decisions about promotional timing and pricing strategies that can accelerate sales of items approaching their expiration dates. The technology also enables dynamic markdown optimization, where products nearing their sell-by dates receive targeted price reductions calculated to maximize revenue recovery while minimizing waste.
 
 Early adopters in the grocery and food service sectors report substantial improvements in both waste reduction and revenue capture, with some deployments indicating shrink reductions of 20-30% for targeted product categories. The technology is increasingly being integrated into broader supply chain management platforms, connecting forecasts directly to automated ordering systems and supplier networks. In fresh bakery departments, for instance, these systems help determine optimal production quantities for items that must be made daily, balancing the cost of overproduction against the revenue loss from stockouts. The approach is also gaining traction in restaurant chains and food service operations, where accurate forecasting of ingredient needs can significantly impact both food costs and menu availability. As climate variability increases and consumer preferences continue to shift rapidly, the ability to anticipate demand fluctuations becomes increasingly valuable, positioning perishable demand forecasting as a critical component of sustainable food retail operations and a key enabler of the broader movement toward reducing food waste across the supply chain.
+
+## Sources
+
+- [AI Demand Forecasting Cuts Errors by 30 Percent in Perishable Chains](https://www.unisco.com/blog/ai-demand-forecasting-cuts-errors-by-30-percent-in-perishable-chains) (2025)
+- [Deep learning-enabled cherry price forecasting and real-time system deployment across multi-market supply chains in India](https://www.nature.com/articles/s41598-025-30980-9) (2025)
+- [Demand Forecast of Cold Chain Logistics of Fresh Agricultural Products Based on Deep Learning](https://ieeexplore.ieee.org/document/10873053) (2025)
+- [FreshRetailNet-50K: A Stockout-Annotated Censored Demand Dataset for Latent Demand Recovery and Forecasting in Fresh Retail](https://arxiv.org/html/2505.16319v2) (2025)
+- [Machine Learning-Driven Daily Demand Forecasting for Fresh Produce: A Case Study with Bananas](https://ieeexplore.ieee.org/document/10858827) (2025)

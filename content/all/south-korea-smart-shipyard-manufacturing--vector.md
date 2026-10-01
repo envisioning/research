@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816381/vector/technologies/117c9ab6-97d5-4baa-bc29-50a4919e5e7e-google-gemini-3.1-flash-image-preview-4dgffv.png
+updated_at: '2026-09-28T17:18:18.981245+00:00'
+last_reviewed: null
 ---
 
 # AI-Powered Smart Shipyards
@@ -26,3 +28,8 @@ Korean shipyards are integrating AI-powered quality inspection, robotic welding,
 Korea builds approximately 40% of global commercial ships by gross tonnage, specializing in high-value vessels: LNG carriers, container ships, and offshore platforms. These are among the most complex manufactured objects in the world — a single LNG carrier contains 160,000 cubic meters of cryogenic storage operating at -163°C, thousands of kilometers of welding, and miles of piping and electrical systems.
 
 Smart shipyard technologies directly address Korea's structural challenge: an aging workforce and rising labor costs in one of the most physically demanding manufacturing industries. By automating welding, cutting, and inspection, Korean shipyards maintain productivity and quality advantages over lower-cost Chinese competitors. The technology also reduces build times by 10-15%, which matters enormously for an industry where order backlogs stretch years into the future.
+
+## Sources
+
+- [https://www.hd-hyundai.com/en/newsroom/smart-shipyard](https://www.hd-hyundai.com/en/newsroom/smart-shipyard)
+- [https://www.seatrade-maritime.com/shipyards/korean-smart-shipyard-ai-automation-2025](https://www.seatrade-maritime.com/shipyards/korean-smart-shipyard-ai-automation-2025)

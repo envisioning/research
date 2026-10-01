@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858259/stratum/technologies/5149d1dc-6ecd-472e-b689-0933e4aa3c9d-google-gemini-3.1-flash-image-preview-218hzd.jpg
+updated_at: '2026-09-28T17:18:31.135721+00:00'
+last_reviewed: null
 ---
 
 # Bio-Inspired Membrane Technology for Mineral Recovery
@@ -26,3 +28,8 @@ Membrane Transporter Engineers (MTE), spun out of ANU's Byrt Lab, has developed 
 Traditional mineral processing generates enormous volumes of wastewater containing valuable dissolved metals at concentrations too low for conventional extraction but too high to discharge safely. MTE's approach uses engineered membrane proteins that act as molecular sieves, selectively binding and transporting target ions while rejecting others. This could transform mining wastewater from an environmental liability into a secondary resource stream, particularly for battery metals that face growing demand.
 
 For Australia's mining industry — which produces billions of litres of process water annually — this technology addresses both environmental compliance costs and resource scarcity simultaneously. The circular economy potential is significant: recovering lithium from spodumene processing waste, cobalt from nickel laterite tailings, or phosphorus from agricultural runoff. At TRL 4, MTE is still in early development, but the underlying science is published and the industrial demand is clear.
+
+## Sources
+
+- [https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/](https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/)
+- [https://membranetransportengineers.com/](https://membranetransportengineers.com/)

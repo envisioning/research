@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793162/spore/technologies/71cd0b31-6a0e-4146-b67f-e612f50f79d1-google-gemini-3.1-flash-image-preview-no114c.png
+updated_at: '2026-09-28T17:17:01.740203+00:00'
+last_reviewed: null
 ---
 
 # No-Till Farming (Plantio Direto)
@@ -25,3 +27,8 @@ No-till farming leaves previous crop residues on the field and plants the next c
 The benefits compound over time: soil erosion drops by 70-90%, moisture retention improves, microbial diversity increases, and carbon is sequestered in the soil rather than released by plowing. Combined with the safrinha system, no-till enables year-round soil cover that mimics the cerrado's natural vegetation cycle.
 
 Brazilian no-till was driven by farmer-to-farmer knowledge exchange, not top-down mandates. Paraná state farmers pioneered the practice in the 1970s; it spread across the cerrado through agricultural cooperatives and EMBRAPA extension services.
+
+## Sources
+
+- [https://www.sciencedirect.com/science/article/pii/S2095633915300125](https://www.sciencedirect.com/science/article/pii/S2095633915300125)
+- [https://farmonaut.com/south-america/sustainable-agriculture-brazil-5-top-practices-for-2025](https://farmonaut.com/south-america/sustainable-agriculture-brazil-5-top-practices-for-2025)

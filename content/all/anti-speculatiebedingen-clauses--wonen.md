@@ -10,6 +10,8 @@ trl: 2
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887493/wonen/technologies/60f0618a-1cbe-4978-a634-1602f3b3087f-google-gemini-3.1-flash-image-preview-wpfv9f.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Anti-Speculatiebedingen (Anti-Speculation Clauses)

@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774859043/spore/technologies/d922978d-c6e6-4e16-9988-c800752846cb-google-gemini-3.1-flash-image-preview-a2h3ti.jpg
+updated_at: '2026-09-28T17:16:43.203062+00:00'
+last_reviewed: null
 ---
 
 # Sustained-Release Livestock Methane Reduction Bolus
@@ -26,3 +28,9 @@ New Zealand's Ruminant BioTech has developed a sustained-release bolus (a large 
 Livestock methane — primarily from cattle belching — accounts for approximately 14.5% of global greenhouse gas emissions and nearly half of New Zealand's total emissions. Existing methane-reduction technologies (feed additives like 3-NOP/Bovaer) require daily dosing mixed into feed, which is impractical for pasture-based systems where cattle graze freely. The bolus delivery mechanism solves this constraint, making methane reduction feasible for the first time in pastoral farming systems that dominate Australasia, South America, and parts of Africa.
 
 If commercialized at scale, this technology could reshape the emissions profile of global ruminant agriculture without requiring dietary changes, feedlot confinement, or herd reduction. New Zealand's outsized contribution to this technology stems from the existential pressure of a national emissions profile dominated by agricultural methane, combined with strong pastoral science infrastructure at Massey University and AgResearch. The global addressable market — approximately 1 billion cattle — makes this potentially one of the highest-impact climate technologies emerging from the region.
+
+## Sources
+
+- [https://agfundernews.com/can-a-slow-release-bolus-crack-methane-reduction-for-pasture-raised-cattle-ruminant-biotech-nets-9-5m](https://agfundernews.com/can-a-slow-release-bolus-crack-methane-reduction-for-pasture-raised-cattle-ruminant-biotech-nets-9-5m)
+- [https://www.capitalbrief.com/briefing/ruminant-biotech-raises-15m-to-scale-livestock-emissions-reduction-tech-60c49978-d78a-483b-ae98-00634c5d84cd/](https://www.capitalbrief.com/briefing/ruminant-biotech-raises-15m-to-scale-livestock-emissions-reduction-tech-60c49978-d78a-483b-ae98-00634c5d84cd/)
+- [https://ruminantbiotech.com/ruminant-biotech-develops-emissions-reduction-bolus/](https://ruminantbiotech.com/ruminant-biotech-develops-emissions-reduction-bolus/)

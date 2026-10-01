@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010207/flows/technologies/tokenized-society-concerns-gemini-3-pro-soingh.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Tokenized Society Concerns

@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133037/soma/technologies/cross-cultural-empathy-google-gemini-3-pro-image-preview-hpi9eb.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cross-Cultural Empathy Sims

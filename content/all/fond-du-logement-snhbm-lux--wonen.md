@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889610/wonen/technologies/88e7d46e-33ef-4c47-a365-cbc12f128f71-google-gemini-3.1-flash-image-preview-3z3t16.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Fonds du Logement / SNHBM (Luxembourg Delivery Vehicles)

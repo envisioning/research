@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774859164/polis/technologies/e2593f98-685b-4690-903a-97880ed91b42-google-gemini-3.1-flash-image-preview-xzpe5e.jpg
+updated_at: '2026-09-28T17:17:58.27416+00:00'
+last_reviewed: null
 ---
 
 # Sovereign AI Cloud Infrastructure
@@ -26,3 +28,9 @@ Australia's National AI Plan, launched in 2025, establishes a framework for sove
 For a Five Eyes intelligence-sharing partner, data sovereignty in AI is not merely a regulatory preference — it's a national security requirement. Classified and sensitive government data cannot be processed on foreign-controlled infrastructure, yet most advanced AI models and cloud services are US-owned. Australia's approach mandates that large AI users deploy compute locally, while simultaneously investing in Australian AI companies (Harrison.AI for medical imaging, Heidi AI for healthcare documentation) to reduce dependence on foreign models.
 
 The strategic tension is between building sovereign capability and accessing the best available technology, most of which is American. Australia's approach — requiring local compute for government workloads while welcoming foreign AI companies that deploy locally — mirrors its broader defense strategy of deep alliance integration with maintained sovereignty. The National AI Plan's first review is scheduled for 2025-26, with potential regulatory teeth expected.
+
+## Sources
+
+- [https://international.austrade.gov.au/en/news-and-analysis/news/australia-launches-national-ai-plan-to-build-a-world-class-ai-industry](https://international.austrade.gov.au/en/news-and-analysis/news/australia-launches-national-ai-plan-to-build-a-world-class-ai-industry)
+- [https://www.nextdc.com/blog/australias-ai-opportunity-report-2025](https://www.nextdc.com/blog/australias-ai-opportunity-report-2025)
+- [https://quaylogic.com/sovereign-australia-ai-a-new-push-for-national-ai-infrastructure-and-digital-sovereignty/](https://quaylogic.com/sovereign-australia-ai-a-new-push-for-national-ai-infrastructure-and-digital-sovereignty/)

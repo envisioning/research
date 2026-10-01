@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814445/apogee/technologies/b4d0909e-f410-4226-b008-b5fff5ee0a9a-google-gemini-3.1-flash-image-preview-38imo5.jpg
+updated_at: '2026-09-28T17:15:58.2046+00:00'
+last_reviewed: null
 ---
 
 # Sovereign Satellite Manufacturing Capability
@@ -26,3 +28,8 @@ The UAE has developed indigenous satellite manufacturing capability through the 
 For a region that historically purchased all space assets from Western or Asian manufacturers, the ability to design and build satellites domestically is a transformative sovereignty milestone. Satellite imagery is increasingly critical for military intelligence, border security, agriculture monitoring, and urban planning — capabilities that are constrained when you depend on foreign satellite operators who may restrict data access during conflicts.
 
 The UAE's satellite manufacturing program deliberately followed a technology transfer escalation: buying turnkey (DubaiSat-1 with South Korean guidance), then co-developing (KhalifaSat), then building independently (MBZ-SAT). This model is being studied by Saudi Arabia and other Gulf states seeking to replicate it. The broader ecosystem includes the UAE Space Agency, ground station infrastructure, and the planned Sirb constellation for persistent Earth observation.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/MBZ-SAT](https://en.wikipedia.org/wiki/MBZ-SAT)
+- [https://www.mbrsc.ae/](https://www.mbrsc.ae/)

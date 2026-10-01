@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774798244/vector/technologies/fca17182-b655-45dd-aa24-170b87f4a9d6-google-gemini-3.1-flash-image-preview-erivhf.jpg
+updated_at: '2026-09-28T17:18:00.492528+00:00'
+last_reviewed: null
 ---
 
 # New Energy Vehicles (NEVs)
@@ -25,3 +27,8 @@ BYD builds its own batteries, chips, and motors in-house, giving it a vertically
 This matters because China isn't just winning on volume; it's winning on cost structure. Xiaomi, a phone maker, launched the SU7 sedan in March 2024 and sold 130,000 units in its first year. When consumer electronics companies can enter the car market and compete immediately, the barrier to entry has collapsed.
 
 Watch for BYD's push into Europe and Southeast Asia, where tariff walls are the last line of defense for incumbents. The EU imposed up to 45% tariffs in 2025; BYD responded by building factories in Hungary and Turkey.
+
+## Sources
+
+- [https://www.cnbc.com/2026/01/02/chinas-byd-to-overtake-tesla-as-worlds-top-ev-seller-for-first-time.html](https://www.cnbc.com/2026/01/02/chinas-byd-to-overtake-tesla-as-worlds-top-ev-seller-for-first-time.html)
+- [https://www.theguardian.com/business/2026/jan/02/china-byd-tesla-worlds-biggest-electric-car-seller-elon-musk-donald-trump-ev](https://www.theguardian.com/business/2026/jan/02/china-byd-tesla-worlds-biggest-electric-car-seller-elon-musk-donald-trump-ev)

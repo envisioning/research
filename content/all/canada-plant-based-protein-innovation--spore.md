@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871125/spore/technologies/86063ffc-841f-4875-ab16-9f548340f04a-google-gemini-3.1-flash-image-preview-pyvfk8.png
+updated_at: '2026-09-28T17:17:59.793799+00:00'
+last_reviewed: null
 ---
 
 # Plant-Based Protein Processing
@@ -26,3 +28,7 @@ Protein Industries Canada, headquartered in Regina, Saskatchewan, is an industry
 Plant-based protein matters because global demand for protein is growing while the environmental impact of animal agriculture is increasingly unsustainable. Canada's Prairie provinces produce vast quantities of peas, lentils, and canola — raw materials for protein extraction. By processing these crops domestically rather than exporting bulk commodities, Canada can capture significantly more value per tonne of production.
 
 The strategic calculation is straightforward: Canada grows the crops but exports them cheaply, then imports expensive processed protein ingredients from other countries. Protein Industries Canada aims to reverse this by building domestic processing capacity. Success would transform Saskatchewan from a commodity agricultural province into a food technology hub, with protein ingredients becoming a higher-value export than raw crops.
+
+## Sources
+
+- [https://www.proteinindustriescanada.ca/](https://www.proteinindustriescanada.ca/)

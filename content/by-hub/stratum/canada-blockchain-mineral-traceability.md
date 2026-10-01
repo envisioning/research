@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870635/stratum/technologies/23c93307-0017-483c-ac68-598cf4b6af85-google-gemini-3.1-flash-image-preview-z63aw7.png
+updated_at: '2026-09-28T17:18:36.977247+00:00'
+last_reviewed: null
 ---
 
 # Blockchain Mineral Provenance Tracking
@@ -26,3 +28,7 @@ Canadian mining companies are implementing blockchain-based traceability systems
 Mineral traceability matters because regulatory requirements are tightening globally. The EU's Battery Regulation requires detailed supply chain documentation, and major automakers demand verified ethical sourcing from their battery material suppliers. Blockchain-based provenance tracking provides the transparency and verification that paper-based systems cannot, creating a competitive advantage for Canadian minerals in sustainability-conscious markets.
 
 Strategically, provenance tracking reinforces Canada's positioning as the "clean" alternative to Chinese mineral supply chains. By providing cryptographically verified proof of sustainable extraction, Canadian companies can command premium pricing and preferential access to markets that require ESG compliance. This soft infrastructure is as important as the hard infrastructure of mines and processing plants.
+
+## Sources
+
+- [https://primusworkforce.com/blog/mining-industry-trends-in-canada/](https://primusworkforce.com/blog/mining-industry-trends-in-canada/)

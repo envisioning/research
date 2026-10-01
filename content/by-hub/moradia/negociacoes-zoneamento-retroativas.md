@@ -9,6 +9,8 @@ trl: 4
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668563/habitacao/technologies/negociacoes-zoneamento-retroativas-google-gemini-3-pro-image-preview-x5jth7.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Negociações de Zoneamento Retroativas
@@ -24,3 +26,9 @@ Negociações de zoneamento retroativas descreve processos de negociação, regu
 No Brasil, especialmente em assentamentos informais e em áreas com pressão por desenvolvimento, negociações retroativas são uma prática comum que reconhece realidade construída e busca regularização. Processos de regularização fundiária, ajuste de zoneamento e negociação de usos criam caminhos para legalização de construções informais, especialmente relevante onde construção informal é comum e regularização é necessária.
 
 O sinal de mudança é a transformação de regulação de precedência sobre construção para regulação que reage a realidade construída, onde política adapta-se a práticas existentes ao invés de apenas prescrever. Isso impacta políticas urbanas (regularização vs. prevenção), regulação (flexibilidade vs. rigidez), mercado imobiliário (legalização de estoque informal) e qualidade urbana (regularização vs. remoção), especialmente relevante onde construção informal é comum e regularização é preferível a remoção.
+
+## Sources
+
+- [Regularização De Área Construída [Guia 2026]](https://nradvocacia.com.br/regularizacao-de-area-construida) (2026)
+- [Lei Municipal nº 1.216/2025 (Bandeirantes)](https://bandeirantes.ms.gov.br/v2/2025/06/06/prefeitura-publica-lei-que-concede-anistia-para-regularizacao-de-imoveis-em-bandeirantes) (2025)
+- [Prefeitura publica lei que concede anistia para regularização de imóveis em Bandeirantes](https://bandeirantes.ms.gov.br/v2/2025/06/06/prefeitura-publica-lei-que-concede-anistia-para-regularizacao-de-imoveis-em-bandeirantes) (2025)

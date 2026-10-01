@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860581/helix/technologies/37913324-f66e-4a06-a432-84692bba79ff-google-gemini-3.1-flash-image-preview-1kxcrs.jpg
+updated_at: '2026-09-28T17:17:49.356038+00:00'
+last_reviewed: null
 ---
 
 # Minimally Invasive Brain-Computer Interfaces
@@ -26,3 +28,8 @@ Minimally invasive BCIs seek to read neural signals without requiring open-brain
 The safety-accessibility tradeoff is critical for BCI adoption. Open-brain surgery carries inherent risks and limits the patient population to those with severe enough conditions to justify the procedure. Minimally invasive approaches could expand the addressable market by orders of magnitude — from thousands of severely paralyzed patients to millions with moderate disabilities or, eventually, healthy users seeking cognitive enhancement.
 
 Synchron has implanted multiple patients in both US and Australian trials, demonstrating that endovascular BCIs can restore digital communication for ALS patients. While signal resolution is lower than penetrating electrodes, the approach trades bandwidth for safety and accessibility — a tradeoff that may prove more commercially viable for broader adoption.
+
+## Sources
+
+- [https://andersenlab.com/blueprint/bci-challenges-and-opportunities](https://andersenlab.com/blueprint/bci-challenges-and-opportunities)
+- [https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2025.1553905/full](https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2025.1553905/full)

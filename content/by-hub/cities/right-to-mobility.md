@@ -10,6 +10,8 @@ trl: 8
 impact: 2
 investment: 2
 image_url: https://www.datocms-assets.com/134194/1724869577-right-to-mobility.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Right to Mobility
@@ -27,3 +29,12 @@ The Right to Mobility is a principle that extends beyond mere access to transpor
 As urban areas continue to expand and diversify, the demand for inclusive transportation solutions will only intensify. Ensuring that all citizens have equitable access to mobility is not just a matter of social justice but also a crucial factor in fostering economic growth and sustainability. By embracing this principle, cities can reduce congestion, lower emissions, and enhance social cohesion, ultimately creating more resilient and liveable urban environments. Furthermore, as climate change exacerbates the challenges facing urban areas, the integration of sustainable mobility solutions becomes vital in reducing cities' carbon footprints and mitigating the impacts of environmental degradation.
 
 In conclusion, the Right to Mobility is a transformative approach that addresses the multifaceted challenges of urban transportation in the 21st century. By prioritising accessibility, inclusivity, and sustainability, this concept has the potential to reshape the future of cities, making them more equitable and resilient. As urban planners, policymakers, and industry leaders embrace this principle, we can expect to see the emergence of cities that truly serve all their inhabitants, ensuring that mobility is a right enjoyed by everyone, not just the privileged few.
+
+## Sources
+
+- [Mobilizing transport justice: a sufficientarian optimization framework for intermodal mobility systems](https://www.nature.com/articles/s44333-025-00056-2) (2025)
+- [Transformative Community Planning Can Advance Mobility Justice](https://ucits.org/research_products/policy-brief-transformative-community-planning-can-advance-mobility-justice) (2025)
+- [Mexico Made Safe Mobility a Human Right — Here’s How Its Streets Can Become Safer](https://thecityfix.com/blog/mexico-made-safe-mobility-a-human-right-heres-how-its-streets-can-become-safer/)
+- [Mexico’s groundbreaking National Law of Mobility and Road Safety](https://www.who.int/about/accountability/results/who-results-report-2020-mtr/country-story/2021/mexico)
+- [Mobility Law in the City of Mexico](https://x.com/modacitylife/status/1822284983089742131)
+- [Right to Mobility?](https://link.springer.com/chapter/10.1007/978-3-658-39182-9_9)

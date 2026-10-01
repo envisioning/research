@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813963/polis/technologies/3ec6a455-e0df-4b06-8601-51fde6a3a798-google-gemini-3.1-flash-image-preview-9url0g.jpg
+updated_at: '2026-09-28T17:18:12.41858+00:00'
+last_reviewed: null
 ---
 
 # Saudi National Digital Identity (Absher)
@@ -26,3 +28,7 @@ Absher is Saudi Arabia's national e-government platform, providing a unified dig
 The platform's scale and integration depth — connecting immigration, interior ministry, civil status, and traffic services — makes it a reference implementation for digital government in large populations. Its mobile-first design reflects the Gulf's high smartphone penetration and young population demographics.
 
 Absher has faced criticism for its use in tracking women's travel permissions (a feature modified following international pressure), illustrating the dual-use nature of comprehensive digital identity systems. Nevertheless, the technical achievement of integrating dozens of government services into a single, reliable platform serving tens of millions of users represents significant institutional capability that can be exported to other developing nations.
+
+## Sources
+
+- [https://www.crowell.com/en/insights/client-alerts/the-middle-easts-big-bet-on-artificial-intelligence-and-data-security](https://www.crowell.com/en/insights/client-alerts/the-middle-easts-big-bet-on-artificial-intelligence-and-data-security)

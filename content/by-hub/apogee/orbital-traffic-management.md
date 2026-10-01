@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180706/apogee/technologies/orbital-traffic-management-gemini-3-pro-js9wva.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Orbital Traffic Management Systems

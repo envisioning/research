@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814292/meridian/technologies/83437115-ec1a-471b-aa9b-50b1602aec25-google-gemini-3.1-flash-image-preview-14n19z.png
+updated_at: '2026-09-28T17:18:13.661698+00:00'
+last_reviewed: null
 ---
 
 # KAUST Deep Tech Research
@@ -26,3 +28,7 @@ KAUST (King Abdullah University of Science and Technology), founded in 2009 with
 KAUST's model — recruiting international faculty, providing world-class facilities, and operating with academic freedoms unusual in Saudi Arabia — demonstrates that Gulf states can build genuine research capabilities rather than just purchasing technology. The university's solar cell research, in particular, has produced multiple efficiency records for perovskite and organic photovoltaics.
 
 Strategically, KAUST serves as a talent magnet and knowledge anchor for Saudi Arabia's technology ambitions. Its technology transfer office has spun out multiple startups, and its graduates increasingly populate Saudi technology companies and government agencies. The institution proves that research universities, given sufficient resources and institutional independence, can produce world-class science within a generation.
+
+## Sources
+
+- [https://www.atlanticcouncil.org/blogs/menasource/gulf-water-scarcity-deslination/](https://www.atlanticcouncil.org/blogs/menasource/gulf-water-scarcity-deslination/)

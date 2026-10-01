@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793669/helix/technologies/d01fbf39-e209-43b2-a5b6-c5b9871eea7c-google-gemini-3.1-flash-image-preview-tla05d.png
+updated_at: '2026-09-28T17:17:05.294763+00:00'
+last_reviewed: null
 ---
 
 # Tropical Disease Research Platforms
@@ -26,3 +28,8 @@ Brazil's tropical disease burden — dengue, Zika, chikungunya, Chagas disease, 
 Fiocruz produces diagnostic reagents for HIV, dengue, Chagas, and leptospirosis at national scale. Butantan developed a dengue vaccine candidate (Butantan-DV) in Phase III trials. The institutions train researchers from across Latin America and Africa.
 
 The expertise is uniquely Brazilian because the diseases are: countries in the Global North have limited incentive to invest in diseases that don't affect their populations. Brazil's research institutions fill a gap that the global pharmaceutical industry largely ignores, serving 1+ billion people in tropical regions worldwide.
+
+## Sources
+
+- [https://fiocruz.br/en/production-and-innovation](https://fiocruz.br/en/production-and-innovation)
+- [https://cepi.net/mobilising-brazils-manufacturing-might-support-vaccine-production-global-south](https://cepi.net/mobilising-brazils-manufacturing-might-support-vaccine-production-global-south)

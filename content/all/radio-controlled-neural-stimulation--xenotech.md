@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 6
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902873/xenotech/technologies/radio-controlled-neural-stimulation-openrouter-google-gemini-3.1-flash-image-preview-nwqas4.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Radio-Controlled Neural Stimulation

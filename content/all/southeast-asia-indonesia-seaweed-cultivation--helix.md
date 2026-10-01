@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815853/helix/technologies/bc27eb37-b57a-49ef-9346-9a8796f1a37a-google-gemini-3.1-flash-image-preview-yq5yyo.png
+updated_at: '2026-09-28T17:18:17.995163+00:00'
+last_reviewed: null
 ---
 
 # Industrial-Scale Seaweed Cultivation & Processing
@@ -26,3 +28,7 @@ Indonesia — Indonesia is the world's largest seaweed producer, harvesting over
 Startups like Evoware (seaweed-based packaging) and Sway (biomaterials) are developing seaweed into plastic alternatives. The carbon sequestration angle is particularly compelling: seaweed farms absorb CO2 while providing livelihoods for coastal communities. Indonesia's vast coastline and warm waters make it the ideal geography for scaling ocean-based carbon removal.
 
 The processing gap is the main challenge: most Indonesian seaweed is exported raw to China for processing, capturing minimal value. Building domestic carrageenan, agar, and alginate processing capacity — plus next-generation bioplastic and carbon credit facilities — would multiply the industry's economic value. Indonesia's seaweed sector could become a model for blue economy development if processing technology scales domestically.
+
+## Sources
+
+- [https://www.csis.org/blogs/charting-geoeconomics/indonesian-industrialization-downstreaming-value-chain](https://www.csis.org/blogs/charting-geoeconomics/indonesian-industrialization-downstreaming-value-chain)

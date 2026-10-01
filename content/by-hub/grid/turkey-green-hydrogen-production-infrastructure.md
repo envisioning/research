@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855757/grid/technologies/854d5f9d-8920-4b0d-8299-2359ce41b695-google-gemini-3.1-flash-image-preview-9prpi7.jpg
+updated_at: '2026-09-28T17:17:47.856072+00:00'
+last_reviewed: null
 ---
 
 # Green Hydrogen Production Infrastructure
@@ -26,3 +28,9 @@ Turkey has launched a national hydrogen strategy targeting 2 GW of electrolyser 
 Turkey's geographic position makes it a natural hydrogen transit corridor. Sitting at the crossroads of European demand and abundant Anatolian renewable resources — high solar irradiation, strong wind corridors, and geothermal energy — Turkey could produce green hydrogen at competitive costs and pipe it to EU markets via existing natural gas infrastructure or new dedicated pipelines. The country's existing role as a gas transit hub (TurkStream, TANAP) provides infrastructure and institutional experience for hydrogen transport.
 
 The strategic bet is that hydrogen becomes the decarbonization pathway for hard-to-abate industrial sectors (steel, cement, chemicals) where Turkey is a major producer. Indigenous green hydrogen would simultaneously reduce Turkey's $50B+ annual fossil fuel import bill, create an exportable energy commodity, and decarbonize domestic industry. Turkey's boron reserves add another dimension — boron-based compounds are being researched globally for solid-state hydrogen storage, potentially creating a unique Turkish advantage at the intersection of mineral wealth and hydrogen technology.
+
+## Sources
+
+- [https://gh2.org/countries/turkiye](https://gh2.org/countries/turkiye)
+- [https://fuelcellsworks.com/2025/03/25/green-hydrogen/turkiye-s-promising-steps-in-shaping-a-green-hydrogen-economy](https://fuelcellsworks.com/2025/03/25/green-hydrogen/turkiye-s-promising-steps-in-shaping-a-green-hydrogen-economy)
+- [https://www.sciencedirect.com/science/article/abs/pii/S0360319925007165](https://www.sciencedirect.com/science/article/abs/pii/S0360319925007165)

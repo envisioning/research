@@ -3,19 +3,22 @@ slug: pandemic-preparedness-health-security
 hub: agape
 title: Pandemic Preparedness & Global Health Security
 summary: Post-COVID investment in pandemic preparedness, health security, and the
+  infrastructure to prevent future outbreaks.
 permalink: https://www.envisioning.com/agape/pandemic-preparedness-health-security
 collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368392/agape/signals/pandemic-preparedness-health-security-google-gemini-3-pro-image-preview-smowza.png
+updated_at: '2026-10-01T09:32:17.299309+00:00'
+last_reviewed: null
 ---
 
 # Pandemic Preparedness & Global Health Security
 
 ## Summary
 
-Post-COVID investment in pandemic preparedness, health security, and the
+Post-COVID investment in pandemic preparedness, health security, and the infrastructure to prevent future outbreaks.
 
 ## Description
 

@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860627/spore/technologies/459d3a32-dd2b-4975-97c3-501f56763e0a-google-gemini-3.1-flash-image-preview-tmpxhj.jpg
+updated_at: '2026-09-28T17:17:48.0932+00:00'
+last_reviewed: null
 ---
 
 # RNA Interference Biopesticides
@@ -26,3 +28,8 @@ RNA interference biopesticides use short double-stranded RNA molecules that, whe
 The appeal is precision without permanent genetic modification. Unlike GMO crops that express insecticidal proteins, RNAi biopesticides are applied externally and degrade within days in the environment. This sidesteps the regulatory and consumer resistance issues that have limited GMO adoption in many markets. The EPA has begun establishing regulatory frameworks for dsRNA-based biopesticides, with Bayer's SmartStax Pro corn (which produces insecticidal dsRNA internally) already approved and demonstrating the biological viability of the approach.
 
 The technology faces challenges in RNA stability (dsRNA degrades quickly in sunlight and moisture), delivery to the target pest (ensuring the RNA is ingested at sufficient doses), and manufacturing cost (producing RNA at agricultural scale requires new biomanufacturing approaches). US agricultural biotech companies are developing nanoparticle formulations and cell-free RNA production systems to address these barriers. If costs drop to competitive levels, RNAi biopesticides could replace billions of dollars in chemical pesticide applications while dramatically reducing environmental and health impacts of agriculture.
+
+## Sources
+
+- [https://www.coherentmarketinsights.com/industry-reports/agricultural-biotechnology-market](https://www.coherentmarketinsights.com/industry-reports/agricultural-biotechnology-market)
+- [https://farmonaut.com/blogs/biotech-agriculture-revolutionizing-farming-in-2025](https://farmonaut.com/blogs/biotech-agriculture-revolutionizing-farming-in-2025)

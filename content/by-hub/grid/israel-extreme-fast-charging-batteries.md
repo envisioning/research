@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875920/grid/technologies/c7bc89a0-ce40-4b3d-8b45-3c5f0445e65d-google-gemini-3.1-flash-image-preview-bjq6hk.png
+updated_at: '2026-09-28T17:16:25.565084+00:00'
+last_reviewed: null
 ---
 
 # Silicon-Dominant Extreme Fast Charging Battery Cells
@@ -25,3 +27,9 @@ StoreDot, based in Herzliya, is developing extreme fast charging (XFC) lithium-i
 The core innovation replaces graphite in the battery anode with metalloid nanoparticles (primarily silicon), which can absorb lithium ions much faster but traditionally suffers from swelling and degradation. StoreDot's proprietary solutions address these challenges through self-repairing battery chemistry, advanced silicon nanostructure engineering, and AI-optimized charging algorithms. The company has filed over 12 patents in cell design, software, and regenerative systems.
 
 Strategically, extreme fast charging addresses the single biggest barrier to EV adoption: charging time anxiety. If StoreDot achieves mass production (targeted partnership with major battery manufacturers), it could accelerate the global transition to electric vehicles. The company is also testing batteries in space through a partnership with the Israeli Electric Company to study silicon surface behavior in zero gravity. However, the technology faces commercial headwinds — as of early 2026, no products have reached commercial release despite multiple announced timelines.
+
+## Sources
+
+- [https://www.timesofisrael.com/israels-storedot-demos-electric-vehicle-battery-that-can-recharge-in-10-minutes/](https://www.timesofisrael.com/israels-storedot-demos-electric-vehicle-battery-that-can-recharge-in-10-minutes/)
+- [https://www.kget.com/business/press-releases/ein-presswire/778925148/storedot-achieves-major-milestone-with-silicon-dominant-4695-cylindrical-extreme-fast-charging-battery-cells/](https://www.kget.com/business/press-releases/ein-presswire/778925148/storedot-achieves-major-milestone-with-silicon-dominant-4695-cylindrical-extreme-fast-charging-battery-cells/)
+- [https://en.wikipedia.org/wiki/StoreDot](https://en.wikipedia.org/wiki/StoreDot)

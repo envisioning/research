@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858087/apogee/technologies/30106cdb-b15f-41be-b931-6d49ab15acf7-google-gemini-3.1-flash-image-preview-p3bma2.jpg
+updated_at: '2026-09-28T17:16:42.787171+00:00'
+last_reviewed: null
 ---
 
 # Satellite-Enabled Subsurface Mineral Exploration
@@ -26,3 +28,9 @@ Adelaide-based Fleet Space Technologies has built the ExoSphere platform, which 
 Traditional mineral exploration is slow, expensive, and environmentally invasive — involving drilling hundreds of boreholes across vast areas. Fleet Space's approach uses ambient seismic noise tomography, where sensor arrays listen to natural ground vibrations and use satellite connectivity to transmit data for AI analysis. This non-invasive method can identify prospective deposits before a single drill hole is sunk, dramatically reducing exploration costs and environmental impact.
 
 For a resource-dependent nation facing declining ore grades and deeper deposits, this technology is existential. Fleet Space's platform is already used by major miners across 20+ countries, generating export revenue while helping secure the critical mineral discoveries that Australia's economic future depends on. The dual-use potential — using the same sensors for defense ground surveillance — adds a sovereignty dimension that aligns with Five Eyes intelligence-sharing objectives.
+
+## Sources
+
+- [https://spacenews.com/fleet-space-raises-100-million-to-advance-mineral-exploration-on-earth-and-beyond/](https://spacenews.com/fleet-space-raises-100-million-to-advance-mineral-exploration-on-earth-and-beyond/)
+- [https://www.satellitetoday.com/manufacturing/2025/10/02/fleet-space-opens-new-facility-to-scale-satellite-sensor-manufacturing/](https://www.satellitetoday.com/manufacturing/2025/10/02/fleet-space-opens-new-facility-to-scale-satellite-sensor-manufacturing/)
+- [https://www.fleetspace.com/newsroom/fleet-space-inflection-resources-advance-sustainable-data-driven-copper-exploration-with-spacetech-ai-in-australias-macquarie-arc](https://www.fleetspace.com/newsroom/fleet-space-inflection-resources-advance-sustainable-data-driven-copper-exploration-with-spacetech-ai-in-australias-macquarie-arc)

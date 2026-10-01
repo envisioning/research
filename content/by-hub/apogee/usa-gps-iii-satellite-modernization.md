@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774862119/apogee/technologies/f7e8bf98-5233-42f3-8649-82b054ad8e1b-google-gemini-3.1-flash-image-preview-7s1j69.jpg
+updated_at: '2026-09-28T17:18:36.420349+00:00'
+last_reviewed: null
 ---
 
 # GPS III Satellite Modernization
@@ -25,3 +27,8 @@ GPS III is the latest generation of Global Positioning System satellites built b
 GPS underpins an estimated $1.4 trillion of U.S. economic activity annually, from agriculture and logistics to financial timestamping and emergency services. The modernization program ensures the U.S. maintains the gold standard in global positioning, navigation, and timing (PNT) — a foundational infrastructure that most allied nations depend on. The new OCX ground control system adds cybersecurity hardening and the ability to command all GPS generations from a single interface.
 
 Strategically, GPS III modernization is about maintaining America's PNT monopoly advantage as China's BeiDou and Europe's Galileo reach full operational capability. The anti-jamming improvements directly counter Russian and Chinese GPS-denial capabilities demonstrated in Ukraine and the South China Sea. The interoperability features also deepen allied dependence on U.S.-led PNT architecture, reinforcing strategic alignment.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/GPS_Block_III](https://en.wikipedia.org/wiki/GPS_Block_III)
+- [https://news.lockheedmartin.com/2025-05-30-Another-Lockheed-Martin-Built-GPS-III-Satellite-Lifts-Off-into-Orbit](https://news.lockheedmartin.com/2025-05-30-Another-Lockheed-Martin-Built-GPS-III-Satellite-Lifts-Off-into-Orbit)

@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998484/aegis/technologies/ai-electronic-warfare-orchestration-gemini-3-pro-yomzrr.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # AI-Enabled Electronic Warfare Orchestration

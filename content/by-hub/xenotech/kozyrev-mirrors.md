@@ -10,6 +10,8 @@ trl: 2
 impact: 4
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898557/xenotech/technologies/kozyrev-mirrors-openrouter-google-gemini-3.1-flash-image-preview-lsyfri.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Kozyrev Mirrors
@@ -33,3 +35,8 @@ Kozyrev's torsion field theory proposes that rotating bodies generate spiral ene
 ## Critical Assessment
 
 Mainstream physics finds no mechanism for proposed effects. Reported experiences more likely involve sensory deprivation (similar to isolation tanks), electromagnetic shielding effects on brain function, or expectation-driven altered states. Mirrors demonstrate powerful placebo/setting effects but not exotic physics. The spiral aluminum enclosure creates a unique sensory environment combining visual confinement, acoustic dampening, and potential electromagnetic shielding effects that could contribute to altered consciousness states through conventional mechanisms rather than exotic field focusing.
+
+## Sources
+
+- [Why Files Mirrors Kozyrevs Time Travel Experiments](https://www.alibaba.com/product-insights/why-files-mirrors-kozyrevs-time-travel-experiments.html) (2026)
+- [What Does a Kozyrev Mirror Do? The Complete Guide](https://blog.medihertz.com/what-does-a-kozyrev-mirror-do-the-complete-guide) (2025)

@@ -3,19 +3,22 @@ slug: biodiversity-nature-loss-funding
 hub: agape
 title: Biodiversity Loss & Nature-Based Solutions
 summary: Rapidly growing philanthropic attention to biodiversity collapse and nature-based
+  solutions as climate and extinction crises converge.
 permalink: https://www.envisioning.com/agape/biodiversity-nature-loss-funding
 collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368370/agape/signals/biodiversity-nature-loss-funding-google-gemini-3-pro-image-preview-2dmsek.jpg
+updated_at: '2026-10-01T09:27:42.993433+00:00'
+last_reviewed: null
 ---
 
 # Biodiversity Loss & Nature-Based Solutions
 
 ## Summary
 
-Rapidly growing philanthropic attention to biodiversity collapse and nature-based
+Rapidly growing philanthropic attention to biodiversity collapse and nature-based solutions as climate and extinction crises converge.
 
 ## Description
 

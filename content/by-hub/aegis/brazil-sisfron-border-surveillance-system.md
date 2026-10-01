@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793557/aegis/technologies/b82e7e5d-f3c6-410c-b20c-819b83e66a41-google-gemini-3.1-flash-image-preview-zjg2m0.png
+updated_at: '2026-09-28T17:16:31.355813+00:00'
+last_reviewed: null
 ---
 
 # SISFRON Integrated Border Monitoring System
@@ -25,3 +27,8 @@ The Sistema Integrado de Monitoramento de Fronteiras (SISFRON) is Brazil's strat
 Brazil's borders cut through some of the most remote terrain on Earth: dense Amazon rainforest, the Pantanal wetlands, and sparsely populated grasslands. Drug trafficking, illegal mining (garimpo), deforestation, and cross-border smuggling are persistent security challenges that conventional patrols cannot address. SISFRON provides persistent surveillance where physical presence is impossible, using a layered sensor architecture.
 
 The program is being deployed in phases across the Western, Northern, and Southern military commands. It represents one of the largest C4I border integration programs in the developing world and has driven demand for indigenous sensing, communications, and software integration capabilities. While some components are imported, the system architecture and integration are Brazilian, building sovereign expertise in large-scale military sensor fusion.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/SISFRON](https://en.wikipedia.org/wiki/SISFRON)
+- [https://www.defesanet.com.br/ol/sisfron/](https://www.defesanet.com.br/ol/sisfron/)

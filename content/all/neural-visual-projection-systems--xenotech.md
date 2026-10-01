@@ -9,6 +9,8 @@ trl: 2
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903481/xenotech/technologies/neural-visual-projection-systems-openrouter-google-gemini-3.1-flash-image-preview-c2o969.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Visual Projection
@@ -47,3 +49,11 @@ precision neural stimulation of visual cortex; direct information encoding into 
 ## Current Status
 
 While theoretically grounded in neural interface research and cortical stimulation, neural visual projection systems remain speculative with significant technical challenges. The technology represents an extension of neural interface research into direct visual communication applications, though practical implementation requires advanced neural stimulation and information encoding capabilities.
+
+## Sources
+
+- [Robust minimally-invasive microfabricated stainless steel neural interfaces for high resolution recording](http://preview-www.nature.com/articles/s41467-025-67681-w) (2026)
+- [Robust minimally-invasive microfabricated stainless steel neural interfaces for high resolution recording](http://preview-www.nature.com/articles/s41467-025-67681-w) (2026)
+- [Invasive neurophysiology and whole brain connectomics for neural decoding in patients with brain implants](https://www.nature.com/articles/s41551-025-01467-9) (2025)
+- [Minimally invasive implantation of scalable high-density cortical microelectrode arrays for multimodal neural decoding and stimulation](https://www.nature.com/articles/s41551-025-01501-w) (2025)
+- [Minimally invasive implantation of scalable high-density cortical microelectrode arrays for multimodal neural decoding and stimulation](https://www.nature.com/articles/s41551-025-01501-w) (2025)

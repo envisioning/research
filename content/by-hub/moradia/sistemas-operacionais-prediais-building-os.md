@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533250/habitacao/technologies/cmms-manutencao-sla-fornecedores-google-gemini-3-pro-image-preview-cn42dm.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Sistemas Operacionais Prediais (Building OS)
@@ -25,3 +27,9 @@ Sistemas operacionais prediais (Building OS) representam a transformação de ge
 No Brasil, há várias soluções locais em rápida expansão, oferecendo digitalização completa da gestão condominial e melhor experiência para moradores e administradores. A tecnologia está sendo adotada em condomínios de médio e alto padrão, melhorando transparência, engajamento e eficiência administrativa. A integração com marketplaces está em expansão, oferecendo conveniência para moradores e novas fontes de receita para plataformas. A integração de sistemas prediais é um sinal de maturidade operacional, oferecendo visibilidade operacional e otimização de custos.
 
 O sinal de mudança é estrutural: no futuro, essas funcionalidades não existem como aplicativos separados, mas formam um único sistema operacional para edifícios, similar a como sistemas operacionais de computadores gerenciam todos os recursos. Isso cria novos modelos de negócio baseados em dados e serviços agregados, especialmente relevante em condomínios que buscam modernização e eficiência operacional, onde gestão fragmentada é substituída por plataforma integrada que centraliza todas as funções administrativas e operacionais, unificando dados operacionais e criando visibilidade completa e automação cruzada.
+
+## Sources
+
+- [BMS: O que é e como funciona o Building Management System](https://acatarautomacao.com.br/blog/o-que-e-bms) (2025)
+- [O núcleo de um prédio inteligente é o sistema de gestão da edificação (BMS)](https://www.revistaprediointeligente.com.br/gestao-predial/o-nucleo-de-um-predio-inteligente-e-o-sistema-de-gestao-da-edificacao-bms) (2025)
+- [Sistema BMS: o cérebro da automação predial](https://blog.alkane.com.br/sistema-bms) (2025)

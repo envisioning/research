@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811000/grid/technologies/a213ecab-bd75-432e-a116-ca5934d8b4df-google-gemini-3.1-flash-image-preview-9swlcb.png
+updated_at: '2026-09-28T17:16:35.931422+00:00'
+last_reviewed: null
 ---
 
 # Pebble Bed Modular Reactor (PBMR) Technology
@@ -26,3 +28,9 @@ South Africa developed the Pebble Bed Modular Reactor (PBMR) as an indigenous sm
 In October 2025, South Africa announced it would reactivate the PBMR project, with the electricity minister stating the care and maintenance status would be lifted by early 2026. The country retains the intellectual property, fuel fabrication capabilities (at Pelindaba), and test infrastructure (including helium test rigs and heat transfer labs at North-West University). South Africa's Koeberg Nuclear Power Station — the only nuclear power plant on the African continent — has had its operational life extended to 2044.
 
 The revival is strategically significant in the context of the global SMR race. South Africa's PBMR is one of the most mature SMR designs outside China, Russia, and the US. With growing global interest in nuclear power for decarbonization, South Africa could become an SMR technology exporter — a remarkable position for an African nation. The PBMR also has desalination applications, addressing water scarcity across the continent.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Pebble_bed_modular_reactor](https://en.wikipedia.org/wiki/Pebble_bed_modular_reactor)
+- [https://www.reuters.com/sustainability/boards-policy-regulation/south-africa-aims-revive-its-small-nuclear-reactor-technology-2025-10-22/](https://www.reuters.com/sustainability/boards-policy-regulation/south-africa-aims-revive-its-small-nuclear-reactor-technology-2025-10-22/)
+- [https://www.engineeringnews.co.za/article/south-africa-will-reactivate-the-pbmr-small-modular-reactor-project-2025-05-20](https://www.engineeringnews.co.za/article/south-africa-will-reactivate-the-pbmr-small-modular-reactor-project-2025-05-20)

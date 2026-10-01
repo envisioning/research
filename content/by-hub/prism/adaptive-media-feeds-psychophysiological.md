@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074521/pulse/technologies/adaptive-media-feeds-psychophysiological-gemini-3-pro-unlgnt.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Adaptive media feeds based on psychophysiological signals

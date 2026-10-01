@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814379/polis/technologies/a88ff565-3185-4033-b46c-5a3bfaa62efc-google-gemini-3.1-flash-image-preview-wu1q1t.png
+updated_at: '2026-09-28T17:17:06.732653+00:00'
+last_reviewed: null
 ---
 
 # Dubai Blockchain Government Strategy
@@ -26,3 +28,7 @@ The Dubai Blockchain Strategy targets migration of all applicable government tra
 Dubai's approach to blockchain is characteristically pragmatic — focused on enterprise and government applications rather than cryptocurrency speculation. The regulatory framework distinguishes between blockchain infrastructure (encouraged) and crypto trading (regulated through VARA, the Virtual Assets Regulatory Authority), allowing Dubai to capture blockchain's efficiency benefits while managing financial risks.
 
 As a trading hub handling billions in re-exports, Dubai's blockchain-based trade documentation has immediate commercial value: reducing the cost and time of trade finance, improving customs processing, and providing provenance tracking for luxury goods and food imports. These enterprise blockchain applications are more mature and commercially proven than in most Western jurisdictions.
+
+## Sources
+
+- [https://www.dubaiobserver.ae/how-dubai-is-leading-smart-city-innovation-in-2025](https://www.dubaiobserver.ae/how-dubai-is-leading-smart-city-innovation-in-2025)

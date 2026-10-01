@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810312/grid/technologies/42ddfcde-46c6-45de-b64d-1b42905a55c6-google-gemini-3.1-flash-image-preview-c7bciw.jpg
+updated_at: '2026-09-28T17:18:08.590049+00:00'
+last_reviewed: null
 ---
 
 # Drone-Based Reforestation and Ecosystem Monitoring
@@ -26,3 +28,8 @@ Drone-based reforestation technology is being deployed across Africa for large-s
 Africa is the epicenter of the global reforestation challenge: the continent loses 3.9 million hectares of forest annually. The African Forest Landscape Restoration Initiative (AFR100) committed to restoring 100 million hectares by 2030. Manual planting at this scale is logistically impossible — drone technology offers the only pathway to meeting these targets. Drones also provide monitoring capabilities: regular flyovers can track seedling survival, detect illegal logging, and measure carbon sequestration for carbon credit verification.
 
 The technology is being adapted for African conditions: seed pods designed for dispersal in specific soil types, species selection optimized for local ecosystems, and integration with community-based forest management. The dual use of drones for both planting and monitoring creates a complete reforestation technology stack that can be deployed by conservation organizations, governments, and carbon credit projects across the continent.
+
+## Sources
+
+- [https://www.afr100.org/](https://www.afr100.org/)
+- [https://www.worldbank.org/en/topic/climatechange/](https://www.worldbank.org/en/topic/climatechange/)

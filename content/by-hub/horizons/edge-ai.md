@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526863/horizons/technologies/edge-ai-google-gemini-3-pro-image-preview-t8vp0e.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Edge AI

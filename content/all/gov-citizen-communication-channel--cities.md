@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 2
 image_url: https://www.datocms-assets.com/134194/1719240662-gov-citizen-communication-channel.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gov-Citizen Communication Channel
@@ -27,3 +29,14 @@ The Gov-Citizen Communication Channel is a multifaceted digital platform designe
 Functionally, the Gov-Citizen Communication Channel enables citizens to report issues, access municipal services, and participate in community decision-making processes. For instance, a resident noticing a pothole can submit a report through the mobile app, which is then automatically routed to the appropriate department. The system tracks the status of the report, providing updates to the citizen and ensuring accountability. Additionally, the platform can host virtual town hall meetings, surveys, and forums, allowing for greater public participation and feedback.
 
 As urban populations continue to grow, the demand for efficient, transparent, and responsive governance becomes more critical. The Gov-Citizen Communication Channel enhances civic engagement, making it easier for citizens to voice their concerns and for governments to respond effectively. This not only improves the quality of urban life but also fosters a sense of community and trust between residents and their local authorities.
+
+## Sources
+
+- [Citizen Engagement Tool for Local Government](https://www.techforgov.ai/community-solutions/citizen-engagement-tool) (2026)
+- [Delivering better outcomes for citizens: practical steps for unlocking public value](https://www.gov.uk/government/publications/delivering-better-outcomes-for-citizens-practical-steps-for-unlocking-public-value/delivering-better-outcomes-for-citizens-practical-steps-for-unlocking-public-value-accessible) (2025)
+- [Government to Citizens Communication via Social Media Platforms: Literature Review](https://www.researchgate.net/publication/380747485_Government_to_Citizens_Communication_via_Social_Media_Platforms_Literature_Review)
+- [Government-to-Citizen Communications: Utilising multiple digital channels effectively](https://lizazyan.com/government-to-citizen-communications-utilising-multiple-digital-channels-effectively/)
+- [KYIV DIGITAL APP: THE SMART WAY TO ACCESS URBAN SERVICES](https://worldcitiescultureforum.com/city-project/kyiv-digital/)
+- [MyGov.In](https://www.mygov.in/)
+- [Reach: Government Feedback Unit](https://www.reach.gov.sg/)
+- [e-Sevai Services for Citizen](https://www.tnesevai.tn.gov.in/Citizen/PortalLogin.aspx)

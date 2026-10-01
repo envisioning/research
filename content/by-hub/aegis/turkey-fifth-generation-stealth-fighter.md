@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855363/aegis/technologies/40b26269-c312-4afe-bb23-5b8d1b8df555-google-gemini-3.1-flash-image-preview-gpq4gb.jpg
+updated_at: '2026-09-28T17:16:54.766756+00:00'
+last_reviewed: null
 ---
 
 # Fifth-Generation Stealth Fighter Aircraft
@@ -26,3 +28,9 @@ The TAI KAAN (formerly TF-X) is Turkey's indigenous fifth-generation stealth fig
 The KAAN program was accelerated after Turkey's exclusion from the F-35 Joint Strike Fighter program following its S-400 purchase. What began as a supplement to the F-35 became a full replacement program, demonstrating how technology denial can catalyze indigenous capability. Initial prototypes use GE F110 engines, but TEI revealed the indigenous TF35000 turbofan in May 2025 — a 35,000-lbf class engine that will power production Block 30/40 variants, eliminating the last critical foreign dependency.
 
 Block delivery phases will incrementally increase capability, with Turkish Air Force induction expected by 2028 and full operational capability in the early 2030s. The program positions Turkey alongside the US, Russia, China, and South Korea in the exclusive club of nations fielding indigenous fifth-generation fighters, fundamentally reshaping NATO's eastern flank air power architecture and creating export potential for countries denied access to the F-35.
+
+## Sources
+
+- [https://www.armyrecognition.com/news/aerospace-news/2025/indigenous-turkish-tf35000-engine-to-power-kaan-fifth-generation-stealth-fighter](https://www.armyrecognition.com/news/aerospace-news/2025/indigenous-turkish-tf35000-engine-to-power-kaan-fifth-generation-stealth-fighter)
+- [https://thedefensepost.com/2025/07/22/turkey-kaan-stealth-fighter/](https://thedefensepost.com/2025/07/22/turkey-kaan-stealth-fighter/)
+- [https://www.defensenews.com/global/europe/2025/05/05/vendor-vows-to-hasten-turkeys-fifth-generation-kaan-fighter-plane/](https://www.defensenews.com/global/europe/2025/05/05/vendor-vows-to-hasten-turkeys-fifth-generation-kaan-fighter-plane/)

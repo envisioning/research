@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898189/xenotech/technologies/bearden-meg-scalar-weapons-openrouter-google-gemini-3.1-flash-image-preview-925z6z.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Electromagnetic Generator

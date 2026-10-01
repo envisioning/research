@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774859126/grid/technologies/e088ef14-1006-447f-966e-426b8608f74a-google-gemini-3.1-flash-image-preview-jguj6q.png
+updated_at: '2026-09-28T17:16:37.699849+00:00'
+last_reviewed: null
 ---
 
 # Metal Hydride Hydrogen Storage
@@ -26,3 +28,8 @@ LAVO, an Australian company working with UNSW research spanning over a decade, h
 Conventional hydrogen storage requires either high-pressure tanks (700 bar) or cryogenic cooling to -253°C, both expensive and potentially dangerous for residential use. Metal hydride storage operates at near-ambient conditions, absorbing hydrogen into the crystal lattice of metal alloys at low pressures. This makes it inherently safer and more energy-dense by volume than compressed gas, opening applications in homes, remote communities, and telecommunications backup power.
 
 For Australia, where rooftop solar penetration is among the world's highest but grid storage remains insufficient, LAVO represents a path to energy independence at the household level. The technology's avoidance of lithium, cobalt, and other contested battery minerals gives it a supply chain security advantage. Government backing through the Department of Industry underscores its strategic relevance, though commercial pricing (approximately AU$30,000) remains a barrier to mass adoption.
+
+## Sources
+
+- [https://www.solarquotes.com.au/blog/lavo-hydrogen-battery-review/](https://www.solarquotes.com.au/blog/lavo-hydrogen-battery-review/)
+- [https://www.industry.gov.au/news/lavos-hydrogen-batteries-are-leading-renewable-energy-transition](https://www.industry.gov.au/news/lavos-hydrogen-batteries-are-leading-renewable-energy-transition)

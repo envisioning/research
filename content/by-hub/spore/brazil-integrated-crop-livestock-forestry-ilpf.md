@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793871/spore/technologies/67fdc415-cb42-401e-84d9-8019e5e1305b-google-gemini-3.1-flash-image-preview-nlwdw2.png
+updated_at: '2026-09-28T17:17:55.834757+00:00'
+last_reviewed: null
 ---
 
 # Integrated Crop-Livestock-Forestry (ILPF)
@@ -26,3 +28,8 @@ ILPF (Integração Lavoura-Pecuária-Floresta) rotates or intercropts grain crop
 Brazil's NDC climate commitment targets 5 million additional hectares of ILPF by 2030. The system recovers degraded pastures (Brazil has ~100 million hectares of degraded grassland) without clearing new forest, directly addressing the deforestation pressure that drives Amazon destruction.
 
 The technology is uniquely suited to tropical latitudes where year-round growth allows all three components to produce simultaneously. Eucalyptus trees reach harvestable size in 7 years in Brazil versus 25+ years in temperate climates.
+
+## Sources
+
+- [https://www.embrapa.br/en/tema-integracao-lavoura-pecuaria-floresta-ilpf/nota-tecnica](https://www.embrapa.br/en/tema-integracao-lavoura-pecuaria-floresta-ilpf/nota-tecnica)
+- [https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sustainable+Agriculture+Programs+in+Brazil](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sustainable+Agriculture+Programs+in+Brazil)

@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010202/cortex/technologies/flexible-surface-arrays-gemini-3-pro-o2aujh.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Flexible Surface Arrays

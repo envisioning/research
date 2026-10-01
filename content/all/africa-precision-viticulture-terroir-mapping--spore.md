@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810005/spore/technologies/2421f2e0-475f-4e10-a4d7-3dd4e71fd709-google-gemini-3.1-flash-image-preview-lk7c7i.png
+updated_at: '2026-09-28T17:18:08.417491+00:00'
+last_reviewed: null
 ---
 
 # GIS-Based Precision Viticulture and Terroir Mapping
@@ -26,3 +28,9 @@ South Africa's wine industry — the world's 8th largest producer — has develo
 The technology addresses a unique challenge: South African wine regions span a remarkable diversity of terroirs within small areas — Mediterranean climate zones, mountain slopes, coastal plains, and river valleys create microclimatic variation that demands precise management. Stellenbosch researchers developed AI models that predict grape phenology (ripening timing) and yield based on satellite imagery, weather data, and soil characterization — allowing harvest timing and irrigation decisions at block-level precision. The Department of Viticulture and Oenology runs one of Africa's most sophisticated agricultural technology research programs.
 
 The strategic context is global wine market competitiveness. South African wines compete directly with French, Australian, and Chilean producers who invest heavily in precision viticulture. The Stellenbosch research ecosystem — combining centuries of winemaking tradition with cutting-edge agricultural technology — is unique on the African continent and serves as a model for precision agriculture in other high-value crops. The terroir mapping methodology is applicable to coffee, tea, and other terroir-sensitive crops across Africa.
+
+## Sources
+
+- [https://oeno-one.eu/article/view/809](https://oeno-one.eu/article/view/809)
+- [https://user-hpa96tt.cld.bz/South-Africa-Wine-Research-Projects-2025](https://user-hpa96tt.cld.bz/South-Africa-Wine-Research-Projects-2025)
+- [https://www.bizcommunity.com/article/2025-south-africa-wine-summit-to-shape-industry-innovation-growth-032615a](https://www.bizcommunity.com/article/2025-south-africa-wine-summit-to-shape-industry-innovation-growth-032615a)

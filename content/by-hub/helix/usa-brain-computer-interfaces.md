@@ -11,6 +11,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860862/helix/technologies/6c6ad85a-414b-413e-8867-690252dfebd8-google-gemini-3.1-flash-image-preview-6boa83.jpg
+updated_at: '2026-09-28T17:18:33.85718+00:00'
+last_reviewed: null
 ---
 
 # Invasive Brain-Computer Interfaces
@@ -26,3 +28,8 @@ Invasive brain-computer interfaces directly read neural signals from the brain's
 BCIs are transitioning from academic research to clinical products. The initial market is assistive technology for people with severe paralysis — restoring the ability to communicate, control devices, and interact with the world through thought alone. Paradromics' FDA-approved trial focuses specifically on speech restoration for people who have lost the ability to speak.
 
 The long-term vision extends far beyond medical applications. Merge Labs, backed by Sam Altman with a $250 million funding round at $850 million valuation, is positioning for consumer-grade brain-computer interaction. If BCIs can achieve the bandwidth and safety needed for healthy users, they could become the ultimate human-computer interface — bypassing screens, keyboards, and voice entirely. Morgan Stanley values the potential market at $400 billion.
+
+## Sources
+
+- [https://www.cnbc.com/2025/06/02/neuralink-paradromics-human-implant.html](https://www.cnbc.com/2025/06/02/neuralink-paradromics-human-implant.html)
+- [https://www.statnews.com/2025/11/20/fda-approves-paradromics-bci-trial-for-speech-restoration/](https://www.statnews.com/2025/11/20/fda-approves-paradromics-bci-trial-for-speech-restoration/)

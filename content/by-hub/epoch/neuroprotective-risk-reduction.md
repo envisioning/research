@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882605/epoch/technologies/161c449a-0569-4c36-a06d-a24a766c17de-google-gemini-3.1-flash-image-preview-64xrrz.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Neurodegenerative Risk Reduction Programs

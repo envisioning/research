@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883087/horizons/technologies/2e789ea1-2438-4b40-ad1f-467489aedc98-google-gemini-3.1-flash-image-preview-m5ksr2.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Fullerene

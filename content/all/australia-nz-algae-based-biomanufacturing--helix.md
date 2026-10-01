@@ -11,6 +11,8 @@ trl: 5
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858071/helix/technologies/2e84e6e4-9ec4-46ab-87a5-7e89f1ec1aaa-google-gemini-3.1-flash-image-preview-vkm32o.jpg
+updated_at: '2026-09-28T17:16:43.276036+00:00'
+last_reviewed: null
 ---
 
 # Algae-Based Industrial Biomanufacturing
@@ -26,3 +28,7 @@ Algenie, part of Cicada's Tech23 2025 'Built with Biology' cohort, is developing
 Traditional biomanufacturing using bacterial or yeast fermentation requires sterile conditions, controlled temperatures, and expensive sugar-based growth media. Algal biomanufacturing can operate in open or semi-open systems using natural sunlight, dramatically reducing energy costs in Australia's sun-rich environment. Modern synthetic biology tools (CRISPR, metabolic engineering) are enabling algae to produce complex molecules previously accessible only through chemical synthesis or animal/plant extraction.
 
 For Australia, algae biomanufacturing represents a convergence of natural advantages (sunlight, land, clean water) with synthetic biology capabilities developed at research institutions like CSIRO and ANU. The technology could create entirely new export industries — producing pharmaceutical ingredients, sustainable materials, and food proteins from Australian sunlight. While still at relatively early commercial stage, the sector aligns with growing global demand for bio-based alternatives to petrochemical products.
+
+## Sources
+
+- [https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/](https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/)

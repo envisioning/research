@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809376/grid/technologies/aee7ebb4-ad83-4c62-a5e7-461bd64fa518-google-gemini-3.1-flash-image-preview-9pnbse.png
+updated_at: '2026-09-28T17:17:28.967123+00:00'
+last_reviewed: null
 ---
 
 # Khavda Hybrid Renewable Energy Park
@@ -26,3 +28,9 @@ The Khavda Renewable Energy Park in Kutch district, Gujarat, is under constructi
 The scale is almost incomprehensible: at 30 GW, Khavda would have more generating capacity than many countries' entire electricity systems. The site was chosen for its exceptional solar irradiance, strong wind patterns, and vast tracts of uninhabitable salt flats (the Rann of Kutch) that have no competing land use. The hybrid approach — combining solar and wind on the same site — improves capacity utilization since wind often blows when the sun doesn't shine.
 
 Khavda represents India's approach to energy transition: massive scale, aggressive timelines, and strategic use of otherwise unproductive land. The park will require enormous investment in transmission infrastructure to evacuate power to demand centers. When complete, it will be visible from space and will single-handedly add more renewable capacity than most countries have built in total.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Gujarat_Hybrid_Renewable_Energy_Park](https://en.wikipedia.org/wiki/Gujarat_Hybrid_Renewable_Energy_Park)
+- [https://www.thehindu.com/business/Industry/adani-green-energy-commissions-480-mw-solar-and-wind-energy-capacity-on-track-to-complete-worlds-largest-re-park-at-khavda/article69397294.ece](https://www.thehindu.com/business/Industry/adani-green-energy-commissions-480-mw-solar-and-wind-energy-capacity-on-track-to-complete-worlds-largest-re-park-at-khavda/article69397294.ece)
+- [https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209478](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209478)

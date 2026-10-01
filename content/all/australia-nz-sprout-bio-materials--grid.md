@@ -11,6 +11,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774859065/grid/technologies/db63094b-ce4a-4e77-926f-7c12e7be212a-google-gemini-3.1-flash-image-preview-onbxg9.png
+updated_at: '2026-09-28T17:16:43.953503+00:00'
+last_reviewed: null
 ---
 
 # Plant-Based Biodegradable Industrial Materials
@@ -26,3 +28,7 @@ Sprout Materials, part of Cicada's Tech23 2025 'Built with Biology' cohort, is d
 Global plastic production exceeds 400 million tonnes annually, with less than 10% recycled. Microplastic contamination is now found in every environment from deep ocean trenches to human blood. Fully biodegradable alternatives that perform comparably to conventional materials are one of the most sought-after material science goals. Previous bio-plastic attempts (PLA, PHA) have struggled with either performance limitations or processing complexity.
 
 For Australia, which generates significant agricultural waste (particularly from wheat, sugar cane, and cotton processing) and has limited domestic plastics recycling infrastructure, converting waste biomass into high-value materials offers both environmental and economic benefits. The technology aligns with increasing regulatory pressure on single-use plastics across Australian states and export markets.
+
+## Sources
+
+- [https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/](https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/)

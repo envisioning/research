@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793634/spore/technologies/c4ced016-991a-4e98-8e49-b58da5a9465e-google-gemini-3.1-flash-image-preview-2t1rv2.png
+updated_at: '2026-09-28T17:17:55.102086+00:00'
+last_reviewed: null
 ---
 
 # Tropical Wheat as Safrinha Crop
@@ -26,3 +28,8 @@ Brazil imports roughly half its wheat consumption — about 7 million tons annua
 The breakthrough is treating wheat as a safrinha crop — planted after soybean harvest on the same land. This doesn't require clearing new land or displacing other crops; it adds a third revenue stream to existing double-crop rotations (soy + corn becomes soy + corn/wheat).
 
 If successful at scale, tropical wheat would complete Brazil's grain self-sufficiency and make the cerrado the only agricultural region on Earth producing soybeans, corn, cotton, AND wheat on the same land in the same year. The technology is at pilot scale — the next 5-10 years will determine whether it can be made commercially viable.
+
+## Sources
+
+- [https://www.czapp.com/analyst-insights/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/](https://www.czapp.com/analyst-insights/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/)
+- [https://www.world-grain.com/articles/20184-brazil-seeks-wheat-self-sufficiency](https://www.world-grain.com/articles/20184-brazil-seeks-wheat-self-sufficiency)

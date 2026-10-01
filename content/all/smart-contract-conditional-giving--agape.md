@@ -3,19 +3,22 @@ slug: smart-contract-conditional-giving
 hub: agape
 title: Smart-Contract Logic for Conditional Giving
 summary: Programmable giving with automated conditions, enabling trustless, transparent,
+  and self-executing philanthropic transactions.
 permalink: https://www.envisioning.com/agape/smart-contract-conditional-giving
 collection: technology-infrastructure
 trl: 1
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367946/agape/signals/smart-contract-conditional-giving-google-gemini-3-pro-image-preview-hy1itp.jpg
+updated_at: '2026-10-01T09:35:01.796976+00:00'
+last_reviewed: null
 ---
 
 # Smart-Contract Logic for Conditional Giving
 
 ## Summary
 
-Programmable giving with automated conditions, enabling trustless, transparent,
+Programmable giving with automated conditions, enabling trustless, transparent, and self-executing philanthropic transactions.
 
 ## Description
 

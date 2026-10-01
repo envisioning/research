@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853314/helix/technologies/611b6d44-89b9-4ab4-b33b-aae68b872a33-google-gemini-3.1-flash-image-preview-xvkn5z.jpg
+updated_at: '2026-09-28T17:18:01.434092+00:00'
+last_reviewed: null
 ---
 
 # mRNA Therapeutic Platforms
@@ -25,3 +27,7 @@ BioNTech (Germany) is adapting the mRNA technology proven during COVID-19 vaccin
 The platform approach is key: rather than developing individual drugs, BioNTech's mRNA infrastructure can rapidly generate new therapeutic candidates by changing the encoded protein sequences. Personalized cancer vaccines, where the mRNA is custom-designed based on a patient's tumor mutations, showed immune responses persisting nearly four years in pancreatic cancer patients.
 
 Europe's mRNA leadership (BioNTech in Germany, CureVac in Germany, Moderna's European operations) builds on decades of RNA biology research at European universities. The COVID pandemic demonstrated that this research base could produce commercially successful products at global scale — and the cancer pipeline represents the far larger long-term market for the same underlying technology.
+
+## Sources
+
+- [https://investors.biontech.de/news-releases/news-release-details/biontech-announces-positive-topline-phase-2-results-mrna](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-positive-topline-phase-2-results-mrna)

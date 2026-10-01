@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817584/substrate/technologies/cc0f5754-627b-494c-b2c2-3c494d12846b-google-gemini-3.1-flash-image-preview-6aqjqt.png
+updated_at: '2026-09-28T17:18:21.538343+00:00'
+last_reviewed: null
 ---
 
 # Semiconductor Mega-Clusters
@@ -26,3 +28,8 @@ Samsung is building its P5 fab at Pyeongtaek, adding to what is already the larg
 These mega-clusters reflect a strategic bet that semiconductor manufacturing advantage comes from density and integration — having design, fabrication, packaging, and testing within the same campus reduces logistics costs and accelerates iteration cycles. The scale is staggering: the Yongin cluster alone will be larger than many small cities.
 
 The geopolitical context makes these investments more urgent. With TSMC concentrated in Taiwan and US CHIPS Act funding its own fab construction, Korea is racing to ensure its semiconductor manufacturing base remains globally competitive. The Korean government's K-Semiconductor Strategy provides tax breaks of up to 25% for facility investment, explicitly designed to keep fabs in Korea rather than losing them to foreign incentive packages.
+
+## Sources
+
+- [https://www.reuters.com/technology/sk-hynix-invest-91-bln-build-mega-chip-cluster-south-korea-2025/](https://www.reuters.com/technology/sk-hynix-invest-91-bln-build-mega-chip-cluster-south-korea-2025/)
+- [https://www.bloomberg.com/news/articles/2025-03-20/samsung-pyeongtaek-p5-worlds-largest-chip-campus](https://www.bloomberg.com/news/articles/2025-03-20/samsung-pyeongtaek-p5-worlds-largest-chip-campus)

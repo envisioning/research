@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816045/helix/technologies/c5ea2e21-76c8-44d1-85df-5e5c661077d7-google-gemini-3.1-flash-image-preview-nff8qj.png
+updated_at: '2026-09-28T17:17:45.265144+00:00'
+last_reviewed: null
 ---
 
 # Aquaculture Genetic Improvement Programs
@@ -26,3 +28,7 @@ Vietnam — Vietnam is the world's largest pangasius (catfish) exporter and thir
 Modern genomic selection uses DNA markers to predict breeding value, allowing breeders to select for multiple traits simultaneously. This accelerates genetic gain from 5-8% per generation (traditional selective breeding) to 15-20% per generation. For species like shrimp where disease resistance is critical (white spot syndrome can cause 100% mortality), genomic selection for disease resistance genes has transformative potential.
 
 Vietnam's aquaculture genetics programs serve as public goods for the industry — improved broodstock is distributed to farmers, raising productivity across the sector. This government-funded genetics infrastructure is a competitive advantage that private-sector-only approaches in competing countries (Ecuador, India) lack. The model could extend to other tropical aquaculture species across ASEAN.
+
+## Sources
+
+- [https://www.mordorintelligence.com/industry-reports/vietnam-semiconductor-market](https://www.mordorintelligence.com/industry-reports/vietnam-semiconductor-market)

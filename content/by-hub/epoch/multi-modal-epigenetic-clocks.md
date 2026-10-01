@@ -10,6 +10,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898373/epoch/technologies/b77fa663-51c5-4040-8892-b9465029008f-google-gemini-3.1-flash-image-preview-7cwq9q.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Multi-Modal Epigenetic Clocks

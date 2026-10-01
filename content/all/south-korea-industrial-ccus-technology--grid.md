@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817846/grid/technologies/fde952b4-8bab-4b7b-9749-040853d2b762-google-gemini-3.1-flash-image-preview-g747dj.jpg
+updated_at: '2026-09-28T17:17:40.486426+00:00'
+last_reviewed: null
 ---
 
 # Industrial Carbon Capture and Utilization (CCUS)
@@ -26,3 +28,9 @@ South Korea's industrial CCUS program targets the country's hardest-to-abate emi
 Korea's CCUS push is driven by structural necessity: the country is heavily industrialized with limited renewable energy potential (small land area, high density), meaning emissions from heavy industry cannot simply be offset by wind and solar buildout. The Korean Emissions Trading Scheme (K-ETS), Asia's first mandatory carbon market, creates direct financial incentives for companies to invest in CCUS rather than pay rising carbon prices. POSCO International disclosed in 2024 its intention to diversify into CCUS and hydrogen activities as core business lines.
 
 The international dimension is significant: POSCO signed agreements with CF Industries (US) to evaluate joint clean ammonia production using captured CO2, and with Australian partners for potential offshore CO2 storage in depleted gas fields. Korea's approach to CCUS leverages its engineering and construction expertise — the same companies that build LNG terminals and nuclear plants (Samsung C&T, Hyundai E&C) are being mobilized to build capture facilities and CO2 transport infrastructure. If Korea's heavy industry successfully deploys CCUS at scale, it creates an exportable model for industrial decarbonization across Asia.
+
+## Sources
+
+- [https://carbonherald.com/south-korea-to-explore-feasability-of-carbon-capture-and-utilization-at-five-new-sites/](https://carbonherald.com/south-korea-to-explore-feasability-of-carbon-capture-and-utilization-at-five-new-sites/)
+- [https://newsroom.posco.com/en/from-ccus-to-hyrex-the-full-lineup-of-posco-groups-decarbonization-strategies-for-a-sustainable-steel-industry/](https://newsroom.posco.com/en/from-ccus-to-hyrex-the-full-lineup-of-posco-groups-decarbonization-strategies-for-a-sustainable-steel-industry/)
+- [https://www.veolia.kr/en/planet/carbon-capture-utilization-and-storage-ccus-south-korea-future-industrial-decarbonization](https://www.veolia.kr/en/planet/carbon-capture-utilization-and-storage-ccus-south-korea-future-industrial-decarbonization)

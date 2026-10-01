@@ -11,6 +11,8 @@ trl: 5
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855478/spore/technologies/534aa8cb-6912-4a81-9eaf-639eee8fcca8-google-gemini-3.1-flash-image-preview-9hzcth.jpg
+updated_at: '2026-09-28T17:17:01.31934+00:00'
+last_reviewed: null
 ---
 
 # Agrivoltaic Systems Integration
@@ -26,3 +28,7 @@ Agrivoltaic systems — the co-location of solar panels and agricultural product
 Turkey's geography is particularly suited to agrivoltaics: the central Anatolian plateau receives high solar irradiation while supporting major cereal, legume, and fruit production. Solar panels can provide partial shade that reduces crop water consumption in drought-prone regions, while crops beneath panels benefit from slightly cooler microclimate conditions. This synergy is especially valuable as Turkey faces both energy import dependence and agricultural drought pressures simultaneously.
 
 As Turkey pursues its target of quadrupling solar capacity to 120 GW combined with wind, agrivoltaics could resolve the land competition that might otherwise constrain deployment. The technology represents a convergence of Turkey's energy transition and food security agendas, potentially creating a distinctive Turkish model for agricultural solar deployment that could be exported to similarly climate-challenged Mediterranean and Middle Eastern countries.
+
+## Sources
+
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC11190663/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11190663/)

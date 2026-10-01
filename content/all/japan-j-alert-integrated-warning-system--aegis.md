@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818140/aegis/technologies/22706aa1-bc6a-4875-83ea-16c7bd015905-google-gemini-3.1-flash-image-preview-1wkjpr.jpg
+updated_at: '2026-09-28T17:16:50.825021+00:00'
+last_reviewed: null
 ---
 
 # J-ALERT Integrated Warning System
@@ -25,3 +27,8 @@ J-ALERT (Nationwide Instantaneous Warning System) is Japan's integrated emergenc
 J-ALERT represents one of the world's most sophisticated sovereign warning systems, born of Japan's unique combination of seismic vulnerability and missile threats. The system is battle-tested: it has activated multiple times for North Korean missile launches overflying Japan, providing minutes of warning for civilian shelter. For earthquakes, the system integrates with the Japan Meteorological Agency's early warning network, which can detect P-waves and issue alerts seconds before destructive S-waves arrive — enough time for automated responses like stopping bullet trains and opening fire station doors.
 
 Strategically, J-ALERT demonstrates how civilian disaster resilience infrastructure and military warning systems can be unified into a single sovereign platform. The dedicated satellite communication layer ensures the system functions even when cellular networks are overwhelmed or destroyed. Japan's continuous investment in J-ALERT improvements — faster processing, more precise geographic targeting, integration with smartphone apps — has made it a model studied by other nations. The system's effectiveness depends entirely on indigenous control: warning systems that route through foreign infrastructure cannot guarantee the sub-second response times required for earthquake early warning or missile defense.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/J-ALERT](https://en.wikipedia.org/wiki/J-ALERT)
+- [https://www.fdma.go.jp/en/post5.html](https://www.fdma.go.jp/en/post5.html)

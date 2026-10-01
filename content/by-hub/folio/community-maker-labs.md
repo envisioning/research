@@ -9,6 +9,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476974/folio/technologies/community-maker-labs-google-gemini-3-pro-image-preview-9gk9hm.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Community Maker Labs

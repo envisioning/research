@@ -9,6 +9,8 @@ trl: 7
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889036/epoch/technologies/6b40fe20-9dd4-4fae-a6c8-2e69cb89c7c1-google-gemini-3.1-flash-image-preview-bqi1ca.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Pharmacological Autophagy Induction

@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903308/xenotech/technologies/thought-form-vehicle-generation-openrouter-google-gemini-3.1-flash-image-preview-bryuqk.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Thought-Form Vehicles
@@ -56,3 +58,8 @@ advanced consciousness development and materialization training; light energy ma
 ## Current Status
 
 While theoretically grounded in consciousness research and materialization studies, thought-form vehicle generation systems remain speculative with significant consciousness development and technical challenges. The technology represents an extension of consciousness research into material instantiation applications, though practical implementation requires advanced consciousness development and materialization capabilities.
+
+## Sources
+
+- [GEM Propulsion Feasibility Proof](https://www.aims.healthcare/journal/gem-propulsion-feasibilityproof) (2025)
+- [Mind Over UFO: How Psychic Frequency Unlocks Remote Viewing and Alien Tech Control](https://drewponder.substack.com/p/mind-over-ufo-how-psychic-frequency) (2025)

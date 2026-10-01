@@ -10,6 +10,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852944/apogee/technologies/44394659-9650-459d-9602-e32d66b35eef-google-gemini-3.1-flash-image-preview-9p8oy5.jpg
+updated_at: '2026-09-28T17:17:33.014552+00:00'
+last_reviewed: null
 ---
 
 # In-Space Manufacturing
@@ -25,3 +27,7 @@ Space Forge (UK, NATO-backed) is developing reusable spacecraft platforms that m
 The initial focus is defense-grade semiconductors: radiation-hardened chips and advanced radar/communication components that benefit from the flawless crystal structures producible only in microgravity. The reusable platform design reduces the cost per kilogram of space-manufactured material, making commercial production economically viable.
 
 Europe's approach to space manufacturing emphasizes reusability and return-to-Earth capability — the manufactured products must come back to be useful. This differentiates from ISS-based experiments that demonstrated scientific feasibility but not commercial production. Space Forge's NATO backing signals defense applications as the initial market, with commercial expansion following as costs decrease.
+
+## Sources
+
+- [https://nitter.net/itsolelehmann/status/1912455565886038201](https://nitter.net/itsolelehmann/status/1912455565886038201)

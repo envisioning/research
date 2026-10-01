@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 2
 image_url: https://www.datocms-assets.com/134194/1719226758-portable-air-monitoring-tracker.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Portable Air Monitoring Tracker
@@ -27,3 +29,9 @@ The Portable Air Monitoring Tracker, also known as a mobile air quality monitor,
 The technology behind the Portable Air Monitoring Tracker involves a combination of miniaturised sensors and sophisticated algorithms. These sensors are capable of detecting minute concentrations of pollutants with high accuracy. The data collected is processed and analysed to provide real-time updates and trends. The device is also designed to be user-friendly, with a long battery life and robust build, making it suitable for use in various urban environments. Furthermore, the integration of GPS technology allows for precise geolocation tagging of air quality data, enabling the creation of detailed pollution maps.
 
 By providing granular, real-time data on air quality, it empowers citizens to protect their health by avoiding highly polluted areas or adjusting their outdoor activities accordingly. For urban planners and policymakers, the aggregated data from these devices offers invaluable insights into pollution hotspots, helping to inform targeted interventions and policy decisions aimed at reducing pollution levels. Additionally, by raising public awareness about air quality issues, the Portable Air Monitoring Tracker fosters a more informed and engaged citizenry, advocating for cleaner air and healthier urban environments.
+
+## Sources
+
+- [Air Pollution Monitoring via Wireless Sensor Networks: The Investigation and Correction of the Aging Behavior of Electrochemical Gaseous Pollutant Sensors](https://www.mdpi.com/2079-9292/12/8/1842)
+- [PurpleAir makes sensors that empower Community Scientists who collect hyper-local air quality data and share it with the public.](https://www2.purpleair.com/)
+- [SODAQ AIR: portable air quality monitor](https://sodaq.com/recent-projects/sodaq-air-portable-air-quality-monitor/)

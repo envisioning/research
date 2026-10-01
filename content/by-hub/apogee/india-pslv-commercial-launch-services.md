@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807227/apogee/technologies/15a1ee9c-3e0d-425a-9ae6-f8a7de0ab612-google-gemini-3.1-flash-image-preview-2da8l1.png
+updated_at: '2026-09-28T17:17:26.874068+00:00'
+last_reviewed: null
 ---
 
 # PSLV Commercial Launch Vehicle
@@ -26,3 +28,9 @@ The Polar Satellite Launch Vehicle (PSLV) is ISRO's workhorse rocket, operationa
 The PSLV's reliability and low cost have made India a preferred launch provider for small and medium satellites. A PSLV launch costs $15-30 million, a fraction of Western alternatives. This pricing isn't subsidized — it reflects ISRO's lean engineering culture, domestic manufacturing, and lower labor costs. The rocket uses a combination of solid and liquid propulsion stages, with the flexibility to reach multiple orbits.
 
 The commercial launch business is now transitioning. NSIL is taking over commercial operations from ISRO, allowing the space agency to focus on exploration and R&D. The newer Small Satellite Launch Vehicle (SSLV) targets the growing market for dedicated small-sat launches. India's private space companies (Skyroot, Agnikul) are developing their own launch vehicles to complement ISRO's offerings, potentially making India a multi-provider launch hub.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle](https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle)
+- [https://www.isro.gov.in/PSLV.html](https://www.isro.gov.in/PSLV.html)
+- [https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/indias-space-sector-rockets-ahead-in-2025-powered-by-government-policy-and-private-partnerships/126263073](https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/indias-space-sector-rockets-ahead-in-2025-powered-by-government-policy-and-private-partnerships/126263073)

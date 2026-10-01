@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813845/aegis/technologies/32defe15-8c57-49e3-9c5f-018bc94f3f4a-google-gemini-3.1-flash-image-preview-cku2lh.png
+updated_at: '2026-09-28T17:18:12.013082+00:00'
+last_reviewed: null
 ---
 
 # Edge Group Defense Technology
@@ -25,3 +27,7 @@ Edge Group, formed in 2019 by consolidating over 25 UAE defense entities, has ra
 Edge Group represents the UAE's push for defense self-sufficiency and export capability. Rather than remaining a pure importer of Western defense technology, the UAE has built indigenous development and manufacturing capabilities that now compete for international contracts. The group's emphasis on autonomous and AI-enabled systems aligns with global trends in military technology.
 
 The defense technology sector is strategically important beyond security: it drives aerospace engineering capabilities, funds advanced materials research, and creates a skilled technical workforce. Edge Group's autonomous systems technology has dual-use applications in commercial sectors including logistics, infrastructure inspection, and maritime surveillance.
+
+## Sources
+
+- [https://www.iiss.org/publications/strategic-comments/2024/10/the-uaes-technology-ambitions/](https://www.iiss.org/publications/strategic-comments/2024/10/the-uaes-technology-ambitions/)

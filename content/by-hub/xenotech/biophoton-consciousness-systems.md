@@ -10,6 +10,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897722/xenotech/technologies/biophoton-consciousness-systems-openrouter-google-gemini-3.1-flash-image-preview-ihx4vu.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Biophoton Communication
@@ -39,3 +41,8 @@ Scientific consensus views consciousness role as unfounded speculation. Biophoto
 ## Current Status
 
 Nevertheless, biophoton research continues in fringe biophysics. Commercial devices claiming to detect 'biofield' signatures or correct biophoton patterns proliferate in alternative medicine despite lack of controlled efficacy trials. The field demonstrates pattern: legitimate phenomenon (ultra-weak photon emission exists) + speculative interpretation (assigning functional role) + unfalsifiable extrapolation (consciousness substrate) = fringe science mixing real measurements with extraordinary claims. Biophotons represent boundary between established photochemistry and speculative quantum biology—real phenomenon, questionable function, unproven consciousness applications.
+
+## Sources
+
+- [Light Modulation and Biophoton Emissions: A Proof-of-Principle Study of Direct and Proximal Cellular Effects](https://www.mdpi.com/2076-3417/15/18/9858) (2025)
+- [The concept of biophotonic signaling in the human body and brain: rationale, problems and directions](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2025.1597329/full) (2025)

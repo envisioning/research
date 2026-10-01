@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816366/helix/technologies/03178f22-3625-46ed-8497-1112aab7ab6c-google-gemini-3.1-flash-image-preview-duarqj.png
+updated_at: '2026-09-28T17:18:18.901759+00:00'
+last_reviewed: null
 ---
 
 # Songdo Biopharmaceutical Cluster
@@ -26,3 +28,8 @@ Songdo International City in Incheon hosts the largest concentration of biopharm
 The cluster model creates self-reinforcing advantages: shared talent pools, specialized suppliers (media, chromatography resins, single-use components), regulatory expertise, and logistics infrastructure. Samsung Biologics and Celltrion together employ over 10,000 biopharmaceutical specialists, creating a labor market depth that no single company could sustain alone.
 
 The Korean government's K-Bio CDMO Support Act provides regulatory fast-tracking, tax incentives, and infrastructure investment specifically for the Songdo cluster and similar bio hubs in Osong and Daejeon. The goal is to make Korea the "Samsung of pharma manufacturing" — not inventing the drugs, but manufacturing them at the highest quality and lowest cost globally.
+
+## Sources
+
+- [https://www.ifez.go.kr/eng/songdo-bio-cluster](https://www.ifez.go.kr/eng/songdo-bio-cluster)
+- [https://www.biopharmadive.com/news/korea-songdo-bio-cluster-samsung-biologics-celltrion-2025/](https://www.biopharmadive.com/news/korea-songdo-bio-cluster-samsung-biologics-celltrion-2025/)

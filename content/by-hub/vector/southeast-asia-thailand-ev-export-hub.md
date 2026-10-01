@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815468/vector/technologies/6d5d40b2-70b7-482a-b820-fea6e870dcbd-google-gemini-3.1-flash-image-preview-qav9de.jpg
+updated_at: '2026-09-28T17:16:48.011743+00:00'
+last_reviewed: null
 ---
 
 # EV Export Manufacturing Platform
@@ -26,3 +28,9 @@ Thailand — BYD's Rayong plant, operational since July 2024, is the company's f
 The Thai government's incentive structure is explicitly designed for export: tax breaks, infrastructure support, and streamlined customs for manufacturers using Thailand as a global production base. Export projections estimate 12,500 units in 2025 rising to 52,000 by 2026. Great Wall Motor, Foxconn, and other Chinese manufacturers are building additional capacity.
 
 The strategic gamble is whether Thailand can capture EV value chains (batteries, motors, power electronics) rather than just final assembly. If Chinese manufacturers use Thailand purely as a tariff-circumvention platform to access European and ASEAN markets without technology transfer, Thailand risks becoming a screwdriver plant. The government is pushing for local content requirements to force deeper supply chain development.
+
+## Sources
+
+- [https://www.reuters.com/business/autos-transportation/chinas-byd-opens-ev-factory-thailand-first-southeast-asia-2024-07-04/](https://www.reuters.com/business/autos-transportation/chinas-byd-opens-ev-factory-thailand-first-southeast-asia-2024-07-04/)
+- [https://cnevpost.com/2025/12/03/byd-thailand-plant-70000th-production-milestone/](https://cnevpost.com/2025/12/03/byd-thailand-plant-70000th-production-milestone/)
+- [https://www.nationthailand.com/business/automobile/40054536](https://www.nationthailand.com/business/automobile/40054536)

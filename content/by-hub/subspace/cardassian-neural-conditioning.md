@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908529/subspace/technologies/cardassian-neural-conditioning-openrouter-google-gemini-3.1-flash-image-preview-29wr39.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Neural Conditioning Devices

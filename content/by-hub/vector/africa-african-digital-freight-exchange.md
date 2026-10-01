@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811481/vector/technologies/f2b375e9-5834-46e9-a8c9-8c11fe3e54d7-google-gemini-3.1-flash-image-preview-shucqb.png
+updated_at: '2026-09-28T17:17:22.686485+00:00'
+last_reviewed: null
 ---
 
 # Digital Freight Exchange and Trucking Platforms
@@ -26,3 +28,8 @@ Digital freight exchanges are solving one of Africa's most expensive inefficienc
 Africa's logistics costs average 50-75% of goods' value — compared to 6-10% in developed economies — making everything from food to medicine unnecessarily expensive. The primary cause is fragmentation: millions of independent truckers operating without coordination, information, or access to return loads. Digital freight platforms aggregate supply and demand, optimize routes using AI, provide real-time shipment tracking, and handle payments digitally — reducing costs by 20-40% for shippers while increasing income for truckers.
 
 The platforms generate transformative data: trade flow patterns, road condition reports, border crossing times, and demand forecasts that were previously invisible. This data enables better infrastructure investment decisions, trade policy, and supply chain planning. The African Continental Free Trade Area (AfCFTA) will increase intra-African trade — but only if logistics costs come down. Digital freight platforms are the essential technology enabler for continental trade integration.
+
+## Sources
+
+- [https://kobo360.com/](https://kobo360.com/)
+- [https://lorisystems.com/](https://lorisystems.com/)

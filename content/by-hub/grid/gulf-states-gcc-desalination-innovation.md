@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813702/grid/technologies/188be61b-ba7e-43a4-b314-acf6542ae0e7-google-gemini-3.1-flash-image-preview-uif7jg.png
+updated_at: '2026-09-28T17:17:27.786857+00:00'
+last_reviewed: null
 ---
 
 # Advanced Desalination Technologies
@@ -26,3 +28,7 @@ The Gulf states collectively operate more than half of the world's desalination 
 Water scarcity is existential for the Gulf: with virtually no freshwater resources, desalination is not optional but essential infrastructure. This necessity has driven genuine innovation — Gulf-funded research has contributed significantly to reducing the energy cost of desalination from over 10 kWh/m³ for thermal processes to under 3 kWh/m³ for modern RO systems.
 
 As climate change intensifies water scarcity globally — affecting regions from California to India to sub-Saharan Africa — Gulf desalination expertise becomes increasingly valuable. The region's desalination companies, including ACWA Power and Metito, are already exporting technology and operating concessions across Africa and Asia, extending Gulf influence through water infrastructure.
+
+## Sources
+
+- [https://www.atlanticcouncil.org/blogs/menasource/gulf-water-scarcity-deslination/](https://www.atlanticcouncil.org/blogs/menasource/gulf-water-scarcity-deslination/)

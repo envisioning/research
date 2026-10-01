@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774876038/grid/technologies/dc7a930e-2e35-452c-b2ac-e779a339b473-google-gemini-3.1-flash-image-preview-h9qow3.png
+updated_at: '2026-09-28T17:16:22.711764+00:00'
+last_reviewed: null
 ---
 
 # Solar-Powered CVD Lab-Grown Diamond Production
@@ -26,3 +28,9 @@ Israel's traditional diamond polishing industry is pivoting to deep tech through
 CVD diamond technology deposits carbon atoms from a methane plasma onto a seed crystal, growing gem-quality diamonds atom by atom. The industrial applications are more strategically significant than jewelry: diamond is the ultimate semiconductor heat sink (5x the thermal conductivity of copper), has extreme hardness for cutting tools, and has emerging applications in quantum computing (nitrogen-vacancy centers in diamond are leading qubit candidates). Israel's pivot from diamond polishing to diamond growing represents a classic deep-tech transformation of a traditional industry.
 
 Strategically, lab-grown diamonds for industrial applications sit at the intersection of semiconductor manufacturing, quantum computing, and advanced materials. Israel's existing diamond expertise (the Diamond Exchange in Ramat Gan has been central to global diamond trade for decades), combined with CVD engineering talent and abundant solar energy for power-intensive growth processes, creates a unique cluster. However, Lusix's recent financial difficulties ($152M raised but sold for $2.5M in 2025) illustrate the capital intensity and market timing risks in this space.
+
+## Sources
+
+- [https://lusix.com/](https://lusix.com/)
+- [https://www.eejournal.com/industry_news/lusix-joins-lgd-in-tech-consortium-as-founding-member-israeli-diamond-grower-prominent-in-diamonds-for-advanced-electronics/](https://www.eejournal.com/industry_news/lusix-joins-lgd-in-tech-consortium-as-founding-member-israeli-diamond-grower-prominent-in-diamonds-for-advanced-electronics/)
+- [https://finder.startupnationcentral.org/company_page/lusix](https://finder.startupnationcentral.org/company_page/lusix)

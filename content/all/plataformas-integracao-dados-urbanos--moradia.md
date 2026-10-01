@@ -10,6 +10,8 @@ trl: null
 impact: null
 investment: null
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766332902/conectar/technologies/integracao-dados-predio-cidade-google-gemini-3-pro-image-preview-2cxpj6.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Plataformas de Integração de Dados Urbanos
@@ -25,3 +27,8 @@ Plataformas de integração de dados urbanos conectam dados de edifícios (consu
 No Brasil, está em estágio inicial mas mostra potencial para melhorar eficiência urbana. Esse sinal cresce com a necessidade de coordenação intersetorial (obras, emergências, eventos extremos) e com a pressão por governança de dados (LGPD) e redução de lock-in em contratos públicos. São relevantes para melhorar continuidade de serviços e reduzir tempo de resposta a problemas.
 
 O sinal de mudança é a transformação de sistemas isolados para plataformas integradas que conectam dados urbanos, criando novos modelos de gestão urbana baseados em dados integrados, especialmente relevante onde coordenação intersetorial e continuidade de serviços são críticos.
+
+## Sources
+
+- [Plataforma de Gestão Urbana by Ubiwhere - Urban Platform](https://urbanplatform.city/) (2025)
+- [Urban Management Platform by Ubiwhere - Features and Standards](https://urbanplatform.city/en/urban-platform-by-ubiwhere-en) (2025)

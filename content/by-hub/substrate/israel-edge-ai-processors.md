@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875028/substrate/technologies/133476ac-626a-44e1-9e7d-f0dd6458fc02-google-gemini-3.1-flash-image-preview-as0ua1.jpg
+updated_at: '2026-09-28T17:18:42.327306+00:00'
+last_reviewed: null
 ---
 
 # Edge AI Inference Processors
@@ -25,3 +27,9 @@ Hailo Technologies has developed purpose-built AI inference processors optimized
 Edge AI is a strategically critical market because it addresses scenarios where cloud-based AI is impractical: real-time autonomous driving decisions, military applications in contested RF environments, industrial quality control, and privacy-sensitive applications. Hailo's architecture uses a unique dataflow approach that achieves performance/watt ratios competitive with much larger companies' solutions.
 
 Hailo became a unicorn ($1B+ valuation) after raising $136M, with investors including Poalim Equity. The company's global partner ecosystem spans the U.S., Germany, China, Japan, Korea, and Taiwan. Israel's broader semiconductor design ecosystem — home to Intel's largest development center outside the U.S., and development sites for Nvidia (adding 8,000 staff), Qualcomm, Apple, and others — makes it one of the world's densest chip design clusters despite having no fabrication facilities.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Hailo_Technologies](https://en.wikipedia.org/wiki/Hailo_Technologies)
+- [https://www.timesofisrael.com/israeli-ai-chip-maker-hailo-becomes-newest-unicorn-after-136m-investment/](https://www.timesofisrael.com/israeli-ai-chip-maker-hailo-becomes-newest-unicorn-after-136m-investment/)
+- [https://hailo.ai/](https://hailo.ai/)

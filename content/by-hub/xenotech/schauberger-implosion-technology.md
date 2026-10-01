@@ -10,6 +10,8 @@ trl: 2
 impact: 4
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903495/xenotech/technologies/schauberger-implosion-technology-openrouter-google-gemini-3.1-flash-image-preview-j6ldjj.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Vortex Implosion
@@ -33,3 +35,8 @@ Schauberger built various devices including water treatment systems, 'flying dis
 ## Critical Assessment
 
 While Schauberger made valid observations about vortex hydrodynamics, claims of anti-gravity and over-unity energy lack verification. His legitimate fluid dynamics insights about spiral flows, cavitation effects, and water's molecular organization are mixed with unproven energy claims, creating difficulty separating observation from speculation. No device has demonstrated the extraordinary capabilities he claimed, and his theories blend sound hydrodynamics with mystical interpretations of natural processes.
+
+## Sources
+
+- [The Aerodynamic Principles Behind Viktor Schauberger’s Vortex Driven Flying Disc](https://infinityturbine.com/aerodynamic-tech-behind-viktor-schaubergers-vortex-driven-flying-disc-by-infinity-turbine.html) (2026)
+- [Investigation of Viktor Schauberger's Vortex Engine Review Summary](https://infinityturbine.com/pdf/IT-repulsine-engineering-reality.pdf) (2025)

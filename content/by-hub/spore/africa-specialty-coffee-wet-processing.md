@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810385/spore/technologies/4d3672d5-5d21-44c9-b370-15daf95730d7-google-gemini-3.1-flash-image-preview-2nlq8y.jpg
+updated_at: '2026-09-28T17:16:41.623973+00:00'
+last_reviewed: null
 ---
 
 # Cooperative Coffee Washing Station Technology
@@ -26,3 +28,9 @@ Rwanda's coffee sector was revolutionized by the rapid deployment of coffee wash
 The innovation is as much systems engineering as hardware. Rwanda's washing stations incorporate quality control at every stage: cherry intake selection (only ripe red cherries), flotation separation of defective beans, controlled fermentation timing monitored by simple pH testing, multi-stage washing for clean cup profiles, and slow drying over 14-21 days on raised beds that allow air circulation. TechnoServe's Rwanda INC project introduced data-driven quality management — tracking lot provenance, cupping scores, and processing parameters to create feedback loops that continuously improve output quality.
 
 The strategic implication is value capture. By upgrading processing technology, Rwanda shifted from selling undifferentiated commodity coffee to competing in the specialty market — where African coffees (Rwandan, Ethiopian, Kenyan) command some of the world's highest prices. The cooperative CWS model ensures smallholders share in the premium. This is agricultural technology upgrading that directly increases farmer income, and the model is being replicated in Burundi, DRC, and Uganda.
+
+## Sources
+
+- [https://www.canr.msu.edu/news/the-role-of-cooperative-coffee-washing-stations-for-rwandan-coffee](https://www.canr.msu.edu/news/the-role-of-cooperative-coffee-washing-stations-for-rwandan-coffee)
+- [https://www.technoserve.org/blog/how-coffee-processors-east-africa-bring-coffee-from-crop-to-cup/](https://www.technoserve.org/blog/how-coffee-processors-east-africa-bring-coffee-from-crop-to-cup/)
+- [https://www.mdpi.com/2071-1050/15/23/16513](https://www.mdpi.com/2071-1050/15/23/16513)

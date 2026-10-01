@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818909/apogee/technologies/6d874a69-e298-427e-b43a-c1410298bb66-google-gemini-3.1-flash-image-preview-w4s6lp.png
+updated_at: '2026-09-28T17:17:38.854334+00:00'
+last_reviewed: null
 ---
 
 # Space Debris Removal (Astroscale)
@@ -26,3 +28,9 @@ Astroscale, headquartered in Tokyo, is the world's first and most advanced comme
 The company is building a full-service orbital sustainability business. Astroscale's ELSA-d mission previously demonstrated magnetic capture technology, and the upcoming ELSA-M and COSMIC missions will provide commercial deorbiting services for satellite operators. In March 2025, Airbus Defence and Space placed the first large-scale commercial order for Astroscale UK's second-generation docking plates — standardized interfaces that future satellites will carry to enable end-of-life removal. This is the first commercial transaction in the space debris removal market.
 
 With over 36,000 tracked objects and millions of smaller debris fragments threatening the $600+ billion space economy, orbital debris removal is transitioning from theoretical concern to operational necessity. Astroscale's first-mover advantage — built in Japan with JAXA support — positions it to define the standards, technology, and business models for an entirely new space services industry. The company operates subsidiaries in the US, UK, France, and Israel, but its core technology and strategic direction remain rooted in Tokyo.
+
+## Sources
+
+- [https://www.astroscale.com/en/missions/adras-j](https://www.astroscale.com/en/missions/adras-j)
+- [https://en.wikipedia.org/wiki/Astroscale](https://en.wikipedia.org/wiki/Astroscale)
+- [https://news.satnews.com/2024/12/12/astroscales-adras-j-achieves-historic-15-meter-approach-to-space-debris/](https://news.satnews.com/2024/12/12/astroscales-adras-j-achieves-historic-15-meter-approach-to-space-debris/)

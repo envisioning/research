@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903018/xenotech/technologies/scalar-wave-technologies-openrouter-google-gemini-3.1-flash-image-preview-o9nv2d.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Scalar Waves
@@ -29,3 +31,7 @@ Tesla allegedly demonstrated longitudinal transmission in his Colorado Springs e
 ## Scientific Assessment
 
 Physics recognizes only transverse electromagnetic waves in vacuum per Maxwell's equations. 'Scalar' waves as described are compression waves in conducting media, not propagating fields. Most 'scalar wave' devices measure conventional EM artifacts or near-field effects. Claims of consciousness coupling, FTL transmission, and shield penetration lack mechanistic explanation and empirical demonstration. Any tested 'scalar communication' resolves to conventional EM transmission or fraud. The concept appeals through promise of perfect security, unlimited range, and biological compatibility—attractive fantasies without physical basis, existing primarily in fringe literature.
+
+## Sources
+
+- [What Is Scalar Energy? Complete Guide 2026](https://scalarhealings.com/guides/what-is-scalar-energy) (2026)

@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809181/substrate/technologies/8e98480b-76d4-4a90-860f-4d44ecddc7b4-google-gemini-3.1-flash-image-preview-heiizq.jpg
+updated_at: '2026-09-28T17:18:07.095037+00:00'
+last_reviewed: null
 ---
 
 # Semiconductor Design Ecosystem
@@ -25,3 +27,9 @@ India is already one of the world's leading semiconductor design hubs, even befo
 Bengaluru and Hyderabad are the twin hubs of India's semiconductor design ecosystem. Many of the ARM cores that power smartphones worldwide, the GPU architectures that enable AI training, and the 5G modem chips that enable modern connectivity were designed or co-designed in India. This represents enormous accumulated expertise in digital design, verification, and physical design — the intellectual backbone of the semiconductor industry.
 
 The design ecosystem's maturity is India's strongest argument for why domestic fabrication can succeed. Unlike countries starting semiconductor programs from scratch, India already has the engineering talent, the design tools expertise, and the industry relationships. The missing piece is manufacturing — and the India Semiconductor Mission is specifically targeting that gap to complete the value chain.
+
+## Sources
+
+- [https://carnegieendowment.org/research/2025/08/indias-semiconductor-mission-the-story-so-far](https://carnegieendowment.org/research/2025/08/indias-semiconductor-mission-the-story-so-far)
+- [https://en.wikipedia.org/wiki/Semiconductor_industry_in_India](https://en.wikipedia.org/wiki/Semiconductor_industry_in_India)
+- [https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race](https://www.aljazeera.com/economy/2025/12/18/can-india-catch-up-with-the-us-taiwan-and-china-in-the-global-chip-race)

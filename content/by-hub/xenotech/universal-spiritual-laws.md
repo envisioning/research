@@ -10,6 +10,8 @@ trl: 1
 impact: 4
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903426/xenotech/technologies/universal-spiritual-laws-openrouter-google-gemini-3.1-flash-image-preview-vj2l7d.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Universal Spiritual Laws
@@ -37,3 +39,7 @@ Combined, the laws resemble cosmic compliance stack: access rights determined by
 ## Critical Assessment
 
 No empirical instrumentation validates such governance layer; the concepts originate from channeling archives and esoteric commentary. Framing spiritual doctrine as protocol stack provides compelling metaphor for consciousness engineering, yet remains speculative metaphysics lacking falsifiable mechanisms.
+
+## Sources
+
+- [The Law of One Research Index](https://lawofoneresearch.wordpress.com/) (2025)

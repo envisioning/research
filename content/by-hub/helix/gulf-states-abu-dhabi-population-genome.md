@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813748/helix/technologies/20f2a539-3b91-452e-a9d3-b36fe88e4423-google-gemini-3.1-flash-image-preview-odqz69.jpg
+updated_at: '2026-09-28T17:18:11.491172+00:00'
+last_reviewed: null
 ---
 
 # Abu Dhabi Population Genome Initiative
@@ -26,3 +28,7 @@ Abu Dhabi's population genome initiative, operated through G42 Healthcare, combi
 The initiative demonstrates the convergence of Gulf AI and healthcare investments: G42's computing infrastructure, originally built for government and enterprise AI, provides the analytical backbone for genomic research. This dual-use of AI infrastructure — serving both technology and healthcare — maximizes return on the massive data center investments.
 
 The broader strategic vision is positioning the Gulf as a healthcare destination and medical research hub. By building world-class genomic databases for underrepresented populations, Gulf states attract international research partnerships, pharmaceutical company collaborations, and medical tourism — creating high-value economic activity that doesn't depend on oil.
+
+## Sources
+
+- [https://introl.com/blog/middle-east-ai-revolution-uae-saudi-arabia-100b-infrastructure-plans](https://introl.com/blog/middle-east-ai-revolution-uae-saudi-arabia-100b-infrastructure-plans)

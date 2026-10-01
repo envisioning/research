@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858438/apogee/technologies/7363e4e6-0deb-4e68-9b2f-12fa9e472c74-google-gemini-3.1-flash-image-preview-6kgcm2.jpg
+updated_at: '2026-09-28T17:17:58.108638+00:00'
+last_reviewed: null
 ---
 
 # Dedicated Small Satellite Launch (Electron)
@@ -26,3 +28,9 @@ Rocket Lab's Electron rocket, launched from Launch Complex 1 on New Zealand's Ma
 New Zealand's launch site provides access to a wide range of orbital inclinations, including sun-synchronous orbits popular with Earth observation satellites. The country's sparse population, limited air and sea traffic, and southern latitude make Mahia Peninsula one of the world's most operationally flexible launch sites. Electron's Rutherford engines, the first to use electric pump-fed cycle technology, represent a genuine technical innovation that reduced the cost and complexity of small launch vehicles.
 
 Sovereign launch capability is a rare and strategically significant asset. New Zealand, through Rocket Lab, is one of only about a dozen nations that can independently access orbit. The Neutron medium-lift rocket, targeting debut launch in Q1 2026 from the US, will extend this capability to constellation deployment and national security missions. For the Five Eyes alliance, having launch infrastructure in the southern hemisphere diversifies access to space and provides resilience against disruption of northern hemisphere launch sites.
+
+## Sources
+
+- [https://www.nasaspaceflight.com/2025/12/rocket-lab-2025-overview/](https://www.nasaspaceflight.com/2025/12/rocket-lab-2025-overview/)
+- [https://finance.yahoo.com/news/rocket-lab-successfully-launches-iqps-080400960.html](https://finance.yahoo.com/news/rocket-lab-successfully-launches-iqps-080400960.html)
+- [https://rocketlabcorp.com/updates/f77-mission-success-jaxa/](https://rocketlabcorp.com/updates/f77-mission-success-jaxa/)

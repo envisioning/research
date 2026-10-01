@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872632/helix/technologies/5df8d45a-3764-478b-8327-5b870038bbec-google-gemini-3.1-flash-image-preview-i74gb0.jpg
+updated_at: '2026-09-28T17:17:17.116629+00:00'
+last_reviewed: null
 ---
 
 # Nano-Scale Drug Delivery Systems
@@ -26,3 +28,9 @@ Iranian pharmaceutical researchers have developed multiple nano-scale drug deliv
 Nano-drug delivery addresses a practical problem: improving the efficacy and reducing the side effects of existing drugs by controlling how, when, and where they release their active ingredients. For Iran's sanctions-constrained healthcare system, this is particularly valuable — it allows existing generic drugs to be reformulated for improved performance without requiring access to novel active pharmaceutical ingredients, which may be harder to source under trade restrictions.
 
 The nano-drug delivery work sits at the intersection of Iran's two strong biotech domains (pharmaceuticals and nanotechnology), creating synergies that neither field would achieve alone. The commercial potential is significant for markets in the Middle East, Central Asia, and Africa where affordability is paramount. However, regulatory barriers to exporting pharmaceutical nano-products remain substantial, and most clinical validation has been domestic rather than through internationally recognized trials.
+
+## Sources
+
+- [https://statnano.com/country/Iran](https://statnano.com/country/Iran)
+- [https://www.tehrantimes.com/news/492828/Iran-s-remarkable-rise-as-a-global-leader-in-nanotechnology](https://www.tehrantimes.com/news/492828/Iran-s-remarkable-rise-as-a-global-leader-in-nanotechnology)
+- [https://pubmed.ncbi.nlm.nih.gov/31356098/](https://pubmed.ncbi.nlm.nih.gov/31356098/)

@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887012/wonen/technologies/4597d6b6-790e-462f-ab54-07fc809eccd6-google-gemini-3.1-flash-image-preview-z9ppfm.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Middenhuur (Mid-Rent Segment)

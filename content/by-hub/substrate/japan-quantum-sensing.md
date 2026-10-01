@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819658/substrate/technologies/f9325123-30d3-40f4-ac81-cf43e6300e09-google-gemini-3.1-flash-image-preview-csbqaf.jpg
+updated_at: '2026-09-28T17:17:38.686731+00:00'
+last_reviewed: null
 ---
 
 # Quantum Sensing Technology
@@ -26,3 +28,8 @@ While quantum computing captures headlines, Japan is making significant progress
 Quantum sensing is commercially nearer-term than quantum computing, with potential deployment in medical diagnostics, autonomous navigation, and geological survey within 5-10 years. Japan's strength in precision instrumentation (Shimadzu, Hamamatsu Photonics, Keyence) provides a natural commercialization pathway for quantum sensing technologies developed in national labs.
 
 The defense applications are particularly relevant to Japan's expanded defense posture: quantum inertial navigation for submarines and missiles that cannot be jammed or spoofed, quantum magnetometers for submarine detection, and quantum radar for stealth aircraft detection. The dual-use nature of quantum sensing means that Japan's civilian research in this area directly supports its defense modernization.
+
+## Sources
+
+- [https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025](https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025)
+- [https://www.riken.jp/en/research/labs/rqc/riken_fujitsu/index.html](https://www.riken.jp/en/research/labs/rqc/riken_fujitsu/index.html)

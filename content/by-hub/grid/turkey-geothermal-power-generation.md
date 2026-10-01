@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855225/grid/technologies/0bb00a91-09ff-4262-82e2-29362ed4f42f-google-gemini-3.1-flash-image-preview-fj9zzh.png
+updated_at: '2026-09-28T17:18:28.739945+00:00'
+last_reviewed: null
 ---
 
 # Geothermal Power Generation
@@ -26,3 +28,8 @@ Turkey ranks fourth globally in installed geothermal power capacity at approxima
 Geothermal energy provides baseload renewable power — unlike solar and wind, it generates continuously regardless of weather conditions. This characteristic makes it valuable for grid stability as Turkey rapidly scales intermittent renewables. Turkey's achievement in building significant geothermal capacity has been accomplished largely through domestic drilling and engineering expertise, creating an indigenous capability that is now exported to other geothermally active regions.
 
 With only 38% of potential utilized, substantial expansion room remains. The challenge lies in the economics of deeper drilling and the geographic concentration of resources in western Turkey. However, as electricity demand grows and grid decarbonization pressures increase, geothermal's reliable output profile becomes increasingly valuable as a complement to solar and wind.
+
+## Sources
+
+- [https://www.sciencedirect.com/science/article/pii/S0973082625000948](https://www.sciencedirect.com/science/article/pii/S0973082625000948)
+- [https://en.wikipedia.org/wiki/Renewable_energy_in_Turkey](https://en.wikipedia.org/wiki/Renewable_energy_in_Turkey)

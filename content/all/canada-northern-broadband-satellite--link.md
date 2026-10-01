@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870817/link/technologies/3d96f5e7-335e-4ac2-a634-3d38ae4c665a-google-gemini-3.1-flash-image-preview-3xlddm.jpg
+updated_at: '2026-09-28T17:16:55.132637+00:00'
+last_reviewed: null
 ---
 
 # Northern and Remote Broadband Connectivity
@@ -26,3 +28,7 @@ Canada is deploying multiple approaches to bring broadband internet to remote an
 Broadband connectivity matters because digital infrastructure is now essential for economic participation, education, healthcare (telemedicine), and emergency services. Canada's Northern and Indigenous communities face some of the worst connectivity gaps in the developed world, with many relying on expensive and slow satellite connections that prevent meaningful digital participation. This digital divide exacerbates existing economic and social inequalities.
 
 The strategic dimension is that connectivity is a prerequisite for sovereignty. Communities without reliable communications cannot effectively monitor their territory, participate in the digital economy, or access government services. For Canada's Arctic sovereignty strategy, ensuring that Northern communities are connected is both a social imperative and a strategic necessity — connected communities are, in effect, distributed monitoring stations for Arctic domain awareness.
+
+## Sources
+
+- [https://www.asc-csa.gc.ca/eng/publications/dp-2025-2026.asp](https://www.asc-csa.gc.ca/eng/publications/dp-2025-2026.asp)

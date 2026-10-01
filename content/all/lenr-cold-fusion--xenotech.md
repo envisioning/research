@@ -10,6 +10,8 @@ trl: 4
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897821/xenotech/technologies/lenr-cold-fusion-openrouter-google-gemini-3.1-flash-image-preview-sm3akt.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cold Fusion
@@ -39,3 +41,8 @@ Rusi Taleyarkhan and colleagues reported (2002-2004) neutron emissions from sono
 ## Current Status
 
 NASA, Airbus patents, and multiple startups maintain interest despite fringe status. Skeptics cite: lack of neutron emissions; thermometry errors; transmutation requiring MeV energies vastly exceeding equipment capabilities; and absence of theoretical framework explaining low-temperature fusion. Nevertheless, persistent research and occasional positive results distinguish LENR from pure pseudoscience—representing controversial fringe science where extraordinary claims meet limited experimental validation.
+
+## Sources
+
+- [Anomalous Heat Reaction from Hydrogen and Metals](https://jcmns.org/article/134027.pdf) (2025)
+- [Current research on LENR – Impossible Fusion](https://impossible-fusion.com/2025/06/29/current-research-on-lenr) (2025)

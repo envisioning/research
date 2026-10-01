@@ -9,6 +9,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133434/impulse/technologies/digital-olfactory-synthesizers-google-gemini-3-pro-image-preview-pfd8um.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Digital Olfactory Synthesizers

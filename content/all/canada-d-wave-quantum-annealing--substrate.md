@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870795/substrate/technologies/38cb5f07-5716-4c32-8f0f-28a628a9d49a-google-gemini-3.1-flash-image-preview-tmvafj.jpg
+updated_at: '2026-09-28T17:16:53.437106+00:00'
+last_reviewed: null
 ---
 
 # D-Wave Quantum Annealing Systems
@@ -26,3 +28,8 @@ D-Wave Systems, headquartered in Burnaby, British Columbia, is the world's first
 D-Wave matters as a proof point for quantum computing commercialization — it has paying customers including major enterprises and government agencies, and has been generating revenue from quantum services longer than any competitor. While debate continues about whether quantum annealing achieves true quantum advantage over classical algorithms, D-Wave's systems are being used to solve real optimization problems today.
 
 Strategically, D-Wave's presence gives Canada a claim to both the past and present of quantum computing commercialization. However, the company faces an existential question: as gate-based quantum computers improve, will quantum annealing remain a viable distinct approach, or will it be subsumed? D-Wave has responded by developing gate-based capabilities alongside its annealing systems, hedging its architectural bet.
+
+## Sources
+
+- [https://www.dwavesys.com/](https://www.dwavesys.com/)
+- [https://quantumzeitgeist.com/canada-quantum-computing-companies-2026/](https://quantumzeitgeist.com/canada-quantum-computing-companies-2026/)

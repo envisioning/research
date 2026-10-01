@@ -10,6 +10,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980842/wintermute/technologies/wafer-scale-ai-systems-gemini-3-pro-pv3gw1.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Wafer-Scale AI Systems

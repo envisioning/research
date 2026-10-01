@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797447/helix/technologies/9d98116f-9f9d-4624-8f31-27dae32de1a6-google-gemini-3.1-flash-image-preview-edmz8g.jpg
+updated_at: '2026-09-28T17:17:00.831814+00:00'
+last_reviewed: null
 ---
 
 # Chinese Cancer Biologics (Global Competitors)
@@ -26,3 +28,7 @@ China's biotech industry went from 'me too' (copying existing drugs) to 'first i
 Legend Biotech's Carvykti, a CAR-T cell therapy developed in Xi'an and commercialized globally with Johnson & Johnson, has treated over 5,000 cancer patients in 36+ countries. The $5B licensing deal between Akeso and Summit Therapeutics for ivonescimab's global rights shows Western pharma betting on Chinese drug innovation.
 
 The structural shift: China's biotech companies are no longer licensing Western drugs for the domestic market. They're licensing Chinese drugs to Western companies for global markets. The direction of technology transfer has reversed.
+
+## Sources
+
+- [https://www.chinatalk.media/p/chinas-biotech-coming-of-age](https://www.chinatalk.media/p/chinas-biotech-coming-of-age)

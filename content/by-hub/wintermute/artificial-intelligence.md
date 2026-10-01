@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889190/wintermute/technologies/75995a27-38fa-47ff-8c9a-3c28086087c1-google-gemini-3.1-flash-image-preview-l13a6i.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Artificial Intelligence

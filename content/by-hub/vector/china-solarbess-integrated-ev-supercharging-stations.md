@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774798021/vector/technologies/d29ea486-bc9b-42a5-adc9-b9434101c547-google-gemini-3.1-flash-image-preview-cr7cti.jpg
+updated_at: '2026-09-28T17:17:59.712599+00:00'
+last_reviewed: null
 ---
 
 # Solar+BESS Integrated EV Supercharging Stations
@@ -25,3 +27,7 @@ BYD is deploying large-scale EV supercharging stations that integrate solar pane
 This architecture addresses a key constraint in EV charging infrastructure: grid capacity. A station with 20+ fast chargers can draw megawatts of power simultaneously, which requires expensive grid upgrades in many locations. By buffering demand with on-site solar and batteries, the stations reduce grid dependency and can be deployed in locations where grid capacity is limited.
 
 BYD's vertical integration is the strategic advantage: the company manufactures the solar panels (via BYD Solar), the Blade Battery storage systems, the EV chargers, and the vehicles themselves. This closed-loop approach — making the car, the charger, the battery, and the solar panel — is a level of vertical integration that no Western automaker or charging network currently matches.
+
+## Sources
+
+- [https://nitter.net/tphuang/status/2035363519449772440](https://nitter.net/tphuang/status/2035363519449772440)

@@ -9,6 +9,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908373/subspace/technologies/matter-antimatter-reactor-openrouter-google-gemini-3.1-flash-image-preview-1hox3y.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Matter-Antimatter Reactor

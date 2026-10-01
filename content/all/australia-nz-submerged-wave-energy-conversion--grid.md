@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774857935/grid/technologies/1a567e15-3acd-4c02-95d2-c5d5678b75de-google-gemini-3.1-flash-image-preview-1wkgxd.jpg
+updated_at: '2026-09-28T17:18:30.824688+00:00'
+last_reviewed: null
 ---
 
 # Submerged Wave Energy Conversion (CETO)
@@ -26,3 +28,9 @@ Carnegie Clean Energy has developed the CETO wave energy converter — a fully s
 Australia's Southern Ocean coastline receives some of the world's most consistent wave energy — estimated at 1,800 TWh per year of technically recoverable resource. Wave energy is complementary to solar (waves continue overnight and during winter storms when solar output drops), making it a natural fit for Australia's renewable energy mix. The Blue Economy CRC's M4 Wave Energy Demonstrator was deployed in King George Sound, Albany, over the 2024-25 summer, advancing the sector's readiness.
 
 Wave energy remains the least developed major renewable energy source globally, primarily due to the engineering challenge of building equipment that survives decades in corrosive, high-energy marine environments. CETO's fully submerged approach addresses the survivability problem that destroyed many earlier wave energy concepts. If commercialized, the technology is highly exportable to wave-rich coastlines worldwide — Chile, Portugal, Ireland, Japan — and could provide firm renewable electricity for remote island communities and offshore aquaculture operations.
+
+## Sources
+
+- [https://carnegiece.com/ceto-technology/](https://carnegiece.com/ceto-technology/)
+- [https://www.pv-magazine-australia.com/2025/03/17/carnegie-secures-more-funding-for-spain-wave-energy-project/](https://www.pv-magazine-australia.com/2025/03/17/carnegie-secures-more-funding-for-spain-wave-energy-project/)
+- [https://blueeconomycrc.com.au/project/ocean-wave-energy-in-australia/](https://blueeconomycrc.com.au/project/ocean-wave-energy-in-australia/)

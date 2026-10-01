@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793085/stratum/technologies/6490fa07-a88a-4a0e-be62-9cceb407d25e-google-gemini-3.1-flash-image-preview-bgxhe5.jpg
+updated_at: '2026-09-28T17:16:30.8219+00:00'
+last_reviewed: null
 ---
 
 # Rare Earth Elements Processing
@@ -26,3 +28,8 @@ Brazil holds an estimated 21 million tonnes of rare earth element (REE) reserves
 The challenge is processing: Brazil exports raw or semi-processed minerals and imports finished products containing the same elements at much higher prices. President Lula framed minerals policy as a matter of independence in 2025: "We won't allow what happened in the last century — exporting ore and buying back expensive products."
 
 Brazil's REE reserves include tantalum (critical for electronics), graphite (battery anodes), and rare earths proper (magnets for wind turbines and EV motors). Developing domestic processing capacity would reduce dependence on Chinese refining — but requires billions in investment, trained workforce, and environmental management for the chemical-intensive separation process. The geopolitical opportunity is clear; the industrial execution remains early-stage.
+
+## Sources
+
+- [https://www.evidencity.com/brazils-tantalum-test-viable-alternative-or-risky-bet](https://www.evidencity.com/brazils-tantalum-test-viable-alternative-or-risky-bet)
+- [https://rareearthexchanges.com/news/brazils-rare-earth-moment-between-geology-and-geopolitics/](https://rareearthexchanges.com/news/brazils-rare-earth-moment-between-geology-and-geopolitics/)

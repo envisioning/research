@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125566/liminal/technologies/spatial-access-equity-google-gemini-3-pro-image-preview-gclxws.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Spatial Access Equity

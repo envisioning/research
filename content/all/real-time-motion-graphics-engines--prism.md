@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062619/pulse/technologies/real-time-motion-graphics-engines-gemini-3-pro-l4d4oh.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Real-Time Motion Graphics Engines

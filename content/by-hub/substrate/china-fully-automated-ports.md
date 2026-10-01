@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774794572/substrate/technologies/07bf82a8-30c9-406f-9104-9ad1d418ff06-google-gemini-3.1-flash-image-preview-rwpr17.png
+updated_at: '2026-09-28T17:17:55.993267+00:00'
+last_reviewed: null
 ---
 
 # Fully Automated Ports
@@ -25,3 +27,8 @@ Shandong Port Group's automated container terminal in Qingdao uses automated gui
 The technology stack includes 5G-connected autonomous vehicles, LiDAR-guided crane positioning, and machine learning systems that optimize container placement in real time. The entire terminal operates from a remote control room where a handful of engineers monitor systems.
 
 China is exporting the technology. Automated port systems are being deployed in the Middle East, Southeast Asia, and Africa as part of Belt and Road infrastructure packages. The strategic implication: China is not just automating its own logistics, but building and operating the logistics infrastructure of other countries.
+
+## Sources
+
+- [https://subsites.chinadaily.com.cn/shandong/qingdao/xihaian/2025-05/26/c_1096031.htm](https://subsites.chinadaily.com.cn/shandong/qingdao/xihaian/2025-05/26/c_1096031.htm)
+- [https://en.people.cn/n3/2025/0506/c90000-20310985.html](https://en.people.cn/n3/2025/0506/c90000-20310985.html)

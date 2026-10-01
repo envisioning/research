@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807257/aegis/technologies/1728862b-9078-4a4c-942f-85ceece8e6d6-google-gemini-3.1-flash-image-preview-jjt13d.png
+updated_at: '2026-09-28T17:17:12.912084+00:00'
+last_reviewed: null
 ---
 
 # Defense Production and Export Surge
@@ -26,3 +28,9 @@ India's defense production and export sector has undergone a dramatic transforma
 The shift is driven by multiple policy initiatives: defense procurement rules mandating indigenous content, two dedicated defense industrial corridors (in Uttar Pradesh and Tamil Nadu), increased FDI limits in defense manufacturing, and a positive list of items banned from import to force domestic production. Key export products include BrahMos missiles, Pinaka rocket systems, Akash air defense missiles, AK-203 rifles (manufactured under license), and various naval platforms.
 
 Operation Sindoor in May 2025 was a turning point — the Indian military deployed a range of domestically developed systems in operational conditions, proving that indigenous equipment performs under real-world stress. This operational validation has boosted international buyer confidence. The defense production target is Rs 3 lakh crore ($36 billion) by 2029, with exports targeted at Rs 50,000 crore ($6 billion). India is positioning itself as a 'democratic alternative' defense supplier for countries that want to reduce dependence on Russian or Chinese equipment.
+
+## Sources
+
+- [https://www.timesnownews.com/india/tejas-brahmos-akash-inside-indias-rs-23600-cr-defence-export-boom-article-153128578](https://www.timesnownews.com/india/tejas-brahmos-akash-inside-indias-rs-23600-cr-defence-export-boom-article-153128578)
+- [https://southasianvoices.org/def-f-in-n-india-defense-exports-09-15-2025/](https://southasianvoices.org/def-f-in-n-india-defense-exports-09-15-2025/)
+- [https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-defence-sector-sees-shift-from-imports-to-exports-under-modi-govt-rajnath-singh/121752497](https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-defence-sector-sees-shift-from-imports-to-exports-under-modi-govt-rajnath-singh/121752497)

@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815980/forge/technologies/c2e77347-96c4-42ab-ac89-a1f7827767a7-google-gemini-3.1-flash-image-preview-vqk5r8.png
+updated_at: '2026-09-28T17:17:44.375647+00:00'
+last_reviewed: null
 ---
 
 # Automated Rubber Glove Manufacturing
@@ -26,3 +28,7 @@ Malaysia — Malaysia manufactures approximately 65% of the world's rubber glove
 The automation push was driven by dual pressures: post-pandemic demand normalization that required cost reduction, and Malaysia's crackdown on migrant worker exploitation (which had sustained the industry's labor-intensive model). The technology shift toward lights-out manufacturing represents a broader ASEAN trend: industries built on cheap labor must automate or die as wages rise and labor protections strengthen.
 
 Globally, Malaysia's rubber glove automation is a microcosm of Southeast Asian manufacturing evolution. The same factories that once relied on thousands of migrant workers are now developing AI-powered inspection systems that detect defects invisible to the human eye. This manufacturing intelligence could be applied to other latex and polymer products, extending Malaysia's dominance into medical devices and industrial protective equipment.
+
+## Sources
+
+- [https://www.reuters.com/plus/malaysias-tech-revolution-rising-to-the-top-in-the-global-semiconductor-race](https://www.reuters.com/plus/malaysias-tech-revolution-rising-to-the-top-in-the-global-semiconductor-race)

@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872777/grid/technologies/8497859b-ceea-40a4-974f-f27e8aa9c16c-google-gemini-3.1-flash-image-preview-iwusye.jpg
+updated_at: '2026-09-28T17:17:20.966482+00:00'
+last_reviewed: null
 ---
 
 # Renewable Energy Solar and Wind Deployment
@@ -26,3 +28,9 @@ Iran's renewable energy capacity has grown rapidly, reaching 3,165 MW by late No
 The renewable energy push represents a strategic pivot for a country whose electricity grid is overwhelmingly dependent on natural gas (over 90% of power generation). Iran faces chronic summer power shortages as cooling demand peaks, and burning gas for electricity competes with more lucrative petrochemical and export uses. Solar and wind capacity addresses both energy security and economic optimization — every kilowatt-hour generated from renewables frees natural gas for higher-value applications. The Renewable Energy and Energy Efficiency Organization (SATBA) manages feed-in tariff programs and power purchase agreements to attract private investment.
 
 Domestic manufacturing is a key dimension. Iranian companies produce solar panels, mounting systems, and some inverter components, though cell-level manufacturing remains limited. Wind turbine assembly has been established through technology partnerships, with localization increasing over time. The challenge is pace: at current growth rates, Iran remains far behind regional peers like Turkey (over 60 GW renewable capacity) and even Saudi Arabia in renewable deployment. However, the acceleration is real, and the combination of excellent natural resources, domestic gas price reform pressure, and manufacturing capability suggests continued momentum.
+
+## Sources
+
+- [https://caspianpost.com/iran/iran-scales-up-wind-and-solar-capacity-rapidly](https://caspianpost.com/iran/iran-scales-up-wind-and-solar-capacity-rapidly)
+- [https://en.wikipedia.org/wiki/Energy_in_Iran](https://en.wikipedia.org/wiki/Energy_in_Iran)
+- [https://www.eurasian-research.org/publication/renewable-energy-potential-of-iran/](https://www.eurasian-research.org/publication/renewable-energy-potential-of-iran/)

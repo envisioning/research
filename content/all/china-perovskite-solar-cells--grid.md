@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774796830/grid/technologies/569eb9db-e5f2-4b38-885a-9e96f3e350cb-google-gemini-3.1-flash-image-preview-hb0meg.jpg
+updated_at: '2026-09-28T17:17:03.333172+00:00'
+last_reviewed: null
 ---
 
 # Perovskite Solar Cells
@@ -26,3 +28,8 @@ Perovskite cells can be printed onto flexible substrates at low temperatures, pr
 The technology matters because it could make solar even cheaper. Perovskite-silicon tandem cells have hit 33.9% efficiency in labs (versus ~26% for silicon alone). If manufacturing scales, this changes the economics of solar in low-sunlight regions like Northern Europe.
 
 The constraint is durability. Perovskite cells degrade faster than silicon when exposed to moisture and UV light. Encapsulation techniques are improving, but no one has proven 25-year outdoor lifespans yet. China's bet is that manufacturing scale will solve the engineering problems faster than laboratory research alone.
+
+## Sources
+
+- [https://cen.acs.org/business/inorganic-chemicals/China-leading-perovskite-solar-commercialization/103/web/2025/08](https://cen.acs.org/business/inorganic-chemicals/China-leading-perovskite-solar-commercialization/103/web/2025/08)
+- [https://www.pv-magazine.com/2025/02/07/chinese-pv-industry-brief-utmolight-begins-perosvkite-solar-module-production-at-gw-scale-facility/](https://www.pv-magazine.com/2025/02/07/chinese-pv-industry-brief-utmolight-begins-perosvkite-solar-module-production-at-gw-scale-facility/)

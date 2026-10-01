@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129259/cradle/technologies/tele-nicu-google-gemini-3-pro-image-preview-3pj7w1.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Tele-NICU Platforms

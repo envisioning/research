@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903003/xenotech/technologies/scalar-energy-technologies-openrouter-google-gemini-3.1-flash-image-preview-hv1gre.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Scalar Energy Technologies
@@ -41,3 +43,8 @@ Mainstream electromagnetics finds no evidence for propagating scalar waves as de
 No scalar energy device has demonstrated claimed performance under controlled conditions. Energy transmission claims violate conservation laws; spacetime warping requires energy densities far beyond any proposed scalar mechanism. The biological effects attributed to scalar waves typically result from conventional EM exposure, electrostatic fields, or psychosomatic responses. Nevertheless, scalar energy remains influential in alternative physics communities, appearing in MH370 conspiracy theories, free energy discourse, and exotic propulsion speculation.
 
 Scalar energy represents archetypal xenotechnology—detailed mathematical-sounding framework, claims of suppressed revolutionary capabilities, connection to historical figures (Tesla), and complete lack of experimental validation. It occupies space where legitimate physics concepts (gauge freedom, potential formulations) are extrapolated into unfalsifiable extraordinary claims. In UAP and conspiracy contexts like Forbes' MH370 theory, scalar energy serves as explanatory bridge connecting observed phenomena (plasma, EM effects) to impossible outcomes (teleportation, spacetime warping) via technobabble invoking real physics terminology without actual physics content.
+
+## Sources
+
+- [Does Scalar Energy Work? Evidence, Research, and Honest Analysis](https://scalarhealings.com/guides/does-scalar-energy-work) (2026)
+- [What Is Scalar Energy? Complete Guide 2026](https://scalarhealings.com/guides/what-is-scalar-energy) (2026)

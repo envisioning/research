@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872964/aegis/technologies/b7b0b971-4427-4696-b8b1-7821b1c01a8f-google-gemini-3.1-flash-image-preview-qqoh71.jpg
+updated_at: '2026-09-28T17:17:15.624497+00:00'
+last_reviewed: null
 ---
 
 # Hypersonic Glide Vehicle Technology
@@ -26,3 +28,10 @@ The Fattah-1, unveiled in June 2023 and deployed in combat in October 2024 and J
 The significance of the Fattah program extends beyond its immediate military application. Hypersonic glide vehicles represent one of the most challenging areas of aerospace engineering, requiring mastery of high-temperature materials, precision guidance at extreme speeds, and complex aerodynamic design. Iran's ability to develop and deploy such systems — even if their performance remains debated — places it in an exclusive club alongside the US, Russia, and China as countries with demonstrated HGV capability.
 
 The operational deployment of Fattah systems has strategic implications for regional missile defense architectures. Current theater defense systems like Iron Dome, David's Sling, and Patriot are designed primarily for ballistic trajectories; maneuvering hypersonic vehicles complicate interception geometry significantly. Whether Iran's HGVs can reliably penetrate layered defenses remains an open question, but their existence forces defensive investment and planning.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Fattah-1](https://en.wikipedia.org/wiki/Fattah-1)
+- [https://en.wikipedia.org/wiki/Fattah-2](https://en.wikipedia.org/wiki/Fattah-2)
+- [https://www.army-technology.com/projects/fattah-hypersonic-ballistic-missile-iran/](https://www.army-technology.com/projects/fattah-hypersonic-ballistic-missile-iran/)
+- [https://militarywatchmagazine.com/article/iran-launches-first-hypersonic-glide-strike-fattah2](https://militarywatchmagazine.com/article/iran-launches-first-hypersonic-glide-strike-fattah2)

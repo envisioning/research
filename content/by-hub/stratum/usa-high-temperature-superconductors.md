@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860544/stratum/technologies/28b40780-7013-4e16-b481-677ce158f7b3-google-gemini-3.1-flash-image-preview-rb30rm.jpg
+updated_at: '2026-09-28T17:18:33.011811+00:00'
+last_reviewed: null
 ---
 
 # High-Temperature Superconducting Materials & Applications
@@ -26,3 +28,8 @@ High-temperature superconductors (HTS), particularly REBCO tape, conduct electri
 HTS materials are the key enabler for compact fusion energy — Commonwealth Fusion Systems' SPARC tokamak is only possible because HTS magnets generate much stronger fields than conventional superconductors, allowing a smaller, cheaper reactor. Beyond fusion, HTS cables are being tested for urban power transmission (10x the capacity of copper cables in the same conduit) and for protecting the grid against electromagnetic pulse (EMP) attacks.
 
 The US has significant HTS manufacturing capability but faces competition from China, which is scaling up REBCO tape production. As fusion and other HTS applications scale, demand for these materials will grow exponentially. Securing the HTS supply chain is a strategic priority that intersects with fusion energy, defense, and grid modernization.
+
+## Sources
+
+- [https://www.cleanenergy-platform.com/insight/top-5-fusion-companies-to-watch-in-2026](https://www.cleanenergy-platform.com/insight/top-5-fusion-companies-to-watch-in-2026)
+- [https://www.nuclearbusiness-platform.com/media/insights/top-3-fusion-energy-players-investments](https://www.nuclearbusiness-platform.com/media/insights/top-3-fusion-energy-players-investments)

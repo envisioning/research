@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815434/grid/technologies/6c99a64c-0257-4700-b85c-30eaf4e9f956-google-gemini-3.1-flash-image-preview-lwgixm.png
+updated_at: '2026-09-28T17:16:38.801981+00:00'
+last_reviewed: null
 ---
 
 # Space-Based Climate Disaster Monitoring
@@ -26,3 +28,9 @@ Philippines — The Philippines' Climate Change Commission is deploying space-ba
 Satellite-based crop insurance verification is a particularly impactful application: instead of sending assessors to disaster zones (dangerous and slow), satellite imagery automatically triggers insurance payouts when crop damage exceeds thresholds. This reduces claim processing from weeks to hours and makes agricultural insurance viable for smallholder farmers who previously couldn't afford or access coverage.
 
 China's CropWatch system is already used in the Philippines for agricultural monitoring, illustrating the geopolitical dimension of disaster technology. As the Philippines builds indigenous satellite capabilities through PhilSA, it reduces dependence on foreign providers for critical climate intelligence — a sovereignty imperative in a country where climate is the primary national security threat.
+
+## Sources
+
+- [https://climate.gov.ph/news/943](https://climate.gov.ph/news/943)
+- [https://farmonaut.com/asia/climate-change-philippines-2025-key-impacts-solutions](https://farmonaut.com/asia/climate-change-philippines-2025-key-impacts-solutions)
+- [https://un-dco.org/stories/weathering-storm-building-resilience-philippines](https://un-dco.org/stories/weathering-storm-building-resilience-philippines)

@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875192/aegis/technologies/2e2b55a4-fa1b-4977-83dd-cec5df56b927-google-gemini-3.1-flash-image-preview-ppi5zg.jpg
+updated_at: '2026-09-28T17:17:32.382968+00:00'
+last_reviewed: null
 ---
 
 # Advanced Electro-Optical Targeting and ISR Pods
@@ -25,3 +27,7 @@ Israel produces some of the world's most advanced electro-optical targeting pods
 Israeli EO pod technology benefits from decades of investment in optics, image processing, and precision targeting — domains where Israeli companies (Elop/Elbit, Rafael) have built world-class expertise. The technology requires integrating infrared detectors, visible-light cameras, laser systems, and real-time stabilization in a compact, ruggedized package that withstands the vibration, temperature extremes, and G-forces of combat flight.
 
 Strategically, targeting pods represent a high-value, recurring-revenue defense export: once an air force integrates a pod type on its aircraft fleet, switching costs are high, creating long-term customer relationships and upgrade revenue streams. Israeli pods' combat-validated performance in diverse operational environments — from desert to urban to mountainous terrain — provides a competitive edge that laboratory-tested alternatives struggle to match.
+
+## Sources
+
+- [https://moderndiplomacy.eu/2026/02/27/inside-israels-missile-shield-the-multi-layered-defence-built-to-counter-iran/](https://moderndiplomacy.eu/2026/02/27/inside-israels-missile-shield-the-multi-layered-defence-built-to-counter-iran/)

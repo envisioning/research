@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793600/link/technologies/b93e500c-01aa-48da-825b-0ec61577a49a-google-gemini-3.1-flash-image-preview-84smt6.jpg
+updated_at: '2026-09-28T17:16:50.984645+00:00'
+last_reviewed: null
 ---
 
 # EllaLink Direct Submarine Cable (Brazil-Europe)
@@ -26,3 +28,9 @@ EllaLink is an optical submarine cable running directly from Fortaleza (Brazil) 
 The cable was designed to diversify connectivity routes, reducing dependence on US-routed transatlantic cables. This has both commercial value (lower latency for financial trading, cloud services) and geopolitical significance (data doesn't transit US jurisdiction).
 
 EllaLink connects to the Sirius synchrotron in Campinas, enabling European researchers to access Brazilian scientific infrastructure with minimal delay. It also supports the growing digital trade between Brazil and the EU, Brazil's second-largest trading partner.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/EllaLink](https://en.wikipedia.org/wiki/EllaLink)
+- [https://ella.link/](https://ella.link/)
+- [https://www.submarinenetworks.com/en/systems/trans-atlantic/ellalink](https://www.submarinenetworks.com/en/systems/trans-atlantic/ellalink)

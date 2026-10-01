@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818809/substrate/technologies/6736e290-66ff-4411-ac59-da00b8965f99-google-gemini-3.1-flash-image-preview-28pyab.jpg
+updated_at: '2026-09-28T17:17:28.564408+00:00'
+last_reviewed: null
 ---
 
 # Earthquake Early Warning System (EEW/J-Alert)
@@ -26,3 +28,9 @@ Japan Meteorological Agency operates the world's most sophisticated earthquake e
 The system was born from tragedy and iteration. After the devastating 1995 Kobe earthquake killed 6,400 people, Japan invested billions in seismic infrastructure. The public EEW launched in 2007, and each subsequent earthquake — especially the 2011 Tohoku disaster — drove improvements. The system now integrates ocean-floor sensors (DONET and S-net cables along the Pacific seabed), AI-enhanced prediction algorithms, and real-time intensity estimation. During the 2024 Noto earthquake, warnings reached residents seconds before shaking, demonstrably saving lives.
 
 The technology is being exported worldwide. Mexico, Turkey, Taiwan, and other earthquake-prone countries have adopted Japanese EEW methodology or components. The underlying engineering — real-time data fusion from thousands of sensors, sub-second decision algorithms, and mass notification infrastructure — represents a systems integration achievement that no other country has replicated at Japan's scale and reliability. In an era of climate-driven disaster intensification, Japan's 'bosai' (disaster prevention) technology is becoming an increasingly valuable export.
+
+## Sources
+
+- [https://www.jma.go.jp/jma/en/Activities/eew.html](https://www.jma.go.jp/jma/en/Activities/eew.html)
+- [https://centreforpublicimpact.org/public-impact-fundamentals/j-alert-disaster-warning-technology-in-japan/](https://centreforpublicimpact.org/public-impact-fundamentals/j-alert-disaster-warning-technology-in-japan/)
+- [https://en.wikipedia.org/wiki/Earthquake_Early_Warning_(Japan)](https://en.wikipedia.org/wiki/Earthquake_Early_Warning_(Japan))

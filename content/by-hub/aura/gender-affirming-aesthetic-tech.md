@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998621/aura/technologies/gender-affirming-aesthetic-tech-gemini-3-pro-vr8xth.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gender-Affirming Aesthetic Tech Stacks

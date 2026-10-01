@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871974/helix/technologies/f7586234-ea5f-4e15-b995-b218a1ffef17-google-gemini-3.1-flash-image-preview-39m327.png
+updated_at: '2026-09-28T17:16:55.370605+00:00'
+last_reviewed: null
 ---
 
 # Next-Generation Medical Isotope Production
@@ -26,3 +28,8 @@ Canada has historically been one of the world's largest producers of medical iso
 Medical isotope production matters because nuclear medicine depends entirely on a reliable supply of short-lived isotopes — some with half-lives of hours to days, requiring local or regional production. Globally, aging reactors that produce these isotopes are being decommissioned, creating supply risks. Canada's investment in modern production methods addresses this vulnerability while positioning the country for growth in therapeutic isotopes, particularly for the rapidly expanding field of radioligand cancer therapy.
 
 The strategic dimension connects to Canada's broader nuclear ecosystem. Medical isotope production provides a commercially valuable and politically popular application of nuclear technology that supports the workforce and infrastructure needed for the SMR program. It also provides a continuous revenue stream from nuclear facilities that might otherwise operate only intermittently, improving the economics of Canada's nuclear infrastructure.
+
+## Sources
+
+- [https://www.triumf.ca/](https://www.triumf.ca/)
+- [https://www.cnl.ca/](https://www.cnl.ca/)

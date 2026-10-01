@@ -3,19 +3,22 @@ slug: tech-backlash-funding-choices
 hub: agape
 title: Tech Backlash Influencing Funding Choices
 summary: Tech backlash influencing funding choices and narratives, as critiques of
+  technology reshape philanthropic priorities.
 permalink: https://www.envisioning.com/agape/tech-backlash-funding-choices
 collection: technology-infrastructure
 trl: 2
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372033/agape/signals/tech-backlash-funding-choices-google-gemini-3-pro-image-preview-kkjvef.png
+updated_at: '2026-10-01T09:35:09.4682+00:00'
+last_reviewed: null
 ---
 
 # Tech Backlash Influencing Funding Choices
 
 ## Summary
 
-Tech backlash influencing funding choices and narratives, as critiques of
+Tech backlash influencing funding choices and narratives, as critiques of technology reshape philanthropic priorities.
 
 ## Description
 

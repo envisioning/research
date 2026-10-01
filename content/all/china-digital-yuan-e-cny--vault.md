@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797289/vault/technologies/8592700a-d7ae-4757-899d-945f361b226c-google-gemini-3.1-flash-image-preview-pg2y0o.png
+updated_at: '2026-09-28T17:17:11.537516+00:00'
+last_reviewed: null
 ---
 
 # Digital Yuan (e-CNY)
@@ -25,3 +27,8 @@ The People's Bank of China's e-CNY moved from pilot to governance framework: as 
 The interest-bearing feature matters because it gives consumers a reason to keep money in digital yuan wallets rather than converting back to bank deposits after each transaction. This increases circulation velocity and makes the e-CNY a more persistent part of the financial system.
 
 The digital yuan has been tested by hundreds of millions of users across dozens of Chinese cities. No other CBDC is close to this scale. The open question is international adoption: will Belt and Road countries adopt e-CNY for bilateral trade settlement, reducing dependence on the US dollar?
+
+## Sources
+
+- [https://www.coindesk.com/coindesk-news/2025/12/29/digital-yuan-holdings-to-earn-interest-under-china-s-new-framework](https://www.coindesk.com/coindesk-news/2025/12/29/digital-yuan-holdings-to-earn-interest-under-china-s-new-framework)
+- [https://beincrypto.com/china-digital-yuan-interest-ban-crypto-2026/](https://beincrypto.com/china-digital-yuan-interest-ban-crypto-2026/)

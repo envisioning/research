@@ -10,6 +10,8 @@ trl: 4
 impact: 1
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807154/apogee/technologies/afbe19b9-8ca8-4060-8441-3165913727ca-google-gemini-3.1-flash-image-preview-r6ceuz.jpg
+updated_at: '2026-09-28T17:17:56.881707+00:00'
+last_reviewed: null
 ---
 
 # Commercial Space Tourism (Suborbital)
@@ -25,3 +27,8 @@ InterstellOr is developing a reusable suborbital vehicle that would carry passen
 The company has signed its first celebrity passenger and is taking bookings. CAS Space, another Chinese contender, is developing a separate suborbital tourist vehicle. Both are part of China's booming commercial space sector (150+ private companies).
 
 The timeline is ambitious. No Chinese company has yet flown a crewed suborbital mission, and the 2028 target requires significant development milestones. But the broader context matters: China's commercial space sector is growing faster than the US's by several metrics, and tourism is a revenue model that could fund more ambitious programs.
+
+## Sources
+
+- [https://www.space.com/space-exploration/human-spaceflight/chinese-space-tourism-startup-eyes-2028-for-1st-crewed-mission-signs-celebrity-for-future-flight](https://www.space.com/space-exploration/human-spaceflight/chinese-space-tourism-startup-eyes-2028-for-1st-crewed-mission-signs-celebrity-for-future-flight)
+- [http://www.china.org.cn/2026-01/26/content_118300092.shtml](http://www.china.org.cn/2026-01/26/content_118300092.shtml)

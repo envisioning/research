@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813928/grid/technologies/392991d7-0e5c-4fba-b3b4-d7170f04beb0-google-gemini-3.1-flash-image-preview-hq120w.jpg
+updated_at: '2026-09-28T17:16:32.413814+00:00'
+last_reviewed: null
 ---
 
 # Barakah Nuclear Power Plant
@@ -26,3 +28,9 @@ Barakah is a four-unit APR-1400 nuclear power station in Abu Dhabi's Al Dhafra r
 Barakah's significance extends beyond electricity. In August 2025, aluminium smelted using Barakah's clean electricity was exported for the first time, setting a new low-carbon benchmark for a traditionally carbon-intensive industry. This demonstrates how clean baseload power enables industrial decarbonization — a model applicable to steel, cement, and desalination.
 
 The UAE's nuclear success has become a reference case for emerging economies considering nuclear energy. ENEC recently diversified its fuel supply chain with a Framatome agreement, and the GCC is exploring regional cooperation on nuclear waste management. For a region associated with fossil fuels, Barakah represents a credible commitment to clean energy that complements rather than competes with the solar and hydrogen strategies.
+
+## Sources
+
+- [https://www.enec.ae/barakah-plant/](https://www.enec.ae/barakah-plant/)
+- [https://www.thenationalnews.com/news/uae/2025/08/19/uae-barakah-nuclear-plant/](https://www.thenationalnews.com/news/uae/2025/08/19/uae-barakah-nuclear-plant/)
+- [https://world-nuclear.org/information-library/country-profiles/countries-t-z/united-arab-emirates](https://world-nuclear.org/information-library/country-profiles/countries-t-z/united-arab-emirates)

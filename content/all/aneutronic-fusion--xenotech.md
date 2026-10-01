@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939874/xenotech/technologies/aneutronic-fusion-imagegen-v1.png
+updated_at: '2026-08-28T17:57:56.157952+00:00'
+last_reviewed: null
 ---
 
 # Aneutronic Fusion

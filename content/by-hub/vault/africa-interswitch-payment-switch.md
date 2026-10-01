@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810274/vault/technologies/3651462f-57ea-4f86-a3a8-f55744d6b744-google-gemini-3.1-flash-image-preview-92cacf.png
+updated_at: '2026-09-28T17:18:08.750958+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Transaction Switching Infrastructure
@@ -26,3 +28,8 @@ Interswitch, founded in Lagos in 2002, built Nigeria's first electronic payment 
 Interswitch processes over 5 billion transactions annually across Nigeria and East Africa. Its Quickteller platform provides bill payment, airtime purchase, and money transfer services to millions of users. The company reached a valuation of $1 billion (Africa's first fintech unicorn) and has expanded to Kenya, Uganda, and The Gambia. The Verve card represents payment network sovereignty — an African-designed card scheme that works alongside but independently of Visa and Mastercard.
 
 The strategic significance is that Interswitch proved critical financial infrastructure could be built indigenously. Nigeria didn't wait for Visa or Mastercard to build its payment backbone — it built its own. This precedent set the stage for the entire Nigerian fintech ecosystem that followed: Paystack, Flutterwave, OPay, and dozens of others built on infrastructure that Interswitch pioneered. The lesson: when you build your own pipes, innovation flows faster.
+
+## Sources
+
+- [https://www.interswitchgroup.com/](https://www.interswitchgroup.com/)
+- [https://research.contrary.com/company/flutterwave](https://research.contrary.com/company/flutterwave)

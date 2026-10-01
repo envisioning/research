@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815450/vault/technologies/6d32fa0c-3b9b-4622-b17c-5468b9e8034b-google-gemini-3.1-flash-image-preview-33mf2q.jpg
+updated_at: '2026-09-28T17:17:43.661941+00:00'
+last_reviewed: null
 ---
 
 # Super-App Embedded Finance
@@ -26,3 +28,9 @@ Indonesia & Regional — The Southeast Asian super-app model — pioneered by Gr
 Embedded finance within super-apps creates financial products that traditional banks cannot: lending based on ride-hailing history, insurance priced from delivery behavior, savings products accessible through the same app used for food orders. For populations that distrust banks but use Grab daily, the super-app IS the bank.
 
 The consolidation trend (recurring Grab-GoTo merger discussions) could create a regional fintech monopoly spanning Indonesia, Singapore, Malaysia, Thailand, Philippines, and Vietnam. Regulators are watching: Indonesia's 'golden share' in GoTo and potential merger scrutiny will test whether ASEAN can manage tech consolidation while preserving competition and financial stability.
+
+## Sources
+
+- [https://www.forbes.com/sites/zennonkapron/2025/11/17/why-it-may-be-too-late-for-a-grab-goto-merger/](https://www.forbes.com/sites/zennonkapron/2025/11/17/why-it-may-be-too-late-for-a-grab-goto-merger/)
+- [https://dailysocial.id/p/indonesias-golden-share-in-goto-us300b](https://dailysocial.id/p/indonesias-golden-share-in-goto-us300b)
+- [https://www.businesstimes.com.sg/international/asean/grab-goto-merger-could-be-colossal-indonesias-fintech-hopefuls-say-analysts](https://www.businesstimes.com.sg/international/asean/grab-goto-merger-could-be-colossal-indonesias-fintech-hopefuls-say-analysts)

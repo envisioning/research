@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871936/apogee/technologies/ef78daec-837e-4b46-b535-76fac996c91a-google-gemini-3.1-flash-image-preview-k4yc2p.jpg
+updated_at: '2026-09-28T17:17:06.479115+00:00'
+last_reviewed: null
 ---
 
 # Canadarm3 for Lunar Gateway
@@ -26,3 +28,8 @@ Canadarm3 is the next-generation robotic system being developed by MDA Space for
 Canadarm3 matters because it secures Canada's place in humanity's return to the Moon and eventual missions to Mars. Canada's contribution to the Lunar Gateway earns Canadian astronauts flight opportunities and positions Canadian companies for the growing cislunar economy. The AI autonomy features represent a significant technological leap from previous Canadarm iterations.
 
 Strategically, Canadarm3 is Canada's insurance policy for continued relevance in human spaceflight. The original Canadarm earned Canada its seat at the ISS table; Canadarm3 does the same for the next generation of space exploration. MDA Space's role as prime contractor also sustains a critical mass of space robotics expertise that has broader applications in terrestrial robotics, autonomous systems, and AI.
+
+## Sources
+
+- [https://www.asc-csa.gc.ca/eng/publications/dp-2025-2026.asp](https://www.asc-csa.gc.ca/eng/publications/dp-2025-2026.asp)
+- [https://www.asc-csa.gc.ca/eng/publications/qfr-2025-2026-03.asp](https://www.asc-csa.gc.ca/eng/publications/qfr-2025-2026-03.asp)

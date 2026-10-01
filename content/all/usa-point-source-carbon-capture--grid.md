@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861422/grid/technologies/b1151fd9-5db5-4777-ae2b-210eb0470746-google-gemini-3.1-flash-image-preview-2llfgu.jpg
+updated_at: '2026-09-28T17:17:50.019442+00:00'
+last_reviewed: null
 ---
 
 # Industrial Carbon Capture & Storage
@@ -26,3 +28,8 @@ Point-source carbon capture removes CO₂ from industrial emissions before they 
 Industrial CCS addresses emissions from sectors that cannot easily electrify: cement production, steel manufacturing, chemical processing, and natural gas power generation. With restructured 45Q credits providing $85/tonne for geologic storage, CCS projects are increasingly economically viable in the US — particularly when co-located with enhanced oil recovery.
 
 The US has the world's most favorable combination for CCS: geological storage capacity estimated at hundreds of billions of tonnes, extensive pipeline networks, regulatory frameworks, and tax incentives. Hyperscaler demand for clean firm power (for AI data centers) is creating a new market pull for gas plants with CCS, potentially making CCS-equipped natural gas the 'bridge' power source for the AI era.
+
+## Sources
+
+- [https://interestingengineering.com/culture/google-ccs-gas-power-plant-broadwing](https://interestingengineering.com/culture/google-ccs-gas-power-plant-broadwing)
+- [https://pemedianetwork.com/carbon-economist/articles/ccus/2026/outlook-2026-carbon-capture-in-the-us-milestones-and-the-road-ahead/](https://pemedianetwork.com/carbon-economist/articles/ccus/2026/outlook-2026-carbon-capture-in-the-us-milestones-and-the-road-ahead/)

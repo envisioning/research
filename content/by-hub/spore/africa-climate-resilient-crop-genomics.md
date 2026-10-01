@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811447/spore/technologies/f13c6526-e596-4c43-8335-2564372bd952-google-gemini-3.1-flash-image-preview-h2ch1q.jpg
+updated_at: '2026-09-28T17:16:25.310998+00:00'
+last_reviewed: null
 ---
 
 # African Climate-Resilient Crop Genomics
@@ -26,3 +28,8 @@ African agricultural research institutions — IITA (Nigeria), ICRISAT (Kenya hu
 Climate change hits African agriculture harder than any other region — the continent's farmers are predominantly rainfed, growing crops at the margins of heat and drought tolerance. The IITA's work on cassava — Africa's most important food security crop, feeding 500 million people — has produced varieties with 40% higher yields and resistance to cassava mosaic disease and brown streak virus, both devastating African-specific diseases.
 
 The strategic dimension is food sovereignty. Africa imports $35 billion in food annually. Developing crop varieties optimized for African conditions, controlled by African institutions, reduces dependence on foreign seed companies. Teff genomics research in Ethiopia, cowpea breeding in Nigeria, and drought-resistant maize in Kenya represent indigenous solutions to indigenous challenges that global agricultural research historically ignored.
+
+## Sources
+
+- [https://www.iita.org/](https://www.iita.org/)
+- [https://africanorphancrops.org/](https://africanorphancrops.org/)

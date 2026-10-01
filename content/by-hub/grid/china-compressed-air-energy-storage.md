@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797544/grid/technologies/a39aa05b-ba2b-4070-97ce-f1bbcbd81d38-google-gemini-3.1-flash-image-preview-agw9ad.png
+updated_at: '2026-09-28T17:17:58.674179+00:00'
+last_reviewed: null
 ---
 
 # Compressed Air Energy Storage (CAES)
@@ -26,3 +28,8 @@ China's compressed air energy storage program has leapfrogged the rest of the wo
 The technology solves a critical problem: solar and wind generate electricity when the sun shines and wind blows, not when people need it. Lithium batteries work for short-duration storage (2-4 hours) but are expensive for long-duration needs (8-12+ hours). CAES stores energy for 6-10 hours at a fraction of lithium's cost per MWh, using salt deposits that China has in abundance. A 700MW / 4.2GWh facility was approved in November 2025.
 
 The Chinese Academy of Sciences drove the key innovation: adiabatic CAES that captures and reuses compression heat, eliminating the need to burn natural gas during expansion (which older CAES designs required). This makes the technology fully zero-emission. No other country has deployed non-combustion CAES at anything close to this scale — the previous largest was a 321MW gas-burning plant in Alabama built in 1991.
+
+## Sources
+
+- [https://www.pv-magazine.com/2026/01/27/worlds-largest-compressed-air-storage-plant-switched-on-in-china/](https://www.pv-magazine.com/2026/01/27/worlds-largest-compressed-air-storage-plant-switched-on-in-china/)
+- [https://www.ess-news.com/2025/11/27/china-scales-up-long-duration-storage-with-4-2-gwh-compressed-air-project/](https://www.ess-news.com/2025/11/27/china-scales-up-long-duration-storage-with-4-2-gwh-compressed-air-project/)

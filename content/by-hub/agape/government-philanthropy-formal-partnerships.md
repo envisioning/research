@@ -3,19 +3,22 @@ slug: government-philanthropy-formal-partnerships
 hub: agape
 title: Formalized Government-Philanthropy Partnerships
 summary: New formal structures for government-philanthropy collaboration beyond traditional
+  grants and contracts.
 permalink: https://www.envisioning.com/agape/government-philanthropy-formal-partnerships
 collection: organizational-forms-ecosystems
 trl: 1
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368688/agape/signals/government-philanthropy-formal-partnerships-google-gemini-3-pro-image-preview-wc0uiu.png
+updated_at: '2026-10-01T09:30:58.517941+00:00'
+last_reviewed: null
 ---
 
 # Formalized Government-Philanthropy Partnerships
 
 ## Summary
 
-New formal structures for government-philanthropy collaboration beyond traditional
+New formal structures for government-philanthropy collaboration beyond traditional grants and contracts.
 
 ## Description
 

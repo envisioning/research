@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074565/pulse/technologies/predictive-latency-compensation-gemini-3-pro-3cz6rp.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Predictive Latency Compensation

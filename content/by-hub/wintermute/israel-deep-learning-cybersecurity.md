@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875671/wintermute/technologies/a6f22302-9e46-49a6-bcc6-e3592f1502dd-google-gemini-3.1-flash-image-preview-9uk0qx.jpg
+updated_at: '2026-09-28T17:17:35.683687+00:00'
+last_reviewed: null
 ---
 
 # Deep Learning-Based Threat Detection
@@ -25,3 +27,8 @@ Deep Instinct pioneered the application of deep learning (as opposed to machine 
 The distinction between machine learning and deep learning in security is significant: ML-based tools rely on feature engineering and have limited ability to generalize beyond training distributions, while deep learning models can identify novel attack patterns through learned representations. Deep Instinct's approach is analogous to the shift from rule-based to neural approaches in natural language processing.
 
 Israel's AI-for-security ecosystem extends beyond Deep Instinct to include companies applying AI to cloud security posture management (Wiz), external attack surface management (CyCognito), and identity threat detection (Silverfort). The country's unique position — combining AI research excellence, cybersecurity domain expertise, and real-world threat exposure — makes it the natural locus of AI-security convergence.
+
+## Sources
+
+- [https://www.seedtable.com/best-ai-startups-in-israel](https://www.seedtable.com/best-ai-startups-in-israel)
+- [https://www.darkreading.com/cybersecurity-analytics/meet-some-of-the-emerging-israeli-cybersecurity-firms](https://www.darkreading.com/cybersecurity-analytics/meet-some-of-the-emerging-israeli-cybersecurity-firms)

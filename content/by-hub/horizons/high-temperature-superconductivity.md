@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887367/horizons/technologies/5aabf943-14ad-4e68-a69d-3660c9d2565c-google-gemini-3.1-flash-image-preview-qqj3wt.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # High-Temperature Superconductivity

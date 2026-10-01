@@ -11,6 +11,8 @@ trl: 3
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818825/apogee/technologies/67a9e2c5-f8b6-4858-aad7-5a4e14cc66b9-google-gemini-3.1-flash-image-preview-t0v0uz.jpg
+updated_at: '2026-09-28T17:18:12.941891+00:00'
+last_reviewed: null
 ---
 
 # Space-Based Solar Power Research
@@ -26,3 +28,8 @@ Japan has the world's longest-running space-based solar power (SBSP) research pr
 The appeal of SBSP for Japan is unique: an energy-import-dependent island nation with limited land for terrestrial renewables could receive continuous solar energy from space regardless of weather, season, or geography. The Japanese government's Space Basic Plan includes SBSP as a long-term energy technology, though commercial viability likely requires launch cost reductions below $100/kg to orbit.
 
 While SBSP remains speculative, Japan's sustained investment in the underlying technologies — efficient photovoltaics, wireless power transmission, large space structure assembly — generates spinoff applications for terrestrial wireless charging, point-to-point power transmission, and space infrastructure construction. If launch costs continue to decline (as SpaceX's Starship promises), Japan's two decades of SBSP research could become practically relevant sooner than expected.
+
+## Sources
+
+- [https://www.shimizuart.org/post/the-japanese-space-program-jaxa-s-groundbreaking-achievements-and-future-missions](https://www.shimizuart.org/post/the-japanese-space-program-jaxa-s-groundbreaking-achievements-and-future-missions)
+- [https://ts2.tech/en/japans-space-and-satellite-industry-a-comprehensive-2025-market-report/](https://ts2.tech/en/japans-space-and-satellite-industry-a-comprehensive-2025-market-report/)

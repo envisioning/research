@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858575/stratum/technologies/8e0b8170-0aaa-4c82-bd88-738085ebeda5-google-gemini-3.1-flash-image-preview-9bzlya.png
+updated_at: '2026-09-28T17:17:02.07647+00:00'
+last_reviewed: null
 ---
 
 # Spodumene-to-Lithium-Hydroxide Refining
@@ -26,3 +28,9 @@ Australia is the world's largest lithium producer from hard-rock (spodumene) min
 Converting spodumene concentrate to battery-grade lithium hydroxide (LiOH·H₂O, ≥56.5% purity) involves complex multi-stage chemical processing: calcination at 1,050°C, acid roasting, leaching, impurity removal, and crystallization — each requiring precise control. The technology has been dominated by Chinese processors who refined it over decades with government support. Australia's attempts to replicate this domestically encountered a steeper learning curve than anticipated, with the Kwinana experience demonstrating that first-of-kind processing facilities need extended ramp-up periods.
 
 Despite setbacks, the strategic imperative remains. Australia exports ~300,000 tonnes of spodumene concentrate annually, capturing perhaps $2,000/tonne, while battery-grade lithium hydroxide sells for $15,000-25,000/tonne. Mastering downstream processing would multiply the value captured domestically by 5-10x. The lessons from Kwinana's challenges are informing next-generation refinery designs with improved process control and lower capital costs, while the Critical Minerals Strategy provides policy support for continued investment in domestic refining capability.
+
+## Sources
+
+- [https://www.australianmining.com.au/albemarle-exit-creates-opportunity-for-local-players-to-scale-downstream-lithium/](https://www.australianmining.com.au/albemarle-exit-creates-opportunity-for-local-players-to-scale-downstream-lithium/)
+- [https://discoveryalert.com.au/news/kwinana-lithium-hydroxide-refinery-2025-viability-challenges/](https://discoveryalert.com.au/news/kwinana-lithium-hydroxide-refinery-2025-viability-challenges/)
+- [https://discoveryalert.com.au/australias-critical-minerals-processing-2025-strategy/](https://discoveryalert.com.au/australias-critical-minerals-processing-2025-strategy/)

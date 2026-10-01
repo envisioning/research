@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819250/apogee/technologies/a8dfc84d-9eac-42c4-9b6b-1861d2fcff02-google-gemini-3.1-flash-image-preview-yoh7j2.jpg
+updated_at: '2026-09-28T17:16:37.78346+00:00'
+last_reviewed: null
 ---
 
 # H3 Launch Vehicle
@@ -25,3 +27,8 @@ The H3 rocket, developed by Mitsubishi Heavy Industries for JAXA, successfully l
 The H3's LE-9 first-stage engine uses an expander bleed cycle, a simpler and more reliable design than the staged combustion engines used by competitors. This design philosophy — reliability over raw performance — reflects Japan's space program approach. The rocket's payload capacity (6.5 tonnes to GTO in its heaviest configuration) positions it for government missions and commercial satellite launches.
 
 The H3's strategic importance extends beyond launch services: it will carry the MMX Mars mission in FY2026, JAXA's LUPEX lunar polar mission with ISRO, and future reconnaissance satellites. Japan maintaining independent launch capability is a national security requirement, and the H3's improved cost structure makes it commercially viable for the growing Asia-Pacific satellite market.
+
+## Sources
+
+- [https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/](https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/)
+- [https://ts2.tech/en/japans-space-and-satellite-industry-a-comprehensive-2025-market-report/](https://ts2.tech/en/japans-space-and-satellite-industry-a-comprehensive-2025-market-report/)

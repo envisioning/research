@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810448/grid/technologies/563d8bbc-f6c1-4fd7-a10c-28cc02c6b823-google-gemini-3.1-flash-image-preview-hnmlkj.png
+updated_at: '2026-09-28T17:18:08.914838+00:00'
+last_reviewed: null
 ---
 
 # Pay-As-You-Go Solar Home Systems
@@ -25,3 +27,9 @@ Pay-as-you-go (PAYG) solar is a Kenyan-originated innovation that bundles three 
 This model cracked the affordability barrier that kept 600 million sub-Saharan Africans without electricity. A kerosene lamp costs ~$0.30/day to operate; PAYG solar replaces it with clean light, phone charging, and sometimes a TV or radio for comparable cost but with eventual ownership. M-KOPA alone has connected over 3 million homes. The company has expanded from solar kits to financing smartphones, motorcycles, and other productive assets using the same PAYG framework.
 
 The strategic significance is the creation of a credit-scoring infrastructure for the unbanked. Every daily payment builds a financial identity for people with no bank account, no address, and no formal employment. PAYG solar companies now sit on payment data for millions of previously invisible consumers, making them platforms for broader financial inclusion. The model has been exported to Nigeria, South Africa, India, and Southeast Asia.
+
+## Sources
+
+- [https://www.forbes.com/sites/tobyshapshak/2016/01/28/how-kenyas-m-kopa-brings-prepaid-solar-power-to-rural-africa/](https://www.forbes.com/sites/tobyshapshak/2016/01/28/how-kenyas-m-kopa-brings-prepaid-solar-power-to-rural-africa/)
+- [https://www.techinafrica.com/m-kopa-launches-pay-as-you-go-solar-solutions-in-south-africa/](https://www.techinafrica.com/m-kopa-launches-pay-as-you-go-solar-solutions-in-south-africa/)
+- [https://www.timothylaku.com/post/case-study-empowering-financial-inclusion-through-technology-in-africa-m-kopa-s-pay-as-you-go-sol](https://www.timothylaku.com/post/case-study-empowering-financial-inclusion-through-technology-in-africa-m-kopa-s-pay-as-you-go-sol)

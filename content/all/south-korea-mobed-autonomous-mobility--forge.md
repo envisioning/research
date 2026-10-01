@@ -10,6 +10,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816931/forge/technologies/77b4fc6f-f0c5-4c3a-8f52-5444e85aa38f-google-gemini-3.1-flash-image-preview-2di8vc.jpg
+updated_at: '2026-09-28T17:17:37.034699+00:00'
+last_reviewed: null
 ---
 
 # MobED Autonomous Mobility Platform
@@ -25,3 +27,8 @@ MobED (Mobile Eccentric Droid) is a small-scale autonomous driving platform deve
 At CES 2026, MobED won Best of Innovation for its modular design — the base platform can be fitted with different top modules for last-mile delivery, warehouse logistics, outdoor monitoring, or accessibility assistance. Its eccentric wheel mechanism is mechanically novel, allowing each wheel to extend or retract independently without complex suspension systems.
 
 MobED represents Korea's push into autonomous mobility platforms beyond passenger vehicles. While less flashy than humanoid robots, modular mobility platforms like MobED may have larger near-term commercial impact in logistics, agriculture, and infrastructure inspection.
+
+## Sources
+
+- [https://www.ces.tech/innovation-awards/honorees/2026/best-of-innovation/m-o-b-e-d.aspx](https://www.ces.tech/innovation-awards/honorees/2026/best-of-innovation/m-o-b-e-d.aspx)
+- [https://www.hyundai.com/worldwide/en/company/newsroom/mobed-ces-2026](https://www.hyundai.com/worldwide/en/company/newsroom/mobed-ces-2026)

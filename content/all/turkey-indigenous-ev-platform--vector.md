@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855417/vector/technologies/4778e5df-7c93-46ea-b3b7-b06b0824a9bd-google-gemini-3.1-flash-image-preview-09nys2.jpg
+updated_at: '2026-09-28T17:18:28.909354+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Electric Vehicle Platform
@@ -26,3 +28,9 @@ The Togg T10X is Turkey's first indigenous electric vehicle, produced by a conso
 Togg represents Turkey's most ambitious civilian technology sovereignty project — an attempt to build a national automotive brand from scratch in the electric era, bypassing the century of ICE automotive development that Turkey missed. The project benefits from government backing through tax incentives and charging infrastructure investment, and the consortium structure pools capabilities from Turkey's largest industrial groups.
 
 The strategic significance extends beyond automotive: Togg is building a domestic EV supply chain including battery manufacturing, charging networks, and connected vehicle software. Five models are planned by 2030, with the T10X serving as the platform for scaling production and building brand recognition in European markets. Success would give Turkey its first globally competitive consumer technology brand since Turkish Airlines.
+
+## Sources
+
+- [https://www.agbi.com/manufacturing/2025/07/turkeys-homegrown-togg-outsells-ev-rivals/](https://www.agbi.com/manufacturing/2025/07/turkeys-homegrown-togg-outsells-ev-rivals/)
+- [https://www.dailysabah.com/business/automotive/turkish-ev-maker-togg-kicks-off-german-sales-with-prices-from-40300](https://www.dailysabah.com/business/automotive/turkish-ev-maker-togg-kicks-off-german-sales-with-prices-from-40300)
+- [https://www.setav.org/en/turkeys-new-global-face-togg](https://www.setav.org/en/turkeys-new-global-face-togg)

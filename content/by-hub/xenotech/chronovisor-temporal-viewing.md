@@ -10,6 +10,8 @@ trl: 2
 impact: 1
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903294/xenotech/technologies/chronovisor-temporal-viewing-openrouter-google-gemini-3.1-flash-image-preview-366yaw.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Temporal Viewing Device
@@ -62,3 +64,11 @@ The Chronovisor remains widely regarded as a myth or elaborate hoax due to
 absence of verifiable evidence; scientific implausibility of residual electromagnetic detection over historical timescales; lack of independent verification; and Vatican's official silence. However, the concept touches upon legitimate areas of physics research including quantum field theory, electromagnetic field persistence, and information theory. The persistent legend reflects humanity's fascination with temporal viewing and the possibility of accessing historical information through technological means.
 
 The Chronovisor represents the intersection of religious mystery, scientific speculation, and technological possibility—embodying the human desire to transcend temporal limitations and directly witness historical events. While lacking credible evidence, the concept continues to inspire research into electromagnetic field detection, quantum information theory, and the fundamental nature of spacetime and information persistence.
+
+## Sources
+
+- [The Legend Of The Chronovisor, The Vatican's Secret Time Machine](https://allthatsinteresting.com/chronovisor) (2026)
+- [Chronovisor – The Vatican’s Hidden Time-Viewing Mystery](https://veriarch.com/chronovisor-vatican-time-device) (2025)
+- [Chronovisor: The Vatican’s Alleged 'Time-Viewing' Device—History’s Greatest Mystery or Ingenious Hoax?](https://www.revlox.com/mystery/chronovisor-the-vaticans-alleged-time-viewing-device-historys-greatest-mystery-or-ingenious-hoax) (2025)
+- [Strange story of the Chronovisor that took a photo of Jesus Christ](https://anomalien.com/strange-story-of-the-chronovisor-that-took-a-photo-of-jesus-christ) (2025)
+- [The Chronovisor - The Vatican's Time Machine that 'photographed' Christ's Crucifixion](https://www.bibliotecapleyades.net/vatican/esp_vatican257.htm) (2025)

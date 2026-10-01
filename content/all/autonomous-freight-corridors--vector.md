@@ -9,6 +9,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177460/vector/technologies/autonomous-freight-corridors-google-gemini-3-pro-image-preview-aph7z9.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Freight Corridors

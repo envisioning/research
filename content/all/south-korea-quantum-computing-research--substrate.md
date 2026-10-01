@@ -11,6 +11,8 @@ trl: 3
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816673/substrate/technologies/47a48b1d-9cbc-411e-af76-89ef35c8f6d2-google-gemini-3.1-flash-image-preview-1fox6k.jpg
+updated_at: '2026-09-28T17:18:19.876284+00:00'
+last_reviewed: null
 ---
 
 # Quantum Computing Research
@@ -26,3 +28,8 @@ South Korea launched a national quantum computing initiative with $2B in committ
 Korea enters quantum computing later than the US, China, and Europe, but brings manufacturing advantages — Samsung's semiconductor fabrication expertise is directly relevant to producing quantum processor chips, which require precision similar to advanced logic chips. SK Telecom has already deployed quantum key distribution on sections of Korea's commercial telecom network, making it one of the first commercial quantum cryptography deployments worldwide.
 
 The strategic rationale is defensive as much as offensive — a country that controls 70% of global memory chips cannot afford to be caught unprepared if quantum computing disrupts current cryptography and computing paradigms. Korea's quantum investments are calibrated to maintain a capable domestic research base and industry, not to lead the global quantum race.
+
+## Sources
+
+- [https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&nttSeqNo=quantum-2025](https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&nttSeqNo=quantum-2025)
+- [https://news.samsung.com/global/samsung-quantum-computing-research-2025](https://news.samsung.com/global/samsung-quantum-computing-research-2025)

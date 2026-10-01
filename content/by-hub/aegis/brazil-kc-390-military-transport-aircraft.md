@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793200/aegis/technologies/75177557-148d-4431-836e-2c783a8b8a86-google-gemini-3.1-flash-image-preview-f70k4h.png
+updated_at: '2026-09-28T17:17:55.340381+00:00'
+last_reviewed: null
 ---
 
 # KC-390 Military Transport Aircraft
@@ -26,3 +28,9 @@ The C-390 Millennium is a twin-engine tactical transport designed and built by E
 This is remarkable: a Brazilian aircraft is being adopted by NATO air forces over competing European and American designs. The C-390 won competitions against the Airbus A400M and Lockheed C-130J on performance, cost, and availability. Portugal called it a 'NATO benchmark.'
 
 The KC-390 represents Brazil's defense-industrial capability at its peak: designing, certifying, manufacturing, and supporting a complex military platform that meets NATO standards. The aircraft is also being evaluated as a civilian cargo platform for Brazil's postal service (Correios).
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Embraer_C-390_Millennium](https://en.wikipedia.org/wiki/Embraer_C-390_Millennium)
+- [https://aerospaceglobalnews.com/news/portugal-embraer-kc-390-nato-benchmark/](https://aerospaceglobalnews.com/news/portugal-embraer-kc-390-nato-benchmark/)
+- [https://www.flyingmag.com/portuguese-air-force-takes-delivery-of-kc-390-tanker/](https://www.flyingmag.com/portuguese-air-force-takes-delivery-of-kc-390-tanker/)

@@ -10,6 +10,8 @@ trl: null
 impact: null
 investment: null
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533233/habitacao/technologies/assembleias-virtuais-blockchain-google-gemini-3-pro-image-preview-1ykgnv.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Soberania e Governança de Dados do Morador
@@ -25,3 +27,7 @@ Soberania e governança de dados do morador representa o framework ético e lega
 No Brasil, com crescimento de condomínios inteligentes e tecnologias de monitoramento, esse framework é essencial para balancear segurança com privacidade e conformidade legal. A LGPD exige padrões de transparência, minimização e segurança, redefinindo como concessionárias, cidades e edifícios compartilham dados para operação e inovação sem comprometer privacidade. A gestão de consentimento LGPD vira 'infraestrutura invisível' necessária para operar reconhecimento facial e cadastro de visitantes sem risco reputacional e legal.
 
 O sinal de mudança é estrutural: no futuro, essas tecnologias não existem em isolamento, mas formam o framework ético e legal de habitar edifícios conectados. Isso move de 'ferramentas' para o 'framework ético/legal' de viver em edifícios conectados, onde governança de dados é necessária para operar tecnologias de monitoramento sem violar direitos, especialmente relevante onde segurança e privacidade precisam ser balanceadas e conformidade legal é pré-requisito para operação responsável.
+
+## Sources
+
+- [LGPD em condomínios: guia essencial para síndicos](https://zangari.com.br/blog/lgpd-nos-condominios) (2026)

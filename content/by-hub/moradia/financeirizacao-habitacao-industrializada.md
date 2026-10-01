@@ -10,6 +10,8 @@ trl: 2
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598995/habitacao/technologies/financeirizacao-habitacao-industrializada-google-gemini-3-pro-image-preview-nb9mzc.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Financeirização da Habitação Industrializada
@@ -25,3 +27,9 @@ Financeirização da habitação industrializada refere-se à criação de estru
 No Brasil, onde habitação industrializada está ganhando tração, a financeirização permite que construtoras e incorporadoras transformem habitação em ativos financeiros mais líquidos, reduzindo tempo de retorno de investimento e permitindo escala através de acesso a capital de mercado. A tecnologia está em estágio inicial mas mostra potencial para transformar modelos de financiamento habitacional.
 
 O sinal de mudança é a convergência entre inovação construtiva (industrialização) e inovação financeira (securitização, fundos), criando modelos de negócio onde habitação se comporta mais como manufatura (com ciclos rápidos e capital rotativo) do que como construção tradicional (com ciclos longos e capital imobilizado). Isso impacta como habitação é financiada, desenvolvida e operada, especialmente relevante para habitação social e programas de grande escala onde velocidade e eficiência de capital são críticas.
+
+## Sources
+
+- [Financiamento para Habitação Pré-Fabricada na Caixa Geral de Depósitos](https://mfcasasdemadeira.pt/financiamento-para-habitacao-pre-fabricada-na-caixa-geral-de-depositos) (2026)
+- [Oferta de Crédito Habitação para Pré-Fabricados da CGD](https://mfcasasdemadeira.pt/financiamento-para-habitacao-pre-fabricada-na-caixa-geral-de-depositos) (2026)
+- [Homelend, investida da Astella, se une à RBR Asset em CRI para casas industrializadas](https://neofeed.com.br/startups/homelend-investida-da-astella-se-une-a-rbr-asset-em-cri-para-casas-industrializadas) (2025)

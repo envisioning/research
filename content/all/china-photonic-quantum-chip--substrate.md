@@ -10,6 +10,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797404/substrate/technologies/95bfa7fa-b88f-4e78-9fd7-ab642c8d4a40-google-gemini-3.1-flash-image-preview-dypiyo.jpg
+updated_at: '2026-09-28T17:16:51.681618+00:00'
+last_reviewed: null
 ---
 
 # Photonic Quantum Chip
@@ -25,3 +27,7 @@ Photonic quantum computing uses photons (particles of light) instead of supercon
 Chinese research institutes have demonstrated photonic quantum chips that achieve 1,000x speedups on specific complex computing tasks. The enabling material is thin-film lithium niobate (TFLN), which China is now manufacturing at increasing scale.
 
 Photonic quantum computing is earlier-stage than superconducting approaches (which China is also pursuing with Zuchongzhi). The bet is on long-term scalability: photonic systems may be easier to scale to millions of qubits because they don't face the same refrigeration constraints. China is hedging by investing in both approaches simultaneously.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Optical_quantum_computer](https://en.wikipedia.org/wiki/Optical_quantum_computer)

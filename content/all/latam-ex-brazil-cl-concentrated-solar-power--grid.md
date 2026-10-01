@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813232/grid/technologies/b8d023b7-265c-41b8-93c2-95d7fdc47745-google-gemini-3.1-flash-image-preview-7zm0y2.jpg
+updated_at: '2026-09-28T17:17:34.176093+00:00'
+last_reviewed: null
 ---
 
 # Concentrated Solar Power with Thermal Storage
@@ -26,3 +28,9 @@ Chile's Cerro Dominador project, located in the Atacama Desert's Antofagasta reg
 The Atacama Desert offers the world's highest direct normal irradiance (DNI) — over 3,500 kWh/m²/year — making it the optimal location on Earth for CSP technology. The Oasis de Atacama complex is expanding further, with a third phase adding 231 MW of solar capacity and 1.3 GWh of storage, expected to be fully operational in late 2025. When all seven planned phases are complete, it will be Latin America's largest solar complex.
 
 CSP's strategic value lies in dispatchability — unlike photovoltaic solar, which drops to zero at sunset, CSP with thermal storage can deliver power on demand. This makes it directly competitive with natural gas peaker plants and essential for grid stability as Chile approaches 100% renewable electricity. The technology is more expensive per watt than PV, but the storage is dramatically cheaper than batteries at multi-hour durations. Chile's CSP experience is being studied by countries across the sunbelt as a model for renewable baseload power.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Cerro_Dominador_Solar_Thermal_Plant](https://en.wikipedia.org/wiki/Cerro_Dominador_Solar_Thermal_Plant)
+- [https://globalenergyprize.org/en/2025/04/24/latin-americas-largest-solar-power-complex-launched-in-chile/](https://globalenergyprize.org/en/2025/04/24/latin-americas-largest-solar-power-complex-launched-in-chile/)
+- [https://www.international-climate-initiative.com/en/iki-media/news/first_csp_plant_in_south_america/](https://www.international-climate-initiative.com/en/iki-media/news/first_csp_plant_in_south_america/)

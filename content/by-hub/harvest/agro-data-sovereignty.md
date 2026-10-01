@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128189/harvest/technologies/agro-data-sovereignty-google-gemini-3-pro-image-preview-rh4bs7.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Agro-Data Sovereignty
@@ -25,3 +27,8 @@ The agricultural sector has undergone a dramatic digital transformation in recen
 The concentration of agricultural data in the hands of a few large corporations poses significant risks to farming communities and rural economies. When equipment manufacturers or platform providers control access to farm data, they can leverage this information asymmetry to influence input pricing, develop proprietary insights that benefit their commercial interests, and create dependency relationships that limit farmer autonomy. Data sovereignty frameworks counter these challenges by establishing farmers as the primary data controllers, enabling them to share information selectively with agronomists, researchers, or cooperative networks while preventing unauthorised commercial exploitation. This shift fundamentally changes the value proposition of agricultural technology, transforming it from an extractive relationship where data flows primarily upward to corporations, into a more equitable ecosystem where farmers can monetise their own data, participate in agricultural research, and make more informed decisions based on comprehensive information about their operations.
 
 Early implementations of agro-data sovereignty principles are emerging through farmer-owned data cooperatives, open-source agricultural platforms, and regulatory initiatives in several jurisdictions. The European Union's Common Agricultural Policy has begun incorporating data governance principles that recognise farmers' rights over their operational data, while organisations like the Agricultural Data Coalition in North America are developing farmer-controlled data repositories and standardised sharing protocols. These initiatives demonstrate growing recognition that sustainable agricultural innovation requires trust and fairness in data relationships. As climate change intensifies pressure on food systems and precision agriculture becomes increasingly essential for resource efficiency, agro-data sovereignty frameworks will play a crucial role in ensuring that the benefits of agricultural digitalisation are distributed equitably, supporting farmer livelihoods while enabling the collaborative data sharing necessary for addressing global food security challenges.
+
+## Sources
+
+- [Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research](https://arxiv.org/html/2506.20872v1) (2025)
+- [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0) (2025)

@@ -10,6 +10,8 @@ trl: 5
 impact: 3
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012242/pixels/technologies/digital-heritage-preservation-gemini-3-pro-qi670a.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Digital Heritage Preservation

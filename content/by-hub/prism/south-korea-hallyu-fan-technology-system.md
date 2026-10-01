@@ -12,6 +12,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816654/prism/technologies/3c716b16-f691-45b6-b54e-1f87ed09d7ac-google-gemini-3.1-flash-image-preview-qin234.jpg
+updated_at: '2026-09-28T17:17:17.998098+00:00'
+last_reviewed: null
 ---
 
 # Hallyu Fan Technology System
@@ -27,3 +29,9 @@ The Korean Wave (Hallyu) is not just a cultural phenomenon — it's a technology
 The technology layer extends across the entire K-pop value chain. SM Entertainment uses AI for talent scouting — analyzing voice, dance ability, and visual characteristics of trainees. JYP Entertainment deploys data analytics to optimize release timing, concept selection, and market-specific promotional strategies. Virtual production studios built by CJ ENM and HYBE use Unreal Engine-powered LED volume stages (the same technology behind The Mandalorian) for music videos and virtual concerts. Beyond (formerly known as KISWE) provides multi-angle interactive streaming technology used for paid virtual concerts that generate $20-50M per event.
 
 The strategic insight is that Korea's entertainment companies operate as technology companies with content output, not the reverse. The training pipeline (3-7 years of systematized vocal, dance, language, and media training), the fan engagement platform (Weverse, Bubble, Universe), the AI localization (real-time subtitle generation, dubbing), and the data-driven production process constitute a replicable system that no other country has assembled. This system is why K-pop consistently produces global hits while other countries' music industries remain largely domestic.
+
+## Sources
+
+- [https://vitrina.ai/blog/south-koreas-top-entertainment-talent-agencies-2025-power-list/](https://vitrina.ai/blog/south-koreas-top-entertainment-talent-agencies-2025-power-list/)
+- [https://vitrina.ai/blog/entertainment-talent-management-agencies-south-korea-2024](https://vitrina.ai/blog/entertainment-talent-management-agencies-south-korea-2024)
+- [https://journals.sagepub.com/doi/10.1177/20563051251326689](https://journals.sagepub.com/doi/10.1177/20563051251326689)

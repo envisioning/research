@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815737/helix/technologies/9d075a95-fc5e-4864-b1a2-91437886cbef-google-gemini-3.1-flash-image-preview-kltozn.jpg
+updated_at: '2026-09-28T17:17:44.68642+00:00'
+last_reviewed: null
 ---
 
 # High-Tech Shrimp Aquaculture
@@ -26,3 +28,7 @@ Vietnam — Vietnam exports over $4 billion in shrimp annually, ranking third gl
 Traditional shrimp farming is high-risk: a disease outbreak can wipe out an entire pond within days. Technology-enabled intensification allows higher stocking densities (100+ shrimp per square meter vs. 30 in traditional ponds) while reducing mortality through continuous environmental monitoring. Biofloc systems additionally reduce water exchange by 80%, critical in areas facing saltwater intrusion from climate change.
 
 The broader significance is food security technology for tropical aquaculture. As wild fisheries decline globally and demand for protein grows, high-tech aquaculture becomes a critical food production pathway. Vietnam's combination of aquaculture expertise, technology adoption, and massive production scale makes it the laboratory where tropical aquaculture intensification is being proven at national scale.
+
+## Sources
+
+- [https://www.mordorintelligence.com/industry-reports/vietnam-semiconductor-market](https://www.mordorintelligence.com/industry-reports/vietnam-semiconductor-market)

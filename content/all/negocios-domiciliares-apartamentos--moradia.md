@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668278/habitacao/technologies/negocios-domiciliares-apartamentos-google-gemini-3-pro-image-preview-cdczm6.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Negócios Domiciliares em Apartamentos
@@ -25,3 +27,9 @@ Negócios domiciliares em apartamentos descreve a prática de operar atividades 
 No Brasil, especialmente em áreas periféricas e em períodos de desemprego ou necessidade de renda complementar, negócios domiciliares são uma prática comum que permite geração de renda sem custos adicionais de locação comercial. Famílias adaptam espaços domésticos para atividades comerciais, criando economia informal que responde a necessidades de renda e falta de oportunidades formais, especialmente relevante onde acesso a emprego formal é limitado e recursos para empreendimento comercial são escassos.
 
 O sinal de mudança é a transformação de habitação de espaço exclusivamente residencial para espaço híbrido que integra moradia e geração de renda, onde fronteira entre residência e trabalho se dissolve. Isso impacta tipologias habitacionais (necessidade de espaços flexíveis), regulação (reconhecimento de uso misto), políticas habitacionais (apoio a economia domiciliar) e mercado imobiliário (valorização de unidades flexíveis), especialmente relevante onde geração de renda é necessária e espaços comerciais são inacessíveis.
+
+## Sources
+
+- [Atividade comercial nos condomínios](https://jornaldosindico.com.br/atividade-comercial-nos-condominios) (2025)
+- [Pode ter um negócio em apartamento? Saiba que nem toda atividade é permitida](https://viva.com.br/carreira-e-educacao/ter-um-negocio-em-apartamento-pode-mas-nem-toda-atividade-e-permitida.html) (2025)
+- [Pode ter um negócio em apartamento? Saiba que nem toda atividade é permitida](https://viva.com.br/carreira-e-educacao/ter-um-negocio-em-apartamento-pode-mas-nem-toda-atividade-e-permitida.html) (2025)

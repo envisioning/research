@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813056/polis/technologies/7f9d04fd-885f-438c-9f3a-e478838563ff-google-gemini-3.1-flash-image-preview-00athb.jpg
+updated_at: '2026-09-28T17:16:26.191252+00:00'
+last_reviewed: null
 ---
 
 # AI-Based Digital Identity Verification
@@ -26,3 +28,9 @@ Mexico's digital identity verification ecosystem has developed around a unique a
 The technology enables financial inclusion at unprecedented scale. Traditional KYC (Know Your Customer) requirements meant physically visiting a bank branch with original documents — a barrier that kept tens of millions unbanked. Remote digital verification eliminates this friction, allowing people to open accounts, access credit, and receive remittances through their phones. The challenge is balancing fraud prevention (Mexico has sophisticated forgery operations) with accessibility (many potential users have older phones with poor cameras).
 
 Digital identity verification is the enabling technology for Mexico's entire fintech sector — without it, remote onboarding is impossible and every financial service requires physical presence. The sector is evolving toward multi-factor biometric solutions (voice recognition, behavioral biometrics) and exploring Mexico's potential implementation of a digital national ID system.
+
+## Sources
+
+- [https://www.nilos.io/blog/top-payment-solutions-in-mexico-2025-complete-market-overview](https://www.nilos.io/blog/top-payment-solutions-in-mexico-2025-complete-market-overview)
+- [https://practiceguides.chambers.com/practice-guides/fintech-2025/mexico/trends-and-developments](https://practiceguides.chambers.com/practice-guides/fintech-2025/mexico/trends-and-developments)
+- [https://www.trade.gov/country-commercial-guides/mexico-digital-economy](https://www.trade.gov/country-commercial-guides/mexico-digital-economy)

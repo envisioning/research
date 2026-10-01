@@ -10,6 +10,8 @@ trl: null
 impact: null
 investment: null
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766573331/habitacao/technologies/autofinanciamento-familiar-google-gemini-3-pro-image-preview-2suip9.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Autofinanciamento Familiar
@@ -25,3 +27,9 @@ Autofinanciamento familiar é o modelo predominante de financiamento da constru�
 No Brasil, autofinanciamento familiar é estrutural na produção habitacional, determinando ritmo de construção (por etapas conforme recursos), escolha de materiais (baixo custo) e processos (trabalho familiar vs. contratado). A tecnologia está sendo reconhecida como modelo predominante, especialmente relevante onde acesso a crédito formal é limitado.
 
 O sinal de mudança é reconhecer que o financiamento habitacional brasileiro não é apenas 'crédito bancário + garantias formais', mas inclui massivamente autofinanciamento que opera fora do sistema financeiro formal. Isso afeta como se pensa políticas habitacionais (subsídio vs. poupança), tecnologias (sistemas de crédito vs. apoio a poupança) e modelos de negócio (financiamento institucional vs. recursos próprios), especialmente relevante onde tecnologias e políticas que reconhecem e apoiam autofinanciamento podem destravar produção habitacional sem depender exclusivamente de crédito formal.
+
+## Sources
+
+- [Como financiar a construção de uma casa pela CAIXA: o que você precisa saber](https://infoconstrucao.com.br/como-financiar-a-construcao-de-uma-casa-pela-caixa-o-que-voce-precisa-saber) (2026)
+- [Como funciona o financiamento para construção de casas: guia com caso real](https://makasiedu.com.br/como-funciona-o-financiamento-para-construcao-de-casas-guia-com-caso-real) (2025)
+- [Construa sua casa sem dinheiro! O segredo está na arquitetura](https://rsai.com.br/artigos/casa-propria-dinheiro-zero-o-metodo) (2025)

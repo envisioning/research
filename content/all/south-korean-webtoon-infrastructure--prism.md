@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069380/pulse/technologies/south-korean-webtoon-infrastructure-gemini-3-pro-ruffae.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # South Korean WebToon Infrastructure

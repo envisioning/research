@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898838/xenotech/technologies/mhd-propulsion-openrouter-google-gemini-3.1-flash-image-preview-kr7ivh.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # MHD Propulsion
@@ -41,3 +43,11 @@ Very Low Earth Orbit (VLEO, 150-250km altitude) propulsion systems collect resid
 ## Current Status
 
 Conventional MHD propulsion is well-established but limited. Air-breathing MHD scramjets remain theoretical with immense engineering barriers—no system has demonstrated net energy gain or sustained hypersonic MHD-controlled flight. Magnetic reconnection propulsion is in early experimental stages. VLEO atmospheric harvesting represents the most practical near-term application, with active development programs demonstrating feasibility.
+
+## Sources
+
+- [Effects of applied magnetic fields on the performance of magnetoplasmadynamic thrusters](http://www.nature.com/articles/s41598-026-38380-3) (2026)
+- [Simulation analysis and implementation of a permanent magnet configuration on an RF helicon-based plasma thruster](https://link.springer.com/article/10.1007/s12567-025-00696-7) (2026)
+- [Magnetohydrodynamic Operating Regimes of Pulsed Plasma Accelerators for Efficient Propellant Utilization](https://arxiv.org/abs/2503.08889) (2025)
+- [Magnetohydrodynamics (MHD): science, propulsion, and airflow control](https://www.flyajetfighter.com/magnetohydrodynamics-mhd-science-propulsion-and-airflow-control) (2025)
+- [Pulsed Magnetoplasmadynamic Propulsion for Airbreathing Satellites in Very Low Earth Orbit](https://alfven.princeton.edu/publications/pdf/zimmerman-jpp-2025.pdf) (2025)

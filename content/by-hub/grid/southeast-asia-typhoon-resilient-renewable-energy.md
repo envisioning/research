@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815395/grid/technologies/5fef7163-ecde-4167-ad3c-67de3e21e55a-google-gemini-3.1-flash-image-preview-q28enn.jpg
+updated_at: '2026-09-28T17:17:43.826787+00:00'
+last_reviewed: null
 ---
 
 # Typhoon-Resilient Renewable Energy Infrastructure
@@ -26,3 +28,8 @@ Philippines — The Philippines averages 20 typhoons per year, including Categor
 The engineering challenge is fundamental: standard renewable energy infrastructure designed for temperate climates fails in Philippine conditions. Solutions include lower-profile solar arrays, concrete-reinforced mounting, typhoon shutters for wind turbines, and underground cable routing. Each typhoon season generates empirical data that improves the next generation of designs.
 
 This creates exportable engineering knowledge. Every tropical country facing climate change-intensified storms needs the same solutions. Philippine expertise in typhoon-resilient renewables could become a consulting and engineering export — similar to how Dutch water management expertise became a global commodity. The World Bank's $500M+ resilience investment in the Philippines further validates this technology pathway.
+
+## Sources
+
+- [https://cleantechnica.com/2025/11/09/renewable-energy-infrastructure-resilience-tested-as-a-supertyphoon-approaches-the-philippines/](https://cleantechnica.com/2025/11/09/renewable-energy-infrastructure-resilience-tested-as-a-supertyphoon-approaches-the-philippines/)
+- [https://www.worldbank.org/en/news/press-release/2025/07/31/wb-supports-efforts-to-strengthen-community-resilience-for-18-million-households-in-ph](https://www.worldbank.org/en/news/press-release/2025/07/31/wb-supports-efforts-to-strengthen-community-resilience-for-18-million-households-in-ph)

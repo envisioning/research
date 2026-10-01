@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179630/spore/technologies/climate-resilient-crop-systems-gemini-3-pro-jhi3qv.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Climate-Resilient Crop Systems

@@ -11,6 +11,8 @@ trl: 3
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871443/meridian/technologies/a6274781-279b-4470-9fc2-97d30bf55d0a-google-gemini-3.1-flash-image-preview-2902l5.jpg
+updated_at: '2026-09-28T17:18:40.110458+00:00'
+last_reviewed: null
 ---
 
 # Perimeter Institute Theoretical Physics Research
@@ -26,3 +28,8 @@ Perimeter Institute for Theoretical Physics, founded in 1999 in Waterloo by Mike
 Perimeter matters because foundational physics research, while far from commercial application, drives the conceptual breakthroughs that eventually transform technology. Quantum computing, for example, emerged from theoretical physics decades before becoming an engineering challenge. Perimeter's work on quantum gravity and quantum information theory provides the theoretical foundation for future quantum technologies that don't yet exist.
 
 The strategic value of Perimeter is primarily as a talent magnet and long-term research hedge. The institute attracts world-class physicists who contribute to the broader Waterloo innovation ecosystem, and its expansion into AI-physics demonstrates adaptability to emerging research frontiers. The QFun initiative (Quantum Simulations of Fundamental Interactions), launched in partnership with the Institute for Quantum Computing, directly connects theoretical physics to quantum computing applications.
+
+## Sources
+
+- [https://perimeterinstitute.ca/about-us/our-story](https://perimeterinstitute.ca/about-us/our-story)
+- [https://perimeterinstitute.ca/jobs/perimeter-and-university-waterloo-joint-faculty-position-intersection-ai-theoretical-physics](https://perimeterinstitute.ca/jobs/perimeter-and-university-waterloo-joint-faculty-position-intersection-ai-theoretical-physics)

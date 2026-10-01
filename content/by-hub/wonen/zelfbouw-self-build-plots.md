@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886961/wonen/technologies/44434327-a402-4a4c-bfc3-22d07a9690a6-google-gemini-3.1-flash-image-preview-q42cfj.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Zelfbouw / Collectief Particulier Opdrachtgeverschap

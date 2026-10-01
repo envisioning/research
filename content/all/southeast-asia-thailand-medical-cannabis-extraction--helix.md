@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815094/helix/technologies/285725eb-22bc-4ba6-a2b5-e8856482b9e2-google-gemini-3.1-flash-image-preview-125766.jpg
+updated_at: '2026-09-28T17:18:14.149851+00:00'
+last_reviewed: null
 ---
 
 # Medical Cannabis Research & Extraction Technology
@@ -25,3 +27,9 @@ Thailand became the first Asian country to decriminalize cannabis in 2022, and i
 The regulatory journey has been turbulent — the 2022 decriminalization led to an explosion of recreational shops that alarmed health authorities, triggering the 2025 re-regulation. But the surviving framework is arguably stronger: it creates a legal, quality-controlled medical cannabis ecosystem unique in Asia. Thai researchers are investigating cannabis applications for chronic pain, epilepsy, multiple sclerosis, and chemotherapy side effects, building a clinical evidence base that neighboring countries lack.
 
 Strategically, Thailand's first-mover advantage in Asian medical cannabis positions it as a potential regional hub for pharmaceutical-grade cannabis research and export. While Japan, South Korea, and China maintain strict prohibition, Thailand's regulated framework could attract clinical trial activity and biotech investment looking for legal Asian research environments. The integration with traditional Thai medicine adds cultural legitimacy that purely pharmaceutical approaches lack — creating a distinctive Thai cannabis science that blends modern extraction technology with centuries of herbal medicine knowledge.
+
+## Sources
+
+- [https://agentialcannabis.com/thailands-medicinal-cannabis-framework-what-international-operators-keep-getting-wrong/](https://agentialcannabis.com/thailands-medicinal-cannabis-framework-what-international-operators-keep-getting-wrong/)
+- [https://www.legal500.com/developments/thought-leadership/thailands-legal-reversal-on-cannabis-restriction-to-medical-use-only/](https://www.legal500.com/developments/thought-leadership/thailands-legal-reversal-on-cannabis-restriction-to-medical-use-only/)
+- [https://www.cannabissciencetech.com/view/thailand-restricts-recreational-cannabis-use-returns-to-medical-only-market](https://www.cannabissciencetech.com/view/thailand-restricts-recreational-cannabis-use-returns-to-medical-only-market)

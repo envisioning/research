@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326734/formar/technologies/sistemas-construtivos-industrializados-google-gemini-3-pro-image-preview-6cfz55.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Sistemas Construtivos Industrializados e Modulares
@@ -25,3 +27,8 @@ Sistemas construtivos industrializados e modulares utilizam componentes pré-fab
 No Brasil, ganham tração em habitação social, obras públicas e infraestrutura. Steel frame (incluindo sistemas como Steelcorp) ganha espaço como alternativa rápida e limpa à alvenaria, especialmente em condomínios horizontais, casas de médio/alto padrão e expansões, combinando industrialização, previsibilidade de prazo e qualidade, mas ainda enfrenta barreiras culturais e de cadeia (disponibilidade de mão de obra qualificada e componentes padronizados). Construção modular para infraestrutura reduz tempo de obra e impacto no entorno, acelerando universalização de saneamento e expansão de redes elétricas em áreas densas ou remotas.
 
 O sinal de mudança é a transição de construção artesanal para industrialização, criando novos modelos de produção que escalam moradia acessível e modernizam infraestrutura urbana, especialmente relevante em contextos onde velocidade, qualidade e escala são críticas para atender demanda habitacional e infraestrutural.
+
+## Sources
+
+- [Nem concreto, nem aço: o futuro da construção civil está na madeira](https://eaemaq.com.br/madeira/nem-concreto-nem-aco-o-futuro-da-construcao-civil-esta-na-madeira) (2025)
+- [Sistema de construção modular: um estudo de viabilidade da construção modular voltado a moradia social](https://ojs.revistadelos.com/ojs/index.php/delos/article/view/5433) (2025)

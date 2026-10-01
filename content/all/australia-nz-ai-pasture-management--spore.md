@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858118/spore/technologies/38891bc1-8632-4dd3-9e17-19f13a3849ee-google-gemini-3.1-flash-image-preview-ma5o1g.jpg
+updated_at: '2026-09-28T17:16:43.795486+00:00'
+last_reviewed: null
 ---
 
 # AI-Powered Pasture Management
@@ -26,3 +28,8 @@ AIMER Farming, a New Zealand ag-tech company, combines satellite imagery, weathe
 New Zealand's dairy industry is uniquely pasture-based — cows eat grass rather than grain for most of the year — making pasture management the single largest determinant of farm profitability. Over-grazing reduces pasture recovery; under-grazing wastes feed. AI-powered prediction enables farmers to match stocking rates and rotation timing to actual grass growth, reducing supplementary feed purchases (typically 15-25% of dairy farm costs) while improving pasture persistence and soil health.
 
 The integration of AI pasture management with virtual fencing (Halter), precision dairy sensing (Bovonic), and UV seed trait programming (BioLumic) is creating an emerging stack of interconnected NZ-developed ag-tech that collectively transforms pastoral farming from an art into a data science. This integrated approach is uniquely suited to exported pasture-based systems in Australia, Ireland, parts of South America, and increasingly the US.
+
+## Sources
+
+- [https://business.scoop.co.nz/2025/11/28/kiwi-agri-tech-trio-joins-forces-to-help-dairy-farmers-get-more-from-technology/](https://business.scoop.co.nz/2025/11/28/kiwi-agri-tech-trio-joins-forces-to-help-dairy-farmers-get-more-from-technology/)
+- [https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1686133/full](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1686133/full)

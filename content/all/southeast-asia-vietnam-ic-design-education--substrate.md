@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815412/substrate/technologies/66da3534-747d-426a-9538-d63cac3d9d8c-google-gemini-3.1-flash-image-preview-r8umwa.jpg
+updated_at: '2026-09-28T17:17:45.350067+00:00'
+last_reviewed: null
 ---
 
 # IC Design Talent Development
@@ -26,3 +28,8 @@ Vietnam — Vietnam's National Semiconductor Strategy 2024-2030 includes an ambi
 The talent pipeline is Vietnam's most critical semiconductor bottleneck. Chip packaging employs trained technicians; IC design requires engineers with graduate-level expertise in VLSI, analog design, or verification. Vietnamese universities are rapidly expanding IC design curricula, often partnered with US institutions (Arizona State, Portland State) that have established semiconductor programs.
 
 The strategic significance is Vietnam's place in the 'smile curve' of semiconductor value: design (high value) → manufacturing → packaging (lower value). Vietnam currently occupies the low end. Moving into design would multiply the value capture per worker by 5-10x. The US technology restriction lift in 2026 makes this technically possible; whether Vietnam can develop the talent fast enough to capitalize on the window is the open question.
+
+## Sources
+
+- [https://restofworld.org/2026/vietnam-us-chip-industry-china/](https://restofworld.org/2026/vietnam-us-chip-industry-china/)
+- [https://www.semi.org/sea/blogs/September-2025](https://www.semi.org/sea/blogs/September-2025)

@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882544/habitat/technologies/1490bdfa-3b61-4205-a5f0-b43ad28d7daf-google-gemini-3.1-flash-image-preview-lpqai1.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Arcology

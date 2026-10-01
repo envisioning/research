@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813193/grid/technologies/b27ce6bb-202c-4dba-a4db-3a4029002326-google-gemini-3.1-flash-image-preview-nbl227.png
+updated_at: '2026-09-28T17:17:26.039079+00:00'
+last_reviewed: null
 ---
 
 # LNG Liquefaction & Export Technology
@@ -26,3 +28,9 @@ Argentina's Vaca Muerta shale boom is generating natural gas volumes that exceed
 The technology involves gas processing (removing impurities, liquids, and CO2), refrigeration cycles that cool natural gas to -162°C for LNG conversion, and cryogenic storage and loading systems. Argentina's specific challenge is pipeline infrastructure — Vaca Muerta is in Patagonia's interior, over 1,000 km from Atlantic ports. The Néstor Kirchner gas pipeline (completed in 2023) and planned extensions are essential to connecting production to export points.
 
 The strategic ambition is to make Argentina a significant LNG exporter, competing with the US, Qatar, and Australia for European and Asian markets. The timing aligns with post-Ukraine energy security concerns driving global demand for non-Russian gas. If Argentina can build the pipeline and liquefaction infrastructure at the projected $10B+ cost, Vaca Muerta's reserves — estimated at 300+ trillion cubic feet — could sustain decades of LNG exports, fundamentally transforming Argentina's trade balance and geopolitical position.
+
+## Sources
+
+- [https://energy-analytics-institute.org/2025/03/11/argentine-fracking-boom-in-vaca-muerta-record-breaking-activity-continues/](https://energy-analytics-institute.org/2025/03/11/argentine-fracking-boom-in-vaca-muerta-record-breaking-activity-continues/)
+- [https://geopoliticsunplugged.substack.com/p/from-pampas-to-power-the-strategic](https://geopoliticsunplugged.substack.com/p/from-pampas-to-power-the-strategic)
+- [https://www.reuters.com/business/energy/slowing-vaca-muerta-oil-activity-could-pose-challenge-argentinas-milei-2025-10-07/](https://www.reuters.com/business/energy/slowing-vaca-muerta-oil-activity-could-pose-challenge-argentinas-milei-2025-10-07/)

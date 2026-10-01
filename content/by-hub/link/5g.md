@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889151/link/technologies/73f9d595-31ff-40bf-a55a-776dd333e945-google-gemini-3.1-flash-image-preview-xty2jj.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # 5G

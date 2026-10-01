@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811465/grid/technologies/f18a0bc1-72e0-4a50-b1fe-fd0f3e56953a-google-gemini-3.1-flash-image-preview-emz0qs.jpg
+updated_at: '2026-09-28T17:18:10.676207+00:00'
+last_reviewed: null
 ---
 
 # Containerized Solar Mini-Grid Systems
@@ -26,3 +28,8 @@ Containerized solar mini-grids are self-contained power generation and distribut
 Nigeria's national grid reaches only about 40% of the population and suffers chronic instability — average grid uptime is as low as 6 hours per day in many areas. Mini-grids bypass this entirely, providing reliable 24/7 power at costs competitive with diesel generators (which currently power much of Nigeria's economy). Smart metering allows prepaid electricity consumption via mobile money, similar to the PAYG solar model.
 
 The mini-grid model represents Africa's approach to energy infrastructure: skip the centralized grid entirely and build distributed generation. The World Bank estimates Africa needs 160,000 mini-grids to achieve universal electricity access by 2030. This is not a temporary solution — it may be how most of rural Africa is permanently electrified, creating a fundamentally different energy architecture than the centralized grids of the 20th century.
+
+## Sources
+
+- [https://www.worldbank.org/en/topic/energy/brief/mini-grids-for-half-a-billion-people](https://www.worldbank.org/en/topic/energy/brief/mini-grids-for-half-a-billion-people)
+- [https://techcabal.com/2024/09/15/nigeria-mini-grid-revolution/](https://techcabal.com/2024/09/15/nigeria-mini-grid-revolution/)

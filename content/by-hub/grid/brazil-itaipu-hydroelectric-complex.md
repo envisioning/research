@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793328/grid/technologies/8e46e5ba-c2bf-42b2-850e-f19611999873-google-gemini-3.1-flash-image-preview-8z9ker.png
+updated_at: '2026-09-28T17:17:55.41865+00:00'
+last_reviewed: null
 ---
 
 # Itaipu Hydroelectric Complex
@@ -25,3 +27,9 @@ Itaipu is a bilateral Brazil-Paraguay dam on the Paraná River that set the worl
 The dam represents a specific engineering achievement: building one of the world's largest concrete structures in a tropical river with extreme seasonal flow variation. The bilateral governance model — shared 50/50 between two countries — is unique in global energy infrastructure.
 
 Itaipu is part of a broader story: Brazil generates roughly 65% of its electricity from hydropower, giving it one of the cleanest electricity grids among major economies. This clean grid is what makes green hydrogen, electric vehicles, and industrial electrification genuinely low-carbon in Brazil — unlike countries where 'clean' technologies still run on coal-fired electricity.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Itaipu_Dam](https://en.wikipedia.org/wiki/Itaipu_Dam)
+- [https://itaipu.energy](https://itaipu.energy)
+- [https://www.power-technology.com/projects/itaipu-hydroelectric/](https://www.power-technology.com/projects/itaipu-hydroelectric/)

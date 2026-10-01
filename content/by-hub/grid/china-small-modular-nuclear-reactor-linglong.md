@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797426/grid/technologies/9d40f1fe-7550-4b03-86c3-f6d2df15f643-google-gemini-3.1-flash-image-preview-2ja3nj.jpg
+updated_at: '2026-09-28T17:16:39.45333+00:00'
+last_reviewed: null
 ---
 
 # Small Modular Nuclear Reactor (Linglong One)
@@ -26,3 +28,8 @@ The Linglong One, or ACP100, is a 125MW small modular reactor designed by CNNC a
 SMRs are nuclear reactors small enough to be factory-built and transported to site, rather than custom-constructed like traditional nuclear plants. The Linglong One's 125MW output is roughly one-eighth of a conventional reactor, making it suitable for island grids, remote regions, and industrial complexes that need reliable baseload power without massive infrastructure. Critically, the reactor is designed for cogeneration: it can simultaneously produce electricity, district heating, and desalinated seawater.
 
 The export potential is significant. Dozens of countries — particularly in Southeast Asia, the Middle East, and Africa — need small-scale nuclear power but lack the grid capacity or capital for full-size plants. CNNC has signed cooperation agreements with multiple countries. The first-mover advantage of actually operating a commercial SMR, rather than just designing one, gives China credibility that no Western SMR developer can yet match.
+
+## Sources
+
+- [https://www.reuters.com/business/energy/china-start-commercial-operation-first-small-modular-nuclear-reactor-2026-2025-12-11/](https://www.reuters.com/business/energy/china-start-commercial-operation-first-small-modular-nuclear-reactor-2026-2025-12-11/)
+- [https://www.world-nuclear-news.org/articles/cold-testing-of-chinese-smr-completed](https://www.world-nuclear-news.org/articles/cold-testing-of-chinese-smr-completed)

@@ -9,6 +9,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886725/apogee/technologies/3ced955a-2862-4815-87f7-a045459ccc1e-google-gemini-3.1-flash-image-preview-bx6s7h.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Artificial Gravity

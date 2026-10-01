@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793369/aegis/technologies/9a0e4a46-9c5f-43ca-ae41-d19f6008e1a9-google-gemini-3.1-flash-image-preview-lxansk.jpg
+updated_at: '2026-09-28T17:16:52.501865+00:00'
+last_reviewed: null
 ---
 
 # Indigenous AESA Radar Systems (SABER)
@@ -26,3 +28,9 @@ The SABER radar program is a Brazilian Army initiative to develop fully indigeno
 Radar is a cornerstone of military sovereignty — a country that cannot build its own radars depends on foreign suppliers who may restrict access, embed backdoors, or deny spare parts during conflict. Brazil's AESA development ensures autonomous capability in air defense and artillery detection. The technology was developed through collaboration between CTEx (Army Technology Center) and Embraer, building on Embraer's decades of avionics and electronic warfare expertise.
 
 The SABER program positions Brazil as one of very few developing countries with indigenous AESA radar capability — a technology dominated by the US, Israel, France, and China. Export potential exists to Latin American and African militaries that want advanced radar without geopolitical strings. The counter-battery variant addresses a lesson from the Ukraine conflict: locating enemy artillery is a decisive tactical capability in modern warfare.
+
+## Sources
+
+- [https://www.defensemirror.com/news/37192/Brazilian_Army_Tests_Indigenously_made_Counter_Battery_AESA_Radar](https://www.defensemirror.com/news/37192/Brazilian_Army_Tests_Indigenously_made_Counter_Battery_AESA_Radar)
+- [https://en.wikipedia.org/wiki/Saber_Radar](https://en.wikipedia.org/wiki/Saber_Radar)
+- [https://thedefensepost.com/2024/12/09/embraer-saber-radar-brazil/](https://thedefensepost.com/2024/12/09/embraer-saber-radar-brazil/)

@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853478/aegis/technologies/777e1efa-331e-40d0-995d-89db2c1e2b16-google-gemini-3.1-flash-image-preview-qlz7ga.png
+updated_at: '2026-09-28T17:16:47.849069+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Military Ground Robotics
@@ -25,3 +27,7 @@ ARX Robotics (Germany) opened Europe's largest production facility for military 
 The technology addresses a fundamental European defense problem: personnel shortages. European militaries struggle to recruit enough soldiers, and autonomous ground systems multiply the effectiveness of smaller forces by handling dangerous but routine tasks — carrying ammunition, surveilling perimeters, clearing routes.
 
 The approach differs from US military robotics, which emphasizes teleoperation (human in the loop). European systems are designed for greater autonomy, reflecting both the personnel constraint and European AI research strengths in embodied intelligence and multi-agent coordination.
+
+## Sources
+
+- [https://nitter.net/itsolelehmann/status/1912455565886038201](https://nitter.net/itsolelehmann/status/1912455565886038201)

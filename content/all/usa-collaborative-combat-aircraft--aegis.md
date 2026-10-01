@@ -11,6 +11,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774862137/aegis/technologies/f8fbc9bf-094a-420d-84d7-2c83ec539f1d-google-gemini-3.1-flash-image-preview-hs3xkm.jpg
+updated_at: '2026-09-28T17:17:48.800307+00:00'
+last_reviewed: null
 ---
 
 # Collaborative Combat Aircraft (CCA)
@@ -26,3 +28,8 @@ Collaborative Combat Aircraft are autonomous or semi-autonomous drone wingmen de
 CCAs represent the most significant change in air combat doctrine since stealth. By fielding affordable autonomous wingmen alongside expensive manned fighters, the US Air Force and Navy can generate mass without proportionally increasing pilot training or aircraft costs. Each manned fighter could control 2-5 CCAs, dramatically multiplying combat effectiveness. The Air Force's NGAD program integrates CCAs as a core element of future air superiority.
 
 The defense-tech startup ecosystem — led by Anduril ($28B valuation), Shield AI ($12B), and complemented by incumbents like General Atomics and Kratos — is driving CCA development at venture-capital speed rather than traditional defense acquisition timelines. This represents a fundamental shift in how the US develops military technology.
+
+## Sources
+
+- [https://theaviationist.com/2026/03/03/yfq-44a-tests-shivemind-lattice-ais/](https://theaviationist.com/2026/03/03/yfq-44a-tests-shivemind-lattice-ais/)
+- [https://www.reuters.com/technology/silicon-valley-backed-shield-ai-enters-fighter-jet-race-with-new-wingman-drone-2025-10-22/](https://www.reuters.com/technology/silicon-valley-backed-shield-ai-enters-fighter-jet-race-with-new-wingman-drone-2025-10-22/)

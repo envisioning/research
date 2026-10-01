@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903125/xenotech/technologies/skipping-light-wave-field-propulsion-openrouter-google-gemini-3.1-flash-image-preview-dorcr4.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Skipping Light-Wave Propulsion
@@ -37,3 +39,7 @@ Unlike broader gravity-amplifier narratives, Wartena's account emphasizes quanti
 ## Assessment
 
 The concept remains anecdotal, resting on a single detailed witness report later circulated by researchers such as Timothy Good and regional investigative groups. While no experimental validation exists, the narrative provides a structured description of photonic-gravitic mobility that complements other field-propulsion testimonies, offering researchers a qualitative framework for resonance-based gravity control hypotheses.
+
+## Sources
+
+- [Light Misunderstood: The Wave Nature of Light and Acoustic Gravitic Theory](https://graviticalchemy.com/light-misunderstood) (2025)

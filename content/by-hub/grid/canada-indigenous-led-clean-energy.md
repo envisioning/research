@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871400/grid/technologies/9f2978be-2649-4f3b-8137-c8a2ca025f73-google-gemini-3.1-flash-image-preview-d7uaqg.png
+updated_at: '2026-09-28T17:16:24.114013+00:00'
+last_reviewed: null
 ---
 
 # Indigenous-Led Clean Energy Infrastructure
@@ -26,3 +28,8 @@ First Nations, Métis, and Inuit communities across Canada are rapidly building 
 This matters because approximately 200 Indigenous and remote communities across Canada still depend on diesel generators for electricity — an expensive, polluting, and logistically difficult energy source requiring fuel transport over ice roads or by air. Indigenous-led clean energy addresses energy poverty, reduces diesel dependence, generates community revenue, and demonstrates a model of energy sovereignty where communities own and control their power systems. British Columbia's new regulatory framework under the Renewable Energy Projects Act specifically engages First Nations in wind and solar development.
 
 The strategic significance extends beyond emissions reduction. Indigenous energy sovereignty creates a new economic model where communities transition from energy consumers to energy producers and owners. With Canada's reconciliation agenda requiring substantive economic partnership with Indigenous peoples, community-owned clean energy represents one of the most tangible and scalable pathways. The projects also function as distributed Arctic and remote infrastructure — connected communities with reliable power are more resilient, more economically active, and more capable of supporting sovereignty functions in remote regions.
+
+## Sources
+
+- [https://renewablesassociation.ca/news-release-the-stage-is-set-for-the-future-of-canadas-wind-solar-and-energy-storage-industry/](https://renewablesassociation.ca/news-release-the-stage-is-set-for-the-future-of-canadas-wind-solar-and-energy-storage-industry/)
+- [https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/reduce-emissions/reducing-reliance-diesel.html](https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/reduce-emissions/reducing-reliance-diesel.html)

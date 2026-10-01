@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011021/apogee/technologies/optical-inter-satellite-links-gemini-3-pro-mm0qym.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Optical Inter-Satellite Links (OISL)

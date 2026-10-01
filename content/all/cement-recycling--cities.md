@@ -10,6 +10,8 @@ trl: 6
 impact: 2
 investment: 2
 image_url: https://www.datocms-assets.com/134194/1719328973-cement-recycling.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cement Recycling
@@ -27,3 +29,10 @@ The new cement recycling method utilises electric arc furnaces (EAFs), commonly 
 As urbanisation continues to grow, the demand for concrete is expected to rise, especially in developing regions. Cement recycling not only provides a scalable and cost-effective solution to meet this demand but also aligns with global efforts to achieve net-zero emissions by 2050. Additionally, it supports the circular economy by repurposing waste materials, thereby reducing landfill usage and conserving natural resources.
 
 Furthermore, the adoption of circular technologies like cement recycling can lead to significant economic benefits. Circularity in the cement industry could create financial net-value pools driven by reduced material costs and avoided landfill expenses. This economic incentive, coupled with regulatory support and rising carbon prices, can accelerate the adoption of sustainable practices in the construction sector.
+
+## Sources
+
+- [Cambridge Electric Cement](https://cambridgeelectriccement.com/)
+- [Cement recycling method could help solve one of the world’s biggest climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
+- [How recycling concrete could accelerate sustainable construction](https://arup.com/insights/how-recycling-concrete-could-accelerate-sustainable-construction/)
+- [Scientists say they can make zero-emission cement](https://phys.org/news/2024-05-scientists-emission-cement.html)

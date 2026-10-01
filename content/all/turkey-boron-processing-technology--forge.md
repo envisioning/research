@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855666/forge/technologies/780ecef8-9232-4454-a358-c0c9db76ca13-google-gemini-3.1-flash-image-preview-wsrtg9.jpg
+updated_at: '2026-09-28T17:17:18.077493+00:00'
+last_reviewed: null
 ---
 
 # Advanced Boron Processing & Materials
@@ -26,3 +28,7 @@ Turkey possesses approximately 73% of the world's known boron reserves, primaril
 Boron is increasingly recognized as a critical mineral for emerging technologies. Boron nitride nanotubes have properties comparable to carbon nanotubes but with superior thermal and chemical stability. Boron-based compounds are being investigated for solid-state battery electrolytes, hydrogen storage, and nuclear reactor moderators. Turkey's near-monopoly position in boron reserves gives it potential leverage similar to what rare earth deposits give China.
 
 The strategic challenge is moving up the value chain from raw mineral exports to advanced materials manufacturing. Turkey currently exports primarily refined minerals rather than high-technology boron products, leaving the highest-value processing to Japanese, American, and European companies. Government-backed research programs are working to develop indigenous boron materials technology that could create a unique competitive advantage in sectors from defense (boron carbide armor) to energy (boron-based batteries).
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Mining_in_Turkey](https://en.wikipedia.org/wiki/Mining_in_Turkey)

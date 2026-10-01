@@ -10,6 +10,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875939/substrate/technologies/cbf9be64-78fd-423d-aebc-f97d565046c0-google-gemini-3.1-flash-image-preview-3snyhp.jpg
+updated_at: '2026-09-28T17:16:49.514516+00:00'
+last_reviewed: null
 ---
 
 # Spintronic Memory and Data Storage
@@ -25,3 +27,7 @@ Israeli academic institutions, particularly Hebrew University and Bar-Ilan Unive
 Spintronics addresses a fundamental limitation of conventional electronics: as transistors shrink, charge-based devices face increasing leakage, heat dissipation, and reliability challenges. Spin-based devices offer the prospect of persistent memory (no power needed to maintain data), faster switching, and lower energy consumption. MRAM is already being commercialized, and Israeli contributions to the underlying physics have been influential.
 
 While still primarily in academic research phases, Israeli spintronics work benefits from the country's strengths in physics, materials science, and close university-industry collaboration. The technology has strategic relevance for defense applications (radiation-hard memory for satellites and military systems) and for the broader semiconductor roadmap beyond conventional CMOS scaling.
+
+## Sources
+
+- [https://innovationisrael.org.il/en/press_release/innovation-report-2025/](https://innovationisrael.org.il/en/press_release/innovation-report-2025/)

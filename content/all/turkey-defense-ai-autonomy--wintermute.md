@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855562/wintermute/technologies/657a923e-fc00-4b6d-8a38-436b7dbc5456-google-gemini-3.1-flash-image-preview-wxtfzd.jpg
+updated_at: '2026-09-28T17:16:58.53961+00:00'
+last_reviewed: null
 ---
 
 # Defense AI & Autonomous Systems
@@ -26,3 +28,8 @@ Turkey has developed significant capability in defense artificial intelligence a
 The autonomous close-formation flight of jet-powered Kizilelma drones in early 2026 demonstrated multi-agent AI coordination at fighter-jet speeds — a capability that the US and China are pursuing in parallel but have not yet publicly demonstrated with jet-powered combat aircraft. The real-time processing of AESA radar data, electro-optical sensor feeds, and electronic warfare signals requires sophisticated AI inference at the edge, which Turkish engineers are developing through iterative testing and combat validation.
 
 Turkey's advantage in defense AI is not algorithmic sophistication but data-driven refinement through combat operations. While US and Chinese AI research labs may develop more advanced fundamental algorithms, Turkey's systems have been optimized against real adversary behavior, electronic warfare environments, and target signatures — training data that exercises cannot replicate. This combat-validated AI creates a competitive moat that grows with each operational deployment.
+
+## Sources
+
+- [https://www.trtworld.com/article/b355fdceeb63](https://www.trtworld.com/article/b355fdceeb63)
+- [https://www.armyrecognition.com/news/aerospace-news/2025/f-16-fighter-jet-outmatched-by-tuerkiyes-kizilelma-drone-in-successful-unmanned-air-combat-test](https://www.armyrecognition.com/news/aerospace-news/2025/f-16-fighter-jet-outmatched-by-tuerkiyes-kizilelma-drone-in-successful-unmanned-air-combat-test)

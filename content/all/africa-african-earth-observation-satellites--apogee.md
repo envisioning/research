@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810816/apogee/technologies/761e775c-ced6-450d-bfee-52b8123e9e9c-google-gemini-3.1-flash-image-preview-36d5kh.png
+updated_at: '2026-09-28T17:18:09.16528+00:00'
+last_reviewed: null
 ---
 
 # African Earth Observation Satellite Programs
@@ -26,3 +28,9 @@ African nations have collectively launched over 50 satellites, with Egypt (15), 
 Egypt's space program includes EgyptSat satellites for earth observation and the country is developing indigenous satellite manufacturing capabilities. South Africa's SumbandilaSat and subsequent missions have focused on earth observation and maritime surveillance. Kenya and Ghana have launched smaller CubeSat missions through international educational programs (GhanaSat-1 via the Joint Global Multi-Nation Birds Satellite project).
 
 The strategic priority is moving from purchasing satellites to building them domestically. Algeria and Nigeria have made the most progress through structured technology transfer programs where local engineers work alongside foreign experts, progressively taking on more of the design and manufacturing. Africa's dependence on foreign satellite data for its own agriculture, security, and environmental monitoring creates a sovereignty gap that these programs aim to close. The African Space Agency, established by the AU, is coordinating continental efforts.
+
+## Sources
+
+- [https://www.techinafrica.com/african-countries-with-satellites-full-list-uses-2026/](https://www.techinafrica.com/african-countries-with-satellites-full-list-uses-2026/)
+- [https://en.wikipedia.org/wiki/History_of_space_in_Africa](https://en.wikipedia.org/wiki/History_of_space_in_Africa)
+- [https://spacegeneration.org/regions/africa](https://spacegeneration.org/regions/africa)

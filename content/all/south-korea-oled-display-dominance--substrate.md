@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817065/substrate/technologies/8bd77f78-5302-4d74-b254-340c5231767d-google-gemini-3.1-flash-image-preview-u8s1dh.jpg
+updated_at: '2026-09-28T17:16:47.296105+00:00'
+last_reviewed: null
 ---
 
 # OLED Display Manufacturing
@@ -25,3 +27,8 @@ Samsung Display dominates small/medium OLED panels (smartphones, tablets) with o
 OLED manufacturing requires mastery of organic compound deposition, encapsulation, and backplane driving at micron-scale precision. Chinese competitors (BOE, CSOT) are gaining share in lower-end OLED, but Samsung and LG maintain technological leads in high-resolution, high-brightness panels required for flagship devices. Apple's iPhone OLED panels are exclusively Samsung and LG sourced.
 
 The display industry follows a pattern familiar in Korean tech: high capital investment creates scale advantages that make it extremely difficult for new entrants to compete on quality and cost simultaneously. Samsung Display alone has invested over $40B in OLED fabrication since 2012.
+
+## Sources
+
+- [https://www.oled-info.com/oled-market-tracker](https://www.oled-info.com/oled-market-tracker)
+- [https://www.displaysupplychain.com/report/oled-market-2025](https://www.displaysupplychain.com/report/oled-market-2025)

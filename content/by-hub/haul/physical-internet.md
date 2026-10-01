@@ -9,6 +9,8 @@ trl: 3
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887514/haul/technologies/613b6332-d955-4e42-8f3a-71d88dfef778-google-gemini-3.1-flash-image-preview-234tv0.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Physical Internet

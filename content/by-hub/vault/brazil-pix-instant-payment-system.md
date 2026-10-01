@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792709/vault/technologies/4564e666-1199-4ea1-9de4-e637cf1bb48b-google-gemini-3.1-flash-image-preview-2zx5uc.jpg
+updated_at: '2026-09-28T17:17:58.971294+00:00'
+last_reviewed: null
 ---
 
 # Pix Instant Payment System
@@ -25,3 +27,9 @@ Pix launched in November 2020 as a free, 24/7 instant payment system built and m
 The impact goes beyond payments. Cash usage collapsed from 43% (2019) to 6% (2024). Street vendors, taxi drivers, and small businesses that never had card terminals now accept Pix. Reuters projects Pix will capture 50% of Brazil's e-commerce by 2028, overtaking credit cards.
 
 What makes Pix unique: it was designed and mandated by the central bank, not by fintechs. The BCB required all banks with 500,000+ accounts to offer Pix for free. This top-down approach achieved universal adoption faster than any market-driven payment system in history. India's UPI is the closest comparison.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Pix_(payment_system)](https://en.wikipedia.org/wiki/Pix_(payment_system))
+- [https://www.pymnts.com/real-time-payments/2025/pix-turns-5-brazil-real-time-payments-shift-accelerates/](https://www.pymnts.com/real-time-payments/2025/pix-turns-5-brazil-real-time-payments-shift-accelerates/)
+- [https://www.reuters.com/world/americas/instant-payment-system-pix-poised-capture-half-brazils-e-commerce-market-by-2028-2026-02-10/](https://www.reuters.com/world/americas/instant-payment-system-pix-poised-capture-half-brazils-e-commerce-market-by-2028-2026-02-10/)

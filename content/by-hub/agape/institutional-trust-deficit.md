@@ -3,19 +3,22 @@ slug: institutional-trust-deficit
 hub: agape
 title: Institutional Trust Deficit Affecting Philanthropy
 summary: Declining public trust in institutions extending to foundations and large-scale
+  philanthropy.
 permalink: https://www.envisioning.com/agape/institutional-trust-deficit
 collection: culture-values-narratives
 trl: 2
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368507/agape/signals/institutional-trust-deficit-google-gemini-3-pro-image-preview-kl9uxm.jpg
+updated_at: '2026-10-01T09:31:09.951155+00:00'
+last_reviewed: null
 ---
 
 # Institutional Trust Deficit Affecting Philanthropy
 
 ## Summary
 
-Declining public trust in institutions extending to foundations and large-scale
+Declining public trust in institutions extending to foundations and large-scale philanthropy.
 
 ## Description
 

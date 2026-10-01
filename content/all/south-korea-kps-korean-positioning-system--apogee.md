@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816615/apogee/technologies/3553c345-665c-42df-bd45-a20cdc5775e1-google-gemini-3.1-flash-image-preview-webjda.jpg
+updated_at: '2026-09-28T17:16:42.380778+00:00'
+last_reviewed: null
 ---
 
 # Korean Positioning System (KPS)
@@ -25,3 +27,8 @@ The Korean Positioning System (KPS) is South Korea's sovereign regional navigati
 KPS addresses a critical sovereignty gap: South Korea's military, transportation, and telecommunications systems currently depend entirely on US-operated GPS. In a conflict scenario, GPS signals could be jammed, spoofed, or selectively denied by adversaries — North Korea has already conducted GPS jamming operations affecting South Korean aviation and maritime navigation. An independent PNT system eliminates this single point of failure.
 
 KPS complements the existing KASS (Korea Augmentation Satellite System), which enhances GPS accuracy to within 3 meters but remains dependent on GPS signals. KPS will provide independent sub-meter accuracy, enabling precision agriculture, autonomous driving, and military applications that cannot rely on foreign-controlled navigation. South Korea joins Japan (QZSS), India (NavIC), and China (BeiDou) in building regional alternatives to GPS dependency.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Korean_Positioning_System](https://en.wikipedia.org/wiki/Korean_Positioning_System)
+- [https://spacenews.com/south-koreas-gnss-project-to-take-off-with-3-3-billion-budget/](https://spacenews.com/south-koreas-gnss-project-to-take-off-with-3-3-billion-budget/)

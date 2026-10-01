@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813505/spore/technologies/fcbe4c0e-22d2-42b8-bf88-c0a157355799-google-gemini-3.1-flash-image-preview-o33mmj.png
+updated_at: '2026-09-28T17:16:26.820742+00:00'
+last_reviewed: null
 ---
 
 # HB4 Drought-Resistant Wheat Technology
@@ -26,3 +28,9 @@ HB4 wheat is the world's first genetically modified drought-tolerant wheat varie
 Approved for commercial cultivation in Argentina in 2020 and for import by Brazil in 2021, HB4 wheat represents a breakthrough in a crop that has resisted genetic modification far longer than corn and soybean. The technology maintains 20-30% higher yields under drought stress compared to conventional varieties, without yield penalty under normal conditions. Argentina's progressive biotech regulatory framework enabled commercial deployment faster than would be possible in most other major wheat-producing countries.
 
 The global strategic significance is immense: wheat feeds more people than any other crop, and drought is the primary yield-limiting factor worldwide. If HB4 wheat is adopted across Argentina's 6+ million hectares of wheat cultivation and licensed to other wheat-producing regions, it could meaningfully improve global food security. The technology demonstrates that Argentine agricultural biotechnology is not merely adapting foreign innovations but creating world-first solutions with global applications.
+
+## Sources
+
+- [https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/argentina-crops-food/](https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/argentina-crops-food/)
+- [https://fas.usda.gov/data/argentina-agricultural-biotechnology-annual-0](https://fas.usda.gov/data/argentina-agricultural-biotechnology-annual-0)
+- [https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology+and+Other+New+Production+Technologies+Annual_Buenos+Aires_Argentina_AR2025-0022.pdf](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology+and+Other+New+Production+Technologies+Annual_Buenos+Aires_Argentina_AR2025-0022.pdf)

@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774800198/apogee/technologies/10f31013-a133-4398-8ed1-24a7366c4f6e-google-gemini-3.1-flash-image-preview-1o22es.jpg
+updated_at: '2026-09-28T17:18:00.841913+00:00'
+last_reviewed: null
 ---
 
 # Bharatiya Antariksh Station (Indian Space Station)
@@ -25,3 +27,9 @@ The Bharatiya Antariksh Station (BAS) is India's planned indigenous space statio
 Only three entities have operated space stations: the Soviet Union/Russia (Salyut, Mir, ISS participation), the United States (Skylab, ISS), and China (Tiangong). India building its own space station would make it the fourth, demonstrating mastery of long-duration human spaceflight, orbital assembly, resupply logistics, and closed-loop life support systems.
 
 BAS is strategically important beyond prestige. A national space station would provide a platform for microgravity research in pharmaceuticals, materials science, and biology — research that currently requires access to the ISS (controlled by Western nations) or China's Tiangong (which limits foreign access). An Indian space station would also serve as a testbed for technologies needed for deeper space missions, including India's planned lunar and Mars exploration programs.
+
+## Sources
+
+- [https://www.indiatvnews.com/science/national-space-day-2025-list-of-isro-s-upcoming-missions-as-india-celebrates-chandrayaan-3-glory-2025-08-22-1004687](https://www.indiatvnews.com/science/national-space-day-2025-list-of-isro-s-upcoming-missions-as-india-celebrates-chandrayaan-3-glory-2025-08-22-1004687)
+- [https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station](https://en.wikipedia.org/wiki/Bharatiya_Antariksh_Station)
+- [https://www.mapsofindia.com/my-india/education/from-chandrayaan-to-gaganyaan-indias-space-achievements-and-upcoming-missions-in-2025](https://www.mapsofindia.com/my-india/education/from-chandrayaan-to-gaganyaan-indias-space-achievements-and-upcoming-missions-in-2025)

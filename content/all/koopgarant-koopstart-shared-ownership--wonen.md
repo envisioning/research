@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 5
 image_url: null
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Koopgarant / Koopstart (Shared Ownership)

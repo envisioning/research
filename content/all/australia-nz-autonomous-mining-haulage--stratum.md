@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858676/stratum/technologies/9bbbcf56-2602-4ea7-8e90-accfb3656465-google-gemini-3.1-flash-image-preview-hss4np.jpg
+updated_at: '2026-09-28T17:16:21.50703+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Mining Haulage Systems
@@ -26,3 +28,9 @@ Australia's iron ore mines in Western Australia's Pilbara region are the global 
 The technology delivers approximately 15% productivity improvement through elimination of shift changes, breaks, and fatigue-related slowdowns, while significantly reducing safety incidents. Australia's remoteness, labor costs, and mine scale created the perfect conditions for autonomous haulage adoption, making the Pilbara a proving ground that has exported operational practices globally. Autonomous drilling rigs, with 50 cable and battery-electric units ordered under a separate A$350M deal, extend automation below the surface.
 
 Australia's leadership in autonomous mining is strategically significant because it demonstrates that automation can be deployed at scale in harsh, remote environments — a capability directly transferable to defense logistics, agricultural robotics, and space resource extraction. The integration of battery-electric powertrains with autonomous control represents a convergence that could eliminate diesel from surface mining entirely within a decade, fundamentally altering the emissions profile of Australia's largest export industry.
+
+## Sources
+
+- [https://www.bbc.com/news/articles/cgej7gzg8l0o](https://www.bbc.com/news/articles/cgej7gzg8l0o)
+- [https://discoveryalert.com.au/automation-mining-2025-emerging-paradigm-adoption/](https://discoveryalert.com.au/automation-mining-2025-emerging-paradigm-adoption/)
+- [https://www.mining-technology.com/features/australia-a-testbed-for-automated-surface-equipment/](https://www.mining-technology.com/features/australia-a-testbed-for-automated-surface-equipment/)

@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058612/threads/technologies/piezoelectric-energy-harvesting-yarns-gemini-3-pro-66xq8p.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Piezoelectric Energy Harvesting Yarns

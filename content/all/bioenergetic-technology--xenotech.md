@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897344/xenotech/technologies/bioenergetic-technology-openrouter-google-gemini-3.1-flash-image-preview-ccstqy.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Bioenergetic Technology
@@ -45,3 +47,9 @@ The systems typically involve electromagnetic field generators, biofield sensors
 ## Current Status
 
 While bioenergetic technology represents an emerging field combining established biofeedback principles with advanced electromagnetic instrumentation, clinical validation remains limited. The technology operates at the intersection of traditional energy medicine concepts and modern electromagnetic therapy research, requiring further scientific validation for widespread medical acceptance.
+
+## Sources
+
+- [Science – Biofield PEMF](https://biofieldpemf.com/science) (2026)
+- [Biomatrix Scan: A Scientific and Holistic Evaluation Tool for Human Biofield Analysis](https://sciref.light-mandalas.com/bms/Biomatrix%20Scan%20A%20Scientific%20and%20Holistic%20Evaluation%20Tool%20for%20Human%20Biofield%20Analysis.pdf) (2025)
+- [NLS bioresonance: a technology of the future for information medicine](https://www.biospect.net/en/nls-bioresonance-a-technology-of-the-future-for-information-medicine-2) (2025)

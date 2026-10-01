@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793426/apogee/technologies/a6e1fb86-7185-4cee-a964-c839922dee7f-google-gemini-3.1-flash-image-preview-315cwz.png
+updated_at: '2026-09-28T17:16:39.213368+00:00'
+last_reviewed: null
 ---
 
 # E-Jet E2 Regional Aircraft
@@ -25,3 +27,8 @@ Embraer's E195-E2 fills a gap between small regional jets and large narrowbodies
 The E-Jet family has sold over 1,800 aircraft to 100+ airlines in 50+ countries, making Embraer the world's third-largest aircraft manufacturer after Airbus and Boeing. The E2 generation adds new wings, engines (P&W GTF), and avionics while maintaining the type rating — pilots can switch with minimal retraining.
 
 The strategic significance: Brazil builds commercial aircraft. This is a capability shared by only four countries (US, France/Germany via Airbus, Brazil, China). Embraer's ability to design, certify, manufacture, and support global fleets is a national industrial asset that took 50 years to develop.
+
+## Sources
+
+- [https://simpleflying.com/latam-embraer-e2-order/](https://simpleflying.com/latam-embraer-e2-order/)
+- [https://readyfortakeoffbook.com/blogs/aircraft-type/embraer-e195-e2](https://readyfortakeoffbook.com/blogs/aircraft-type/embraer-e195-e2)

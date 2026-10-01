@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807330/substrate/technologies/1fc6d77d-66f5-4e28-9f1c-27fdf76bf654-google-gemini-3.1-flash-image-preview-kqcp0l.jpg
+updated_at: '2026-09-28T17:18:01.259175+00:00'
+last_reviewed: null
 ---
 
 # Micron Technology Assembly and Test Facility
@@ -26,3 +28,9 @@ Micron Technology is building a $2.75 billion semiconductor assembly and test fa
 While assembly and test is not the same as wafer fabrication, it's a critical step in the semiconductor supply chain and one of the highest-value-add steps after fabrication. Micron's facility will process memory chips (DRAM and NAND), packaging them into final products for sale. It creates thousands of jobs and, crucially, trains an Indian workforce in semiconductor manufacturing processes.
 
 Micron's decision to invest in India validates the country's semiconductor ambitions and could catalyze further investment from other global chipmakers. The facility is part of a broader pattern: US companies are diversifying their semiconductor supply chains away from concentrated dependence on East Asia. India offers a democratic, English-speaking alternative with strong existing relationships with the US tech industry.
+
+## Sources
+
+- [https://www.crnasia.com/news/2025/components-and-peripherals/india-set-to-begin-commercial-chip-production-by-end-2025](https://www.crnasia.com/news/2025/components-and-peripherals/india-set-to-begin-commercial-chip-production-by-end-2025)
+- [https://carnegieendowment.org/research/2025/08/indias-semiconductor-mission-the-story-so-far](https://carnegieendowment.org/research/2025/08/indias-semiconductor-mission-the-story-so-far)
+- [https://www.blackridgeresearch.com/blog/latest-list-top-semiconductor-chip-wafer-manufacturing-fabrication-plant-facility-projects-in-india](https://www.blackridgeresearch.com/blog/latest-list-top-semiconductor-chip-wafer-manufacturing-fabrication-plant-facility-projects-in-india)

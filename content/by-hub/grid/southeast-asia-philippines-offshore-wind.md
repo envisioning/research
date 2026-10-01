@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816097/grid/technologies/cc938eca-45e7-4e28-a3b9-637a45e75390-google-gemini-3.1-flash-image-preview-zhpzh2.jpg
+updated_at: '2026-09-28T17:17:44.764837+00:00'
+last_reviewed: null
 ---
 
 # Offshore Wind Energy Development
@@ -26,3 +28,8 @@ Philippines — The Philippines has assessed offshore wind potential of 178 GW, 
 The offshore wind push addresses two Philippine challenges simultaneously: energy security (the country imports >50% of its primary energy) and clean energy transition (current electricity is heavily coal-dependent). The 2022 liberalization of foreign ownership rules for renewable energy projects removed a key investment barrier.
 
 The challenge is infrastructure: the Philippines lacks port facilities, installation vessels, and subsea cable manufacturing capacity needed for offshore wind at scale. Typhoon resilience adds engineering complexity — turbines must withstand Category 5 winds that are routine in the Philippine Sea. If the industry solves tropical-typhoon offshore wind engineering, the solution applies to Taiwan, southern Japan, and potentially Vietnam's coastline.
+
+## Sources
+
+- [https://reccessary.com/en/news/philippines-geothermal-policy-reform](https://reccessary.com/en/news/philippines-geothermal-policy-reform)
+- [https://cleantechnica.com/2025/11/09/renewable-energy-infrastructure-resilience-tested-as-a-supertyphoon-approaches-the-philippines/](https://cleantechnica.com/2025/11/09/renewable-energy-infrastructure-resilience-tested-as-a-supertyphoon-approaches-the-philippines/)

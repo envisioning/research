@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815593/polis/technologies/78730c2f-ac3c-4d36-b09f-da6c464ecbb5-google-gemini-3.1-flash-image-preview-im24j8.jpg
+updated_at: '2026-09-28T17:16:38.52399+00:00'
+last_reviewed: null
 ---
 
 # National-Scale Urban Digital Twin
@@ -26,3 +28,7 @@ Singapore — Virtual Singapore is a national-scale 3D digital twin that models 
 Developed by the National Research Foundation and operated by the Singapore Land Authority, Virtual Singapore represents the world's most comprehensive national digital twin. Architects test building designs against wind corridors, city planners simulate population growth scenarios, and emergency services model evacuation routes for specific disaster types.
 
 The technology export potential is significant: as cities worldwide pursue smart city agendas, Singapore's operational digital twin — with 20+ years of accumulated data and validated models — serves as both a proof of concept and a licensing opportunity. The platform's integration with 5G, IoT, and AI creates an exportable urban management stack that cities from Riyadh to Mumbai are seeking to replicate.
+
+## Sources
+
+- [https://www.nscc.sg/](https://www.nscc.sg/)

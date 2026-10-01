@@ -11,6 +11,8 @@ trl: 4
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818638/grid/technologies/4768ada6-059c-42f8-b933-c92037836088-google-gemini-3.1-flash-image-preview-b5qix3.jpg
+updated_at: '2026-09-28T17:18:19.52719+00:00'
+last_reviewed: null
 ---
 
 # Next-Generation Nuclear Reactor Development
@@ -26,3 +28,8 @@ Japan Atomic Energy Agency (JAEA) operates the High Temperature Engineering Test
 Small modular reactor (SMR) development is gaining momentum with Mitsubishi Heavy Industries exploring designs for factory-built, transportable reactors. Japan's existing nuclear regulatory framework and extensive operating experience provide a foundation for next-generation reactor licensing. The government's 2024 energy policy update explicitly supports next-generation nuclear technologies alongside the restart of existing plants.
 
 The strategic logic connects nuclear with hydrogen: Japan's hydrogen economy requires massive hydrogen production, and nuclear-powered hydrogen (via high-temperature electrolysis or thermochemical splitting) could be cheaper and more reliable than renewable-powered electrolysis. If Japan successfully couples next-generation nuclear reactors with hydrogen production, it creates a domestic, carbon-free energy-to-fuel pathway independent of weather variability or imported fossil fuels.
+
+## Sources
+
+- [https://www.nippon.com/en/in-depth/d01195/](https://www.nippon.com/en/in-depth/d01195/)
+- [https://world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power](https://world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power)

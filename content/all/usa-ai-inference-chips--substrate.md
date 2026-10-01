@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861787/substrate/technologies/d06fa6e5-b70f-4bb7-82e6-c4be56cf08fe-google-gemini-3.1-flash-image-preview-u7elfv.png
+updated_at: '2026-09-28T17:18:35.851854+00:00'
+last_reviewed: null
 ---
 
 # Custom AI Inference Accelerators
@@ -26,3 +28,8 @@ As AI deployment shifts from training to inference, a new class of purpose-built
 The pivot to inference optimization matters because inference accounts for 80-90% of AI compute costs in production. As AI agents run continuously rather than answering one-off questions, the economics of inference become the binding constraint on AI deployment. Inference-optimized chips can be 10x more cost-effective than repurposed training GPUs for serving models.
 
 This diversification of the AI chip ecosystem reduces NVIDIA's monopoly and creates space for US-based startups and hyperscalers to capture value. It also has strategic implications: inference chips are less restricted by export controls than training accelerators, creating a potential pathway for wider global AI access while maintaining the US training advantage.
+
+## Sources
+
+- [https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/compute-power-ai.html](https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/compute-power-ai.html)
+- [https://builtin.com/articles/future-of-data-centers-ai](https://builtin.com/articles/future-of-data-centers-ai)

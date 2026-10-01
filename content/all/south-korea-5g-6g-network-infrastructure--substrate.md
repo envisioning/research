@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816436/substrate/technologies/20311af5-6254-4e4a-bacd-f6410f94c9bb-google-gemini-3.1-flash-image-preview-mwr6xj.png
+updated_at: '2026-09-28T17:17:38.770649+00:00'
+last_reviewed: null
 ---
 
 # 5G/6G Network Infrastructure
@@ -26,3 +28,8 @@ South Korea became the first country to launch commercial 5G services in April 2
 Korea's 5G deployment serves as a national testbed for applications that other countries are still theorizing about: cloud gaming, AR navigation, smart factory connectivity, autonomous vehicle communication, and real-time holographic calls. The high subscriber density provides Korean companies with real-world data and usage patterns that inform next-generation network design.
 
 The 6G research program, coordinated by the Ministry of Science and ICT, targets 2030 commercialization with peak data rates of 1 Tbps (50x faster than 5G), sub-millisecond latency, and support for holographic communication. Samsung Research has demonstrated sub-terahertz wireless links, and KAIST is developing 6G-native AI architectures. Korea aims to set international 6G standards, as it did for 5G, leveraging first-mover deployment to influence global specifications.
+
+## Sources
+
+- [https://www.samsung.com/global/business/networks/insights/6g-research/](https://www.samsung.com/global/business/networks/insights/6g-research/)
+- [https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2030/Pages/default.aspx](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2030/Pages/default.aspx)

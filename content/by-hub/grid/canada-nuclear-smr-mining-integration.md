@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871461/grid/technologies/a659d7c1-8576-4741-b7a2-b1a6d7a8432d-google-gemini-3.1-flash-image-preview-77wrq1.jpg
+updated_at: '2026-09-28T17:16:31.528006+00:00'
+last_reviewed: null
 ---
 
 # Nuclear-Powered Remote Mining
@@ -26,3 +28,8 @@ A key application of Canada's SMR program is providing clean, reliable power to 
 This application matters because it solves two problems simultaneously: decarbonizing mining operations (a growing requirement from ESG-conscious investors and customers) and reducing the astronomical energy costs that make many Northern mineral deposits uneconomic. A single SMR could power a mine for decades without fuel resupply, transforming the economics of remote resource extraction.
 
 The strategic convergence of clean energy and critical minerals is perhaps Canada's single most powerful innovation narrative. By combining indigenous SMR technology with vast untapped mineral reserves, Canada can offer the world ethically sourced, cleanly produced critical minerals — a proposition that directly competes with Chinese supply chains built on coal power and less stringent environmental standards.
+
+## Sources
+
+- [https://natural-resources.canada.ca/energy-sources/nuclear-energy-uranium/small-modular-reactors-smrs-mining](https://natural-resources.canada.ca/energy-sources/nuclear-energy-uranium/small-modular-reactors-smrs-mining)
+- [https://smractionplan.ca/content/government-canada](https://smractionplan.ca/content/government-canada)

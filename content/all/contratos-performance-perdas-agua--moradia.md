@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584891/habitacao/technologies/contratos-performance-perdas-agua-google-gemini-3-pro-image-preview-zrk12y.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Contratos por Performance para Redução de Perdas de Água
@@ -25,3 +27,7 @@ Contratos por performance para redução de perdas de água representam uma muda
 O principal desafio que esses contratos endereçam é o desalinhamento histórico de incentivos no setor de saneamento, onde fornecedores eram remunerados por atividades realizadas independentemente dos resultados alcançados. Esse modelo tradicional criava pouco estímulo para inovação ou eficiência, perpetuando taxas elevadas de perdas que em muitas cidades brasileiras ultrapassam 40% da água produzida. Contratos por performance transferem parte do risco de investimento para o fornecedor, que só recebe pagamento integral mediante comprovação de resultados, criando forte motivação para aplicar as melhores tecnologias e práticas disponíveis. No contexto do Marco Legal do Saneamento brasileiro, que estabeleceu metas ambiciosas de universalização e eficiência, esses arranjos contratuais viabilizam investimentos significativos em infraestrutura e tecnologia sem comprometer imediatamente os orçamentos municipais. O compartilhamento de riscos permite que operadores acessem expertise técnica e capital que de outra forma seriam inacessíveis, enquanto fornecedores ganham oportunidades de contratos de longo prazo com receitas previsíveis atreladas a desempenho comprovado.
 
 Embora ainda em estágios iniciais de adoção no Brasil, contratos por performance já demonstram resultados em programas piloto e concessões recentes, onde reduções de 10 a 20 pontos percentuais em perdas foram alcançadas em períodos de dois a três anos. Aplicações práticas incluem parcerias público-privadas para modernização de redes em regiões metropolitanas, contratos de operação e manutenção com metas de eficiência em cidades médias, e arranjos de compartilhamento de economias onde ganhos financeiros da redução de perdas são divididos entre operador e fornecedor. A tendência aponta para sofisticação crescente desses modelos, incorporando inteligência artificial para detecção preditiva de vazamentos, blockchain para registro imutável de medições, e estruturas de pagamento cada vez mais granulares que recompensam não apenas resultados finais mas também marcos intermediários. À medida que o setor de saneamento brasileiro amadurece sob o novo marco regulatório, contratos por performance tendem a se tornar padrão em vez de exceção, transformando fundamentalmente a relação entre risco, investimento e resultado na gestão hídrica urbana.
+
+## Sources
+
+- [Reducing the Energy Consumption of a Water Supply System Through a Performance Contract to Reduce Water Leakage](https://rgsa.openaccesspublications.org/rgsa/article/download/14232/8266/46973) (2026)

@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: null
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Speech Recognition

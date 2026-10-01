@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856321/wintermute/technologies/dd17aafb-8c50-47a0-a18a-24cc85e0013a-google-gemini-3.1-flash-image-preview-osm6ai.png
+updated_at: '2026-09-28T17:16:27.366993+00:00'
+last_reviewed: null
 ---
 
 # National Artificial Intelligence Strategy
@@ -26,3 +28,9 @@ Turkey's National Artificial Intelligence Strategy (NAIS) 2021-2025, aligned wit
 The Turkish AI ecosystem is emerging but faces structural challenges including insufficient venture capital compared to global leaders, brain drain to Silicon Valley and Europe, and limited access to advanced AI compute infrastructure. However, Turkey's large engineering workforce (400,000+ engineering graduates annually), competitive labor costs, and growing defense AI applications create a foundation for specialized AI capability development.
 
 The MEXT innovation center, a partnership between MESS (Turkish metalworking employers' association) and McKinsey, has reached over 650 companies with digital and AI transformation programs. Turkey's AI strength is more in applied AI — autonomous systems for defense, industrial automation, and smart city applications — than in foundational model development, reflecting a pragmatic approach to the technology.
+
+## Sources
+
+- [https://turkey-enterpriseai.com/](https://turkey-enterpriseai.com/)
+- [https://www.mckinsey.com/about-us/new-at-mckinsey-blog/accelerating-digital-and-ai-transformation-in-turkish-manufacturing](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/accelerating-digital-and-ai-transformation-in-turkish-manufacturing)
+- [https://www.advantisconseils.com/a-cultural-shift-tuerkiyes-ai-momentum-gains-global-recognition](https://www.advantisconseils.com/a-cultural-shift-tuerkiyes-ai-momentum-gains-global-recognition)

@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774862008/forge/technologies/ee045660-4190-4eba-9472-83271d2e90b6-google-gemini-3.1-flash-image-preview-t0x5i7.jpg
+updated_at: '2026-09-28T17:18:36.342478+00:00'
+last_reviewed: null
 ---
 
 # Generative AI for Materials Discovery
@@ -26,3 +28,8 @@ Generative AI for materials design uses machine learning to predict the properti
 Materials discovery has historically been slow, serendipitous, and expensive. Testing a single new alloy composition can take months of synthesis, characterization, and performance evaluation. AI models can screen millions of candidates computationally, identifying the most promising for physical testing and reducing the discovery cycle from years to weeks.
 
 The US benefits from its network of national laboratories and university materials science programs, which provide both the training data and experimental validation capabilities that AI-driven discovery requires. Accelerated materials innovation has implications across every technology sector — better batteries, lighter aircraft, more efficient solar cells, and stronger construction materials all depend on new materials.
+
+## Sources
+
+- [https://intuitionlabs.ai/articles/latest-ai-research-trends-2025](https://intuitionlabs.ai/articles/latest-ai-research-trends-2025)
+- [https://startupgenome.com/library/the-geography-of-innovation-the-us-grows-its-lead-in-frontier-technology](https://startupgenome.com/library/the-geography-of-innovation-the-us-grows-its-lead-in-frontier-technology)

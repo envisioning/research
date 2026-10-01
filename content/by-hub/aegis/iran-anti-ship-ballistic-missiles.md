@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872454/aegis/technologies/1c366f71-ae27-43c9-8d2b-ef65f914efca-google-gemini-3.1-flash-image-preview-k6982d.jpg
+updated_at: '2026-09-28T17:17:15.19697+00:00'
+last_reviewed: null
 ---
 
 # Anti-Ship Ballistic Missile Technology
@@ -25,3 +27,9 @@ The Khalij Fars (Persian Gulf) missile represents Iran's entry into the exclusiv
 The ASBM capability addresses Iran's core strategic challenge: deterring carrier strike groups and other large naval formations in the Persian Gulf and Strait of Hormuz. Combined with anti-ship cruise missiles, fast attack boats, and naval mines, ASBMs create a layered anti-access/area-denial (A2/AD) threat that raises the cost and risk of naval operations near Iranian waters. The system's guidance approach — using electro-optical terminal homing against moving targets — is technically demanding, and independent verification of its effectiveness against defended, maneuvering warships remains limited.
 
 The strategic significance extends beyond the immediate military domain. The existence of credible ASBM capability influences maritime insurance rates, shipping patterns, and crisis decision-making throughout the Persian Gulf. Iran has demonstrated willingness to use this implied threat as diplomatic leverage, and the capability has prompted US Navy investments in counter-ASBM defenses and concept-of-operations adjustments.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Persian_Gulf_(missile)](https://en.wikipedia.org/wiki/Persian_Gulf_(missile))
+- [https://www.iranwatch.org/our-publications/articles-reports/leveling-field-irans-asymmetric-use-conventional-military-capabilities](https://www.iranwatch.org/our-publications/articles-reports/leveling-field-irans-asymmetric-use-conventional-military-capabilities)
+- [https://www.armyrecognition.com/news/army-news/2026/iran-builds-layered-missile-and-mine-shield-against-u-s-carriers-in-strait-of-hormuz](https://www.armyrecognition.com/news/army-news/2026/iran-builds-layered-missile-and-mine-shield-against-u-s-carriers-in-strait-of-hormuz)

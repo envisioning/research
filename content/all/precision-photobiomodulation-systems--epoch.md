@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882258/epoch/technologies/02f201cc-01ff-43c1-9f49-93753630b6b0-google-gemini-3.1-flash-image-preview-dng9ij.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Precision Photobiomodulation Systems

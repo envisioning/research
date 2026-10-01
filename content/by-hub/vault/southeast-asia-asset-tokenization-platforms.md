@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815489/vault/technologies/722fa570-541c-4a4e-bdcb-93fcfc7645cf-google-gemini-3.1-flash-image-preview-85us9k.png
+updated_at: '2026-09-28T17:16:39.964064+00:00'
+last_reviewed: null
 ---
 
 # Regulated Asset Tokenization
@@ -26,3 +28,9 @@ Singapore — DBS Digital Exchange (DDEx), the world's first bank-backed digital
 MAS (Monetary Authority of Singapore) has created the most sophisticated regulatory framework for digital assets in Asia, licensing exchanges, establishing custody standards, and enabling institutional participation. This regulatory clarity attracted blockchain companies that fled uncertain regulatory environments in the US and Hong Kong.
 
 For the global financial system, Singapore is proving that tokenization doesn't require permissionless chaos — regulated institutions can tokenize traditional assets on public blockchains with proper oversight. If DBS's model scales, it creates a template for how the world's $100+ trillion bond market migrates onto blockchain rails, with Singapore capturing the regulatory, technical, and operational know-how.
+
+## Sources
+
+- [https://www.dbs.com/blockchain/how-dbs-is-shaping-a-trusted-digital-asset-ecosystem.html](https://www.dbs.com/blockchain/how-dbs-is-shaping-a-trusted-digital-asset-ecosystem.html)
+- [https://www.dbs.com/newsroom/DBS_expands_blockchain_capabilities_by_tokenising_and_distributing_structured_notes](https://www.dbs.com/newsroom/DBS_expands_blockchain_capabilities_by_tokenising_and_distributing_structured_notes)
+- [https://investax.io/blog/singapore-shaping-the-next-decade-of-finance-through-asset-tokenization](https://investax.io/blog/singapore-shaping-the-next-decade-of-finance-through-asset-tokenization)

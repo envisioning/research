@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811370/grid/technologies/ebfe8f0b-b8c4-4733-b0a0-dfb294c8f6ab-google-gemini-3.1-flash-image-preview-m5rjah.jpg
+updated_at: '2026-09-28T17:16:39.294623+00:00'
+last_reviewed: null
 ---
 
 # Urban Waste-to-Energy Conversion Technology
@@ -26,3 +28,8 @@ The Reppie Waste-to-Energy facility in Addis Ababa, Ethiopia, commissioned in 20
 The dual-problem-solving nature is distinctly African: rapid urbanization generates mounting waste with no collection infrastructure, while power grids can't keep up with demand. Reppie addresses both simultaneously. Addis Ababa generates 3,000+ tonnes of waste daily, most of which previously ended up in open dumps. The facility processes nearly half of this, reducing landfill volume, methane emissions, and public health hazards while producing electricity.
 
 The facility serves as a proof of concept for other African cities facing identical challenges. Lagos, Nairobi, Kinshasa, and Dar es Salaam all struggle with waste management and energy supply. If Reppie's model can be scaled — potentially with improved technology for emissions reduction and energy recovery — it could transform Africa's urban waste crisis into an energy resource. The challenge is capital cost and operational complexity, but the Addis Ababa example demonstrates feasibility.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Reppie_waste-to-energy_plant](https://en.wikipedia.org/wiki/Reppie_waste-to-energy_plant)
+- [https://www.reuters.com/article/us-ethiopia-energy-waste-to-energy-plant-idUSKBN1KL0AK](https://www.reuters.com/article/us-ethiopia-energy-waste-to-energy-plant-idUSKBN1KL0AK)

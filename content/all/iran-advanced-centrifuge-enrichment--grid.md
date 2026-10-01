@@ -11,6 +11,8 @@ trl: 8
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872816/grid/technologies/931b11c4-ad89-41bd-8321-557d02fbc8ab-google-gemini-3.1-flash-image-preview-rdsq26.jpg
+updated_at: '2026-09-28T17:18:41.439361+00:00'
+last_reviewed: null
 ---
 
 # Advanced Gas Centrifuge Enrichment Technology
@@ -26,3 +28,9 @@ Iran has developed multiple generations of gas centrifuge technology for uranium
 The centrifuge program represents Iran's most consequential indigenous technology development from a geopolitical standpoint. Each generation of centrifuge reduces Iran's theoretical "breakout" time — the period needed to produce enough weapons-grade uranium for a nuclear device. With advanced centrifuges and existing stockpiles of 60%-enriched uranium, independent assessments place this timeline at weeks rather than months. The technology has been developed almost entirely indigenously, despite being the single most sanctioned technology program in history.
 
 The strategic implications are foundational to Middle Eastern geopolitics. Iran's enrichment capability — specifically its ability to continue advancing centrifuge technology despite decades of pressure — underlies the nuclear negotiations that have defined Western-Iranian relations since 2003. The technology also has legitimate civilian applications: fuel for research reactors, medical isotope production, and potentially future power reactor fuel. However, the dual-use nature is inescapable, and the advancing centrifuge program remains the primary driver of nuclear proliferation concerns.
+
+## Sources
+
+- [https://www.iranwatch.org/our-publications/weapon-program-background-report/irans-centrifuges-models-status](https://www.iranwatch.org/our-publications/weapon-program-background-report/irans-centrifuges-models-status)
+- [https://www.nti.org/analysis/articles/iranian-centrifuge-model-collection/](https://www.nti.org/analysis/articles/iranian-centrifuge-model-collection/)
+- [https://www.ans.org/news/article-4122/irans-use-of-advanced-enrichment-centrifuges-raises-concerns/](https://www.ans.org/news/article-4122/irans-use-of-advanced-enrichment-centrifuges-raises-concerns/)

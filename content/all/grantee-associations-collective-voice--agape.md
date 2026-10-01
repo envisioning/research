@@ -3,19 +3,22 @@ slug: grantee-associations-collective-voice
 hub: agape
 title: Grantee Associations & Collective Voice
 summary: Formation of grantee associations and collective organizing to advocate for
+  better funder practices and power balance.
 permalink: https://www.envisioning.com/agape/grantee-associations-collective-voice
 collection: organizational-forms-ecosystems
 trl: 1
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368704/agape/signals/grantee-associations-collective-voice-google-gemini-3-pro-image-preview-3r7if9.jpg
+updated_at: '2026-10-01T09:31:01.516801+00:00'
+last_reviewed: null
 ---
 
 # Grantee Associations & Collective Voice
 
 ## Summary
 
-Formation of grantee associations and collective organizing to advocate for
+Formation of grantee associations and collective organizing to advocate for better funder practices and power balance.
 
 ## Description
 

@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899056/xenotech/technologies/non-euclidean-space-navigation-openrouter-google-gemini-3.1-flash-image-preview-vd0s4a.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Non-Euclidean Space Navigation
@@ -45,3 +47,9 @@ Current research explores: gravitational wave detection and generation; theoreti
 Practical applications would include: interstellar travel through spacetime shortcuts; local navigation advantages in curved spacetime; and fundamental physics research into spacetime geometry.
 
 If achievable, non-Euclidean space navigation would revolutionize transportation by enabling shortcuts through space and time. However, fundamental physics constraints and extreme technical requirements make practical implementation highly speculative.
+
+## Sources
+
+- [Looping back to the past through free fall in a controlled warp drive spacetime](https://arxiv.org/pdf/2407.18993) (2025)
+- [Looping back to the past through free fall in a controlled warp drive spacetime](https://arxiv.org/abs/2407.18993) (2025)
+- [Wormholes](https://ericroth.org/my-interests/wormholes) (2025)

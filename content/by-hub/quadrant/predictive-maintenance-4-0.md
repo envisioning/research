@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127152/quadrant/technologies/predictive-maintenance-4-0-google-gemini-3-pro-image-preview-g7etsy.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Predictive Maintenance 4.0

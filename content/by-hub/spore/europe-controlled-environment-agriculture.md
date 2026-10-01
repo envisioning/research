@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852860/spore/technologies/3a42b550-22c0-41e7-9ed1-41c074f8e2c4-google-gemini-3.1-flash-image-preview-wtv3yj.jpg
+updated_at: '2026-09-28T17:16:42.541967+00:00'
+last_reviewed: null
 ---
 
 # Controlled Environment Agriculture
@@ -26,3 +28,9 @@ The Netherlands operates the world's most advanced controlled environment agricu
 The Westland greenhouse cluster near The Hague concentrates 80+ km² of glass greenhouses into a single agro-industrial complex, making the Netherlands the world's second-largest agricultural exporter (after the US) despite being 237 times smaller. The technology stack includes LED grow lights tuned to photosynthetically active wavelengths, AI-driven climate computers, robotic harvesting systems, and closed-loop water recycling. Dutch greenhouse companies export complete turnkey systems to the Middle East, Africa, and Asia.
 
 The strategic significance extends beyond food production: Dutch CEA technology represents a climate adaptation pathway. As temperatures rise, water becomes scarce, and arable land degrades globally, controlled environment systems that can produce food anywhere — deserts, cities, arctic regions — become critical infrastructure. The Dutch Greenhouse Delta foundation actively promotes technology transfer, positioning the Netherlands as the global supplier of food production technology in a climate-stressed world.
+
+## Sources
+
+- [https://www.tue.nl/en/news-and-events/news-overview/01-12-2025-the-netherlands-as-a-leader-in-agricultural-technology](https://www.tue.nl/en/news-and-events/news-overview/01-12-2025-the-netherlands-as-a-leader-in-agricultural-technology)
+- [https://www.skytopstrategies.com/headline-articles/agritech-innovation-in-the-netherlands-worldwide-impact](https://www.skytopstrategies.com/headline-articles/agritech-innovation-in-the-netherlands-worldwide-impact)
+- [https://www.wur.nl/en/research/plant/future-proof-greenhouse-horticulture](https://www.wur.nl/en/research/plant/future-proof-greenhouse-horticulture)

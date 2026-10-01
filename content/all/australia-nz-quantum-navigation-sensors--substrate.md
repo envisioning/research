@@ -11,6 +11,8 @@ trl: 4
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858280/substrate/technologies/5779d487-693a-4139-8545-fbf44b5b52c4-google-gemini-3.1-flash-image-preview-i5gaja.jpg
+updated_at: '2026-09-28T17:18:31.216177+00:00'
+last_reviewed: null
 ---
 
 # Quantum-Grade Navigation Sensors
@@ -26,3 +28,8 @@ Australian quantum technology companies, including Q-CTRL (quantum control softw
 GPS dependence is a critical vulnerability for military platforms (submarines, aircraft in contested environments) and industrial systems (underground mining, deep-sea operations). Quantum inertial navigation units measure acceleration and rotation with atomic-clock precision, accumulating position data that doesn't drift as rapidly as classical inertial sensors. For Australia's submarine fleet — which must navigate underwater for months without surfacing or emitting signals — quantum navigation could be transformational.
 
 The convergence of AUKUS submarine requirements, autonomous mining in GPS-denied underground environments, and Australia's existing quantum computing research base creates a unique demand signal for quantum navigation technology. Cicada Innovations' Tech23 2025 cohort specifically highlighted quantum-grade navigation for aerospace as a priority. The technology bridges academic quantum research and commercial/defense applications, potentially becoming Australia's first quantum technology export.
+
+## Sources
+
+- [https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/](https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/)
+- [https://www.cicadainnovations.com/cicada-x-tech23](https://www.cicadainnovations.com/cicada-x-tech23)

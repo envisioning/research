@@ -9,6 +9,8 @@ trl: 4
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583524/habitacao/technologies/tubulacao-nao-destrutiva-hdd-pipe-bursting-google-gemini-3-pro-image-preview-rwrsy8.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Infraestrutura de Redes de Fluxo de Nova Geração
@@ -24,3 +26,8 @@ Infraestrutura de redes de fluxo de nova geração representa a transformação 
 No Brasil, essa integração é especialmente relevante dado o grande desafio de perdas de água, necessidade de reduzir custos operacionais e minimizar impacto urbano em áreas densas. A tecnologia está sendo adotada em obras novas e reabilitação de redes existentes, especialmente relevante onde escavação aberta causa grandes disrupções e onde perdas de água são críticas. Materiais avançados reduzem perdas e aumentam durabilidade, enquanto métodos não-destrutivos minimizam congestionamento, danos a pavimentos e conflitos com outras redes.
 
 O sinal de mudança é estrutural: no futuro, redes de fluxo não são apenas sobre materiais ou métodos isolados, mas sobre sistemas integrados que combinam materiais avançados com métodos de instalação não-destrutivos. Isso move de 'materiais tradicionais + instalação destrutiva' para 'materiais avançados + instalação não-destrutiva', criando novos padrões de qualidade para infraestrutura de saneamento que reduzem perdas, aumentam durabilidade e minimizam impacto urbano, especialmente relevante onde universalização precisa ser alcançada com menor desperdício e menor disrupção urbana.
+
+## Sources
+
+- [Com método não destrutivo inédito no município, Semae vai trocar 19,7km de rede e adutoras em Santa Terezinha](https://piracicaba.sp.gov.br/noticias/com-metodo-nao-destrutivo-inedito-no-municipio-semae-vai-trocar-197km-de-rede-e-adutoras-em-santa-terezinha) (2025)
+- [Copasa contrata método inovador que vai reduzir transtornos na cidade durante manutenções](https://news.copasa.com.br/copasa-contrata-metodo-inovador-que-vai-reduzir-transtornos-na-cidade-durante-manutencoes) (2025)

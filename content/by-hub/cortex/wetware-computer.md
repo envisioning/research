@@ -9,6 +9,8 @@ trl: 3
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898390/cortex/technologies/b7ce376c-3e43-4d6d-83af-9bdf808fab9a-google-gemini-3.1-flash-image-preview-e6w24w.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Wetware Computer

@@ -10,6 +10,8 @@ trl: 9
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792987/apogee/technologies/5d1fb9b7-8904-4b27-9ec3-f360f17e77f8-google-gemini-3.1-flash-image-preview-c8709s.jpg
+updated_at: '2026-09-28T17:16:52.337438+00:00'
+last_reviewed: null
 ---
 
 # SGDC Sovereign Communications Satellite
@@ -25,3 +27,8 @@ The Geostationary Satellite for Defense and Strategic Communications (SGDC-1), l
 Brazil's vast territory — including the Amazon basin where terrestrial infrastructure is impractical — makes sovereign satellite communications strategically critical. Without SGDC, military and government communications in remote regions would depend entirely on foreign satellite operators. The X-band transponders provide jam-resistant, encrypted links that cannot be controlled or monitored by foreign powers.
 
 SGDC represents one of very few sovereign dual-use geostationary programs outside major space powers. The program builds domestic expertise in satellite operations and signals processing, even though the satellites themselves were manufactured abroad (Thales Alenia Space). SGDC-2, with greater domestic content, aims to reduce this dependency further. The program is managed by Telebras and the Ministry of Defense.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/SGDC-2](https://en.wikipedia.org/wiki/SGDC-2)
+- [https://www.airforce-technology.com/projects/geostationary-defense-and-strategic-communications-satellite-sgdc/](https://www.airforce-technology.com/projects/geostationary-defense-and-strategic-communications-satellite-sgdc/)

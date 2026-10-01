@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124916/continuum/technologies/closed-loop-life-support-google-gemini-3-pro-image-preview-qh95fb.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Closed-Loop Life Support (ECLSS)

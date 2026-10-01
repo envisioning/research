@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221258/atlas/technologies/indigenous-data-sovereignty-google-gemini-3-pro-image-preview-wfmp7m.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Data Sovereignty

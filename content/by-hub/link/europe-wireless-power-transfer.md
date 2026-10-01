@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853445/link/technologies/742a2eb3-ce3f-40f6-bd19-680507b269d7-google-gemini-3.1-flash-image-preview-w2zsmn.jpg
+updated_at: '2026-09-28T17:16:40.660768+00:00'
+last_reviewed: null
 ---
 
 # Wireless Power Transfer
@@ -25,3 +27,7 @@ Willo is developing wireless power transfer technology that delivers electricity
 The technology matters most for robotics and autonomous systems: robots that can charge themselves without human intervention by driving over or near a charging pad can operate 24/7. For warehouse robots, delivery drones, and industrial inspection systems, wireless charging eliminates the biggest operational bottleneck — the need for a human to plug in a cable.
 
 Wireless power is also critical for European infrastructure: embedded road charging for electric vehicles, wireless sensor networks for smart cities, and cable-free charging stations that survive harsh weather without mechanical wear. The technology builds on European strength in power electronics (Infineon, STMicroelectronics) and addresses the practical deployment challenges that limit automation in real-world environments.
+
+## Sources
+
+- [https://tech.eu/2026/01/09/europes-startups-go-the-last-mile-at-ces/](https://tech.eu/2026/01/09/europes-startups-go-the-last-mile-at-ces/)

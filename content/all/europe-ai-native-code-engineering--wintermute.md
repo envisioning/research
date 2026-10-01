@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774854169/wintermute/technologies/f3200a98-0d63-4249-8d9f-2085da73701c-google-gemini-3.1-flash-image-preview-87a4ci.jpg
+updated_at: '2026-09-28T17:16:40.249753+00:00'
+last_reviewed: null
 ---
 
 # AI-Native Code Engineering
@@ -25,3 +27,7 @@ Poolside (Paris/San Francisco, founded by former GitHub CTO Jason Warner) is bui
 The $500M Series B (October 2024, estimated $3B valuation) made Poolside one of the most well-funded AI startups globally. The technical insight is that code has a uniquely verifiable feedback signal: it either works or it doesn't. This makes reinforcement learning far more tractable for code than for natural language, where 'correctness' is subjective.
 
 Europe's positioning in AI-assisted software engineering is strategic: reducing dependence on Microsoft's GitHub Copilot for a tool that increasingly defines developer productivity. By understanding the intent behind codebases rather than just predicting syntax, Poolside aims to produce AI systems that function as autonomous engineers — designing architectures, debugging, and shipping features with minimal human oversight.
+
+## Sources
+
+- [https://www.digitalenginetimes.com/2026/01/top-10-european-ai-startups-to-watch-in-2026-beyond-mistral.html](https://www.digitalenginetimes.com/2026/01/top-10-european-ai-startups-to-watch-in-2026-beyond-mistral.html)

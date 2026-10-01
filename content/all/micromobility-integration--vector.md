@@ -9,6 +9,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182249/vector/technologies/micromobility-integration-google-gemini-3-pro-image-preview-sks7ek.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Micromobility Integration

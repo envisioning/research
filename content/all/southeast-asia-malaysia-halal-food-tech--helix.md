@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815786/helix/technologies/af090c67-7bd2-47e9-98a6-9e2d2fffef76-google-gemini-3.1-flash-image-preview-3yw8jz.png
+updated_at: '2026-09-28T17:18:17.910078+00:00'
+last_reviewed: null
 ---
 
 # Halal Food Technology & Certification Infrastructure
@@ -26,3 +28,7 @@ Malaysia — JAKIM (Department of Islamic Development Malaysia) operates the wor
 The $2.3 trillion global halal market extends far beyond food: pharmaceuticals, cosmetics, logistics, and tourism all require halal certification. Malaysia's HDC (Halal Development Corporation) is developing an integrated digital platform that provides end-to-end halal certification, supply chain verification, and marketplace services.
 
 The strategic moat is institutional trust: JAKIM certification is accepted by most Muslim-majority countries without additional verification. This first-mover advantage in halal governance — built over 40+ years — cannot be replicated by competitors. By digitizing the certification process and adding technology layers (blockchain, AI), Malaysia makes its halal standard more efficient and harder to displace, while creating a digital ecosystem that Malaysia controls.
+
+## Sources
+
+- [https://www.mordorintelligence.com/industry-reports/indonesia-financial-technology-services-market](https://www.mordorintelligence.com/industry-reports/indonesia-financial-technology-services-market)

@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856266/aegis/technologies/d0ccde12-30e3-4380-81b9-99f704e099b2-google-gemini-3.1-flash-image-preview-i7zgc2.jpg
+updated_at: '2026-09-28T17:17:46.043768+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Air-to-Air Missile Family
@@ -25,3 +27,8 @@ Turkey has developed a complete indigenous air-to-air missile family: the GÖKDO
 Air-to-air missiles are among the most tightly controlled defense technologies globally, and Turkey's previous dependence on US AIM-120s created a critical vulnerability — Washington could effectively ground Turkey's air force by withholding missile deliveries. The indigenous missile family eliminates this chokepoint and provides weapons for the KAAN fighter, F-16 upgrades, and unmanned combat aircraft without requiring US government approval.
 
 The successful integration and firing from the Kizilelma unmanned fighter demonstrated that Turkey's air combat ecosystem — radar, missile, and platform — can operate as a fully sovereign system. This capability is essential for the KAAN program's credibility as a genuine fifth-generation fighter, not merely an airframe dependent on foreign weapons.
+
+## Sources
+
+- [https://www.navalnews.com/naval-news/2025/11/turkiyes-unmanned-fighter-jet-bayraktar-kizilelma-hits-target-at-first-air-to-air-test-firing/](https://www.navalnews.com/naval-news/2025/11/turkiyes-unmanned-fighter-jet-bayraktar-kizilelma-hits-target-at-first-air-to-air-test-firing/)
+- [https://www.armyrecognition.com/news/aerospace-news/2025/tuerkiyes-kizilelma-unmanned-fighter-executes-world-first-beyond-visual-range-air-to-air-strike](https://www.armyrecognition.com/news/aerospace-news/2025/tuerkiyes-kizilelma-unmanned-fighter-executes-world-first-beyond-visual-range-air-to-air-strike)

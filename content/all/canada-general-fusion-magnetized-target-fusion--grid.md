@@ -11,6 +11,8 @@ trl: 5
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870521/grid/technologies/1066e9cc-e008-44e3-94ae-857185e1aec7-google-gemini-3.1-flash-image-preview-woy7bd.png
+updated_at: '2026-09-28T17:16:58.205141+00:00'
+last_reviewed: null
 ---
 
 # General Fusion Magnetized Target Fusion
@@ -26,3 +28,8 @@ General Fusion, headquartered in Richmond, British Columbia, is developing magne
 MTF matters because it offers a potentially simpler and cheaper path to commercial fusion than competing approaches. Rather than sustaining a plasma indefinitely (tokamak) or igniting fuel pellets with massive lasers (NIF), MTF compresses a magnetized plasma using mechanical pistons — a brute-force approach that uses conventional manufacturing rather than exotic materials. This could dramatically reduce the cost and complexity of commercial fusion reactors compared to ITER-style designs.
 
 Canada hosting a credible fusion company is strategically significant because fusion energy would eliminate the fundamental constraint on clean energy supply. General Fusion's approach, developed over two decades of Canadian R&D, represents a distinctly non-American path to fusion that could give Canada intellectual property and industrial capability in what may become the defining energy technology of the 21st century. The CNL partnership ensures that regulatory and safety frameworks are developed in parallel with the technology.
+
+## Sources
+
+- [https://generalfusion.com/post/general-fusions-made-in-canada-technology-achieves-first-plasma-in-cutting-edge-fusion-demonstration-machine/](https://generalfusion.com/post/general-fusions-made-in-canada-technology-achieves-first-plasma-in-cutting-edge-fusion-demonstration-machine/)
+- [https://www.ans.org/news/2026-01-23/article-7693/canadas-general-fusion-to-become-publicly-traded-company/](https://www.ans.org/news/2026-01-23/article-7693/canadas-general-fusion-to-become-publicly-traded-company/)

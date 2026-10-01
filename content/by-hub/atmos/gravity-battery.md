@@ -9,6 +9,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886687/atmos/technologies/3ab8b724-a6c3-4ef4-8cce-7da20840ceb1-google-gemini-3.1-flash-image-preview-kqks75.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gravity Battery

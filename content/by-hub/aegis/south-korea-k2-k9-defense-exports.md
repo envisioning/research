@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817436/aegis/technologies/bd0d7c5f-f43e-4020-84a1-2647e569c1f1-google-gemini-3.1-flash-image-preview-inmsq3.jpg
+updated_at: '2026-09-28T17:18:21.103436+00:00'
+last_reviewed: null
 ---
 
 # K2 Black Panther and K9 Howitzer Exports
@@ -26,3 +28,8 @@ The K2 Black Panther main battle tank and K9 Thunder self-propelled howitzer hav
 The K2 features a 120mm smoothbore gun, composite armor with ERA, active protection systems, and a 1,500hp engine enabling speeds of 70 km/h — competitive with the German Leopard 2A7 and American M1A2 Abrams at a significantly lower price point. The K9 is the most exported self-propelled howitzer in the world, with over 1,800 units delivered or on order across 8 countries.
 
 Korea's defense export surge was catalyzed by Russia's invasion of Ukraine, which created urgent demand for NATO-standard equipment that traditional Western suppliers (with depleted inventories and slow production lines) couldn't fill. Korea's ability to deliver at scale and speed — the same industrial attributes that drive its semiconductor and shipbuilding success — made it the partner of choice for countries rearming in a hurry.
+
+## Sources
+
+- [https://www.defensenews.com/global/asia-pacific/2025/01/south-korea-defense-exports-17-billion/](https://www.defensenews.com/global/asia-pacific/2025/01/south-korea-defense-exports-17-billion/)
+- [https://www.reuters.com/business/aerospace-defense/south-korea-poland-defense-deal-k2-k9-2022/](https://www.reuters.com/business/aerospace-defense/south-korea-poland-defense-deal-k2-k9-2022/)

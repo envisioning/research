@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889666/atmos/technologies/8b1c7d49-8f3c-4397-9b98-b597d7b969e6-google-gemini-3.1-flash-image-preview-a8p1fb.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Vortex Engine

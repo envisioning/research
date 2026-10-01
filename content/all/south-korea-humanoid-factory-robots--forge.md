@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817099/forge/technologies/8cd7b1aa-0829-4132-9b1d-3998da0fdbf8-google-gemini-3.1-flash-image-preview-i8sbzm.png
+updated_at: '2026-09-28T17:17:13.443833+00:00'
+last_reviewed: null
 ---
 
 # Humanoid Factory Robots
@@ -26,3 +28,8 @@ Hyundai Motor Group acquired Boston Dynamics in 2021 for $1.1B and has since inv
 The integration of Boston Dynamics into Hyundai's manufacturing empire is a uniquely Korean play — no other automaker owns a leading humanoid robotics company. This allows Hyundai to develop robots specifically for automotive manufacturing use cases, creating a closed feedback loop between robot design and factory needs.
 
 If Atlas reaches reliable deployment at scale, Hyundai becomes both the user and the supplier of humanoid factory robots, a dual advantage that could reshape automotive manufacturing economics. The $6.3B hub in Seoul also covers autonomous driving and hydrogen fuel cells, making it one of the largest single-company R&D investments in robotics globally.
+
+## Sources
+
+- [https://bostondynamics.com/blog/electric-new-atlas/](https://bostondynamics.com/blog/electric-new-atlas/)
+- [https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-motor-group-robotics-hub](https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-motor-group-robotics-hub)

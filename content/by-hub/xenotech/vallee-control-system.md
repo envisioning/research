@@ -10,6 +10,8 @@ trl: 5
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772894675/xenotech/technologies/vallee-control-system-openrouter-google-gemini-3.1-flash-image-preview-6f94da.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Adaptive Consciousness Control System
@@ -71,3 +73,11 @@ The control system hypothesis faces challenges: unfalsifiability (any data can b
 Vallée's framework gains renewed relevance with: AI systems demonstrating emergent social manipulation capabilities (recommendation algorithms shaping belief); memetic warfare and information operations (controlling populations through meaning rather than force); UAP disclosure movement exhibiting predicted patterns (government acknowledgment without resolution, perpetual 'next revelation'); consciousness studies exploring reality construction (predictive processing, quantum consciousness); and post-truth cultural dynamics (reality itself becoming contested, ontological pluralism). Whether the control system is literal technology or prescient metaphor, it describes observable dynamics in human consciousness-culture interaction.
 
 The Adaptive Consciousness Control System represents one of the most sophisticated theoretical frameworks in anomalous phenomena research—treating UAPs not as isolated mysteries but as visible outputs of a larger meaning-manipulation technology operating at the boundary between mind and matter, using culture as medium and consciousness as substrate.
+
+## Sources
+
+- [Jacques Vallée with Dr. Gary Nolan at the SOL Symposium 2025](https://www.uapedia.ai/wiki/the-control-system-theory-of-uap) (2025)
+- [Operation Trojan Horse: Are UFOs a Psychological Control System?](https://alessandragemmo.com/operation-trojan-horse-are-ufos-a-psychological-control-system) (2025)
+- [Shadow play: Jacques Vallée’s Control System Hypothesis and D. W. Pasulka on the social engineering of the UFO mythology](https://skunkworksblog.com/2025/04/21/shadow-play-jacques-vallees-control-system-hypothesis-and-d-w-pasulka-on-the-social-engineering-of-the-ufo-mythology) (2025)
+- [The Control System Theory of UAP](https://www.uapedia.ai/wiki/the-control-system-theory-of-uap) (2025)
+- [American Cosmic: UFOs, Religion, Technology](https://skunkworksblog.com/2025/04/21/shadow-play-jacques-vallees-control-system-hypothesis-and-d-w-pasulka-on-the-social-engineering-of-the-ufo-mythology) (2019)

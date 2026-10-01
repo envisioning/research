@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898247/xenotech/technologies/geometric-energy-amplification-structures-openrouter-google-gemini-3.1-flash-image-preview-3oiqmg.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Energy Amplification
@@ -54,3 +56,9 @@ precision geometric construction and alignment; consciousness training protocols
 ## Current Status
 
 While theoretically grounded in consciousness research and sacred geometry studies, geometric energy amplification structures remain speculative with significant consciousness development and construction challenges. The technology represents an extension of consciousness research into architectural energy applications, though practical implementation requires advanced consciousness development and geometric field manipulation capabilities.
+
+## Sources
+
+- [Ancient Architects of Energy: Sacred Geometry Behind Megaliths](https://enhancedyantraenergy.com/ancient-architects-of-energy-sacred-geometry-behind-megaliths) (2025)
+- [The Bosnian Pyramids as Prehistoric Energy Machines: Multidisciplinary Evidence for Ancient Technology and Focused Energy Beams](https://lanashscience.com/article/the-bosnian-pyramids-as-prehistoric-energy-machines-multidisciplinary-evidence-for-ancient-technology-and-focused-energy-beams) (2025)
+- [The Harmonic Grid of Earth – Ancient Structures and Planetary Resonance](https://www.beyondharmonics.org/blog/2025/harmonic-grid-of-earth) (2025)

@@ -9,6 +9,8 @@ trl: 6
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062273/pixels/technologies/esports-performance-analytics-gemini-3-pro-desqvo.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Esports Performance Analytics

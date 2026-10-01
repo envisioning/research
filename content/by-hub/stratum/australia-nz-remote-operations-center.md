@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858379/stratum/technologies/6b58c599-772e-4cb4-a4e0-d323be9c7540-google-gemini-3.1-flash-image-preview-r2d54a.jpg
+updated_at: '2026-09-28T17:18:31.486908+00:00'
+last_reviewed: null
 ---
 
 # Remote Operations Centre Technology
@@ -26,3 +28,8 @@ Australia's major mining companies have pioneered the concept of Remote Operatio
 Remote operations fundamentally change the social and economic model of mining. Instead of fly-in-fly-out (FIFO) camps in extreme heat, skilled operators work regular shifts in air-conditioned Perth offices. This improves worker retention (a chronic mining industry problem), reduces the enormous costs of remote accommodation and transport, and enables 24/7 operations with shift rotations managed like any urban workplace.
 
 The ROC concept is exportable to any industry with remote, hazardous, or monotonous operations — pipeline monitoring, offshore platforms, agricultural stations, and military forward bases. Australia's mining industry has effectively built the operational template for remote-controlled industrial operations, with implications extending far beyond mining into the future of distributed autonomous systems management.
+
+## Sources
+
+- [https://www.bbc.com/news/articles/cgej7gzg8l0o](https://www.bbc.com/news/articles/cgej7gzg8l0o)
+- [https://mine.nridigital.com/mine_australia_may25/automation-australian-mining](https://mine.nridigital.com/mine_australia_may25/automation-australian-mining)

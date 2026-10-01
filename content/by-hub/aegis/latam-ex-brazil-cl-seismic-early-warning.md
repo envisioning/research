@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813444/aegis/technologies/e9533cb7-e04f-4599-a327-698846790b94-google-gemini-3.1-flash-image-preview-va3dpn.png
+updated_at: '2026-09-28T17:17:23.520406+00:00'
+last_reviewed: null
 ---
 
 # Chile National Seismic Early Warning Network
@@ -25,3 +27,9 @@ Chile sits atop one of Earth's most seismically active zones — the Nazca-South
 The 2010 earthquake — which killed over 500 people partly due to failures in the tsunami warning chain — served as a painful catalyst for system modernization. Chile invested heavily in automated detection algorithms that can characterize earthquake magnitude and generate tsunami warnings within 3 minutes, compared to the 17-minute delay that proved fatal in 2010. The system integrates GNSS geodetic stations that measure real-time crustal deformation, accelerometer networks for strong-motion recording, and fiber-optic strain sensors along the coastline. Machine learning models trained on Chile's exceptionally rich seismic dataset now assist in rapid magnitude estimation and aftershock probability forecasting.
 
 Chile's seismic infrastructure serves a dual purpose: civil protection and scientific leadership. Chilean seismological research punches far above the country's weight, producing foundational work on subduction zone mechanics, slow-slip events, and earthquake cycle models. The country hosts international research collaborations and serves as a natural laboratory for testing early warning technologies later deployed in Japan, Mexico, and the U.S. Pacific Northwest. As climate change increases the frequency of compound hazards — earthquakes triggering landslides in drought-weakened terrain, or tsunamis interacting with sea-level rise — Chile's integrated monitoring approach becomes an increasingly valuable export model.
+
+## Sources
+
+- [https://www.csn.uchile.cl/](https://www.csn.uchile.cl/)
+- [https://www.nature.com/articles/s41467-020-15752-7](https://www.nature.com/articles/s41467-020-15752-7)
+- [https://www.shoa.cl/php/citsu.php](https://www.shoa.cl/php/citsu.php)

@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797233/vault/technologies/7aac43cf-e063-4fa4-9960-3b900870495c-google-gemini-3.1-flash-image-preview-qug3qz.jpg
+updated_at: '2026-09-28T17:17:12.127644+00:00'
+last_reviewed: null
 ---
 
 # Social Commerce Ecosystem
@@ -25,3 +27,7 @@ China's social commerce model integrates content discovery, peer reviews, livest
 When TikTok faced a brief US ban in January 2025, an estimated 500 million American users flooded onto RedNote, demonstrating latent demand for the social commerce model outside China.
 
 The competitive moat is data integration. When the same platform handles discovery, social proof, purchase, and post-purchase reviews, the recommendation algorithm has complete visibility into the consumer journey. Western e-commerce fragments this data across Instagram, Google, Amazon, and Yelp — each optimizing only for their piece.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Xiaohongshu](https://en.wikipedia.org/wiki/Xiaohongshu)

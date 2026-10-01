@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871078/grid/technologies/8030c9db-babb-466e-9ab2-cae019077ee7-google-gemini-3.1-flash-image-preview-p91fwj.jpg
+updated_at: '2026-09-28T17:16:53.758284+00:00'
+last_reviewed: null
 ---
 
 # Svante Carbon Capture Gigafactory
@@ -26,3 +28,8 @@ Svante, headquartered in Vancouver, opened the world's first commercial carbon c
 Svante matters because it represents the industrialization of carbon capture — moving from one-off demonstration projects to manufactured, modular, and deployable systems. The company's acquisition of Carbon Alpha Corp in March 2026 signals vertical integration into carbon dioxide removal project development. Svante is on the 2025 Global Cleantech 100 Hall of Fame and TIME's list of Top Greentech Companies.
 
 Canada's position in carbon capture is a genuine competitive advantage. Between Svante's industrial capture technology and the legacy of Carbon Engineering (now part of Occidental) in direct air capture, Canada has produced two of the world's most important CCUS companies. The challenge is policy certainty: carbon capture economics depend heavily on carbon pricing and tax incentives, and Canadian companies need stable long-term policy signals to justify deployment at the scale their technology enables.
+
+## Sources
+
+- [https://carboncredits.com/svante-launches-worlds-first-gigafactory-for-carbon-capture/](https://carboncredits.com/svante-launches-worlds-first-gigafactory-for-carbon-capture/)
+- [https://www.svanteinc.com/press-releases/svante-acquires-carbon-dioxide-removal-project-developer-carbon-alpha-corp/](https://www.svanteinc.com/press-releases/svante-acquires-carbon-dioxide-removal-project-developer-carbon-alpha-corp/)

@@ -11,6 +11,8 @@ trl: 4
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861771/substrate/technologies/d009dfae-dc7a-4ca8-8588-f453b4b327af-google-gemini-3.1-flash-image-preview-4iqanv.jpg
+updated_at: '2026-09-28T17:17:48.566656+00:00'
+last_reviewed: null
 ---
 
 # Photonic Quantum Computing
@@ -26,3 +28,8 @@ PsiQuantum is pursuing a fundamentally different approach to quantum computing: 
 Photonic quantum computing has several theoretical advantages: qubits operate at room temperature (unlike superconducting systems that require millikelvin cooling), photons don't interact with their environment as easily (reducing decoherence), and the technology is inherently compatible with quantum networking over fiber optic cables. The downside is higher photon loss rates that require more physical qubits per logical qubit.
 
 With a $7 billion valuation and $1 billion in funding, PsiQuantum represents the largest private bet on a single quantum computing architecture. If their approach works, it could leapfrog competitors who are scaling superconducting or trapped-ion systems incrementally. The US government has invested in PsiQuantum through DARPA's quantum programs, viewing photonic quantum computing as a potential shortcut to cryptographically relevant machines.
+
+## Sources
+
+- [https://www.startus-insights.com/innovators-guide/future-of-quantum-computing/](https://www.startus-insights.com/innovators-guide/future-of-quantum-computing/)
+- [https://www.riverlane.com/blog/quantum-error-correction-our-2025-trends-and-2026-predictions](https://www.riverlane.com/blog/quantum-error-correction-our-2025-trends-and-2026-predictions)

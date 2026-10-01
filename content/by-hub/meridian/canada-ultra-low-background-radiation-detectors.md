@@ -12,6 +12,8 @@ trl: 8
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870556/meridian/technologies/1623cbd6-5905-4a41-a456-a505a86a57b1-google-gemini-3.1-flash-image-preview-w50sh0.png
+updated_at: '2026-09-28T17:16:51.244024+00:00'
+last_reviewed: null
 ---
 
 # Ultra-Low-Background Radiation Detection Technology
@@ -27,3 +29,8 @@ Canada's SNOLAB facility, located 2 km underground in Sudbury's Creighton Mine, 
 These detection technologies matter beyond fundamental physics. The ultra-radiopure material screening and assay techniques developed for SNOLAB experiments — where even trace radioactive contamination in detector materials would overwhelm the signal — have direct applications in nuclear medicine (detecting trace isotopes in diagnostic imaging), semiconductor manufacturing (screening for alpha-emitting contaminants that cause soft errors in chips), and environmental radiation monitoring. The material purity standards developed at SNOLAB are among the most stringent in the world.
 
 The dual-use potential of ultra-low-background detection technology extends to nuclear nonproliferation monitoring, where detecting minute quantities of fission products can reveal undeclared nuclear activities. Canada's unique combination of deep mining infrastructure and particle physics expertise — which produced the 2015 Nobel Prize in Physics for Arthur McDonald — gives it a structural advantage in developing the next generation of detectors. These technologies are directly exportable to underground laboratories worldwide and to any application requiring extreme sensitivity to rare events.
+
+## Sources
+
+- [https://www.snolab.ca/](https://www.snolab.ca/)
+- [https://www.snolab.ca/science/experiments/](https://www.snolab.ca/science/experiments/)

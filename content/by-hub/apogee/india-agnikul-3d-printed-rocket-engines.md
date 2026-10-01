@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807632/apogee/technologies/48d257af-3e5f-4df3-80e2-d40adb35793c-google-gemini-3.1-flash-image-preview-iyqwr0.jpg
+updated_at: '2026-09-28T17:17:14.853471+00:00'
+last_reviewed: null
 ---
 
 # Agnikul Cosmos 3D-Printed Rocket Engines
@@ -26,3 +28,9 @@ Agnikul Cosmos, founded in 2017 in Chennai, is developing small satellite launch
 The 3D-printed engine approach is technically ambitious and commercially significant. Traditional rocket engines are assembled from hundreds or thousands of individually manufactured and precision-machined components. Printing the entire engine as a single piece reduces manufacturing complexity, improves reliability (fewer joints to fail), and enables rapid design iteration. Agnikul's approach could make small satellite launches available on-demand within weeks rather than months.
 
 Agnikul represents the cutting edge of India's private space revolution. The company has raised over $30 million from investors including Anand Mahindra and has access to ISRO's testing facilities. Its target market — dedicated small satellite launches in the 30-300 kg payload range — is one of the fastest-growing segments of the global launch market, driven by the explosion of small satellite constellations for communications, Earth observation, and IoT.
+
+## Sources
+
+- [https://agnikul.in/](https://agnikul.in/)
+- [https://www.indiatvnews.com/science/national-space-day-2025-india-s-space-startup-boom-meet-the-private-players-collaborating-with-isro-to-rule-the-cosmos-2025-08-23-1004764](https://www.indiatvnews.com/science/national-space-day-2025-india-s-space-startup-boom-meet-the-private-players-collaborating-with-isro-to-rule-the-cosmos-2025-08-23-1004764)
+- [https://www.growthjockey.com/blogs/aerospace-startups-india](https://www.growthjockey.com/blogs/aerospace-startups-india)

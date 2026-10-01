@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807024/apogee/technologies/170a10b8-8251-4ea4-9cc6-a77b919048f7-google-gemini-3.1-flash-image-preview-lhfb19.png
+updated_at: '2026-09-28T17:17:56.956445+00:00'
+last_reviewed: null
 ---
 
 # eVTOL and the Low-Altitude Economy
@@ -26,3 +28,9 @@ EHang's EH216-S is a pilotless, two-seat air taxi that takes off and lands verti
 China calls this the 'low-altitude economy' — a government policy framework that opens airspace below 120 meters for drones, air taxis, and cargo delivery. Over 800 companies are competing in the space. XPeng AeroHT plans mass production of its flying car in 2026; vertiports are being built in major cities.
 
 The speed gap is the story: EHang completed certification in 31 months. Joby Aviation and Lilium have been working toward FAA certification for 7+ years. China's regulatory willingness to move fast on novel aircraft categories is creating a first-mover advantage that compounds with each flight hour of operational data.
+
+## Sources
+
+- [https://businessaviation.aero/evtol-news-and-electric-aircraft-news/low-altitude-economy/china-evtol-certification-31-months-vs-7-years](https://businessaviation.aero/evtol-news-and-electric-aircraft-news/low-altitude-economy/china-evtol-certification-31-months-vs-7-years)
+- [https://businessaviation.aero/evtol-news-and-electric-aircraft-news/low-altitude-economy/chinas-leading-evtol-aircraft-projects-drive-low-altitude-economy](https://businessaviation.aero/evtol-news-and-electric-aircraft-news/low-altitude-economy/chinas-leading-evtol-aircraft-projects-drive-low-altitude-economy)
+- [https://ir.ehang.com/news-releases/news-release-details/ehangs-eh216-s-pilotless-evtol-completes-debut-flight-downtown](https://ir.ehang.com/news-releases/news-release-details/ehangs-eh216-s-pilotless-evtol-completes-debut-flight-downtown)

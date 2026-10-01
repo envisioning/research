@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815284/polis/technologies/4a60310b-0e35-46be-a330-7d8292368984-google-gemini-3.1-flash-image-preview-69arlx.png
+updated_at: '2026-09-28T17:18:16.886844+00:00'
+last_reviewed: null
 ---
 
 # Regulatory Technology & Fintech Sandbox Framework
@@ -26,3 +28,8 @@ Singapore — The Monetary Authority of Singapore (MAS) pioneered the regulatory
 The sandbox framework has been replicated by over 50 countries, making Singapore's regulatory innovation arguably more impactful than any individual technology developed within the sandbox. MAS's approach — permitting innovation while maintaining consumer protection — proved that regulators could enable rather than obstruct fintech development.
 
 For ASEAN, Singapore's regulatory framework serves as the 'gold standard' that other countries reference when developing their own fintech regulations. Companies that pass Singapore's sandbox scrutiny gain credibility for regional expansion. This creates a regulatory moat: Singapore attracts the most innovative fintech companies because it offers the most credible regulatory approval, which then makes its regulations more referenced by other countries, reinforcing the cycle.
+
+## Sources
+
+- [https://practiceguides.chambers.com/practice-guides/blockchain-2025/singapore](https://practiceguides.chambers.com/practice-guides/blockchain-2025/singapore)
+- [https://www.dbs.com/blockchain/how-dbs-is-shaping-a-trusted-digital-asset-ecosystem.html](https://www.dbs.com/blockchain/how-dbs-is-shaping-a-trusted-digital-asset-ecosystem.html)

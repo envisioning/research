@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897974/xenotech/technologies/spacetime-density-propulsion-systems-openrouter-google-gemini-3.1-flash-image-preview-1kcf1h.png
+updated_at: '2026-10-01T08:48:57.351931+00:00'
+last_reviewed: null
 ---
 
 # Density Propulsion
@@ -61,3 +63,9 @@ While lacking empirical evidence, spacetime density propulsion systems represent
 ## Significance
 
 Spacetime Density Propulsion Systems convert dimensional density modulation into navigation capability. As propulsion technology operating through spacetime manipulation rather than momentum exchange, they exemplify frontier propulsion research, suggesting evolution beyond conventional propulsion toward density-based navigation applications.
+
+## Sources
+
+- [Zero-Point Skating Propulsion System (ZPSPS)](https://www.montgomerykuykendall.com/frameworks/zpsps) (2026)
+- [Zero-Point Skating Propulsion System (ZPSPS)](https://www.montgomerykuykendall.com/frameworks/zpsps) (2026)
+- [Gennady Shipov’s Teleparallel Torsion and the 4-D Gyroscope](https://www.altpropulsion.com/gennady-shipovs-teleparallel-torsion-and-the-4-d-gyroscope) (2025)

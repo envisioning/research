@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813555/stratum/technologies/ffd69314-f644-4d1e-b8df-53d1fbda2fd2-google-gemini-3.1-flash-image-preview-eh84ye.png
+updated_at: '2026-09-28T17:17:35.109415+00:00'
+last_reviewed: null
 ---
 
 # AI Predictive Maintenance for Mining Equipment
@@ -26,3 +28,9 @@ Chile's copper mining operations — managing some of the world's most expensive
 The technology stack includes edge computing units on equipment that perform initial signal processing, wireless mesh networks that transmit data to surface servers, and cloud-based analytics platforms that train models across fleet-wide data. The ML approaches range from supervised models trained on historical failure data to unsupervised anomaly detection that identifies novel failure modes. Integration with maintenance management systems enables automatic work order generation when predicted failure probability crosses a threshold.
 
 The economic impact is substantial: unplanned equipment downtime in mining costs $50,000-$500,000 per hour depending on the equipment. Predictive maintenance systems have demonstrated 30%+ reductions in unplanned downtime and 15-25% reductions in maintenance costs across Chilean operations. As mines go deeper and equipment operates under more extreme conditions, the value of predictive maintenance increases further. Chilean mining companies are sharing anonymized operational data through industry consortia to improve model accuracy across different equipment types and operating conditions.
+
+## Sources
+
+- [https://farmonaut.com/mining/codelco-copper-mining-transforming-chiles-future-in-2026](https://farmonaut.com/mining/codelco-copper-mining-transforming-chiles-future-in-2026)
+- [https://farmonaut.com/mining/chile-copper-mine-intelligent-safety-monitoring-2025](https://farmonaut.com/mining/chile-copper-mine-intelligent-safety-monitoring-2025)
+- [https://blog.investchile.gob.cl/automation-new-opportunities-for-mining-innovation-in-chile](https://blog.investchile.gob.cl/automation-new-opportunities-for-mining-innovation-in-chile)

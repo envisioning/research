@@ -9,6 +9,8 @@ trl: 6
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882644/agora/technologies/1a37a288-4fc0-485d-82ff-7b58ab18cc68-google-gemini-3.1-flash-image-preview-6a1ai2.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Digital Public Infrastructure Sovereignty

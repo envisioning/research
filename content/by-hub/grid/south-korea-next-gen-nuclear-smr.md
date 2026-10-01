@@ -11,6 +11,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817665/grid/technologies/e2174a55-cd8e-4646-bdb0-74a47fdbe2fb-google-gemini-3.1-flash-image-preview-j935z1.jpg
+updated_at: '2026-09-28T17:17:39.077195+00:00'
+last_reviewed: null
 ---
 
 # Small Modular Reactor Development
@@ -26,3 +28,8 @@ The Korea Atomic Energy Research Institute (KAERI) developed SMART, a 100 MWe in
 KAERI is also developing the PGSFR (Prototype Generation IV Sodium-cooled Fast Reactor), a 150 MWe sodium-cooled reactor that can consume spent nuclear fuel, potentially addressing both the waste problem and fuel supply concerns. This Gen IV technology is in the design and licensing phase, with construction planned for the 2030s.
 
 Korea's nuclear R&D builds on four decades of domestic reactor operation and the export success of the APR-1400. The country's nuclear workforce — engineers, operators, regulators — is among the deepest in the world. SMRs could extend Korea's nuclear export franchise to markets too small or remote for full-scale reactors, while Gen IV technology positions Korea at the frontier of advanced nuclear engineering.
+
+## Sources
+
+- [https://www.kaeri.re.kr/eng/sub/sub02_01_01.jsp](https://www.kaeri.re.kr/eng/sub/sub02_01_01.jsp)
+- [https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors)

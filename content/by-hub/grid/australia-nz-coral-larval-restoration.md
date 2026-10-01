@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858033/grid/technologies/2d112218-b2a9-4935-898c-f3a780359054-google-gemini-3.1-flash-image-preview-1r3pgy.jpg
+updated_at: '2026-09-28T17:18:30.901333+00:00'
+last_reviewed: null
 ---
 
 # Coral Larval Restoration Technology
@@ -26,3 +28,9 @@ CSIRO and Southern Cross University developed the 'larval seedbox' — a coral r
 The Great Barrier Reef, valued at AU$56B annually through tourism and ecosystem services, has experienced six mass bleaching events since 1998, with back-to-back events in 2024 and 2025 destroying coral faster than it can recover naturally. Previous restoration approaches — manually transplanting coral fragments — could treat only tiny reef areas. Larval seeding at scale, combined with the Reef Restoration and Adaptation Program's (RRAP) portfolio of interventions including heat-tolerant coral breeding and cloud brightening, represents the first realistic attempt at ecosystem-scale reef restoration.
 
 Strategically, Australia is investing hundreds of millions into reef science that no other nation needs at this scale, generating unique intellectual property in marine ecosystem restoration, heat-stress genomics, and underwater automation. This expertise is exportable to tropical reef nations worldwide. The program also serves as a live testbed for large-scale ecological intervention technologies — whether those insights apply to reefs, forests, or other threatened ecosystems.
+
+## Sources
+
+- [https://www.csiro.au/en/news/All/News/2025/November/New-larval-seedbox-technology-to-drive-coral-restoration-on-the-Great-Barrier-Reef](https://www.csiro.au/en/news/All/News/2025/November/New-larval-seedbox-technology-to-drive-coral-restoration-on-the-Great-Barrier-Reef)
+- [https://www.barrierreef.org/news/news/new-coral-restoration-technology-larval-seedbox](https://www.barrierreef.org/news/news/new-coral-restoration-technology-larval-seedbox)
+- [https://www.aims.gov.au/information-centre/news-and-stories/aims-takes-first-shot-largescale-reef-restoration-marine-industry](https://www.aims.gov.au/information-centre/news-and-stories/aims-takes-first-shot-largescale-reef-restoration-marine-industry)

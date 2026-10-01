@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814808/grid/technologies/f4507079-8a58-473c-9d97-5a03f05a7145-google-gemini-3.1-flash-image-preview-r79cvx.png
+updated_at: '2026-09-28T17:16:36.989252+00:00'
+last_reviewed: null
 ---
 
 # Desalination Brine Mineral Extraction
@@ -26,3 +28,9 @@ Gulf desalination plants produce millions of cubic meters of hypersaline brine d
 The economics are compelling: the global critical minerals market exceeds $300 billion, and desalination brine contains measurable concentrations of minerals essential for batteries (lithium), fertilizers (potassium), and industrial chemicals (magnesium, bromine). The Gulf's massive desalination volumes — Saudi Arabia alone processes over 7.5 million cubic meters daily — create a potentially significant mineral supply chain from what is currently a waste product. Revenue from mineral recovery could offset desalination operating costs by 15-30%.
 
 Strategically, brine mining positions the Gulf at the intersection of two critical global challenges: water scarcity and critical mineral supply chains. If commercially viable extraction of lithium from desalination brine scales, it provides an alternative to traditional hard-rock and evaporation pond mining, with lower environmental footprint and continuous production. The technology could transform every desalination plant worldwide into a mineral source, with Gulf states holding both the largest brine volumes and the deepest expertise to develop the technology.
+
+## Sources
+
+- [https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.216](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.216)
+- [https://www.arabnews.com/node/2581246/saudi-arabia](https://www.arabnews.com/node/2581246/saudi-arabia)
+- [https://swa-cdn.swa.gov.sa/Reports/brine_mining_report_2025.pdf](https://swa-cdn.swa.gov.sa/Reports/brine_mining_report_2025.pdf)

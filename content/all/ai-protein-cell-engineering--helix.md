@@ -9,6 +9,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764093434/helix/technologies/ai-protein-cell-engineering-gemini-3-pro-r85ikb.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # AI-Accelerated Protein & Cell Engineering

@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872848/helix/technologies/9bc8f83d-f8c8-4bf2-93d9-455c982cfb62-google-gemini-3.1-flash-image-preview-7b3j3z.jpg
+updated_at: '2026-09-28T17:17:29.618407+00:00'
+last_reviewed: null
 ---
 
 # Stem Cell and Regenerative Medicine Research
@@ -26,3 +28,9 @@ Iran's stem cell research program, led by the Royan Institute under Dr. Hossein 
 Iran benefits from a distinctive regulatory environment for stem cell research. Unlike many Western countries where embryonic stem cell research faces political and ethical restrictions, Iran's religious authorities have generally supported the work, with fatwas permitting therapeutic cloning and embryonic stem cell research. This regulatory permissiveness — combined with a large population providing clinical study participants and a strong biomedical research infrastructure — has allowed rapid progress.
 
 The strategic significance is both scientific and economic. Stem cell therapy and regenerative medicine represent a multi-billion-dollar global market that is still in its early stages. Early mastery of cell therapy techniques, combined with lower costs, could position Iran as a medical tourism destination and technology exporter in this field. Several Iranian stem cell products are in clinical trials for wound healing, orthopedic applications, and ophthalmic conditions, with potential for regional export.
+
+## Sources
+
+- [https://www.royan.org/en/Page/1/About-Us/](https://www.royan.org/en/Page/1/About-Us/)
+- [https://pubmed.ncbi.nlm.nih.gov/31356098/](https://pubmed.ncbi.nlm.nih.gov/31356098/)
+- [https://en.wikipedia.org/wiki/Hossein_Baharvand](https://en.wikipedia.org/wiki/Hossein_Baharvand)

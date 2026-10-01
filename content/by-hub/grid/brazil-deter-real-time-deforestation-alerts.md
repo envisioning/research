@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793534/grid/technologies/b80412e2-f5be-4e2c-a02a-fecafaef87a3-google-gemini-3.1-flash-image-preview-gprd85.png
+updated_at: '2026-09-28T17:17:01.485458+00:00'
+last_reviewed: null
 ---
 
 # DETER Real-Time Deforestation Alerts
@@ -26,3 +28,9 @@ DETER (Detection of Deforestation in Real Time) uses satellite imagery from mult
 The system achieved 82-85% concordance rates using advanced detection methods including deep learning (LSTM neural networks). In February 2026, Brazil announced that Amazon deforestation was on pace for the lowest on record, with DETER data guiding the enforcement strategy.
 
 DETER exemplifies a pattern in Brazilian innovation: using technology to manage natural resources at continental scale. The system monitors 5.5 million km² of Amazon forest from orbit, translating satellite data into actionable enforcement intelligence. No other country monitors deforestation this comprehensively in near-real-time.
+
+## Sources
+
+- [https://news.mongabay.com/2026/02/amazon-deforestation-on-pace-to-be-the-lowest-on-record-says-brazil/](https://news.mongabay.com/2026/02/amazon-deforestation-on-pace-to-be-the-lowest-on-record-says-brazil/)
+- [https://data.inpe.br/bdc/wp-content/uploads/sites/4/2025/05/Evaluating-Forest-Disturbance-Detection-Methods.pdf](https://data.inpe.br/bdc/wp-content/uploads/sites/4/2025/05/Evaluating-Forest-Disturbance-Detection-Methods.pdf)
+- [https://www.inpe.br/amazonia1/en/uses_applications.php](https://www.inpe.br/amazonia1/en/uses_applications.php)

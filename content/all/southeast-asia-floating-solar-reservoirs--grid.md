@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816187/grid/technologies/ed1c31ed-e2a7-4ca4-8e02-9204939e6a4c-google-gemini-3.1-flash-image-preview-6olui8.jpg
+updated_at: '2026-09-28T17:18:18.479572+00:00'
+last_reviewed: null
 ---
 
 # Floating Solar on Reservoirs & Hydropower Dams
@@ -26,3 +28,7 @@ Thailand & Indonesia — Southeast Asia is pioneering floating photovoltaic (FPV
 The dual benefit is compelling: floating panels generate electricity while reducing reservoir evaporation (critical in drought-prone regions), and the water body provides natural cooling that extends panel lifespan. The existing grid connection from the hydropower dam eliminates the most expensive part of solar deployment — transmission infrastructure.
 
 For land-scarce tropical countries, floating solar solves the competing land-use challenge. Unlike ground-mounted solar that competes with agriculture, FPV uses otherwise unproductive water surfaces. As Southeast Asia targets aggressive renewable energy goals (Indonesia: 23% renewables by 2025, Thailand: 30% by 2037), floating solar on the region's thousands of reservoirs and dams could contribute significant capacity without land conflicts.
+
+## Sources
+
+- [https://www.reuters.com/business/autos-transportation/chinas-byd-opens-ev-factory-thailand-first-southeast-asia-2024-07-04/](https://www.reuters.com/business/autos-transportation/chinas-byd-opens-ev-factory-thailand-first-southeast-asia-2024-07-04/)

@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875441/aegis/technologies/7487d891-790c-41b5-9c9f-ef74427b3ebe-google-gemini-3.1-flash-image-preview-4466ry.jpg
+updated_at: '2026-09-28T17:16:25.166699+00:00'
+last_reviewed: null
 ---
 
 # High-Energy Laser Air Defense
@@ -25,3 +27,9 @@ Iron Beam is a directed-energy weapon system developed by Rafael that uses a hig
 The significance of Iron Beam extends far beyond Israel's borders. It represents a paradigm shift in air defense economics: for the first time, defenders can engage cheap rockets and drones without the cost asymmetry that has plagued kinetic interceptors. In saturation attacks where adversaries fire hundreds of low-cost projectiles, Iron Beam's effectively unlimited magazine depth and near-zero marginal cost fundamentally change the defender's math.
 
 Strategically, Iron Beam positions Israel as the global leader in military-grade directed energy weapons, years ahead of U.S., Chinese, and Russian programs that remain in testing phases. The system's combat validation under real wartime conditions gives it an insurmountable credibility lead. Export potential is enormous — every nation facing rocket, drone, or mortar threats is a prospective customer, and the technology represents a generational shift in how defensive warfare is conducted.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Iron_Beam](https://en.wikipedia.org/wiki/Iron_Beam)
+- [https://www.jpost.com/defense-and-tech/article-881595](https://www.jpost.com/defense-and-tech/article-881595)
+- [https://www.armyrecognition.com/news/army-news/2025/rafael-delivers-israels-first-operational-iron-beam-laser-shield-to-revolutionize-air-defense-era](https://www.armyrecognition.com/news/army-news/2025/rafael-delivers-israels-first-operational-iron-beam-laser-shield-to-revolutionize-air-defense-era)

@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809142/apogee/technologies/8c58d040-14f5-4e12-bf06-b3c5fd65689f-google-gemini-3.1-flash-image-preview-wgnno5.jpg
+updated_at: '2026-09-28T17:18:07.019281+00:00'
+last_reviewed: null
 ---
 
 # Skyroot Aerospace Vikram Launch Vehicles
@@ -26,3 +28,9 @@ Skyroot Aerospace, based in Hyderabad, became the first Indian private company t
 Skyroot's vehicles feature carbon composite structures (lighter than traditional metal), 3D-printed upper-stage engines, and solid-fuel first stages using ISRO-licensed propellant technology. The company aims to offer dedicated small satellite launches at prices competitive with rideshare options, but with the flexibility of choosing your own orbit and launch timing — a significant value proposition for satellite operators.
 
 Backed by over $100 million in funding from investors including GIC (Singapore's sovereign wealth fund), Skyroot is building an end-to-end launch capability. The company benefits from India's space policy reforms, access to ISRO facilities, and India's cost advantages in aerospace manufacturing. Skyroot's ambition is to be 'India's SpaceX' — a private launch company that dramatically reduces the cost and increases the frequency of access to space.
+
+## Sources
+
+- [https://skyroot.in/](https://skyroot.in/)
+- [https://en.wikipedia.org/wiki/Skyroot_Aerospace](https://en.wikipedia.org/wiki/Skyroot_Aerospace)
+- [https://www.ibef.org/blogs/india-s-private-spacetech-boom-a-new-era-unfolds](https://www.ibef.org/blogs/india-s-private-spacetech-boom-a-new-era-unfolds)

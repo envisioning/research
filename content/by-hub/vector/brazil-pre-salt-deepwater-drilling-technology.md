@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793784/vector/technologies/f5c328cb-c8aa-4984-87a6-79f42ac2a869-google-gemini-3.1-flash-image-preview-eg8jdh.png
+updated_at: '2026-09-28T17:17:55.574168+00:00'
+last_reviewed: null
 ---
 
 # Pre-Salt Deepwater Drilling Technology
@@ -26,3 +28,9 @@ Pre-salt oil lies beneath 2,000 meters of water, 1,000 meters of post-salt rock,
 Petrobras developed these capabilities through its PROCAP program (Technological Capacitation in Deep Waters), spending decades and billions on R&D. The Búzios field achieved 1 million barrels per day in October 2025 — three months ahead of schedule — making it the world's largest deepwater production field.
 
 When fully developed with 12 FPSO vessels, Búzios alone will produce nearly 2 million barrels daily — more than most countries. The pre-salt province as a whole made Brazil the world's 7th largest oil producer. The technology is being exported: Petrobras licenses its deepwater expertise to operators globally.
+
+## Sources
+
+- [https://petrobras.com.br/en/pre-sal](https://petrobras.com.br/en/pre-sal)
+- [https://discoveryalert.com.au/brazils-pre-salt-deepwater-revolution-2025/](https://discoveryalert.com.au/brazils-pre-salt-deepwater-revolution-2025/)
+- [https://www.sciencedirect.com/science/article/pii/S187638042460515X](https://www.sciencedirect.com/science/article/pii/S187638042460515X)

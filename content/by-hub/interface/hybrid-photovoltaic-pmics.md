@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: null
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Hybrid Photovoltaic PMICs
@@ -25,3 +27,13 @@ Hybrid photovoltaic power management integrated circuits represent a convergence
 The fundamental challenge these systems address is the persistent limitation of battery-powered consumer electronics and IoT devices: the need for periodic recharging or battery replacement. For wearable devices, environmental sensors, and smart home products, this maintenance requirement creates significant friction in user experience and operational costs. Hybrid photovoltaic PMICs enable a new category of perpetually-powered devices that can sustain operation indefinitely in environments with adequate ambient light. This capability is particularly transformative for distributed sensor networks, where accessing hundreds or thousands of devices for battery maintenance becomes economically prohibitive. The technology also enables thinner, lighter wearable designs by reducing or eliminating battery capacity requirements. Industry analysts note that this approach addresses growing concerns about electronic waste from disposable batteries while supporting the expansion of ambient computing systems that require minimal human intervention.
 
 Early commercial deployments have emerged in outdoor environmental monitoring, where solar-powered sensor nodes can operate for years without maintenance, and in consumer wearables where manufacturers are exploring hybrid charging to extend battery life between wall charging sessions. Research suggests that indoor energy harvesting remains challenging due to the limited power density of artificial lighting, but advances in low-power electronics and more efficient photovoltaic materials are expanding viable applications. The technology aligns with broader industry trends toward energy-autonomous devices and sustainable electronics, particularly as regulatory pressure increases around battery disposal and product longevity. As power consumption in microcontrollers and wireless communication chips continues to decline, the gap between harvestable ambient energy and device requirements narrows, suggesting that hybrid photovoltaic PMICs will become increasingly central to the next generation of always-on, maintenance-free consumer electronics and IoT infrastructure.
+
+## Sources
+
+- [AEM00940/1 Energy Harvesting PMIC](https://e-peas.com/product/aem0094x) (2025)
+- [AEM10300 Energy Harvesting PMIC](https://e-peas.com/product/aem10300-solar-battery-charger-up-to-7-cells) (2025)
+- [AEM10920 Energy Harvesting PMIC](https://e-peas.com/product/aem10920-high-efficiency-photovoltaic-source-pmic-for-rcu-and-kbd-applications) (2025)
+- [AEM13920 Dual-source Energy Harvesting PMIC](https://e-peas.com/product/aem13920) (2025)
+- [AEM15820 Energy harvesting IC: discover our AEM product family](https://e-peas.com/product/aem15820) (2025)
+- [AEM15820 PMIC for Hybrid Photovoltaic Energy Harvesting](https://e-peas.com/press-releases/e-peas-aem15820-pmic-enables-seamless-energy-harvesting-from-both-indoor-and-outdoor-light-sources) (2025)
+- [PMIC enables seamless energy harvesting from indoor and outdoor light sources](https://www.electropages.com/2025/12/pmic-enables-seamless-energy-harvesting-indoor-and-outdoor-light-sources) (2025)

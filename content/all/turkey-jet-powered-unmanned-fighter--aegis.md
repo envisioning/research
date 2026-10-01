@@ -10,6 +10,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855543/aegis/technologies/62aee43a-0fab-4cbd-afa8-613d26286ff9-google-gemini-3.1-flash-image-preview-tre2k5.jpg
+updated_at: '2026-09-28T17:17:43.269522+00:00'
+last_reviewed: null
 ---
 
 # Jet-Powered Unmanned Combat Fighter
@@ -25,3 +27,9 @@ The Bayraktar Kizilelma is the world's first operationally-oriented jet-powered 
 The Kizilelma program represents a fundamental shift in air combat architecture. By demonstrating that an unmanned jet can autonomously detect, track, and destroy aerial targets beyond visual range, Turkey has proven a concept that the US, China, and Europe are still developing. The platform is designed to operate from the TCG Anadolu amphibious assault ship, giving Turkey carrier-based jet combat capability without the cost of manned carrier aviation.
 
 Serial production is anticipated to begin in 2026, with the platform positioned as both a loyal wingman for manned fighters and an autonomous air superiority asset. Its export potential is enormous — countries that cannot afford F-35s or Su-57s may acquire Kizilelma-class UCAVs for a fraction of the cost. Turkey is effectively creating a new market category: affordable, expendable jet air combat capability.
+
+## Sources
+
+- [https://www.navalnews.com/naval-news/2025/11/turkiyes-unmanned-fighter-jet-bayraktar-kizilelma-hits-target-at-first-air-to-air-test-firing/](https://www.navalnews.com/naval-news/2025/11/turkiyes-unmanned-fighter-jet-bayraktar-kizilelma-hits-target-at-first-air-to-air-test-firing/)
+- [https://www.armyrecognition.com/news/aerospace-news/2025/two-turkish-kizilelma-unmanned-fighter-jets-perform-worlds-first-autonomous-formation-flight](https://www.armyrecognition.com/news/aerospace-news/2025/two-turkish-kizilelma-unmanned-fighter-jets-perform-worlds-first-autonomous-formation-flight)
+- [https://www.armyrecognition.com/news/aerospace-news/2025/f-16-fighter-jet-outmatched-by-tuerkiyes-kizilelma-drone-in-successful-unmanned-air-combat-test](https://www.armyrecognition.com/news/aerospace-news/2025/f-16-fighter-jet-outmatched-by-tuerkiyes-kizilelma-drone-in-successful-unmanned-air-combat-test)

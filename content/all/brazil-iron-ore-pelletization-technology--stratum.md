@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793768/stratum/technologies/f318ee8a-a6b7-43bf-bf68-d7e80a9360c3-google-gemini-3.1-flash-image-preview-6u0mw5.png
+updated_at: '2026-09-28T17:17:04.974006+00:00'
+last_reviewed: null
 ---
 
 # Iron Ore Pelletization Technology
@@ -26,3 +28,7 @@ Iron ore fines are too small to feed directly into blast furnaces. Pelletization
 Vale operates the world's largest pellet production complex at Tubarão (Vitória, Espírito Santo), with multiple plants producing different pellet grades for blast furnace and direct reduction routes. The pellets are higher in iron content and more uniform than raw ore, commanding premium prices.
 
 Pelletization is an example of value-added resource processing: instead of exporting raw iron ore, Brazil transforms it into a higher-value industrial input. The new briquette technology (entry #39) represents the next evolution — achieving similar or better metallurgical performance at lower temperatures and emissions.
+
+## Sources
+
+- [https://vale.com/w/revolution-in-the-global-steel-industry-vale-inaugurates-the-worlds-first-briquette-plant-in-vitoria-brazil](https://vale.com/w/revolution-in-the-global-steel-industry-vale-inaugurates-the-worlds-first-briquette-plant-in-vitoria-brazil)

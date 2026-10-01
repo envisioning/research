@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898172/xenotech/technologies/anomalous-electromagnetic-effects-openrouter-google-gemini-3.1-flash-image-preview-a4jsm2.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Electromagnetic Effects
@@ -45,3 +47,8 @@ Scientific assessment finds no mechanism for electromagnetic interference creati
 ## Significance
 
 The technology represents archetypal fringe electromagnetics—complex apparatus producing impressive visual effects through real electromagnetic phenomena (high voltage, ionization, electrical discharge) interpreted as evidence of exotic physics. The equipment genuinely produces strong electromagnetic fields with dramatic visual and auditory effects (sparks, corona, ozone generation, ion wind), creating compelling demonstrations that appear mysterious without understanding the underlying physics. This aesthetic appeal, combined with claims of suppressed research and difficulty of precise replication, sustains interest despite lack of verified anomalous effects beyond conventional electromagnetics.
+
+## Sources
+
+- [Magnetic levitation at low rotation frequencies using an on-axis magnetic field](https://arxiv.org/pdf/2502.04410) (2025)
+- [The Morningstar Energy Box, Searl Effect, and Poynting Vortex Gravity](https://www.altpropulsion.com/the-morningstar-energy-box-searl-effect-and-poynting-vortex-gravity) (2025)

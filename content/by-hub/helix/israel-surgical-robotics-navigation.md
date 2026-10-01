@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774876257/helix/technologies/f86171d3-fdda-450a-b031-0eb978d39bcc-google-gemini-3.1-flash-image-preview-ojcanx.jpg
+updated_at: '2026-09-28T17:18:44.313658+00:00'
+last_reviewed: null
 ---
 
 # Robotic-Assisted Surgical Navigation Systems
@@ -26,3 +28,9 @@ Israel has developed a world-class surgical robotics cluster anchored by Mazor R
 Israeli surgical robotics leverage the country's strengths in miniaturization, computer vision, and real-time control systems — technologies originally developed for defense applications like missile guidance and drone navigation. The transfer of precision engineering from military to medical applications is a recurring pattern in Israel's innovation ecosystem.
 
 Strategically, the global surgical robotics market is projected to exceed $20 billion by 2028, and Israel is positioned as a key innovation source rather than just a component supplier. Medtronic's $1.7B acquisition of Mazor validated the Israeli model of developing sophisticated robotic surgical platforms with small, focused teams. The country's medical robotics pipeline continues to attract global medtech acquirers seeking next-generation precision surgery capabilities.
+
+## Sources
+
+- [https://kenes-exhibitions.com/biomed/biomed-israel-2025-program/](https://kenes-exhibitions.com/biomed/biomed-israel-2025-program/)
+- [https://cril-tech.com/israels-medtech-powerhouse-israel-medtech/](https://cril-tech.com/israels-medtech-powerhouse-israel-medtech/)
+- [https://tracxn.com/d/explore/medical-devices-startups-in-tel-aviv-israel](https://tracxn.com/d/explore/medical-devices-startups-in-tel-aviv-israel)

@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816780/vector/technologies/5e436d76-57aa-466c-a556-cbeb35d2064b-google-gemini-3.1-flash-image-preview-dnowox.jpg
+updated_at: '2026-09-28T17:18:20.039662+00:00'
+last_reviewed: null
 ---
 
 # Motional Robotaxi Program
@@ -26,3 +28,8 @@ Motional is a joint venture between Hyundai Motor Group and Aptiv (formerly Delp
 Motional's approach differs from Waymo's by leveraging Hyundai's manufacturing scale — rather than retrofitting existing vehicles, Motional's Ioniq 5 robotaxis are built with autonomous hardware integrated from the factory floor. This allows for cleaner sensor integration, better thermal management, and lower per-unit costs as production scales.
 
 The robotaxi market is consolidating around a few well-funded players (Waymo, Cruise/GM, Motional, Baidu Apollo), and Motional's Hyundai backing gives it a vehicle manufacturing advantage that pure-tech companies lack. For Hyundai, the investment hedges against a future where personal car ownership declines — if mobility-as-a-service wins, Hyundai wants to be the one building the fleet.
+
+## Sources
+
+- [https://motional.com/](https://motional.com/)
+- [https://www.hyundai.com/worldwide/en/company/newsroom/motional-robotaxi-ioniq5](https://www.hyundai.com/worldwide/en/company/newsroom/motional-robotaxi-ioniq5)

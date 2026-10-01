@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853274/meridian/technologies/57aad1a7-6ae7-417c-9baf-1678a914580e-google-gemini-3.1-flash-image-preview-1ubq3z.jpg
+updated_at: '2026-09-28T17:16:39.526971+00:00'
+last_reviewed: null
 ---
 
 # Future Circular Collider
@@ -25,3 +27,8 @@ The Future Circular Collider (FCC) is CERN's proposed next-generation particle a
 The FCC would operate in two phases: FCC-ee (an electron-positron collider for precision measurements, operational ~2040s) and FCC-hh (a hadron collider achieving 7x the energy of the LHC, operational ~2060s). The estimated cost exceeds €20 billion, to be shared among CERN's 24 member states and associate members.
 
 The scientific case is exploring physics beyond the Standard Model — the current theory of particle physics that, while extraordinarily successful, cannot explain dark matter, dark energy, or the matter-antimatter asymmetry of the universe. The FCC would also drive technology development: the LHC's predecessors produced the World Wide Web, PET scanners, hadron therapy for cancer, and advances in superconducting magnets.
+
+## Sources
+
+- [https://home.cern/science/accelerators/future-circular-collider](https://home.cern/science/accelerators/future-circular-collider)
+- [https://www.innovationnewsnetwork.com/cern-council-endorses-next-step-for-the-future-circular-collider/63571/](https://www.innovationnewsnetwork.com/cern-council-endorses-next-step-for-the-future-circular-collider/63571/)

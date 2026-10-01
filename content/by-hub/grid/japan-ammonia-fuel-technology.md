@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818164/grid/technologies/22b163a5-a041-47e1-aa05-0353e16bb2ce-google-gemini-3.1-flash-image-preview-g8fcz1.png
+updated_at: '2026-09-28T17:17:27.865218+00:00'
+last_reviewed: null
 ---
 
 # Ammonia as Carbon-Free Fuel
@@ -25,3 +27,8 @@ Japan is the global leader in ammonia fuel technology, with JERA (Japan's larges
 Ammonia (NH3) contains no carbon and can be produced from green hydrogen, making it a carbon-free fuel that can be transported using existing liquid fuel infrastructure. Japan's interest is strategic: the country cannot generate enough renewable electricity domestically (limited land, solar potential) and needs importable, storable, carbon-free energy carriers. Ammonia fits this requirement better than hydrogen for power generation due to easier storage and transport.
 
 The technology has global implications: if Japan demonstrates viable ammonia firing at commercial scale, it creates a decarbonization pathway for coal-dependent economies across Asia (India, Indonesia, Vietnam, Philippines) without requiring complete infrastructure replacement. Japan is positioning itself as the technology licensor and ammonia supply chain orchestrator, with sourcing agreements from Australia, Saudi Arabia, and the UAE.
+
+## Sources
+
+- [https://www.nature.com/articles/d42473-023-00174-w](https://www.nature.com/articles/d42473-023-00174-w)
+- [https://pressroom.toyota.com/toyota-establishes-hydrogen-headquarters-to-accelerate-advancement-of-fuel-cell-technology/](https://pressroom.toyota.com/toyota-establishes-hydrogen-headquarters-to-accelerate-advancement-of-fuel-cell-technology/)

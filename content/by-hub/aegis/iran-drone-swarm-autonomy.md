@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774874833/aegis/technologies/cd0fca39-8319-4b0d-96f7-7e16702a8d4b-google-gemini-3.1-flash-image-preview-ese43p.png
+updated_at: '2026-09-28T17:17:18.31691+00:00'
+last_reviewed: null
 ---
 
 # Drone Swarm and Autonomous Coordination Technology
@@ -26,3 +28,9 @@ Iran's extensive experience with mass-production drone warfare is evolving towar
 Swarm technology represents the next logical evolution of Iran's drone warfare doctrine. The current approach — launching dozens or hundreds of individual drones on parallel but independent flight paths — already achieves a degree of saturation. True swarm behavior would add real-time coordination: drones communicating to adjust routes around defended areas, concentrate on gaps in air defense coverage, or dynamically retarget based on battlefield feedback. The technical requirements include secure mesh networking, decentralized decision algorithms, and miniaturized computing — areas where Iran's capabilities are less clear.
 
 The strategic implications of mature drone swarm capability would be significant. A coordinated swarm presents qualitatively different defensive challenges than independent drones: it can probe defenses, exploit gaps, and adapt in ways that fixed-waypoint systems cannot. Combined with Iran's existing mass-production capacity and low unit costs, swarm coordination could shift the offense-defense balance further toward the attacker. The technology is being pursued globally by major military powers, and Iran's head start in mass drone warfare operations provides operational data that other programs lack.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Shahed_drones](https://en.wikipedia.org/wiki/Shahed_drones)
+- [https://www.washingtoninstitute.org/policy-analysis/what-irans-drones-ukraine-mean-future-war](https://www.washingtoninstitute.org/policy-analysis/what-irans-drones-ukraine-mean-future-war)
+- [https://www.recordedfuture.com/research/irans-ai-ambitions-balancing-economic-isolation-national-security-imperatives](https://www.recordedfuture.com/research/irans-ai-ambitions-balancing-economic-isolation-national-security-imperatives)

@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882873/horizons/technologies/25f87d5f-758b-48f3-be6c-88d73d1105f9-google-gemini-3.1-flash-image-preview-np6q35.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Spintronics

@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861752/aegis/technologies/cc77b952-a087-476d-bb4b-4659beabb338-google-gemini-3.1-flash-image-preview-f95d6s.jpg
+updated_at: '2026-09-28T17:17:48.876717+00:00'
+last_reviewed: null
 ---
 
 # Directed Energy Weapons
@@ -26,3 +28,8 @@ Directed energy weapons (DEWs) use concentrated electromagnetic energy — prima
 DEWs offer a transformative cost advantage: each shot costs dollars in electricity rather than millions for a kinetic interceptor missile. This is critical for countering cheap drone swarms — the unit economics of using a $3 million missile to shoot down a $1,000 drone are unsustainable. DEWs also have a 'deep magazine' limited only by power supply, not by carried munitions.
 
 The technology faces engineering challenges in beam propagation through atmosphere, thermal management, and power generation. Mobile platforms (ships, vehicles) need compact power systems capable of sustaining high-energy output. The US military is testing DEWs across all service branches, with the Navy's HELIOS system and Army's DE M-SHORAD leading near-term deployment.
+
+## Sources
+
+- [https://www.everycrsreport.com/files/2026-01-07_IF11882_97aff318dfa7ee420f43e2fc93c0e2a642284ee8.html](https://www.everycrsreport.com/files/2026-01-07_IF11882_97aff318dfa7ee420f43e2fc93c0e2a642284ee8.html)
+- [https://ragex.co/defense/military-technology/](https://ragex.co/defense/military-technology/)

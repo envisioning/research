@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774874952/helix/technologies/0525b6b8-2694-421e-ac6b-89c7f414e74c-google-gemini-3.1-flash-image-preview-87vddq.jpg
+updated_at: '2026-09-28T17:18:42.132188+00:00'
+last_reviewed: null
 ---
 
 # Alpha-Particle Radiation Therapy for Solid Tumors
@@ -26,3 +28,8 @@ Alpha Tau Medical has developed Alpha DaRT (Diffusing Alpha-emitters Radiation T
 The technology addresses a critical limitation of conventional radiation therapy: the trade-off between tumor destruction and collateral tissue damage. Alpha DaRT is particularly promising for tumors near sensitive structures where conventional radiation doses must be limited. Clinical trials are underway globally for skin, breast, pancreatic, and other solid tumor cancers.
 
 Israel's nuclear physics expertise — developed partly through the Dimona research program and academic institutions like the Weizmann Institute — provides the scientific foundation for Alpha DaRT. The technology represents an example of how dual-use nuclear knowledge can be channeled toward humanitarian applications. If clinical trials confirm efficacy across tumor types, Alpha DaRT could become a new pillar of oncology treatment worldwide.
+
+## Sources
+
+- [https://tracxn.com/d/explore/medical-devices-startups-in-tel-aviv-israel](https://tracxn.com/d/explore/medical-devices-startups-in-tel-aviv-israel)
+- [https://startupnationcentral.org/hub/blog/israeli-health-tech-top-100-of-2024/](https://startupnationcentral.org/hub/blog/israeli-health-tech-top-100-of-2024/)

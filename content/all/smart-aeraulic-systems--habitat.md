@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774888963/habitat/technologies/68a1325c-9934-472f-9ba2-4325dc8188e9-google-gemini-3.1-flash-image-preview-0dye5k.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Smart Aeraulic Systems

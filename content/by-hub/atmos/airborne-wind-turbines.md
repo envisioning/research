@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774888927/atmos/technologies/62f21f93-5b8a-4983-b1a1-3f0c39d1136f-google-gemini-3.1-flash-image-preview-padx4r.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Airborne Wind Turbines

@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817319/vector/technologies/b91f884a-6e4c-49e7-9c5a-e5b11b70623d-google-gemini-3.1-flash-image-preview-q3qckg.jpg
+updated_at: '2026-09-28T17:18:20.924225+00:00'
+last_reviewed: null
 ---
 
 # Hyundai/Kia Electric Vehicle Platform
@@ -26,3 +28,8 @@ Hyundai Motor Group developed E-GMP (Electric-Global Modular Platform) as a dedi
 The 800V system is a genuine technical differentiator — while most competitors operate at 400V, Hyundai/Kia's 800V architecture enables ultra-fast charging (10-80% in 18 minutes) and more efficient power delivery. The Ioniq 5 was the first mass-market 800V EV, beating Porsche Taycan's technology to a $45K price point.
 
 Hyundai Motor Group is the world's third-largest automaker and the only one outside China and Tesla with a fully proprietary EV platform in mass production. The group's Ulsan, Hwaseong, and new Georgia (US) and Cheonan factories give it global production capacity. Competition from Chinese EVs (BYD, NIO) is intense on price, but Hyundai/Kia compete on design, quality, and the global dealer/service network that Chinese brands lack outside China.
+
+## Sources
+
+- [https://www.hyundai.com/worldwide/en/eco/electric/e-gmp](https://www.hyundai.com/worldwide/en/eco/electric/e-gmp)
+- [https://www.kia.com/worldwide/ev/technology](https://www.kia.com/worldwide/ev/technology)

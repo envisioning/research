@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774791703/forge/technologies/c1843fdf-004f-4da9-b774-e5770dab37df-google-gemini-3.1-flash-image-preview-a5t1ik.png
+updated_at: '2026-09-28T17:17:53.650006+00:00'
+last_reviewed: null
 ---
 
 # 16,000-Ton Gigacasting Machine
@@ -25,3 +27,7 @@ Before 2018, a 'large' die casting machine was 4,000 tons. Tesla raised the bar 
 At this tonnage, Dongfeng casts integrated chassis and battery tray structures in a single shot — components that require multiple machines and dozens of assembly steps at any other automaker. The single-piece casting eliminates hundreds of welds, reducing weight, improving structural rigidity, and cutting production time.
 
 No Western machine is operating above 9,000 tons today. China took Tesla's own manufacturing innovation and nearly doubled it. The pattern is consistent: identify a manufacturing bottleneck, set a target at 2x the incumbent, then invest until it's achieved.
+
+## Sources
+
+- [https://x.com/lucagrecoita/status/2035006838106698058](https://x.com/lucagrecoita/status/2035006838106698058)

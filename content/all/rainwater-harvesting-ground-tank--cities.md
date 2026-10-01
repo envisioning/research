@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://www.datocms-assets.com/134194/1719322111-rainwater-harvesting-ground-tank.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Rainwater Harvesting Ground Tank
@@ -27,3 +29,17 @@ Rainwater harvesting ground tanks are essentially large, underground containers 
 The operation of a rainwater harvesting ground tank is straightforward yet highly effective. During a rainfall event, water is directed from roof surfaces into the gutters, which then funnel it into the tank. An integrated filtration system ensures that leaves, dirt, and other contaminants are removed before the water enters the tank. Advanced systems also include overflow mechanisms to manage excess water, preventing flooding and damage to the tank. The stored water can then be accessed through a pump system, delivering it for use throughout the building or garden as needed.
 
 As climate change intensifies, unpredictable weather patterns will increasingly challenge urban water management. These tanks not only provide a sustainable water source but also reduce the burden on municipal water systems and decrease the risk of flooding by controlling runoff. Moreover, they promote water conservation and resilience, essential qualities for cities aiming to adapt to environmental changes and support growing populations.
+
+## Sources
+
+- [Effect of rainfall variability and temporal resolution on rainwater harvesting tank sizing in a case study from Jordan and Germany](https://link.springer.com/article/10.1007/s43832-026-00344-z) (2026)
+- [A Framework to Evaluate the Performance of Urban Rainwater Harvesting Systems Considering Water and Sanitation Utility Perspectives under Deep Uncertainties](https://link.springer.com/article/10.1007/s11269-025-04278-4) (2025)
+- [Rainwater harvesting system for flat roofs studied and analyzed for households in the Casablanca City at risk of severe water shortage](https://link.springer.com/article/10.1007/s40899-025-01274-9) (2025)
+- [Rainwater harvesting system for flat roofs studied and analyzed for households in the Casablanca City at risk of severe water shortage](https://link.springer.com/article/10.1007/s40899-025-01274-9) (2025)
+- [Underground Rainwater Storage Solutions for Sustainable Infrastructure](https://www.yuderaineco.com/underground-rainwater-storage-solutions-for-sustainable-infrastructure) (2025)
+- [Rainwater Harvesting in Urban Settings](https://www.frontiersin.org/research-topics/58875/rainwater-harvesting-in-urban-settings)
+- [Rainwater harvesting by the market leader in plastic cisterns](https://www.graf.info/en/rainwater-harvesting.html)
+- [Smarter Homes guides](https://www.building.govt.nz/getting-started/smarter-homes-guides)
+- [The Importance of Rainwater Harvesting and Its Usage Possibilities: Antalya Example (Turkey)](https://www.mdpi.com/2073-4441/15/12/2194)
+- [WaterFence](https://waterfence.com/)
+- [​Revolutionising Urban Spaces: 5 Innovative Rainwater Harvesting Techniques](https://smartwateronline.com/news/revolutionising-urban-spaces-5-innovative-rainwater-harvesting-techniques)

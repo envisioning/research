@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816632/grid/technologies/3945665f-dfab-4dfc-b3ef-703b8117faa5-google-gemini-3.1-flash-image-preview-17tx3p.jpg
+updated_at: '2026-09-28T17:18:19.679328+00:00'
+last_reviewed: null
 ---
 
 # Hydrogen-Reduced Steelmaking (HyREX)
@@ -26,3 +28,9 @@ POSCO developed HyREX (Hydrogen Reduction), a proprietary steelmaking process th
 Steelmaking produces roughly 7% of global CO2 emissions, and decarbonizing it is one of the hardest challenges in industrial climate policy. HyREX's fluidized bed approach is technically distinct from European competitors like SSAB's HYBRIT (which uses shaft furnaces and iron ore pellets) — POSCO's reactor works with fine iron ore directly, potentially reducing preprocessing costs and energy consumption. The technology is being developed alongside the COOLSTAR national R&D project, a government-industry consortium of 29 partners working on hybrid low-carbon steelmaking.
 
 The global implications are significant: POSCO is the world's sixth-largest steelmaker, and if HyREX proves commercially viable, it offers a pathway for the entire Asian steel industry (which produces over 70% of global steel) to decarbonize without the pellet infrastructure that European approaches require. BHP signed a partnership with POSCO in 2025 specifically to advance HyREX using Australian iron ore, signaling that mining giants see Korean hydrogen steelmaking as a serious contender in the green steel race.
+
+## Sources
+
+- [https://greensteelworld.com/poscos-hyrex-cutting-edge-green-steel-technology-to-watch-out-for](https://greensteelworld.com/poscos-hyrex-cutting-edge-green-steel-technology-to-watch-out-for)
+- [https://newsroom.posco.com/en/from-ccus-to-hyrex-the-full-lineup-of-posco-groups-decarbonization-strategies-for-a-sustainable-steel-industry/](https://newsroom.posco.com/en/from-ccus-to-hyrex-the-full-lineup-of-posco-groups-decarbonization-strategies-for-a-sustainable-steel-industry/)
+- [https://www.bhp.com/news/media-centre/releases/2025/10/bhp-and-posco-partner-to-advance-hydrogen-based-ironmaking-technology](https://www.bhp.com/news/media-centre/releases/2025/10/bhp-and-posco-partner-to-advance-hydrogen-based-ironmaking-technology)

@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793713/spore/technologies/f2b0409e-6fb4-43e0-aafe-e4cd63cb56df-google-gemini-3.1-flash-image-preview-5r77f6.png
+updated_at: '2026-09-28T17:17:53.44155+00:00'
+last_reviewed: null
 ---
 
 # Amazon Bioeconomy Products
@@ -26,3 +28,8 @@ The Amazon bioeconomy encompasses the industrial use of forest products harveste
 Açaí alone generates over .5 billion annually and supports hundreds of thousands of families in Pará. Biotechnological processing is expanding the value: açaí waste is being converted into antioxidant supplements, natural dyes, and biochar. Copaíba oil is used in pharmaceutical formulations. Babaçu is processed into cosmetic oils and industrial lubricants.
 
 The strategic argument is economic: bioeconomy products from standing forest can generate 3-7x more revenue per hectare than cattle ranching, while employing more people and maintaining ecosystem services. If the economics scale, they reduce the financial incentive for deforestation — making conservation the more profitable choice. The Brazilian Bioinnovation Association estimates  billion in bioeconomy investment could generate  billion in returns by 2050.
+
+## Sources
+
+- [https://www.reuters.com/sustainability/cop/cop30-host-city-belem-brazil-tries-stoke-economy-while-preserving-amazon-2025-11-21/](https://www.reuters.com/sustainability/cop/cop30-host-city-belem-brazil-tries-stoke-economy-while-preserving-amazon-2025-11-21/)
+- [https://www.climatepolicyinitiative.org/publication/biodiversity-based-biotechnology-in-brazil-regulatory-and-institutional-challenges/](https://www.climatepolicyinitiative.org/publication/biodiversity-based-biotechnology-in-brazil-regulatory-and-institutional-challenges/)

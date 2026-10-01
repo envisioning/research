@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814012/wintermute/technologies/47eb4483-2992-4f4d-b4bb-4a1494e5be50-google-gemini-3.1-flash-image-preview-h1i1ri.png
+updated_at: '2026-09-28T17:18:12.607864+00:00'
+last_reviewed: null
 ---
 
 # ALLaM Arabic Language Model
@@ -25,3 +27,8 @@ ALLaM is an Arabic-focused large language model developed under Saudi Arabia's H
 ALLaM joins a growing ecosystem of Arabic LLMs (alongside UAE's Falcon and Jais, and Qatar's Fanar) that collectively represent the Gulf's determination to not be dependent on English-first AI models from the US or China. Each model targets slightly different use cases: ALLaM for Saudi government integration, Jais for enterprise, Falcon for open-source research.
 
 The competition between Gulf states to produce the leading Arabic AI platform is accelerating development timelines and investment levels. While this fragmentation may seem inefficient, it mirrors the global AI landscape where multiple competing models drive innovation faster than a monopoly would. The winner of the Arabic AI race will likely influence AI adoption patterns across the 22 Arabic-speaking countries.
+
+## Sources
+
+- [https://mei.edu/report/ai-the-gulf-and-the-us-a-primer/](https://mei.edu/report/ai-the-gulf-and-the-us-a-primer/)
+- [https://houseofsaud.com/saudi-arabia-year-of-artificial-intelligence-2026/](https://houseofsaud.com/saudi-arabia-year-of-artificial-intelligence-2026/)

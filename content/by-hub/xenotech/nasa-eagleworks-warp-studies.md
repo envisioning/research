@@ -10,6 +10,8 @@ trl: 2
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787787499/xenotech/technologies/nasa-eagleworks-warp-studies-imagegen-v1.png
+updated_at: '2026-08-26T23:39:29.695012+00:00'
+last_reviewed: null
 ---
 
 # Eagleworks Warp

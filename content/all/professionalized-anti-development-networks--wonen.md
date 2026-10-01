@@ -10,6 +10,8 @@ trl: 4
 impact: 1
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897719/wonen/technologies/97cc2786-8928-4e6e-a625-28a02c04f749-google-gemini-3.1-flash-image-preview-yv2eyo.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Professionalized Anti-Development Networks

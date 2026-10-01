@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852923/polis/technologies/4126cc7f-9d4c-4f13-939f-94053b5cc85e-google-gemini-3.1-flash-image-preview-eh2uzi.jpg
+updated_at: '2026-09-28T17:17:23.943983+00:00'
+last_reviewed: null
 ---
 
 # GDPR as Global Privacy Standard
@@ -25,3 +27,7 @@ The General Data Protection Regulation (GDPR), effective since 2018, is the worl
 Brazil's LGPD, Japan's APPI amendments, South Korea's PIPA revisions, India's DPDP Act, and dozens of other national privacy laws are modeled on GDPR principles: lawful basis for processing, data minimization, right to erasure, data portability, and mandatory data protection officers. Even US state-level privacy laws (California's CCPA/CPRA) draw on GDPR concepts.
 
 The Brussels Effect in privacy is a technology export: Europe exported a regulatory framework that reshapes how the global technology industry handles personal data. Companies like Apple, Google, and Meta redesigned their global data practices to comply with GDPR, effectively imposing European privacy standards on users worldwide.
+
+## Sources
+
+- [https://cepa.org/comprehensive-reports/mapping-the-brussels-effect-the-gdpr-goes-global/](https://cepa.org/comprehensive-reports/mapping-the-brussels-effect-the-gdpr-goes-global/)

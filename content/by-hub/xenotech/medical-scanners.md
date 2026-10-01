@@ -10,6 +10,8 @@ trl: 2
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898733/xenotech/technologies/medical-scanners-openrouter-google-gemini-3.1-flash-image-preview-hdq9cw.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Medical Scanners
@@ -41,3 +43,8 @@ The reported scanning technology faces several engineering challenges: creating 
 ## Current Medical Context
 
 Modern medical scanning requires large, expensive equipment with significant limitations. MRI machines are massive, require patients to remain still for extended periods, and use strong magnetic fields. CT scans involve ionizing radiation. Ultrasound requires physical contact with transducers. The described abduction scanners would represent revolutionary advances in portable, non-invasive, instantaneous medical imaging.
+
+## Sources
+
+- [EYESIGHT: Eye Examination System with Intelligent Guidance and Human Tracking](https://motion.cs.illinois.edu/papers/ISMR2025-Smith-EYESIGHT.pdf) (2025)
+- [Optomed Lumo: Handheld fundus camera for retinal imaging](https://optomed.com/optomeds-story) (2025)

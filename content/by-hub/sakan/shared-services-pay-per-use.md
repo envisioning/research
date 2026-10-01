@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1768561955/sakan/technologies/shared-services-pay-per-use-google-gemini-3-pro-image-preview-6tqpc4.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Shared Services & Pay-per-Use

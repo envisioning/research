@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855813/aegis/technologies/8c0f8d25-ca64-442a-90f7-4e3f1ac91c49-google-gemini-3.1-flash-image-preview-wncvun.png
+updated_at: '2026-09-28T17:18:29.480739+00:00'
+last_reviewed: null
 ---
 
 # Long-Range Air & Missile Defense System
@@ -26,3 +28,9 @@ The SIPER (formerly known as the Turkish Long-Range Air and Missile Defense Syst
 The SIPER program was catalyzed by Turkey's S-400 procurement crisis — when the US expelled Turkey from the F-35 program over the Russian purchase, it became clear that air defense sovereignty was essential. SIPER eliminates the political liabilities of relying on either Russian or American systems, giving Turkey a domestically controlled layered air defense architecture combined with HISAR short and medium-range systems.
 
 By fielding SIPER, Turkey joins an exclusive club alongside the US, Russia, China, France, Israel, and India as nations capable of producing long-range air defense systems. This capability carries enormous export potential and fundamentally changes Turkey's negotiating position within NATO — it can now contribute air defense capability without dependency on allied approval for technology access.
+
+## Sources
+
+- [https://defencesecurityasia.com/en/siper-missile-shield-turkey-answer-to-s400-patriot-missile-threats/](https://defencesecurityasia.com/en/siper-missile-shield-turkey-answer-to-s400-patriot-missile-threats/)
+- [https://www.overtdefense.com/2026/01/14/turkey-integrates-siper-1-long-range-air-defense-system/](https://www.overtdefense.com/2026/01/14/turkey-integrates-siper-1-long-range-air-defense-system/)
+- [https://en.wikipedia.org/wiki/S%C4%B0PER](https://en.wikipedia.org/wiki/S%C4%B0PER)

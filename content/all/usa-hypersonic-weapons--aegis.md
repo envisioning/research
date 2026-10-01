@@ -11,6 +11,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861969/aegis/technologies/ead14145-7699-4916-b2b7-df2070f919d1-google-gemini-3.1-flash-image-preview-47hun6.jpg
+updated_at: '2026-09-28T17:17:48.959228+00:00'
+last_reviewed: null
 ---
 
 # Hypersonic Weapons Systems
@@ -26,3 +28,8 @@ Hypersonic weapons travel at Mach 5+ and can maneuver during flight, making them
 Hypersonic weapons represent a generational shift in strike capability. Their combination of speed, range, and maneuverability allows them to defeat advanced air defenses and strike time-sensitive targets before they can relocate. They are particularly relevant for Pacific theater scenarios where US forces may need to neutralize Chinese anti-access/area-denial systems.
 
 The US is playing catch-up: both China and Russia deployed operational hypersonic weapons before the US completed testing. The FY2026 defense budget reflects significant investment in both offensive hypersonic weapons and defensive interceptor systems. The industrial base challenge — specialized thermal protection materials, scramjet propulsion, and precision guidance at extreme speeds — requires sustained investment in advanced manufacturing.
+
+## Sources
+
+- [https://www.congress.gov/crs-product/R45811](https://www.congress.gov/crs-product/R45811)
+- [https://dsm.forecastinternational.com/2025/12/22/an-overview-of-current-u-s-hypersonic-missile-developments/](https://dsm.forecastinternational.com/2025/12/22/an-overview-of-current-u-s-hypersonic-missile-developments/)

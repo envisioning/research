@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902945/xenotech/technologies/dimensional-resonance-matrices-openrouter-google-gemini-3.1-flash-image-preview-blbctj.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Resonance Matrices
@@ -72,3 +74,9 @@ While lacking empirical evidence, dimensional resonance matrices represent a coh
 ## Significance
 
 Dimensional Resonance Matrices represent the architectural infrastructure of inter-density travel, providing stable field-based gateway systems for dimensional transition. As systems designed to create consciousness-coherent dimensional portals, they exemplify the consciousness-dimensional integration frontier of xenotechnology, suggesting evolution beyond conventional portal technology toward consciousness-based dimensional travel and reality manipulation applications.
+
+## Sources
+
+- [Introduction to Sacred Geometry: The Reshel Grid, the Heart-mind, and the DNA](http://billbuehler.blogspot.com/2009/07/introduction-to-sacred-geometry-reshel.html) (2026)
+- [Bridging Energy and Information: Codality in an Aetheric Framework](https://sayerji.substack.com/p/aether-as-the-medium-of-codality) (2025)
+- [The Harmonic Grid of Earth – Ancient Structures and Planetary Resonance](https://www.beyondharmonics.org/blog/2025/harmonic-grid-of-earth) (2025)

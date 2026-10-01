@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792467/helix/technologies/0d57c06b-ec0f-4518-bd5d-6ea572285050-google-gemini-3.1-flash-image-preview-blxoz0.jpg
+updated_at: '2026-09-28T17:17:54.106952+00:00'
+last_reviewed: null
 ---
 
 # mRNA and Self-Replicating RNA Vaccine Platforms
@@ -26,3 +28,9 @@ COVID-19 exposed Latin America's vaccine dependency: the region imported nearly 
 srRNA is a next-generation approach where the RNA molecule replicates itself inside cells, requiring lower doses and potentially enabling single-dose vaccination. If successful, this could make Brazil a vaccine supplier for the Global South — a region of 4+ billion people currently dependent on wealthy-country pharmaceutical companies.
 
 Brazil's vaccine manufacturing base is already substantial: Fiocruz produces millions of doses of yellow fever, measles, and influenza vaccines annually. Adding mRNA/srRNA capability would complete the transition from vaccine recipient to vaccine innovator.
+
+## Sources
+
+- [https://cepi.net/mobilising-brazils-manufacturing-might-support-vaccine-production-global-south](https://cepi.net/mobilising-brazils-manufacturing-might-support-vaccine-production-global-south)
+- [https://www.prnewswire.com/news-releases/replicate-bioscience-and-instituto-butantan-enter-collaborative-agreement-302631083.html](https://www.prnewswire.com/news-releases/replicate-bioscience-and-instituto-butantan-enter-collaborative-agreement-302631083.html)
+- [https://fiocruz.br/en/production-and-innovation](https://fiocruz.br/en/production-and-innovation)

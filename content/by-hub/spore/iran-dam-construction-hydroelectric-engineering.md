@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872904/spore/technologies/a7b9e33f-5837-4cd3-8c2f-9cf759462270-google-gemini-3.1-flash-image-preview-fc0xj5.jpg
+updated_at: '2026-09-28T17:16:49.194829+00:00'
+last_reviewed: null
 ---
 
 # Large-Scale Dam Construction and Hydroelectric Engineering
@@ -26,3 +28,9 @@ Iran operates one of the most extensive dam systems in the Middle East, with 647
 Iran's dam engineering services are actively exported to Tajikistan, Armenia, and Azerbaijan, with prospective projects being developed in Kenya, Sri Lanka, Bolivia, and Mali. This export capability reflects deep competence in hydrogeological assessment, concrete dam engineering, tunnel boring for diversion and power tunnels, and hydroelectric turbine installation. Iranian firms compete on cost and willingness to work in difficult environments, offering complete project packages from feasibility studies through construction and commissioning. The capability was developed through necessity: Iran's water crisis demanded massive hydraulic infrastructure, and sanctions limited access to international engineering firms for sensitive projects.
 
 The strategic dimension involves both water security and regional influence. Dam construction in Central Asian countries builds bilateral relationships and positions Iran as a technical partner, while domestically the dam fleet provides flood control, irrigation, drinking water, and hydropower. However, the dam-building approach has drawn criticism from water experts who note that excessive damming has contributed to aquifer depletion, ecosystem destruction, and the shrinking of Lake Urmia. The tension between infrastructure expansion and environmental sustainability is an ongoing policy challenge that the engineering capability alone cannot resolve.
+
+## Sources
+
+- [https://water.fanack.com/iran/water-infrastructure-in-iran/](https://water.fanack.com/iran/water-infrastructure-in-iran/)
+- [https://en.wikipedia.org/wiki/List_of_dams_and_reservoirs_in_Iran](https://en.wikipedia.org/wiki/List_of_dams_and_reservoirs_in_Iran)
+- [https://iran-exp.com/the-growing-role-of-iranian-engineering-firms-in-middle-eastern-infrastructure-projects/](https://iran-exp.com/the-growing-role-of-iranian-engineering-firms-in-middle-eastern-infrastructure-projects/)

@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817474/helix/technologies/c367d939-ece4-4cf9-81f5-666e0f59f336-google-gemini-3.1-flash-image-preview-t6el00.jpg
+updated_at: '2026-09-28T17:18:21.36906+00:00'
+last_reviewed: null
 ---
 
 # Biosimilar Biologics
@@ -26,3 +28,8 @@ Celltrion pioneered the biosimilar industry by developing Remsima, the world's f
 Biosimilars are to biologic drugs what generics are to chemical drugs — near-identical copies that become available after patent expiry. However, manufacturing a biosimilar is far more complex than making a generic pill, because biologic drugs are produced by living cells and their molecular structure is exquisitely sensitive to production conditions. Celltrion's ability to reverse-engineer and manufacture these complex molecules at scale required decades of investment in cell line development and bioprocess engineering.
 
 Korea's biosimilar industry (Celltrion, Samsung Bioepis) has become a structural force in global pharmaceutical pricing, saving healthcare systems billions annually. The Korean government actively supports this sector through the K-Bio CDMO Support Act, recognizing that biosimilar manufacturing creates high-value jobs and reduces Korea's own healthcare costs.
+
+## Sources
+
+- [https://www.celltrion.com/en/biopharmaceutical/pipeline](https://www.celltrion.com/en/biopharmaceutical/pipeline)
+- [https://www.reuters.com/business/healthcare-pharmaceuticals/celltrion-biosimilars-global-market-2025/](https://www.reuters.com/business/healthcare-pharmaceuticals/celltrion-biosimilars-global-market-2025/)

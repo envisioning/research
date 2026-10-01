@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855267/grid/technologies/12d52125-57d7-4ee1-8932-64d9f4c3ee30-google-gemini-3.1-flash-image-preview-xb38jj.jpg
+updated_at: '2026-09-28T17:17:46.694578+00:00'
+last_reviewed: null
 ---
 
 # Utility-Scale Solar Power Deployment
@@ -26,3 +28,9 @@ Turkey has experienced explosive solar power growth, with installed capacity exc
 Turkey's solar resource is significant — estimated potential of 380 TWh/year, of which only 25 TWh is currently produced, indicating enormous room for further expansion. The Renewable Energy 2035 Roadmap targets quadrupling current wind and solar capacity to 120 GW combined, with total renewable capacity already crossing 75 GW when including hydropower. Renewables accounted for 99% of Turkey's net electricity capacity additions in recent years.
 
 The rapid scaling of solar creates industrial opportunities in panel manufacturing, installation services, and grid integration technology. Turkey's large construction sector provides the workforce and project management expertise for rapid deployment, while the growing domestic demand for solar creates market conditions that could support indigenous solar panel manufacturing at scale.
+
+## Sources
+
+- [https://ember-energy.org/latest-insights/turkiye-surpasses-2025-solar-target-as-capacity-doubles-in-2-5-years/](https://ember-energy.org/latest-insights/turkiye-surpasses-2025-solar-target-as-capacity-doubles-in-2-5-years/)
+- [https://solarquarter.com/2025/12/22/solar-power-surpasses-natural-gas-as-turkiyes-renewable-capacity-crosses-75-gw/](https://solarquarter.com/2025/12/22/solar-power-surpasses-natural-gas-as-turkiyes-renewable-capacity-crosses-75-gw/)
+- [https://enerji.gov.tr/infobank-energy-electricity](https://enerji.gov.tr/infobank-energy-electricity)

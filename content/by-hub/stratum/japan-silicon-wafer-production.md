@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818501/stratum/technologies/41fe051d-d06c-4ddc-86eb-fbc626c218fb-google-gemini-3.1-flash-image-preview-vnvc5l.png
+updated_at: '2026-09-28T17:18:22.461726+00:00'
+last_reviewed: null
 ---
 
 # Silicon Wafer Production
@@ -25,3 +27,8 @@ Shin-Etsu Chemical and SUMCO together hold approximately 53% of the global silic
 Silicon wafers are the literal foundation of the semiconductor industry. Every chip, from smartphone processors to AI accelerators, begins as a slice of crystalline silicon. The manufacturing process requires extreme precision in crystal growth (Czochralski method), slicing, polishing, and epitaxial layer deposition. Japanese companies have dominated this space for decades through continuous process refinement.
 
 With global semiconductor demand surging due to AI, EVs, and IoT, silicon wafer supply is a critical bottleneck. Shin-Etsu and SUMCO are expanding capacity, but lead times for new wafer production lines are 18-24 months. Japan's position as the majority supplier of this foundational material — combined with its photoresist and equipment dominance — gives it unmatched leverage across the entire semiconductor supply chain.
+
+## Sources
+
+- [https://www.trade.gov/country-commercial-guides/japan-semiconductors](https://www.trade.gov/country-commercial-guides/japan-semiconductors)
+- [https://www.brookings.edu/articles/the-renaissance-of-the-japanese-semiconductor-industry/](https://www.brookings.edu/articles/the-renaissance-of-the-japanese-semiconductor-industry/)

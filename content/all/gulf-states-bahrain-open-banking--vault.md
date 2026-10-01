@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814212/vault/technologies/69f1b693-fd10-458b-8f19-aede7c1758ba-google-gemini-3.1-flash-image-preview-vjrvm7.png
+updated_at: '2026-09-28T17:18:13.373009+00:00'
+last_reviewed: null
 ---
 
 # Bahrain Open Banking Framework
@@ -25,3 +27,7 @@ Bahrain's Central Bank implemented the region's first comprehensive open banking
 Bahrain's strategy is deliberate differentiation through regulation rather than capital. Unable to match the UAE or Saudi Arabia's investment scale, Bahrain instead offers the GCC's most progressive financial regulatory environment, attracting fintech companies that want to test products before scaling to larger Gulf markets. The Bahrain FinTech Bay serves as a regional sandbox.
 
 This regulatory-first approach has historical precedent: Bahrain built its banking sector in the 1970s-80s by being first to offer offshore banking licenses in the Gulf. The open banking framework extends this tradition into the digital era, positioning Bahrain as the gateway for fintech entering the broader GCC market.
+
+## Sources
+
+- [https://www.mordorintelligence.com/industry-reports/uae-fintech-market](https://www.mordorintelligence.com/industry-reports/uae-fintech-market)

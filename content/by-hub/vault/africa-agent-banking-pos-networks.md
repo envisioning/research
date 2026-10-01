@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811057/vault/technologies/af7b7bde-aa6d-45db-a0cf-85122320928e-google-gemini-3.1-flash-image-preview-49wdua.jpg
+updated_at: '2026-09-28T17:18:09.722072+00:00'
+last_reviewed: null
 ---
 
 # Agent Banking POS Terminal Networks
@@ -25,3 +27,8 @@ Agent banking uses a network of human agents — shopkeepers, market vendors, mo
 This solves a fundamental infrastructure gap. Nigeria has roughly 5,000 bank branches for 220 million people, concentrated in urban areas. Agent banking effectively multiplied the financial access points by 280x. The POS terminal becomes the bank branch — handling deposits, withdrawals, and transfers for communities that might be hours from the nearest ATM. Moniepoint alone processes over $18 billion monthly through its agent network.
 
 The model is distinctly African in its design. Rather than waiting for digital infrastructure (internet, smartphones) to reach rural areas, agent banking meets people where they are — with cash and basic technology. It's a hybrid system that bridges the analog-to-digital transition, and its success has made Nigeria a reference case for last-mile financial inclusion globally.
+
+## Sources
+
+- [https://techcabal.com/2025/07/21/the-biggest-fintech-companies-in-nigeria-2025/](https://techcabal.com/2025/07/21/the-biggest-fintech-companies-in-nigeria-2025/)
+- [https://businessday.ng/technology/article/a-decade-on-flutterwave-paystack-and-moniepoint-compete-for-africas-financial-plumbing/](https://businessday.ng/technology/article/a-decade-on-flutterwave-paystack-and-moniepoint-compete-for-africas-financial-plumbing/)

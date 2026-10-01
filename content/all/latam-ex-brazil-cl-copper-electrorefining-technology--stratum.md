@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813265/stratum/technologies/be6629e7-b089-40b8-9035-c13f84dd28ec-google-gemini-3.1-flash-image-preview-avk05d.jpg
+updated_at: '2026-09-28T17:17:34.660538+00:00'
+last_reviewed: null
 ---
 
 # Advanced Copper Electrorefining & Smelting
@@ -26,3 +28,9 @@ Chile's copper processing technology represents decades of metallurgical experti
 Codelco and private operators are investing in process intensification: larger flotation cells with improved hydrodynamics, column flotation for fine particle recovery, bioleaching of oxide ores using acidophilic bacteria, and solvent extraction-electrowinning (SX-EW) for low-grade deposits. The sulfuric acid produced as a smelting byproduct is sold to the lithium industry for brine processing — a circular economy within Chile's mining sector.
 
 As the world electrifies, copper demand is projected to increase 50% by 2040. Chile's ability to maintain production volumes (5.3 million tonnes annually) while ore grades decline requires continuous technological innovation in extraction, concentration, and refining. The country's metallurgical expertise is a form of technological sovereignty — the know-how to process complex copper ores exists in relatively few places globally, and Chile's decades of operational experience give it an advantage that newcomers cannot quickly replicate.
+
+## Sources
+
+- [https://blog.investchile.gob.cl/automation-new-opportunities-for-mining-innovation-in-chile](https://blog.investchile.gob.cl/automation-new-opportunities-for-mining-innovation-in-chile)
+- [https://www.mining.com/codelco-fast-tracks-automation-after-deadly-mine-collapse/](https://www.mining.com/codelco-fast-tracks-automation-after-deadly-mine-collapse/)
+- [https://en.wikipedia.org/wiki/Solar_power_in_Chile](https://en.wikipedia.org/wiki/Solar_power_in_Chile)

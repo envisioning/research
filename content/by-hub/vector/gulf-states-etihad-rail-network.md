@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814125/vector/technologies/56302adb-c72d-4553-bc3e-10676276adac-google-gemini-3.1-flash-image-preview-y4cbk8.jpg
+updated_at: '2026-09-28T17:17:06.649685+00:00'
+last_reviewed: null
 ---
 
 # Etihad Rail National Railway
@@ -26,3 +28,7 @@ Etihad Rail is the UAE's first national railway network, a $11 billion project s
 For a country historically dependent on road transport, Etihad Rail represents a fundamental shift in logistics infrastructure. The railway connects industrial zones, ports, and population centers, reducing trucking costs and emissions. Integration with the broader GCC railway network (connecting to Saudi Arabia and eventually Oman) will create a regional logistics corridor.
 
 The strategic significance is connectivity-driven economic integration across the emirates and eventually across the GCC. Rail infrastructure enables industrial development in less-developed emirates by reducing transport costs, supports the logistics hub strategy (connecting Jebel Ali port to Abu Dhabi's industrial zones), and provides the physical infrastructure for a more integrated Gulf economic bloc.
+
+## Sources
+
+- [https://www.britannica.com/place/Neom](https://www.britannica.com/place/Neom)

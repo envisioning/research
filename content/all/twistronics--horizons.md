@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898443/horizons/technologies/b98bc2b4-a66c-4e62-aac7-5055f16f2512-google-gemini-3.1-flash-image-preview-gmy6ip.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Twistronics

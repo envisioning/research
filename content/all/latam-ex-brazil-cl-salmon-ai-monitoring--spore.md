@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813104/spore/technologies/8f44aa1a-75e5-4641-b94e-168815925686-google-gemini-3.1-flash-image-preview-2wu99f.png
+updated_at: '2026-09-28T17:17:34.941477+00:00'
+last_reviewed: null
 ---
 
 # AI-Driven Aquaculture Monitoring Systems
@@ -26,3 +28,9 @@ Chile is the world's second-largest salmon producer (after Norway), and the indu
 Project Yelcho, launched in 2025 as a pre-competitive initiative by 11 of Chile's leading salmon producers, aims to significantly reduce antibiotic use in the industry — Chile currently uses more antibiotics per ton of salmon than any other producing country, drawing regulatory scrutiny and consumer concern. The technology approach includes predictive disease models that trigger early intervention, genomic selection for disease-resistant fish strains, and recirculating aquaculture systems (RAS) that control pathogen exposure.
 
 The strategic significance extends beyond Chile's $6B+ salmon export industry. Aquaculture is the world's fastest-growing food production sector, and the technologies being developed to address Chile's salmon challenges — AI monitoring, antibiotic alternatives, environmental sensors — are exportable to fish farming operations worldwide. Chile's unique position as a high-volume producer in cold southern waters provides a testing ground for sustainable aquaculture technology at industrial scale.
+
+## Sources
+
+- [https://www.seafoodsource.com/news/aquaculture/major-chilean-salmon-farmers-employing-artificial-intelligence-as-industry-modernizes](https://www.seafoodsource.com/news/aquaculture/major-chilean-salmon-farmers-employing-artificial-intelligence-as-industry-modernizes)
+- [https://www.agtechnavigator.com/Article/2025/04/29/aquaculture-2025-whats-shaping-aquacultures-growing-role-in-global-food-security/](https://www.agtechnavigator.com/Article/2025/04/29/aquaculture-2025-whats-shaping-aquacultures-growing-role-in-global-food-security/)
+- [https://www.aquamaof.com/](https://www.aquamaof.com/)

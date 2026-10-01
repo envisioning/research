@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811389/stratum/technologies/eedbac72-6b5a-47de-a227-c4c0370065d5-google-gemini-3.1-flash-image-preview-w3r729.png
+updated_at: '2026-09-28T17:18:10.518129+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Mineral Processing and Beneficiation Technology
@@ -26,3 +28,8 @@ South Africa holds the world's largest reserves of platinum group metals (PGMs â
 The technology challenge is specific to African geology. South African PGM deposits (the Bushveld Complex) have different mineralogy from deposits elsewhere, requiring processing methods developed locally. Mintek's proprietary ConRoast process for smelting PGM-containing concentrates and its work on ferrochrome processing represent decades of accumulated expertise that cannot be easily replicated.
 
 The strategic context is the global energy transition. Platinum for hydrogen fuel cells, palladium for catalytic converters, manganese and chrome for battery cathodes â€” South Africa's minerals are essential for the world's green technology supply chain. Developing indigenous processing technology ensures the country captures more value from its mineral endowment rather than shipping raw materials to China and Europe for processing. This is the beneficiation imperative: turning raw materials into refined products before export.
+
+## Sources
+
+- [https://www.mintek.co.za/](https://www.mintek.co.za/)
+- [https://www.engineeringnews.co.za/article/south-africa-mining-technology/](https://www.engineeringnews.co.za/article/south-africa-mining-technology/)

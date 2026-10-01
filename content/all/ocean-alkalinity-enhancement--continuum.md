@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124178/continuum/technologies/ocean-alkalinity-enhancement-google-gemini-3-pro-image-preview-r91pn7.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Ocean Alkalinity Enhancement

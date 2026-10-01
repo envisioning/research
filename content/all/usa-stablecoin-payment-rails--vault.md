@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861735/vault/technologies/c9c9d282-c0b4-4c0f-bb08-c49a847661a2-google-gemini-3.1-flash-image-preview-b75v6z.jpg
+updated_at: '2026-09-28T17:17:50.326433+00:00'
+last_reviewed: null
 ---
 
 # Stablecoin Payment Infrastructure
@@ -26,3 +28,8 @@ Stablecoins — cryptocurrencies pegged to fiat currencies, primarily the US dol
 Stablecoins solve real problems in international payments: traditional wire transfers take 2-5 days and cost $25-50; stablecoin transfers settle in seconds for cents. They are particularly transformative for remittances, B2B cross-border payments, and financial access in countries with unstable currencies. The technology has found product-market fit beyond crypto speculation.
 
 US dollar stablecoins extend the dollar's role as global reserve currency into the digital realm. Every USDC and USDT in circulation is backed by US Treasuries and dollar deposits, creating demand for dollar-denominated assets. This gives the US a strategic interest in stablecoin adoption — it's digital dollarization by the private sector, extending US financial influence without government-issued CBDCs.
+
+## Sources
+
+- [https://www.weforum.org/stories/2025/12/the-top-frontier-tech-stories-from-2025/](https://www.weforum.org/stories/2025/12/the-top-frontier-tech-stories-from-2025/)
+- [https://www.cfr.org/articles/how-2026-could-decide-future-artificial-intelligence](https://www.cfr.org/articles/how-2026-could-decide-future-artificial-intelligence)

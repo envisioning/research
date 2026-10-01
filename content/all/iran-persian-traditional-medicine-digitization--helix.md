@@ -11,6 +11,8 @@ trl: 5
 impact: 1
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774873000/helix/technologies/c3958822-e029-4ded-b527-95e43824ddbc-google-gemini-3.1-flash-image-preview-cz0rbp.jpg
+updated_at: '2026-09-28T17:16:49.088943+00:00'
+last_reviewed: null
 ---
 
 # Persian Traditional Medicine Digitization and Standardization
@@ -26,3 +28,9 @@ Iranian researchers have undertaken systematic efforts to digitize and standardi
 The technology innovation lies in creating machine-readable, interoperable representations of traditional medical knowledge that can interface with modern pharmaceutical research workflows. ITM describes diseases, treatments, and patient constitutions (mizaj) using a categorical framework fundamentally different from Western medicine. The ontological mapping work translates these concepts into formats that enable computational analysis — identifying candidate compounds for modern drug discovery based on centuries of documented clinical use. Universities including Tehran, Shahid Beheshti, and Mashhad have established dedicated departments of Persian Medicine offering formal academic programs.
 
 The strategic significance is dual. Domestically, Iran has integrated traditional medicine into its healthcare system as a complement to conventional medicine, addressing both cultural preferences and cost management for a population of 88 million. Internationally, the digitization of Persian medical texts positions Iranian researchers at the intersection of natural product chemistry, ethnopharmacology, and computational drug discovery — a growing field as pharmaceutical companies increasingly look to traditional medicine systems as sources of novel drug leads. Iran's unique position as the custodian of an extensive, well-documented medical tradition that has not been as thoroughly mined as Chinese Traditional Medicine creates a differentiated research niche.
+
+## Sources
+
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC8052758/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8052758/)
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC7243028/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7243028/)
+- [https://link.springer.com/article/10.1186/s13326-021-00237-1](https://link.springer.com/article/10.1186/s13326-021-00237-1)

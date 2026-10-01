@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809411/link/technologies/b5c918d1-e144-4d05-839d-be36c62ab98f-google-gemini-3.1-flash-image-preview-m06idt.jpg
+updated_at: '2026-09-28T17:18:07.366761+00:00'
+last_reviewed: null
 ---
 
 # Jio 5G Network Deployment
@@ -25,3 +27,9 @@ Reliance Jio launched its 5G network in October 2022 and executed what is arguab
 Jio's 5G rollout mirrors its earlier 4G disruption. In 2016, Jio launched 4G with free data for six months, effectively forcing India's telecom industry to consolidate from 12+ operators to three. The result was India going from some of the world's most expensive mobile data to the cheapest — under $2 per GB. Jio is applying the same playbook to 5G: aggressive rollout, competitive pricing, and vertical integration with its broader Jio Platforms ecosystem.
 
 The scale is remarkable even by global standards. India now has more 5G subscribers than most countries have people. Jio and Bharti Airtel together crossed 500 million 5G subscribers by late 2025. This rapid adoption is driven by India's young, digitally native population and the falling cost of 5G-capable smartphones. The 5G infrastructure enables India's digital economy ambitions — from cloud gaming and AR/VR to smart manufacturing and telemedicine.
+
+## Sources
+
+- [https://www.outlookbusiness.com/corporate/jio-airtel-spend-billions-on-5g-rollout-now-they-want-users-to-pay-for-it](https://www.outlookbusiness.com/corporate/jio-airtel-spend-billions-on-5g-rollout-now-they-want-users-to-pay-for-it)
+- [https://www.hindustantimes.com/business/state-of-india-s-telecom-5g-and-broadband-momentum-drives-jio-and-airtel-101765438765136.html](https://www.hindustantimes.com/business/state-of-india-s-telecom-5g-and-broadband-momentum-drives-jio-and-airtel-101765438765136.html)
+- [https://telecominfra.wordpress.com/2025/09/27/overview-of-mobile-networks-in-india-2025/](https://telecominfra.wordpress.com/2025/09/27/overview-of-mobile-networks-in-india-2025/)

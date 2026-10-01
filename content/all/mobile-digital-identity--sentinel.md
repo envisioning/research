@@ -9,6 +9,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462030/sentinel/technologies/mobile-digital-identity-google-gemini-3-pro-image-preview-49egj9.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Mobile Digital Identity (mDL)

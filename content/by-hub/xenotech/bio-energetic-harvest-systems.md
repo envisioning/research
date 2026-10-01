@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897265/xenotech/technologies/bio-energetic-harvest-systems-openrouter-google-gemini-3.1-flash-image-preview-pkze44.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Bio-Energetic Harvest
@@ -70,3 +72,11 @@ While lacking empirical evidence, bio-energetic harvest systems represent a cohe
 ## Significance
 
 Bio-Energetic Harvest Systems represent a psychophysical extraction system bridging energy biology and consciousness technology. As systems designed to harvest consciousness-generated energy, they exemplify the consciousness-energy integration frontier of xenotechnology, suggesting evolution beyond conventional energy systems toward consciousness-based energy extraction and utilization applications.
+
+## Sources
+
+- [The Soul Harvest: Are We Feeding Forces We Cannot See?](https://vocal.media/futurism/the-soul-harvest-are-we-feeding-forces-we-cannot-see) (2026)
+- [The Loosh Economy: Emotional Energy Extraction in Dysfunctional Relationships and Hidden Power Hierarchies](https://flatearthmachine.com/the-loosh-economy-emotional-energy-extraction-in-dysfunctional-relationships-and-hidden-power-hierarchies) (2025)
+- [The Loosh Economy: Emotional Energy Extraction in Dysfunctional Relationships and Hidden Power Hierarchies](https://flatearthmachine.com/the-loosh-economy-emotional-energy-extraction-in-dysfunctional-relationships-and-hidden-power-hierarchies) (2025)
+- [Treatise on the Energetic Harvest: Soul Radiations, Loosh, and the Machinery of Intra-Dimensional Control](https://substack.com/home/post/p-162296191) (2025)
+- [Welcome to the Loosh Farm: A Manual for Sovereignty and Psychic Defense](https://maskedmatrix.com/loosh-farm) (2025)

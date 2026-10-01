@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774859082/grid/technologies/dc433958-2ebf-4774-8a43-5675235cd86d-google-gemini-3.1-flash-image-preview-b72smt.jpg
+updated_at: '2026-09-28T17:16:55.448708+00:00'
+last_reviewed: null
 ---
 
 # Hydrogen-Based Green Iron Reduction
@@ -26,3 +28,8 @@ Australian companies and research institutions are developing hydrogen-based dir
 Steel production accounts for approximately 7% of global CO2 emissions. Traditional steelmaking uses coal as both fuel and chemical reductant. Hydrogen-based DRI replaces coal with green hydrogen, producing water vapor instead of CO2. Australia exports roughly 900 million tonnes of iron ore annually — primarily to China, Japan, and South Korea — and adding green iron processing would dramatically increase export value while decarbonizing the steel supply chain.
 
 The strategic logic is compelling: Australia has the world's largest iron ore reserves, among the best renewable energy resources globally, and the land and water to produce green hydrogen at scale. Combining these assets into green iron exports would transform Australia from a raw materials supplier into a clean manufacturing powerhouse. However, the technology requires massive capital investment in electrolyzer capacity, DRI plants, and port infrastructure, with commercial-scale deployment likely a decade away.
+
+## Sources
+
+- [https://arena.gov.au/renewable-energy/hydrogen/](https://arena.gov.au/renewable-energy/hydrogen/)
+- [https://www.dcceew.gov.au/energy/hydrogen](https://www.dcceew.gov.au/energy/hydrogen)

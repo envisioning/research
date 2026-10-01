@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875337/aegis/technologies/4fab2c94-0c93-4d0d-9267-451507f413f4-google-gemini-3.1-flash-image-preview-9h7mbz.jpg
+updated_at: '2026-09-28T17:18:43.027402+00:00'
+last_reviewed: null
 ---
 
 # Exo-Atmospheric Ballistic Missile Interception
@@ -25,3 +27,9 @@ The Arrow system, developed jointly by Israel Aerospace Industries and Boeing, i
 Arrow represents one of only a handful of operational exo-atmospheric interception systems worldwide, alongside the U.S. THAAD and Ground-Based Midcourse Defense. Its development gives Israel a sovereign capability to defend against the existential threat of Iranian ballistic missiles without depending on U.S. military assets being in theater. The system's proven performance during actual Iranian attacks has validated decades of investment.
 
 Strategically, Arrow-3's space-based interception capability positions it as a premium export platform. Germany purchased Arrow-3 in 2023 as part of NATO's European Sky Shield Initiative, marking the system's first major sale to a European power. The combination of combat validation, space-intercept capability, and integration with Israel's multi-layered architecture makes it one of the world's most strategically significant defense technologies.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Arrow_(missile_family)](https://en.wikipedia.org/wiki/Arrow_(missile_family))
+- [https://moderndiplomacy.eu/2026/02/27/inside-israels-missile-shield-the-multi-layered-defence-built-to-counter-iran/](https://moderndiplomacy.eu/2026/02/27/inside-israels-missile-shield-the-multi-layered-defence-built-to-counter-iran/)
+- [https://www.calcalistech.com/ctechnews/article/byl5e8zk11l](https://www.calcalistech.com/ctechnews/article/byl5e8zk11l)

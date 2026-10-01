@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998529/aura/technologies/full-stack-age-reversal-programs-gemini-3-pro-izsfqf.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Full-Stack Age Reversal Programs

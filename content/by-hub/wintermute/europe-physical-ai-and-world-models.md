@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852614/wintermute/technologies/106285cc-3463-451c-a1e2-ff67455fc6b6-google-gemini-3.1-flash-image-preview-uuqanp.jpg
+updated_at: '2026-09-28T17:18:23.747766+00:00'
+last_reviewed: null
 ---
 
 # Physical AI and World Models
@@ -26,3 +28,7 @@ A convergence of European AI research is creating 'physical AI' — systems that
 Companies like Luma AI (PROTOTYPE Capital portfolio, $1B+ valuation) are building multimodal world models that ingest video, sensor data, text, and physics simulations. The European robotics ecosystem (ANYbotics, NEURA, Exotec, 1X Technologies) provides the physical platforms that need these world models to operate autonomously.
 
 The shift from digital AI (chatbots, image generation) to physical AI (robots, autonomous vehicles, industrial automation) plays to European strengths: the continent has the world's densest concentration of advanced manufacturing, robotics research, and industrial customers demanding automation. PROTOTYPE Capital's Fund III is entirely focused on this thesis — that the AI frontier has moved from language to the physical world, and Europe's industrial base gives it an advantage the US lacks.
+
+## Sources
+
+- [https://tech.eu/2026/01/19/prototype-capital-launches-fund-iii-and-hits-56x-returns-backing-crazy-ideas-in-robotics-and-physical-ai/](https://tech.eu/2026/01/19/prototype-capital-launches-fund-iii-and-hits-56x-returns-backing-crazy-ideas-in-robotics-and-physical-ai/)

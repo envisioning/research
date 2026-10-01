@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649159/lumen/technologies/urban-signaling-wayfinding-google-gemini-3-pro-image-preview-fy864r.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Urban Signaling & Wayfinding

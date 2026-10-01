@@ -9,6 +9,8 @@ trl: 4
 impact: 5
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435154/eclipse/technologies/posthumous-data-rights-google-gemini-3-pro-image-preview-pjm1i5.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Posthumous Data Privacy

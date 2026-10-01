@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813158/meridian/technologies/99ec7f40-79b8-4e3b-9c4c-d36c8d440736-google-gemini-3.1-flash-image-preview-hk6s8m.jpg
+updated_at: '2026-09-28T17:17:35.605666+00:00'
+last_reviewed: null
 ---
 
 # Chile Copper Hydrometallurgy (SX-EW)
@@ -25,3 +27,9 @@ Chile has perfected the hydrometallurgical processing of copper oxide ores throu
 SX-EW's importance lies in what it avoids: traditional smelting. By dissolving copper from ore using chemical leaching rather than melting it at 1,200°C, SX-EW eliminates smelter emissions (SO₂, arsenic particulates) and reduces energy consumption by roughly 50% per tonne of copper produced. Chilean engineers and metallurgists have pushed the technology's boundaries — developing bioleaching using acidophilic bacteria (Acidithiobacillus ferrooxidans) to extract copper from low-grade chalcopyrite ores that resist conventional acid leaching, and chloride-based leaching systems that work on mixed sulfide-oxide deposits. Codelco's Radomiro Tomic operation pioneered the application of SX-EW to large-scale mining, proving the technology's viability at 300,000+ tonne annual output.
 
 Strategically, Chile's SX-EW expertise is both an asset and a challenge. The technology extended the economic life of Chile's aging copper deposits by making low-grade oxide ores profitable, but oxide ore reserves are now declining as mines push deeper into primary sulfide zones where SX-EW is less effective. The next frontier — chloride leaching and bioleaching of chalcopyrite concentrates — could be transformative, potentially eliminating the need for smelters entirely. Chilean mining research centers like CIMM and university labs at UCH and UTFSM are at the forefront of this work. Success would be globally significant: copper demand is projected to double by 2040 for electrification, and any technology that reduces the environmental footprint of copper production addresses one of the energy transition's most critical bottlenecks.
+
+## Sources
+
+- [https://www.cochilco.cl/Paginas/English/Statistics/Production.aspx](https://www.cochilco.cl/Paginas/English/Statistics/Production.aspx)
+- [https://www.codelco.com/en/operations/radomiro-tomic](https://www.codelco.com/en/operations/radomiro-tomic)
+- [https://www.sciencedirect.com/science/article/pii/S0304386X20301559](https://www.sciencedirect.com/science/article/pii/S0304386X20301559)

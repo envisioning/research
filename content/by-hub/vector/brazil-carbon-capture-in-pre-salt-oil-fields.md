@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792967/vector/technologies/5c9f941b-e4d6-4ea5-80a1-e15cb9ddb128-google-gemini-3.1-flash-image-preview-vwru27.png
+updated_at: '2026-09-28T17:17:54.587279+00:00'
+last_reviewed: null
 ---
 
 # Carbon Capture in Pre-Salt Oil Fields
@@ -26,3 +28,7 @@ Pre-salt oil contains high concentrations of CO2 (up to 20% of the extracted flu
 The scale is significant: Petrobras reinjects millions of tons of CO2 annually across its pre-salt operations, making it one of the largest offshore carbon capture and storage (CCS) operations globally. The Santos Basin CCUS hub is being developed to expand this capacity.
 
 The irony is notable: an oil company running one of the world's largest carbon storage operations. But the engineering is real — the technology for separating, compressing, and injecting CO2 at deepwater pressures was developed out of operational necessity and represents genuine expertise in carbon management.
+
+## Sources
+
+- [https://petrobras.com.br/en/pre-sal](https://petrobras.com.br/en/pre-sal)

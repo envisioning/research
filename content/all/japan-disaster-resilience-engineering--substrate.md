@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818924/substrate/technologies/707f2c81-33a4-4192-8fd6-e6e48be8a93c-google-gemini-3.1-flash-image-preview-mhw9t7.png
+updated_at: '2026-09-28T17:16:50.740266+00:00'
+last_reviewed: null
 ---
 
 # Disaster Resilience Engineering (Bosai Technology)
@@ -26,3 +28,9 @@ Japan has developed the world's most comprehensive disaster resilience system th
 The technology layer is increasingly sophisticated: AI-powered disaster simulation software can predict earthquake damage and tsunami inundation patterns within minutes, drone swarms assess post-disaster damage autonomously, and satellite-based displacement monitoring detects ground movement before landslides occur. Japan's building inspection regime — where licensed 'kenchikushi' (architect-engineers) bear personal liability for building safety for a decade — creates accountability that most countries lack. After the 2024 Noto earthquake, Japanese buildings designed to current codes suffered minimal structural damage despite intense shaking.
 
 Japan is now actively exporting bosai as a technology package. JICA (Japan International Cooperation Agency) operates disaster resilience programs in over 90 countries, transferring building codes, early warning systems, and community preparedness methodology. Countries like Turkey, Indonesia, Chile, and the Philippines have adopted Japanese seismic engineering standards. As climate change increases disaster frequency globally, Japan's integrated approach — not just individual technologies but the entire system of prediction, prevention, response, and recovery — represents one of the country's most valuable and distinctive technology exports.
+
+## Sources
+
+- [https://www.japan.go.jp/kizuna/2025/03/next-gen_disaster_tech.html](https://www.japan.go.jp/kizuna/2025/03/next-gen_disaster_tech.html)
+- [https://www.businessinsider.com/japan-disaster-resilient-construction-american-can-learn-building-code-culture-2025-2](https://www.businessinsider.com/japan-disaster-resilient-construction-american-can-learn-building-code-culture-2025-2)
+- [https://www.preventionweb.net/news/100-years-fortitude-strengthening-urban-resilience-against-disasters](https://www.preventionweb.net/news/100-years-fortitude-strengthening-urban-resilience-against-disasters)

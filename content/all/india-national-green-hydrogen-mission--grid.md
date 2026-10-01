@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774799892/grid/technologies/03b34acb-1d09-412d-a8a4-683e1e8abfbd-google-gemini-3.1-flash-image-preview-sk71h0.png
+updated_at: '2026-09-28T17:17:04.453378+00:00'
+last_reviewed: null
 ---
 
 # National Green Hydrogen Mission
@@ -26,3 +28,9 @@ India's National Green Hydrogen Mission, launched in January 2023 with an initia
 Green hydrogen — produced by splitting water using renewable electricity — is critical for decarbonizing industries that can't easily electrify: steel, cement, chemicals, heavy transport, and shipping. India's abundant solar and wind resources give it a potential cost advantage in green hydrogen production. The government is providing incentives for both hydrogen production and electrolyzer manufacturing to build an end-to-end domestic value chain.
 
 India's green hydrogen ambitions complement its solar manufacturing push — cheap renewable electricity is the key input for cost-competitive green hydrogen. If India can achieve its targets, it could become a major hydrogen exporter, particularly to energy-importing countries in East Asia and Europe. Indian companies including Reliance, Adani, Indian Oil, and NTPC are investing heavily in hydrogen projects, with several pilot plants already operational.
+
+## Sources
+
+- [https://www.pib.gov.in/PressReleasePage.aspx?PRID=2189126](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2189126)
+- [https://rmi.org/green-hydrogen-production-pathways-for-india/](https://rmi.org/green-hydrogen-production-pathways-for-india/)
+- [https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209478](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209478)

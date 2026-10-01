@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815348/forge/technologies/574e4b0f-ee6a-49ba-88bc-9c006d4aad87-google-gemini-3.1-flash-image-preview-na66ah.jpg
+updated_at: '2026-09-28T17:17:58.448241+00:00'
+last_reviewed: null
 ---
 
 # Rare Earth Element Processing
@@ -25,3 +27,9 @@ Vietnam — Vietnam's rare earth reserves, concentrated in Lai Chau and Lao Cai 
 The USGS revised Vietnam's reserve estimates downward in 2025, creating uncertainty about the resource base. However, the strategic significance remains: as the US and EU seek to diversify rare earth supply chains away from China's 60%+ processing dominance, Vietnam's combination of reserves, proximity to manufacturing demand, and willingness to accept foreign investment makes it a priority partner.
 
 Vietnam's approach is more sophisticated than simple extraction: the legal framework mandates advanced processing capabilities, environmental standards, and domestic value-addition. This 'conditional sovereignty' model — resources for technology — could become a template for how developing nations negotiate critical mineral access with advanced economies.
+
+## Sources
+
+- [https://riskandcompliance.freshfields.com/post/102luhd/shaping-asias-infrastructure-rare-earth-elements-in-vietnam-opportunities-and](https://riskandcompliance.freshfields.com/post/102luhd/shaping-asias-infrastructure-rare-earth-elements-in-vietnam-opportunities-and)
+- [https://www.mining.com/web/us-agency-slashes-its-estimate-of-vietnams-rare-earth-reserves-in-major-revision/](https://www.mining.com/web/us-agency-slashes-its-estimate-of-vietnams-rare-earth-reserves-in-major-revision/)
+- [https://discoveryalert.com.au/vietnam-rare-earth-legal-framework-2025/](https://discoveryalert.com.au/vietnam-rare-earth-legal-framework-2025/)

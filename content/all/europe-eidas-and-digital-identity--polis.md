@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774854011/polis/technologies/d2e998df-4752-4ee1-b78c-cfacfbc033ce-google-gemini-3.1-flash-image-preview-c8bljy.jpg
+updated_at: '2026-09-28T17:18:25.277375+00:00'
+last_reviewed: null
 ---
 
 # eIDAS and Digital Identity
@@ -25,3 +27,7 @@ The revised eIDAS regulation (eIDAS 2.0) requires all EU member states to offer 
 The architecture is designed for privacy: citizens control which attributes they share (you can prove you're over 18 without revealing your birth date), and transactions are not tracked by the identity provider. This 'selective disclosure' approach sets a global standard for privacy-preserving digital identity.
 
 The pan-European scope is what distinguishes this from national digital ID systems: a French digital identity will be recognized in Germany, Spain, or any other EU member state. Cross-border recognition of digital identities enables seamless access to government services, banking, healthcare, and telecommunications across the single market — a practical integration step that goes beyond what any other multi-country digital identity system has achieved.
+
+## Sources
+
+- [https://appleinsider.com/articles/25/04/11/france-plans-country-wide-digital-identity-cards-on-iphone-by-the-summer](https://appleinsider.com/articles/25/04/11/france-plans-country-wide-digital-identity-cards-on-iphone-by-the-summer)

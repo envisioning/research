@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860364/apogee/technologies/0d110578-fe73-42fe-b8b4-2356db1f503b-google-gemini-3.1-flash-image-preview-q4y7tn.jpg
+updated_at: '2026-09-28T17:18:32.456718+00:00'
+last_reviewed: null
 ---
 
 # Nuclear Thermal Propulsion for Space
@@ -26,3 +28,8 @@ Nuclear thermal propulsion (NTP) uses a nuclear reactor to heat propellant (hydr
 NTP is the enabling technology for practical crewed Mars missions. Chemical propulsion requires 9-month transit times each way, exposing astronauts to dangerous radiation and microgravity effects. NTP cuts this to 3-4 months, dramatically reducing biological risk and logistics requirements. The technology also enables rapid repositioning of military assets in cislunar space.
 
 The US previously tested nuclear thermal engines in the 1960s-70s (NERVA program) but abandoned development. DARPA's DRACO program revives this capability with modern materials and reactor design. China is also developing NTP, creating a space race dynamic for technologies that enable deep space operations.
+
+## Sources
+
+- [https://www.darpa.mil/research/programs](https://www.darpa.mil/research/programs)
+- [https://payloadspace.com/what-to-expect-in-2026/](https://payloadspace.com/what-to-expect-in-2026/)

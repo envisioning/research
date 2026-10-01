@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763986349/wintermute/technologies/organizational-ai-cogovernance-gemini-3-pro-oceond.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Organizational AI Co-Governance Systems

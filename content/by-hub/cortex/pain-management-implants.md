@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062755/cortex/technologies/pain-management-implants-gemini-3-pro-mqi0mr.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Pain Management Implants

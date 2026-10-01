@@ -10,6 +10,8 @@ trl: 3
 impact: 1
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328182/formar/technologies/sensores-estruturais-embutidos-google-gemini-3-pro-image-preview-z2qdsn.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Sensores Estruturais Embutidos
@@ -25,3 +27,7 @@ Sensores estruturais embutidos representam uma mudança fundamental na forma com
 A implementação dessa tecnologia aborda um desafio crítico na gestão de infraestrutura urbana: a limitação dos métodos tradicionais de inspeção visual e periódica, que frequentemente falham em detectar problemas estruturais antes que se tornem visíveis ou críticos. Em contextos urbanos densos, onde edifícios residenciais, comerciais e infraestrutura de transporte operam sob cargas constantes e condições ambientais variáveis, a capacidade de monitorar continuamente a integridade estrutural representa um avanço significativo em segurança pública. Essa abordagem permite a transição de modelos de manutenção reativa ou baseada em cronogramas fixos para estratégias verdadeiramente preditivas, onde intervenções são programadas com base em dados reais de degradação estrutural. Para gestores de infraestrutura e incorporadoras, isso significa não apenas maior segurança, mas também otimização de custos operacionais, uma vez que recursos de manutenção podem ser direcionados precisamente onde são necessários, evitando tanto a negligência quanto a manutenção excessiva.
 
 No Brasil, a adoção de sensores estruturais embutidos tem ganhado tração especialmente em projetos de infraestrutura crítica, incluindo viadutos, túneis e edifícios de grande porte em regiões metropolitanas. Pesquisas em universidades brasileiras têm explorado a adaptação dessas tecnologias às condições climáticas tropicais e aos materiais de construção locais, enquanto projetos-piloto em obras públicas começam a demonstrar a viabilidade técnica e econômica do monitoramento contínuo. A tecnologia se alinha com tendências mais amplas de digitalização da construção civil e desenvolvimento de cidades inteligentes, onde dados estruturais podem ser integrados a plataformas de gestão urbana mais abrangentes. À medida que os custos de sensores continuam a diminuir e as capacidades de processamento de dados em nuvem se expandem, espera-se que o monitoramento estrutural contínuo se torne padrão em novas construções, particularmente em estruturas onde falhas podem ter consequências catastróficas para vidas humanas e para a economia urbana.
+
+## Sources
+
+- [Optic-Based Patch Sensor for Structural Health Monitoring in Reinforced Concrete Structures](https://hal.science/hal-04969438v1/document) (2025)

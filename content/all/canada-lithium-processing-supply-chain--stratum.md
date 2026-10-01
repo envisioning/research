@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871242/stratum/technologies/9137cf0e-c5dc-4923-bd57-46f21277e396-google-gemini-3.1-flash-image-preview-e8d4hi.jpg
+updated_at: '2026-09-28T17:17:05.693541+00:00'
+last_reviewed: null
 ---
 
 # Domestic Lithium Processing
@@ -26,3 +28,8 @@ Canada is rapidly developing its domestic lithium extraction and processing capa
 This is significant because lithium processing has historically been dominated by China, which refines approximately 60% of the world's lithium regardless of where it's mined. Canada's effort to build end-to-end lithium supply chains — from mine to battery-grade chemical — directly addresses this strategic vulnerability. The US government's equity stake in Lithium Americas underscores the geopolitical importance of Canadian lithium to North American supply security.
 
 The strategic challenge is competing on cost with established Chinese processors who benefit from scale, lower environmental standards, and government subsidies. Canada's counter-proposition is ESG-compliant, cleanly powered lithium production that meets the increasingly stringent supply chain requirements of European and North American automakers. The IRA's domestic content requirements for EV tax credits provide additional tailwinds.
+
+## Sources
+
+- [https://farmonaut.com/mining/lithium-mines-in-canada-2026-sustainable-growth-impact](https://farmonaut.com/mining/lithium-mines-in-canada-2026-sustainable-growth-impact)
+- [https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/](https://techcrunch.com/2025/09/30/u-s-government-takes-stake-in-canadian-lithium-miner-and-its-nevada-mining-project/)

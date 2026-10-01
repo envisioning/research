@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813540/vault/technologies/ffbaced9-af3a-4875-8078-774b70154103-google-gemini-3.1-flash-image-preview-u2li7t.jpg
+updated_at: '2026-09-28T17:17:26.637146+00:00'
+last_reviewed: null
 ---
 
 # Blockchain-Based Cross-Border Remittance Technology
@@ -26,3 +28,9 @@ Mexico is the world's second-largest remittance recipient, receiving over $60 bi
 The technology stack includes on-ramp/off-ramp networks that convert dollars to crypto to pesos using liquidity pools, compliance systems that perform KYC/AML checks in real-time across jurisdictions, and mobile-first interfaces designed for low-literacy users. Mexico's 2018 Fintech Law provided regulatory clarity for crypto exchanges, creating a legal framework that most Latin American countries lack.
 
 The strategic impact extends beyond individual transfers. Cheaper, faster remittances increase the effective income of millions of Mexican families, while the infrastructure built for remittances — cross-border rails, multi-currency wallets, compliance networks — can be repurposed for trade finance, payroll, and B2B payments. The risk is regulatory uncertainty: both Mexican and US regulators are tightening crypto oversight, which could constrain the most cost-effective corridors.
+
+## Sources
+
+- [https://www.lightspark.com/knowledge/mexico-real-time-payments](https://www.lightspark.com/knowledge/mexico-real-time-payments)
+- [https://paymentscmi.com/insights/mexico-2024-analysis-of-payments-and-ecommerce-trends/](https://paymentscmi.com/insights/mexico-2024-analysis-of-payments-and-ecommerce-trends/)
+- [https://www.thunes.com/insights/trends/mexico-transforming-digital-payments-in-latin-america/](https://www.thunes.com/insights/trends/mexico-transforming-digital-payments-in-latin-america/)

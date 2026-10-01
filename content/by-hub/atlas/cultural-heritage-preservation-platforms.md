@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127168/atlas/technologies/cultural-heritage-preservation-platforms-google-gemini-3-pro-image-preview-74ic58.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cultural Heritage Preservation Platforms

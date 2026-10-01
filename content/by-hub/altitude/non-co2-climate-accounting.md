@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649029/altitude/technologies/non-co2-climate-accounting-google-gemini-3-pro-image-preview-8i9a32.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Non-CO₂ Climate Accounting & Policy

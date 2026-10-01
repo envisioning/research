@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766579892/habitacao/technologies/lean-construction-last-planner-google-gemini-3-pro-image-preview-1q1bqj.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Lean Construction e Last Planner em Escala
@@ -25,3 +27,8 @@ Lean Construction (incluindo Last Planner System) muda o foco de 'cronograma bon
 No Brasil, onde atrasos e replanejamentos são estruturais, a adoção em escala é um sinal de mudança de produtividade: menos espera por materiais, menos retrabalho e melhor coordenação de subempreiteiros. Quando integrado a plataformas digitais, vira um sistema nervoso de curto prazo para o canteiro. A tecnologia está sendo adotada em obras que buscam melhorar produtividade, especialmente relevante em contextos onde atrasos são problema estrutural.
 
 O sinal de mudança é a transição de planejamento baseado em cronogramas estáticos para gestão baseada em fluxo contínuo e remoção de restrições, criando novos modelos de produtividade que reduzem desperdício e melhoram coordenação, especialmente relevante em obras complexas onde coordenação e fluxo são críticos.
+
+## Sources
+
+- [Lean Construction e Gestão Ágil: Construtora Planeta eleva produtividade com novo modelo de gestão](https://revistaoe.com.br/lean-construction-gestao-agil-construtora-planeta) (2025)
+- [Lean Construction e Gestão Ágil: Construtora Planeta eleva produtividade com novo modelo de gestão](https://revistaoe.com.br/lean-construction-gestao-agil-construtora-planeta) (2025)

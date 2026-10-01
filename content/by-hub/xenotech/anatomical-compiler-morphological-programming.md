@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939876/xenotech/technologies/anatomical-compiler-morphological-programming-imagegen-v1.png
+updated_at: '2026-08-28T17:57:57.417676+00:00'
+last_reviewed: null
 ---
 
 # Anatomical Compiler

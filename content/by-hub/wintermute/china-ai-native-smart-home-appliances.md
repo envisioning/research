@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774794531/wintermute/technologies/0358cc0e-da5b-4b1c-b9c6-3e0078b6de0d-google-gemini-3.1-flash-image-preview-yo13ni.jpg
+updated_at: '2026-09-28T17:16:30.914445+00:00'
+last_reviewed: null
 ---
 
 # AI-Native Smart Home Appliances
@@ -26,3 +28,8 @@ At the AWE 2025 expo in Shanghai, Chinese appliance makers demonstrated a new ge
 Midea partnered with Huawei's HarmonyOS to create appliances that communicate with each other — an air machine activates fresh air intake when a CO2 sensor in another room detects elevated levels. Dreame displayed a vacuum cleaner with a dual-level bionic robotic arm that reaches under furniture.
 
 AWE 2025 drew record foreign buyers, signaling that Chinese smart appliances are becoming export products, not just domestic curiosities. The competitive advantage is integration: Chinese manufacturers can embed AI chips, sensors, and connectivity at price points that Western appliance brands struggle to match.
+
+## Sources
+
+- [https://www.yicaiglobal.com/news/ai-tech-takes-over-appliance-electronics-world-expo-in-shanghai](https://www.yicaiglobal.com/news/ai-tech-takes-over-appliance-electronics-world-expo-in-shanghai)
+- [https://en.cheaa.org/contents/467/12440.html](https://en.cheaa.org/contents/467/12440.html)

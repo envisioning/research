@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855436/forge/technologies/487c2a08-4e8d-495c-9d65-2b239477b623-google-gemini-3.1-flash-image-preview-awww6p.jpg
+updated_at: '2026-09-28T17:17:46.115392+00:00'
+last_reviewed: null
 ---
 
 # Seismic-Resilient Building Technology
@@ -26,3 +28,7 @@ The February 2023 earthquakes in southeastern Turkey (magnitude 7.8 and 7.7) kil
 Turkey sits on multiple active fault lines including the North Anatolian Fault (one of the world's most active), making earthquake resilience not merely a technical preference but an existential requirement. The 2023 disaster revealed catastrophic failures in building quality enforcement, driving a regulatory and technological transformation that includes mandatory structural monitoring, drone-based post-earthquake damage assessment, and AI-powered compliance inspection during construction.
 
 The seismic resilience technology developed for Turkey has significant export potential across the earthquake-prone Anatolian-Alpine seismic belt that extends from Southern Europe through Turkey, Iran, Central Asia, and the Himalayas. Turkish construction companies already operating in these regions can deploy earthquake-resistant technologies developed from hard-won domestic experience, creating a competitive advantage in a growing market for climate and geological adaptation infrastructure.
+
+## Sources
+
+- [https://www.dailysabah.com/turkiye/turkiye-boosts-agricultural-transformation-amid-2025-climate-risks/news](https://www.dailysabah.com/turkiye/turkiye-boosts-agricultural-transformation-amid-2025-climate-risks/news)

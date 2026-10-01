@@ -3,19 +3,22 @@ slug: foundations-as-conveners
 hub: agape
 title: Foundations as Conveners Rather Than Funders
 summary: Foundations acting as conveners rather than funders, focusing on coordination
+  and facilitation over direct grantmaking.
 permalink: https://www.envisioning.com/agape/foundations-as-conveners
 collection: organizational-forms-ecosystems
 trl: 2
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372251/agape/signals/foundations-as-conveners-google-gemini-3-pro-image-preview-f7fhu1.png
+updated_at: '2026-10-01T09:30:46.994228+00:00'
+last_reviewed: null
 ---
 
 # Foundations as Conveners Rather Than Funders
 
 ## Summary
 
-Foundations acting as conveners rather than funders, focusing on coordination
+Foundations acting as conveners rather than funders, focusing on coordination and facilitation over direct grantmaking.
 
 ## Description
 

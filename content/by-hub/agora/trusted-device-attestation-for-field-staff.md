@@ -9,6 +9,8 @@ trl: 7
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641794/agora/technologies/trusted-device-attestation-for-field-staff-google-gemini-3-pro-image-preview-dt52yw.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Trusted Device Attestation for Field Staff

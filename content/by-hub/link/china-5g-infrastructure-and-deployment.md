@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774791744/link/technologies/60529a5f-1d92-4847-9ab2-43283eda45f4-google-gemini-3.1-flash-image-preview-sh14h8.jpg
+updated_at: '2026-09-28T17:16:50.627522+00:00'
+last_reviewed: null
 ---
 
 # 5G Infrastructure and Deployment
@@ -25,3 +27,7 @@ China's 5G rollout is the largest telecommunications infrastructure project in h
 The deployment isn't just about faster phones. China uses 5G for industrial automation (remote-controlled mining equipment, robotic surgery over 5G), smart agriculture (real-time drone coordination), and autonomous vehicle communication. The network is the backbone for dozens of other technologies on this radar.
 
 The Western ban on Huawei equipment in core networks has created a bifurcated global telecom market. Countries that chose Huawei (most of the Global South, parts of Europe) run on one standard; those that didn't (US, UK, Australia) run on another. This split will deepen as 6G research diverges.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/5G_in_China](https://en.wikipedia.org/wiki/5G_in_China)

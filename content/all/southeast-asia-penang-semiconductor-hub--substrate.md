@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815702/substrate/technologies/90f82755-36b4-4956-bebc-ae8b4131c05b-google-gemini-3.1-flash-image-preview-m8x4er.jpg
+updated_at: '2026-09-28T17:18:17.354702+00:00'
+last_reviewed: null
 ---
 
 # Semiconductor Assembly, Testing & Packaging Hub
@@ -25,3 +27,9 @@ Malaysia — Penang's semiconductor ecosystem is among the world's most mature, 
 Intel's RM12 billion advanced packaging complex in Penang, now 99% complete, is set to begin operations in 2026. However, the project faced turbulence when Intel paused its wafer fab investment and relocated 200 advanced packaging engineers to New Mexico. The strategic question is whether Malaysia can move upstream from packaging into IC design — AMRO Asia argues the time is ripe given the existing ecosystem.
 
 For the global semiconductor supply chain, Malaysia's Penang corridor represents irreplaceable back-end capacity. As geopolitical tensions push companies to diversify from both China and Taiwan, Malaysia's established infrastructure, multilingual workforce, and favorable trade agreements make it the default overflow destination for packaging operations that once concentrated in East Asia.
+
+## Sources
+
+- [https://www.crnasia.com/news/2026/components-and-peripherals/intel-s-malaysian-packaging-complex-set-for-first-phase-oper](https://www.crnasia.com/news/2026/components-and-peripherals/intel-s-malaysian-packaging-complex-set-for-first-phase-oper)
+- [https://www.trendforce.com/news/2025/10/22/news-chip-packaging-giant-ase-to-acquire-adis-penang-plant-expand-southeast-asia-footprint-by-1h26/](https://www.trendforce.com/news/2025/10/22/news-chip-packaging-giant-ase-to-acquire-adis-penang-plant-expand-southeast-asia-footprint-by-1h26/)
+- [https://amro-asia.org/time-is-ripe-for-malaysia-to-move-upstream-into-designing-chips](https://amro-asia.org/time-is-ripe-for-malaysia-to-move-upstream-into-designing-chips)

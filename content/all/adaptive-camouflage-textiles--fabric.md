@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062511/threads/technologies/adaptive-camouflage-textiles-gemini-3-pro-t4w0jk.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Adaptive Camouflage Textiles

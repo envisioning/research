@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808531/vector/technologies/7c894163-7cda-4f93-9960-ab1f33323e05-google-gemini-3.1-flash-image-preview-e3mvp6.jpg
+updated_at: '2026-09-28T17:17:29.145706+00:00'
+last_reviewed: null
 ---
 
 # Ola Electric E-Scooter Manufacturing
@@ -25,3 +27,9 @@ Ola Electric, founded by Bhavish Aggarwal, operates what it claims is the world'
 Electric two-wheelers are the sweet spot for India's EV transition. India has over 200 million two-wheelers on its roads — far more than cars — and two-wheelers are the primary mode of motorized transport for most Indians. Electrifying this segment has an outsized environmental impact. Ola's S1 Pro and S1 Air scooters, priced between $1,000-2,000, are affordable enough for mass adoption in a country where the average annual income is $2,500.
 
 Ola Electric is vertically integrating: building its own battery cells (at a planned gigafactory), developing in-house motors and controllers, and creating a nationwide charging network. The company has also entered the electric motorcycle segment and announced plans for an electric car. Whether Ola can maintain its market leadership against aggressive competition from Ather Energy, TVS, Bajaj, and Hero MotoCorp — all launching their own electric two-wheelers — remains an open question.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Ola_Electric](https://en.wikipedia.org/wiki/Ola_Electric)
+- [https://www.olaelectric.com/](https://www.olaelectric.com/)
+- [https://www.autocarpro.in/news/tata-motors-unveils-next-generation-mobility-solutions-at-bharat-mobility-global-expo-2025-124436](https://www.autocarpro.in/news/tata-motors-unveils-next-generation-mobility-solutions-at-bharat-mobility-global-expo-2025-124436)

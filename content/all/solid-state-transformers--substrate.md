@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117633/substrate/technologies/solid-state-transformers-google-gemini-3-pro-image-preview-ac49ah.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Solid-State Transformers (SSTs)

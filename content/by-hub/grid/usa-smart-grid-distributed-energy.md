@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861298/grid/technologies/a180fc5c-8f06-4323-8c4c-7743000c95fc-google-gemini-3.1-flash-image-preview-cfkoo5.png
+updated_at: '2026-09-28T17:17:50.415288+00:00'
+last_reviewed: null
 ---
 
 # AI-Managed Distributed Energy Grid
@@ -26,3 +28,8 @@ The US electricity grid is transitioning from centralized one-way power delivery
 This transformation is necessary because renewable energy is inherently distributed and variable. A grid with 50%+ renewable penetration must balance supply and demand second-by-second across millions of sources and sinks. Human operators cannot manage this complexity — AI is essential for optimization at the speed and scale required.
 
 The US leads in grid AI due to its deregulated electricity markets (which reward optimization), large installed base of DERs, and software innovation ecosystem. The technology also enables virtual power plants — aggregations of distributed batteries and flexible loads that can respond to grid needs as effectively as a conventional power plant, without building new generation capacity.
+
+## Sources
+
+- [https://www.carbon-direct.com/insights/ai-scale-and-climate-commitments-a-2026-outlook](https://www.carbon-direct.com/insights/ai-scale-and-climate-commitments-a-2026-outlook)
+- [https://fervoenergy.com/2025-year-in-review-driving-forward-the-future-of-clean-firm-power/](https://fervoenergy.com/2025-year-in-review-driving-forward-the-future-of-clean-firm-power/)

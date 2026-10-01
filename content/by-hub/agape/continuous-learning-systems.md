@@ -3,19 +3,22 @@ slug: continuous-learning-systems
 hub: agape
 title: Shift from Evaluation to Continuous Learning
 summary: Shift from evaluation to continuous learning systems, moving beyond periodic
+  assessments to real-time adaptive intelligence.
 permalink: https://www.envisioning.com/agape/continuous-learning-systems
 collection: knowledge-evidence-sensemaking
 trl: 2
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419369/philanthropy/signals/continuous-learning-systems-google-gemini-3-pro-image-preview-jehx95.jpg
+updated_at: '2026-10-01T09:28:43.244653+00:00'
+last_reviewed: null
 ---
 
 # Shift from Evaluation to Continuous Learning
 
 ## Summary
 
-Shift from evaluation to continuous learning systems, moving beyond periodic
+Shift from evaluation to continuous learning systems, moving beyond periodic assessments to real-time adaptive intelligence.
 
 ## Description
 

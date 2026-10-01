@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858416/polis/technologies/7060f713-4afb-4b5a-a682-af656f89c232-google-gemini-3.1-flash-image-preview-00619g.jpg
+updated_at: '2026-09-28T17:18:31.641804+00:00'
+last_reviewed: null
 ---
 
 # Decentralised Digital Identity Trust Framework
@@ -26,3 +28,9 @@ New Zealand's Digital Identity Services Trust Framework, enacted through legisla
 At the Hui Taumata in August 2025, the government called for vendors to align on a trusted verifiable credentials ecosystem, and by December 2025, the New Zealand Business Number (NZBN) was being retooled as a verifiable credential. Digital Identity New Zealand, the industry body, published a roadmap in October 2025 focusing on interoperable, privacy-preserving credentials for both individuals and organizations.
 
 New Zealand's approach is notable for being one of the first nationally legislated digital identity frameworks built on decentralized, standards-based credentials rather than centralized databases. This design philosophy — where identity data remains with the individual rather than being stored in government or corporate servers — represents a fundamentally different model from China's centralized social credit system or India's Aadhaar biometric database. As nations worldwide grapple with digital identity infrastructure, NZ's framework offers a privacy-first template that could influence EU eIDAS 2.0 implementation and broader adoption of verifiable credentials.
+
+## Sources
+
+- [https://www.biometricupdate.com/202507/new-zealand-digital-trust-framework-associated-rules-coming-into-effect-july-24](https://www.biometricupdate.com/202507/new-zealand-digital-trust-framework-associated-rules-coming-into-effect-july-24)
+- [https://digitalidentity.nz/2025/10/01/inspiring-trust-across-aotearoa-nz-inc/](https://digitalidentity.nz/2025/10/01/inspiring-trust-across-aotearoa-nz-inc/)
+- [https://www.biometricupdate.com/202512/nzbn-to-be-critical-piece-of-trusted-digital-infrastructure-in-new-zealand](https://www.biometricupdate.com/202512/nzbn-to-be-critical-piece-of-trusted-digital-infrastructure-in-new-zealand)

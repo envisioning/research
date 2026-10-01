@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886647/forge/technologies/369b1d93-ce21-45e4-b9c8-6deb10451a17-google-gemini-3.1-flash-image-preview-jg8ou4.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gastrobot

@@ -3,19 +3,22 @@ slug: intergenerational-wealth-transfer
 hub: agape
 title: Intergenerational Wealth Transfer Reshaping Donor Intent
 summary: Intergenerational wealth transfer reshaping donor intent, as massive wealth
+  transfers change the philanthropic landscape.
 permalink: https://www.envisioning.com/agape/intergenerational-wealth-transfer
 collection: culture-values-narratives
 trl: 2
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372160/agape/signals/intergenerational-wealth-transfer-google-gemini-3-pro-image-preview-30jnno.png
+updated_at: '2026-10-01T09:31:12.406206+00:00'
+last_reviewed: null
 ---
 
 # Intergenerational Wealth Transfer Reshaping Donor Intent
 
 ## Summary
 
-Intergenerational wealth transfer reshaping donor intent, as massive wealth
+Intergenerational wealth transfer reshaping donor intent, as massive wealth transfers change the philanthropic landscape.
 
 ## Description
 

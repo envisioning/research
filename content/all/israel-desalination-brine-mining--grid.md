@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875774/grid/technologies/b002f079-3900-4506-801b-65feccad4753-google-gemini-3.1-flash-image-preview-f3l3u0.png
+updated_at: '2026-09-28T17:17:28.032669+00:00'
+last_reviewed: null
 ---
 
 # Desalination Brine Mining for Critical Mineral Recovery
@@ -26,3 +28,8 @@ IDE Technologies, Israel's leading desalination firm, is pioneering Desalination
 Brine mining addresses two problems simultaneously: it reduces the environmental impact of brine discharge (which can harm marine ecosystems through hypersalinity) and creates an economic return from what was previously waste. The lithium content of desalination brine, while dilute compared to terrestrial brines, becomes meaningful at the volumes Israel processes. With global lithium demand projected to grow 5x by 2030 for EV batteries, every extraction pathway matters.
 
 Strategically, brine mining transforms desalination from a cost center into a potential profit center and could make the economics of desalination viable for countries that currently cannot afford it. Israel's position as the world's most experienced large-scale desalination operator gives it a unique platform for developing and proving brine mining at industrial scale. If successful, the technology could be exported alongside conventional desalination systems to water-stressed nations, bundling water security with critical mineral supply.
+
+## Sources
+
+- [https://ide-tech.com/en/blog/from-sustainable-to-self-sustained-the-future-of-seawater-desalination-merges-sustainability-with-profitability/](https://ide-tech.com/en/blog/from-sustainable-to-self-sustained-the-future-of-seawater-desalination-merges-sustainability-with-profitability/)
+- [https://link.springer.com/article/10.1007/s44405-025-00007-y](https://link.springer.com/article/10.1007/s44405-025-00007-y)

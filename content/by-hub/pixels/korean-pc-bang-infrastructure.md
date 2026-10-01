@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062157/pixels/technologies/korean-pc-bang-infrastructure-gemini-3-pro-r8p1eo.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Korean PC Bang Infrastructure

@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461968/vitals/technologies/digital-twin-hospitals-google-gemini-3-pro-image-preview-vlnuu3.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Digital Twin Hospitals

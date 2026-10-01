@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870866/wintermute/technologies/4ae99388-8c6a-47a8-a509-0c4ccde1f0d0-google-gemini-3.1-flash-image-preview-98vqfc.jpg
+updated_at: '2026-09-28T17:17:59.62237+00:00'
+last_reviewed: null
 ---
 
 # AI-Powered Weather Forecasting
@@ -26,3 +28,7 @@ Aardvark Weather is an end-to-end AI-enabled weather model developed at the Vect
 This matters because weather forecasting is one of the most compute-intensive scientific applications on Earth, and AI approaches that dramatically reduce that cost could democratize high-quality weather prediction for countries and organizations that can't afford traditional systems. For Canada specifically, with its vast geography and extreme weather, better forecasting has direct economic and safety implications.
 
 Strategically, AI weather models represent a new domain where Canadian AI research translates directly into public good applications. The approach also demonstrates the broader potential of foundation models for scientific computing — a theme that connects to quantum chemistry, materials science, and drug discovery work across Canadian institutes.
+
+## Sources
+
+- [https://canadiansme.ca/ai-in-science-healthcare-canadas-breakthroughs-in-2025/](https://canadiansme.ca/ai-in-science-healthcare-canadas-breakthroughs-in-2025/)

@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809990/vault/technologies/22a44ae1-993d-4846-b184-7a80eed4d32f-google-gemini-3.1-flash-image-preview-9hyu0g.jpg
+updated_at: '2026-09-28T17:17:11.96302+00:00'
+last_reviewed: null
 ---
 
 # Mobile-First Super App Banking Platforms
@@ -26,3 +28,8 @@ A new generation of digital-only banks has emerged across Africa, providing full
 The business model innovation is as important as the technology. Traditional banks in Africa charge account maintenance fees, transfer fees, and require minimum balances that exclude the poor. Digital-only banks eliminate these barriers by operating at dramatically lower costs — no branches, no legacy IT systems, no teller staff. OPay processes over $3 billion in monthly transaction volume in Nigeria alone. The platforms integrate mobile money, bill payment, merchant payments, and peer-to-peer transfers into unified super apps.
 
 The competitive dynamics are intense. Chinese-backed platforms (OPay, PalmPay) compete with indigenous startups (Kuda, Moniepoint) and traditional banks' digital offerings. The battle is for the financial identity of Africa's next billion digital consumers. The winner will control the data and distribution rails for lending, insurance, and investment products across the continent's fastest-growing consumer market.
+
+## Sources
+
+- [https://techcabal.com/2025/07/21/the-biggest-fintech-companies-in-nigeria-2025/](https://techcabal.com/2025/07/21/the-biggest-fintech-companies-in-nigeria-2025/)
+- [https://furtherafrica.com/2025/08/12/africas-digital-payment-boom-the-next-frontier-in-fintech-growth/](https://furtherafrica.com/2025/08/12/africas-digital-payment-boom-the-next-frontier-in-fintech-growth/)

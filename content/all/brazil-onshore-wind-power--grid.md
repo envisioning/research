@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792669/grid/technologies/3242ead2-7e40-4b1f-8193-f128f1f6dbe6-google-gemini-3.1-flash-image-preview-2rt6m4.png
+updated_at: '2026-09-28T17:17:01.000212+00:00'
+last_reviewed: null
 ---
 
 # Onshore Wind Power
@@ -26,3 +28,7 @@ Brazil installed over 30 GW of onshore wind capacity, overwhelmingly concentrate
 Wind became Brazil's second-largest power source (after hydroelectric), overtaking natural gas and biomass. The growth was driven by competitive auctions that reduced wind electricity costs below R/MWh, making it cheaper than new gas or coal plants.
 
 Wind complements hydro naturally: wind speeds peak during the dry season (June-November) when reservoir levels are lowest. This counter-cyclical pattern reduces Brazil's vulnerability to drought-induced energy crises — a major concern after the 2001 and 2021 power rationing episodes.
+
+## Sources
+
+- [https://news.mongabay.com/2025/05/brazils-offshore-wind-farms-could-sacrifice-small-scale-fishing-in-ceara/](https://news.mongabay.com/2025/05/brazils-offshore-wind-farms-could-sacrifice-small-scale-fishing-in-ceara/)

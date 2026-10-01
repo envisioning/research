@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872329/apogee/technologies/058f0032-32fc-4560-ba9c-a12056ce180d-google-gemini-3.1-flash-image-preview-943j0m.jpg
+updated_at: '2026-09-28T17:17:21.555716+00:00'
+last_reviewed: null
 ---
 
 # Solid-Fuel Space Launch Vehicles
@@ -26,3 +28,9 @@ The Qaem-100 is Iran's solid-fuel satellite launch vehicle, achieving its first 
 Iran's space launch capability is dual-use by nature. The same technologies that place satellites in orbit — propulsion, guidance, staging, thermal management — are directly applicable to long-range ballistic missiles. This is why Western nations and the UN have historically linked Iranian space launches to missile proliferation concerns. The Qaem-100's success validates Iran's solid-fuel propulsion at scales sufficient for orbital injection, implying mastery of large solid-fuel motors, composite motor cases, and multi-stage separation systems.
 
 Strategically, indigenous orbital access provides Iran with the ability to deploy its own reconnaissance, communications, and navigation satellites without depending on foreign launch services — services that are in any case denied under sanctions. The development of the Qaem-Sadid, an advanced upper stage module, suggests ambitions for higher orbits and heavier payloads. Iran is one of approximately ten countries with demonstrated orbital launch capability.
+
+## Sources
+
+- [https://www.reuters.com/world/middle-east/iran-launches-advanced-module-deploy-satellites-higher-altitudes-media-say-2024-12-06/](https://www.reuters.com/world/middle-east/iran-launches-advanced-module-deploy-satellites-higher-altitudes-media-say-2024-12-06/)
+- [https://en.wikipedia.org/wiki/Iranian_Space_Agency](https://en.wikipedia.org/wiki/Iranian_Space_Agency)
+- [https://www.spasconsulting.com/p/latest-satellite-launch-highlights](https://www.spasconsulting.com/p/latest-satellite-launch-highlights)

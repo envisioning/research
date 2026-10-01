@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058266/threads/technologies/mycelium-leather-alternatives-gemini-3-pro-8xyesq.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Mycelium Leather Alternatives

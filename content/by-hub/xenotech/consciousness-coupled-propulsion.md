@@ -10,6 +10,8 @@ trl: 5
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897905/xenotech/technologies/consciousness-coupled-propulsion-openrouter-google-gemini-3.1-flash-image-preview-c8gd6q.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Consciousness-Coupled Propulsion
@@ -103,3 +105,7 @@ neural-quantum interfaces; exotic vacuum propulsion; consciousness field technol
 ## Current Status & Plausibility
 
 Consciousness-coupled propulsion remains highly speculative with no accepted physics framework, no physical evidence, and no human technological demonstration. Evidence consists entirely of witness testimony—which is remarkably consistent across independent sources but scientifically insufficient. The concept requires revolutionary physics (consciousness-matter interaction at macroscopic scales) or misidentification of advanced conventional technology (AI, biosensors, predictive algorithms). Plausibility is low by conventional physics but the testimonial consistency pattern is noteworthy. If testimony reflects real technology, it represents the most profound physics revolution imaginable—consciousness as fundamental force shaping spacetime and matter. If testimony reflects misinterpretation, it demonstrates powerful cognitive biases toward agency attribution and consciousness projection onto unexplained phenomena.
+
+## Sources
+
+- [Mind Over UFO: How Psychic Frequency Unlocks Remote Viewing and Alien Tech Control](https://drewponder.substack.com/p/mind-over-ufo-how-psychic-frequency) (2025)

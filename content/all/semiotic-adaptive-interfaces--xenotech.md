@@ -10,6 +10,8 @@ trl: 2
 impact: 1
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903076/xenotech/technologies/semiotic-adaptive-interfaces-openrouter-google-gemini-3.1-flash-image-preview-yse2la.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Semiotic-Adaptive Interfaces
@@ -47,3 +49,10 @@ Non-invasive biosensors (dry EEG electrodes, capacitive proximity sensors, piezo
 Testimonial accounts imply direct mind-matter causation—highly controversial and unsupported by mainstream physics. Speculative mechanisms include: quantum consciousness theories (Orch-OR, CEMI field theory) where biofields influence quantum processes in craft materials; morphic resonance or non-local field coupling allowing intention to propagate beyond electromagnetic ranges; or advanced AI so refined it reads micro-expressions, gaze patterns, and posture to infer intent (technological telepathy). Alternatively, experiences may reflect: induced perception (craft projecting mental imagery rather than physical symbol change), ritual framing (symbols as focus objects for trained psychophysiological states), or shared altered states enabling heightened suggestibility.
 
 Semiotic-adaptive interfaces bridge advancing BCI technology and bio-responsive materials with testimony describing thought-controlled craft systems. As non-invasive neural sensing, adaptive algorithms, and electro-responsive surfaces improve, consciousness-coupled interfaces become increasingly feasible for authorization, personalization, and low-bandwidth control—though direct telekinetic propulsion control remains outside demonstrated science.
+
+## Sources
+
+- [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w) (2025)
+- [A generic non-invasive neuromotor interface for human-computer interaction](https://www.nature.com/articles/s41586-025-09255-w) (2025)
+- [Relational Computing: The Human Is the Interface](https://fieldsensitive.substack.com/p/relational-computing-the-human-is) (2025)
+- [Secure wireless communication of brain–computer interface and mind control of smart devices enabled by space-time-coding metasurface](https://www.nature.com/articles/s41467-025-63326-0) (2025)

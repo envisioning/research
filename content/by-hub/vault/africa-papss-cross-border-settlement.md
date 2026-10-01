@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810526/vault/technologies/6f7ee20d-aa6e-4b88-9684-7417d6a76a8b-google-gemini-3.1-flash-image-preview-oi4lcr.png
+updated_at: '2026-09-28T17:17:13.218092+00:00'
+last_reviewed: null
 ---
 
 # Pan-African Payment and Settlement System (PAPSS)
@@ -26,3 +28,8 @@ The Pan-African Payment and Settlement System (PAPSS), launched in 2022 by the A
 Africa's intra-continental trade is only 15% of total trade — compared to 60% for Europe and 50% for Asia — partly because cross-border payments are expensive and slow. PAPSS aims to remove this friction, supporting the African Continental Free Trade Area (AfCFTA). Over 15 central banks have connected to PAPSS, covering 70%+ of Africa's GDP. The system processes transactions in real-time, settling in under 120 seconds.
 
 The sovereignty dimension is fundamental. Africa currently depends on the SWIFT system and US dollar clearing for most cross-border payments — a vulnerability that became obvious when Russia was disconnected from SWIFT in 2022. PAPSS creates an African alternative for intra-African trade, reducing exposure to external financial sanctions or disruptions. This is financial infrastructure sovereignty at the continental level.
+
+## Sources
+
+- [https://papss.com/](https://papss.com/)
+- [https://www.afreximbank.com/papss/](https://www.afreximbank.com/papss/)

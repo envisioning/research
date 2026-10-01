@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797622/wintermute/technologies/adce156b-5c86-4e6a-b85f-e5b98c140484-google-gemini-3.1-flash-image-preview-uugu3m.jpg
+updated_at: '2026-09-28T17:16:27.945564+00:00'
+last_reviewed: null
 ---
 
 # Sovereign Cloud Computing Infrastructure
@@ -25,3 +27,8 @@ China has built the world's second-largest cloud computing market — projected 
 This is not just market preference — it is structural sovereignty. Chinese government, military, and critical infrastructure data runs exclusively on domestic clouds with indigenous technology stacks. Huawei Cloud operates on Kunpeng (Arm-based) and Ascend AI processors, meaning its compute infrastructure has zero dependency on US chip architectures for basic operations. Alibaba Cloud has developed its own Apsara distributed operating system and Yitian server chips.
 
 The strategic significance extends beyond China's borders: Chinese cloud providers are aggressively expanding into Southeast Asia, the Middle East, and Africa, offering an alternative to AWS/Azure/GCP for nations concerned about US surveillance or data jurisdiction. This creates a bifurcated global cloud market that mirrors the broader US-China technology decoupling, with implications for where the world's data is stored, processed, and governed.
+
+## Sources
+
+- [https://www.jetservices.com.cn/blogs/top-10-cloud-providers-china-2025-what-foreign-companies-need-to-know/](https://www.jetservices.com.cn/blogs/top-10-cloud-providers-china-2025-what-foreign-companies-need-to-know/)
+- [https://www.ascendcloudsolutions.com/the-state-of-the-cloud-in-china-2024](https://www.ascendcloudsolutions.com/the-state-of-the-cloud-in-china-2024)

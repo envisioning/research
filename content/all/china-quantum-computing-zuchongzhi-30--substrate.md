@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797253/substrate/technologies/7db3c00e-cfe4-49ff-b70d-f6dcd0f66da0-google-gemini-3.1-flash-image-preview-8q8v93.jpg
+updated_at: '2026-09-28T17:16:59.899381+00:00'
+last_reviewed: null
 ---
 
 # Quantum Computing (Zuchongzhi 3.0)
@@ -25,3 +27,8 @@ The Chinese Academy of Sciences built Zuchongzhi 3.0 with 105 superconducting qu
 Origin Quantum, a Hefei-based startup, released Origin Pilot as the world's first open-source quantum computer operating system in February 2026. The move mirrors China's strategy in classical computing: build the full stack domestically, then open-source it to build an ecosystem.
 
 Quantum computing remains pre-commercial for most applications. The near-term race is about error correction — making qubits reliable enough for useful computation. China's advantage is sustained government funding and a large talent pool of quantum physicists. The risk is that quantum computing may follow fusion's path: always promising, always a decade away.
+
+## Sources
+
+- [https://www.livescience.com/technology/computing/china-achieves-quantum-supremacy-claim-with-new-chip-1-quadrillion-times-faster-than-the-most-powerful-supercomputers](https://www.livescience.com/technology/computing/china-achieves-quantum-supremacy-claim-with-new-chip-1-quadrillion-times-faster-than-the-most-powerful-supercomputers)
+- [https://www.spinquanta.com/news-detail/china-quantum-computer-qubit-rivals-willow-zuchongzhi20250114025831](https://www.spinquanta.com/news-detail/china-quantum-computer-qubit-rivals-willow-zuchongzhi20250114025831)

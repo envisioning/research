@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855283/aegis/technologies/14c988f6-cb50-47f5-9496-8c39e9bebc1f-google-gemini-3.1-flash-image-preview-med5fy.png
+updated_at: '2026-09-28T17:16:32.514534+00:00'
+last_reviewed: null
 ---
 
 # Indigenous UAV Propulsion Engines
@@ -26,3 +28,7 @@ The TEI PD170 is a 170-horsepower turbocharged diesel aviation engine developed 
 UAV engines were historically a chokepoint for Turkey's drone ambitions — the Rotax engines originally used on the TB2 were subject to Austrian export controls that could have strangled production. Turkey's response was to develop indigenous engines across the power spectrum, from small piston engines for tactical drones to the PD170 for MALE UAVs and larger turbofan engines for jet-powered UCAVs. This complete propulsion sovereignty means Turkey can produce and export drones without any third-party engine supply constraints.
 
 The UAV engine development program exemplifies Turkey's approach to technology sovereignty: identify the chokepoint, invest in indigenous capability, and build progressively from simpler to more complex systems. The engineering and manufacturing capabilities developed for UAV engines contribute directly to the more ambitious TS1400 turboshaft and TF35000 turbofan programs.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Tusa%C5%9F_Engine_Industries](https://en.wikipedia.org/wiki/Tusa%C5%9F_Engine_Industries)

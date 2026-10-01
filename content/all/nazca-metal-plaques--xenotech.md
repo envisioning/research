@@ -10,6 +10,8 @@ trl: 2
 impact: 1
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898967/xenotech/technologies/nazca-metal-plaques-openrouter-google-gemini-3.1-flash-image-preview-lct1sb.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Nazca Mummies Metal Plaques
@@ -41,3 +43,7 @@ If authentic, the reported metal implants would represent: advanced metallurgica
 ## Current Status
 
 The metallurgy asserted (especially high-purity aluminium alloys and osmium content) far exceeds what is known for pre-Columbian South America. While the implant claims are intriguing from a xenotech perspective, they remain speculative until subjected to open, peer-reviewed metallurgical and archaeological study. The lack of rigorous scientific validation and prevalence of skepticism among experts suggest these claims require independent verification through controlled scientific analysis.
+
+## Sources
+
+- [The results of analyses carried out on the Nazca mummies](https://www.the-alien-project.com/en/the-results) (2025)

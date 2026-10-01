@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808593/vault/technologies/82aba066-15ba-4da6-8bc0-66bf57aec390-google-gemini-3.1-flash-image-preview-7srrvx.jpg
+updated_at: '2026-09-28T17:17:07.22343+00:00'
+last_reviewed: null
 ---
 
 # Account Aggregator Open Financial Data Framework
@@ -26,3 +28,9 @@ The Account Aggregator (AA) framework is India's implementation of open banking,
 The framework's primary impact is on credit access. In India, hundreds of millions of people and small businesses lack formal credit histories, making them 'credit invisible.' The AA framework allows them to share their actual financial transaction data (bank flows, tax payments, insurance premiums) with lenders, enabling data-driven credit decisions without traditional credit scores. This can dramatically expand credit access for India's massive informal economy.
 
 The RBI issued a framework for a Self-Regulatory Organization (SRO) for Account Aggregators in March 2025, signaling regulatory maturation. While some players (including PhonePe) have exited the AA space, the underlying protocol continues to evolve. The AA framework represents another layer of India Stack — after identity (Aadhaar), payments (UPI), and documents (DigiLocker), now financial data becomes a consent-driven, interoperable digital asset.
+
+## Sources
+
+- [https://www.newindianexpress.com/business/2025/Mar/12/rbi-issues-framework-for-sro-for-account-aggregators](https://www.newindianexpress.com/business/2025/Mar/12/rbi-issues-framework-for-sro-for-account-aggregators)
+- [https://bankopedia.co.in/2026/03/15/fintech-in-india-digital-banking-guide/](https://bankopedia.co.in/2026/03/15/fintech-in-india-digital-banking-guide/)
+- [https://www.mordorintelligence.com/industry-reports/india-fintech-market](https://www.mordorintelligence.com/industry-reports/india-fintech-market)

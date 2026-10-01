@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766332908/formar/technologies/softwares-compliance-tecnico-normativo-google-gemini-3-pro-image-preview-sw1ycy.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Plataformas de Compliance e Gestão Pós-Obra
@@ -25,3 +27,11 @@ Plataformas de compliance e gestão pós-obra incluem softwares que automatizam 
 No Brasil, são essenciais para navegar complexidade regulatória, garantir qualidade de obras, reduzir custos jurídicos, melhorar a reputação das incorporadoras e garantir a satisfação do cliente final. A tecnologia está sendo adotada em incorporadoras que buscam profissionalizar gestão pós-obra, especialmente relevante em contextos onde conformidade e qualidade são críticas.
 
 O sinal de mudança é a transformação de gestão pós-obra de processos manuais e fragmentados para plataformas integradas que automatizam compliance e relacionamento, criando novos modelos de gestão que reduzem riscos jurídicos e melhoram satisfação do cliente, especialmente relevante em contextos onde qualidade e conformidade são diferenciais competitivos.
+
+## Sources
+
+- [Qualitab - Tecnologia para Gestão da Qualidade de Obra](https://qualitab.com.br/) (2026)
+- [Como implementar a ISO 37301 e fortalecer o compliance corporativo](https://www.estadao.com.br/educacao/blog-fundacao-vanzolini/como-implementar-a-iso-37301-e-fortalecer-o-compliance-corporativo) (2025)
+- [Descubra como implementar a ISO 37301 e construir um sistema de gestão de compliance eficaz](https://www.estadao.com.br/educacao/blog-fundacao-vanzolini/como-implementar-a-iso-37301-e-fortalecer-o-compliance-corporativo) (2025)
+- [O sistema FastBuilt Assistência Técnica é gestão de pós-obra para construtoras e incorporadoras](https://www.fastbuilt.com.br/post/o-sistema-fastbuilt-assist%C3%AAncia-t%C3%A9cnica-%C3%A9-gest%C3%A3o-de-p%C3%B3s-obra-para-construtoras-e-incorporadoras) (2025)
+- [Plataforma Facilitat - Gestão de Garantias e Pós-Obra](https://facilitat.com.br/plataforma) (2025)

@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883009/wonen/technologies/290e1816-baa0-4c5a-a582-a8b097e3c5cf-google-gemini-3.1-flash-image-preview-evy1zf.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Grondbanken (Land Banks)

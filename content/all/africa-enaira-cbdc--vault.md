@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810485/vault/technologies/5a162044-ef39-4366-930f-b246a7efb860-google-gemini-3.1-flash-image-preview-j6ou02.jpg
+updated_at: '2026-09-28T17:16:32.3231+00:00'
+last_reviewed: null
 ---
 
 # eNaira Central Bank Digital Currency
@@ -26,3 +28,9 @@ Nigeria launched the eNaira in October 2021, becoming the first African country 
 Adoption has been disappointing — only about 0.5% of Nigerians actively use eNaira. In March 2024, the Central Bank of Nigeria signed an MoU with Gluwa Nigeria to overhaul the system's blockchain infrastructure and boost adoption. The gap between eNaira's promise and its reality highlights the challenge of top-down digital currency deployment in a market where mobile money and fintech apps already meet consumer needs.
 
 Despite its struggles, eNaira represents an important experiment in African digital sovereignty. It demonstrated that an African central bank could design, build, and deploy a CBDC independently. The lessons — particularly around user experience, offline functionality, and competition with existing payment methods — are being studied by the 15+ other African central banks exploring CBDCs.
+
+## Sources
+
+- [https://support.enaira.gov.ng/index.php?p=blog&sp=a&ssp=7&sssp=enaira-paving-the-way-as-africa-039-s-first-cbdc-on-the-blockchain](https://support.enaira.gov.ng/index.php?p=blog&sp=a&ssp=7&sssp=enaira-paving-the-way-as-africa-039-s-first-cbdc-on-the-blockchain)
+- [https://www.coindesk.com/policy/2024/03/07/nigerias-central-bank-enlists-gluwa-nigeria-to-boost-enaira-systems-adoption](https://www.coindesk.com/policy/2024/03/07/nigerias-central-bank-enlists-gluwa-nigeria-to-boost-enaira-systems-adoption)
+- [https://businessday.ng/news/article/africas-first-digital-currency-flops/](https://businessday.ng/news/article/africas-first-digital-currency-flops/)

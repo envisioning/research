@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860937/aegis/technologies/7a6167cb-c2c7-4430-8bd9-6af56bafe242-google-gemini-3.1-flash-image-preview-0h62f6.jpg
+updated_at: '2026-09-28T17:18:34.208443+00:00'
+last_reviewed: null
 ---
 
 # Reusable Hypersonic Test Vehicles
@@ -26,3 +28,8 @@ Hermeus is developing reusable hypersonic aircraft capable of Mach 5+ speeds usi
 Reusable hypersonic vehicles address a fundamental limitation of hypersonic missile programs: each missile is single-use and costs millions of dollars. A reusable platform can fly repeatedly, providing persistent hypersonic capability for intelligence, surveillance, and reconnaissance (ISR), rapid logistics, and potentially strike missions at a fraction of the per-mission cost.
 
 The dual-use potential is significant: the same technology that enables military ISR at Mach 5 could eventually enable point-to-point passenger travel in 90 minutes anywhere on Earth. Hermeus, based in Atlanta, represents the startup approach to hypersonic technology development — moving faster than traditional defense primes by accepting higher risk and iterating rapidly.
+
+## Sources
+
+- [https://dsm.forecastinternational.com/2025/12/22/an-overview-of-current-u-s-hypersonic-missile-developments/](https://dsm.forecastinternational.com/2025/12/22/an-overview-of-current-u-s-hypersonic-missile-developments/)
+- [https://www.svb.com/trends-insights/reports/future-of-frontier-tech/](https://www.svb.com/trends-insights/reports/future-of-frontier-tech/)

@@ -11,6 +11,8 @@ trl: 4
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774857977/aegis/technologies/1f0f5a9b-18a9-4f09-b61a-fcb473cb776a-google-gemini-3.1-flash-image-preview-wqfaxl.jpg
+updated_at: '2026-09-28T17:16:30.143191+00:00'
+last_reviewed: null
 ---
 
 # Scramjet Air-Breathing Hypersonic Propulsion
@@ -26,3 +28,9 @@ The University of Queensland's Centre for Hypersonics has conducted pioneering s
 Only three or four nations — the US, China, Russia, and arguably Australia — have demonstrated scramjet technology in flight. Australia's contribution through UQ has been foundational: the Woomera-launched HyShot flights in 2001-02 provided the first definitive proof that scramjet combustion could be sustained in flight. This research base is now being weaponized through the AUKUS HyFliTE (Hypersonic Flight Test and Experimentation) program, which aims to develop submarine-launched and air-launched hypersonic strike weapons.
 
 Scramjet propulsion is strategically critical because it enables weapons that travel fast enough (Mach 5-10+) to defeat existing missile defense systems while maneuvering unpredictably — a capability gap that Russia and China have already exploited. Australia's decades of fundamental scramjet research, combined with testing infrastructure (Woomera Range Complex, HASTE suborbital launcher), makes it an indispensable partner in trilateral hypersonic weapons development. The technology has potential dual-use applications in high-speed transport, though military applications are driving near-term investment.
+
+## Sources
+
+- [https://www.flightglobal.com/defence/aukus-partners-to-collaborate-closely-on-hypersonic-weapons/160800.article](https://www.flightglobal.com/defence/aukus-partners-to-collaborate-closely-on-hypersonic-weapons/160800.article)
+- [https://warriormaven.com/news/sea/us-uk-australia-build-hypersonic-weapons-for-submarines](https://warriormaven.com/news/sea/us-uk-australia-build-hypersonic-weapons-for-submarines)
+- [https://defensefeeds.com/analysis/geopolitics/aukus/](https://defensefeeds.com/analysis/geopolitics/aukus/)

@@ -9,6 +9,8 @@ trl: 6
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641606/agora/technologies/mesh-democracy-nodes-google-gemini-3-pro-image-preview-otbow7.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Mesh Democracy Nodes

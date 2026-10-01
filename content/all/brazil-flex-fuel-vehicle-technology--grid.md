@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792688/grid/technologies/3d249663-86c8-4c78-8e4d-0761c573fc50-google-gemini-3.1-flash-image-preview-0uhhuz.jpg
+updated_at: '2026-09-28T17:17:54.433395+00:00'
+last_reviewed: null
 ---
 
 # Flex-Fuel Vehicle Technology
@@ -26,3 +28,9 @@ Flex-fuel technology uses sensors and adaptive engine management to optimize com
 Volkswagen launched the first commercial flex-fuel car in Brazil in March 2003 (Gol 1.6 Total Flex). Within five years, flex-fuel vehicles dominated new car sales. By 2025, over 90% of light vehicles sold in Brazil are flex-fuel.
 
 The technology is now evolving: Stellantis launched a flex-fuel hybrid in 2024, and Toyota is testing a flex-fuel hydrogen engine in Brazil. The country is pursuing a 'technology-neutral' approach to vehicle decarbonization — not betting solely on battery-electric but allowing ethanol, hybrid, and hydrogen pathways to compete.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Flexible-fuel_vehicles_in_Brazil](https://en.wikipedia.org/wiki/Flexible-fuel_vehicles_in_Brazil)
+- [https://en.wikipedia.org/wiki/History_of_ethanol_fuel_in_Brazil](https://en.wikipedia.org/wiki/History_of_ethanol_fuel_in_Brazil)
+- [https://biotech-energy.com/2024/04/08/brazil-is-taking-a-technology-neutral-approach-to-mobility/](https://biotech-energy.com/2024/04/08/brazil-is-taking-a-technology-neutral-approach-to-mobility/)

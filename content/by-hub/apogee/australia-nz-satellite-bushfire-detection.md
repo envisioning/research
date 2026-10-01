@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858051/apogee/technologies/2e115920-6554-4341-83ed-d73fa6630277-google-gemini-3.1-flash-image-preview-pc6whr.jpg
+updated_at: '2026-09-28T17:16:42.951572+00:00'
+last_reviewed: null
 ---
 
 # Satellite-Based AI Bushfire Detection
@@ -26,3 +28,9 @@ Australia is deploying multiple satellite-based bushfire detection systems, driv
 Traditional fire detection relies on ground-based lookout towers, aerial patrols, and citizen reports — all delayed by hours in remote areas. Australia's vast, sparsely populated interior means fires can burn undetected for days before reaching populated areas. Satellite detection with onboard AI processing reduces detection latency from hours to minutes, enabling rapid response before fires become uncontrollable.
 
 Australia's fire detection needs have created a unique innovation forcing function. No other developed nation faces bushfire risk at the same scale and frequency, making Australian fire detection technology highly exportable to fire-prone regions worldwide — California, Mediterranean Europe, Siberia, Amazonia. The convergence of edge AI, thermal sensing, and LEO satellite constellations positions this as a dual-use capability with applications in defense surveillance and environmental monitoring.
+
+## Sources
+
+- [https://unisa.edu.au/media-centre/Releases/2024/fighting-fires-from-space-in-record-time-how-ai-could-prevent-a-repeat-of-australias-devastating-wildfires/](https://unisa.edu.au/media-centre/Releases/2024/fighting-fires-from-space-in-record-time-how-ai-could-prevent-a-repeat-of-australias-devastating-wildfires/)
+- [https://www.csiro.au/en/news/all/news/2025/july/advancing-bushfire-preparedness-in-australia](https://www.csiro.au/en/news/all/news/2025/july/advancing-bushfire-preparedness-in-australia)
+- [https://blog.google/intl/en-au/company-news/outreach-initiatives/advancing-bushfire-preparedness-in-australia/](https://blog.google/intl/en-au/company-news/outreach-initiatives/advancing-bushfire-preparedness-in-australia/)

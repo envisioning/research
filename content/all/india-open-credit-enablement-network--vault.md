@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808231/vault/technologies/5109f8d2-3518-4a8a-8073-473126a24625-google-gemini-3.1-flash-image-preview-07ut1q.jpg
+updated_at: '2026-09-28T17:17:32.282635+00:00'
+last_reviewed: null
 ---
 
 # Open Credit Enablement Network (OCEN)
@@ -26,3 +28,9 @@ The Open Credit Enablement Network (OCEN) is an open protocol that standardizes 
 OCEN addresses India's massive credit gap. An estimated 63 million micro, small, and medium enterprises (MSMEs) need approximately $400 billion in credit that formal financial institutions don't serve. These businesses have transaction data (from UPI payments, GST filings, and Account Aggregator) but no traditional credit history. OCEN creates the protocol layer that connects their data to lenders who can underwrite based on cash flows rather than collateral.
 
 OCEN follows the India Stack playbook: build an open protocol, let the private sector innovate on top. Just as UPI unbundled payments from banks, OCEN unbundles lending from bank branches. The protocol is still in early stages, but if it achieves scale, it could fundamentally reshape how credit is distributed in India — moving from a bank-centric model to a platform-embedded model where loans find borrowers at the moment of need.
+
+## Sources
+
+- [https://ocen.dev/](https://ocen.dev/)
+- [https://bankopedia.co.in/2026/03/15/fintech-in-india-digital-banking-guide/](https://bankopedia.co.in/2026/03/15/fintech-in-india-digital-banking-guide/)
+- [https://www.mordorintelligence.com/industry-reports/india-fintech-market](https://www.mordorintelligence.com/industry-reports/india-fintech-market)

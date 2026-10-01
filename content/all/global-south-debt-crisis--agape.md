@@ -3,19 +3,22 @@ slug: global-south-debt-crisis
 hub: agape
 title: Global South Debt Crises & Development Finance
 summary: Sovereign debt crises in the Global South constraining development and requiring
+  philanthropic adaptation.
 permalink: https://www.envisioning.com/agape/global-south-debt-crisis
 collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368427/agape/signals/global-south-debt-crisis-google-gemini-3-pro-image-preview-qp6ifo.jpg
+updated_at: '2026-10-01T09:30:55.899762+00:00'
+last_reviewed: null
 ---
 
 # Global South Debt Crises & Development Finance
 
 ## Summary
 
-Sovereign debt crises in the Global South constraining development and requiring
+Sovereign debt crises in the Global South constraining development and requiring philanthropic adaptation.
 
 ## Description
 

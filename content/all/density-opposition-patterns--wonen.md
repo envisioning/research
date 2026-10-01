@@ -10,6 +10,8 @@ trl: 2
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1768934530/wonen/technologies/density-opposition-patterns-google-gemini-3-pro-image-preview-vq15m4.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Density Opposition Patterns

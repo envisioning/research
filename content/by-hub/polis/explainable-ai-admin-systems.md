@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127281/polis/technologies/explainable-ai-admin-systems-google-gemini-3-pro-image-preview-mddp54.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Explainable AI for Administrative Decisions

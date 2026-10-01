@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870903/meridian/technologies/5a719a9a-c331-4667-9d08-628bdfccea85-google-gemini-3.1-flash-image-preview-e4livd.jpg
+updated_at: '2026-09-28T17:18:37.056243+00:00'
+last_reviewed: null
 ---
 
 # Canadian Light Source Synchrotron
@@ -26,3 +28,7 @@ The Canadian Light Source (CLS) in Saskatoon, Saskatchewan is Canada's national 
 The CLS matters because synchrotron science underpins innovation across nearly every sector of the economy. Drug companies use it to visualize how molecules bind to disease targets, mining companies use it to understand ore composition and optimize extraction, and materials scientists use it to develop everything from better batteries to stronger alloys. The facility serves over 1,000 researchers annually from academia, government, and industry.
 
 Strategically, the CLS is particularly important for Canada's natural resources sector, where understanding the molecular structure of mineral deposits and processing products can improve extraction efficiency and environmental outcomes. The facility's location in Saskatchewan — Canada's potash and uranium heartland — is not coincidental. As critical mineral processing becomes a national priority, synchrotron characterization of ores and processing products will become increasingly valuable.
+
+## Sources
+
+- [https://www.lightsource.ca/](https://www.lightsource.ca/)

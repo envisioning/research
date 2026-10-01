@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809436/polis/technologies/b72c8355-98b7-434c-8f63-6514138b53a3-google-gemini-3.1-flash-image-preview-hyh3ci.png
+updated_at: '2026-09-28T17:17:15.909295+00:00'
+last_reviewed: null
 ---
 
 # IoT-Monitored Rural Piped Water Supply at Scale
@@ -26,3 +28,9 @@ The Jal Jeevan Mission (JJM) has achieved what no developing country has attempt
 The digital layer is what transforms JJM from a plumbing project into a technology platform. IoT sensors monitor water quality (testing for fluoride, arsenic, iron, nitrate, and microbiological contamination), flow rates, and pressure at village water supply points. Real-time dashboards provide predictive analytics for maintenance needs, enabling proactive repair before systems fail. Village Water and Sanitation Committees (VWSCs) use mobile apps to report issues, track water quality test results, and manage local operations. Grey water treatment and reuse systems are being promoted for water conservation.
 
 The scale and ambition are staggering: India has 657,000 villages, each with its own water supply scheme to monitor. The digital platform managing this — with unique IDs, real-time monitoring, predictive maintenance, and community-level governance tools — is arguably the world's largest rural infrastructure IoT deployment. If the monitoring and sustainability systems work, India will have solved one of the developing world's most persistent problems: not just installing rural water infrastructure but keeping it functional over time. The 2.0 focus on sustainability directly addresses the failure mode that has plagued rural water projects globally — where 30-40% of infrastructure becomes non-functional within 5 years.
+
+## Sources
+
+- [https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098651](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098651)
+- [https://ddnews.gov.in/en/jal-jeevan-mission-transforms-rural-india-with-tap-water-for-over-15-72-crore-households/](https://ddnews.gov.in/en/jal-jeevan-mission-transforms-rural-india-with-tap-water-for-over-15-72-crore-households/)
+- [https://edunovations.com/currentaffairs/national/jal-jeevan-mission-2-0-extension/](https://edunovations.com/currentaffairs/national/jal-jeevan-mission-2-0-extension/)

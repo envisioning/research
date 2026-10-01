@@ -10,6 +10,8 @@ trl: 5
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797811/forge/technologies/c4d0c09b-8b93-419d-990d-156082504fbe-google-gemini-3.1-flash-image-preview-8nxgeb.jpg
+updated_at: '2026-09-28T17:16:59.547411+00:00'
+last_reviewed: null
 ---
 
 # Underwater Exploration Robots
@@ -25,3 +27,7 @@ Chinese research institutes in Dongguan, Shenyang, and Qingdao are developing au
 The technology complements China's manned deep-sea program (Fendouzhe, Jiaolong) by enabling persistent, wide-area ocean floor mapping. Applications include deep-sea mining site assessment, submarine cable inspection, and underwater archaeology.
 
 China's push into underwater robotics aligns with its deep-sea mining ambitions. The International Seabed Authority has granted China more deep-sea exploration contracts than any other country. Autonomous robots are the enabling technology for surveying these vast claim areas.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Jiaolong_(submersible)](https://en.wikipedia.org/wiki/Jiaolong_(submersible))

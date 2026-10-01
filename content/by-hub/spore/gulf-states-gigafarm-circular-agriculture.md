@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814786/spore/technologies/f20ea6fc-0f63-4f0c-9292-5723ce5ad545-google-gemini-3.1-flash-image-preview-c19fgz.jpg
+updated_at: '2026-09-28T17:17:10.660975+00:00'
+last_reviewed: null
 ---
 
 # GigaFarm Insect-Based Circular Agriculture
@@ -26,3 +28,9 @@ The GigaFarm project in Dubai's Food Tech Valley, developed by Intelligent Growt
 What makes GigaFarm non-obvious is the systems integration. Most vertical farming initiatives treat energy, waste, water, and growing as separate problems. GigaFarm treats them as a single circular system, using insect bioconversion as the metabolic bridge between waste streams and agricultural inputs. The AI-driven growing environment optimizes light spectra, nutrient delivery, and climate control for each crop type, achieving 95% water savings compared to field agriculture.
 
 The export potential is significant for arid and semi-arid regions worldwide. As climate change pushes more agricultural zones toward water scarcity, integrated circular agriculture systems that minimize external inputs become increasingly valuable. The GigaFarm model — waste-to-energy, insect-to-water, AI-to-yield — could be replicated in North Africa, Central Asia, and sub-Saharan Africa where both food security and waste management are pressing challenges.
+
+## Sources
+
+- [https://www.zawya.com/en/press-release/government-news/sustainable-food-production-industry-blooming-in-dubai-food-tech-valley-as-gigafarm-initiative-lays-foundations-k4xazncm](https://www.zawya.com/en/press-release/government-news/sustainable-food-production-industry-blooming-in-dubai-food-tech-valley-as-gigafarm-initiative-lays-foundations-k4xazncm)
+- [https://www.cnn.com/world/dubai-gigafarm-biggest-vertical-farm-climate-hnk-spc-int/index.html](https://www.cnn.com/world/dubai-gigafarm-biggest-vertical-farm-climate-hnk-spc-int/index.html)
+- [https://www.weforum.org/stories/2025/02/gulf-food-security-innovation/](https://www.weforum.org/stories/2025/02/gulf-food-security-innovation/)

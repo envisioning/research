@@ -11,6 +11,8 @@ trl: 5
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817302/grid/technologies/b2ff761b-7add-4ccd-8387-aa02bfd7a615-google-gemini-3.1-flash-image-preview-ga1asj.png
+updated_at: '2026-09-28T17:18:20.774962+00:00'
+last_reviewed: null
 ---
 
 # Floating Offshore Wind
@@ -26,3 +28,8 @@ South Korea's offshore wind target of 14.3 GW by 2030 includes significant float
 Korea's shipyards are uniquely positioned for floating offshore wind because the manufacturing challenges — welding large steel structures, managing complex offshore logistics, operating heavy-lift cranes — are identical to shipbuilding competencies they've mastered over decades. HD Hyundai's Ulsan shipyard can fabricate floating foundations at a scale and cost that most competitors cannot match.
 
 The Ulsan Floating Offshore Wind Project (1.5 GW) is the flagship development, with Korea's largest companies (SK, Hanwha, HD Hyundai) competing for manufacturing contracts. If Korean shipyards successfully pivot to floating wind foundation manufacturing, they add a new revenue stream that offsets cyclical volatility in commercial ship orders while leveraging existing infrastructure and workforce.
+
+## Sources
+
+- [https://www.4coffshore.com/windfarms/south-korea/](https://www.4coffshore.com/windfarms/south-korea/)
+- [https://www.offshorewind.biz/2025/02/korea-floating-offshore-wind-shipyards/](https://www.offshorewind.biz/2025/02/korea-floating-offshore-wind-shipyards/)

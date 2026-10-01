@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766663523/habitacao/technologies/fachada-ativa-instrumento-regulatorio-densificacao-google-gemini-3-pro-image-preview-apaxik.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Fachada Ativa como Instrumento Regulatório de Densificação
@@ -25,3 +27,7 @@ Fachada ativa como instrumento regulatório de densificação refere-se à exig�
 No Brasil, especialmente em áreas centrais e em processos de revisão de zoneamento que buscam densificar, a exigência de fachada ativa está se tornando mais comum como instrumento de política urbana. Municípios estão incorporando essa exigência em seus códigos de obras e planos diretores como forma de garantir que densificação seja acompanhada de vitalidade urbana e serviços, especialmente relevante onde densificação sem atividade gera problemas de segurança, vitalidade e qualidade urbana.
 
 O sinal de mudança é a transformação de fachada ativa de recomendação urbanística para requisito regulatório vinculado a densificação, criando novos modelos de desenvolvimento que integram habitação com comércio e serviços. Isso impacta tipologias arquitetônicas, modelos de negócio imobiliário, regulação urbana e qualidade do espaço público, especialmente relevante onde densificação precisa ser legitimada através de contribuição para vitalidade urbana e onde regulação busca garantir que desenvolvimento privado contribua para qualidade urbana.
+
+## Sources
+
+- [Fachadas ativas trazem dinamismo a regiões de São Paulo](https://www.terra.com.br/noticias/fachadas-ativas-trazem-dinamismo-a-regioes-de-sao-paulo,2f1df27218fa2df9838a88c471eb4123fu845avu.html) (2025)

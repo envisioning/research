@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808390/aegis/technologies/63560d71-2c56-4c21-8e10-ba1aff7f182a-google-gemini-3.1-flash-image-preview-vuew6b.jpg
+updated_at: '2026-09-28T17:18:06.604649+00:00'
+last_reviewed: null
 ---
 
 # INS Vikrant Indigenous Aircraft Carrier
@@ -25,3 +27,9 @@ INS Vikrant (IAC-1), commissioned in September 2022, is India's first indigenous
 Building an aircraft carrier is one of the most complex engineering undertakings any nation can attempt — only six countries have ever built one. INS Vikrant took 17 years from keel-laying to commissioning, reflecting both the complexity of the project and India's evolving shipbuilding capabilities. The carrier gives India the ability to project naval power across the Indian Ocean region, a strategically critical waterway through which 40% of global oil trade passes.
 
 INS Vikrant's significance extends beyond military capability. The project developed India's shipbuilding industrial base, creating capabilities in warship-grade steel production, marine gas turbine technology, and complex systems integration. India is now planning IAC-2 — a larger, more advanced carrier potentially with electromagnetic catapults — leveraging the experience and industrial base built during Vikrant's construction.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/INS_Vikrant_(2013)](https://en.wikipedia.org/wiki/INS_Vikrant_(2013))
+- [https://www.wionews.com/photos/tejas-brahmos-ins-vikrant-and-more-how-far-has-india-really-come-in-achieving-self-reliance-in-defence-production-1763799076142](https://www.wionews.com/photos/tejas-brahmos-ins-vikrant-and-more-how-far-has-india-really-come-in-achieving-self-reliance-in-defence-production-1763799076142)
+- [https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-defence-sector-sees-shift-from-imports-to-exports-under-modi-govt-rajnath-singh/121752497](https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/indias-defence-sector-sees-shift-from-imports-to-exports-under-modi-govt-rajnath-singh/121752497)

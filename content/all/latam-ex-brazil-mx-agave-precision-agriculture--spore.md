@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812919/spore/technologies/67c334f4-6a12-4db8-a135-788ef221d32c-google-gemini-3.1-flash-image-preview-mh92d0.png
+updated_at: '2026-09-28T17:17:26.794865+00:00'
+last_reviewed: null
 ---
 
 # Tequila Agave Precision Agriculture
@@ -26,3 +28,9 @@ The tequila industry — Mexico's most iconic agricultural export, worth over $5
 Beyond remote sensing, the sector has adopted molecular analysis tools for quality control and authentication. Near-infrared spectroscopy and chromatographic profiling verify sugar content at harvest, optimizing the timing of jimador cuts for maximum yield. DNA barcoding helps enforce denomination of origin rules by confirming plant genetics. Drone-based spraying has reduced pesticide use by 30–40% while improving coverage on steep terrain where agave is increasingly planted as lowland water tables decline. Several startups in Guadalajara's growing agritech corridor — including Biomimic and Agave Lab — are building AI platforms that predict harvest readiness and disease risk at the individual-plant level.
 
 The strategic context is a $5 billion industry that cannot afford another crisis like the 2000s agave shortage, which quadrupled raw material costs and forced some distillers to source from outside the denomination zone. Climate change is compressing agave maturation times in some areas while introducing new pest pressures in others. The precision agriculture toolkit being developed for agave is also transferable to other long-cycle, high-value crops across Latin America — from mezcal (agave's artisanal cousin) to coffee and cacao. Mexico's tequila sector is effectively building industrial-scale precision agriculture expertise funded by premium spirits margins.
+
+## Sources
+
+- [https://www.crt.org.mx/](https://www.crt.org.mx/)
+- [https://www.reuters.com/article/us-mexico-tequila-technology-idUSKBN2BW1YZ](https://www.reuters.com/article/us-mexico-tequila-technology-idUSKBN2BW1YZ)
+- [https://www.frontiersin.org/articles/10.3389/fpls.2022.958032/full](https://www.frontiersin.org/articles/10.3389/fpls.2022.958032/full)

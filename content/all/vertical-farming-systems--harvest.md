@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128141/harvest/technologies/vertical-farming-systems-google-gemini-3-pro-image-preview-h0yd7m.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Vertical Farming Systems
@@ -25,3 +27,10 @@ Vertical farming systems represent a paradigm shift in agricultural production, 
 The agricultural sector faces mounting pressure from climate change, water scarcity, and the need to feed growing urban populations while reducing the environmental footprint of food production. Vertical farming addresses these challenges by using up to 95% less water than conventional agriculture through closed-loop recirculation systems, eliminating pesticide use through environmental isolation, and dramatically reducing transportation distances by locating production facilities near or within cities. This proximity to consumers—often called "zero-mile" agriculture—reduces food waste from spoilage during transport and enables harvest-to-shelf times measured in hours rather than days, preserving nutritional value and freshness. The technology also enables year-round production of crops regardless of season, insulating food supplies from weather disruptions and providing consistent quality and pricing. For retailers and food service operators, vertical farms offer reliable local sourcing that can strengthen supply chain resilience while appealing to consumers increasingly concerned with food provenance and sustainability.
 
 Commercial vertical farming operations have expanded significantly in recent years, with facilities producing leafy greens, herbs, and increasingly diverse crops including strawberries and tomatoes in urban centers worldwide. Major grocery chains and restaurants have begun partnering with vertical farm operators to secure consistent supplies of ultra-fresh produce, while some retailers have even installed small-scale systems within stores themselves. Research continues into expanding the range of viable crops, improving energy efficiency of LED systems, and developing automation technologies to reduce labor costs, which remain a significant operational challenge. As urban populations continue to concentrate and climate impacts on traditional agriculture intensify, vertical farming is positioned to become an increasingly important component of resilient urban food systems, complementing rather than replacing conventional agriculture by focusing on high-value, perishable crops where proximity and consistency provide clear advantages.
+
+## Sources
+
+- [A novel multilayer cultivation strategy improves light utilization and fruit quality in plant factories for tomato production](https://www.frontiersin.org/articles/10.3389/fhort.2025.1633097) (2025)
+- [Sustainable Edamame production in an artificial light plant factory with improved yield and quality](https://www.nature.com/articles/s41598-025-17131-w) (2025)
+- [Toward Sustainable Agriculture: The Design of Environmentally Friendly, Economical, and Modular Vertical Farming Systems](https://www.engineering.org.cn/engi/EN/10.1016/j.eng.2025.07.043) (2025)
+- [Vertical farming: productivity, environmental impact, and resource use. A review](https://link.springer.com/article/10.1007/s13593-025-01055-w) (2025)

@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814825/spore/technologies/f5b528ed-928d-45a9-a30e-7c6883463cf4-google-gemini-3.1-flash-image-preview-bvgqro.png
+updated_at: '2026-09-28T17:17:24.953034+00:00'
+last_reviewed: null
 ---
 
 # Saudi Red Sea Aquaculture
@@ -26,3 +28,7 @@ Saudi Arabia is developing industrial-scale aquaculture along its Red Sea coast 
 Aquaculture addresses the protein dimension of Gulf food security. While vertical farming handles fresh produce, fish farming reduces dependence on imported seafood and provides a domestic protein source. The Red Sea's relatively clean waters and warm temperatures offer favorable conditions for tropical aquaculture species.
 
 The scale of investment in Saudi aquaculture — alongside similar programs in Oman and the UAE — reflects a strategic calculation that marine protein production will become increasingly important as global wild fisheries decline. Technologies developed for warm-water, high-salinity aquaculture environments have potential applications across the tropical developing world.
+
+## Sources
+
+- [https://www.vision2030.gov.sa/en/explore/projects/neom](https://www.vision2030.gov.sa/en/explore/projects/neom)

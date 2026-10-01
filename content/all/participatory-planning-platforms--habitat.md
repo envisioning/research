@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221482/habitat/technologies/participatory-planning-platforms-google-gemini-3-pro-image-preview-9gw1q7.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Participatory Planning Platforms

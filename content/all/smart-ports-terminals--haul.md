@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135088/haul/technologies/smart-ports-terminals-google-gemini-3-pro-image-preview-57hkwi.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Smart Ports and Automated Terminals

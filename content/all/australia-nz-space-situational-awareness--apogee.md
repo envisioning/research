@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774859185/apogee/technologies/e80da304-5ea1-49e0-a4b0-ea02f2ebc5c1-google-gemini-3.1-flash-image-preview-67vnml.jpg
+updated_at: '2026-09-28T17:18:32.045123+00:00'
+last_reviewed: null
 ---
 
 # Space Situational Awareness Systems
@@ -26,3 +28,7 @@ Australia's Wide Area and Space Surveillance Systems (WASSSPO) operates space su
 With over 10,000 active satellites in orbit and growing, plus millions of debris fragments, space domain awareness is becoming critical for both military and civilian space operations. Australia's southern latitude provides unique viewing geometry for geostationary orbit satellites positioned over the Indian and Pacific Oceans — a region of intense strategic interest. The Combined Space Operations (CSpO) initiative integrates Australian space surveillance with US, UK, Canadian, and German capabilities.
 
 Australia's space situational awareness role complements its ground-based JORN radar network, creating a multi-domain surveillance capability spanning air, sea, and space from a single region. As space becomes increasingly contested (anti-satellite weapons tests, deliberate orbital maneuvering by adversaries), Australia's contribution to allied space surveillance becomes more strategically valuable.
+
+## Sources
+
+- [https://www.defence.gov.au/defence-activities/projects/wide-area-space-surveillance](https://www.defence.gov.au/defence-activities/projects/wide-area-space-surveillance)

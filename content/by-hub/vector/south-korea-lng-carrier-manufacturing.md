@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817360/vector/technologies/bb4004a8-a5c9-4333-838f-06dae703b89b-google-gemini-3.1-flash-image-preview-yaksln.png
+updated_at: '2026-09-28T17:18:21.014656+00:00'
+last_reviewed: null
 ---
 
 # LNG Carrier Manufacturing Dominance
@@ -25,3 +27,8 @@ HD Hyundai Heavy Industries, Samsung Heavy Industries, and Hanwha Ocean collecti
 The global LNG trade is growing rapidly as countries transition from coal and seek energy security (particularly in Europe post-Russia). LNG carrier orders have surged, with Korean yards holding backlogs that extend past 2028. A single LNG carrier costs $250-350 million, making this one of the highest-value manufactured products in the world.
 
 China's Hudong-Zhonghua and Jiangnan shipyards are building LNG carrier capacity, but Korean yards maintain quality and delivery advantages that justify premium pricing. For many LNG project sponsors and financiers, Korean-built carriers are effectively the standard — the insurance and certification processes are well-established, and the track record spans hundreds of successful vessels over decades.
+
+## Sources
+
+- [https://www.hellenicshippingnews.com/korean-shipyards-lng-carrier-dominance-2025/](https://www.hellenicshippingnews.com/korean-shipyards-lng-carrier-dominance-2025/)
+- [https://www.clarksons.com/research/lng-shipping-market-2025/](https://www.clarksons.com/research/lng-shipping-market-2025/)

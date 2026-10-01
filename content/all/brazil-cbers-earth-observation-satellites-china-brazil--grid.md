@@ -10,6 +10,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793350/grid/technologies/935f6f34-cfba-42e0-89a1-2d6e47dd40ed-google-gemini-3.1-flash-image-preview-wdjmas.jpg
+updated_at: '2026-09-28T17:17:59.135177+00:00'
+last_reviewed: null
 ---
 
 # CBERS Earth Observation Satellites (China-Brazil)
@@ -25,3 +27,9 @@ The China-Brazil Earth Resources Satellite program began in 1984 and has success
 CBERS satellites provide multispectral Earth observation data for agriculture monitoring, deforestation detection, urban planning, and water resource management. Brazil uses CBERS data to complement DETER and MapBiomas for environmental monitoring. China and Brazil are expanding cooperation with CBERS-6 development and new programs including satellite-based internet services and a joint space lab.
 
 The geopolitical significance: Brazil maintains independent access to Earth observation data through this partnership, reducing dependence on US (Landsat) and European (Sentinel) satellite programs. This diversification of space data sources is increasingly important as satellite imagery becomes a strategic asset.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/China%E2%80%93Brazil_Earth_Resources_Satellite_program](https://en.wikipedia.org/wiki/China%E2%80%93Brazil_Earth_Resources_Satellite_program)
+- [https://www.globaltimes.cn/page/202506/1335283.shtml](https://www.globaltimes.cn/page/202506/1335283.shtml)
+- [https://www.globaltimes.cn/page/202512/1350888.shtml](https://www.globaltimes.cn/page/202512/1350888.shtml)

@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808269/vault/technologies/5c5193d1-3df5-4ec1-8695-b17f45c14bac-google-gemini-3.1-flash-image-preview-91yno5.png
+updated_at: '2026-09-28T17:18:06.533072+00:00'
+last_reviewed: null
 ---
 
 # Digital Insurance Ecosystem
@@ -26,3 +28,9 @@ India's insurance technology ecosystem has produced several significant companie
 India's insurance penetration is approximately 4% of GDP — far below the global average of 7%. This gap represents an enormous market opportunity. Digital-first insurers are reaching customers that traditional insurance companies never could: ride-hailing drivers needing per-trip coverage, small shopkeepers needing micro-insurance, and young professionals buying their first health insurance through a mobile app.
 
 The insurtech ecosystem benefits from India Stack: Aadhaar enables instant KYC, UPI enables seamless premium collection, and DigiLocker enables digital policy storage. The combination of low penetration, digital infrastructure, and a young population (median age 28) creates conditions for explosive growth. India's insurtech sector could follow the trajectory of India's fintech sector — where open digital infrastructure enabled companies to achieve scale and adoption rates that took decades in Western markets.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Go_Digit_General_Insurance](https://en.wikipedia.org/wiki/Go_Digit_General_Insurance)
+- [https://www.mordorintelligence.com/industry-reports/india-fintech-market](https://www.mordorintelligence.com/industry-reports/india-fintech-market)
+- [https://www.acko.com/](https://www.acko.com/)

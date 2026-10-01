@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810366/prism/technologies/4cedd945-aeb7-4c39-aea1-50f0468ef194-google-gemini-3.1-flash-image-preview-exp9vr.png
+updated_at: '2026-09-28T17:17:12.599775+00:00'
+last_reviewed: null
 ---
 
 # Indigenous African Streaming and Distribution Platforms
@@ -26,3 +28,8 @@ African streaming platforms have emerged to serve the continent's specific media
 These platforms solve problems that global streaming services don't address. Content is optimized for low-bandwidth delivery — adaptive bitrate streaming that works on 2G and 3G networks. Payment is integrated with mobile money (M-Pesa, MTN Mobile Money) rather than requiring credit cards. Content libraries emphasize local languages and genres. Mdundo offers music downloads (not just streaming) because many users lack consistent internet access.
 
 The platforms represent a content sovereignty play. While Netflix and YouTube dominate globally, African platforms ensure that the economics of African content creation flow back to African creators and companies. The battle for Africa's media market — 1.4 billion people, median age 19, increasingly connected — will be one of the defining technology competitions of the next decade.
+
+## Sources
+
+- [https://www.britannica.com/topic/Nollywood](https://www.britannica.com/topic/Nollywood)
+- [https://www.234digest.com/p/nollywood-s-digital-revolution-how-streaming-is-reshaping-african-cinema](https://www.234digest.com/p/nollywood-s-digital-revolution-how-streaming-is-reshaping-african-cinema)

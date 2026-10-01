@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774854126/polis/technologies/edd18d46-1431-4ed1-9018-3e16b2c0a15f-google-gemini-3.1-flash-image-preview-cpvu66.jpg
+updated_at: '2026-09-28T17:16:31.863444+00:00'
+last_reviewed: null
 ---
 
 # EU AI Act
@@ -25,3 +27,7 @@ The EU AI Act (2024) is the world's first comprehensive regulatory framework for
 The Act requires high-risk AI systems (used in hiring, credit scoring, law enforcement, healthcare) to meet standards for transparency, human oversight, data quality, and documentation. Foundation model providers must disclose training data summaries, compute used, and benchmark results.
 
 As with GDPR, the Brussels Effect is already visible: companies building AI systems for global markets are designing to EU standards rather than maintaining separate compliant and non-compliant versions. Canada, Brazil, and other jurisdictions are studying the AI Act as a template for their own regulations. The EU is again exporting regulatory technology — shaping how AI is developed and deployed globally by setting the most demanding compliance bar.
+
+## Sources
+
+- [https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)

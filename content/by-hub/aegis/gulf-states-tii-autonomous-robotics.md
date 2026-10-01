@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814585/aegis/technologies/cb377440-c905-402b-bad0-febf03cd9aa6-google-gemini-3.1-flash-image-preview-oftvlb.png
+updated_at: '2026-09-28T17:16:31.081393+00:00'
+last_reviewed: null
 ---
 
 # TII Autonomous Robotics Research
@@ -26,3 +28,8 @@ The Technology Innovation Institute (TII) in Abu Dhabi, best known for the Falco
 TII's research model — well-funded, recruiting international researchers, publishing openly — enables the UAE to build frontier research capabilities across multiple technology domains simultaneously. The institute's quantum research center is working on quantum-resistant cryptography, anticipating the security challenges that quantum computing will pose to current encryption standards.
 
 The breadth of TII's research portfolio reflects the UAE's strategy of building general-purpose technology research capabilities rather than focusing on narrow application domains. This approach creates optionality: breakthroughs in any research area can be quickly directed toward commercial or government applications, and the cross-pollination between fields (AI + robotics + security) produces novel combinations.
+
+## Sources
+
+- [https://www.tii.ae/](https://www.tii.ae/)
+- [https://www.iiss.org/publications/strategic-comments/2024/10/the-uaes-technology-ambitions/](https://www.iiss.org/publications/strategic-comments/2024/10/the-uaes-technology-ambitions/)

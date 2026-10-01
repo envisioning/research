@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766538747/habitacao/technologies/captura-realidade-obra-drones-lidar-360-google-gemini-3-pro-image-preview-8g6kcz.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Captura de Realidade de Obras
@@ -25,3 +27,8 @@ A captura de realidade de obras representa uma mudança fundamental na forma com
 O principal desafio que esta tecnologia endereça é a lacuna histórica entre planejamento e execução na construção civil, onde discrepâncias entre o projetado e o construído frequentemente resultam em retrabalho custoso, atrasos e disputas contratuais. Métodos tradicionais de medição e documentação—baseados em trenas, estações totais e inspeções visuais—são lentos, propensos a erros humanos e incapazes de capturar a complexidade total de um canteiro em evolução. A captura de realidade resolve esses problemas ao fornecer evidências objetivas e quantificáveis do estado da obra, eliminando ambiguidades nas medições e criando um registro histórico completo que pode ser revisitado a qualquer momento. Quando integrada a fluxos de trabalho BIM (Building Information Modeling), essa tecnologia permite comparações automatizadas entre modelos 'as-planned' e 'as-built', identificando interferências, desvios de projeto e não-conformidades antes que se tornem problemas críticos. Isso habilita novos modelos de gestão baseados em dados, onde decisões sobre cronograma, pagamentos e correções são fundamentadas em evidências digitais verificáveis, reduzindo significativamente disputas subjetivas entre contratantes, subcontratados e clientes.
 
 No contexto brasileiro, a adoção desta tecnologia está crescendo particularmente em obras de infraestrutura de grande porte e empreendimentos imobiliários que exigem alto grau de precisão documental. Em projetos de terraplenagem e obras lineares—como rodovias, ferrovias e redes de saneamento—a captura de realidade permite medições volumétricas precisas de corte e aterro, otimizando o controle de movimentação de terra e reduzindo custos operacionais. Em edifícios verticais, a tecnologia acelera processos de compatibilização entre disciplinas e facilita vistorias de conformidade, especialmente em fases críticas como estrutura e instalações prediais. Empresas construtoras e incorporadoras estão integrando esses workflows aos seus processos de qualidade e planejamento, reconhecendo que a transparência e rastreabilidade proporcionadas pela captura digital não apenas reduzem riscos operacionais, mas também fortalecem a confiança com investidores e órgãos reguladores. À medida que os custos de hardware continuam a cair e as plataformas de software se tornam mais acessíveis, espera-se que a captura de realidade migre de um diferencial competitivo para um padrão de mercado, transformando fundamentalmente a cultura de documentação e controle na construção civil brasileira.
+
+## Sources
+
+- [RS adota tecnologia 360° para fiscalização de obras públicas](https://revistaoe.com.br/fiscalizacao-obras-publicas-rs) (2026)
+- [RS adota tecnologia 360° para fiscalização de obras públicas](https://revistaoe.com.br/fiscalizacao-obras-publicas-rs) (2026)

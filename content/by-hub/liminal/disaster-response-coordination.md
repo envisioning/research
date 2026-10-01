@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125451/liminal/technologies/disaster-response-coordination-google-gemini-3-pro-image-preview-4op7ld.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Disaster Response Coordination

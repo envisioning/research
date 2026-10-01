@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875812/apogee/technologies/b2dad863-4317-47db-b02c-cf0431e9ff61-google-gemini-3.1-flash-image-preview-0a4gmu.png
+updated_at: '2026-09-28T17:17:33.91211+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Electro-Optical and SAR Reconnaissance Satellites
@@ -26,3 +28,9 @@ Israel's Ofek (Ofeq) constellation represents one of the most capable indigenous
 The Ofek program was born from a critical intelligence failure: during the 1973 Yom Kippur War, the U.S. withheld satellite imagery from Israel. The lesson was existential — Israel could not depend on allies for strategic intelligence when it mattered most. This drove the development of indigenous space reconnaissance capability beginning in the 1980s, making Israel the eighth nation to achieve orbital launch capability.
 
 Strategically, the Ofek constellation gives Israel independent intelligence collection over Iran, Syria, and other strategic targets without reliance on U.S. satellite time allocation. The commercial counterpart (EROS series by ImageSat International) generates revenue and influence by providing high-resolution imagery to allied nations. Israel's reconnaissance satellite expertise — spanning optics, SAR, image processing, and orbital mechanics — represents a sovereign capability that few nations possess.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Ofeq](https://en.wikipedia.org/wiki/Ofeq)
+- [https://www.timesofisrael.com/israel-successfully-launches-ofek-19-spy-satellite-an-eye-on-our-enemies/](https://www.timesofisrael.com/israel-successfully-launches-ofek-19-spy-satellite-an-eye-on-our-enemies/)
+- [https://defense-update.com/20220606_ofek16-spysat.html](https://defense-update.com/20220606_ofek16-spysat.html)

@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815169/spore/technologies/325373cc-6c75-4fe9-b267-bcc5bc49dee3-google-gemini-3.1-flash-image-preview-qs3sla.jpg
+updated_at: '2026-09-28T17:17:45.661886+00:00'
+last_reviewed: null
 ---
 
 # Specialty Robusta Coffee Processing Technology
@@ -26,3 +28,9 @@ Vietnam produces approximately 40% of the world's Robusta coffee, concentrated i
 This matters because it disrupts the global coffee value chain. Robusta has historically traded at 40-60% of Arabica prices due to perceived inferior quality. By applying post-harvest processing innovations, Vietnamese producers can command Arabica-level prices for Robusta — a potential $2-3 billion value uplift for a country where 2.6 million people depend on coffee farming. Modern wet-processing systems handle 3.5 tons/hour with optical sorting and density grading that were unthinkable a decade ago.
 
 The strategic implication extends beyond Vietnam. As climate change pushes Arabica cultivation to higher altitudes and reduces yields in traditional growing regions (Colombia, Ethiopia, Central America), heat-tolerant Robusta becomes increasingly important for global coffee supply security. Vietnam's processing innovations position it not just as a volume supplier but as a quality leader — potentially reshaping the $450 billion global coffee industry's quality hierarchy.
+
+## Sources
+
+- [https://goldenrobusta.vn/en/cong-dong/news/](https://goldenrobusta.vn/en/cong-dong/news/)
+- [https://haliocoffee.com/specialty-robusta-coffee-vietnam-a-technical-buyers-guide-for-manufacturers-distributors-and-roasters/](https://haliocoffee.com/specialty-robusta-coffee-vietnam-a-technical-buyers-guide-for-manufacturers-distributors-and-roasters/)
+- [https://rita.com.vn/news/vietnam-s-robusta-coffee-a-global-game-changer](https://rita.com.vn/news/vietnam-s-robusta-coffee-a-global-game-changer)

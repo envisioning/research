@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813813/polis/technologies/29993d58-af9f-49b3-9f13-35823a59bf81-google-gemini-3.1-flash-image-preview-fnmqkx.png
+updated_at: '2026-09-28T17:18:11.854986+00:00'
+last_reviewed: null
 ---
 
 # Saudi Mega-Scale Construction Technology
@@ -25,3 +27,8 @@ Saudi Arabia's Vision 2030 construction program — encompassing NEOM, Qiddiya, 
 The sheer scale of simultaneous construction activity has necessitated new approaches: NEOM's planned concrete factories capable of producing 20,000 cubic meters daily, automated rebar assembly lines, and drone-based construction monitoring. These technologies are being developed out of necessity rather than experimentation, creating battle-tested capabilities.
 
 The construction technology developed for Saudi megaprojects has significant export potential. As urbanization continues in developing nations — Africa alone will need housing for 500 million additional urban residents by 2050 — scalable, efficient construction methods become increasingly valuable. Saudi Arabia's large-scale experience with modular and automated construction techniques creates a knowledge base applicable to rapid urbanization challenges globally.
+
+## Sources
+
+- [https://www.designboom.com/architecture/the-line-reality-saudi-arabia-architectural-future-neom-11-05-2025/](https://www.designboom.com/architecture/the-line-reality-saudi-arabia-architectural-future-neom-11-05-2025/)
+- [https://www.theb1m.com/video/can-the-line-be-built](https://www.theb1m.com/video/can-the-line-be-built)

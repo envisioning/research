@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898175/atmos/technologies/aac3592b-b408-458a-845c-24c2b7f2be67-google-gemini-3.1-flash-image-preview-dtwh20.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Advanced Thermal Management

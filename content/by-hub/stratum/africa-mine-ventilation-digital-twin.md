@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809906/stratum/technologies/0eacd23a-3f56-48a1-9b74-79d73d4f6801-google-gemini-3.1-flash-image-preview-qyylbo.jpg
+updated_at: '2026-09-28T17:18:07.793065+00:00'
+last_reviewed: null
 ---
 
 # Digital Twin Ventilation Simulation for Deep Mines
@@ -26,3 +28,9 @@ South African mining researchers have developed world-leading digital twin techn
 The technology was born from necessity: South African deep mines have the world's most complex ventilation challenges. A single mine may have 200+ km of airways, multiple refrigeration plants, hundreds of fans, and thousands of workers whose metabolic heat adds to the thermal load. PTB can simulate the entire system in real time, allowing engineers to model scenarios: what happens if a fan fails? If a new tunnel opens? If production shifts to a hotter area? The University of Pretoria and North-West University have been primary developers of these simulation capabilities.
 
 The strategic value is that this technology represents accumulated intellectual property from solving problems no one else in the world has faced at this scale and depth. As other mining nations encounter similar challenges — and as underground construction for infrastructure, data centers, and energy storage increases globally — South African ventilation simulation technology becomes a valuable export. The digital twin approach is also being extended to energy optimization, predicting which combination of fan speeds and refrigeration settings minimizes electricity consumption while maintaining safe conditions.
+
+## Sources
+
+- [https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2224-78902022000300016](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2224-78902022000300016)
+- [https://www.vuma3d.com/wp-content/uploads/2021/04/10-IMVC-Refrigeration-and-ventilation-systems-fro-ultra-deep-mining-in-the-bushveld-igneous-complex.pdf](https://www.vuma3d.com/wp-content/uploads/2021/04/10-IMVC-Refrigeration-and-ventilation-systems-fro-ultra-deep-mining-in-the-bushveld-igneous-complex.pdf)
+- [https://link.springer.com/article/10.1007/s42461-023-00738-w](https://link.springer.com/article/10.1007/s42461-023-00738-w)

@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898140/prism/technologies/aa46b833-f30f-429e-91af-bdb371c0b64f-google-gemini-3.1-flash-image-preview-cufr6w.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Laser Video Display

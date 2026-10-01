@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812371/grid/technologies/089e0958-398b-4d19-9421-057d149d1644-google-gemini-3.1-flash-image-preview-k3w5ui.png
+updated_at: '2026-09-28T17:17:36.475443+00:00'
+last_reviewed: null
 ---
 
 # Research Reactor Design & Export
@@ -26,3 +28,9 @@ INVAP, Argentina's state-owned technology company based in Bariloche, is one of 
 The technology encompasses reactor physics design, safety analysis, control system engineering, neutron reflector optimization, and low-enriched uranium (LEU) fuel assembly design. INVAP's competitive advantage is offering turnkey research reactor packages — from feasibility study through construction, commissioning, and operator training — at costs significantly below major nuclear nations' offerings. The company's ability to work with LEU fuels (avoiding weapons-grade HEU) aligns with non-proliferation goals.
 
 This export capability is remarkable for a developing nation: INVAP competes against French, Russian, Chinese, and South Korean nuclear companies in international tenders. The Australian OPAL contract — won in open competition against European and Asian bidders — demonstrated that Argentine nuclear engineering matches the quality of established nuclear powers. As global demand for medical isotopes (particularly Mo-99/Tc-99m for 40 million diagnostic procedures annually) drives new research reactor construction, INVAP's order pipeline remains robust.
+
+## Sources
+
+- [https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina](https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina)
+- [https://www.argentina.gob.ar/argentinian-nuclear-power-plant](https://www.argentina.gob.ar/argentinian-nuclear-power-plant)
+- [https://www.world-nuclear-news.org/Articles/Construction-of-Argentinas-small-CAREM-25-unit-to](https://www.world-nuclear-news.org/Articles/Construction-of-Argentinas-small-CAREM-25-unit-to)

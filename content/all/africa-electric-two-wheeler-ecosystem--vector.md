@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811141/vector/technologies/c9b7499e-a45f-4323-b025-c1b138bc1348-google-gemini-3.1-flash-image-preview-aw0v9j.png
+updated_at: '2026-09-28T17:18:09.968658+00:00'
+last_reviewed: null
 ---
 
 # Electric Two-Wheeler and Battery-Swap Ecosystems
@@ -26,3 +28,9 @@ Africa's transport revolution is starting with two-wheelers, not cars. Motorcycl
 Spiro has deployed over 10,000 electric motorcycles and operates hundreds of battery-swap stations where riders exchange depleted batteries for charged ones in under 60 seconds — eliminating range anxiety and charging downtime. The company has raised over $230 million since 2022 and targets 2 million bikes by 2030. Roam designs and assembles its electric motorcycles locally in Kenya, with a funding round in late 2025 opening to retail investors through crowdfunding.
 
 The model is distinctly African: instead of waiting for charging infrastructure to develop (Africa has almost no public EV charging), the battery-swap approach converts existing petrol station economics into electric distribution networks. A motorcycle taxi driver saves 40-60% on fuel costs by switching to electric, with the swap model ensuring zero downtime. This is how the electrification of African transport will actually happen — two wheels at a time, through swappable batteries.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Spiro_(company)](https://en.wikipedia.org/wiki/Spiro_(company))
+- [https://www.semafor.com/article/02/25/2026/spiro-fuels-electric-vehicle-expansion-in-africa](https://www.semafor.com/article/02/25/2026/spiro-fuels-electric-vehicle-expansion-in-africa)
+- [https://restofworld.org/2024/spiro-ebikes-africa/](https://restofworld.org/2024/spiro-ebikes-africa/)

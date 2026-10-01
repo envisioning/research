@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812580/spore/technologies/2a86a922-a6cd-4372-b335-af079dd0a306-google-gemini-3.1-flash-image-preview-epze08.jpg
+updated_at: '2026-09-28T17:17:36.085916+00:00'
+last_reviewed: null
 ---
 
 # Agricultural Gene Editing & Crop Biotechnology
@@ -26,3 +28,9 @@ Argentina is the world's third-largest producer of biotech crops, with over 26 m
 This regulatory advantage has spawned genuine technology innovation. Argentine researchers developed the world's first drought-tolerant GM wheat (HB4), and companies like BioHeuris are developing novel herbicide tolerance traits using directed evolution — a technology platform now being licensed to the African Agricultural Technology Foundation for trials on sorghum. The government approved five new genetically engineered events in 2023-2024, including new soybean and corn varieties with stacked traits for insect resistance and herbicide tolerance.
 
 The strategic significance is dual: Argentina's agricultural biotech expertise is an export product (licensing traits to African and Asian agriculture), and it underpins the country's agricultural export economy ($40B+ annually). As climate change increases drought frequency and pest pressure globally, Argentina's advanced capabilities in crop genetic modification — both transgenic and gene-edited — become increasingly valuable intellectual property.
+
+## Sources
+
+- [https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/argentina-crops-food/](https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/argentina-crops-food/)
+- [https://www.fas.usda.gov/data/argentina-agricultural-biotechnology-annual-8](https://www.fas.usda.gov/data/argentina-agricultural-biotechnology-annual-8)
+- [https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21530](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21530)

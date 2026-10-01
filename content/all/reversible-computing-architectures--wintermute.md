@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080317/wintermute/technologies/reversible-computing-architectures-gemini-3-pro-b9khzd.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Reversible Computing Architectures

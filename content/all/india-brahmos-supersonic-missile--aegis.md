@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809529/aegis/technologies/dc26ae49-23cb-464d-8d5b-38f78fc047fe-google-gemini-3.1-flash-image-preview-7npphv.jpg
+updated_at: '2026-09-28T17:17:12.837686+00:00'
+last_reviewed: null
 ---
 
 # BrahMos Supersonic Cruise Missile
@@ -26,3 +28,9 @@ BrahMos is a ramjet-powered supersonic cruise missile developed jointly by India
 BrahMos has been deployed across the Indian armed forces — the Army, Navy, and Air Force all operate variants. In 2022, the Philippines became the first export customer, ordering the shore-based anti-ship variant. Following India's Operation Sindoor in May 2025, where indigenous defense systems were deployed operationally, international interest in BrahMos surged further. India now exports defense equipment to over 100 countries.
 
 The next generation — BrahMos-II — is under development as a hypersonic missile capable of Mach 7+. BrahMos represents a rare case of an Indian defense product that is genuinely world-leading in its category. The missile's combination of speed, accuracy, and multi-platform launch capability makes it a significant deterrent asset and a compelling export product that demonstrates India's growing defense-industrial capabilities.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/BrahMos](https://en.wikipedia.org/wiki/BrahMos)
+- [https://www.timesnownews.com/india/tejas-brahmos-akash-inside-indias-rs-23600-cr-defence-export-boom-article-153128578](https://www.timesnownews.com/india/tejas-brahmos-akash-inside-indias-rs-23600-cr-defence-export-boom-article-153128578)
+- [https://southasianvoices.org/def-f-in-n-india-defense-exports-09-15-2025/](https://southasianvoices.org/def-f-in-n-india-defense-exports-09-15-2025/)

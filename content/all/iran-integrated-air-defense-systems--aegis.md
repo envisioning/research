@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872368/aegis/technologies/08c35df3-8815-464a-b4b1-0e6caaf7b1f3-google-gemini-3.1-flash-image-preview-hl7qy5.jpg
+updated_at: '2026-09-28T17:16:25.044837+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Integrated Air Defense Systems
@@ -25,3 +27,9 @@ The Bavar-373 is Iran's most advanced indigenous air defense system, designed as
 The development trajectory of the Bavar-373 illustrates sanctions-driven innovation: denied the S-300, Iran reverse-engineered concepts and built an indigenous alternative over approximately 15 years. While independent assessments suggest it does not match the S-300PMU2 in all parameters, it represents genuine indigenous capability in phased array radar design, interceptor missile production, and systems integration — competencies that took decades to develop.
 
 The system's real-world performance was tested during the 2025-2026 conflict with Israel, where Iranian integrated air defenses faced stealth aircraft, cruise missiles, and electronic warfare. Results are disputed — Iranian sources claim successful intercepts while Western sources emphasize significant penetration — but the existence of a multi-layered indigenous air defense network remains strategically relevant. The program also demonstrates Iran's ability to produce the radar transmit/receive modules, signal processing systems, and interceptor seekers domestically.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Bavar-373](https://en.wikipedia.org/wiki/Bavar-373)
+- [https://en.defence-ua.com/analysis/how_strong_is_iranian_air_defense_network-17663.html](https://en.defence-ua.com/analysis/how_strong_is_iranian_air_defense_network-17663.html)
+- [https://militarywatchmagazine.com/article/iran-next-generation-bavar-373-threat](https://militarywatchmagazine.com/article/iran-next-generation-bavar-373-threat)

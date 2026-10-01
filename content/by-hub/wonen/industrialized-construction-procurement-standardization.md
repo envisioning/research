@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882911/wonen/technologies/261020c6-a405-4940-85ff-3917a5ffdfd4-google-gemini-3.1-flash-image-preview-00qxsz.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Industrialized Construction at Scale (Procurement + Standardization)

@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124457/liminal/technologies/digital-twin-surgery-google-gemini-3-pro-image-preview-hnfpag.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Digital Twin Surgery

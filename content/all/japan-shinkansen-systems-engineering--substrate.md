@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819301/substrate/technologies/b08ceb38-bbca-4275-9038-758a74d533eb-google-gemini-3.1-flash-image-preview-5290s9.jpg
+updated_at: '2026-09-28T17:16:25.992756+00:00'
+last_reviewed: null
 ---
 
 # Shinkansen Systems Engineering
@@ -26,3 +28,9 @@ The Shinkansen bullet train network has carried over 10 billion passengers since
 The engineering goes deeper than safety. Shinkansen trains operate in conditions that would disable other rail systems: heavy snowfall (Joetsu Shinkansen uses sprinkler de-icing), typhoons (wind speed sensors trigger speed restrictions automatically), and frequent earthquakes (trains can stop from 270 km/h within 800 meters when seismic alerts trigger). Average delay across the entire network is under one minute per train per year. The N700S (Supreme) trains feature lithium-ion battery backup enabling self-evacuation from tunnels during power outages — a post-Fukushima innovation.
 
 The Shinkansen's global influence extends beyond Japan's network: the technology has been exported to Taiwan (THSR), is being proposed for Texas and India (Mumbai-Ahmedabad line), and its operational methodology influences high-speed rail planning worldwide. But the deeper lesson is systemic — the Shinkansen demonstrates that extreme reliability at extreme speed requires treating the entire railway as a single integrated system, not as separate components. This systems engineering philosophy is Japan's true export, applicable far beyond trains.
+
+## Sources
+
+- [https://www.hsrail.org/blog/the-shinkansens-legendary-operation-and-safety-record-2/](https://www.hsrail.org/blog/the-shinkansens-legendary-operation-and-safety-record-2/)
+- [https://en.wikipedia.org/wiki/Shinkansen](https://en.wikipedia.org/wiki/Shinkansen)
+- [https://www.asahi.com/ajw/articles/15078848](https://www.asahi.com/ajw/articles/15078848)

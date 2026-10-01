@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872486/aegis/technologies/2a8fa963-a732-4373-a81e-9062d7aace0f-google-gemini-3.1-flash-image-preview-lfkcgw.jpg
+updated_at: '2026-09-28T17:18:41.015764+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Submarine Design and Production
@@ -26,3 +28,9 @@ Iran's submarine program spans two main classes: the Fateh-class semi-heavy subm
 The submarine program is strategically significant for Strait of Hormuz denial. In the confined, shallow waters of the Persian Gulf, even relatively simple submarines can pose a serious threat to surface vessels. The Ghadir-class boats are specifically designed for this environment — small enough to operate in shallow waters, numerous enough to present multiple threats simultaneously. The Fateh-class bridges the gap between midget and full-size attack submarines, offering greater range and weapons capacity for operations in the Gulf of Oman.
 
 The AIP development is particularly noteworthy. Air-independent propulsion allows diesel-electric submarines to remain submerged for weeks rather than days, dramatically improving survivability. If Iran successfully integrates AIP into the Fateh class, it would represent a meaningful enhancement of its undersea warfare capability. The NTI assesses that AIP installation plans are underway, though timelines remain uncertain. The broader significance is industrial: Iran designs, builds, and maintains submarines domestically — a capability shared by fewer than 20 countries globally.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Fateh-class_submarine](https://en.wikipedia.org/wiki/Fateh-class_submarine)
+- [https://www.navalnews.com/event-news/dimdex-2024/2024/03/iran-unveils-aip-version-of-fateh-class-submarine-at-dimdex-2024/](https://www.navalnews.com/event-news/dimdex-2024/2024/03/iran-unveils-aip-version-of-fateh-class-submarine-at-dimdex-2024/)
+- [https://www.nti.org/analysis/articles/iran-submarine-capabilities/](https://www.nti.org/analysis/articles/iran-submarine-capabilities/)

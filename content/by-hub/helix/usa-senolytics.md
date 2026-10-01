@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774862164/helix/technologies/fb6c0f7f-a14e-4ba8-a58e-2e017626266a-google-gemini-3.1-flash-image-preview-4t11rc.jpg
+updated_at: '2026-09-28T17:17:50.997782+00:00'
+last_reviewed: null
 ---
 
 # Senolytic Therapeutics
@@ -26,3 +28,8 @@ Senolytics are drugs designed to selectively destroy senescent cells — damaged
 Senescent cell accumulation is implicated in many age-related diseases: atherosclerosis, osteoarthritis, fibrosis, neurodegeneration, and diabetes. Animal studies show dramatic healthspan improvements when senescent cells are cleared — aged mice regain youthful function. If these results translate to humans, senolytics could treat multiple age-related conditions simultaneously by addressing a root cause rather than individual symptoms.
 
 Senolytics represent a different approach to longevity than reprogramming: rather than rejuvenating cells, they remove the damaged ones that poison their neighbors. The two approaches are complementary and may eventually be combined. The US leads in senolytic development through its biotech ecosystem, with the field moving from academic research to venture-backed clinical development.
+
+## Sources
+
+- [https://wewillcure.com/insights/company-profiles/anti-aging-and-longevity-startups-to-watch](https://wewillcure.com/insights/company-profiles/anti-aging-and-longevity-startups-to-watch)
+- [https://idstch.com/technology/biosciences/eternal-youth-inside-the-2025-breakthroughs-revolutionizing-anti-aging-science/](https://idstch.com/technology/biosciences/eternal-youth-inside-the-2025-breakthroughs-revolutionizing-anti-aging-science/)

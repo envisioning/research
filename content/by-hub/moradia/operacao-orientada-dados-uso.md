@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360007/habitar/technologies/operacao-orientada-dados-uso-google-gemini-3-pro-image-preview-6sxcnh.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Operação Orientada por Dados de Uso
@@ -25,3 +27,10 @@ A operação orientada por dados de uso representa uma mudança fundamental na f
 No contexto brasileiro, onde custos operacionais representam uma parcela significativa das despesas de condomínios e edifícios comerciais, esta abordagem oferece soluções para desafios críticos de eficiência. Sistemas tradicionais de climatização, iluminação e elevadores frequentemente operam em horários predefinidos que não refletem padrões reais de ocupação, resultando em desperdício energético e custos desnecessários. A operação orientada por dados permite ajustes dinâmicos: ar-condicionado que se adapta à ocupação real de cada andar, iluminação que responde a padrões de circulação, e cronogramas de limpeza otimizados para áreas de maior uso. Além disso, a manutenção preditiva baseada em dados de operação real dos equipamentos reduz falhas inesperadas e prolonga a vida útil de ativos, um benefício particularmente relevante em mercados onde reposição de equipamentos representa investimentos significativos.
 
 Embora ainda em estágio inicial de adoção no Brasil, experiências piloto em edifícios comerciais premium e condomínios residenciais de alto padrão indicam ganhos mensuráveis tanto em eficiência operacional quanto em satisfação dos usuários. Administradoras prediais começam a explorar plataformas que consolidam dados de múltiplas fontes para gerar relatórios de desempenho e identificar oportunidades de otimização. A personalização de serviços baseada em dados de uso também emerge como diferencial competitivo: academias condominiais que ajustam horários de funcionamento conforme demanda real, salões de festas com sistemas de reserva inteligentes, e áreas comuns que se adaptam aos padrões de uso dos moradores. À medida que os custos de sensores e plataformas de analytics continuam a diminuir, e a pressão por eficiência energética e redução de custos operacionais se intensifica, a operação orientada por dados de uso tende a se tornar padrão na gestão de edifícios, transformando espaços reativos em ambientes inteligentes que aprendem e se adaptam continuamente às necessidades de seus ocupantes.
+
+## Sources
+
+- [Building A RAG Powered Chatbot with Streamlit & Snowflake](https://medium.com/@kieran_adair/building-a-rag-powered-chatbot-with-streamlit-snowflake-30-days-of-ai-challenge-week-3-992feb8e442c) (2026)
+- [Datacility — Gestão data-driven para Property & Facilities](https://datacility.com.br/) (2025)
+- [Monetização de Espaços: Analisando a Utilização de Ambientes com Dados](https://online.pucrs.br/blog/otimizacao-de-espacos-monitoramento) (2025)
+- [VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking](https://arxiv.org/html/2508.04026v2) (2025)

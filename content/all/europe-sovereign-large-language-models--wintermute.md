@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852711/wintermute/technologies/1c884894-a531-41ce-86f4-23ca34283aec-google-gemini-3.1-flash-image-preview-zm2h73.jpg
+updated_at: '2026-09-28T17:18:23.91246+00:00'
+last_reviewed: null
 ---
 
 # Sovereign Large Language Models
@@ -26,3 +28,8 @@ Mistral AI (France, €1.7B raised in 2025) is Europe's most valuable AI company
 The company's models (Mistral Large, Codestral, Pixtral) are used by enterprises seeking alternatives to US-controlled AI infrastructure. Mistral's open-weight approach — releasing model weights publicly while offering commercial services — created a distinctive European position: transparency and sovereignty rather than the closed, proprietary approach of OpenAI and Anthropic.
 
 The strategic significance extends beyond one company. ASML led Mistral's latest funding round, creating a direct link between Europe's chip manufacturing monopoly and its AI model development. Mistral is building compute infrastructure in Sweden (€1.2B investment announced February 2026) and targets €1B revenue in 2026 — making it the first European AI lab with genuine commercial scale. The French government's aggressive support (tax incentives, Station F's F/ai accelerator) has made Paris the center of European AI.
+
+## Sources
+
+- [https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html](https://www.cnbc.com/2026/02/11/mistral-ai-infrastructure-sweden.html)
+- [https://aibusiness.com/foundation-models/mistral-pioneers-sovereign-ai-in-europe](https://aibusiness.com/foundation-models/mistral-pioneers-sovereign-ai-in-europe)

@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010642/aegis/technologies/failsafe-escalation-resistant-architectures-gemini-3-pro-icb0ho.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Fail-Safe & Escalation-Resistant Architectures

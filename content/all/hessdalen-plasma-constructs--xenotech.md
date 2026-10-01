@@ -10,6 +10,8 @@ trl: 5
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772905139/xenotech/technologies/hessdalen-plasma-constructs-openrouter-google-gemini-3.1-flash-image-preview-zxam5k.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Self-Assembling Plasma
@@ -41,3 +43,8 @@ The 'self-assembling' interpretation suggests these aren't conventional plasma (
 Hessdalen represents gold standard for UAP research
 
 documented over decades, instrumental measurements, peer-reviewed publications, and ongoing monitoring. It bridges legitimate atmospheric plasma physics, geophysical energy release, and genuinely anomalous observations. Whether phenomena involve undiscovered plasma self-organization principles, exotic energy coupling, or misinterpreted conventional effects remains unresolved. The 'living plasma' interpretation—self-sustaining electromagnetic structures exhibiting emergent complexity—occupies boundary between physics and xenotechnology, making Hessdalen critical test case for anomalous aerial phenomena having real physical basis beyond testimony.
+
+## Sources
+
+- [Norway Hessdalen Lights Revisited: Persistent Plasma Orbs—New Data in 2026 Deepens the Mystery](https://worldbelow.org/norways-hessdalen-lights) (2026)
+- [What Are Plasmoids, And Are They Alive?](https://stephenschroder.substack.com/p/what-are-plasmoids-and-are-they-alive) (2025)

@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075659/aegis/technologies/cyber-kill-chain-automation-gemini-3-pro-63i1gc.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cyber Kill Chain Automation

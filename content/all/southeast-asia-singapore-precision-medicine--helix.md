@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816150/helix/technologies/d6ff4f37-0bf5-4004-be07-2a22fb9b877d-google-gemini-3.1-flash-image-preview-z214iu.jpg
+updated_at: '2026-09-28T17:17:44.213297+00:00'
+last_reviewed: null
 ---
 
 # Precision Medicine & Genomics
@@ -26,3 +28,8 @@ Singapore — Singapore's National Precision Medicine (NPM) program is one of As
 A*STAR, NUS, and NTU collaborate on pharmacogenomics research — understanding how genetic variations in Asian populations affect drug metabolism. This has direct clinical impact: dosing guidelines for common drugs (warfarin, clopidogrel) derived from European data can be dangerously wrong for Southeast Asian patients.
 
 The strategic play is data sovereignty: Singapore's genomic database becomes a valuable asset that pharmaceutical companies need access to for Asian market drug development. Rather than exporting biological samples (as many developing countries do), Singapore retains genomic data domestically and licenses access — a knowledge economy model for biotech.
+
+## Sources
+
+- [https://www.npm.sg/](https://www.npm.sg/)
+- [https://www.a-star.edu.sg/gis](https://www.a-star.edu.sg/gis)

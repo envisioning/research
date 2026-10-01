@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855796/aegis/technologies/8a5b88f3-a3c0-4917-9210-388a05cde0d1-google-gemini-3.1-flash-image-preview-jzv6jz.jpg
+updated_at: '2026-09-28T17:17:44.603119+00:00'
+last_reviewed: null
 ---
 
 # Heavy Twin-Engine UCAV Platform
@@ -26,3 +28,8 @@ The Bayraktar Akinci is Turkey's heavy-class unmanned combat aerial vehicle, fea
 Already in serial production and exported to six countries, the Akinci bridges the gap between the affordable TB2 and the jet-powered Kizilelma. It demonstrated its ISR capabilities dramatically in May 2024 when it located the crash site of Iranian President Raisi's helicopter. The platform serves as a testbed for ASELSAN's AESA radar technology, which has since been adapted for the Kizilelma and upgraded F-16s.
 
 The Akinci positions Turkey in the heavy UCAV market segment alongside the Chinese Wing Loong II and US MQ-9 Reaper, but at a more competitive price point. Its AESA radar integration — a first for Turkish-made aircraft — represents a technology spillover that benefits the broader aerospace ecosystem, including the KAAN fighter program.
+
+## Sources
+
+- [https://www.19fortyfive.com/2025/03/new-tb3-drone-proves-turkey-is-a-military-juggernaut/](https://www.19fortyfive.com/2025/03/new-tb3-drone-proves-turkey-is-a-military-juggernaut/)
+- [https://www.armyrecognition.com/news/aerospace-news/2025/f-16-fighter-jet-outmatched-by-tuerkiyes-kizilelma-drone-in-successful-unmanned-air-combat-test](https://www.armyrecognition.com/news/aerospace-news/2025/f-16-fighter-jet-outmatched-by-tuerkiyes-kizilelma-drone-in-successful-unmanned-air-combat-test)

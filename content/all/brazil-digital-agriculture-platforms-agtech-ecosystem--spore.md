@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793694/spore/technologies/d6fe5afe-2cd2-4569-b6cf-22b26c2b7421-google-gemini-3.1-flash-image-preview-zm1kyt.png
+updated_at: '2026-09-28T17:17:59.53478+00:00'
+last_reviewed: null
 ---
 
 # Digital Agriculture Platforms (AgTech Ecosystem)
@@ -26,3 +28,7 @@ Brazil has over 1,700 agtech startups building tools for digital agriculture: pr
 The ecosystem is anchored by events like Agrishow (Ribeirão Preto) — one of the world's largest agricultural technology trade fairs — and accelerators like AgTech Garage and SP Ventures. Global companies (John Deere, Bayer, Syngenta) maintain R&D centers in Brazil specifically for tropical agriculture technology.
 
 What makes Brazil's agtech distinctive is the scale and environment: farms in the Cerrado and Mato Grosso operate at scales of 10,000-50,000+ hectares with multi-crop rotations (soy-corn safrinha, cotton, coffee). The digital tools must handle tropical soil variability, double-cropping schedules, and extreme distances. Solutions developed for Brazilian conditions — like satellite-guided autonomous planters that work in cerrado clay soils — are being exported to Africa and Southeast Asia where similar tropical farming challenges exist.
+
+## Sources
+
+- [https://www.agtechnavigator.com/Article/2025/06/27/brazils-agtech-revolution-biologicals-regen-ag-adoption-hot-topics-for-world-agri-tech-day-1/](https://www.agtechnavigator.com/Article/2025/06/27/brazils-agtech-revolution-biologicals-regen-ag-adoption-hot-topics-for-world-agri-tech-day-1/)

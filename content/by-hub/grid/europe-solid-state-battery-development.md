@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853407/grid/technologies/70d3787b-c3c6-4a77-ac61-7f9509f96101-google-gemini-3.1-flash-image-preview-xm5t15.jpg
+updated_at: '2026-09-28T17:16:41.19212+00:00'
+last_reviewed: null
 ---
 
 # Solid-State Battery Development
@@ -26,3 +28,7 @@ European research groups and companies are developing solid-state batteries that
 The automotive imperative drives European solid-state development: Volkswagen (through QuantumScape partnership), BMW, and Mercedes-Benz have committed billions to solid-state battery development. The European Battery Alliance coordinates public and private investment toward pilot production lines expected in the late 2020s.
 
 The race is fierce — Toyota (Japan) and Samsung SDI (South Korea) are also close to commercialization. Europe's approach emphasizes integration with its existing automotive manufacturing ecosystem: solid-state cells designed for European car platforms, manufactured in European gigafactories, using materials sourced from European supply chains. If successful, solid-state batteries would eliminate Europe's disadvantage versus Chinese lithium-ion cell manufacturers by leapfrogging to a fundamentally superior technology.
+
+## Sources
+
+- [https://www.mckinsey.com/capabilities/business-building/our-insights/europes-deep-tech-engine-could-spur-1-trillion-in-economic-growth](https://www.mckinsey.com/capabilities/business-building/our-insights/europes-deep-tech-engine-could-spur-1-trillion-in-economic-growth)

@@ -10,6 +10,8 @@ trl: 2
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889000/wonen/technologies/6a1f193f-145a-49dd-98a5-ba34615176d5-google-gemini-3.1-flash-image-preview-8cf0l7.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # YIMBY Movements in Benelux

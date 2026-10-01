@@ -9,6 +9,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182422/link/technologies/massive-mimo-base-stations-google-gemini-3-pro-image-preview-gqhdhx.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Massive MIMO Base Stations

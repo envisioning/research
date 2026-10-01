@@ -9,6 +9,8 @@ trl: 1
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897891/xenotech/technologies/hybrid-consciousness-transfer-tech-openrouter-google-gemini-3.1-flash-image-preview-j7183c.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Consciousness Transfer

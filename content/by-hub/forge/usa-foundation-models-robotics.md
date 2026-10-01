@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861698/forge/technologies/c6afa5bb-b9fa-44fb-8d9a-92ad439228b5-google-gemini-3.1-flash-image-preview-jtazmc.jpg
+updated_at: '2026-09-28T17:18:35.769628+00:00'
+last_reviewed: null
 ---
 
 # Foundation Models for Robotics
@@ -26,3 +28,8 @@ Foundation models for robotics bridge the gap between AI language understanding 
 The fundamental challenge in robotics has always been generalization: robots excel at repetitive tasks in controlled environments but fail when objects, lighting, or layouts change. Foundation models address this by providing broad world knowledge — a robot that understands language descriptions of objects and their properties can handle novel items it has never encountered before.
 
 This represents a potential 'ChatGPT moment' for robotics: just as language models suddenly made AI useful for general text tasks, robotic foundation models could make robots useful for general physical tasks. The US leads in this research through its AI companies (Google, NVIDIA, OpenAI) and robotics startups, creating a potential advantage in deploying intelligent robots at scale.
+
+## Sources
+
+- [https://techequity-ai.org/humanoids-on-the-move-how-2025-became-the-breakthrough-year-for-ai-driven-robotics/](https://techequity-ai.org/humanoids-on-the-move-how-2025-became-the-breakthrough-year-for-ai-driven-robotics/)
+- [https://www.verge.com/column/843418/humanoid-robot-hype](https://www.verge.com/column/843418/humanoid-robot-hype)

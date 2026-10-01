@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765650355/lumen/technologies/neuro-entrainment-protocols-google-gemini-3-pro-image-preview-w3hb8g.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gamma Frequency Neuro-entrainment

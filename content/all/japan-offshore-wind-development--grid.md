@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819691/grid/technologies/fd3d86bb-1aa2-4d30-b739-44daec9c3d1a-google-gemini-3.1-flash-image-preview-sz9d3r.jpg
+updated_at: '2026-09-28T17:17:29.223584+00:00'
+last_reviewed: null
 ---
 
 # Offshore Wind Energy Development
@@ -25,3 +27,8 @@ Japan's offshore wind strategy prioritizes floating wind turbine technology, nec
 Floating wind is a natural fit for Japan's deep-water coastline and engineering capabilities. Japanese companies including Toda Corporation, Mitsubishi Heavy Industries, and Hitachi Zosen are developing floating platform technologies. The Goto floating wind farm off Nagasaki — one of the world's first commercial-scale floating wind projects — demonstrates Japan's commitment to the technology.
 
 The challenge is scale and speed. Japan's offshore wind deployment lags far behind the UK, China, and Northern Europe in installed capacity. Regulatory complexity (multiple ministries, fishing rights, environmental reviews) slows development. However, floating wind technology is still nascent globally, giving Japan an opportunity to establish technology leadership in a segment where its deep-water expertise and marine engineering tradition provide natural advantages.
+
+## Sources
+
+- [https://ieefa.org/resources/japan-needs-more-nuanced-perovskite-strategy](https://ieefa.org/resources/japan-needs-more-nuanced-perovskite-strategy)
+- [https://www.japanenergyevent.com/](https://www.japanenergyevent.com/)

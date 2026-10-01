@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797574/vector/technologies/a6dae967-f56d-40e4-a34d-4a34a5702431-google-gemini-3.1-flash-image-preview-4g05y7.jpg
+updated_at: '2026-09-28T17:17:12.524725+00:00'
+last_reviewed: null
 ---
 
 # Fendouzhe Deep-Sea Submersible
@@ -25,3 +27,10 @@ Fendouzhe ('Striver') has completed more 10,000-meter dives than any other subme
 The expedition identified 7,564 microbial species in the Mariana Trench — 89.4% previously unknown to science. This diversity rivals the total documented marine microbial life globally, suggesting the deep ocean holds far more biological complexity than assumed.
 
 China's deep-sea program serves both scientific and strategic purposes. The International Seabed Authority has granted China more deep-sea mining exploration contracts than any other country. Understanding the deep ocean floor is a prerequisite for extracting polymetallic nodules — manganese, nickel, cobalt, and rare earths — from the seabed.
+
+## Sources
+
+- [https://phys.org/news/2025-07-deepest-animal-communities-km-sea.html](https://phys.org/news/2025-07-deepest-animal-communities-km-sea.html)
+- [https://news.cgtn.com/news/2025-03-08/China-unveils-groundbreaking-insights-into-Earth-s-deepest-ecosystem-1BzxPXUMaJi/p.html](https://news.cgtn.com/news/2025-03-08/China-unveils-groundbreaking-insights-into-Earth-s-deepest-ecosystem-1BzxPXUMaJi/p.html)
+- [https://en.people.cn/n3/2025/0102/c90000-20261232.html](https://en.people.cn/n3/2025/0102/c90000-20261232.html)
+- [https://english.cas.cn/newsroom/cas_media/202508/t20250801_1048883.shtml](https://english.cas.cn/newsroom/cas_media/202508/t20250801_1048883.shtml)

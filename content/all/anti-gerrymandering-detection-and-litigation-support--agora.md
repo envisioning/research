@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882947/agora/technologies/27c1b3fb-2e34-4fc2-9e49-1597a4a80044-google-gemini-3.1-flash-image-preview-do0cr7.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Anti-Gerrymandering Detection & Litigation Support

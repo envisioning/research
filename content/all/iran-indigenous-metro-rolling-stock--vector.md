@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774873130/vector/technologies/e8f16cf2-cfe7-495e-99fa-7a3371a5df10-google-gemini-3.1-flash-image-preview-blemq9.jpg
+updated_at: '2026-09-28T17:17:21.408201+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Metro Rolling Stock Manufacturing
@@ -26,3 +28,9 @@ Iran has achieved serial production of domestically designed and manufactured me
 Iran operates metro systems in five cities (Tehran, Isfahan, Mashhad, Shiraz, and Tabriz) with additional systems under construction, creating substantial domestic demand: Tehran Metro alone requires approximately 1,500 additional cars. The decision to develop indigenous rolling stock was driven by sanctions-related procurement difficulties and the desire for long-term self-sufficiency in a critical urban infrastructure system. The technical scope includes car body fabrication, bogie design and manufacturing, traction motors, braking systems, and train control systems — each requiring distinct engineering and manufacturing capabilities.
 
 The strategic significance lies in both urban development and industrial capability building. Metro systems are essential for Iranian cities facing severe traffic congestion and air pollution, and procurement dependency on foreign suppliers creates vulnerability. The domestic rolling stock program also builds transferable capabilities in systems integration, electrical engineering, and precision manufacturing. Iran has expressed export ambitions, targeting metro systems in other developing countries where cost-competitive rolling stock with proven operational track records would be attractive — following the model of Chinese and Indian rolling stock exports.
+
+## Sources
+
+- [https://www.railwaygazette.com/metro/iran-begins-series-production-of-domestic-metro-trains/68234.article](https://www.railwaygazette.com/metro/iran-begins-series-production-of-domestic-metro-trains/68234.article)
+- [https://rollingstockworld.com/lrv/iran-commences-serial-production-of-proprietary-metro-trains/](https://rollingstockworld.com/lrv/iran-commences-serial-production-of-proprietary-metro-trains/)
+- [https://www.presstv.ir/Detail/2025/12/15/760680/fast-track-iran-rolls-local-metro-trains-driving-selfreliance-eyeing-global-exports](https://www.presstv.ir/Detail/2025/12/15/760680/fast-track-iran-rolls-local-metro-trains-driving-selfreliance-eyeing-global-exports)

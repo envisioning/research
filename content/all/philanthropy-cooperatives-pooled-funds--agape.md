@@ -3,19 +3,22 @@ slug: philanthropy-cooperatives-pooled-funds
 hub: agape
 title: Philanthropy Cooperatives & Pooled Funds
 summary: Emergence of donor cooperatives and pooled funding mechanisms that aggregate
+  resources for collective impact.
 permalink: https://www.envisioning.com/agape/philanthropy-cooperatives-pooled-funds
 collection: organizational-forms-ecosystems
 trl: 2
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368637/agape/signals/philanthropy-cooperatives-pooled-funds-google-gemini-3-pro-image-preview-qiaipr.png
+updated_at: '2026-10-01T09:32:55.031797+00:00'
+last_reviewed: null
 ---
 
 # Philanthropy Cooperatives & Pooled Funds
 
 ## Summary
 
-Emergence of donor cooperatives and pooled funding mechanisms that aggregate
+Emergence of donor cooperatives and pooled funding mechanisms that aggregate resources for collective impact.
 
 ## Description
 

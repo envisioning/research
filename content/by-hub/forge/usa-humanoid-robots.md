@@ -11,6 +11,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774862047/forge/technologies/f116b956-7696-4c2e-a8a3-e6b4ab4bad00-google-gemini-3.1-flash-image-preview-3re7tz.png
+updated_at: '2026-09-28T17:17:49.945502+00:00'
+last_reviewed: null
 ---
 
 # General-Purpose Humanoid Robots
@@ -26,3 +28,8 @@ General-purpose humanoid robots are being designed to operate in human-built env
 The convergence of AI foundation models with robotic hardware is the key enabler. Foundation models trained on internet-scale data give robots commonsense understanding of objects, environments, and tasks. Combined with learned manipulation skills from simulation and real-world practice, humanoids can increasingly handle unstructured environments — picking up arbitrary objects, navigating cluttered spaces, and following natural language instructions.
 
 The economic case for humanoid robots centers on labor shortages in manufacturing, warehousing, and elder care. BMW and Mercedes are testing humanoids from Figure AI and Apptronik respectively in their factories. If humanoids can reliably perform 60-70% of manual warehouse or factory tasks, the addressable market is measured in trillions of dollars. The US leads in humanoid AI while Chinese competitors (Unitree, UBTech) lead in lower-cost hardware.
+
+## Sources
+
+- [https://techequity-ai.org/humanoids-on-the-move-how-2025-became-the-breakthrough-year-for-ai-driven-robotics/](https://techequity-ai.org/humanoids-on-the-move-how-2025-became-the-breakthrough-year-for-ai-driven-robotics/)
+- [https://thehumanoid.ai/2025-the-year-of-the-humanoid/](https://thehumanoid.ai/2025-the-year-of-the-humanoid/)

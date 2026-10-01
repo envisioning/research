@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774876294/wintermute/technologies/fefbae63-afad-4957-8bcd-b6e2fb27b754-google-gemini-3.1-flash-image-preview-8857v9.jpg
+updated_at: '2026-09-28T17:17:36.006829+00:00'
+last_reviewed: null
 ---
 
 # Enterprise AI Agent Platforms
@@ -25,3 +27,8 @@ Israel's AI ecosystem has rapidly pivoted toward enterprise AI agent platforms â
 Israel's AI agent ecosystem benefits from the country's deep bench in natural language processing (NLP), conversational AI, and enterprise software. Companies like AI21 Labs (founded by AI pioneers from Hebrew University) and Iguazio (MLOps) laid the groundwork, while the current generation builds on foundation model capabilities to create autonomous agents that can reason, plan, and execute across enterprise systems.
 
 The strategic significance lies in AI agents' potential to reshape white-collar productivity at a scale comparable to what manufacturing automation did for blue-collar work. Israeli startups are competing directly with Silicon Valley for this market, leveraging lower development costs, military-trained systems thinking, and the density of enterprise AI expertise concentrated in Tel Aviv and Herzliya.
+
+## Sources
+
+- [https://www.calcalistech.com/ctechnews/article/rq8lzbs4c](https://www.calcalistech.com/ctechnews/article/rq8lzbs4c)
+- [https://www.calcalistech.com/ctechnews/article/b1o113p8mbx](https://www.calcalistech.com/ctechnews/article/b1o113p8mbx)

@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856384/aegis/technologies/f8461594-38cb-4bd4-82e9-fc1351530c14-google-gemini-3.1-flash-image-preview-b5poit.jpg
+updated_at: '2026-09-28T17:17:46.193162+00:00'
+last_reviewed: null
 ---
 
 # Layered Indigenous Air Defense Architecture
@@ -26,3 +28,9 @@ Turkey has achieved something only a handful of nations possess: a complete, ful
 The HISAR family has been operationally deployed in conflict zones including northern Syria and Libya, providing invaluable real-world feedback that has refined targeting algorithms and engagement procedures. The HISAR-D RF variant achieved its first live-target kill from the TCG Istanbul frigate using the indigenous MIDLAS vertical launch system in August 2025, demonstrating naval integration capability.
 
 This layered architecture — dubbed a 'steel dome' — reduces Turkey's dependence on both the Russian S-400 (which created diplomatic friction with NATO) and the US Patriot system (which was repeatedly denied to Turkey). The system's combat-tested pedigree and competitive pricing make it an attractive export package for countries seeking air defense independence from the US, Russia, or China.
+
+## Sources
+
+- [https://www.armyrecognition.com/news/army-news/2025/hisar-o-air-defense-system-completes-final-tests-before-mass-production-enhancing-tuerkiyes-defense-autonomy](https://www.armyrecognition.com/news/army-news/2025/hisar-o-air-defense-system-completes-final-tests-before-mass-production-enhancing-tuerkiyes-defense-autonomy)
+- [https://www.armyrecognition.com/news/navy-news/2025/tuerkish-navys-tcg-istanbul-frigate-achieves-first-live-target-kill-with-hisar-d-rf-air-defense-system](https://www.armyrecognition.com/news/navy-news/2025/tuerkish-navys-tcg-istanbul-frigate-achieves-first-live-target-kill-with-hisar-d-rf-air-defense-system)
+- [https://defencesecurityasia.com/en/turkey-hisar-o-missile-test-aksaray-air-defence/](https://defencesecurityasia.com/en/turkey-hisar-o-missile-test-aksaray-air-defence/)

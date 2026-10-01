@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793026/grid/technologies/5e64b929-dcfd-4521-a8e2-469c4c07ce84-google-gemini-3.1-flash-image-preview-tkfzcf.png
+updated_at: '2026-09-28T17:17:54.784218+00:00'
+last_reviewed: null
 ---
 
 # Payments for Ecosystem Services (ICMS Ecológico)
@@ -26,3 +28,8 @@ ICMS Ecológico is a Brazilian fiscal mechanism that redistributes state sales t
 Introduced in Paraná in 1991, the mechanism has since been adopted by most Brazilian states. It works by making conservation economically rational for local governments: a municipality that protects a watershed or maintains a biological reserve receives measurable financial compensation, creating a counterweight to the economic incentives for deforestation.
 
 At COP30 (Belém, November 2025), Amazon states launched new initiatives to expand conservation-based revenue models, including sovereign-backed biodiversity credits and payments for standing forest. The ICMS Ecológico model is being studied internationally as a template for fiscal approaches to conservation — turning the tax system into a tool for environmental protection rather than relying solely on regulation or voluntary carbon markets.
+
+## Sources
+
+- [https://www.ecosystemmarketplace.com/articles/a-brief-tour-of-brazilian-payments-for-ecosystem-services/](https://www.ecosystemmarketplace.com/articles/a-brief-tour-of-brazilian-payments-for-ecosystem-services/)
+- [https://www.naturefinance.net/amazon-states-and-partners-launch-pioneering-project-at-cop30-to-turn-conservation-into-recurring-revenue/](https://www.naturefinance.net/amazon-states-and-partners-launch-pioneering-project-at-cop30-to-turn-conservation-into-recurring-revenue/)

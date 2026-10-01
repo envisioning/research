@@ -10,6 +10,8 @@ trl: 8
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872654/vector/technologies/71df11c9-2160-4c4d-a639-f92514678e57-google-gemini-3.1-flash-image-preview-si7lyy.jpg
+updated_at: '2026-09-28T17:17:24.175913+00:00'
+last_reviewed: null
 ---
 
 # Domestic Automotive Manufacturing Platform
@@ -25,3 +27,9 @@ Iran operates the Middle East's largest automotive manufacturing industry, produ
 The Iranian automotive industry developed through a common pattern: initial joint ventures and license production with foreign partners (Peugeot, Renault, Kia) followed by increasing localization as sanctions tightened. Current vehicles are largely based on aging foreign platforms (the Peugeot 405 lineage is particularly prominent) but with domestically produced engines, transmissions, and components. Quality and technology lag significantly behind global standards — a product of isolation from international supply chains and R&D networks.
 
 The strategic significance is primarily industrial and employment-based rather than technological. The automotive sector is one of Iran's largest employers and a major driver of manufacturing capability in metal forming, machining, electrical systems, and plastics. It also represents a base for potential future advancement: reports of electric vehicle prototypes and domestic engine development suggest aspirations to modernize, though the gap between current production and global automotive technology remains wide. The sector's challenges — quality issues, emissions standards, safety — mirror the broader constraints of innovation under isolation.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Automotive_industry_in_Iran](https://en.wikipedia.org/wiki/Automotive_industry_in_Iran)
+- [https://en.wikipedia.org/wiki/Iran_Khodro](https://en.wikipedia.org/wiki/Iran_Khodro)
+- [https://www.kenresearch.com/iran-automobile-industry-market](https://www.kenresearch.com/iran-automobile-industry-market)

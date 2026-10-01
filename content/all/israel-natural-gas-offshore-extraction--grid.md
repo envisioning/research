@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875717/grid/technologies/aad640fe-88b9-4d53-b3b0-32ef9c91a919-google-gemini-3.1-flash-image-preview-tufs1m.png
+updated_at: '2026-09-28T17:18:43.451101+00:00'
+last_reviewed: null
 ---
 
 # Deepwater Natural Gas Extraction Technology
@@ -26,3 +28,8 @@ Israel discovered and developed major offshore natural gas reserves in the easte
 The energy transformation was historic: until the 2010s, Israel imported virtually all its energy, creating a strategic vulnerability that adversaries could exploit through supply disruption. Indigenous gas production now provides energy security, significant export revenue (to Egypt and Jordan), and has enabled Israel to phase out coal-fired power plants. The technology for deep Mediterranean gas extraction was developed through partnerships with international companies but with significant local engineering contribution.
 
 Strategically, Israeli gas reserves have reshaped eastern Mediterranean geopolitics, creating new economic relationships with neighboring states and potential pipeline routes to Europe. The EastMed pipeline concept (connecting Israeli gas to European markets) would further reduce European dependence on Russian gas. While the technology is not uniquely Israeli, its application has had outsized strategic impact on regional energy security and diplomatic relationships.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Leviathan_gas_field](https://en.wikipedia.org/wiki/Leviathan_gas_field)
+- [https://en.wikipedia.org/wiki/Tamar_gas_field](https://en.wikipedia.org/wiki/Tamar_gas_field)

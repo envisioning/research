@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860681/grid/technologies/494dd3b4-e915-4799-b55e-75ffe87898a5-google-gemini-3.1-flash-image-preview-6lpt8z.jpg
+updated_at: '2026-09-28T17:17:49.11841+00:00'
+last_reviewed: null
 ---
 
 # Enhanced Geothermal Systems (EGS)
@@ -26,3 +28,8 @@ Enhanced Geothermal Systems use horizontal drilling and hydraulic stimulation te
 EGS matters because it provides what solar and wind cannot: firm, 24/7 baseload power with zero carbon emissions. Unlike intermittent renewables, geothermal runs regardless of weather or time of day. Unlike nuclear, it doesn't require decades of regulatory approval. Fervo raised over $460 million in 2025 alone, with investors including DCVC, Capricorn Investment Group, and Mitsui.
 
 The technology leverages the massive US workforce trained in horizontal drilling and fracking — skills that transfer directly from oil and gas to geothermal. Google has signed a power purchase agreement with Fervo, and the technology is seen as critical for powering the AI data center boom with clean energy. If EGS can scale economically, it could provide terawatts of clean firm power using the earth's heat.
+
+## Sources
+
+- [https://www.technologyreview.com/2025/10/06/1124292/2025-climate-tech-companies-to-watch-fervo-energy-advanced-geothermal-power-plants/](https://www.technologyreview.com/2025/10/06/1124292/2025-climate-tech-companies-to-watch-fervo-energy-advanced-geothermal-power-plants/)
+- [https://www.canarymedia.com/articles/geothermal/fervo-investment-capital-b-cape-station](https://www.canarymedia.com/articles/geothermal/fervo-investment-capital-b-cape-station)

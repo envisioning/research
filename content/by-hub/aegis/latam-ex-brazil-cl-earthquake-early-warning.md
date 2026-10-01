@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812744/aegis/technologies/460643fc-15df-463b-bd90-ddbd80653c58-google-gemini-3.1-flash-image-preview-wi21i5.png
+updated_at: '2026-09-28T17:18:10.129406+00:00'
+last_reviewed: null
 ---
 
 # Seismic Early Warning & Monitoring Networks
@@ -26,3 +28,9 @@ Chile sits atop the most seismically active subduction zone on Earth — the Naz
 The early warning technology detects P-waves (fast but weak primary waves) and instantly calculates earthquake magnitude and location, issuing alerts seconds before the destructive S-waves and surface waves arrive. The system integrates with SHOA (Chile's hydrographic service) for tsunami warnings along the 6,000+ km coastline. Machine learning is being applied to discriminate between earthquake types, improve magnitude estimates from initial P-wave data, and reduce false alarm rates.
 
 Chile's seismic monitoring expertise is globally respected and has been shared with earthquake-prone countries from Japan to Mexico. The technology has direct economic value: early warning enables automatic shutdown of mining operations, gas pipeline valves, and industrial processes before shaking arrives, preventing secondary disasters. Chile's building codes — among the world's strictest — are continuously updated based on strong-motion data from each significant earthquake.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Extremely_Large_Telescope](https://en.wikipedia.org/wiki/Extremely_Large_Telescope)
+- [https://blog.investchile.gob.cl/automation-new-opportunities-for-mining-innovation-in-chile](https://blog.investchile.gob.cl/automation-new-opportunities-for-mining-innovation-in-chile)
+- [https://www.eib.org/en/stories/chile-renewable-energy-green-hydrogen](https://www.eib.org/en/stories/chile-renewable-energy-green-hydrogen)

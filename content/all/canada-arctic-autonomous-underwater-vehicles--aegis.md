@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871584/aegis/technologies/b24d521f-66bc-4268-8d29-643fff9a9fa4-google-gemini-3.1-flash-image-preview-sygsnl.png
+updated_at: '2026-09-28T17:17:06.90118+00:00'
+last_reviewed: null
 ---
 
 # Arctic Autonomous Underwater Vehicles
@@ -26,3 +28,7 @@ Canadian institutions are developing autonomous underwater vehicles (AUVs) speci
 Arctic AUVs matter because the under-ice domain is one of the least monitored environments on Earth, yet increasingly strategically important. Russian submarine activity in the Arctic has increased significantly, underwater telecommunications cables are vulnerable infrastructure, and climate research requires sustained subsurface observation that only autonomous vehicles can provide. Canada's 162,000 km of Arctic coastline demands underwater surveillance capability.
 
 The strategic challenge is that Arctic AUV technology is genuinely difficult — the combination of extreme cold, ice navigation, limited communications, and long mission duration pushes the boundaries of autonomy, materials science, and energy storage. Canada's investment in this area leverages its natural access to Arctic testing environments and its existing expertise in marine autonomy from Atlantic and Pacific ocean research programs.
+
+## Sources
+
+- [https://www.asc-csa.gc.ca/eng/satellites/radarsat/data-serve-canadians.asp](https://www.asc-csa.gc.ca/eng/satellites/radarsat/data-serve-canadians.asp)

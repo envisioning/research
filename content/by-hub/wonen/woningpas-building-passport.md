@@ -10,6 +10,8 @@ trl: 2
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898488/wonen/technologies/9aef90c0-c611-4bff-9d75-5f384058eedf-google-gemini-3.1-flash-image-preview-p9us1d.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Woningpas (Building Passport)

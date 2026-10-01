@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861844/spore/technologies/d4a51240-7630-427d-ace2-77a1367255ab-google-gemini-3.1-flash-image-preview-52y209.jpg
+updated_at: '2026-09-28T17:18:36.00729+00:00'
+last_reviewed: null
 ---
 
 # AI-Optimized Vertical Farming
@@ -26,3 +28,8 @@ AI-optimized vertical farms grow crops in stacked layers inside climate-controll
 Vertical farming uses 95% less water than conventional agriculture, requires no pesticides, and can produce year-round regardless of climate. Located near population centers, it eliminates the cold chain transportation that accounts for significant food waste and emissions. However, energy costs remain the key challenge — indoor farms use 10-50x more energy per unit of food than field agriculture.
 
 The US vertical farming industry has faced financial headwinds — AeroFarms filed for bankruptcy and restructured, and AppHarvest failed. But companies that survived are improving unit economics through automation, AI optimization, and cheaper LEDs. If energy costs decline (through solar, nuclear, or geothermal), vertical farming economics improve dramatically, potentially enabling year-round local production of a wider variety of crops.
+
+## Sources
+
+- [https://www.svb.com/trends-insights/reports/future-of-frontier-tech/](https://www.svb.com/trends-insights/reports/future-of-frontier-tech/)
+- [https://startupgenome.com/library/the-geography-of-innovation-the-us-grows-its-lead-in-frontier-technology](https://startupgenome.com/library/the-geography-of-innovation-the-us-grows-its-lead-in-frontier-technology)

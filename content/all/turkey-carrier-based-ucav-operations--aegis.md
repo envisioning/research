@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856288/aegis/technologies/d5ec4ba3-2273-4f8d-8dec-34a750e261a0-google-gemini-3.1-flash-image-preview-yg59hk.jpg
+updated_at: '2026-09-28T17:17:47.0776+00:00'
+last_reviewed: null
 ---
 
 # Carrier-Based UCAV Operations
@@ -26,3 +28,8 @@ The TCG Anadolu, originally designed as a light helicopter carrier for F-35B ope
 Conventional carrier aviation requires enormous investment in manned aircraft ($100M+ per fighter), pilot training, catapult systems, and decades of institutional experience. Turkey's UCAV-carrier concept bypasses these requirements — unmanned aircraft are cheaper, don't risk pilot lives, can be produced more quickly, and require less complex launch and recovery systems. The concept could be as transformative for naval aviation as the TB2 was for land-based air power.
 
 The strategic implications extend beyond Turkey. If the UCAV-carrier concept proves operationally effective, it could enable medium powers to project air power at sea without the trillion-dollar investment required for US-style carrier strike groups. Turkey is effectively prototyping a naval aviation model for the rest of the world, with the MUGEM carrier program designed to scale up from TCG Anadolu's proof of concept.
+
+## Sources
+
+- [https://www.19fortyfive.com/2025/03/new-tb3-drone-proves-turkey-is-a-military-juggernaut/](https://www.19fortyfive.com/2025/03/new-tb3-drone-proves-turkey-is-a-military-juggernaut/)
+- [https://www.navalnews.com/naval-news/2025/01/turkish-navy-starts-construction-of-3-major-projects-mugem-aircraft-carrier-tf-2000-destroyer-and-milden/](https://www.navalnews.com/naval-news/2025/01/turkish-navy-starts-construction-of-3-major-projects-mugem-aircraft-carrier-tf-2000-destroyer-and-milden/)

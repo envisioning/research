@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908692/subspace/technologies/plasma-weapon-openrouter-google-gemini-3.1-flash-image-preview-2kktk2.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Plasma Weapon

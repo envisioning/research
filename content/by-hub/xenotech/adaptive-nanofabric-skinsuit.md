@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939870/xenotech/technologies/adaptive-nanofabric-skinsuit-imagegen-v1.png
+updated_at: '2026-08-28T17:57:52.398842+00:00'
+last_reviewed: null
 ---
 
 # Adaptive Xenobiomimetic Skinsuit
@@ -41,3 +43,9 @@ State-of-the-art human research spans self-healing e-textiles, ionic-conductor e
 ## Strategic Implications
 
 Encounter narratives describing sentient garments or 'living suits' align with this architecture: operators surviving extreme environments without bulky apparatus and suits responding to observer focus. Realization would collapse distinctions between armor, life support, and user interface, enabling rapid deployment in hostile atmospheres or covert infiltration with adaptive signatures.
+
+## Sources
+
+- [Bioinspired flexible sensing-processing-visualizing integrated system towards tactile-visual signal recognition](https://nature.com/articles/s41467-025-67316-0) (2026)
+- [An All-Nanofiber-Based Customizable Biomimetic Electronic Skin for Thermal-Moisture Management and Energy Conversion](https://journal.hep.com.cn/afm/EN/1160342189857366770) (2025)
+- [Self-compliant ionic nanomesh for gas-permeable and stress-free on-skin electronics](https://www.nature.com/articles/s41467-025-66512-2) (2025)

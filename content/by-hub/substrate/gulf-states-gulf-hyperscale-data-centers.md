@@ -10,6 +10,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814890/substrate/technologies/ff7fabae-6dfd-490e-bedb-f2884723ece6-google-gemini-3.1-flash-image-preview-gxj0k7.png
+updated_at: '2026-09-28T17:18:13.827574+00:00'
+last_reviewed: null
 ---
 
 # Hyperscale AI Data Center Build-out
@@ -25,3 +27,9 @@ The Gulf is experiencing the world's most concentrated data center construction 
 This infrastructure race is driven by the recognition that AI sovereignty requires domestic compute capacity. Gulf states import virtually all their technology; owning the physical infrastructure where AI models are trained and deployed provides data sovereignty, reduces latency for regional customers, and creates leverage in negotiations with global tech companies. MENA technology spending is projected to reach $169 billion by 2026.
 
 The convergence of cheap energy (both fossil and increasingly solar), strategic geography between Europe and Asia, and sovereign capital makes the Gulf uniquely positioned for data center hosting. NEOM's potential redesignation as a data center hub — pivoting from residential megaproject to compute infrastructure — epitomizes the region's pragmatic adaptation of grand plans to market reality.
+
+## Sources
+
+- [https://oxfordbusinessgroup.com/reports/saudi-arabia/2025-report/ict-ai/](https://oxfordbusinessgroup.com/reports/saudi-arabia/2025-report/ict-ai/)
+- [https://www.arabnews.com/node/2624905](https://www.arabnews.com/node/2624905)
+- [https://introl.com/blog/middle-east-uae-saudi-arabia-ai-data-center-boom-2025](https://introl.com/blog/middle-east-uae-saudi-arabia-ai-data-center-boom-2025)

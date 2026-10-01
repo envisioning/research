@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: null
+updated_at: '2026-10-01T09:09:57.737354+00:00'
+last_reviewed: null
 ---
 
 # Scooter-Sharing System

@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360036/habitar/technologies/lavanderias-compartilhadas-pay-per-use-google-gemini-3-pro-image-preview-1vhli4.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Serviços Compartilhados Pay-per-Use
@@ -25,3 +27,9 @@ Serviços compartilhados pay-per-use transformam áreas comuns ociosas em ativos
 No Brasil, esse sinal aparece em empreendimentos compactos e de locação, reconfigurando áreas comuns e abrindo espaço para modelos de assinatura e parceria com operadores. A tecnologia está sendo adotada em novos modelos de moradia como coliving e long-stay, onde compartilhamento de infraestrutura é essencial para viabilidade econômica.
 
 O sinal de mudança é a transformação de áreas comuns de custo fixo para ativos monetizáveis, criando novos modelos de negócio baseados em uso compartilhado e pagamento por consumo, especialmente relevante em empreendimentos compactos e modelos de moradia flexível onde otimização de espaço e custos é crítica.
+
+## Sources
+
+- [Como serviços pay per use valorizam condomínios](https://www.contimarcondominios.com.br/como-servicos-pay-per-use-valorizam-condominios) (2025)
+- [Lavandery: a melhor lavanderia para condomínios](https://lavandery.co/) (2025)
+- [Soluções - Pay Per Use - Lavandery](https://lavandery.co/pay-per-use) (2025)

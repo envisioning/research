@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819066/stratum/technologies/8bf32934-c29c-48d9-84d7-780f77244b34-google-gemini-3.1-flash-image-preview-rez8dx.jpg
+updated_at: '2026-09-28T17:17:37.512997+00:00'
+last_reviewed: null
 ---
 
 # Bioplastics and Green Chemistry
@@ -26,3 +28,8 @@ Japan is a global leader in bioplastics development, with Kaneka's PHBH (polyhyd
 The technology addresses Japan's particular challenge: as an island nation with limited landfill capacity and extensive marine environments, plastic pollution has outsized impact. Japan recycles approximately 84% of plastic by weight, but much of this is thermal recycling (incineration), driving demand for genuinely biodegradable alternatives. The 2022 Plastic Resource Circulation Act mandates plastic reduction across the supply chain.
 
 Japan's chemical industry expertise — the same precision chemistry that produces semiconductor photoresists — translates well into bioplastics development. The challenge is cost competitiveness with petroleum-based plastics. As petrochemical prices fluctuate and carbon pricing mechanisms expand, the economic calculus is shifting in favor of bio-based materials.
+
+## Sources
+
+- [https://www.nature.com/articles/d42473-023-00174-w](https://www.nature.com/articles/d42473-023-00174-w)
+- [https://www.trade.gov/country-commercial-guides/japan-semiconductors](https://www.trade.gov/country-commercial-guides/japan-semiconductors)

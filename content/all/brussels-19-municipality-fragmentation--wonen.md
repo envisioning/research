@@ -10,6 +10,8 @@ trl: 5
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882585/wonen/technologies/14da8838-4133-479a-bca8-942f7507b318-google-gemini-3.1-flash-image-preview-mdtfes.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Brussels 19 Municipality Fragmentation

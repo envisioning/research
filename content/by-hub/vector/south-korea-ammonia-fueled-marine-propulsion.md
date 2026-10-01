@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816742/vector/technologies/5c942288-31b6-4fe9-aceb-002aca2e392f-google-gemini-3.1-flash-image-preview-bjddrr.png
+updated_at: '2026-09-28T17:16:26.998722+00:00'
+last_reviewed: null
 ---
 
 # Ammonia-Fueled Ship Propulsion
@@ -26,3 +28,9 @@ HD Korea Shipbuilding & Offshore Engineering (KSOE) secured the world's first or
 Maritime shipping accounts for roughly 3% of global CO2 emissions, and the International Maritime Organization mandates a 50% reduction by 2050. Ammonia is emerging as the leading zero-carbon marine fuel because it has higher energy density than hydrogen, doesn't require the extreme cryogenics of LNG, and can be produced from renewable electricity. Korean shipyards dominate high-value vessel construction and are racing to own the next propulsion standard before Chinese competitors catch up.
 
 The Korean government allocated $534 million over five years for green shipping R&D, covering ammonia, methanol, and hydrogen propulsion systems. Korea's strategic bet on ammonia — while China focuses on methanol-fueled ships — represents a deliberate differentiation. If ammonia wins as the primary zero-carbon marine fuel, Korean yards' first-mover advantage in engine integration, fuel handling, and safety systems could replicate their dominance in LNG carrier technology for the next generation of shipping.
+
+## Sources
+
+- [https://www.koreaherald.com/article/3235725](https://www.koreaherald.com/article/3235725)
+- [https://www.hellenicshippingnews.com/s-korean-shipbuilders-focus-on-ammonia-fueled-ships-amid-chinas-dominance-in-methanol/](https://www.hellenicshippingnews.com/s-korean-shipbuilders-focus-on-ammonia-fueled-ships-amid-chinas-dominance-in-methanol/)
+- [https://www.upi.com/Top_News/World-News/2026/02/24/shipbuilding-invest-ai-eco-friendly-ship/4221771977651](https://www.upi.com/Top_News/World-News/2026/02/24/shipbuilding-invest-ai-eco-friendly-ship/4221771977651)

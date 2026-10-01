@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642011/altitude/technologies/multi-orbit-satcom-air-to-ground-connectivity-google-gemini-3-pro-image-preview-lkg2mh.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Multi-Orbit Satcom & Air-to-Ground Connectivity

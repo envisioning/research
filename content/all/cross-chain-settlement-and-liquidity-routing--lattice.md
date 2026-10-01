@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996049/flows/technologies/cross-chain-settlement-and-liquidity-routing-gemini-3-pro-56557h.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cross-Chain Settlement & Liquidity Routing

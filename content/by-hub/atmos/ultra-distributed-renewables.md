@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996149/atmos/technologies/ultra-distributed-renewables-gemini-3-pro-lsp5o8.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Ultra-Distributed Renewables

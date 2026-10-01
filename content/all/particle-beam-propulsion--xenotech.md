@@ -9,6 +9,8 @@ trl: 2
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899138/xenotech/technologies/particle-beam-propulsion-openrouter-google-gemini-3.1-flash-image-preview-rrd0t1.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Particle Beam Propulsion

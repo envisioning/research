@@ -11,6 +11,8 @@ trl: 5
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819422/stratum/technologies/d143f6b2-02b0-437b-aaba-13c463e19540-google-gemini-3.1-flash-image-preview-mjpjme.png
+updated_at: '2026-09-28T17:17:28.887767+00:00'
+last_reviewed: null
 ---
 
 # Deep Seabed Rare Earth Extraction
@@ -26,3 +28,9 @@ In January-February 2026, Japan conducted the world's first continuous extractio
 The technology required to extract minerals from abyssal depths is extraordinarily challenging: managing extreme hydrostatic pressure (600 atmospheres), preventing pump cavitation, separating rare earth minerals from deep-sea mud efficiently, and doing all this economically at scale. Japan's approach uses a riser-pipe system adapted from deep-sea oil drilling, combined with magnetic and chemical separation techniques. The test was the culmination of over a decade of research, including a 2013 deposit discovery that revealed concentrations 20-30 times higher than Chinese land-based mines.
 
 The strategic significance is immense: China currently controls approximately 60% of global rare earth mining and 90% of processing. Japan's 2010 traumatic experience — when China restricted rare earth exports during a diplomatic dispute — catalyzed this deep-sea program. If commercial extraction proves viable (target: 2028 pilot plant), Japan would gain access to a domestic rare earth supply within its own exclusive economic zone, fundamentally altering the geopolitics of critical minerals. The technology is also applicable to polymetallic nodule extraction and could establish Japan as the pioneer in a new era of deep-ocean resource exploitation.
+
+## Sources
+
+- [https://apnews.com/article/japan-rare-earths-china-deep-sea-c97d34522e23ed418cf068f4a0217188](https://apnews.com/article/japan-rare-earths-china-deep-sea-c97d34522e23ed418cf068f4a0217188)
+- [https://www.reuters.com/world/asia-pacific/japan-test-mine-rare-earth-mud-deep-seabed-2025-12-23/](https://www.reuters.com/world/asia-pacific/japan-test-mine-rare-earth-mud-deep-seabed-2025-12-23/)
+- [https://www.mining.com/japan-to-test-rare-earth-mining-from-deep-seabed-mud/](https://www.mining.com/japan-to-test-rare-earth-mining-from-deep-seabed-mud/)

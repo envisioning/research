@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861233/helix/technologies/9ad482cd-80ab-4ba0-825b-9d89173c22d7-google-gemini-3.1-flash-image-preview-m71teq.jpg
+updated_at: '2026-09-28T17:17:50.506261+00:00'
+last_reviewed: null
 ---
 
 # Programmable RNA Therapeutics Beyond mRNA
@@ -26,3 +28,8 @@ The RNA therapeutics field extends far beyond mRNA vaccines. Alnylam Pharmaceuti
 RNA therapeutics offer a programmable medicine platform: by changing the RNA sequence, the same delivery system can target different diseases. This is fundamentally different from small-molecule drugs, which require years of chemical optimization for each target. Self-amplifying RNA (saRNA) copies itself inside cells, requiring lower doses for the same effect.
 
 The US dominates RNA therapeutics through its biotech ecosystem (Alnylam, Moderna, Arrowhead, dozens of startups), academic centers (MIT, Penn), and the manufacturing know-how built up during the COVID vaccine response. The technology represents a platform shift in medicine comparable to the move from chemistry to biotechnology in the 1980s.
+
+## Sources
+
+- [https://www.genengnews.com/gen-edge/seven-biopharma-trends-to-watch-in-2026/](https://www.genengnews.com/gen-edge/seven-biopharma-trends-to-watch-in-2026/)
+- [https://xtalks.com/drug-approvals-to-watch-in-2026-4537/](https://xtalks.com/drug-approvals-to-watch-in-2026-4537/)

@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792544/polis/technologies/195baf72-7440-4f71-9584-037c19df93c5-google-gemini-3.1-flash-image-preview-xpootv.jpg
+updated_at: '2026-09-28T17:16:24.407271+00:00'
+last_reviewed: null
 ---
 
 # Sovereign AI Cloud Infrastructure
@@ -26,3 +28,9 @@ The Brazilian government approved $433 million in financing for SERPRO to modern
 The R$23 billion AI investment plan (2024-2028) explicitly includes sovereign cloud as a priority — the government recognizes that AI sovereignty requires not just models (Sabiá) but also compute infrastructure under national control. The LGPD's cross-border data transfer rules create regulatory demand for onshore data processing, and Brazilian courts have begun requiring that sensitive government data be processed on Brazilian-controlled infrastructure.
 
 Brazil's unique advantage is its electricity grid: 65% hydropower and growing wind/solar mean that Brazilian data centers run on some of the world's cleanest electricity. This attracts hyperscalers seeking to reduce scope 2 emissions while also providing a genuine competitive advantage over coal-heavy Asian alternatives. The convergence of cheap clean energy, data sovereignty regulation, and government investment is creating a self-reinforcing ecosystem for AI compute in Brazil.
+
+## Sources
+
+- [https://newenergyevents.com/brazil-partners-with-scala-data-centers-to-build-sovereign-ai-infrastructure/](https://newenergyevents.com/brazil-partners-with-scala-data-centers-to-build-sovereign-ai-infrastructure/)
+- [https://www.mordorintelligence.com/industry-reports/brazil-cloud-computing-market](https://www.mordorintelligence.com/industry-reports/brazil-cloud-computing-market)
+- [https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/](https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/)

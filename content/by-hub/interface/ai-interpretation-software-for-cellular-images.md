@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737538/interface/technologies/ai-interpretation-software-for-cellular-images-google-gemini-3-pro-image-preview-2xwluz.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # AI Interpretation Software for Cellular Images
@@ -23,3 +25,9 @@ Deep learning tools that analyze microscope images to detect cell structures, ab
 AI interpretation software for cellular images uses deep learning and computer vision algorithms to automatically analyze microscopic images of cells, identifying structures, abnormalities, and patterns that would typically require expert pathologists or researchers to identify manually. The software can detect and classify various cell types, identify disease markers, count cells, measure cellular features, and recognize morphological changes. The AI algorithms are trained on vast datasets of annotated cellular images, enabling them to recognize subtle patterns and abnormalities with high accuracy.
 
 The technology accelerates research and diagnostics by providing rapid, consistent analysis of cellular images, reducing the time and expertise required for manual examination. The software can process large volumes of images quickly, identify rare events that might be missed in manual review, and provide quantitative measurements that are difficult to obtain manually. Applications include medical diagnostics (identifying cancer cells, blood disorders, infections), drug discovery (analyzing cellular responses to compounds), research (studying cellular processes and disease mechanisms), and quality control in biomanufacturing. The technology enhances the capabilities of researchers and clinicians, enabling more efficient analysis, earlier detection of issues, and more comprehensive examination of cellular samples.
+
+## Sources
+
+- [Aivia 15: Deep-learning powered Segment by Example](https://www.aivia-software.com/aivia15) (2025)
+- [Aivia AI Image Analysis Software](https://www.leica-microsystems.com/products/microscope-software/p/aivia) (2025)
+- [STHD: probabilistic cell typing of single spots in whole transcriptome spatial data with high definition](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03608-4) (2025)

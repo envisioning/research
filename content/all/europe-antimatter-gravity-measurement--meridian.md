@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853827/meridian/technologies/bd9b4d6d-d744-47c5-bbb9-6d51090ad7d1-google-gemini-3.1-flash-image-preview-i4n8zd.jpg
+updated_at: '2026-09-28T17:17:04.880695+00:00'
+last_reviewed: null
 ---
 
 # Antimatter Gravity Measurement
@@ -26,3 +28,9 @@ CERN's ALPHA-g experiment achieved a historic first in 2023: directly observing 
 The measurement matters because several theories of quantum gravity and dark energy predict that antimatter could interact differently with gravity than normal matter. Confirming or disproving this would be revolutionary — potentially explaining the matter-antimatter asymmetry of the universe (why anything exists at all). Two complementary experiments at CERN's Antimatter Factory, AEgIS and GBAR, are pursuing the same measurement using different techniques to cross-validate results.
 
 CERN's antimatter program represents a unique European capability: no other facility on Earth can produce, trap, and manipulate antihydrogen atoms in quantities sufficient for precision physics. The Antiproton Decelerator and ELENA ring that supply these experiments exist only at CERN. The technology developed for antimatter trapping — superconducting magnets, ultra-high vacuum systems, laser cooling of exotic atoms — pushes engineering boundaries that feed into other fields including quantum computing and medical imaging.
+
+## Sources
+
+- [https://www.home.cern/news/press-release/physics/alpha-experiment-cern-observes-influence-gravity-antimatter](https://www.home.cern/news/press-release/physics/alpha-experiment-cern-observes-influence-gravity-antimatter)
+- [https://cerncourier.com/a/alpha-g-clocks-the-freefall-of-antihydrogen/](https://cerncourier.com/a/alpha-g-clocks-the-freefall-of-antihydrogen/)
+- [https://www.mdpi.com/2571-712X/8/1/20](https://www.mdpi.com/2571-712X/8/1/20)

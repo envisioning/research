@@ -10,6 +10,8 @@ trl: 8
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774872436/stratum/technologies/16f2ef8c-2a23-40e7-ba6e-91c4d88b5171-google-gemini-3.1-flash-image-preview-p6fx3i.jpg
+updated_at: '2026-09-28T17:18:40.935684+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Petrochemical Catalyst Production
@@ -25,3 +27,9 @@ Iran has systematically localized the production of catalysts essential to its p
 Catalysts are the critical consumable inputs for petrochemical processing — they determine product quality, energy efficiency, and process economics. Iran's petrochemical sector processes abundant domestic natural gas and crude oil feedstocks into polymers, fertilizers, and chemical intermediates for export. Without reliable catalyst supply, the entire petrochemical value chain would be vulnerable to sanctions-driven disruption. The localization effort was therefore driven by strategic necessity as much as economic opportunity.
 
 The program demonstrates a broader pattern in Iranian industrial development: sanctions cut off supply of a critical input, forcing investment in domestic alternatives that eventually achieve competitiveness. The catalyst industry also intersects with Iran's nanotechnology research, as many advanced catalysts employ nano-scale materials for improved performance. Iran has expressed ambitions to enter international catalyst markets, though regulatory and reputational barriers limit exports to non-sanctioning countries for now.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/National_Petrochemical_Company](https://en.wikipedia.org/wiki/National_Petrochemical_Company)
+- [https://energypress.ir/en/jalil-sobhani-the-father-of-irans-catalyst/](https://energypress.ir/en/jalil-sobhani-the-father-of-irans-catalyst/)
+- [http://poj.ippi.ac.ir/article_1253.html](http://poj.ippi.ac.ir/article_1253.html)

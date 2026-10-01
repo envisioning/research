@@ -10,6 +10,8 @@ trl: 5
 impact: 2
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807170/apogee/technologies/d321b9aa-9db0-47a1-b89a-9b314c3a1a7b-google-gemini-3.1-flash-image-preview-sosncx.jpg
+updated_at: '2026-09-28T17:16:59.97846+00:00'
+last_reviewed: null
 ---
 
 # Reusable Rockets
@@ -25,3 +27,8 @@ China's commercial space sector has 150+ private companies and attracted 187 inv
 Zhuque-3's orbital success (if not its landing) proved that Chinese rockets can reach orbit with reusable-capable hardware. Space Pioneer's Tianlong-3 and Long March-12A are expected to attempt similar flights in 2026. The pace of iteration is accelerating.
 
 The gap with SpaceX remains large: Falcon 9 has landed over 300 times. But China's approach is parallel development — multiple companies attempting different solutions simultaneously, funded by both government and private capital. Even if each individual program progresses slowly, the portfolio approach increases the odds of a breakthrough.
+
+## Sources
+
+- [https://www.reuters.com/science/chinas-landspace-fails-complete-reusable-rocket-test-2025-12-03/](https://www.reuters.com/science/chinas-landspace-fails-complete-reusable-rocket-test-2025-12-03/)
+- [https://www.cnn.com/2025/12/03/science/zhuque-3-launch-china-reusable-rocket-intl-hnk](https://www.cnn.com/2025/12/03/science/zhuque-3-launch-china-reusable-rocket-intl-hnk)

@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996046/atmos/technologies/behavioral-demand-shaping-platforms-gemini-3-pro-k08y4m.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Behavioral Demand-Shaping Platforms

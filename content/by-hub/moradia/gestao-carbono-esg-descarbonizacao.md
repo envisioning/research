@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766536899/habitacao/technologies/gestao-carbono-esg-descarbonizacao-google-gemini-3-pro-image-preview-c7xknz.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gestão de Carbono, ESG, Descarbonização e EPDs
@@ -25,3 +27,7 @@ Gestão de carbono, ESG, descarbonização e EPDs abrangem múltiplas dimensões
 No Brasil, isso se conecta à pressão ESG de incorporadoras, financiamento e compras corporativas, criando um ciclo de demanda por dados confiáveis de fornecedores. Iniciativas como o CBCS (Conselho Brasileiro de Construção Sustentável) e compromissos de grandes construtoras estão organizando o setor. A tecnologia é emergente mas ganha força em edifícios de alto padrão, escritórios e como diferencial de valorização imobiliária e acesso a crédito verde.
 
 O sinal de mudança é a passagem de 'sustentável por narrativa' para 'sustentável por métricas', com auditoria e comparabilidade entre alternativas de projeto. Isso cria incentivos financeiros para adoção de materiais sustentáveis e eficiência energética, reorganizando escolhas de projeto, materiais e processos, e impulsionando a descarbonização do setor.
+
+## Sources
+
+- [Descarbonização: ACV e Pegada de Carbono na prática](https://abgi-brasil.com/descarbonizacao-acv-pegada-de-carbono-na-pratica) (2026)

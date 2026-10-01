@@ -11,6 +11,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860900/apogee/technologies/71b2c312-0502-44be-b690-aa1c7552afd6-google-gemini-3.1-flash-image-preview-kt7j6s.jpg
+updated_at: '2026-09-28T17:17:49.281876+00:00'
+last_reviewed: null
 ---
 
 # Super-Heavy Reusable Launch Systems
@@ -26,3 +28,8 @@ SpaceX's Starship/Super Heavy is a fully reusable two-stage launch system capabl
 This cost reduction is civilizationally significant. At $10/kg, space-based solar power, orbital manufacturing, asteroid mining, and large-scale space habitats become economically feasible for the first time. Starship also serves as the Human Landing System for NASA's Artemis program and enables SpaceX's Starlink V2 satellite constellation. Musk has discussed attempting Mars cargo missions as early as 2026.
 
 The US monopoly on super-heavy reusable launch gives it unmatched access to space. While China's Long March 9 and Europe's Ariane 6 progress, neither approaches Starship's payload capacity or cost structure. The strategic implications extend to military space — the ability to rapidly deploy large payloads enables responsive space capabilities that fixed-schedule launch systems cannot match.
+
+## Sources
+
+- [https://payloadspace.com/what-to-expect-in-2026/](https://payloadspace.com/what-to-expect-in-2026/)
+- [https://spacenexus.us/guide/space-launch-schedule-2026](https://spacenexus.us/guide/space-launch-schedule-2026)

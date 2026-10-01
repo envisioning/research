@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812933/aegis/technologies/6d674128-b398-4b2c-94c9-913ffb1191f1-google-gemini-3.1-flash-image-preview-kv0rlh.png
+updated_at: '2026-09-28T17:18:07.878043+00:00'
+last_reviewed: null
 ---
 
 # AI-Powered Deforestation Monitoring
@@ -25,3 +27,9 @@ Colombia contains a significant portion of the Amazon rainforest, and deforestat
 The AI technology includes deep learning models trained on labeled deforestation examples that can distinguish between natural forest dynamics and anthropogenic clearing, change detection algorithms that flag new clearings against baseline forest maps, and alert systems that notify environmental authorities and local communities of detected deforestation events. Cloud cover — persistent in tropical forests — is addressed by combining optical satellite data with SAR (synthetic aperture radar) imagery that penetrates clouds.
 
 The monitoring technology intersects with Colombia's peace process: much deforestation accelerated after FARC guerrillas withdrew from formerly controlled territories, removing de facto forest protection. Monitoring systems help identify illegal land grabs and cattle ranching expansion in post-conflict zones. The technology is also essential for Colombia's commitments under the Paris Agreement and for potential carbon credit revenues from avoided deforestation, where verified monitoring data is a prerequisite for market participation.
+
+## Sources
+
+- [https://www.pnas.org/doi/10.1073/pnas.2115641119](https://www.pnas.org/doi/10.1073/pnas.2115641119)
+- [https://farmonaut.com/south-america/colombia-biodiversity-5-genomics-breakthroughs-boosting-sustainability](https://farmonaut.com/south-america/colombia-biodiversity-5-genomics-breakthroughs-boosting-sustainability)
+- [https://biooekonomie.de/en/topics/in-depth-reports-worldwide/colombia](https://biooekonomie.de/en/topics/in-depth-reports-worldwide/colombia)

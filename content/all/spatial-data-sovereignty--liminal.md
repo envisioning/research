@@ -10,6 +10,8 @@ trl: 2
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125527/liminal/technologies/spatial-data-sovereignty-google-gemini-3-pro-image-preview-wbw9k5.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Spatial Data Sovereignty

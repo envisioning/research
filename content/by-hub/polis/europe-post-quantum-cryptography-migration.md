@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852671/polis/technologies/11b77d78-ffb1-43fc-989c-ee592969dee1-google-gemini-3.1-flash-image-preview-wmccxq.jpg
+updated_at: '2026-09-28T17:16:35.84561+00:00'
+last_reviewed: null
 ---
 
 # Post-Quantum Cryptography Migration
@@ -25,3 +27,7 @@ The EU issued a Post-Quantum Cryptography (PQC) roadmap in June 2025 requiring a
 The threat is 'harvest now, decrypt later': adversaries are already intercepting and storing encrypted communications that current quantum computers cannot break, but future quantum computers could. Financial transactions, diplomatic communications, military orders, and healthcare records encrypted today may be readable within 10-15 years. The migration must happen before quantum computers are powerful enough to break current encryption — not after.
 
 Europe's regulatory-first approach (mandate migration timelines, then support implementation) follows the GDPR playbook. NIST standardized PQC algorithms in 2024; the EU is now forcing adoption timelines. European cryptography companies and research institutions (CWI Amsterdam, INRIA France, universities across Germany) contribute significantly to PQC algorithm development and implementation. The ENISA (EU Agency for Cybersecurity) coordinates the migration across 27 member states.
+
+## Sources
+
+- [https://www.startus-insights.com/innovators-guide/new-technology-trends/](https://www.startus-insights.com/innovators-guide/new-technology-trends/)

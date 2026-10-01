@@ -12,6 +12,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814363/grid/technologies/a6bb32cc-b89b-41bc-9ad6-65337b1ce4cc-google-gemini-3.1-flash-image-preview-xz47ch.png
+updated_at: '2026-09-28T17:17:11.200741+00:00'
+last_reviewed: null
 ---
 
 # Gigawatt-Scale Green Hydrogen Electrolysis
@@ -27,3 +29,8 @@ The NEOM Green Hydrogen Company (NGHC), a joint venture between ACWA Power, Air 
 The scale of this project is genuinely unprecedented. At 600 tonnes of hydrogen per day, NGHC will produce more green hydrogen than the entire current global output from electrolysis. The electrolyzer array — using proton exchange membrane (PEM) and alkaline technologies — represents the largest single deployment of electrolysis technology ever attempted. This scale is critical because electrolyzer costs follow steep learning curves: every doubling of deployed capacity reduces costs by approximately 20%. NGHC's sheer volume will drive down green hydrogen costs globally.
 
 Strategically, this positions Saudi Arabia to transition from fossil fuel exporter to clean fuel exporter using the same comparative advantages — abundant land, extreme solar irradiance, existing port infrastructure, and sovereign capital. Green ammonia produced at NGHC is already contracted for delivery to Asian and European markets where it will be used as shipping fuel, power plant feedstock, and fertilizer input. If the project delivers on schedule and at projected costs, it proves that green hydrogen can be produced at scale competitive with grey hydrogen from natural gas — a tipping point that would accelerate decarbonization of heavy industry worldwide.
+
+## Sources
+
+- [https://nghc.com/](https://nghc.com/)
+- [https://www.insidesaudi.media/articles/2025-10-01-a-hydrogen-superpower](https://www.insidesaudi.media/articles/2025-10-01-a-hydrogen-superpower)

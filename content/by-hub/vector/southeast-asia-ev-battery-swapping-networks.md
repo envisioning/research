@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815184/vector/technologies/3342d13c-81f8-488b-91ab-e22fedc55700-google-gemini-3.1-flash-image-preview-b9skfr.png
+updated_at: '2026-09-28T17:17:47.230064+00:00'
+last_reviewed: null
 ---
 
 # EV Battery Swapping Networks for Two-Wheelers
@@ -25,3 +27,8 @@ Vietnam — VinFast announced a massive battery-swapping network for electric sc
 The technology is specifically adapted to Southeast Asian conditions: dense urban environments, limited garage infrastructure, and a two-wheeler-dominant transport culture. Rather than following the Western model of home-charging four-wheel EVs, Vietnam is building swap-station infrastructure that mirrors the existing petrol station density for motorcycles.
 
 If VinFast succeeds, the battery-swapping model becomes a template for Indonesia (90 million motorbikes), Thailand, and the Philippines. The standardization of swap-compatible batteries across manufacturers could create an ASEAN-wide interoperable energy platform — or, more likely, a fragmented market where first-mover advantage locks in proprietary standards.
+
+## Sources
+
+- [https://cleantechnica.com/2025/08/27/vinfast-expands-electric-vehicle-incentives-nationwide-plans-massive-battery-swapping-network/](https://cleantechnica.com/2025/08/27/vinfast-expands-electric-vehicle-incentives-nationwide-plans-massive-battery-swapping-network/)
+- [https://www.spglobal.com/commodity-insights/en/news-research/latest-news/metals/120924-vietnams-vinfast-to-bring-05-mil-ev-output-online-globally-in-2025](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/metals/120924-vietnams-vinfast-to-bring-05-mil-ev-output-online-globally-in-2025)

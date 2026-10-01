@@ -12,6 +12,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860424/forge/technologies/0f6f1e5c-23e3-4ef2-81f4-644c6b39b4a3-google-gemini-3.1-flash-image-preview-aw7bjl.jpg
+updated_at: '2026-09-28T17:17:00.301127+00:00'
+last_reviewed: null
 ---
 
 # Cell-Free Biomanufacturing
@@ -27,3 +29,8 @@ Cell-free biomanufacturing extracts the molecular machinery from cells — ribos
 The advantage over traditional fermentation (using living cells) is speed, control, and portability. Living cells divert energy to growth and maintenance; cell-free systems direct all resources toward the desired product. Reaction conditions can be precisely controlled without worrying about cell viability. Production runs complete in hours rather than the days or weeks required for cell culture. Most compellingly, cell-free systems can be freeze-dried into shelf-stable pellets that are reconstituted with water — enabling point-of-need manufacturing in field hospitals, forward operating bases, or disaster zones.
 
 Cell-free biomanufacturing is particularly relevant for defense and pandemic preparedness: the ability to produce vaccines, therapeutics, and diagnostic reagents anywhere, without cold chains or specialized facilities, addresses critical supply chain vulnerabilities exposed by COVID-19. The technology also accelerates prototyping in synthetic biology — testing thousands of genetic circuit designs in cell-free systems before committing to living-cell engineering. Current limitations include cost (enzymes are expensive) and scale (most demonstrations are at laboratory scale), but advances in enzyme recycling and continuous-flow reactors are addressing both.
+
+## Sources
+
+- [https://www.energy.gov/eere/bioenergy/agile-biofoundry](https://www.energy.gov/eere/bioenergy/agile-biofoundry)
+- [https://arpa-h.gov/sites/default/files/2024-03/ARPA-H%20FY%202025.pdf](https://arpa-h.gov/sites/default/files/2024-03/ARPA-H%20FY%202025.pdf)

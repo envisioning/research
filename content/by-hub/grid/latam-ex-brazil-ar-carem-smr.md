@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812901/grid/technologies/66ecb6ba-73f4-4adf-921a-1a2a5d5ecbdb-google-gemini-3.1-flash-image-preview-dsss5d.jpg
+updated_at: '2026-09-28T17:16:26.724123+00:00'
+last_reviewed: null
 ---
 
 # CAREM Small Modular Reactor
@@ -26,3 +28,9 @@ CAREM (Central Argentina de Elementos Modulares) is a small modular reactor enti
 At least 70% of CAREM-25's components and services are sourced from Argentine companies, representing genuine nuclear technological sovereignty. The design uses natural circulation for core cooling, passive safety systems that require no external power, and self-pressurization that eliminates the need for a separate pressurizer. Civil construction was expected to finish in 2024, with initial criticality targeted for 2027. The project has faced multiple suspensions, including a two-year halt from November 2019.
 
 CAREM's strategic significance transcends the 32 MWe prototype. If successful, Argentina would become one of the few countries globally with indigenous SMR technology — a capability that positions CNEA as a potential exporter to developing nations seeking small, grid-appropriate nuclear plants. The Milei administration has also announced plans for four ACR-300 units (1.2 GW total) at Atucha, indicating nuclear expansion beyond the CAREM prototype. Argentina's 70-year nuclear history — three operating power plants, fuel fabrication, heavy water production, and a nuclear submarine program — provides the industrial base that makes CAREM credible.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/CAREM](https://en.wikipedia.org/wiki/CAREM)
+- [https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina](https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina)
+- [https://www.world-nuclear-news.org/articles/critical-design-review-for-argentina-s-carem-small](https://www.world-nuclear-news.org/articles/critical-design-review-for-argentina-s-carem-small)

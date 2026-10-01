@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858473/grid/technologies/7d666cce-d51f-4165-ad20-1ebe149404a1-google-gemini-3.1-flash-image-preview-j40y4m.jpg
+updated_at: '2026-09-28T17:18:31.722642+00:00'
+last_reviewed: null
 ---
 
 # Perovskite-Silicon Tandem Solar Cells
@@ -26,3 +28,9 @@ Researchers at the Australian National University (ANU) and UNSW have achieved w
 Conventional silicon solar cells are approaching their theoretical efficiency ceiling (~29.4% for single-junction). Perovskite-silicon tandems break through this barrier by using perovskite to capture blue and green photons while silicon captures red and infrared, theoretically reaching ~43% efficiency. Australia's dominance in solar PV research (UNSW's Martin Green pioneered modern silicon cell architecture) makes it a natural leader in the next-generation tandem technology that could render current panels obsolete.
 
 The strategic significance is enormous. Australia deployed more rooftop solar per capita than any other nation, and its solar radiation is among the world's highest. A 30-35% efficient tandem module would generate 25-50% more power from the same rooftop area, dramatically improving the economics of distributed generation. Australian research groups are working on scalable manufacturing processes, addressing the key challenge of perovskite stability under harsh Australian UV and temperature conditions. If commercialized, tandem solar could become Australia's most significant energy technology export since silicon PV itself.
+
+## Sources
+
+- [https://www.acap.org.au/post/dr-heping-shen-s-anu-groundbreaking-tandem-solar-research](https://www.acap.org.au/post/dr-heping-shen-s-anu-groundbreaking-tandem-solar-research)
+- [https://www.pv-magazine.com/2023/02/08/australian-scientists-achieve-30-3-efficiency-for-tandem-perovskite-silicon-solar-cell/](https://www.pv-magazine.com/2023/02/08/australian-scientists-achieve-30-3-efficiency-for-tandem-perovskite-silicon-solar-cell/)
+- [https://www.thecooldown.com/green-tech/perovskite-solar-cell-tandem-panel-australia/](https://www.thecooldown.com/green-tech/perovskite-solar-cell-tandem-panel-australia/)

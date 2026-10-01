@@ -10,6 +10,8 @@ trl: 2
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886848/apogee/technologies/41aacd3c-d867-4d2c-9737-7437acf43434-google-gemini-3.1-flash-image-preview-l3pi8b.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Space Elevator

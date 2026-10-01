@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817954/wintermute/technologies/07b009d2-61a9-41cc-a9bc-72c7b79c8404-google-gemini-3.1-flash-image-preview-3hr4ud.png
+updated_at: '2026-09-28T17:16:50.249075+00:00'
+last_reviewed: null
 ---
 
 # Pro-Innovation AI Governance Framework
@@ -25,3 +27,8 @@ Japan enacted the Act on Promotion of Research and Development, and Utilization 
 The AI Promotion Act establishes a government framework for fostering AI development while addressing safety through voluntary guidelines rather than prescriptive regulation. Japan's ¥135 billion investment in AI infrastructure (announced in 2025) includes computing resources, training data initiatives, and human capital development. The combination of permissive regulation and public investment is designed to attract AI companies and talent to Japan.
 
 The governance approach is a calculated strategic bet. Japan concluded that restrictive AI regulation would disadvantage its companies against US and Chinese competitors who face different regulatory environments. By making Japan maximally attractive for AI development — through copyright flexibility, investment incentives, and light-touch regulation — the government aims to establish Japan as Asia's AI hub. This is working: Sakana AI's Tokyo HQ, NVIDIA's Japanese partnerships, and Microsoft's data center investments all cite the regulatory environment as a factor.
+
+## Sources
+
+- [https://iapp.org/resources/article/global-ai-governance-japan](https://iapp.org/resources/article/global-ai-governance-japan)
+- [https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025](https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025)

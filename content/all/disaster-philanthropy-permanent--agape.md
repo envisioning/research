@@ -3,19 +3,22 @@ slug: disaster-philanthropy-permanent
 hub: agape
 title: Disaster Philanthropy Becoming Permanent
 summary: Disaster philanthropy becoming permanent, not episodic, as crises become
+  chronic rather than exceptional.
 permalink: https://www.envisioning.com/agape/disaster-philanthropy-permanent
 collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419655/philanthropy/signals/disaster-philanthropy-permanent-google-gemini-3-pro-image-preview-k1d4u8.jpg
+updated_at: '2026-10-01T09:29:51.917467+00:00'
+last_reviewed: null
 ---
 
 # Disaster Philanthropy Becoming Permanent
 
 ## Summary
 
-Disaster philanthropy becoming permanent, not episodic, as crises become
+Disaster philanthropy becoming permanent, not episodic, as crises become chronic rather than exceptional.
 
 ## Description
 

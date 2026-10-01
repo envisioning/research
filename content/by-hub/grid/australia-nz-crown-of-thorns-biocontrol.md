@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774857722/grid/technologies/02a89745-c86a-4a53-a788-b064deacdd3f-google-gemini-3.1-flash-image-preview-3kfhag.jpg
+updated_at: '2026-09-28T17:16:29.869805+00:00'
+last_reviewed: null
 ---
 
 # Crown-of-Thorns Starfish Biocontrol
@@ -26,3 +28,7 @@ The Australian Institute of Marine Science (AIMS) has developed and deployed a s
 Previous COTS control methods required multiple injections of different chemicals, took days to work, and risked damaging surrounding coral. The single-injection bile salt technique is faster, cheaper, and more targeted. AIMS coordinates boat-based control programs that have treated millions of starfish since deployment, demonstrating measurable coral recovery in treated areas.
 
 While COTS biocontrol addresses a symptom rather than the underlying cause (nutrient runoff from agricultural land promotes COTS larval survival), it buys time for reef recovery during the critical period when climate adaptation interventions (heat-tolerant coral breeding, cloud brightening) are being scaled. The technology illustrates Australia's pragmatic approach to reef management — addressing immediate threats with proven interventions while investing in longer-term solutions.
+
+## Sources
+
+- [https://www.aims.gov.au/information-centre/news-and-stories/aims-takes-first-shot-largescale-reef-restoration-marine-industry](https://www.aims.gov.au/information-centre/news-and-stories/aims-takes-first-shot-largescale-reef-restoration-marine-industry)

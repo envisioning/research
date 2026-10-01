@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774791726/substrate/technologies/1e87c8b4-c614-445c-be9d-c3faaa8fa168-google-gemini-3.1-flash-image-preview-5aeeph.png
+updated_at: '2026-09-28T17:17:53.727674+00:00'
+last_reviewed: null
 ---
 
 # 3D-Printed Concrete Structures
@@ -25,3 +27,8 @@ The bridge, inspired by the 1,400-year-old Anji Bridge, was assembled from 176 i
 Concrete 3D printing reduces material waste by 30-60% compared to traditional formwork-based construction. The technology deposits concrete layer by layer, creating complex geometries that would be prohibitively expensive with conventional methods. Chinese companies are now printing building components, retaining walls, and emergency shelters.
 
 The constraint is structural certification. Building codes worldwide were written for poured and reinforced concrete. 3D-printed structures require new testing standards for layer adhesion, load distribution, and long-term durability. China's willingness to test and certify novel construction methods faster than Western regulators gives it a deployment advantage.
+
+## Sources
+
+- [https://www.archdaily.com/909534/worlds-largest-3d-printed-concrete-pedestrian-bridge-completed-in-china](https://www.archdaily.com/909534/worlds-largest-3d-printed-concrete-pedestrian-bridge-completed-in-china)
+- [https://3dprint.com/270883/guinness-certifies-worlds-longest-3d-printed-concrete-bridget-in-china/](https://3dprint.com/270883/guinness-certifies-worlds-longest-3d-printed-concrete-bridget-in-china/)

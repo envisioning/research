@@ -10,6 +10,8 @@ trl: 7
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998512/aegis/technologies/autonomous-cyber-defense-agents-gemini-3-pro-53e5kd.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Cyber Defense Agents

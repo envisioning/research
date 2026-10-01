@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813001/forge/technologies/776fa55d-64ee-4a3d-883f-17d42b6007f1-google-gemini-3.1-flash-image-preview-pgdrab.jpg
+updated_at: '2026-09-28T17:17:32.778303+00:00'
+last_reviewed: null
 ---
 
 # Industrial Additive Manufacturing for Auto Parts
@@ -26,3 +28,9 @@ Mexico's automotive supplier base — over 3,000 Tier 1 and Tier 2 companies —
 Research institutions including UNAM, Tec de Monterrey, and CIDESI (part of the former CONAHCYT ecosystem, now SECIHTI) are developing locally-adapted metal alloys and process parameters for aluminum, titanium, and Inconel printing. The research focus includes topology optimization algorithms that design parts for additive manufacturing from the ground up, and hybrid manufacturing processes that combine 3D printing with CNC machining for finished surfaces.
 
 The strategic relevance is the transition from subtractive to additive manufacturing paradigms in Mexico's industrial base. As EVs require fewer but more complex components compared to ICE vehicles, additive manufacturing becomes a competitive necessity. Mexico's challenge is the capital cost of industrial metal printers ($500K-$2M per unit) and the limited domestic supply of certified metal powders, which must currently be imported.
+
+## Sources
+
+- [https://www.americanindustriesgroup.com/blog/engineering-the-skies-from-production-to-innovation-in-mexicos-aerospace-industry/](https://www.americanindustriesgroup.com/blog/engineering-the-skies-from-production-to-innovation-in-mexicos-aerospace-industry/)
+- [https://www.trade.gov/country-commercial-guides/mexico-digital-economy](https://www.trade.gov/country-commercial-guides/mexico-digital-economy)
+- [https://www.prodensa.com/insights/blog/ev-automotive-oem-assembly-in-mexico-report](https://www.prodensa.com/insights/blog/ev-automotive-oem-assembly-in-mexico-report)

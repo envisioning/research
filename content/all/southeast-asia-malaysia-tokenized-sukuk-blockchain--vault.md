@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815507/vault/technologies/725ad0b5-8ca9-4284-b393-504843ca6df2-google-gemini-3.1-flash-image-preview-ysq1dr.jpg
+updated_at: '2026-09-28T17:16:26.284906+00:00'
+last_reviewed: null
 ---
 
 # Blockchain-Tokenized Sukuk Bonds
@@ -25,3 +27,9 @@ Bank Negara Malaysia launched a three-year asset tokenization roadmap in late 20
 Malaysia already dominates global Islamic finance — it holds the world's largest sukuk market (over 60% of global issuance) and has 30+ licensed Islamic fintech players. Tokenization addresses the core liquidity problem: traditional sukuk have high minimum denominations and illiquid secondary markets. Blockchain fractionalization could open Islamic bonds to retail investors across the $3.7 trillion Islamic finance ecosystem, spanning 57 OIC member countries.
 
 The global implications are significant. If Malaysia succeeds, it creates the template for Shariah-compliant digital securities worldwide — a regulatory and technical standard that Saudi Arabia, UAE, and Indonesia would likely adopt. This extends Malaysia's existing role as the de facto standard-setter for Islamic finance into the digital asset era, potentially capturing infrastructure fees across the entire Muslim-majority financial world.
+
+## Sources
+
+- [https://www.crowdfundinsider.com/2025/12/256911-cimb-prepares-tokenised-bond-sukuk-issuance-as-malaysia-pilots-digital-securities/](https://www.crowdfundinsider.com/2025/12/256911-cimb-prepares-tokenised-bond-sukuk-issuance-as-malaysia-pilots-digital-securities/)
+- [https://salaamgateway.com/story/malaysia-launches-three-year-roadmap-to-test-blockchain-based-asset-tokenization-in-national-finance](https://salaamgateway.com/story/malaysia-launches-three-year-roadmap-to-test-blockchain-based-asset-tokenization-in-national-finance)
+- [https://www.cimb.com/en/newsroom/2025/cimb-sets-path-for-tokenised-sukuk-issuances-to-deepen-digital-capital-markets-agenda.html](https://www.cimb.com/en/newsroom/2025/cimb-sets-path-for-tokenised-sukuk-issuances-to-deepen-digital-capital-markets-agenda.html)

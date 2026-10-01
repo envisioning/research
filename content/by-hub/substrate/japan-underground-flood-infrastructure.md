@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818978/substrate/technologies/7af22ae7-95f9-4afc-9c69-6ead404fd540-google-gemini-3.1-flash-image-preview-3b9c8h.jpg
+updated_at: '2026-09-28T17:17:28.731709+00:00'
+last_reviewed: null
 ---
 
 # Underground Flood Control Infrastructure (G-Cans)
@@ -26,3 +28,9 @@ The Metropolitan Area Outer Underground Discharge Channel (G-Cans Project), comp
 The G-Cans system has been activated over 150 times since completion, preventing billions of dollars in flood damage to the Saitama and Tokyo metropolitan area. The facility reduced flood damage in its protection zone by approximately 90%. During typhoon seasons, the system automatically activates: pumps powered by jet turbine engines (repurposed from Boeing 737 aircraft) can drain the entire system at extraordinary rates. The facility has become a tourist attraction, nicknamed the 'Underground Temple,' but its engineering is deadly serious.
 
 G-Cans represents a broader Japanese philosophy of invisible infrastructure investment — spending massively on systems that citizens never see but that prevent catastrophic losses. Similar underground flood control systems exist throughout Japan (the Kanda River diversion channel, Tsurumi River system), but G-Cans' scale is unmatched globally. As climate change intensifies urban flooding worldwide — from Houston to Mumbai to Seoul — Japan's approach to underground flood management is increasingly studied and adapted internationally.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Metropolitan_Area_Outer_Underground_Discharge_Channel](https://en.wikipedia.org/wiki/Metropolitan_Area_Outer_Underground_Discharge_Channel)
+- [https://floodlist.com/protection/g-cans-project-tokyo-flood-tunnel](https://floodlist.com/protection/g-cans-project-tokyo-flood-tunnel)
+- [https://japanupclose.web-japan.org/tech/t20220302_1.html](https://japanupclose.web-japan.org/tech/t20220302_1.html)

@@ -9,6 +9,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882891/atlas/technologies/25fb944d-62ff-4ee0-80f5-edeb024ccb2b-google-gemini-3.1-flash-image-preview-d2ebx7.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Airless Tire

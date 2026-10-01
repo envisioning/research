@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995631/aura/technologies/computer-vision-facial-tracking-gemini-3-pro-bzm80s.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Computer Vision for Facial Morphology

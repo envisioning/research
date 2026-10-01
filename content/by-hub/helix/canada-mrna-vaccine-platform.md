@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870675/helix/technologies/2b47e782-9157-458e-b7db-f4de16c3ae4e-google-gemini-3.1-flash-image-preview-t506v5.jpg
+updated_at: '2026-09-28T17:18:37.219973+00:00'
+last_reviewed: null
 ---
 
 # Domestic mRNA Manufacturing Platform
@@ -26,3 +28,8 @@ Following the COVID-19 pandemic's exposure of Canada's dependence on foreign vac
 Domestic mRNA capability matters because the pandemic demonstrated that countries without their own production were at the mercy of export controls and supply disruptions. Beyond pandemic preparedness, mRNA technology is being developed for personalized cancer vaccines, rare disease treatments, and seasonal flu vaccines — creating a platform with applications well beyond infectious disease.
 
 Strategically, the mRNA investment addresses both biosecurity (pandemic readiness) and economic development (building a biopharma manufacturing sector). Canada's strong academic life sciences ecosystem in Montreal and Toronto provides the talent pipeline, and federal investment provides the manufacturing infrastructure. The challenge is ensuring these facilities are commercially viable outside pandemic emergencies, which requires a robust pipeline of non-pandemic mRNA applications.
+
+## Sources
+
+- [https://www.nature.com/articles/d43747-024-00141-4](https://www.nature.com/articles/d43747-024-00141-4)
+- [https://www.biotech.ca/](https://www.biotech.ca/)

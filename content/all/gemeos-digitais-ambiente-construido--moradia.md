@@ -10,6 +10,8 @@ trl: 3
 impact: 1
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328256/formar/technologies/gemeos-digitais-obras-ativos-google-gemini-3-pro-image-preview-14cc8d.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gêmeos Digitais do Ambiente Construído
@@ -25,3 +27,8 @@ Gêmeos digitais são representações virtuais completas de obras, edifícios o
 No Brasil, estão em estágio inicial mas mostram potencial para grandes obras de infraestrutura, edifícios complexos e planejamento urbano, oferecendo visibilidade total e otimização contínua em todas as escalas. A tecnologia está sendo testada em projetos piloto, especialmente relevante em obras complexas onde coordenação e planejamento são críticos.
 
 O sinal de mudança é a transformação de gestão baseada em documentos estáticos para modelos digitais dinâmicos que se atualizam em tempo real, criando novos modelos de planejamento e operação baseados em simulação e dados, especialmente relevante em infraestrutura crítica e edifícios complexos onde visibilidade e otimização são essenciais.
+
+## Sources
+
+- [BIM e Digital Twins: Ferramentas Essenciais para a Gestão e Execução de Obras Complexas](https://witeckqueiroz.com.br/bim-e-digital-twins-ferramentas-essenciais-para-a-gestao-e-execucao-de-obras-complexas) (2025)
+- [Digital twin e o futuro da construção civil](https://cvcrm.com.br/blog/digital-twin) (2025)

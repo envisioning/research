@@ -11,6 +11,8 @@ trl: 3
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812864/vault/technologies/5d6fc513-e058-4a50-9e7b-7b2da39da851-google-gemini-3.1-flash-image-preview-kyxhdg.jpg
+updated_at: '2026-09-28T17:17:25.524545+00:00'
+last_reviewed: null
 ---
 
 # Digital Peso (CBDC Research)
@@ -26,3 +28,9 @@ Mexico's central bank (Banxico) is exploring a central bank digital currency —
 The potential use cases are significant for Mexico: programmable money that automatically enforces government benefit conditions, instant cross-border settlement for the US-Mexico remittance corridor (potentially in partnership with the Federal Reserve's FedNow), and financial inclusion for populations that resist traditional banking but might adopt a government-backed digital wallet. SPEI 2.0 discussions explicitly reference the digital peso as a future evolution.
 
 The strategic calculus mirrors Brazil's Drex project but is earlier-stage. Mexico's unique position — sharing the world's busiest economic border with the US — makes cross-border CBDC interoperability particularly valuable. However, the technical and political challenges are substantial: designing a system that works offline in rural Mexico, maintaining privacy while enabling AML compliance, and building consensus among banks that correctly view CBDC as potentially disintermediating their deposit base.
+
+## Sources
+
+- [https://mexicobusiness.news/finance/news/spei-20-and-digital-peso-rethinking-instant-payments](https://mexicobusiness.news/finance/news/spei-20-and-digital-peso-rethinking-instant-payments)
+- [https://www.lightspark.com/knowledge/mexico-real-time-payments](https://www.lightspark.com/knowledge/mexico-real-time-payments)
+- [https://paymentscmi.com/insights/mexico-2024-analysis-of-payments-and-ecommerce-trends/](https://paymentscmi.com/insights/mexico-2024-analysis-of-payments-and-ecommerce-trends/)

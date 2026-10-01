@@ -9,6 +9,8 @@ trl: 2
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898783/xenotech/technologies/arts-parts-metamaterials-openrouter-google-gemini-3.1-flash-image-preview-gnj3pf.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Metamaterials
@@ -36,3 +38,7 @@ Analysis confirms precise layering but doesn't demonstrate exotic properties bey
 ## Provenance and Authenticity
 
 Provenance remains questionable, with no definitive link to UAP events beyond claimant testimony. The samples could be industrial or research materials from conventional sources: layered bismuth-magnesium could serve as thermal management materials, electromagnetic shielding, or research test structures for metamaterial development. Without verifiable chain of custody or documentation linking samples to the 1947 Roswell incident, their origin cannot be established with certainty. However, bismuth-magnesium layering doesn't exhibit strong anomalous properties under standard testing conditions.
+
+## Sources
+
+- [Art's Parts 1: UFO Crash Recovery Material Analysis](https://www.altpropulsion.com/arts-parts-1-ufo-crash-recovery-material-analysis) (2025)

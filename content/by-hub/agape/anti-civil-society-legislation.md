@@ -3,19 +3,22 @@ slug: anti-civil-society-legislation
 hub: agape
 title: Anti-Civil Society Legislation & NGO Restrictions
 summary: Proliferation of laws restricting NGO operations, foreign funding, and civil
+  society space across the globe.
 permalink: https://www.envisioning.com/agape/anti-civil-society-legislation
 collection: power-agency-governance
 trl: 3
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367662/agape/signals/anti-civil-society-legislation-google-gemini-3-pro-image-preview-oo4pzm.png
+updated_at: '2026-10-01T09:27:32.215394+00:00'
+last_reviewed: null
 ---
 
 # Anti-Civil Society Legislation & NGO Restrictions
 
 ## Summary
 
-Proliferation of laws restricting NGO operations, foreign funding, and civil
+Proliferation of laws restricting NGO operations, foreign funding, and civil society space across the globe.
 
 ## Description
 

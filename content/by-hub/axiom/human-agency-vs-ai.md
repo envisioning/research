@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998555/axiom/technologies/human-agency-vs-ai-gemini-3-pro-yt1p6z.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Human Agency vs. AI Instruction

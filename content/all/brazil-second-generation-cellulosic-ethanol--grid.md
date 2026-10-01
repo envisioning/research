@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793236/grid/technologies/7d3b0118-cba9-4f5f-b144-96066b069248-google-gemini-3.1-flash-image-preview-5flj3v.png
+updated_at: '2026-09-28T17:16:51.888069+00:00'
+last_reviewed: null
 ---
 
 # Second-Generation Cellulosic Ethanol
@@ -25,3 +27,7 @@ Second-generation (2G) ethanol uses enzymes to break down cellulose and hemicell
 Raízen operates one of the world's largest cellulosic ethanol plants in Piracicaba (São Paulo), with capacity for 30+ million liters per year. The technology roughly doubles the ethanol yield per hectare of sugarcane by using both the juice (1G) and the fiber (2G).
 
 The economics are improving but not yet competitive with first-generation ethanol at current oil prices. The strategic value is in volume: Brazil produces roughly 600 million tons of sugarcane annually, generating massive amounts of bagasse and straw. If 2G conversion scales, Brazil could significantly increase ethanol output without planting a single additional hectare.
+
+## Sources
+
+- [https://advancedbiofuelsusa.info/the-current-scenario-of-saf-production-in-brazil-2025](https://advancedbiofuelsusa.info/the-current-scenario-of-saf-production-in-brazil-2025)

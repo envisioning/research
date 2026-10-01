@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875869/substrate/technologies/ba642f81-4232-40d7-ae35-bbd4d2d7e361-google-gemini-3.1-flash-image-preview-nw2i5z.jpg
+updated_at: '2026-09-28T17:17:22.523114+00:00'
+last_reviewed: null
 ---
 
 # Post-Quantum Cryptographic Systems
@@ -25,3 +27,8 @@ As quantum computing advances threaten to break current public-key cryptography 
 The urgency is real: 'harvest now, decrypt later' attacks — where adversaries collect encrypted data today to decrypt when quantum computers mature — are already underway against government and financial systems. Post-quantum migration is a multi-year process requiring new standards, protocol updates, and infrastructure changes. Organizations that start late risk catastrophic exposure.
 
 Israel's combination of world-class cryptography research, a massive cybersecurity industry, and urgent national security drivers positions it to be a leader in the post-quantum transition. The market for quantum-safe security is projected to reach $10+ billion by 2030, and Israeli firms are well-positioned to capture significant share given their established trust relationships with enterprise and government customers worldwide.
+
+## Sources
+
+- [https://world-of-quantum.com/en/quantum-industry-insights/detail/israel-national-quantum-initiative.html](https://world-of-quantum.com/en/quantum-industry-insights/detail/israel-national-quantum-initiative.html)
+- [https://www.jpost.com/israel-news/article-882417](https://www.jpost.com/israel-news/article-882417)

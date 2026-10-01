@@ -10,6 +10,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774796570/spore/technologies/3f43bdcd-58e9-4ff6-b565-22b70e348268-google-gemini-3.1-flash-image-preview-zr1ol7.png
+updated_at: '2026-09-28T17:16:39.877741+00:00'
+last_reviewed: null
 ---
 
 # Desert-to-Soil Cyanobacteria Technology
@@ -25,3 +27,9 @@ Researchers at the Chinese Academy of Sciences developed solid 'soil seeds' — 
 The science is decades old — cyanobacteria have been forming biological soil crusts naturally for billions of years. China's innovation is industrial-scale production and deployment across its northern deserts. Combined with shifting rainfall patterns pushing the 400mm precipitation line northward, entire regions of the Gobi and Taklamakan deserts are becoming reclaimable.
 
 The constraint is water. Cyanobacteria need initial moisture to establish, and maintaining plant growth in former desert requires irrigation. The technology works best where natural precipitation is increasing or where water infrastructure can be built.
+
+## Sources
+
+- [https://www.earth.com/news/china-lab-grown-microbes-turn-desert-sand-into-fertile-soil/](https://www.earth.com/news/china-lab-grown-microbes-turn-desert-sand-into-fertile-soil/)
+- [https://x.com/pubity/status/2035031115128611331](https://x.com/pubity/status/2035031115128611331)
+- [https://x.com/ShangguanJiewen/status/2035196590265352294](https://x.com/ShangguanJiewen/status/2035196590265352294)

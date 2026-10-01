@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360200/conectar/technologies/plataformas-licenciamento-obras-digitais-google-gemini-3-pro-image-preview-hddbcd.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Plataformas de Licenciamento e Fiscalização

@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774876102/aegis/technologies/ec971610-8d14-4b25-b332-5d790d71802a-google-gemini-3.1-flash-image-preview-n14cof.jpg
+updated_at: '2026-09-28T17:18:44.15775+00:00'
+last_reviewed: null
 ---
 
 # Mobile Digital Forensics and Data Extraction Technology
@@ -26,3 +28,8 @@ Cellebrite has developed the world's most widely used mobile digital forensics p
 The technology fills a critical gap in modern law enforcement: as criminals and terrorists increasingly use encrypted smartphones to plan and coordinate activities, the ability to access device data with proper legal authorization is essential for investigations ranging from child exploitation to terrorism. Cellebrite's tools have contributed to solving major criminal cases worldwide.
 
 However, the technology is deeply controversial — it has been used by authoritarian regimes to target journalists, activists, and political opponents. Alongside NSO Group's Pegasus spyware, Cellebrite's tools represent the tension inherent in Israel's surveillance technology exports: the same capabilities that protect democratic societies can be weaponized against them. Israel's government oversight of these exports has been criticized as insufficient, creating reputational and diplomatic risks for the broader tech industry.
+
+## Sources
+
+- [https://defence24.com/geopolitics/cyber-forces-israel](https://defence24.com/geopolitics/cyber-forces-israel)
+- [https://www.livemint.com/special-report/silicon-valley-s-hot-talent-pipeline-is-an-israeli-army-unit-11725081630564.html](https://www.livemint.com/special-report/silicon-valley-s-hot-talent-pipeline-is-an-israeli-army-unit-11725081630564.html)

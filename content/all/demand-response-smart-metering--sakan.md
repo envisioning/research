@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1768561799/sakan/technologies/demand-response-smart-metering-google-gemini-3-pro-image-preview-hnrz55.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Demand Response, Smart Metering & Dynamic Tariffs

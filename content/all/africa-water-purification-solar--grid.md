@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810148/grid/technologies/2ab14000-f5c0-4fca-9e24-669b31655d87-google-gemini-3.1-flash-image-preview-twu0f5.png
+updated_at: '2026-09-28T17:16:28.718744+00:00'
+last_reviewed: null
 ---
 
 # Solar-Powered Water Purification Systems
@@ -25,3 +27,8 @@ Solar-powered water purification kiosks combine solar energy, water treatment te
 Sub-Saharan Africa has 400 million people without access to safe drinking water, and waterborne diseases kill 500,000+ annually. Traditional water infrastructure (treatment plants, piped networks) requires massive capital investment and takes decades to build. Solar water kiosks provide an immediate, distributed solution: each kiosk serves 500-5,000 people, operates without grid electricity or fuel, and generates revenue through water sales that covers maintenance costs.
 
 The technology integration is elegant: solar panels power the purification system, which treats locally available water (boreholes, rivers, rainwater). Smart meters connected via GSM track consumption, manage payments via mobile money, and send maintenance alerts. This is the same design philosophy as PAYG solar — distributed, mobile-money-integrated, sustainable technology that bypasses the need for centralized infrastructure. The approach is scaling across East Africa and being adapted for West African conditions.
+
+## Sources
+
+- [https://www.grundfos.com/solutions/lifelink](https://www.grundfos.com/solutions/lifelink)
+- [https://www.sunnymoney.org/](https://www.sunnymoney.org/)

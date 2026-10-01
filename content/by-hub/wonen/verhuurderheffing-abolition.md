@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897849/wonen/technologies/9d4221b1-3258-4b1d-8df6-488dfe90e642-google-gemini-3.1-flash-image-preview-9yujx9.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Verhuurderheffing (Landlord Levy) Abolition

@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818542/vault/technologies/4423b9df-0a32-427d-8f2e-6f28a996d681-google-gemini-3.1-flash-image-preview-or9we9.png
+updated_at: '2026-09-28T17:17:28.486963+00:00'
+last_reviewed: null
 ---
 
 # Convenience Store (Konbini) Automation
@@ -26,3 +28,9 @@ Japan's 'Big Three' convenience store chains — 7-Eleven (21,000+ stores), Fami
 The konbini is evolving from a store into a logistics and services platform. Stores function as parcel pickup/dropoff points for e-commerce, ATMs, bill payment terminals, government service kiosks, and emergency supply points during disasters. FamilyMart has deployed autonomous shelf-stocking robots, Lawson operates cashierless 'Lawson Go' stores using computer vision, and all three chains use RFID-tagged products for automated inventory tracking. The konbini model is being exported — 7-Eleven's Japanese operational technology now drives efficiency improvements in its US, Thai, and Chinese operations.
 
 The strategic insight is that Japanese konbini represent an alternative model to Amazon Go-style cashierless retail. Rather than building technology-first stores from scratch, Japan is incrementally automating the world's densest convenience store network, optimizing for the constraints of aging staff, small footprints, and hyper-local demand patterns. The result is a retail technology testbed generating more real-world data on automated commerce than any Silicon Valley experiment.
+
+## Sources
+
+- [https://realgaijin.substack.com/p/japans-convenience-stores-are-quietly](https://realgaijin.substack.com/p/japans-convenience-stores-are-quietly)
+- [https://www.ulpa.jp/post/how-convenience-stores-dominate-in-japan-a-complete-guide](https://www.ulpa.jp/post/how-convenience-stores-dominate-in-japan-a-complete-guide)
+- [https://www.ukiyo-journal.com/en/article/20250709-konbini-heatwave2025](https://www.ukiyo-journal.com/en/article/20250709-konbini-heatwave2025)

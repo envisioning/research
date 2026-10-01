@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807274/grid/technologies/1918214b-4b12-4e40-8711-cd812bfce9bd-google-gemini-3.1-flash-image-preview-72v2ak.png
+updated_at: '2026-09-28T17:17:16.164604+00:00'
+last_reviewed: null
 ---
 
 # E20 Ethanol Blending and Second-Generation Biofuels
@@ -26,3 +28,9 @@ India achieved its ambitious target of 20% ethanol blending in petrol (E20) by M
 The 2G ethanol push is where the technology becomes genuinely novel. Unlike first-generation ethanol (from food crops), 2G ethanol is produced from agricultural residues — rice straw, wheat straw, bagasse, corn cobs — using enzymatic hydrolysis and fermentation. India has commissioned 2G ethanol plants using indigenous technology, including facilities by Indian Oil Corporation and Praj Industries. These plants convert crop stubble (which would otherwise be burned, causing massive air pollution) into fuel. The government is now exploring E30 targets for 2030 and beyond, with second-generation feedstocks providing the incremental supply.
 
 India's ethanol program achieves multiple strategic objectives simultaneously: reducing oil import bills ($150+ billion annually), cutting carbon emissions from transport, providing additional income to farmers (who sell feedstock), reducing air pollution from crop residue burning, and building energy security. The scale is enormous — India consumed approximately 500 million litres of ethanol for blending monthly by early 2025. Praj Industries, an Indian company, has developed proprietary 2G ethanol technology that it's now exporting, positioning India as a technology leader in cellulosic biofuels.
+
+## Sources
+
+- [https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biofuels+Annual_New+Delhi_India_IN2025-0031.pdf](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biofuels+Annual_New+Delhi_India_IN2025-0031.pdf)
+- [https://advancebiofuel.in/what-happens-after-e20-india-next-biofuel-target/](https://advancebiofuel.in/what-happens-after-e20-india-next-biofuel-target/)
+- [https://advancebiofuel.in/second-generation-2g-biofuels-india-future-beyond-ethanol/](https://advancebiofuel.in/second-generation-2g-biofuels-india-future-beyond-ethanol/)

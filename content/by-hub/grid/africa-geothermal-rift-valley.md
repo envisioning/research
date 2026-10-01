@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810894/grid/technologies/8937d86c-0da3-4013-865e-06b6275449c0-google-gemini-3.1-flash-image-preview-5ocrhf.png
+updated_at: '2026-09-28T17:18:09.466783+00:00'
+last_reviewed: null
 ---
 
 # East African Rift Geothermal Power
@@ -26,3 +28,8 @@ Kenya has developed one of the world's most successful geothermal energy program
 The Kenya Electricity Generating Company (KenGen) and the Geothermal Development Company (GDC) have built indigenous expertise in geothermal exploration, drilling, and power plant construction over four decades. Kenya's geothermal wells reach depths of 2-3 km into the earth's crust, tapping steam at temperatures exceeding 300°C. The country has an estimated 10,000 MW of untapped geothermal potential along the Rift Valley.
 
 Kenya's geothermal success is now being exported. Ethiopian, Djiboutian, and Tanzanian geothermal projects are benefiting from Kenyan technical expertise. The Rift Valley's geothermal resources extend across multiple countries, and Kenya's proven development model provides a template for the entire region. This is baseload renewable energy — available 24/7 regardless of weather — making it a cornerstone of East Africa's decarbonization strategy.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Olkaria_Geothermal_Power_Station](https://en.wikipedia.org/wiki/Olkaria_Geothermal_Power_Station)
+- [https://www.kengen.co.ke/geothermal-power/](https://www.kengen.co.ke/geothermal-power/)

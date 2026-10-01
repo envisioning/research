@@ -10,6 +10,8 @@ trl: 8
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814516/vault/technologies/c77ebcad-9c5c-43c3-be66-d115eb20fb78-google-gemini-3.1-flash-image-preview-1mejn5.png
+updated_at: '2026-09-28T17:17:09.992269+00:00'
+last_reviewed: null
 ---
 
 # Wio Digital-First Banking
@@ -25,3 +27,8 @@ Wio Bank, launched in 2023 with backing from Abu Dhabi sovereign wealth entity A
 Wio represents the evolution of Gulf banking from legacy institutions to digital-first platforms. In a region where traditional banks are profitable but technologically conservative, Wio's platform approach challenges incumbents by reducing the cost of financial services and enabling new business models. Its integration with the UAE's digital identity infrastructure enables instant KYC and onboarding.
 
 The banking-as-a-service model has strategic implications for the Gulf's fintech ecosystem: by providing infrastructure that other companies can build upon, Wio creates a multiplier effect for financial innovation. This platform approach mirrors the strategies of successful digital banks globally (Monzo, N26, Nubank) while being tailored to Gulf regulatory and cultural requirements.
+
+## Sources
+
+- [https://www.mordorintelligence.com/industry-reports/uae-fintech-market](https://www.mordorintelligence.com/industry-reports/uae-fintech-market)
+- [https://www.targetdubai.com/why-dubai-is-becoming-a-global-hub-for-fintech-innovation](https://www.targetdubai.com/why-dubai-is-becoming-a-global-hub-for-fintech-innovation)

@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815719/vector/technologies/96738017-9584-4efd-bf28-099c1b226ca0-google-gemini-3.1-flash-image-preview-k7kty4.jpg
+updated_at: '2026-09-28T17:17:43.42521+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Electric Vehicle Manufacturing
@@ -26,3 +28,9 @@ Vietnam — VinFast is one of very few companies from an emerging market that de
 The significance extends beyond vehicles: VinFast represents Vietnam's attempt to leapfrog from motorbike assembly into full automotive manufacturing. The vertically integrated approach — VinFast's parent Vingroup controls battery production, charging infrastructure, and even the taxi fleet — mirrors the Chinese model of ecosystem control rather than the Western OEM-supplier separation.
 
 For Southeast Asia, VinFast is a sovereignty test case. Can a regional company compete against Chinese EV giants (BYD, Great Wall) flooding ASEAN markets? The answer will determine whether Southeast Asia develops indigenous automotive technology or becomes a production colony for Chinese brands.
+
+## Sources
+
+- [https://evxl.co/2025/06/29/vinfast-launches-second-vietnam-ev-factory/](https://evxl.co/2025/06/29/vinfast-launches-second-vietnam-ev-factory/)
+- [https://www.reuters.com/world/asia-pacific/vinfast-considers-petrol-engines-extend-ev-range-sources-say-2025-12-01/](https://www.reuters.com/world/asia-pacific/vinfast-considers-petrol-engines-extend-ev-range-sources-say-2025-12-01/)
+- [https://www.spglobal.com/commodity-insights/en/news-research/latest-news/metals/120924-vietnams-vinfast-to-bring-05-mil-ev-output-online-globally-in-2025](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/metals/120924-vietnams-vinfast-to-bring-05-mil-ev-output-online-globally-in-2025)

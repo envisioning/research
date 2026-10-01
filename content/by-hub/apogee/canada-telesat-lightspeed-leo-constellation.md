@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871025/apogee/technologies/739b5ba6-1514-4e38-8e0a-54d807475b6f-google-gemini-3.1-flash-image-preview-ceg8sv.jpg
+updated_at: '2026-09-28T17:18:39.655534+00:00'
+last_reviewed: null
 ---
 
 # Telesat Lightspeed LEO Constellation
@@ -26,3 +28,8 @@ Telesat Lightspeed is a low-Earth orbit satellite constellation of 198 satellite
 Lightspeed matters because it represents Canada's sovereign entry into the LEO broadband race dominated by SpaceX's Starlink and Amazon's Kuiper. Unlike those US-owned constellations, Lightspeed is a Canadian-controlled system designed for enterprise and government customers requiring data sovereignty, low latency, and high throughput. The military Ka-band addition underscores its dual-use value for NATO and Five Eyes defense communications in the Arctic and globally.
 
 Strategically, Lightspeed is the most expensive single technology bet in Canadian space history. Its success would give Canada independent satellite communications infrastructure for Arctic sovereignty, defense, and remote connectivity — reducing dependence on US-owned constellations for critical government and military communications. The MDA manufacturing facility in Montreal also builds long-term industrial capacity for satellite production, positioning Canada as a LEO satellite manufacturer rather than just a customer.
+
+## Sources
+
+- [https://www.telesat.com/press/press-releases/telesat-completes-2-54-billion-funding-agreements-for-telesat-lightspeed-satellite-constellation-with-strong-government-backing/](https://www.telesat.com/press/press-releases/telesat-completes-2-54-billion-funding-agreements-for-telesat-lightspeed-satellite-constellation-with-strong-government-backing/)
+- [https://www.stocktitan.net/news/TSAT/telesat-adds-military-ka-band-to-telesat-lightspeed-to-meet-strong-h25ad0s57v5q.html](https://www.stocktitan.net/news/TSAT/telesat-adds-military-ka-band-to-telesat-lightspeed-to-meet-strong-h25ad0s57v5q.html)

@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875092/aegis/technologies/1a5881f5-2170-4f1f-ba8a-01625621af34-google-gemini-3.1-flash-image-preview-4grmkh.png
+updated_at: '2026-09-28T17:18:42.516611+00:00'
+last_reviewed: null
 ---
 
 # Medium-Range Missile and Cruise Missile Interception
@@ -25,3 +27,9 @@ David's Sling (Magic Wand) is a medium-to-long range air defense system develope
 The system's dual-seeker architecture represents a significant advancement in interceptor technology, providing resilience against electronic countermeasures and enabling engagement of low-observable cruise missiles that single-sensor systems struggle to track. David's Sling saw its first confirmed combat use during the 2024-2025 escalation with Iran and Hezbollah.
 
 Strategically, David's Sling has been upgraded to also engage ballistic missile threats previously reserved for the Arrow system, creating redundancy in Israel's defense architecture. Finland has signed a deal for the system, and it has been evaluated by multiple NATO nations seeking layered defense against Russian cruise missile threats. The system's versatility in addressing multiple threat types makes it a cornerstone of modern integrated air and missile defense.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/David's_Sling](https://en.wikipedia.org/wiki/David's_Sling)
+- [https://www.calcalistech.com/ctechnews/article/byl5e8zk11l](https://www.calcalistech.com/ctechnews/article/byl5e8zk11l)
+- [https://abcnews.com/Politics/davids-sling-arrow-anti-missile-systems-israel-defeated/story?id=114403653](https://abcnews.com/Politics/davids-sling-arrow-anti-missile-systems-israel-defeated/story?id=114403653)

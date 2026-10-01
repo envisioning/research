@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181137/superposition/technologies/quantum-illumination-gemini-3-pro-tyabgk.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Quantum Illumination (Radar)

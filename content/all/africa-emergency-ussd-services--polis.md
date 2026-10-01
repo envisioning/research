@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811269/polis/technologies/db3f94fd-2475-4c4f-a5d9-173133280dca-google-gemini-3.1-flash-image-preview-p7jojy.jpg
+updated_at: '2026-09-28T17:16:41.456478+00:00'
+last_reviewed: null
 ---
 
 # USSD-Based Emergency and Disaster Response Systems
@@ -26,3 +28,8 @@ African nations have adapted USSD technology — the same protocol that powers M
 The Ushahidi model has been deployed in over 160 countries for election monitoring, disaster response, and conflict tracking. But its origin is distinctly Kenyan — built in 72 hours by Nairobi developers during a crisis, using technology accessible to the widest possible population. The platform demonstrates that Africa's constraint-driven innovation (no internet? use SMS; no smartphones? use USSD) produces solutions with global applicability.
 
 Emergency USSD services are now standard across multiple African countries: flood early warning in Mozambique, disease surveillance in Nigeria, and community security reporting in South Africa. The technology's strength is reach — it works on every phone ever manufactured, requires no app download, and functions without internet connectivity. In a continent where internet penetration averages 40% but mobile phone ownership exceeds 80%, USSD-based emergency systems reach twice the population that app-based alternatives could.
+
+## Sources
+
+- [https://www.ushahidi.com/](https://www.ushahidi.com/)
+- [https://mohacafrica.org/technology-in-african-healthcare/](https://mohacafrica.org/technology-in-african-healthcare/)

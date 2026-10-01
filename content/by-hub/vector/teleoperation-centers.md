@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182275/vector/technologies/teleoperation-centers-google-gemini-3-pro-image-preview-mje4c9.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Teleoperation Control Centers

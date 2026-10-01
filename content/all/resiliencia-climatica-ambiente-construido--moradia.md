@@ -9,6 +9,8 @@ trl: 3
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360264/formar/technologies/resiliencia-climatica-edificacoes-google-gemini-3-pro-image-preview-u6ftb0.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Resiliência Climática do Ambiente Construído
@@ -24,3 +26,8 @@ Resiliência climática do ambiente construído envolve design, materiais, técn
 No Brasil, é crítica dado aumento de frequência e intensidade de eventos extremos, oferecendo proteção para comunidades, continuidade de serviços e redução de perdas econômicas. A tecnologia está sendo adotada em projetos que buscam aumentar resiliência, especialmente relevante onde eventos climáticos extremos são crescentes e causam grandes impactos.
 
 O sinal de mudança é a transição de infraestrutura que assume condições climáticas estáveis para infraestrutura resiliente que se adapta e resiste a eventos extremos, criando novos modelos de design, construção e gestão que antecipam mudanças climáticas, especialmente relevante onde vulnerabilidade climática é alta e eventos extremos são crescentes.
+
+## Sources
+
+- [Estratégias de adaptação de áreas urbanas sobre as mudanças climáticas](https://www.migalhas.com.br/depeso/445187/estrategias-de-adaptacao-de-areas-urbanas-sobre-as-mudancas-climaticas) (2025)
+- [Resiliência urbana e infraestrutura verde | Análise](https://santossilveiro.com.br/resiliencia-urbana-alternativas-de-infraestrutura-verde-como-um-potencial-genuino-de-transformacao-da-vida-nas-cidades) (2025)

@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853371/substrate/technologies/65e662e0-386a-4495-8987-72139119c038-google-gemini-3.1-flash-image-preview-r96ovq.jpg
+updated_at: '2026-09-28T17:18:11.925612+00:00'
+last_reviewed: null
 ---
 
 # EUV Lithography Monopoly
@@ -25,3 +27,8 @@ ASML (Netherlands) has a complete monopoly on extreme ultraviolet (EUV) lithogra
 Each EUV machine costs roughly €350 million, weighs 180 tons, and requires multiple 747 cargo flights to deliver. The technology focuses extreme ultraviolet light (13.5nm wavelength) through complex optics to print transistor patterns smaller than what visible light can resolve. No other company on Earth can build these machines.
 
 The geopolitical implications are enormous: ASML's export controls — enforced at US urging — are a primary mechanism limiting China's ability to manufacture advanced chips. A single Dutch company effectively controls the global frontier of semiconductor manufacturing, making the Netherlands one of the most strategically important technology nations in the world.
+
+## Sources
+
+- [https://www.fool.com/investing/2025/12/12/asml-is-the-silent-monopoly-behind-the-entire-tech/](https://www.fool.com/investing/2025/12/12/asml-is-the-silent-monopoly-behind-the-entire-tech/)
+- [https://en.wikipedia.org/wiki/ASML_Holding](https://en.wikipedia.org/wiki/ASML_Holding)

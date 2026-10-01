@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117640/substrate/technologies/small-modular-reactors-google-gemini-3-pro-image-preview-upoibw.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Small Modular Reactors (SMRs)

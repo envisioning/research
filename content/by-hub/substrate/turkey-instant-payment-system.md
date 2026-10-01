@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855494/substrate/technologies/5948c2da-6ccd-48e4-b509-2fdae967fc5c-google-gemini-3.1-flash-image-preview-d00ml0.png
+updated_at: '2026-09-28T17:18:28.985974+00:00'
+last_reviewed: null
 ---
 
 # Real-Time Payment Infrastructure (FAST)
@@ -26,3 +28,8 @@ The FAST (Fonların Anlık ve Sürekli Transferi — Instant and Continuous Tran
 The Interbank Card Center (BKM) provides overlay services including QR code payments and proxy addressing (payment by phone number or national ID rather than IBAN). Turkey mandated open banking access through BKM for all banks and payment institutions by March 2025, creating a regulatory framework that enables fintech innovation while maintaining sovereign control over financial infrastructure.
 
 Turkey's payment infrastructure modernization reflects a broader digital sovereignty agenda — the CBRT is also exploring a digital Turkish lira (CBDC), which would further strengthen sovereign control over the payment ecosystem. In a region where dollarization pressures and cryptocurrency adoption challenge monetary sovereignty, robust indigenous payment infrastructure provides a foundation for financial system resilience.
+
+## Sources
+
+- [https://www.lightspark.com/knowledge/instant-payments-turkey](https://www.lightspark.com/knowledge/instant-payments-turkey)
+- [https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/turkey/](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/turkey/)

@@ -11,6 +11,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812687/grid/technologies/4108f337-01e4-4a8b-bdf3-a03b61bf9cad-google-gemini-3.1-flash-image-preview-plxn4x.jpg
+updated_at: '2026-09-28T17:17:34.578256+00:00'
+last_reviewed: null
 ---
 
 # Green Hydrogen Production via Electrolysis
@@ -26,3 +28,9 @@ Chile's National Green Hydrogen Strategy aims to make the country one of the wor
 The Chilean government selected six initial green hydrogen projects in December 2021, with operational targets of 2025. The Action Plan 2023-2030 allocates state-owned land for hydrogen projects and establishes regulatory frameworks. The target applications include replacing fossil fuels in mining haul trucks (the mining industry alone could create massive domestic demand), producing green ammonia for export to Asia and Europe, and generating synthetic fuels for aviation.
 
 The strategic vision is audacious: create an energy export industry comparable in scale to copper mining. Chile's green hydrogen potential has attracted interest from European and Asian utilities seeking to decarbonize their energy imports. The challenge is infrastructure: electrolyzers, water supply (desalination), export terminals for ammonia/hydrogen carriers, and the sheer capital investment required to build gigawatt-scale electrolysis capacity. But the fundamental resource advantage — permanent, inexhaustible solar and wind — gives Chile a structural cost advantage that no policy can replicate elsewhere.
+
+## Sources
+
+- [https://www.imf.org/en/publications/fandd/issues/2022/12/country-case-chile-bet-on-green-hydrogen-bartlett](https://www.imf.org/en/publications/fandd/issues/2022/12/country-case-chile-bet-on-green-hydrogen-bartlett)
+- [https://gh2.org/countries/chile](https://gh2.org/countries/chile)
+- [https://www.eib.org/en/stories/chile-renewable-energy-green-hydrogen](https://www.eib.org/en/stories/chile-renewable-energy-green-hydrogen)

@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592340/habitacao/technologies/plataformas-digitais-financiamento-comunitario-google-gemini-3-pro-image-preview-ibqiin.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Finanças Descentralizadas para Habitação Popular (DeFi-Housing)

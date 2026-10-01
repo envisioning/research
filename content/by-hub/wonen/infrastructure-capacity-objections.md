@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889696/wonen/technologies/8b7e2d8a-ab9b-4efd-9ed1-198215412112-google-gemini-3.1-flash-image-preview-e11bm0.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Infrastructure Capacity Objections

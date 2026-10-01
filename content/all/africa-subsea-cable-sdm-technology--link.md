@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774810845/link/technologies/7ab2a2cb-44d7-4b93-8aad-58d887101712-google-gemini-3.1-flash-image-preview-mmdn45.png
+updated_at: '2026-09-28T17:18:09.246915+00:00'
+last_reviewed: null
 ---
 
 # Advanced Subsea Cable Landing Infrastructure
@@ -26,3 +28,8 @@ The 2Africa subsea cable system, backed by Meta and consortium partners, was com
 Before 2Africa, Africa's international bandwidth was constrained and concentrated on a few landing points (primarily in South Africa, Nigeria, and Kenya). The new cable provides landing stations in previously underserved countries, dramatically reducing the cost and latency of internet connectivity. Combined with the Equiano cable (Google) and other new systems, Africa's international bandwidth is increasing by an estimated 20x between 2020 and 2026.
 
 The connectivity infrastructure creates the foundation for everything else in this radar. Without bandwidth, there's no cloud computing, no streaming, no fintech, no AI. The critical question is what happens at the cable landing points — Africa needs not just international connectivity but domestic fiber networks to distribute bandwidth from coastal cities to inland populations. The 'last mile' (or last 1,000 miles) remains the continent's biggest connectivity challenge.
+
+## Sources
+
+- [https://engineering.fb.com/2025/11/17/connectivity/core-2africa-system-completion-future-connectivity/](https://engineering.fb.com/2025/11/17/connectivity/core-2africa-system-completion-future-connectivity/)
+- [https://www.connectingafrica.com/connectivity/meta-backed-2africa-subsea-cable-completed](https://www.connectingafrica.com/connectivity/meta-backed-2africa-subsea-cable-completed)

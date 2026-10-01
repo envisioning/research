@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853587/apogee/technologies/93abcc94-be3d-44b1-976a-7b32f44f49ae-google-gemini-3.1-flash-image-preview-1i3shv.jpg
+updated_at: '2026-09-28T17:17:14.370197+00:00'
+last_reviewed: null
 ---
 
 # Galileo Satellite Navigation
@@ -25,3 +27,7 @@ Galileo is the EU's global navigation satellite system (GNSS), providing positio
 The strategic rationale is straightforward: GPS is controlled by the US military, GLONASS by Russia, and BeiDou by China. Without Galileo, European critical infrastructure — aviation, maritime, energy grids, financial timing — would depend on a foreign military system that could theoretically be degraded or denied.
 
 Galileo's Open Service is free and interoperable with GPS, meaning most modern smartphones and receivers use both systems simultaneously for better accuracy. The system's Search and Rescue service can locate distress signals within 10 minutes and send confirmation back to the sender — a capability unique to Galileo among GNSS constellations.
+
+## Sources
+
+- [https://defence-industry-space.ec.europa.eu/galileo-introduction-europes-global-satellite-based-navigation-system-2025-03-06_en](https://defence-industry-space.ec.europa.eu/galileo-introduction-europes-global-satellite-based-navigation-system-2025-03-06_en)

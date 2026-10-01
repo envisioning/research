@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819108/polis/technologies/8eec2784-a6d2-433a-be23-84896f2fa23d-google-gemini-3.1-flash-image-preview-3grx72.jpg
+updated_at: '2026-09-28T17:16:28.386782+00:00'
+last_reviewed: null
 ---
 
 # Sovereign High-Definition Mapping Infrastructure
@@ -26,3 +28,8 @@ Japan has developed sovereign high-definition (HD) mapping infrastructure throug
 HD mapping is a sovereignty-critical technology because autonomous vehicles, logistics systems, and urban planning increasingly depend on precise spatial data. Countries that rely entirely on foreign mapping platforms — Google, Apple, HERE — have no guaranteed access to this data and no control over its accuracy, availability, or pricing. Japan's Zenrin has been mapping Japanese streets since 1948, and its data is embedded in everything from car navigation to disaster response. DMP's HD maps provide the precise localization layer that QZSS positioning alone cannot achieve, combining satellite positioning with pre-mapped environmental features.
 
 Strategically, sovereign mapping data becomes more critical as autonomous systems proliferate. Japan's automakers (Toyota, Honda, Nissan) depend on domestically controlled HD maps for their autonomous driving programs. If this data were controlled by foreign companies, it would create a strategic dependency in Japan's automotive industry — its single largest manufacturing sector. Japan's approach of maintaining domestic mapping sovereignty, integrated with QZSS positioning, creates an end-to-end sovereign spatial intelligence stack that few other nations possess.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Zenrin](https://en.wikipedia.org/wiki/Zenrin)
+- [https://www.dynamic-maps.co.jp/en/](https://www.dynamic-maps.co.jp/en/)

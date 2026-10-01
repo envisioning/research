@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815061/substrate/technologies/1feb24b7-1ce4-4308-a52d-14c56042ef58-google-gemini-3.1-flash-image-preview-i3mr4g.jpg
+updated_at: '2026-09-28T17:16:47.924176+00:00'
+last_reviewed: null
 ---
 
 # Emerging Wafer Fabrication Capability
@@ -26,3 +28,8 @@ Malaysia — SilTerra Malaysia operates Southeast Asia's only indigenous semicon
 AMRO Asia's analysis argues Malaysia's 50+ year semiconductor packaging ecosystem provides the foundation to move upstream into IC design and potentially advanced fabrication. The talent pipeline, supply chain relationships, and infrastructure already exist — what's missing is the $10B+ capital commitment for a modern fab and the design talent to fill it.
 
 The strategic question is whether Malaysia can replicate Taiwan's journey (from packaging to fab to design) compressed into a shorter timeline, aided by China+1 tailwinds and US support for diversifying chip manufacturing. The decision to attempt this leap — or to double down on packaging excellence — may be the single most consequential industrial policy choice Malaysia makes this decade.
+
+## Sources
+
+- [https://amro-asia.org/time-is-ripe-for-malaysia-to-move-upstream-into-designing-chips](https://amro-asia.org/time-is-ripe-for-malaysia-to-move-upstream-into-designing-chips)
+- [https://www.mordorintelligence.com/industry-reports/malaysia-semiconductor-market](https://www.mordorintelligence.com/industry-reports/malaysia-semiconductor-market)

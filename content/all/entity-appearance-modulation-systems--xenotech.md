@@ -10,6 +10,8 @@ trl: 2
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897209/xenotech/technologies/entity-appearance-modulation-systems-openrouter-google-gemini-3.1-flash-image-preview-5oc06m.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Appearance Modulation
@@ -49,3 +51,10 @@ Proposed mechanisms for entity appearance modulation include: consciousness inte
 ## Assessment
 
 Entity appearance modulation represents intersection of encounter testimony (coordinated appearance changes), legitimate perception science (visual processing and consciousness), and speculative consciousness technologies. While current human perception technology focuses on individual experience, the consistency of multi-witness appearance effects in encounter reports suggests either sophisticated unknown perception technology or systematic psychological processes not yet understood. The phenomenon bridges established perception science with claims of consciousness-perception engineering far exceeding current capabilities.
+
+## Sources
+
+- [A Controllable 3D Deepfake Generation Framework with Gaussian Splatting](https://arxiv.org/html/2509.11624v1) (2025)
+- [A Controllable 3D Deepfake Generation Framework with Gaussian Splatting](https://www.arxiv.org/pdf/2509.11624) (2025)
+- [Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots](https://hci.princeton.edu/wp-content/uploads/sites/459/2025/08/kari2025-reality-promises.pdf) (2025)
+- [Synthetic Veil II: Perceptual Governance Through Augmented Reality](https://battle4cog.substack.com/p/synthetic-veil-ii) (2025)

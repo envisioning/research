@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819373/aegis/technologies/cbc226d1-9fec-4f53-894c-64aabfcff4d5-google-gemini-3.1-flash-image-preview-h8k4yi.jpg
+updated_at: '2026-09-28T17:16:23.025055+00:00'
+last_reviewed: null
 ---
 
 # Defense Spending and Industrial Transformation
@@ -25,3 +27,8 @@ Japan's 2022 National Security Strategy and Defense Buildup Program committed to
 The transformation extends beyond spending to industrial restructuring. Japan is reforming defense procurement to improve profitability for domestic contractors (historically thin margins drove companies like Sumitomo, Mitsui, and Komatsu out of defense), establishing the Defense Equipment Agency for arms exports, and loosening restrictions on defense technology transfers. The Three Principles on Transfer of Defense Equipment were revised in 2023 to allow lethal weapon exports for the first time.
 
 The strategic context is China's military expansion, North Korean missile threats, and Russia's war in Ukraine. Japan's geographic position — controlling the first island chain between China and the Pacific — makes its military capability a critical factor in Indo-Pacific stability. The defense buildup is creating demand for advanced technologies (AI, autonomous systems, hypersonics, cyber) that will have civilian technology spillovers.
+
+## Sources
+
+- [https://thediplomat.com/2025/12/japan-accelerates-defense-buildup-with-record-budget-and-expanded-unmanned-capabilities/](https://thediplomat.com/2025/12/japan-accelerates-defense-buildup-with-record-budget-and-expanded-unmanned-capabilities/)
+- [https://www.tandfonline.com/doi/full/10.1080/14702436.2025.2472700](https://www.tandfonline.com/doi/full/10.1080/14702436.2025.2472700)

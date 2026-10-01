@@ -12,6 +12,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816351/aegis/technologies/03168cfb-f3d0-455c-8dec-e24188a55881-google-gemini-3.1-flash-image-preview-p6wvxo.png
+updated_at: '2026-09-28T17:18:14.504675+00:00'
+last_reviewed: null
 ---
 
 # Hanwha Group Defense-Space-Energy Transformation
@@ -27,3 +29,9 @@ Hanwha Group's transformation is one of the most dramatic corporate reinventions
 The conglomerate's defense portfolio now spans land systems (K9 Thunder, K21 IFV, Redback), naval systems (Hanwha Ocean submarines and warships), missiles and ammunition (guided munitions, rocket systems), and aerospace (Nuri rocket engines, satellite payloads). The fourth Nuri launch in November 2025 was the first fully private-sector-led space mission in Korean history, with Hanwha Aerospace as the primary contractor. The company also manufactures aircraft engines under license from GE and Rolls-Royce.
 
 Hanwha's strategy mirrors the chaebol model at its most ambitious: build or buy capabilities across an entire value chain, then integrate them into systems-of-systems offerings. A single customer can now buy artillery, warships, submarines, satellites, and ammunition from one Korean conglomerate. This breadth, combined with Korea's reputation for on-time delivery and competitive pricing, makes Hanwha a formidable competitor to Western defense primes like Rheinmetall, BAE Systems, and Thales.
+
+## Sources
+
+- [https://www.hanwha.com/companies/hanwha-aerospace.do](https://www.hanwha.com/companies/hanwha-aerospace.do)
+- [https://www.ainvest.com/news/hanwha-aerospace-strategic-leap-commercial-space-race-privatization-play-space-era-2507/](https://www.ainvest.com/news/hanwha-aerospace-strategic-leap-commercial-space-race-privatization-play-space-era-2507/)
+- [https://spacenews.com/hanwha-aerospace-invests-in-satrec-initiative/](https://spacenews.com/hanwha-aerospace-invests-in-satrec-initiative/)

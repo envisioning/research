@@ -3,19 +3,22 @@ slug: collective-prioritization-engines
 hub: agape
 title: Collective Prioritization Engines
 summary: Systems that aggregate community preferences and priorities for funding decisions,
+  enabling participatory resource allocation at scale.
 permalink: https://www.envisioning.com/agape/collective-prioritization-engines
 collection: technology-infrastructure
 trl: 1
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367988/agape/signals/collective-prioritization-engines-google-gemini-3-pro-image-preview-c7pncb.jpg
+updated_at: '2026-10-01T09:28:34.846147+00:00'
+last_reviewed: null
 ---
 
 # Collective Prioritization Engines
 
 ## Summary
 
-Systems that aggregate community preferences and priorities for funding decisions,
+Systems that aggregate community preferences and priorities for funding decisions, enabling participatory resource allocation at scale.
 
 ## Description
 

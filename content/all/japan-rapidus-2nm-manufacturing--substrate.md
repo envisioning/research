@@ -11,6 +11,8 @@ trl: 5
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819089/substrate/technologies/8dd8bb96-5e4c-472a-9826-f68e9eb52a90-google-gemini-3.1-flash-image-preview-zrct9j.png
+updated_at: '2026-09-28T17:16:50.006128+00:00'
+last_reviewed: null
 ---
 
 # Rapidus 2nm Chip Manufacturing
@@ -26,3 +28,9 @@ Rapidus Corporation, founded in 2022 with backing from Toyota, Sony, NTT, NEC, S
 The Rapidus fab, IIM-1 (Innovative Integration for Manufacturing), is under construction in Chitose, Hokkaido. The company is pursuing a gate-all-around (GAA) nanosheet architecture for its 2nm process, using IBM's technology transfer. The target is pilot production by late 2025 and mass production by 2027 — an extremely ambitious timeline that would make Rapidus roughly concurrent with TSMC and Samsung at the 2nm node.
 
 The strategic significance is immense: Japan has not manufactured leading-edge logic chips since the 1990s. Rapidus represents a national project to regain sovereignty over advanced chip production, driven by geopolitical concerns about Taiwan dependence and the AI computing boom. Skeptics question whether Rapidus can close a 20-year gap in manufacturing experience, but the IBM partnership provides process technology, and Japan's existing materials and equipment ecosystem provides the surrounding supply chain. Success would be transformative; failure would be an extremely expensive lesson.
+
+## Sources
+
+- [https://research.ibm.com/blog/rapidus-ibm-move-closer-to-scaling-out-2-nm-chip-production](https://research.ibm.com/blog/rapidus-ibm-move-closer-to-scaling-out-2-nm-chip-production)
+- [https://www.rapidus.inc/en/](https://www.rapidus.inc/en/)
+- [https://www.theregister.com/2026/02/27/rapidus_funding/](https://www.theregister.com/2026/02/27/rapidus_funding/)

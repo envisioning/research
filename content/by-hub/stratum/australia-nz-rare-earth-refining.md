@@ -11,6 +11,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774857838/stratum/technologies/13158ef0-ed5f-4e56-918a-18b1ee5c4910-google-gemini-3.1-flash-image-preview-lsvnxm.jpg
+updated_at: '2026-09-28T17:18:30.428279+00:00'
+last_reviewed: null
 ---
 
 # Non-Chinese Rare Earth Refining
@@ -26,3 +28,9 @@ Australia holds the world's sixth-largest rare earth reserves and is building th
 China controls approximately 60% of rare earth mining and 90% of processing globally. Every electric vehicle motor, wind turbine generator, and military guidance system depends on these materials. Australia's move into downstream processing — not just raw ore export — addresses the most critical vulnerability in Western technology supply chains. The October 2025 US-Australia Critical Minerals Framework formalized bilateral cooperation, with Australia receiving its first EXIM Bank financing for rare earth processing.
 
 The strategic calculus is clear: without non-Chinese rare earth processing, the clean energy transition and Western defense capability remain dependent on a single geopolitical rival. Australia's rare earth ambitions, backed by both Canberra and Washington, represent one of the most consequential resource sovereignty plays of the 2020s. Challenges remain in scaling cleaner processing technologies (improved solvent extraction, closed-loop systems) and managing environmental impacts in biodiverse regions.
+
+## Sources
+
+- [https://www.csis.org/analysis/unpacking-us-australia-critical-minerals-framework-agreement](https://www.csis.org/analysis/unpacking-us-australia-critical-minerals-framework-agreement)
+- [https://theconversation.com/australia-wants-to-be-a-critical-minerals-superpower-but-processing-is-messy-and-dangerous-269799](https://theconversation.com/australia-wants-to-be-a-critical-minerals-superpower-but-processing-is-messy-and-dangerous-269799)
+- [https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/](https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/)

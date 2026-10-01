@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079495/wintermute/technologies/regulatory-sandboxes-for-synthetic-minds-gemini-3-pro-oy96mv.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Regulatory Sandboxes for Synthetic Minds

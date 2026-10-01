@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766332877/formar/technologies/plataformas-controle-desperdicio-canteiros-google-gemini-3-pro-image-preview-9u0ovr.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Plataformas de Controle de Desperdício em Canteiros
@@ -25,3 +27,8 @@ A indústria da construção civil enfrenta um desafio persistente e custoso: o 
 O valor dessas plataformas reside na transformação de um processo tradicionalmente baseado em estimativas e controles manuais em um sistema orientado por dados precisos e atualizados. No contexto brasileiro, onde a construção civil representa uma parcela significativa da economia e onde práticas de gestão de materiais frequentemente carecem de rigor sistemático, essas ferramentas oferecem oportunidades tangíveis de redução de custos. Construtoras que implementam esses sistemas relatam capacidade aprimorada de identificar gargalos logísticos, como materiais que chegam à obra mas não são utilizados devido a problemas de coordenação entre equipes, ou perdas sistemáticas causadas por armazenamento inadequado. A tecnologia também facilita a rastreabilidade de materiais, permitindo que gestores identifiquem quais fornecedores entregam produtos com maiores índices de perda ou quebra. Além dos benefícios econômicos diretos, há implicações ambientais relevantes, uma vez que a redução de desperdício diminui tanto a extração de recursos naturais quanto a geração de resíduos de construção, que representam volume considerável nos aterros urbanos.
 
 A adoção dessas plataformas ainda se encontra em estágios iniciais no mercado brasileiro, concentrada principalmente em construtoras de médio e grande porte que já investem em processos de digitalização mais amplos. Projetos piloto têm demonstrado potencial de redução de desperdício em faixas que variam conforme o tipo de material e a maturidade dos processos existentes na empresa. O interesse crescente em certificações de sustentabilidade e construção verde tem impulsionado a busca por essas soluções, uma vez que métricas precisas de consumo de materiais são frequentemente requisitos para selos ambientais. À medida que os custos de sensores e dispositivos IoT continuam a diminuir e a conectividade em canteiros melhora, espera-se que essas plataformas se tornem mais acessíveis a obras de menor porte. A tendência aponta para integração crescente com outras tecnologias de gestão de obras, como sistemas BIM e plataformas de planejamento, criando ecossistemas digitais que otimizam não apenas o uso de materiais, mas todo o ciclo de vida da construção.
+
+## Sources
+
+- [Canteiro digital: reduza custos e aumente a produtividade](https://sienge.com.br/blog/digitalizacao-no-canteiro-de-obras) (2025)
+- [Como evitar desperdícios na construção civil com o uso inteligente da madeira?](https://www.jampbrasil.com.br/blog/como-evitar-desperdicios-na-construcao-civil-com-o-uso-inteligente-da-madeira) (2025)

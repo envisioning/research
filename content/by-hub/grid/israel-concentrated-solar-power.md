@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774876125/grid/technologies/ef3c65fb-e866-4808-8584-60deb373fa57-google-gemini-3.1-flash-image-preview-ahd6qk.png
+updated_at: '2026-09-28T17:17:36.313198+00:00'
+last_reviewed: null
 ---
 
 # Concentrated Solar Power and Agri-Solar Integration
@@ -26,3 +28,8 @@ Israel has developed innovative solar energy technologies adapted to its unique 
 The dual-use imperative drives innovation that would not emerge in countries with abundant land. Israeli agri-solar designs use elevated panels with optimized spacing that can actually increase yields for heat-sensitive crops by reducing thermal stress, while generating electricity overhead. Floating solar on agricultural reservoirs addresses two problems simultaneously — renewable energy generation and water conservation — in a country where both are precious.
 
 Strategically, Israeli solar innovations are most relevant to arid and semi-arid regions facing the same dual constraints of water scarcity and energy need. The technology packages are designed for export and have been deployed in Africa, Southeast Asia, and the Middle East. As these regions invest heavily in renewable energy and climate adaptation, Israeli solar-water-agriculture integration technology provides a proven, locally adapted template.
+
+## Sources
+
+- [https://itrade.gov.il/usa/israeli-innovation-leading-the-global-solar-energy-revolution/](https://itrade.gov.il/usa/israeli-innovation-leading-the-global-solar-energy-revolution/)
+- [https://www.haaretz.com/haaretz-labels/2025-10-28/ty-article-labels/trailblazers-the-israelis-who-are-changing-the-renewable-energy-map/0000019a-29b5-ddf1-a1db-fdfd82e50000](https://www.haaretz.com/haaretz-labels/2025-10-28/ty-article-labels/trailblazers-the-israelis-who-are-changing-the-renewable-energy-map/0000019a-29b5-ddf1-a1db-fdfd82e50000)

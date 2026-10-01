@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774799986/polis/technologies/0de8c4f7-c245-4f27-a32f-103f7d79e139-google-gemini-3.1-flash-image-preview-2fwtdu.png
+updated_at: '2026-09-28T17:17:04.634265+00:00'
+last_reviewed: null
 ---
 
 # UPI International Expansion
@@ -26,3 +28,9 @@ UPI's international expansion represents India's emergence as an exporter of dig
 The expansion goes beyond just enabling Indian tourists to pay abroad. Some countries are studying UPI's architecture as a model for their own instant payment systems. NPCI has been actively sharing its technical architecture and implementation experience with central banks and payment authorities in Africa, Southeast Asia, and Latin America. India's G20 presidency in 2023 explicitly promoted UPI as a template for global digital public infrastructure.
 
 UPI's international expansion positions India in a geopolitical contest over digital payment standards. China's Alipay and WeChat Pay expanded internationally first, but faced pushback over data sovereignty concerns. India's UPI offers an open-protocol alternative that respects local data residency and regulatory requirements. The vision is a network of interoperable real-time payment systems worldwide — each country runs its own system, but they connect to each other through standardized protocols, much like the internet itself.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Unified_Payments_Interface](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
+- [https://www.livemint.com/industry/banking/upi-smashes-records-in-2025-what-s-next-for-india-s-payment-giant-11767273727763.html](https://www.livemint.com/industry/banking/upi-smashes-records-in-2025-what-s-next-for-india-s-payment-giant-11767273727763.html)
+- [https://bfsi.economictimes.indiatimes.com/articles/upi-sets-record-with-216-billion-transactions-in-december-2025/126284623](https://bfsi.economictimes.indiatimes.com/articles/upi-sets-record-with-216-billion-transactions-in-december-2025/126284623)

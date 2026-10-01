@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814979/forge/technologies/0c86792c-0d41-4069-aa2c-eeedf1ac46fc-google-gemini-3.1-flash-image-preview-5t44zd.jpg
+updated_at: '2026-09-28T17:16:37.618804+00:00'
+last_reviewed: null
 ---
 
 # Consumer Electronics Contract Manufacturing
@@ -25,3 +27,8 @@ Vietnam — Vietnam has become the world's second-largest smartphone exporter af
 The manufacturing depth is increasing: initial moves were final assembly only, but Vietnam is now attracting component manufacturers, PCB producers, and lens grinders. Foxconn, Luxshare, and other major ODMs have built significant Vietnamese operations. The National Semiconductor Strategy links electronics manufacturing to the semiconductor push — creating demand pull for domestic chip packaging.
 
 The transition from 'assembler' to 'manufacturer' is Vietnam's core industrial challenge. Current value capture is estimated at 5-10% of final product value. Moving upstream into display production, battery manufacturing, and IC design would dramatically increase domestic value-add but requires technology transfer, capital investment, and workforce upskilling that takes years to develop.
+
+## Sources
+
+- [https://www.mordorintelligence.com/industry-reports/vietnam-semiconductor-market](https://www.mordorintelligence.com/industry-reports/vietnam-semiconductor-market)
+- [https://www.microchipusa.com/industry-news/vietnam-becomes-a-key-player-in-chip-manufacturing](https://www.microchipusa.com/industry-news/vietnam-becomes-a-key-player-in-chip-manufacturing)

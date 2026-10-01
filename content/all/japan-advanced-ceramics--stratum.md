@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819478/stratum/technologies/d7eaac21-5271-4764-846c-6fb5a1f045e2-google-gemini-3.1-flash-image-preview-phgk8d.jpg
+updated_at: '2026-09-28T17:17:25.960321+00:00'
+last_reviewed: null
 ---
 
 # Advanced Technical Ceramics
@@ -25,3 +27,8 @@ Japan's advanced ceramics industry is globally dominant, with Kyocera, NGK Insul
 Advanced ceramics serve as critical enabling materials across multiple high-tech sectors. Kyocera's ceramic packages house semiconductor chips, NGK's ceramic substrates are essential for catalytic converters and particulate filters in vehicles, and Murata's piezoelectric ceramics enable ultrasonic sensors, actuators, and energy harvesting devices. The materials science knowledge required — precise control of sintering temperatures, grain boundaries, and dopant concentrations — represents decades of accumulated expertise.
 
 Japan's ceramics dominance is strategically significant because these components are invisible to end users but irreplaceable in manufacturing. The automotive industry's electrification is actually increasing demand for Japanese ceramics — EVs require more MLCCs than ICE vehicles, and power electronics need high-temperature ceramic substrates. This quiet but critical position mirrors Japan's broader pattern of substrate-level dominance.
+
+## Sources
+
+- [https://www.trade.gov/country-commercial-guides/japan-semiconductors](https://www.trade.gov/country-commercial-guides/japan-semiconductors)
+- [https://amro-asia.org/wp-content/uploads/2025/03/SI5.-Japans-Strategic-Comeback-in-the-Global-Chip-Race.pdf](https://amro-asia.org/wp-content/uploads/2025/03/SI5.-Japans-Strategic-Comeback-in-the-Global-Chip-Race.pdf)

@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774854151/grid/technologies/f0161619-5331-4976-afd8-2799f7af69c0-google-gemini-3.1-flash-image-preview-t90922.jpg
+updated_at: '2026-09-28T17:16:38.913851+00:00'
+last_reviewed: null
 ---
 
 # ITER Tokamak Fusion Reactor
@@ -25,3 +27,8 @@ ITER (International Thermonuclear Experimental Reactor) is being built in Cadara
 The project has experienced significant delays and cost overruns (current estimates exceed €20B), but a 2026 progress report confirmed continued advancement toward first plasma. The ITER Council endorsed the revised timeline, and machine assembly is ongoing. The feasibility of the next step — the DEMO demonstration reactor — depends on ITER's results.
 
 Regardless of timeline criticisms, ITER represents the most advanced fusion engineering project ever attempted. The technologies developed for ITER — superconducting magnets, plasma heating systems, tritium handling, materials science — are being commercialized by private fusion startups worldwide. Europe hosts ITER and maintains the deepest institutional knowledge of tokamak engineering.
+
+## Sources
+
+- [https://www.iter.org/whatsnew](https://www.iter.org/whatsnew)
+- [https://home.cern/science/accelerators/future-circular-collider](https://home.cern/science/accelerators/future-circular-collider)

@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126467/synapse/technologies/quantum-workforce-optimizers-google-gemini-3-pro-image-preview-6z0hi4.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Quantum Workforce Optimizers

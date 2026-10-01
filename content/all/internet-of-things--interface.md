@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887434/interface/technologies/5d1707b6-9027-43f2-b219-3d0627b01338-google-gemini-3.1-flash-image-preview-37nevr.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Internet of Things

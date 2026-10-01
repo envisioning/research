@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814465/grid/technologies/b6134f2d-b943-482a-bc4e-041e4f39c0fd-google-gemini-3.1-flash-image-preview-ikmxti.jpg
+updated_at: '2026-09-28T17:16:29.779045+00:00'
+last_reviewed: null
 ---
 
 # GCC Carbon Capture & Storage
@@ -26,3 +28,8 @@ ADNOC (Abu Dhabi National Oil Company) operates one of the largest commercial ca
 For Gulf oil producers, CCS is a technology of existential importance: it enables continued hydrocarbon production while addressing emissions, producing 'blue' hydrogen (from natural gas with captured CO2), and potentially earning carbon credits. Saudi Aramco and QatarEnergy are also investing in CCS demonstration projects.
 
 The Gulf's geology is favorable for CO2 storage — depleted oil and gas reservoirs provide well-characterized underground storage sites. CCS expertise developed in the Gulf becomes exportable as carbon pricing mechanisms spread globally and heavy industry worldwide seeks decarbonization solutions that don't require immediate fuel switching.
+
+## Sources
+
+- [https://sustaingulf.org/renewable-energy-in-the-gcc/](https://sustaingulf.org/renewable-energy-in-the-gcc/)
+- [https://orfme.org/research/energy-transitions-in-the-gulf-realities-risks-and-the-road-ahead/](https://orfme.org/research/energy-transitions-in-the-gulf-realities-risks-and-the-road-ahead/)

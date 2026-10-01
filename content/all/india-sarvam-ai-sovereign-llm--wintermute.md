@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809251/wintermute/technologies/9d9a8a27-737d-425a-9591-03901aa2ce61-google-gemini-3.1-flash-image-preview-5nabsf.jpg
+updated_at: '2026-09-28T17:17:13.139859+00:00'
+last_reviewed: null
 ---
 
 # Sarvam AI Sovereign Language Models
@@ -26,3 +28,9 @@ Sarvam AI, a Bengaluru-based startup, was selected in April 2025 by the Indian g
 Backed by Lightspeed Venture Partners, Peak XV Partners, and Khosla Ventures with $53 million in Series A funding, Sarvam is positioning itself as India's AI infrastructure layer. The company's approach is full-stack: from training data collection in Indian languages, through model development, to application-layer products. This mirrors India Stack's philosophy — build the infrastructure layer and let others build applications on top.
 
 The 'sovereign LLM' concept is significant: India doesn't want its AI capabilities to depend entirely on US-based foundation models. A domestically developed, multilingual AI stack would give India control over a critical technology layer, reduce latency for Indian-language applications, and ensure that AI development reflects Indian cultural and linguistic contexts. Sarvam's selection by the government signals India's intention to develop AI infrastructure as a national capability, not just a private sector initiative.
+
+## Sources
+
+- [https://inc42.com/startups/indian-ai-startup-tracker/](https://inc42.com/startups/indian-ai-startup-tracker/)
+- [https://www.discussions.digital/technology/indias-ai-boom-5-startups-building-the-countrys-future-technology-leaders/](https://www.discussions.digital/technology/indias-ai-boom-5-startups-building-the-countrys-future-technology-leaders/)
+- [https://aifundingtracker.com/top-ai-startups-india/](https://aifundingtracker.com/top-ai-startups-india/)

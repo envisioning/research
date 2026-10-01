@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808213/helix/technologies/50a753d5-b039-44b2-93b2-31a28cdd3a6a-google-gemini-3.1-flash-image-preview-yuxjvx.jpg
+updated_at: '2026-09-28T17:17:11.372472+00:00'
+last_reviewed: null
 ---
 
 # Generic Pharmaceutical Manufacturing
@@ -26,3 +28,9 @@ India's generic pharmaceutical industry is one of its most consequential technol
 The industry's origins trace to India's 1970 Patent Act, which recognized process patents but not product patents for pharmaceuticals. This allowed Indian companies to reverse-engineer patented drugs and manufacture them using different chemical processes. The resulting decades of experience in cost-optimized pharmaceutical manufacturing created capabilities that persist even after India adopted product patents in 2005 under WTO rules.
 
 India's generic pharma dominance has enormous humanitarian implications. During the HIV/AIDS crisis, Indian generics brought the cost of antiretroviral therapy from $10,000/year to under $100/year, saving millions of lives in Africa and Asia. During COVID-19, India was the world's primary supplier of paracetamol and hydroxychloroquine. The industry's combination of regulatory expertise, manufacturing scale, and cost engineering makes India indispensable to global public health.
+
+## Sources
+
+- [https://www.ibef.org/industry/pharmaceutical-india](https://www.ibef.org/industry/pharmaceutical-india)
+- [https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_India](https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_India)
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC9865573/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9865573/)

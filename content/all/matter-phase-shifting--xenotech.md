@@ -9,6 +9,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898702/xenotech/technologies/matter-phase-shifting-openrouter-google-gemini-3.1-flash-image-preview-z9c4dc.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Matter Phase Shifting
@@ -44,3 +46,7 @@ Current research explores: electromagnetic manipulation of material properties; 
 Practical applications would include: seamless transportation through solid barriers; advanced manufacturing processes; and fundamental physics research into matter-energy interactions.
 
 If achievable, matter phase shifting would revolutionize transportation and manufacturing by eliminating physical barriers. However, fundamental physics constraints and extreme technical requirements make practical implementation highly speculative.
+
+## Sources
+
+- [Laser Driven Bulk-to-Layered Phase Transition](https://arxiv.org/abs/2508.04544) (2025)

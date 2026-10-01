@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766783975/moradia/technologies/sistemas-habitacao-assistiva-longevidade-silver-economy-google-gemini-3-pro-image-preview-0094j5.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Sistemas de Habitação Assistiva e Longevidade (Silver Economy)
@@ -25,3 +27,11 @@ Sistemas de habitação assistiva e longevidade (Silver Economy) representam a t
 No Brasil, o envelhecimento populacional acelerado e a regulamentação (NBR 9050, Estatuto do Idoso) criam demanda crescente por habitação assistiva. A tecnologia está sendo adotada em condomínios e edifícios que buscam atender legislação e melhorar qualidade de vida para idosos, especialmente relevante dado o rápido envelhecimento da população e a necessidade de manter idosos em suas casas ao invés de instituições. O mercado de Silver Economy é maior que o de casas inteligentes genéricas porque responde a necessidades específicas e urgentes de uma população crescente.
 
 O sinal de mudança é estrutural: no futuro, habitação assistiva não é apenas sobre adaptações pontuais, mas sobre sistemas integrados que combinam tecnologias de monitoramento, automação adaptativa e adaptações físicas. Isso move de 'casas inteligentes genéricas' para 'sistemas especializados para longevidade', criando novos modelos de habitação que antecipam necessidades de envelhecimento e oferecem suporte contínuo, especialmente relevante onde envelhecimento populacional é acelerado e manter idosos em suas casas é prioridade social e econômica.
+
+## Sources
+
+- [Como automatizar a rotina de idosos de forma segura, simples e eficiente em 2026](https://casatechsmart.com/como-automatizar-a-rotina-de-idosos-de-forma-segura-simples-e-eficiente-em-2026) (2026)
+- [Idosos Independentes: Tecnologias Discretas que Previnem Quedas Dentro de Casa](https://www.brazilhealth.com/br/geriatria/idosos-independentes-tecnologias-discretas-que-previnem-quedas-dentro-de-casa) (2026)
+- [Automação e sistemas prediais no contexto do “aging in place”](https://www.revistaprediointeligente.com.br/mercado/automacao-e-sistemas-prediais-no-contexto-do-aging-in-place) (2025)
+- [Uma casa inteligente segura para o idoso: sistema utiliza sensores e inteligência artificial para avisar o cuidador em caso de emergência](https://expresso.pt/iniciativaseprodutos/mais-europa/2025-04-09-uma-casa-inteligente-segura-para-o-idoso-sistema-utiliza-sensores-e-inteligencia-artificial-para-avisar-o-cuidador-em-caso-de-emergencia-37123b89) (2025)
+- [Uso de tecnologias de automação residencial em empreendimentos aging-in-place](https://www.revistaprediointeligente.com.br/automacao/uso-de-tecnologias-de-automacao-residencial-em-empreendimentos-aging-in-place) (2025)

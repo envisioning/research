@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814874/grid/technologies/fa8b0058-8d74-4743-a1f5-5c3652b1eb1a-google-gemini-3.1-flash-image-preview-pcxntf.jpg
+updated_at: '2026-09-28T17:16:36.560974+00:00'
+last_reviewed: null
 ---
 
 # ADNOC Blue Hydrogen Production
@@ -26,3 +28,8 @@ ADNOC (Abu Dhabi National Oil Company) is developing blue hydrogen production â€
 Blue hydrogen is controversial in climate circles (some argue it extends fossil fuel dependency), but it serves a pragmatic role: it can be produced at scale today using existing infrastructure while green hydrogen capacity ramps up. For the Gulf, blue hydrogen leverages enormous natural gas reserves and existing petrochemical expertise.
 
 The dual green/blue hydrogen strategy gives the UAE flexibility: it can serve customers who prioritize immediate emissions reduction (blue hydrogen is cleaner than unabated gas) while building green hydrogen capacity for customers who require zero-carbon fuels. This portfolio approach to hydrogen production mirrors the broader Gulf energy transition strategy of maintaining hydrocarbon expertise while building renewable capabilities.
+
+## Sources
+
+- [https://orfme.org/research/energy-transitions-in-the-gulf-realities-risks-and-the-road-ahead/](https://orfme.org/research/energy-transitions-in-the-gulf-realities-risks-and-the-road-ahead/)
+- [https://gh2.org/countries/united-arab-emirates](https://gh2.org/countries/united-arab-emirates)

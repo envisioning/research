@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584873/habitacao/technologies/conflitos-fundiarios-mediacao-comunitaria-google-gemini-3-pro-image-preview-b8ck07.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Conflitos Fundiários e Mediação Comunitária
@@ -25,3 +27,7 @@ Conflitos fundiários e mediação comunitária referem-se a disputas de terra, 
 No Brasil, especialmente em assentamentos informais e áreas de posse, conflitos fundiários são comuns e frequentemente resolvidos através de mediação comunitária, acordos informais e instrumentos alternativos de justiça. A tecnologia está sendo utilizada como processo de resolução de conflitos, especialmente relevante onde sistema judicial formal é lento ou inacessível.
 
 O sinal de mudança é reconhecer que a resolução de conflitos fundiários no Brasil não é apenas 'sistema judicial formal', mas inclui massivamente processos comunitários, mediação e instrumentos alternativos que oferecem resolução mais rápida, acessível e culturalmente adequada. Isso afeta como se pensa justiça (sistema formal vs. alternativo), regularização (processos administrativos vs. mediação) e políticas habitacionais (litígio vs. acordo), especialmente relevante onde mediação comunitária oferece resolução que reconhece relações comunitárias e contextos locais.
+
+## Sources
+
+- [Terra, dignidade e justiça: conciliação histórica transforma vidas em Brasilândia de Minas](https://portal.trf6.jus.br/terra-dignidade-e-justica-conciliacao-historica-transforma-vidas-em-brasilandia-de-minas) (2025)

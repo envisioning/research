@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181257/superposition/technologies/quantum-machine-learning-libraries-gemini-3-pro-fdnp7u.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Quantum Machine Learning Libraries

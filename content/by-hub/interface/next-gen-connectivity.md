@@ -10,6 +10,8 @@ trl: 2
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743454/interface/technologies/next-gen-connectivity-google-gemini-3-pro-image-preview-r4gkum.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Next-Gen Connectivity
@@ -25,3 +27,12 @@ The evolution of wireless communication networks has consistently pushed the bou
 The wireless industry faces mounting pressure to support exponentially growing data demands while simultaneously reducing latency and energy consumption. Current 5G networks, while transformative, are approaching their theoretical limits in dense urban environments where spectrum congestion and physical obstacles create coverage gaps and capacity bottlenecks. Next-generation connectivity addresses these challenges through a multi-pronged approach. Terahertz communications promise data rates measured in terabits per second, potentially eliminating bandwidth constraints for emerging applications. The 6G-ready substrates solve the critical problem of signal degradation at high frequencies, enabling practical deployment of THz systems beyond laboratory settings. Meanwhile, RIS technology offers a cost-effective solution to coverage optimization by allowing network operators to dynamically shape radio wave propagation without deploying additional power-hungry base stations. This capability is particularly valuable in complex indoor environments and urban canyons where traditional signal propagation faces significant obstacles.
 
 Research institutions and telecommunications companies are actively exploring these technologies through pilot programs and experimental deployments, though widespread commercial availability remains several years away. Early applications are likely to emerge in specialized contexts such as wireless data center interconnects, where the combination of high bandwidth and short-range communication aligns well with current THz capabilities. Industry analysts note that consumer-facing applications will follow as the technology matures, potentially enabling seamless extended reality experiences, instantaneous cloud-based AI processing, and truly autonomous vehicle coordination systems that require ultra-reliable low-latency communication. The development trajectory suggests that these technologies will not simply replace existing infrastructure but rather create a heterogeneous network ecosystem where different frequency bands and techniques are deployed strategically based on specific use cases and environmental conditions. As urban environments become increasingly dense with connected devices and data-intensive applications, next-generation connectivity technologies represent essential building blocks for the ambient, intelligent interfaces that will characterize future human-technology interaction.
+
+## Sources
+
+- [Improving QoS for streaming data transmission over 6G networks using reconfigurable intelligent surfaces (RIS)](https://nature.com/articles/s41598-025-31131-w) (2026)
+- [Multiband wireless systems based on microwave integrated photonics with metasurfaces](http://www.nature.com/articles/s41566-026-01863-w) (2026)
+- [A comprehensive comparison between Terahertz and optical wireless communications](http://nature.com/articles/s44459-025-00002-1) (2025)
+- [Exploring Terahertz (THz) Communication in 6G Wireless Networks](https://www.allmultidisciplinaryjournal.com/uploads/archives/20251128170639_MGE-SI-2025-30.1.pdf) (2025)
+- [Intelligent Reflecting Surfaces for THz Communications: Fundamentals, Key Solutions, and System Prototyping](https://arxiv.org/abs/2506.17200) (2025)
+- [Monolithic lithium niobate photonic chip for efficient terahertz-optic modulation and terahertz generation](https://www.nature.com/articles/s41467-025-65293-y) (2025)

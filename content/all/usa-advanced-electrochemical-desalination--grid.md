@@ -12,6 +12,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861908/grid/technologies/df1b178d-a2bd-4c15-a295-f958315ae9a1-google-gemini-3.1-flash-image-preview-n97t9z.jpg
+updated_at: '2026-09-28T17:17:51.308047+00:00'
+last_reviewed: null
 ---
 
 # Low-Energy Electrochemical Desalination
@@ -27,3 +29,8 @@ Electrochemical desalination technologies — including advanced electrodialysis
 The energy advantage is critical because desalination's primary cost is electricity for pressurizing water to 60-80 bar through RO membranes. Electrochemical methods operate at ambient pressure, use less energy for brackish water (which is far more abundant than seawater near population centers), and can be powered directly by intermittent solar energy without batteries — the system simply processes more water when the sun shines. The NSF Convergence Accelerator's Track K (Equitable Water Solutions) has funded multiple teams working on electrochemical water treatment.
 
 Water scarcity affects 2 billion people globally and is becoming a US domestic crisis — the Colorado River basin, California's Central Valley, and the Ogallala Aquifer all face depletion. Low-energy desalination of brackish groundwater (which underlies much of the western US) could provide a sustainable water source where surface water is disappearing. The technology is also relevant for treating produced water from oil and gas operations, lithium brine processing, and industrial wastewater recycling — creating multiple market entry points beyond municipal desalination.
+
+## Sources
+
+- [https://www.wbur.org/hereandnow/2025/04/23/desalination-clean-water](https://www.wbur.org/hereandnow/2025/04/23/desalination-clean-water)
+- [https://link.springer.com/article/10.1007/s43832-025-00222-0](https://link.springer.com/article/10.1007/s43832-025-00222-0)

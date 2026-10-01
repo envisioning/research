@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870968/meridian/technologies/675a04a6-3aa7-460a-aef0-a99d892ce1df-google-gemini-3.1-flash-image-preview-3zp8fg.jpg
+updated_at: '2026-09-28T17:18:39.570525+00:00'
+last_reviewed: null
 ---
 
 # Environmental DNA (eDNA) Monitoring
@@ -26,3 +28,7 @@ Environmental DNA (eDNA) monitoring involves collecting water or soil samples an
 eDNA matters because traditional biodiversity monitoring is expensive, slow, and disruptive. Sending teams of biologists to remote locations to survey wildlife is impractical at the scale of Canada's vast wilderness. eDNA enables rapid, non-invasive species detection from a simple water sample, making comprehensive biodiversity monitoring feasible for the first time. This is particularly valuable for monitoring the rapid ecological changes occurring in the Arctic.
 
 The strategic significance is that biodiversity monitoring is becoming a regulatory and economic requirement. Environmental impact assessments for mining, energy, and infrastructure projects require species surveys, and eDNA can dramatically reduce the cost and time of these assessments. For Canada's critical minerals and energy sectors, faster and more accurate environmental assessment could significantly reduce permitting timelines — one of the key bottlenecks in resource development.
+
+## Sources
+
+- [https://genomecanada.ca/canadian-genomics-strategy-biotech-investment-tackles-urgent-health-and-industry-challenges/](https://genomecanada.ca/canadian-genomics-strategy-biotech-investment-tackles-urgent-health-and-industry-challenges/)

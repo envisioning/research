@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807534/wintermute/technologies/35c76d8c-ab48-42e8-8a96-51ff186a6456-google-gemini-3.1-flash-image-preview-peyj2v.png
+updated_at: '2026-09-28T17:17:13.950688+00:00'
+last_reviewed: null
 ---
 
 # Multilingual AI for 22 Official Languages
@@ -26,3 +28,9 @@ India faces an AI challenge no other country does: building language models that
 The Indian government's Bhashini platform operationalizes this research at scale. Bhashini provides real-time translation and speech recognition across Indian languages as a public API — enabling any app to offer multilingual support. When a farmer in Tamil Nadu calls a government helpline, Bhashini can translate between Tamil and Hindi in real-time. When a court document in Bengali needs to be understood by a lawyer in Gujarat, Bhashini enables it. This is the linguistic layer of India Stack: just as UPI made payments language-agnostic, Bhashini aims to make digital services language-agnostic.
 
 The implications are global. India's multilingual AI research is producing techniques — cross-lingual transfer learning, script-agnostic models, low-resource language training — that are directly applicable to the ~7,000 languages spoken worldwide. Africa has a similar challenge (2,000+ languages); so does Southeast Asia. India is building the playbook for inclusive AI that doesn't assume English as default. Companies like Sarvam AI and Krutrim are commercializing this research, but the foundational open-source work from AI4Bharat ensures it remains a public good.
+
+## Sources
+
+- [https://ai4bharat.iitm.ac.in/](https://ai4bharat.iitm.ac.in/)
+- [https://analyticsindiamag.com/ai-news-updates/ai4bharat-launches-indictrans3-for-22-indic-languages/](https://analyticsindiamag.com/ai-news-updates/ai4bharat-launches-indictrans3-for-22-indic-languages/)
+- [https://www.forbesindia.com/article/ai-special-2025/mitesh-khapras-ai4bharat-is-closing-the-ai-gap-between-english-and-indian-languages/96185/1](https://www.forbesindia.com/article/ai-special-2025/mitesh-khapras-ai4bharat-is-closing-the-ai-gap-between-english-and-indian-languages/96185/1)

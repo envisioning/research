@@ -11,6 +11,8 @@ trl: 4
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817712/meridian/technologies/e4c8866e-7e98-4e1a-8a09-cc7ce18a04c1-google-gemini-3.1-flash-image-preview-5nq2ve.png
+updated_at: '2026-09-28T17:17:37.190478+00:00'
+last_reviewed: null
 ---
 
 # KSTAR Fusion Reactor
@@ -26,3 +28,9 @@ The Korea Superconducting Tokamak Advanced Research (KSTAR) facility, operated b
 KSTAR's record matters because sustained high-temperature plasma confinement is the central unsolved problem of fusion energy. While other tokamaks (China's EAST, Europe's JET) have achieved higher temperatures or longer durations separately, KSTAR's combination of extreme temperature and duration in a fully superconducting device makes it directly relevant to ITER, the $25B international fusion reactor under construction in France. Korean scientists contribute critical plasma control algorithms and wall materials technology to ITER.
 
 KFE's next target is 300 seconds at 100 million degrees by 2026, which would demonstrate the plasma stability needed for a commercial fusion pilot plant. Korea's fusion program operates on a fraction of the budget of US or European efforts but consistently delivers record-breaking results, reflecting the same 'execute faster, cheaper' ethos that drives Korean manufacturing. The 2024 upgrade installed tungsten divertors replacing carbon ones, enabling longer plasma operations without contamination.
+
+## Sources
+
+- [https://www.eurekalert.org/news-releases/1039244](https://www.eurekalert.org/news-releases/1039244)
+- [https://www.sciencealert.com/korean-fusion-reactor-sets-new-record-for-sustaining-100-million-degree-plasma](https://www.sciencealert.com/korean-fusion-reactor-sets-new-record-for-sustaining-100-million-degree-plasma)
+- [https://www.cnn.com/2024/04/01/climate/nuclear-fusion-record-korea-climate-intl](https://www.cnn.com/2024/04/01/climate/nuclear-fusion-record-korea-climate-intl)

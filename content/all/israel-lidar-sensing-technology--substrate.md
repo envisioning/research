@@ -11,6 +11,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875593/substrate/technologies/970cd966-8732-4f35-9b3d-bbe64136c77a-google-gemini-3.1-flash-image-preview-yielly.jpg
+updated_at: '2026-09-28T17:16:37.367191+00:00'
+last_reviewed: null
 ---
 
 # Solid-State Lidar for Autonomous Systems
@@ -26,3 +28,7 @@ Innoviz Technologies has developed high-performance solid-state lidar sensors th
 Israel's lidar ecosystem includes Innoviz, Opsys Tech (flash lidar), and earlier players like LeddarTech — benefiting from the country's expertise in optics, photonics, and semiconductor design. The military origins of Israeli electro-optical systems (targeting pods, missile seekers, reconnaissance cameras) provide a deep foundation of photonics engineering that translates directly to civilian lidar applications.
 
 Strategically, lidar is a key enabling sensor for autonomous vehicles, advanced driver assistance, smart infrastructure, and drone navigation. The global lidar market is projected to exceed $6 billion by 2028. Israeli companies are positioned as critical Tier 1 suppliers to automotive OEMs, with design wins from BMW, Volkswagen, and others providing long-term revenue visibility and validating Israel's photonics engineering capabilities.
+
+## Sources
+
+- [https://eu.36kr.com/en/p/3485689342483334](https://eu.36kr.com/en/p/3485689342483334)

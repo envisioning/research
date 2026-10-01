@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861114/grid/technologies/9030d22b-131a-4ae1-a829-372657c31be8-google-gemini-3.1-flash-image-preview-rvj863.jpg
+updated_at: '2026-09-28T17:16:59.228649+00:00'
+last_reviewed: null
 ---
 
 # Long-Duration Energy Storage
@@ -26,3 +28,8 @@ Long-duration energy storage (LDES) refers to technologies capable of storing en
 LDES is the missing piece for a fully renewable grid. Lithium-ion batteries handle daily cycling (4-8 hours) but are uneconomic for multi-day storage needed during extended weather events — a week of low wind and cloudy skies can drain any battery system. LDES technologies use abundant, cheap materials (iron, air, water) rather than scarce lithium and cobalt.
 
 The DOE's Long Duration Storage Shot initiative targets 90% cost reduction by 2030. Hyperscalers are also investing in LDES to ensure 24/7 clean energy for data centers. The technology is critical for grid stability as renewable penetration increases beyond 50-60%, making it a strategic priority for both climate and energy security.
+
+## Sources
+
+- [https://www.carbon-direct.com/insights/ai-scale-and-climate-commitments-a-2026-outlook](https://www.carbon-direct.com/insights/ai-scale-and-climate-commitments-a-2026-outlook)
+- [https://fervoenergy.com/2025-year-in-review-driving-forward-the-future-of-clean-firm-power/](https://fervoenergy.com/2025-year-in-review-driving-forward-the-future-of-clean-firm-power/)

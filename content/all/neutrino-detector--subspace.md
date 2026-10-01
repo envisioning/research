@@ -10,6 +10,8 @@ trl: 8
 impact: 1
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908567/subspace/technologies/neutrino-detector-openrouter-google-gemini-3.1-flash-image-preview-lpmogo.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Neutrino Detector

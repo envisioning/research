@@ -10,6 +10,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818856/substrate/technologies/6881b17e-dcdb-4036-aeca-032f19f2f4ee-google-gemini-3.1-flash-image-preview-7iuesw.jpg
+updated_at: '2026-09-28T17:17:27.04529+00:00'
+last_reviewed: null
 ---
 
 # Quantum Communication and Key Distribution
@@ -25,3 +27,8 @@ Japan's National Institute of Information and Communications Technology (NICT) o
 Quantum communication addresses a future threat: quantum computers capable of breaking current RSA and ECC encryption. Japan's approach focuses on practical deployment of QKD infrastructure for critical sectors — banking, government, defense — before quantum computers become powerful enough to compromise conventional encryption. NTT's IOWN (Innovative Optical and Wireless Network) initiative integrates quantum-safe cryptography into next-generation telecommunications infrastructure.
 
 While China leads in quantum communication satellite technology (Micius satellite), Japan's fiber-based QKD approach is more immediately practical for domestic networks. The integration of quantum key distribution with conventional telecom infrastructure — rather than requiring dedicated quantum networks — is a pragmatic strategy suited to Japan's dense, fiber-rich telecommunications environment.
+
+## Sources
+
+- [https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025](https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025)
+- [https://www.riken.jp/en/news_pubs/news/2025/20250422_1/index.html](https://www.riken.jp/en/news_pubs/news/2025/20250422_1/index.html)

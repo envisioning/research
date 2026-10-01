@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898001/xenotech/technologies/dimensional-bubble-chambers-openrouter-google-gemini-3.1-flash-image-preview-p1j8iu.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Dimensional Chambers
@@ -83,3 +85,9 @@ While lacking empirical evidence, dimensional bubble chambers represent a cohere
 ## Significance
 
 Dimensional Bubble Chambers represent a training and acclimation interface blending holography, psychic projection, and reality overlay. As systems designed to create consciousness-coherent environmental experiences, they exemplify the consciousness-environment integration frontier of xenotechnology, suggesting evolution beyond conventional environmental technology toward consciousness-based environmental generation and reality manipulation applications.
+
+## Sources
+
+- [Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](https://arxiv.org/html/2510.23840v1) (2025)
+- [Resonant Field Persistence and Harmonic Mirror Modeling in Nonlinear Fluid Systems: A Unified Framework for Consciousness-Electromagnetic Field Interactions](https://img1.wsimg.com/blobby/go/954c7f01-9f68-49a8-a254-72b0d961955f/downloads/9603b4db-4e03-43b3-9132-6dcb4668b134/resonant_field_paperV2expanded.pdf?ver=1750100937451) (2025)
+- [The Signal Chamber: How VR + AI Reduces Noise and Supports Recursive Cognition](https://luminapress.ca/the-signal-chamber-how-vr-ai-reduces-noise-and-supports-recursive-cognition) (2025)

@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816081/substrate/technologies/c93b4416-dc1c-4f74-8d92-138f29a0b5a2-google-gemini-3.1-flash-image-preview-7gvg6p.jpg
+updated_at: '2026-09-28T17:17:43.197062+00:00'
+last_reviewed: null
 ---
 
 # Advanced Chip Packaging & Testing
@@ -25,3 +27,9 @@ Vietnam — Advanced semiconductor packaging, assembly, and testing (ATP) has be
 The strategic context shifted dramatically in early 2026 when the US removed Cold War-era technology restrictions on Vietnam, clearing the path for the country to move beyond back-end assembly into wafer fabrication and IC design. This repositions Vietnam from a cost-competitive alternative to China into a genuine semiconductor manufacturing partner for the US ecosystem.
 
 The implications are global: as companies accelerate China-plus-one strategies, Vietnam's combination of young engineering talent (500,000+ STEM graduates annually), competitive labor costs, and newly unlocked technology access creates a semiconductor corridor that could rival Malaysia's Penang within a decade. The risk is execution — building fab-grade infrastructure and retaining talent against regional competition.
+
+## Sources
+
+- [https://restofworld.org/2026/vietnam-us-chip-industry-china/](https://restofworld.org/2026/vietnam-us-chip-industry-china/)
+- [https://theinvestor.vn/intel-urged-to-expand-chip-packaging-testing-operations-in-vietnam-d17920.html](https://theinvestor.vn/intel-urged-to-expand-chip-packaging-testing-operations-in-vietnam-d17920.html)
+- [https://www.semi.org/sea/blogs/September-2025](https://www.semi.org/sea/blogs/September-2025)

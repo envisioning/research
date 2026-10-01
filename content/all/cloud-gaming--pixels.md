@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897794/pixels/technologies/9b6d0184-b342-4f97-b45e-cd87120241de-google-gemini-3.1-flash-image-preview-sfn9w3.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cloud Gaming

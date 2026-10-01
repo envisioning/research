@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852989/apogee/technologies/48c0bcfe-52fb-413e-ba0b-42d21a94c03a-google-gemini-3.1-flash-image-preview-9s5oy0.jpg
+updated_at: '2026-09-28T17:17:03.017338+00:00'
+last_reviewed: null
 ---
 
 # Multi-Orbit Satellite Connectivity
@@ -25,3 +27,7 @@ Eutelsat Group became the world's first fully integrated multi-orbit satellite o
 The combination enables seamless connectivity across land, sea, and air: GEO satellites deliver 6,500 TV channels to over 1 billion viewers, while the LEO constellation provides high-speed, low-latency internet to areas without terrestrial infrastructure. As a founding member of the SpaceRISE consortium, Eutelsat is also building sovereign secure communications for EU governments.
 
 The strategic significance is European alternatives to Starlink. While SpaceX's Starlink dominates commercial LEO broadband, European governments, militaries, and critical infrastructure operators require connectivity that is not controlled by a US company. Eutelsat/OneWeb provides this sovereign option, complemented by the IRIS² EU sovereign connectivity constellation under development.
+
+## Sources
+
+- [https://www.eutelsat.com/about-eutelsat](https://www.eutelsat.com/about-eutelsat)

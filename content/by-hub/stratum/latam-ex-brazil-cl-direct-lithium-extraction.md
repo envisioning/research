@@ -11,6 +11,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813175/stratum/technologies/9b500e6b-415f-48b8-a2de-b0c1682c845e-google-gemini-3.1-flash-image-preview-vdeb5x.png
+updated_at: '2026-09-28T17:17:34.090028+00:00'
+last_reviewed: null
 ---
 
 # Direct Lithium Extraction from Brine
@@ -26,3 +28,9 @@ Chile's Salar de Atacama contains the world's largest lithium brine deposits —
 Albemarle and SQM, the two companies with extraction rights in the Atacama, are deploying DLE pilot systems as Chile's government mandates the transition away from evaporation ponds. The technology variations include lithium-selective adsorbent beads, membrane-based separation, and electrochemical extraction. CORFO (Chile's economic development agency) has structured new concession terms requiring DLE adoption, with the state taking a larger equity stake in exchange for extended operating rights.
 
 The global stakes are enormous. If DLE works at industrial scale in the Atacama — the world's most commercially important lithium source — it becomes the standard technology for lithium production worldwide. Chile's ability to produce more lithium with less water and smaller environmental footprint would reinforce its market dominance while addressing the environmental criticism that has threatened the industry's social license to operate.
+
+## Sources
+
+- [https://news.mongabay.com/2025/09/lithium-mining-leaves-severe-impacts-in-chile-but-new-methods-exist-report/](https://news.mongabay.com/2025/09/lithium-mining-leaves-severe-impacts-in-chile-but-new-methods-exist-report/)
+- [https://pubs.acs.org/doi/10.1021/cen-10101-buscon3](https://pubs.acs.org/doi/10.1021/cen-10101-buscon3)
+- [https://www.globalxetfs.com/articles/theme-lab-tracking-lithiums-journey-in-chiles-salar-de-atacama](https://www.globalxetfs.com/articles/theme-lab-tracking-lithiums-journey-in-chiles-salar-de-atacama)

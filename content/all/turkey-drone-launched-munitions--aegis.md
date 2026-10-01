@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855645/aegis/technologies/77e79f58-a976-412b-b23b-bca755e1dfa7-google-gemini-3.1-flash-image-preview-ths040.png
+updated_at: '2026-09-28T17:16:58.621355+00:00'
+last_reviewed: null
 ---
 
 # Drone-Optimized Loitering Munitions
@@ -26,3 +28,7 @@ Turkey has developed multiple families of loitering munitions — sometimes call
 Loitering munitions fill the gap between precision-guided munitions (expensive, one-shot) and surveillance drones (persistent but unarmed). Turkey's variants range from squad-portable systems weighing a few kilograms to larger vehicle-launched versions with extended range and heavier warheads. The autonomous target acquisition capability, while controversial from an ethics perspective, provides a significant tactical advantage by reducing the kill chain to seconds.
 
 The proliferation implications are significant — loitering munitions are relatively inexpensive to produce (thousands of dollars vs. hundreds of thousands for conventional precision munitions) and Turkey has shown willingness to export them broadly. These weapons represent a democratization of precision strike capability at the tactical level, potentially enabling non-state actors and smaller militaries to achieve effects previously requiring advanced air forces.
+
+## Sources
+
+- [https://www.hurriyetdailynews.com/turkey-promotes-indigenous-cyber-security-cluster-defense-industries-head-163129](https://www.hurriyetdailynews.com/turkey-promotes-indigenous-cyber-security-cluster-defense-industries-head-163129)

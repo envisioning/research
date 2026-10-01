@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766663502/habitacao/technologies/edificios-uso-misto-resposta-pressoes-urbanas-google-gemini-3-pro-image-preview-huoqlg.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Edifícios de Uso Misto como Resposta a Pressões Urbanas
@@ -25,3 +27,8 @@ Edifícios de uso misto combinam programas residenciais e comerciais (escritóri
 No Brasil, especialmente em áreas centrais de grandes cidades onde custo de terra é alto e padrões de uso urbano estão mudando, edifícios de uso misto estão se tornando mais comuns como estratégia de incorporação. A tecnologia está sendo utilizada para criar projetos que combinam diferentes programas, especialmente relevante onde custo de terra, risco financeiro e mudanças nos padrões de uso urbano pressionam por soluções integradas.
 
 O sinal de mudança é a transição de edifícios monofuncionais para projetos mistos que combinam múltiplos programas, criando novos modelos de negócio imobiliário baseados em diversificação de receita e sinergias entre usos. Isso impacta tipologias arquitetônicas, modelos de financiamento, regulação urbana e padrões de uso do solo, especialmente relevante onde pressões de custo, risco e mudanças nos padrões de uso urbano exigem soluções mais flexíveis e integradas.
+
+## Sources
+
+- [O que são imóveis para uso misto (comercial e residencial) e quais são suas vantagens](https://exame.com/mercado-imobiliario/o-que-sao-imoveis-para-uso-misto-comercial-e-residencial-e-quais-sao-suas-vantagens) (2025)
+- [O que são imóveis para uso misto (comercial e residencial) e quais são suas vantagens](https://exame.com/mercado-imobiliario/o-que-sao-imoveis-para-uso-misto-comercial-e-residencial-e-quais-sao-suas-vantagens) (2025)

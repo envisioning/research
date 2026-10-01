@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808196/polis/technologies/4d7d86b5-f32f-42b5-a26c-60e755bc8c75-google-gemini-3.1-flash-image-preview-3i5t6b.png
+updated_at: '2026-09-28T17:16:28.471643+00:00'
+last_reviewed: null
 ---
 
 # CoWIN Vaccine Management Platform
@@ -25,3 +27,9 @@ CoWIN (COVID Vaccine Intelligence Network) was India's digital platform for mana
 The speed of development and scale of deployment were remarkable. CoWIN was built in months, scaled to handle millions of concurrent users during peak booking periods, and processed more vaccination records than any system in history. At peak, it was registering 10+ million vaccinations per day — each one digitally tracked with a verifiable QR-coded certificate.
 
 CoWIN demonstrated that India's digital public infrastructure could be rapidly repurposed for crisis response. The platform's architecture has been open-sourced and offered to other countries. It validated the India Stack approach: when you have universal digital identity and open APIs, you can build population-scale digital services in weeks rather than years.
+
+## Sources
+
+- [https://www.cowin.gov.in/](https://www.cowin.gov.in/)
+- [https://en.wikipedia.org/wiki/CoWIN](https://en.wikipedia.org/wiki/CoWIN)
+- [https://indiastack.org/](https://indiastack.org/)

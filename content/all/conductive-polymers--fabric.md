@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897887/fabric/technologies/9d5f85d3-60b6-41b7-9bcb-069182ded7c8-google-gemini-3.1-flash-image-preview-ykbaf6.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Conductive Polymers

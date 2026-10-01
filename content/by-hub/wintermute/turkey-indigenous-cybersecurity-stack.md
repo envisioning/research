@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856230/wintermute/technologies/ceac1f0f-628c-43dc-a0e9-8a5059113508-google-gemini-3.1-flash-image-preview-cvdkot.jpg
+updated_at: '2026-09-28T17:18:30.051606+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Cybersecurity Stack
@@ -26,3 +28,8 @@ Turkey has established an indigenous cybersecurity capability through its Cyber 
 The strategic imperative for indigenous cybersecurity grew from Turkey's recognition that dependence on Western cybersecurity vendors (many with intelligence community relationships) created potential surveillance vulnerabilities. Turkey has invested in developing indigenous firewalls, intrusion detection systems, secure communications, and encryption solutions that eliminate the risk of backdoors or intelligence sharing with foreign partners.
 
 Turkey's cybersecurity capability has been tested in real-world conditions — the country faces significant cyber threats from state actors and criminal groups due to its geopolitical position and ongoing military operations. The cyber operations experience gained in Syria, Libya, and broader Eastern Mediterranean tensions has refined indigenous capabilities and driven investment in areas like offensive cyber, cyber intelligence, and resilient communications.
+
+## Sources
+
+- [https://www.hurriyetdailynews.com/turkey-promotes-indigenous-cyber-security-cluster-defense-industries-head-163129](https://www.hurriyetdailynews.com/turkey-promotes-indigenous-cyber-security-cluster-defense-industries-head-163129)
+- [https://www.aa.com.tr/en/science-technology/turkey-fights-cyber-crimes-with-own-capabilities/1412187](https://www.aa.com.tr/en/science-technology/turkey-fights-cyber-crimes-with-own-capabilities/1412187)

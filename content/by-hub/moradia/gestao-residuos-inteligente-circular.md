@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533161/habitacao/technologies/composteiras-smart-residuos-organicos-google-gemini-3-pro-image-preview-gllqba.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gestão Inteligente de Resíduos e Economia Circular

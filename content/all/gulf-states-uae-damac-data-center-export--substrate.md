@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813876/substrate/technologies/3818a84e-9e6f-479f-852f-bdf1588ad75d-google-gemini-3.1-flash-image-preview-14j0l2.jpg
+updated_at: '2026-09-28T17:18:12.166871+00:00'
+last_reviewed: null
 ---
 
 # DAMAC International Data Center Expansion
@@ -25,3 +27,8 @@ DAMAC Properties, a Dubai-based conglomerate traditionally known for real estate
 The DAMAC investment is part of the UAE's broader $1.4 trillion commitment to invest in the US economy, announced in 2025. By building data centers in the US, Gulf entities gain access to the American AI compute market while establishing relationships with US technology companies that can then be replicated in Gulf domestic projects.
 
 This bidirectional investment flow — Gulf capital funding US infrastructure while US technology companies build Gulf facilities — creates deep mutual dependency that serves Gulf strategic interests. It also signals that Gulf entities are no longer content to be mere consumers of technology but are becoming global infrastructure investors in the digital economy.
+
+## Sources
+
+- [https://www.uaeusaunited.com/stories/uae-technology-innovation-hub](https://www.uaeusaunited.com/stories/uae-technology-innovation-hub)
+- [https://usuaebusiness.org/focusareas/innovating-for-a-knowledge-driven-economy-technology/](https://usuaebusiness.org/focusareas/innovating-for-a-knowledge-driven-economy-technology/)

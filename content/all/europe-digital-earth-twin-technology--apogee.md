@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853460/apogee/technologies/768d2958-de97-444a-9949-14809abd842d-google-gemini-3.1-flash-image-preview-ry0lu5.png
+updated_at: '2026-09-28T17:17:03.422366+00:00'
+last_reviewed: null
 ---
 
 # Digital Earth Twin Technology
@@ -25,3 +27,7 @@ Blackshark.ai (Austria, €31.8M raised) processes satellite imagery to create d
 The defense application is immediate: military planners can simulate operations with perfect terrain awareness before deployment. But civilian applications are equally significant — urban planning, disaster response, insurance risk assessment, and telecommunications network planning all benefit from rapid, accurate 3D Earth models.
 
 The technology builds on Europe's Copernicus open data ecosystem: Blackshark.ai processes freely available Sentinel satellite imagery, adding AI-driven classification and 3D reconstruction. This demonstrates the downstream value creation that the EU's open-data space policy was designed to enable — public investment in satellite infrastructure creating commercial opportunities for European companies.
+
+## Sources
+
+- [https://nitter.net/itsolelehmann/status/1912455565886038201](https://nitter.net/itsolelehmann/status/1912455565886038201)

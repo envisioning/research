@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856100/aegis/technologies/b15ba09a-6970-4311-8a8f-5a4c6391839c-google-gemini-3.1-flash-image-preview-srz9fm.jpg
+updated_at: '2026-09-28T17:18:29.973873+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Electronic Warfare Systems
@@ -26,3 +28,9 @@ Turkey has developed a comprehensive indigenous electronic warfare ecosystem, an
 Turkey recognized the importance of EW as early as the 1970s, and over the past two decades has directed significant funding to ASELSAN, HAVELSAN, and TUBITAK to develop indigenous capabilities. The result is a layered EW architecture spanning strategic ground-based systems, tactical vehicle-mounted units, and airborne pods for both manned and unmanned platforms. These systems have been tested in real operational environments in Syria and Libya.
 
 The integration of EW capabilities with Turkey's drone fleet creates a combined arms effect that amplifies the effectiveness of both systems. Drones suppress and map enemy air defenses while EW systems jam and deceive, enabling precision strike packages — a doctrine that Turkey has refined through actual combat experience, giving it an edge over nations that have only tested these concepts in exercises.
+
+## Sources
+
+- [https://www.dailysabah.com/business/defense/turkiyes-electronic-warfare-systems-unseen-heroes-of-modern-conflicts](https://www.dailysabah.com/business/defense/turkiyes-electronic-warfare-systems-unseen-heroes-of-modern-conflicts)
+- [https://www.rusi.org/explore-our-research/publications/commentary/turkeys-electronic-warfare-capabilities-invisible-power-behind-its-uacvs](https://www.rusi.org/explore-our-research/publications/commentary/turkeys-electronic-warfare-capabilities-invisible-power-behind-its-uacvs)
+- [https://millimudafaa.com/current-news/a-world-first-by-turkish-engineers-aselsans-antidot-2-electronic-warfare-pod-successfully-tested-on-tb-2-uav](https://millimudafaa.com/current-news/a-world-first-by-turkish-engineers-aselsans-antidot-2-electronic-warfare-pod-successfully-tested-on-tb-2-uav)

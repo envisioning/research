@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817116/wintermute/technologies/90ad8ee5-0266-4855-971c-2aced4597e1a-google-gemini-3.1-flash-image-preview-95b4x3.png
+updated_at: '2026-09-28T17:17:40.095908+00:00'
+last_reviewed: null
 ---
 
 # AI-Powered Education Technology
@@ -26,3 +28,8 @@ South Korea spends more per capita on private education than almost any other co
 Korea's education technology is uniquely advanced because the input data is extraordinarily rich. Korean students take more standardized tests, more frequently, across more subjects than students in any other OECD country. This creates massive, high-quality datasets for training adaptive learning algorithms. Riiid's AI has been trained on hundreds of millions of student-question interactions, enabling prediction of student performance with accuracy that no Western edtech company can match due to sparser data.
 
 The Korean government announced in 2023 that AI digital textbooks would be introduced in all schools by 2025, making Korea one of the first countries to mandate AI-assisted learning at the national level. This top-down adoption, combined with bottom-up demand from test-obsessed families, creates a dual engine for edtech innovation. Korean edtech companies are expanding to India, Southeast Asia, and the Middle East, exporting adaptive learning systems calibrated on the world's most competitive educational environment.
+
+## Sources
+
+- [https://riiid.com/](https://riiid.com/)
+- [https://mathpresso.com/](https://mathpresso.com/)

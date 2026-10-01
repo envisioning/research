@@ -11,6 +11,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774857897/aegis/technologies/153218a9-8456-4cec-b5d9-ac95e370c12e-google-gemini-3.1-flash-image-preview-gqwasq.jpg
+updated_at: '2026-09-28T17:18:30.666003+00:00'
+last_reviewed: null
 ---
 
 # Nuclear Submarine Propulsion (AUKUS Pillar I)
@@ -26,3 +28,9 @@ Under AUKUS Pillar I, Australia will acquire at least eight nuclear-powered, con
 This represents a step-change in Australian military capability, providing the ability to patrol vast ocean distances silently for months — critical for a maritime nation with 60,000km of coastline and strategic interests across the Indo-Pacific. The program is driving massive upstream investment in nuclear engineering education, advanced metallurgy, reactor maintenance infrastructure, and shipbuilding automation that will have spillover effects across Australian industry.
 
 Geopolitically, AUKUS submarine acquisition locks Australia into deeper defense-industrial integration with the US and UK for generations, while signaling deterrence capability to potential adversaries in the region. The June 2025 Pentagon review and subsequent reaffirmation of the program highlighted both its strategic importance and the industrial challenges of execution. The program's success or failure will define Australian defense sovereignty for the next half-century.
+
+## Sources
+
+- [https://breakingdefense.com/2025/03/its-time-to-ditch-virginia-subs-for-aukus-and-go-to-plan-b/](https://breakingdefense.com/2025/03/its-time-to-ditch-virginia-subs-for-aukus-and-go-to-plan-b/)
+- [https://www.defensenews.com/pentagon/2025/06/11/pentagon-to-review-aukus-submarine-deal-with-australia-and-britain/](https://www.defensenews.com/pentagon/2025/06/11/pentagon-to-review-aukus-submarine-deal-with-australia-and-britain/)
+- [https://www.theguardian.com/world/2025/jun/11/pentagon-review-aukus-security-alliance](https://www.theguardian.com/world/2025/jun/11/pentagon-review-aukus-security-alliance)

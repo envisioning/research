@@ -11,6 +11,8 @@ trl: 9
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812728/grid/technologies/45271c6f-6b13-487e-b42c-519c84a9bd36-google-gemini-3.1-flash-image-preview-r8h36s.jpg
+updated_at: '2026-09-28T17:17:33.734391+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Nuclear Fuel Fabrication
@@ -26,3 +28,9 @@ Argentina possesses one of the most complete indigenous nuclear fuel cycles outs
 The technology encompasses the full chain: uranium exploration and mining in Mendoza and other provinces, yellowcake processing, UF6 conversion, low-enrichment uranium (up to 20% for research reactors), fuel pellet sintering, cladding fabrication, and final fuel assembly integration. Argentina also operates research reactors built by INVAP, which has exported research reactor technology to Australia, Egypt, Algeria, and other countries.
 
 This nuclear fuel cycle sovereignty is strategically significant in an era of renewed global interest in nuclear energy. Very few countries — the US, Russia, China, France, UK, Japan, India, and Argentina — possess the full spectrum of nuclear fuel cycle capabilities. Argentina's ability to fuel its own reactors independent of foreign suppliers provides energy security and positions CNEA/INVAP as technology partners for developing nations seeking nuclear power. The AUKUS submarine deal, which denied Argentina its planned nuclear submarine partnership with Australia, highlighted both the capability and the geopolitical sensitivity of Argentine nuclear technology.
+
+## Sources
+
+- [https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina](https://world-nuclear.org/information-library/country-profiles/countries-a-f/argentina)
+- [https://www.world-nuclear-news.org/Articles/Construction-of-Argentinas-small-CAREM-25-unit-to](https://www.world-nuclear-news.org/Articles/Construction-of-Argentinas-small-CAREM-25-unit-to)
+- [https://www.argentina.gob.ar/argentinian-nuclear-power-plant](https://www.argentina.gob.ar/argentinian-nuclear-power-plant)

@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807516/link/technologies/347e5180-d98d-4475-9706-711d23d02ef3-google-gemini-3.1-flash-image-preview-ga72an.png
+updated_at: '2026-09-28T17:16:48.354901+00:00'
+last_reviewed: null
 ---
 
 # Satellite Internet Market: Starlink vs Jio vs OneWeb
@@ -26,3 +28,9 @@ India's satellite internet market has become a geopolitically charged battlegrou
 The regulatory battle is as significant as the technology. India's Telecom Regulatory Authority (TRAI) must decide on spectrum pricing — whether satellite spectrum should be auctioned (as Jio prefers, which would raise barriers to entry for foreign competitors) or administratively allocated (as Starlink prefers, following global practice for satellite spectrum). Data localization requirements add another dimension: India mandates that user data remain within the country, a requirement that challenges Starlink's global architecture. Jio and Indian telecom incumbents have lobbied aggressively to ensure satellite providers don't undercut their terrestrial investments.
 
 The outcome will shape connectivity for the next billion internet users. India's satellite internet market is projected to reach $2 billion+ by 2030. For the 300+ million unconnected Indians — many in the Himalayas, Northeast, islands, and desert regions — satellite internet may be the only feasible connectivity option. The policy decisions India makes on spectrum allocation, pricing, and data sovereignty will create precedents for other large developing countries (Indonesia, Brazil, Nigeria) facing similar questions about how to regulate satellite internet alongside terrestrial networks.
+
+## Sources
+
+- [https://www.moneycontrol.com/news/business/satellite-licences-cleared-for-starlink-jio-and-oneweb-spectrum-pricing-next-says-scindia-13845467.html](https://www.moneycontrol.com/news/business/satellite-licences-cleared-for-starlink-jio-and-oneweb-spectrum-pricing-next-says-scindia-13845467.html)
+- [https://www.internetgovernance.org/2025/08/11/indias-satellite-communications-policy-balancing-competition-connectivity-and-control/](https://www.internetgovernance.org/2025/08/11/indias-satellite-communications-policy-balancing-competition-connectivity-and-control/)
+- [https://news.satnews.com/2025/10/28/starlink-starts-india-tests/](https://news.satnews.com/2025/10/28/starlink-starts-india-tests/)

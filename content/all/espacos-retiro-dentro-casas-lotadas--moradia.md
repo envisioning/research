@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668641/habitacao/technologies/espacos-retiro-dentro-casas-lotadas-google-gemini-3-pro-image-preview-kvoyka.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Espaços de Retiro dentro de Casas Lotadas
@@ -25,3 +27,11 @@ Espaços de retiro dentro de casas lotadas descreve a prática de criar espaços
 No Brasil, especialmente em unidades habitacionais pequenas e em famílias multigeracionais, espaços de retiro são uma resposta a necessidade de criar privacidade e calma em ambientes densos. Moradores criam cantos, nichos e espaços específicos que oferecem refúgio de densidade e sobrecarga, especialmente relevante onde espaço é limitado e privacidade é necessária.
 
 O sinal de mudança é a transformação de habitação de espaços uniformes para espaços com zonas de retiro, onde qualidade habitacional inclui criação de refúgios psicológicos mesmo em alta densidade. Isso impacta design arquitetônico (criação de espaços de retiro), tipologias habitacionais (incorporação de privacidade), qualidade habitacional (criação de calma) e bem-estar (refúgio psicológico), especialmente relevante onde densidade é alta e espaços de escape são necessários.
+
+## Sources
+
+- [Apartamento com 3 quartos: como deixar seu lar ainda mais perfeito para a sua rotina](https://zilliconstrutora.com.br/blog/como-otimizar-apartamento-3-quartos) (2025)
+- [Apartamentos-Caixão: quando o espaço se torna uma prisão mental](https://www.clinica21.com.br/post/apartamentos-caixao-quando-o-espa%C3%A7o-se-torna-uma-pris%C3%A3o-mental) (2025)
+- [Como viver bem em um apartamento de 32m² sem abrir mão do conforto](https://www.em.com.br/emfoco/2025/09/20/como-viver-bem-em-um-apartamento-de-32m%C2%B2-sem-abrir-mao-do-conforto) (2025)
+- [Como viver bem em um apartamento de 32m² sem abrir mão do conforto](https://www.em.com.br/emfoco/2025/09/20/como-viver-bem-em-um-apartamento-de-32m%C2%B2-sem-abrir-mao-do-conforto) (2025)
+- [Santuários urbanos: como criar lares tranquilos em meio ao caos da cidade](https://www.archdaily.com.br/br/1027970/santuarios-urbanos-como-criar-lares-tranquilos-em-meio-ao-caos-da-cidade) (2025)

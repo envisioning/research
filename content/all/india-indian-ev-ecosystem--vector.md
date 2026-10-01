@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809623/vector/technologies/f13548fd-c6a2-4ef1-aa58-ab165eb07338-google-gemini-3.1-flash-image-preview-dh6chr.jpg
+updated_at: '2026-09-28T17:17:10.859274+00:00'
+last_reviewed: null
 ---
 
 # Indian Electric Vehicle Ecosystem
@@ -26,3 +28,9 @@ India's electric vehicle ecosystem is developing across all segments: two-wheele
 India's EV transition is shaped by its unique mobility structure. Two-wheelers and three-wheelers vastly outnumber cars, and the typical Indian vehicle is much smaller and cheaper than Western equivalents. This means India's EV revolution looks fundamentally different from the US or Europe: it's about $1,500 electric scooters and $15,000 electric cars, not $50,000 Teslas. The government's FAME II subsidy scheme and state-level incentives have catalyzed adoption.
 
 The ecosystem includes battery manufacturing (Amara Raja, Exide), charging infrastructure (Tata Power, Ather Grid, Statiq), and component manufacturing. India is positioning itself as a global manufacturing hub for affordable EVs — Tata Motors is exploring exports of its electric cars, and Indian two-wheeler manufacturers are eyeing Southeast Asian and African markets where their price-engineered EVs could have strong appeal.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Electric_vehicles_in_India](https://en.wikipedia.org/wiki/Electric_vehicles_in_India)
+- [https://www.autocarpro.in/news/tata-motors-unveils-next-generation-mobility-solutions-at-bharat-mobility-global-expo-2025-124436](https://www.autocarpro.in/news/tata-motors-unveils-next-generation-mobility-solutions-at-bharat-mobility-global-expo-2025-124436)
+- [https://www.atherenergy.com/](https://www.atherenergy.com/)

@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774856082/spore/technologies/aea7702c-cb75-4f1a-977f-659534f99c65-google-gemini-3.1-flash-image-preview-kifq10.jpg
+updated_at: '2026-09-28T17:17:47.002516+00:00'
+last_reviewed: null
 ---
 
 # Climate-Adaptive Precision Agriculture
@@ -26,3 +28,8 @@ Turkey's agricultural sector, which accounts for over half the country's land ar
 The urgency is acute: 2025 saw widespread frost and deepening drought that reshaped production outcomes, accelerating policy-driven reforms in water management and digital agriculture. Turkey's National Drought-Resistant Landscape Strategy and agricultural 5-year plan prioritize climate adaptation through technology. The Southeastern Anatolia Project (GAP) and other massive irrigation infrastructure projects are being modernized with smart sensors and precision application systems.
 
 Turkey's position as the world's 7th largest agricultural producer and a major exporter of crops like hazelnuts, figs, and apricots makes agricultural technology sovereignty economically critical. The integration of satellite imagery from indigenous Göktürk and IMECE satellites for crop monitoring creates a sovereign precision agriculture stack — from space-based observation to field-level sensor networks — that reduces dependence on commercial satellite providers and imported agtech solutions.
+
+## Sources
+
+- [https://www.dailysabah.com/turkiye/turkiye-boosts-agricultural-transformation-amid-2025-climate-risks/news](https://www.dailysabah.com/turkiye/turkiye-boosts-agricultural-transformation-amid-2025-climate-risks/news)
+- [https://agrieconomist.com/challenges-in-agricultural-production-in-turkiye](https://agrieconomist.com/challenges-in-agricultural-production-in-turkiye)

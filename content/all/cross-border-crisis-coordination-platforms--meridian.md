@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131132/meridian/technologies/cross-border-crisis-coordination-platforms-google-gemini-3-pro-image-preview-wdhs1y.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Cross-Border Crisis Coordination Platforms

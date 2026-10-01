@@ -10,6 +10,8 @@ trl: null
 impact: null
 investment: null
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533597/habitacao/technologies/gestao-logistica-entregas-condominiais-google-gemini-3-pro-image-preview-40arkr.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gestão Logística de Entregas Condominiais
@@ -25,3 +27,7 @@ Gestão logística de entregas condominiais utiliza apps, QR codes e sistemas de
 No Brasil, é amplamente adotado em condomínios, oferecendo segurança, rastreabilidade, conveniência para moradores e redução de trabalho para porteiros. A tecnologia integra com sistemas de portaria e plataformas de gestão condominial. Esse modelo gera receita para o condomínio e resolve o problema da 'última milha' para transportadoras em áreas densas.
 
 O sinal de mudança é a transformação de portarias e áreas comuns em infraestrutura logística, criando novos modelos de receita e conveniência que integram condomínios com economia de compartilhamento, especialmente relevante em cidades densas onde logística de última milha é desafio crítico.
+
+## Sources
+
+- [Soluções completas em lockers inteligentes - Logipac](https://logipac.com.br/) (2025)

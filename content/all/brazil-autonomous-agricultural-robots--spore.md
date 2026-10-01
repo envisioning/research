@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793734/spore/technologies/70f77a4c-38c5-4ab9-a117-7db1efff676e-google-gemini-3.1-flash-image-preview-245kgc.jpg
+updated_at: '2026-09-28T17:17:55.6494+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Agricultural Robots
@@ -26,3 +28,8 @@ Solinftec, founded in Araçatuba (São Paulo), built Solix as the first autonomo
 The technology is deployed commercially in Brazil, the US, and other Latin American countries. It complements satellite and drone monitoring by providing ground-level, plant-by-plant data collection — the resolution needed for precision application of inputs.
 
 Brazil is a natural testbed for agricultural robotics because of the scale: individual farms in the cerrado can exceed 100,000 hectares, making autonomous systems economically compelling. The combination of large fields, high labor costs in remote areas, and year-round growing seasons creates ideal conditions for robotic farming.
+
+## Sources
+
+- [https://www.solinftec.com/en-us/alice-ai-solix-ag-robotics-2/](https://www.solinftec.com/en-us/alice-ai-solix-ag-robotics-2/)
+- [https://news.agropages.com/News/NewsDetail---51806.htm](https://news.agropages.com/News/NewsDetail---51806.htm)

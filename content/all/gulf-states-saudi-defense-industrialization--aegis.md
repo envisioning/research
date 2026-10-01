@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814396/aegis/technologies/ab88ddc9-5313-497e-b917-195f94bb034c-google-gemini-3.1-flash-image-preview-o2jmud.jpg
+updated_at: '2026-09-28T17:17:24.865885+00:00'
+last_reviewed: null
 ---
 
 # Saudi GAMI Defense Localization
@@ -26,3 +28,7 @@ The General Authority for Military Industries (GAMI) oversees Saudi Arabia's def
 Saudi Arabia is the world's largest arms importer, spending tens of billions annually on defense equipment. Converting even a fraction of these imports to domestic production creates significant industrial capacity, technical skills, and employment. Joint ventures with international defense companies (Boeing, Lockheed Martin, BAE Systems) include mandatory technology transfer provisions.
 
 The defense industrialization program is a core pillar of Vision 2030's economic diversification. Beyond direct military value, it builds advanced manufacturing capabilities, quality management systems, and engineering talent that can transfer to civilian industries. The program also reduces strategic vulnerability from dependence on foreign arms suppliers.
+
+## Sources
+
+- [https://www.cnbc.com/2025/10/29/from-neom-to-ai-and-tourism-saudi-arabias-priorities-are-shifting.html](https://www.cnbc.com/2025/10/29/from-neom-to-ai-and-tourism-saudi-arabias-priorities-are-shifting.html)

@@ -3,19 +3,22 @@ slug: open-data-commons-philanthropy
 hub: agape
 title: Open Data Commons for Philanthropic Intelligence
 summary: Open data commons for philanthropic intelligence, creating shared knowledge
+  infrastructure for the field.
 permalink: https://www.envisioning.com/agape/open-data-commons-philanthropy
 collection: knowledge-evidence-sensemaking
 trl: 2
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371823/agape/signals/open-data-commons-philanthropy-google-gemini-3-pro-image-preview-xx7mht.png
+updated_at: '2026-10-01T09:32:12.276689+00:00'
+last_reviewed: null
 ---
 
 # Open Data Commons for Philanthropic Intelligence
 
 ## Summary
 
-Open data commons for philanthropic intelligence, creating shared knowledge
+Open data commons for philanthropic intelligence, creating shared knowledge infrastructure for the field.
 
 ## Description
 

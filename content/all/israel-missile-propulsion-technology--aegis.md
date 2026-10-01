@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875795/aegis/technologies/b19b2ed5-a0d9-4067-b6ef-42fb3376ca3a-google-gemini-3.1-flash-image-preview-yoemf6.png
+updated_at: '2026-09-28T17:18:43.761694+00:00'
+last_reviewed: null
 ---
 
 # Advanced Solid-Fuel Missile Propulsion
@@ -25,3 +27,8 @@ Israel has developed advanced solid-fuel propulsion technology that powers a fam
 The technology's significance lies in its enabling role: without indigenous propulsion capability, Israel could not build its multi-layered missile defense architecture, its orbital launch system, or its strategic deterrent. Solid-fuel motors are preferred over liquid-fuel alternatives for military applications because they can be stored ready-to-fire for years and launched on short notice — critical for a country that may face attack with minimal warning.
 
 Strategically, Israel's propulsion expertise represents a sovereign industrial capability that enables independence across multiple defense domains. The technology is tightly controlled and not exported as a standalone system, but its derivatives (in interceptor missiles, launch vehicles, and tactical rockets) generate significant export revenue. The dual-use nature of rocket propulsion — capable of both defensive and offensive applications — makes it one of Israel's most strategically sensitive technology assets.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Shavit_2](https://en.wikipedia.org/wiki/Shavit_2)
+- [https://www.britannica.com/topic/Shavit](https://www.britannica.com/topic/Shavit)

@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774870479/spore/technologies/0cb45f0b-02af-4bd3-a429-fdf0fd5fdb8e-google-gemini-3.1-flash-image-preview-wgkhuy.jpg
+updated_at: '2026-09-28T17:18:36.644421+00:00'
+last_reviewed: null
 ---
 
 # Forest Bioeconomy and Advanced Biomass Processing
@@ -26,3 +28,8 @@ Canada's forest sector is transitioning from traditional lumber and pulp product
 The forest bioeconomy matters because Canada has 347 million hectares of forest — approximately 9% of the world's forested area — and a pulp and paper industry with significant underutilized capacity as traditional paper demand declines. Converting this existing industrial base to produce advanced biomaterials creates a circular bioeconomy that keeps rural forestry communities viable while producing alternatives to petroleum-based plastics and chemicals. Cellulose nanocrystals alone have applications in lightweight composites, pharmaceutical excipients, and 3D printing feedstocks.
 
 The strategic opportunity is that Canada can leverage its vast forest resource and existing industrial infrastructure to become a major producer of bio-based materials. Unlike building new factories from scratch, many forest bioeconomy products can be produced as add-on processes at existing pulp mills — dramatically reducing capital requirements. This positions Canada's forest sector as a feedstock supplier for the global bioeconomy, analogous to its role in critical minerals but in the biological domain.
+
+## Sources
+
+- [https://web.fpinnovations.ca/](https://web.fpinnovations.ca/)
+- [https://natural-resources.canada.ca/forest-forestry](https://natural-resources.canada.ca/forest-forestry)

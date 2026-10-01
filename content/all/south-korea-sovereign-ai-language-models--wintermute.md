@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816819/wintermute/technologies/6842effd-e633-47a4-84b7-5802a0a00a33-google-gemini-3.1-flash-image-preview-4j6964.png
+updated_at: '2026-09-28T17:17:37.918865+00:00'
+last_reviewed: null
 ---
 
 # Sovereign AI Language Models
@@ -26,3 +28,9 @@ Naver's HyperCLOVA X is the most advanced Korean LLM, trained on Korean-language
 Korea's LLM diversity is remarkable for a country of 52 million people — five major independent efforts, each backed by a different chaebol or tech company. This reflects a national conviction that linguistic and cultural sovereignty requires domestic AI models, not dependence on OpenAI or Google. The Korean government's $349M AI investment in 2025 includes compute subsidies specifically for domestic model training.
 
 The practical question is whether five separate Korean LLMs can each achieve sufficient scale to compete globally, or whether consolidation is inevitable. Naver has the strongest position with 60,000+ GPUs and the most comprehensive Korean training data, but smaller players like Upstage have found niches in open-source and enterprise deployment. Korea's LLM ecosystem is a microcosm of its broader innovation pattern: intense domestic competition driving rapid improvement.
+
+## Sources
+
+- [https://clova.ai/hyperclova](https://clova.ai/hyperclova)
+- [https://www.upstage.ai/solar-pro](https://www.upstage.ai/solar-pro)
+- [https://www.koreaherald.com/view.php?ud=20250312000567](https://www.koreaherald.com/view.php?ud=20250312000567)

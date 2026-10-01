@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793112/spore/technologies/46dc6f21-7303-42e2-bb7b-5866ab59c72d-google-gemini-3.1-flash-image-preview-b5yg6n.png
+updated_at: '2026-09-28T17:17:55.187974+00:00'
+last_reviewed: null
 ---
 
 # Cerrado Tropical Soil Engineering
@@ -26,3 +28,9 @@ The Brazilian cerrado — a savanna biome covering 25% of the country — has na
 The result is one of the most consequential agricultural transformations in history. Brazil went from a net food importer in the 1970s to the world's largest exporter of soybeans, coffee, sugar, orange juice, and beef. The cerrado now produces roughly 40% of Brazil's grain output.
 
 The technology package — soil correction + adapted varieties + no-till systems — is being studied for application in African savannas with similar soil chemistry. If the cerrado model transfers to sub-Saharan Africa, it could unlock hundreds of millions of hectares of currently unproductive land.
+
+## Sources
+
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC7612294/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7612294/)
+- [https://revista.drclas.harvard.edu/lessons-from-the-brazilian-cerrado-technological-achievement-and-environmental-challenges/](https://revista.drclas.harvard.edu/lessons-from-the-brazilian-cerrado-technological-achievement-and-environmental-challenges/)
+- [https://www.economyinsights.com/p/brazils-agribusiness-edge](https://www.economyinsights.com/p/brazils-agribusiness-edge)

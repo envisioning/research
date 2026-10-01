@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819538/vector/technologies/ded53e30-cf11-4e2f-96b1-f7dea55b8d7e-google-gemini-3.1-flash-image-preview-bx4lnr.png
+updated_at: '2026-09-28T17:16:29.640766+00:00'
+last_reviewed: null
 ---
 
 # Hydrogen Fuel Cell Vehicles and Infrastructure
@@ -25,3 +27,8 @@ Japan has the world's most developed hydrogen mobility infrastructure, with appr
 The hydrogen vehicle ecosystem extends beyond automotive: Toyota's fuel cells power stationary generators, JR East is testing hydrogen-powered trains, and Kawasaki Heavy Industries is developing hydrogen-fueled maritime vessels. Japan's comprehensive approach — simultaneously building supply (green hydrogen production), infrastructure (refueling networks), and demand (vehicles and industrial applications) — is more integrated than any competing hydrogen strategy.
 
 However, the commercial viability of hydrogen vehicles remains uncertain. Battery electric vehicles have achieved cost and performance parity faster than expected, narrowing hydrogen's addressable market primarily to heavy-duty transport and industrial applications. Japan's strategic bet on hydrogen is a hedge against battery supply chain concentration in China — if lithium supply tightens or battery costs plateau, hydrogen infrastructure already in place becomes a decisive advantage.
+
+## Sources
+
+- [https://pressroom.toyota.com/toyota-establishes-hydrogen-headquarters-to-accelerate-advancement-of-fuel-cell-technology/](https://pressroom.toyota.com/toyota-establishes-hydrogen-headquarters-to-accelerate-advancement-of-fuel-cell-technology/)
+- [https://www.nature.com/articles/d42473-023-00174-w](https://www.nature.com/articles/d42473-023-00174-w)

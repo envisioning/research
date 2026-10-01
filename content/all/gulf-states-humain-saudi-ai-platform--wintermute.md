@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814192/wintermute/technologies/623bac24-7290-4b02-a489-2349a219246c-google-gemini-3.1-flash-image-preview-hbnvs8.png
+updated_at: '2026-09-28T17:18:13.284565+00:00'
+last_reviewed: null
 ---
 
 # HUMAIN National AI Company
@@ -25,3 +27,8 @@ HUMAIN is Saudi Arabia's sovereign AI company, launched in May 2025 by Crown Pri
 HUMAIN represents Saudi Arabia's most aggressive technology play to date, centralizing AI ambitions that were previously scattered across multiple government entities. The company has developed ALLaM, an Arabic-focused LLM, and is building what it calls a 'global AI powerhouse' with partnerships spanning chip manufacturers, cloud providers, and research institutions. Saudi Arabia has declared 2026 its 'Year of AI.'
 
 The geopolitical implications are significant: HUMAIN gives Saudi Arabia a single entity to negotiate with global tech companies, compete with UAE's G42, and attract AI talent to the Kingdom. The $10B AMD deal alone signals Saudi Arabia's intent to secure compute capacity independent of US cloud providers, while the PIF's $930 billion balance sheet provides virtually unlimited runway.
+
+## Sources
+
+- [https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse/](https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse/)
+- [https://fastcompanyme.com/news/saudi-arabias-humain-begins-building-first-ai-data-centers-ahead-of-2026-launch/](https://fastcompanyme.com/news/saudi-arabias-humain-begins-building-first-ai-data-centers-ahead-of-2026-launch/)

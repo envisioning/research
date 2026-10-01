@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871958/spore/technologies/f2364758-c9ab-44c6-9900-bc6a78182303-google-gemini-3.1-flash-image-preview-vnise2.jpg
+updated_at: '2026-09-28T17:16:54.594879+00:00'
+last_reviewed: null
 ---
 
 # AI-Powered Precision Agriculture
@@ -26,3 +28,7 @@ Canada's precision agriculture sector combines AI, satellite remote sensing, IoT
 Precision agriculture matters for Canada because the country is the world's fifth-largest agricultural exporter, and maintaining competitiveness requires maximizing yield while minimizing environmental impact. Climate change is shifting growing conditions across the prairies, and AI-powered systems can adapt recommendations faster than traditional agricultural extension services. Reduced fertilizer and pesticide application also addresses environmental regulations and water quality concerns.
 
 The strategic opportunity is that Canada's combination of large-scale farming, strong satellite capabilities (RADARSAT), and AI research creates a natural ecosystem for precision agriculture innovation. Technologies developed for Canada's specific conditions — vast areas, variable climate, short growing seasons — are directly applicable to northern agriculture globally, including Russia, Scandinavia, and northern China.
+
+## Sources
+
+- [https://farmonaut.com/mining/canada-rare-earths-2026-boosting-sustainable-agriculture](https://farmonaut.com/mining/canada-rare-earths-2026-boosting-sustainable-agriculture)

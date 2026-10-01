@@ -10,6 +10,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073983/cortex/technologies/next-gen-retinal-implants-gemini-3-pro-ndpeo9.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Retinal Implants

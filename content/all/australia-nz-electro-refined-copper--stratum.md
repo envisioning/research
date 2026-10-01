@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774857800/stratum/technologies/0d0cfb08-e3b9-4bca-a576-f2fd4a8221a7-google-gemini-3.1-flash-image-preview-sg1nrq.jpg
+updated_at: '2026-09-28T17:16:30.04835+00:00'
+last_reviewed: null
 ---
 
 # Advanced Electro-Refined Copper Processing
@@ -26,3 +28,8 @@ Australian deep tech ventures, highlighted in Cicada's Tech23 2025 cohort under 
 Copper is the critical enabler of electrification — EVs use 4x more copper than internal combustion vehicles, and renewable energy systems are copper-intensive throughout. Global copper demand is projected to double by 2035, but new mine discoveries are declining and average ore grades are falling. Electrochemical refining enables profitable processing of lower-grade ores and complex concentrates that conventional smelters reject, expanding the effective copper resource base.
 
 For Australia, which has significant copper resources (particularly in the Macquarie Arc identified by Fleet Space's exploration) but limited domestic smelting capacity, electrochemical refining offers a path to value-added processing without building conventional smelters. The technology aligns with Australia's Critical Minerals Strategy goal of moving beyond raw material export, and the lower energy intensity makes it compatible with renewable-powered operations.
+
+## Sources
+
+- [https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/](https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/)
+- [https://www.cicadainnovations.com/cicada-x-tech23](https://www.cicadainnovations.com/cicada-x-tech23)

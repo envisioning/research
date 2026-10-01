@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774808574/helix/technologies/8021b9a9-e408-4537-8dd1-ccfdc91b8299-google-gemini-3.1-flash-image-preview-idmy4f.jpg
+updated_at: '2026-09-28T17:17:12.289342+00:00'
+last_reviewed: null
 ---
 
 # Serum Institute of India Vaccine Manufacturing
@@ -26,3 +28,9 @@ The Serum Institute of India (SII), founded by Cyrus Poonawalla, is the world's 
 During the COVID-19 pandemic, SII manufactured Covishield (the Oxford-AstraZeneca vaccine) at massive scale, producing hundreds of millions of doses for India and low-income countries through the COVAX facility. SII has now partnered with CEPI (Coalition for Epidemic Preparedness Innovations) to strengthen pandemic preparedness, including work on H5N1 avian flu vaccines.
 
 SII's model — licensing proven vaccine technologies from international partners and manufacturing them at scale and low cost in India — is uniquely powerful for global public health. The company can produce vaccines at a fraction of the cost of Western manufacturers because of India's lower manufacturing costs, economies of scale, and process optimization expertise. This makes vaccination economically feasible for billions of people in developing countries who could never afford Western-priced vaccines.
+
+## Sources
+
+- [https://www.seruminstitute.com/](https://www.seruminstitute.com/)
+- [https://www.biospectrumindia.com/category/pharma/biopharma](https://www.biospectrumindia.com/category/pharma/biopharma)
+- [https://www.ibef.org/industry/biotechnology-india/showcase](https://www.ibef.org/industry/biotechnology-india/showcase)

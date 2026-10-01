@@ -10,6 +10,8 @@ trl: 1
 impact: 3
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938710/xenotech/technologies/non-euclidean-craft-interior-imagegen-v1.png
+updated_at: '2026-08-28T17:38:31.885133+00:00'
+last_reviewed: null
 ---
 
 # Non-Euclidean Interior

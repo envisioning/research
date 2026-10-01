@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898297/wonen/technologies/b46b10ee-e4ee-46a9-a119-e2c6f3e663c2-google-gemini-3.1-flash-image-preview-rity61.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Social Impact Bonds for Housing

@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858612/grid/technologies/8ed1c3e1-22c1-48fc-a361-c710a77dbd94-google-gemini-3.1-flash-image-preview-zqi99h.jpg
+updated_at: '2026-09-28T17:16:47.595806+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Cultural Burning with Satellite Integration
@@ -26,3 +28,9 @@ The Firesticks Alliance Indigenous Corporation leads the integration of Aborigin
 Australia's catastrophic 2019-20 Black Summer bushfires (46 million acres burned, 3 billion animals affected) catalyzed institutional recognition that Western-style hazard reduction burning was inadequate. Research published in 2025 demonstrates that cultural burns produce significantly different ecological outcomes than conventional prescribed burns — maintaining species richness and forest structure rather than homogenizing vegetation. Government-led initiatives across NSW, Victoria, and the Northern Territory now partner with Aboriginal communities for landscape-scale burning programs.
 
 The Firesticks Alliance's Cultural Fire Credits initiative, developed with the Aboriginal Carbon Foundation, creates a financial mechanism for Indigenous-led burning by generating carbon credits from wildfire prevention. This innovation monetizes traditional knowledge while keeping intellectual property and governance with Aboriginal communities. The global relevance is growing as wildfire devastation intensifies worldwide — California, Mediterranean Europe, Amazonia, and Siberia all face fire management crises that could benefit from Australia's integration of Indigenous fire knowledge with modern technology.
+
+## Sources
+
+- [https://indigenousnewsaustralia.com/2025/01/27/cool-burning-indigenous-fire-management-strategies-for-2025-bushfire-season/](https://indigenousnewsaustralia.com/2025/01/27/cool-burning-indigenous-fire-management-strategies-for-2025-bushfire-season/)
+- [https://www.tandfonline.com/doi/full/10.1080/17567505.2024.2425246](https://www.tandfonline.com/doi/full/10.1080/17567505.2024.2425246)
+- [https://www.firesticks.org.au/cultural-fire-credits/](https://www.firesticks.org.au/cultural-fire-credits/)

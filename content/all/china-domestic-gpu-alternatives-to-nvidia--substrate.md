@@ -10,6 +10,8 @@ trl: 6
 impact: 2
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797754/substrate/technologies/b88e9112-3743-4e5e-91cc-20581a46cef4-google-gemini-3.1-flash-image-preview-igbnza.jpg
+updated_at: '2026-09-28T17:16:59.311506+00:00'
+last_reviewed: null
 ---
 
 # Domestic GPU Alternatives to NVIDIA
@@ -25,3 +27,8 @@ Moore Threads' stock surged 400% on its Shanghai debut in December 2025. MetaX r
 The technology gap is real but narrowing. Chinese GPUs are roughly 2-3 generations behind NVIDIA's best, but they're improving faster than the export control regime anticipated. The key advantage is the captive domestic market: every Chinese AI lab, cloud provider, and government agency needs GPUs, and they can't buy American ones.
 
 The constraint is software. NVIDIA's CUDA ecosystem has 20 years of developer tooling. Chinese GPU makers are building their own software stacks, but porting existing AI frameworks is slow. The hardware may close the gap before the software does.
+
+## Sources
+
+- [https://www.cnbc.com/2025/12/17/metax-moore-threads-chinese-rivals-nvidia-ai-chips.html](https://www.cnbc.com/2025/12/17/metax-moore-threads-chinese-rivals-nvidia-ai-chips.html)
+- [https://www.reuters.com/world/asia-pacific/chinas-nvidia-like-moore-threads-set-trading-debut-after-11-billion-ipo-2025-12-05/](https://www.reuters.com/world/asia-pacific/chinas-nvidia-like-moore-threads-set-trading-debut-after-11-billion-ipo-2025-12-05/)

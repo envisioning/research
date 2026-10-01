@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897810/horizons/technologies/9c79f93f-d183-4c29-9a05-41c3e96be6ad-google-gemini-3.1-flash-image-preview-9bwnqz.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Next-Generation High-Entropy Materials

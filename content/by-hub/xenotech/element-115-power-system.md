@@ -10,6 +10,8 @@ trl: 3
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898205/xenotech/technologies/element-115-power-system-openrouter-google-gemini-3.1-flash-image-preview-ks03ro.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Element 115 Power Source
@@ -63,3 +65,11 @@ If a super-heavy element does power alien craft, alternative explanations to gra
 ## Significance
 
 Element 115 power systems sit at a unique intersection—specific enough to be testable (synthesize stable isotopes, measure gravitational effects) yet sufficiently exotic to remain unverified. The technology represents either: genuine insight into alien energy systems based on undiscovered physics; misinterpretation or embellishment of classified nuclear research; or compelling science fiction grounded in real nuclear physics predictions. The absence of stable E115 samples, demonstrated gravity generation, or independent corroboration leaves the claim suspended between plausible extrapolation of nuclear physics and unsupported fringe theory. Only discovery of stable super-heavy isotopes and demonstration of nuclear-gravitational coupling would elevate the concept from testimony to verified science.
+
+## Sources
+
+- [Moscovium (Element 115) - The State Files](https://thestatefiles.com/moscovium-element-115) (2026)
+- [Bob Lazar, Element 115, and the Science of Gravity Amplification: A Deep Dive](https://www.cryptopark.com/bob-lazar-element-115-and-the-science-of-gravity-amplification-a-deep-dive) (2025)
+- [Element 115 (Moscovium): From Superheavy Synthesis to Speculative Antigravity in the Dual Sheet Model](https://medium.com/@mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac) (2025)
+- [Element 115: Bob Lazar’s Alien Fuel or Just Science Fiction?](https://vocal.media/history/element-115-bob-lazar-s-alien-fuel-or-just-science-fiction) (2025)
+- [Element 115: Theoretical Gravity Engines, Alien Lore, and the Outer Limits of Nuclear Physics](https://medium.com/@chrisjpersico/element-115-theoretical-gravity-engines-alien-lore-and-the-outer-limits-of-nuclear-physics-6c9ee258d613) (2025)

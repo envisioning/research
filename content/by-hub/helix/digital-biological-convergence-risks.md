@@ -9,6 +9,8 @@ trl: 4
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011625/helix/technologies/digital-biological-convergence-risks-gemini-3-pro-f7fo3s.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Digital-Biological Convergence Risks

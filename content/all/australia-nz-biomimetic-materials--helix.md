@@ -11,6 +11,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858221/helix/technologies/47e0717a-8cfc-4025-bcfd-c79dcc120150-google-gemini-3.1-flash-image-preview-asbpq7.jpg
+updated_at: '2026-09-28T17:18:31.051853+00:00'
+last_reviewed: null
 ---
 
 # Biomimetic Materials from Insect Silk
@@ -26,3 +28,7 @@ Humble Bee Bio, part of Cicada's Tech23 2025 'Built with Biology' cohort, studie
 Insect silk proteins are distinct from spider silk (which has attracted significant research investment globally) in their amino acid composition and structural properties. Australian native bee silk is particularly interesting because it naturally resists microbial degradation and maintains structural integrity in humid environments — properties that required millions of years of evolution in Australia's harsh climate. Recombinant production of these silk proteins in microbial hosts could enable manufacturing at scale.
 
 While still in early research stages, biomimetic materials from insect silk could eventually replace petroleum-based plastics in medical applications (sutures, wound dressings, implant coatings), packaging, and specialty textiles. Australia's unique biodiversity — particularly its diverse native bee species found nowhere else — provides a proprietary source of biomaterial inspiration that competitors cannot easily replicate.
+
+## Sources
+
+- [https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/](https://www.forbes.com.au/news/entrepreneurs/23-australian-deep-tech-startups-to-watch-in-2025/)

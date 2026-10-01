@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818961/substrate/technologies/78ad5522-4af5-4ad4-81d6-ee923a7d6a46-google-gemini-3.1-flash-image-preview-w7bo8f.jpg
+updated_at: '2026-09-28T17:16:49.923474+00:00'
+last_reviewed: null
 ---
 
 # JASM (TSMC Kumamoto Fabs)
@@ -26,3 +28,8 @@ Japan Advanced Semiconductor Manufacturing (JASM), TSMC's subsidiary in Kumamoto
 JASM employs approximately 2,400 workers and has catalyzed a semiconductor ecosystem boom in Kumamoto Prefecture — equipment suppliers, materials companies, and engineering firms are establishing operations nearby. Sony's adjacent semiconductor factory (image sensors) creates a customer-supplier cluster. The Kumamoto governor visited TSMC headquarters in November 2025 to discuss further expansion.
 
 The JASM investment transforms Japan's position in the semiconductor value chain: from materials and equipment supplier to also hosting leading-edge manufacturing. While Kumamoto's processes are not cutting-edge (that's Rapidus's role), the 6/7nm and potential 4nm capabilities serve critical automotive, industrial, and IoT markets where Japanese companies are major consumers. The combination of domestic production, proximity to customers, and Japan's quality manufacturing culture makes JASM a cornerstone of Japan's semiconductor renaissance.
+
+## Sources
+
+- [https://semiwiki.com/semiconductor-manufacturers/tsmc/363007-tsmc-kumamoto-pioneering-japans-semiconductor-revival/](https://semiwiki.com/semiconductor-manufacturers/tsmc/363007-tsmc-kumamoto-pioneering-japans-semiconductor-revival/)
+- [https://technode.com/2025/10/28/tsmc-begins-construction-of-kumamoto-second-fab-with-13-9-billion-investment/](https://technode.com/2025/10/28/tsmc-begins-construction-of-kumamoto-second-fab-with-13-9-billion-investment/)

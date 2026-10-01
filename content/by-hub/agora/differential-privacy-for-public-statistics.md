@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887231/agora/technologies/5564805c-a93e-4293-b746-ad098b8b8b7e-google-gemini-3.1-flash-image-preview-z8aslf.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Differential Privacy for Public Statistics

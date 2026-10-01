@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120058/forge/technologies/heavy-lift-cargo-drones-google-gemini-3-pro-image-preview-t2xx27.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Heavy-Lift Autonomous Cargo Drones

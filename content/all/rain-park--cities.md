@@ -10,6 +10,8 @@ trl: 8
 impact: 3
 investment: 2
 image_url: https://www.datocms-assets.com/134194/1719231163-rain-park.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Rain Park
@@ -29,3 +31,15 @@ The functioning of a Rain Park is elegantly simple yet highly effective. When it
 As cities continue to expand and impermeable surfaces increase, the risks associated with stormwater runoff become more pronounced. Rain Parks offer a sustainable and aesthetically pleasing solution to these issues. By incorporating these green spaces into urban planning, cities can mitigate flooding, enhance water quality, and create recreational areas that improve the quality of life for residents.
 
 Moreover, Rain Parks play a crucial role in the broader context of climate resilience. They help cities adapt to the increasing frequency and intensity of rainfall events brought about by climate change. By reducing the urban heat island effect and supporting biodiversity, these parks also contribute to a healthier urban ecosystem. In essence, Rain Parks are a vital component of forward-thinking urban design, providing both environmental and social benefits.
+
+## Sources
+
+- [Effectiveness of Rain Gardens for Managing Non-Point Source Pollution from Urban Surface Storm Water Runoff in Eastern Texas, USA](https://www.mdpi.com/2071-1050/17/10/4631) (2025)
+- [Bangkok is sinking. Here's how a new park can protect the city from flooding](https://www.weforum.org/agenda/2018/09/bangkok-has-created-a-sponge-park-to-combat-future-flooding/)
+- [Building a Climate-Resilient City: Urban ecosystems](https://weadapt.org/knowledge-base/cities-and-climate-change/building-a-climate-resilient-city-urban-ecosystems/)
+- [Design for flooding: how cities can make room for water](https://theconversation.com/design-for-flooding-how-cities-can-make-room-for-water-105844)
+- [Parks as a Solution to Climate Change](https://www.nrpa.org/parks-recreation-magazine/2019/april/parks-as-a-solution-to-climate-change/)
+- [Powering resilient urban environments through public spaces](https://urbanresiliencehub.org/articles/redefining-public-spaces-as-essential-for-a-good-and-resilient-urban-environment/)
+- [Urban stormwater management for sustainable and resilient measures and practices: a review](https://iwaponline.com/wst/article/85/4/1120/86384/Urban-stormwater-management-for-sustainable-and)
+- [WHY WE NEED TO RESTORE FLOODPLAINS](https://www.americanrivers.org/threats-solutions/restoring-damaged-rivers/benefits-of-restoring-floodplains/)
+- [What would an entirely flood-proof city look like?](https://www.theguardian.com/cities/2017/sep/25/what-flood-proof-city-china-dhaka-houston)

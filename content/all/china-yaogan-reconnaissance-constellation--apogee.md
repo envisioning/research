@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807042/apogee/technologies/45dae195-6ec4-40d2-92a6-706b25318d88-google-gemini-3.1-flash-image-preview-csqfqm.jpg
+updated_at: '2026-09-28T17:17:57.534722+00:00'
+last_reviewed: null
 ---
 
 # Yaogan Military Reconnaissance Satellite Constellation
@@ -26,3 +28,9 @@ The Yaogan (遥感) series is China's primary military intelligence, surveillanc
 The Yaogan constellation provides the PLA with persistent, all-weather surveillance capability globally. SAR satellites (Jianbing-7 class) operate with side-looking radar enabling imaging through clouds and at night. Multi-satellite formations enable rapid revisit times over areas of interest including the Taiwan Strait, South China Sea, and the Indian Ocean. This capability is critical for China's anti-access/area-denial (A2/AD) strategy, providing targeting data for anti-ship ballistic missiles.
 
 At 178+ satellites, Yaogan represents arguably the most significant military space buildup since the Cold War. The constellation's scale — approaching the size of the US military satellite fleet — transforms China from a regional to a global ISR power. Combined with BeiDou navigation and Tianlian data relay satellites, China has built a complete sovereign space-based C4ISR architecture independent of any foreign systems.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Yaogan](https://en.wikipedia.org/wiki/Yaogan)
+- [https://satellitemap.space/constellation/yaogan](https://satellitemap.space/constellation/yaogan)
+- [https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/](https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/)

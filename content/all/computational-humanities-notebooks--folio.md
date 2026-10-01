@@ -9,6 +9,8 @@ trl: 8
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476957/folio/technologies/computational-humanities-notebooks-google-gemini-3-pro-image-preview-tntzjg.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Computational Humanities Notebooks

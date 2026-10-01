@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809576/grid/technologies/ddf81b5a-823b-43ac-aad4-5b47aed709af-google-gemini-3.1-flash-image-preview-v92j63.jpg
+updated_at: '2026-09-28T17:18:07.445296+00:00'
+last_reviewed: null
 ---
 
 # Green Steel and HIsarna Technology
@@ -26,3 +28,9 @@ India is the world's second-largest steel producer after China, producing over 1
 Beyond HIsarna, Indian steelmakers are pursuing hydrogen-based steelmaking. Tata Steel became India's first steel company to demonstrate end-to-end capabilities for developing steel pipes for hydrogen transportation — solving a critical infrastructure challenge for the hydrogen economy. JSW Steel and SAIL are also piloting hydrogen injection into blast furnaces to replace coal. India's National Green Hydrogen Mission (targeting 5 million tonnes of green hydrogen by 2030) creates a potential domestic supply of clean hydrogen for steelmaking.
 
 The stakes are enormous. Global steel production generates 7-9% of all CO2 emissions. As the EU implements its Carbon Border Adjustment Mechanism (CBAM), Indian steel exporters face potential tariffs if they can't decarbonize. India's green steel efforts are therefore both an environmental imperative and an export competitiveness necessity. If Indian companies can crack affordable green steel at scale — applying the same cost-engineering discipline that makes Indian manufacturing competitive in other sectors — they could set the standard for decarbonized steel production in the developing world.
+
+## Sources
+
+- [https://www.tatasteel.com/corporate/wealsomaketomorrow/blog/hisarna-a-radical-new-steel-making-process-at-tata-steel-the-tomorrow-series/](https://www.tatasteel.com/corporate/wealsomaketomorrow/blog/hisarna-a-radical-new-steel-making-process-at-tata-steel-the-tomorrow-series/)
+- [https://www.tatasteel.com/newsroom/press-releases/india/2025/tata-steel-becomes-india-s-first-steel-company-to-demonstrate-end-to-end-capabilities-to-develop-steel-pipes-for-transportation-of-hydrogen/](https://www.tatasteel.com/newsroom/press-releases/india/2025/tata-steel-becomes-india-s-first-steel-company-to-demonstrate-end-to-end-capabilities-to-develop-steel-pipes-for-transportation-of-hydrogen/)
+- [https://www.tata.com/newsroom/business/tata-steel-tech-transformation-sector](https://www.tata.com/newsroom/business/tata-steel-tech-transformation-sector)

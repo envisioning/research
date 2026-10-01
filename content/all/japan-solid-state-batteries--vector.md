@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819674/vector/technologies/fa82a983-c89b-4460-a7ee-6e85778545fc-google-gemini-3.1-flash-image-preview-t8m04u.png
+updated_at: '2026-09-28T17:16:49.79144+00:00'
+last_reviewed: null
 ---
 
 # All-Solid-State Batteries
@@ -25,3 +27,8 @@ Toyota holds over 1,000 patents on solid-state battery technology — more than 
 Solid-state batteries replace the liquid electrolyte in conventional lithium-ion cells with a solid material, eliminating fire risk, enabling higher energy density (potentially 2-3x current cells), and allowing faster charging. If Toyota achieves its targets, solid-state batteries would represent the most significant battery technology breakthrough since lithium-ion commercialization in 1991 — also a Japanese innovation (Sony).
 
 The global stakes are enormous: the EV battery market is projected to exceed $400 billion by 2030. China currently dominates lithium-ion battery manufacturing (CATL, BYD), but solid-state technology could reset the competitive landscape. Toyota's strategy of patient, deep R&D followed by rapid scale-up mirrors the approach that made the Prius hybrid system dominant — and solid-state batteries are the single technology most likely to restore Japan's automotive technology leadership.
+
+## Sources
+
+- [https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/](https://electrek.co/2026/01/30/toyota-partner-breaks-ground-on-all-solid-state-ev-battery-plant/)
+- [https://www.cbtnews.com/toyota-to-launch-solid-state-battery-production-by-2026/](https://www.cbtnews.com/toyota-to-launch-solid-state-battery-production-by-2026/)

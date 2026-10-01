@@ -10,6 +10,8 @@ trl: 4
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889208/epoch/technologies/75d0d63d-bfc6-4c9e-8b94-b4ff62a8fabe-google-gemini-3.1-flash-image-preview-lds31n.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Programmable Cell Factories

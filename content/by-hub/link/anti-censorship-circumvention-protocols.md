@@ -9,6 +9,8 @@ trl: 7
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179486/link/technologies/anti-censorship-circumvention-protocols-google-gemini-3-pro-image-preview-z1z39i.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Anti-Censorship & Circumvention Protocols

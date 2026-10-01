@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818334/wintermute/technologies/35ecec18-bfc7-4cd2-980f-5200b3a6f1c1-google-gemini-3.1-flash-image-preview-0ycuf1.jpg
+updated_at: '2026-09-28T17:18:22.303128+00:00'
+last_reviewed: null
 ---
 
 # Digital Yen (CBDC) Development
@@ -26,3 +28,8 @@ The Bank of Japan (BOJ) has been conducting CBDC pilot tests since 2021, complet
 Japan's motivation for CBDC research is defensive rather than offensive: concern about China's digital yuan gaining international traction, declining cash usage among younger demographics, and the desire to maintain monetary sovereignty in an increasingly digital financial system. Japan remains one of the most cash-intensive developed economies (~20% of transactions still use cash), partly due to elderly population preferences.
 
 The digital yen represents a balancing act: modernizing payment infrastructure while accommodating a large elderly population comfortable with cash, maintaining privacy (Japanese society values financial privacy), and not disrupting the existing banking system. The BOJ's deliberate approach contrasts with China's rapid digital yuan rollout but reflects Japan's preference for thorough testing over fast deployment.
+
+## Sources
+
+- [https://iapp.org/resources/article/global-ai-governance-japan](https://iapp.org/resources/article/global-ai-governance-japan)
+- [https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025](https://introl.com/blog/japan-ai-infrastructure-135-billion-investment-2025)

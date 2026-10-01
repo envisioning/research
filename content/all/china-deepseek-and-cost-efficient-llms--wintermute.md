@@ -10,6 +10,8 @@ trl: 8
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797172/wintermute/technologies/6630bd35-3e5a-4311-bf17-082e1e4c0f43-google-gemini-3.1-flash-image-preview-8ci2pp.jpg
+updated_at: '2026-09-28T17:17:57.946916+00:00'
+last_reviewed: null
 ---
 
 # DeepSeek and Cost-Efficient LLMs
@@ -25,3 +27,8 @@ DeepSeek V3, built by a Chinese quantitative trading firm, achieved performance 
 This shattered the assumption that frontier AI requires billions of dollars and tens of thousands of GPUs. DeepSeek open-sourced its models, spawning an ecosystem of Chinese LLMs (Qwen, MiniMax, Moonshot) that compete on efficiency rather than raw compute.
 
 The constraint: the reported $5.6M covers only the final training run, not the years of research and failed experiments. But even accounting for that, China's AI labs are proving that optimization under hardware constraints can produce world-class results. The implication for export controls is uncomfortable: sanctions may be accelerating Chinese AI efficiency.
+
+## Sources
+
+- [https://www.zdnet.com/article/deepseek-reports-shockingly-low-training-costs-for-r1-in-new-paper/](https://www.zdnet.com/article/deepseek-reports-shockingly-low-training-costs-for-r1-in-new-paper/)
+- [https://www.theregister.com/2025/09/19/deepseek_cost_train/](https://www.theregister.com/2025/09/19/deepseek_cost_train/)

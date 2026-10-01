@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436089/grid/technologies/energy-burden-reduction-google-gemini-3-pro-image-preview-q7eh1n.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Energy Burden Reduction Programs

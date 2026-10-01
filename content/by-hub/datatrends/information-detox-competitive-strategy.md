@@ -9,6 +9,8 @@ trl: 4
 impact: 1
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593338/datatrends/technologies/information-detox-competitive-strategy-google-gemini-3-pro-image-preview-agazfg.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Information Detox as Competitive Strategy

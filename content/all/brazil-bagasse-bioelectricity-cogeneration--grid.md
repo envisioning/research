@@ -10,6 +10,8 @@ trl: 9
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793754/grid/technologies/0a751cbe-907d-45e5-89fb-ca5592c8aab6-google-gemini-3.1-flash-image-preview-api22r.jpg
+updated_at: '2026-09-28T17:17:53.518016+00:00'
+last_reviewed: null
 ---
 
 # Bagasse Bioelectricity (Cogeneration)
@@ -25,3 +27,8 @@ Sugarcane processing generates massive quantities of bagasse — the fibrous mat
 Globally, sugarcane bagasse has an annual electricity potential of 135,029 GWh. Brazil, as the world's largest sugarcane producer, captures a significant share. The technology is mature and self-financing — bagasse is a free fuel source that would otherwise require disposal.
 
 Bioelectricity from bagasse has a counter-cyclical advantage: sugarcane is harvested during Brazil's dry season (May-November), precisely when hydroelectric reservoirs are lowest. This natural complementarity makes bagasse power a stabilizing force for Brazil's hydro-dependent grid.
+
+## Sources
+
+- [https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-024-00223-z](https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-024-00223-z)
+- [https://www.sciencedirect.com/science/article/abs/pii/S2213138824004703](https://www.sciencedirect.com/science/article/abs/pii/S2213138824004703)

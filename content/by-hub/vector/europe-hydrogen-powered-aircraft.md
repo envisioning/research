@@ -10,6 +10,8 @@ trl: 4
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853551/vector/technologies/8586e599-0de0-40af-bc15-74f0c0840b7b-google-gemini-3.1-flash-image-preview-reodyz.jpg
+updated_at: '2026-09-28T17:17:14.124634+00:00'
+last_reviewed: null
 ---
 
 # Hydrogen-Powered Aircraft
@@ -25,3 +27,7 @@ Airbus's ZEROe program is developing hydrogen-powered aircraft for regional avia
 The timeline has slipped from the original 2035 target to the early 2040s for entry into service, reflecting the enormous engineering challenges of hydrogen storage, distribution, and airport infrastructure. But the program represents the most serious effort by a major aircraft manufacturer to develop zero-emission commercial aviation.
 
 Europe's advantage is regulatory: the EU's commitment to carbon neutrality by 2050 and the Fit for 55 package create regulatory certainty that zero-emission aircraft will be required. Airbus, as one of only two companies capable of building commercial aircraft at scale (alongside Boeing), is the only manufacturer with both the engineering capability and the business incentive to make hydrogen aviation work.
+
+## Sources
+
+- [https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe-our-hydrogen-powered-aircraft](https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe-our-hydrogen-powered-aircraft)

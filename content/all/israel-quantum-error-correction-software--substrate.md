@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774874895/substrate/technologies/0006aad8-2830-45d1-9afe-0d0a4eb0ad23-google-gemini-3.1-flash-image-preview-2yotjr.jpg
+updated_at: '2026-09-28T17:18:41.899104+00:00'
+last_reviewed: null
 ---
 
 # Quantum Circuit Optimization and Error Mitigation Software
@@ -26,3 +28,8 @@ Classiq Technologies has developed a quantum computing software platform that au
 The quantum software layer is a critical bottleneck: even as quantum hardware scales from tens to hundreds of qubits, the ability to write efficient quantum programs has not kept pace. Classiq's approach parallels what compilers did for classical computing — abstracting away low-level complexity so that domain experts (in finance, chemistry, logistics) can leverage quantum computing without needing to be quantum physicists.
 
 Israel's quantum software cluster also includes Qedma (quantum error mitigation), which developed techniques to extract useful results from noisy quantum computers — a practical necessity since error-free quantum computers remain years away. Together with Quantum Machines' hardware control platform, these companies form an Israeli quantum stack that spans from physical qubit control to high-level circuit synthesis, positioning Israel as a quantum middleware powerhouse.
+
+## Sources
+
+- [https://www.calcalistech.com/ctechnews/article/bk15be00mbg](https://www.calcalistech.com/ctechnews/article/bk15be00mbg)
+- [https://world-of-quantum.com/en/quantum-industry-insights/detail/israel-national-quantum-initiative.html](https://world-of-quantum.com/en/quantum-industry-insights/detail/israel-national-quantum-initiative.html)

@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889850/wonen/technologies/9149a33d-7ab5-4f2c-8d01-b7f7872d73e8-google-gemini-3.1-flash-image-preview-shhl5w.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Woonzorgvisie (Housing-Care Vision)

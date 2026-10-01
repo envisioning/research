@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058383/threads/technologies/image-based-overproduction-reduction-gemini-3-pro-nnvc8n.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Image-Based Predictive Analytics to Reduce Overproduction

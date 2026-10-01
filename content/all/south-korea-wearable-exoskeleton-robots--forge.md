@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817264/forge/technologies/ae049a28-c9b9-4711-8d3e-3ee794aece0e-google-gemini-3.1-flash-image-preview-cb8s1n.png
+updated_at: '2026-09-28T17:17:27.950027+00:00'
+last_reviewed: null
 ---
 
 # Wearable Exoskeleton Robots
@@ -25,3 +27,8 @@ Hyundai Robotics developed the X-ble Shoulder, a wearable exoskeleton that suppo
 Korea's exoskeleton development is unusual because it's driven by industrial conglomerates solving their own workforce problems. Hyundai doesn't just sell exoskeletons — it deploys them in its own shipyards (HD Hyundai) and factories, creating a captive testing ground. Samsung has parallel exoskeleton programs for its construction and semiconductor fab workers.
 
 As Korea's population ages and manufacturing labor becomes scarcer, wearable robotics offer a bridge technology — augmenting existing workers rather than replacing them. The Korean Ministry of Trade, Industry, and Energy has set a target of 10,000 exoskeletons deployed across Korean industry by 2027.
+
+## Sources
+
+- [https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-x-ble-exoskeleton](https://www.hyundai.com/worldwide/en/company/newsroom/hyundai-x-ble-exoskeleton)
+- [https://www.roboticstomorrow.com/article/2024/11/korean-exoskeletons-shipyards-agriculture/](https://www.roboticstomorrow.com/article/2024/11/korean-exoskeletons-shipyards-agriculture/)

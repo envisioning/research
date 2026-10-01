@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889017/wonen/technologies/6b1e3fb6-9dbc-4d44-a45d-79578176d0c6-google-gemini-3.1-flash-image-preview-yi0bi1.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Burgerberaad (Citizens' Assemblies) for Housing

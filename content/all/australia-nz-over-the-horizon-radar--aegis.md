@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858299/aegis/technologies/5d8121d1-31ae-441e-a10b-2624a5c9bfc7-google-gemini-3.1-flash-image-preview-d6x1yo.jpg
+updated_at: '2026-09-28T17:16:42.07174+00:00'
+last_reviewed: null
 ---
 
 # Over-the-Horizon Radar (JORN)
@@ -25,3 +27,9 @@ The Jindalee Operational Radar Network (JORN) is a system of three over-the-hori
 JORN represents one of the world's most advanced OTH radar capabilities, providing Australia with strategic early warning that most nations achieve only through satellite constellations costing orders of magnitude more. The system's ability to detect stealth aircraft and ballistic missile launches from thousands of kilometers away makes it a cornerstone of Australian and allied defense posture in the Indo-Pacific. JORN also supports civilian functions including ionospheric research and maritime domain awareness.
 
 The March 2025 announcement that Canada would purchase JORN technology for AU$6.5B for Arctic deployment validated decades of Australian R&D investment and established Australia as a defense technology exporter rather than merely a customer. This export deal — one of Australia's largest defense technology sales — demonstrates that sovereign capability can generate significant returns. The technology's relevance to Arctic surveillance, Indo-Pacific security, and space situational awareness ensures sustained global demand.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Jindalee_Operational_Radar_Network](https://en.wikipedia.org/wiki/Jindalee_Operational_Radar_Network)
+- [https://www.dst.defence.gov.au/innovation/jindalee-operational-radar-network](https://www.dst.defence.gov.au/innovation/jindalee-operational-radar-network)
+- [https://www.asianmilitaryreview.com/2025/07/canada-firms-up-plans-for-australian-developed-over-the-horizon-radar-foc/](https://www.asianmilitaryreview.com/2025/07/canada-firms-up-plans-for-australian-developed-over-the-horizon-radar-foc/)

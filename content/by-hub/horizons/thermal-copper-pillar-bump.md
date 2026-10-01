@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882439/horizons/technologies/0cacb334-5260-4478-ba94-e86d7a3024a8-google-gemini-3.1-flash-image-preview-ct8wv3.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Thermal Copper Pillar Bump

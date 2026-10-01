@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815333/vault/technologies/54c6a8ab-4db2-49aa-8c3b-2682ef96227e-google-gemini-3.1-flash-image-preview-l3wbkt.png
+updated_at: '2026-09-28T17:18:16.976975+00:00'
+last_reviewed: null
 ---
 
 # Islamic Fintech & Shariah-Compliant Digital Finance
@@ -26,3 +28,7 @@ Malaysia — Malaysia is the world's largest Islamic finance market and is exten
 The addressable market is enormous: global Islamic finance assets exceed $3.7 trillion, with 1.8 billion Muslims worldwide seeking Shariah-compliant financial products. Traditional Islamic banking is complex (profit-sharing structures, prohibition on interest), but fintech simplifies access — a Malaysian farmer can now invest in Shariah-compliant funds through a mobile app.
 
 Malaysia's strategic advantage is regulatory sophistication: Bank Negara has developed the world's most comprehensive framework for Islamic digital finance, which other Muslim-majority countries (Indonesia, Pakistan, Bangladesh, Gulf States) use as reference. This regulatory export — selling the framework rather than the products — positions Malaysia as the standard-setter for Islamic fintech globally.
+
+## Sources
+
+- [https://www.mordorintelligence.com/industry-reports/indonesia-financial-technology-services-market](https://www.mordorintelligence.com/industry-reports/indonesia-financial-technology-services-market)

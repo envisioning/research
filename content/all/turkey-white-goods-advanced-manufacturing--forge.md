@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855876/forge/technologies/8fee27fc-44b1-488d-b39b-38e32457a644-google-gemini-3.1-flash-image-preview-ebx0ge.png
+updated_at: '2026-09-28T17:18:29.566599+00:00'
+last_reviewed: null
 ---
 
 # Smart Home Appliance Manufacturing
@@ -26,3 +28,9 @@ Turkey has become Europe's largest home appliance manufacturing base, with Arçe
 The technology dimension extends beyond basic appliance manufacturing into IoT-connected smart home devices, energy-efficient inverter technologies, and automated production lines. Arçelik operates 30+ production facilities across multiple continents, having merged with Whirlpool's European operations in 2024 to create the continent's largest appliance company. The sector employs advanced robotics, AI-driven quality control, and Industry 4.0 manufacturing techniques that place Turkish factories among the most efficient globally.
 
 Strategically, white goods manufacturing represents Turkey's most successful 'embedded technology' export — Turkish-designed and built products sit in millions of European, African, and Asian homes under recognized brand names. The sector's competitive advantage stems from the combination of scale, relatively competitive labor costs, proximity to European markets, and decades of accumulated manufacturing expertise. As appliances become increasingly connected and software-driven, Turkey's appliance sector is evolving from hardware manufacturing into a platform for IoT services and energy management technology.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Ar%C3%A7elik](https://en.wikipedia.org/wiki/Ar%C3%A7elik)
+- [https://tacirler.com.tr/upload/files/2024/1-6/white-goods-industry-overview-1.pdf](https://tacirler.com.tr/upload/files/2024/1-6/white-goods-industry-overview-1.pdf)
+- [https://peloteksourcing.com/turkish-appliance-manufacturers/](https://peloteksourcing.com/turkish-appliance-manufacturers/)

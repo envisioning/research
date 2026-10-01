@@ -10,6 +10,8 @@ trl: 5
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372710/datatrends/technologies/data-products-marketplaces-google-gemini-3-pro-image-preview-btil7g.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Data Products & Marketplaces

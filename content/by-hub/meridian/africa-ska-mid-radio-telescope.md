@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774811108/meridian/technologies/c0498781-52a4-400a-98d6-d5231b728ced-google-gemini-3.1-flash-image-preview-qjouhx.jpg
+updated_at: '2026-09-28T17:18:01.673197+00:00'
+last_reviewed: null
 ---
 
 # SKA-Mid Radio Telescope Array
@@ -26,3 +28,9 @@ The Square Kilometre Array Mid-frequency telescope (SKA-Mid) is being built in S
 South Africa was selected to host SKA-Mid because the Karoo offers some of the world's quietest radio spectrum — far from urban electromagnetic interference. The country invested heavily in the precursor MeerKAT telescope (64 dishes, operational since 2018), which has already produced world-class science including the discovery of giant radio galaxies and detailed maps of the galactic center. MeerKAT's dishes will be integrated into SKA-Mid.
 
 The project's significance for Africa extends beyond astronomy. SKA is driving development of Africa's scientific and engineering capacity — data processing for SKA will require some of the world's most advanced computing infrastructure, located in Africa. South African universities are training a generation of radio astronomers, data scientists, and engineers. The South African Radio Astronomy Observatory (SARAO) has become a center of excellence in high-performance signal processing, data management, and precision engineering.
+
+## Sources
+
+- [https://www.skao.int/en/explore/construction-journey](https://www.skao.int/en/explore/construction-journey)
+- [https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/](https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/)
+- [https://www.sarao.ac.za/about/the-project/](https://www.sarao.ac.za/about/the-project/)

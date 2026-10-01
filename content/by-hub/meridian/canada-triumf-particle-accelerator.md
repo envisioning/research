@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871354/meridian/technologies/9bc0198f-2658-4855-9bfe-99850b46c7c5-google-gemini-3.1-flash-image-preview-lfuyxm.jpg
+updated_at: '2026-09-28T17:17:06.816876+00:00'
+last_reviewed: null
 ---
 
 # TRIUMF Particle Accelerator Complex
@@ -26,3 +28,7 @@ TRIUMF, Canada's particle accelerator center in Vancouver, operates the world's 
 TRIUMF matters because it provides research infrastructure that no single university or company could build independently. The facility's isotope production is globally significant — Canada produces a substantial fraction of the world's medical isotopes, particularly molybdenum-99 used in heart, bone, and cancer imaging. TRIUMF also trains the next generation of nuclear scientists and engineers critical for Canada's nuclear energy ambitions.
 
 Strategically, TRIUMF is a national asset that supports multiple innovation priorities: nuclear medicine for healthcare, materials analysis for mining and manufacturing, detector technology for security applications, and training for the nuclear workforce needed for SMR deployment. The facility exemplifies Canada's approach of investing in shared infrastructure that enables innovation across multiple sectors.
+
+## Sources
+
+- [https://www.triumf.ca/](https://www.triumf.ca/)

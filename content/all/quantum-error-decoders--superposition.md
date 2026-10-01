@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181244/superposition/technologies/quantum-error-decoders-gemini-3-pro-fz8j1x.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Quantum Error Correction Decoders

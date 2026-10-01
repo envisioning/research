@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135025/haul/technologies/automated-cross-border-trade-google-gemini-3-pro-image-preview-7spbye.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Automated Cross-Border Trade Compliance

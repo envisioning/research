@@ -11,6 +11,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817242/prism/technologies/a6e9fe5a-3f1c-4a79-8e09-dd6dbf7e65ea-google-gemini-3.1-flash-image-preview-bzyuuw.jpg
+updated_at: '2026-09-28T17:17:38.983677+00:00'
+last_reviewed: null
 ---
 
 # K-Beauty Technology Pipeline
@@ -26,3 +28,8 @@ South Korea's cosmetics industry (Amorepacific, LG H&H, Cosrx, Innisfree, Sulwha
 K-beauty innovation is R&D-intensive in ways that casual consumers don't see — Korean cosmetics companies operate advanced dermatological research labs testing ingredients like snail mucin, centella asiatica, fermented extracts, and peptide complexes with clinical rigor. Companies like Amorepacific use AI skin analysis (camera-based and microbiome-based) to personalize product recommendations, and 3D-printed face masks customized to individual facial geometry.
 
 The K-beauty pipeline functions as a leading indicator for global beauty trends — formulations and formats that appear in Korean products typically reach Western markets 2-3 years later. This trend-setting position gives Korean companies structural first-mover advantage and premium pricing power in international markets.
+
+## Sources
+
+- [https://www.amorepacific.com/en/innovation](https://www.amorepacific.com/en/innovation)
+- [https://www.beautyindependent.com/k-beauty-innovation-2025/](https://www.beautyindependent.com/k-beauty-innovation-2025/)

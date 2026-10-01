@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858320/grid/technologies/5f0f5092-ab9f-4604-af18-41094a0a9ddc-google-gemini-3.1-flash-image-preview-5q19w3.jpg
+updated_at: '2026-09-28T17:18:31.291615+00:00'
+last_reviewed: null
 ---
 
 # Green Ammonia for Export and Shipping Fuel
@@ -26,3 +28,8 @@ Green ammonia — produced by combining green hydrogen with atmospheric nitrogen
 Ammonia has dual applications: as a hydrogen carrier that can be 'cracked' back into hydrogen at the destination, and as a direct-use zero-carbon fuel for shipping (the International Maritime Organization is targeting 50% emissions reduction by 2050). Japan and South Korea have both identified ammonia co-firing in existing power plants as a transition fuel strategy, creating immediate demand for Australian green ammonia exports.
 
 The Cicada Tech23 2025 cohort highlighted clean ammonia as a priority deep tech area for Australia. While the underlying electrolysis and Haber-Bosch chemistry is well understood, scaling to export quantities while achieving cost parity with grey ammonia (made from natural gas) remains the challenge. Australia's Guarantee of Origin scheme, which commenced November 2025, provides the certification framework needed to command premium prices for verified-green ammonia in international markets.
+
+## Sources
+
+- [https://international.austrade.gov.au/en/news-and-analysis/success-stories/new-6-gw-plant-in-western-australia-to-spearhead-hydrogen-exports](https://international.austrade.gov.au/en/news-and-analysis/success-stories/new-6-gw-plant-in-western-australia-to-spearhead-hydrogen-exports)
+- [https://www.dcceew.gov.au/energy/hydrogen](https://www.dcceew.gov.au/energy/hydrogen)

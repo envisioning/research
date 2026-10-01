@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815114/grid/technologies/28d1924e-8a4a-4240-950c-a27a91b4551c-google-gemini-3.1-flash-image-preview-1uo9vp.png
+updated_at: '2026-09-28T17:18:14.229582+00:00'
+last_reviewed: null
 ---
 
 # High-Blend Palm Oil Biodiesel (B35+)
@@ -26,3 +28,8 @@ Indonesia — Indonesia implemented the world's most aggressive biodiesel mandat
 The technology challenge at B35+ is significant: higher palm oil blends affect cold-flow properties, injector coking, and engine durability. Indonesian research institutions are developing additives, winterization processes, and engine modifications to make B40+ technically viable for the existing vehicle fleet — including the millions of diesel trucks and buses that form Indonesia's logistics backbone.
 
 Globally, Indonesia's aggressive biodiesel mandate creates a real-world laboratory for high-blend biofuels. If B40-B50 proves technically and economically viable, it demonstrates that palm oil-producing tropical nations can significantly reduce fossil fuel dependence using existing agricultural output. The environmental calculus is contested (palm oil plantation expansion vs. fossil fuel displacement), but the technical achievement of running a nation of 275 million on 35%+ biofuel blends is undeniable.
+
+## Sources
+
+- [https://www.aseanbriefing.com/news/an-overview-of-indonesias-geothermal-energy-sector/](https://www.aseanbriefing.com/news/an-overview-of-indonesias-geothermal-energy-sector/)
+- [https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biofuels+Annual_Kuala+Lumpur_Malaysia_MY2024-0010.pdf](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biofuels+Annual_Kuala+Lumpur_Malaysia_MY2024-0010.pdf)

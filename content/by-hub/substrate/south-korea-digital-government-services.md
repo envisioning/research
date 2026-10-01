@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816417/substrate/technologies/17955b34-b214-4381-8af5-76cdd3b8b72f-google-gemini-3.1-flash-image-preview-hdk2h5.jpg
+updated_at: '2026-09-28T17:18:19.084596+00:00'
+last_reviewed: null
 ---
 
 # Digital Government Services
@@ -25,3 +27,8 @@ South Korea consistently tops the UN E-Government Development Index, with virtua
 Korea's digital government advantage comes from early investment (the e-Government initiative launched in 2001), high smartphone penetration (97%), world-class broadband infrastructure, and cultural willingness to adopt digital services. During COVID-19, Korea deployed digital contact tracing, QR-code entry logging, and vaccination certification systems faster than any other democracy.
 
 The Korean model is now an export product — KISA (Korea Internet & Security Agency) and NIA (National Information Society Agency) consult with governments worldwide on digital government implementation. Korea has signed e-government cooperation agreements with over 70 countries. The digital government stack also creates a platform for AI-driven public services: automated welfare eligibility, predictive infrastructure maintenance, and natural language interfaces for citizen inquiries.
+
+## Sources
+
+- [https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024)
+- [https://www.gov.kr/portal/main](https://www.gov.kr/portal/main)

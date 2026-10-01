@@ -10,6 +10,8 @@ trl: 2
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582821/habitacao/technologies/integridade-transparencia-obras-publicas-google-gemini-3-pro-image-preview-na2w27.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Integridade e Transparência em Obras Públicas

@@ -10,6 +10,8 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814326/apogee/technologies/9bbe0cbd-d6b7-42b6-8097-afbd29ba68e7-google-gemini-3.1-flash-image-preview-x4j53f.png
+updated_at: '2026-09-28T17:18:13.735748+00:00'
+last_reviewed: null
 ---
 
 # Emirates Mars Mission (Hope Probe)
@@ -25,3 +27,8 @@ The Emirates Mars Mission, known as the Hope Probe, launched in July 2020 and en
 The mission's scientific value is complemented by its institutional impact: the UAE Space Agency and Mohammed Bin Rashid Space Centre built genuine aerospace engineering capabilities by partnering with the University of Colorado. This knowledge-transfer model — where Emirati engineers worked alongside US counterparts rather than simply purchasing a turnkey spacecraft — created lasting human capital.
 
 Gulf space ambitions are expanding: Saudi Arabia has established its own space commission, the UAE is planning follow-on missions including an asteroid belt exploration, and the region's investment in satellite manufacturing and earth observation is growing. Space serves as a powerful symbolic and practical driver of STEM education and national identity in post-oil economies.
+
+## Sources
+
+- [https://space.gov.ae/en/initiatives-and-projects/emirates-mars-mission](https://space.gov.ae/en/initiatives-and-projects/emirates-mars-mission)
+- [https://www.semafor.com/article/02/11/2026/gulf-states-build-on-uaes-mars-breakthrough](https://www.semafor.com/article/02/11/2026/gulf-states-build-on-uaes-mars-breakthrough)

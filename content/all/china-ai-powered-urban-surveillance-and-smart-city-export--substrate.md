@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774797856/substrate/technologies/c7236c48-d10c-49c8-a09a-b4d55eb801bb-google-gemini-3.1-flash-image-preview-feoi8f.jpg
+updated_at: '2026-09-28T17:17:59.043227+00:00'
+last_reviewed: null
 ---
 
 # AI-Powered Urban Surveillance and Smart City Export
@@ -26,3 +28,8 @@ Hikvision, Dahua, SenseTime, and Huawei have built the world's most comprehensiv
 The technology is exported globally as 'safe city' or 'smart city' infrastructure packages, bundled with financing through Belt and Road partnerships. Atlantic Council research documented Chinese surveillance technology deployments in dozens of countries across Africa, Southeast Asia, Latin America, and the Middle East.
 
 The technology works — crime rates, traffic violations, and emergency response times all improve measurably. The question is the governance model that comes with it. Western democracies and rights organizations raise concerns that China is exporting authoritarian surveillance infrastructure. But for many governments facing real security challenges, the technology solves problems they can't address otherwise.
+
+## Sources
+
+- [https://www.atlanticcouncil.org/blogs/geotech-cues/the-west-china-and-ai-surveillance/](https://www.atlanticcouncil.org/blogs/geotech-cues/the-west-china-and-ai-surveillance/)
+- [https://en.wikipedia.org/wiki/Mass_surveillance_in_China](https://en.wikipedia.org/wiki/Mass_surveillance_in_China)

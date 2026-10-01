@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815028/substrate/technologies/1432cd13-d38e-4b2d-96d2-346bc341628c-google-gemini-3.1-flash-image-preview-smhi7x.jpg
+updated_at: '2026-09-28T17:16:41.717196+00:00'
+last_reviewed: null
 ---
 
 # Tropical-Climate Data Center Cooling
@@ -26,3 +28,8 @@ Thailand & Malaysia — As $40+ billion in data center investments pour into tro
 Thailand's EEC data centers are piloting liquid immersion tanks where servers operate submerged in dielectric fluid, reducing cooling energy consumption by 40-50% compared to air cooling. Malaysia's Johor facilities are experimenting with waste heat capture for agricultural applications — using server exhaust heat for vertical farming and food dehydration.
 
 This is where climate challenge creates innovation advantage. If Southeast Asian engineers solve equatorial data center efficiency at scale, the resulting technologies become essential for every tropical country building AI infrastructure — covering most of Africa, South America, South Asia, and the Pacific Islands. The $23 billion flowing into Thai data centers alone provides massive real-world R&D budget for tropical cooling innovation.
+
+## Sources
+
+- [https://rcrtech.com/ai-infrastructure-news/inside-thailands-data-center/](https://rcrtech.com/ai-infrastructure-news/inside-thailands-data-center/)
+- [https://www.ainvest.com/news/thailand-ai-driven-data-center-boom-6-5-billion-infrastructure-opportunity-2508/](https://www.ainvest.com/news/thailand-ai-driven-data-center-boom-6-5-billion-infrastructure-opportunity-2508/)

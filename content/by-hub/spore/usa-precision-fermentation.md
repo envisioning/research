@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860759/spore/technologies/5394f416-6c5e-4c15-8859-e96b3b751aae-google-gemini-3.1-flash-image-preview-yg1efp.jpg
+updated_at: '2026-09-28T17:18:33.589722+00:00'
+last_reviewed: null
 ---
 
 # Precision Fermentation for Food Proteins
@@ -26,3 +28,8 @@ Precision fermentation programs microorganisms (yeast, bacteria, fungi) to produ
 This technology decouples animal protein production from animal agriculture. Each protein is molecularly identical to its animal-derived counterpart but produced in steel fermenters rather than on farms. As costs decline (currently 2-5x more expensive than conventional proteins), precision fermentation could displace significant portions of the dairy and egg industries.
 
 The US leads in precision fermentation through its biotech ecosystem, with over $2 billion invested in the sector. The technology has implications for food security (fermentation doesn't depend on weather, land, or animal health), environmental impact (dramatically lower greenhouse gas emissions and water use), and geopolitical resilience (protein production near population centers rather than agricultural regions).
+
+## Sources
+
+- [https://www.svb.com/trends-insights/reports/future-of-frontier-tech/](https://www.svb.com/trends-insights/reports/future-of-frontier-tech/)
+- [https://www.genengnews.com/topics/drug-discovery/biopharma-embraces-synthetic-biology/](https://www.genengnews.com/topics/drug-discovery/biopharma-embraces-synthetic-biology/)

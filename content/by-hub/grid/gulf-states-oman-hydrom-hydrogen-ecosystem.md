@@ -10,6 +10,8 @@ trl: 5
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814735/grid/technologies/e5a25e6e-13a6-40f0-8306-c51ffb1903aa-google-gemini-3.1-flash-image-preview-6l580r.jpg
+updated_at: '2026-09-28T17:17:22.762742+00:00'
+last_reviewed: null
 ---
 
 # Oman Hydrom Green Hydrogen Program
@@ -25,3 +27,9 @@ Hydrom (Hydrogen Oman) was established in 2022 by royal directive to orchestrate
 Oman's hydrogen strategy is distinctive because it's the country's primary diversification play. Unlike the UAE and Saudi Arabia, which have multiple tech verticals, Oman is concentrating resources on becoming a green hydrogen export hub. The Sur hydrogen cluster and Duqm port infrastructure are being developed specifically for hydrogen and green ammonia export to European and Asian markets.
 
 Hydrom's auction-based model — allocating land blocks to international consortia — mirrors the oil concession system that Gulf states pioneered, applying familiar institutional frameworks to a new energy commodity. This approach has attracted serious industrial players and could position Oman as a top-five global green hydrogen producer by 2035.
+
+## Sources
+
+- [https://hydrom.om/](https://hydrom.om/)
+- [https://gh2.org/countries/oman](https://gh2.org/countries/oman)
+- [https://www.saudigulfprojects.com/2024/04/oman-awards-11-billion-two-new-green-hydrogen-projects-in-dhofar/](https://www.saudigulfprojects.com/2024/04/oman-awards-11-billion-two-new-green-hydrogen-projects-in-dhofar/)

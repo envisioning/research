@@ -10,6 +10,8 @@ trl: 3
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939873/xenotech/technologies/angular-cloaking-imagegen-v1.png
+updated_at: '2026-08-28T17:57:54.287727+00:00'
+last_reviewed: null
 ---
 
 # Angular Cloaking & Directional Stealth
@@ -103,3 +105,10 @@ Angular cloaking occupies unique evidential position
 laboratory demonstrations prove concept at small scales, limited angles/frequencies; scaling to aircraft remains speculative, unproven in open literature (classified programs may have advanced capabilities); UAP angle-dependent visibility reports could reflect cloaking or conventional optical phenomena (reflection, refraction, lighting, misidentification); and lack of unambiguous photographic/sensor data showing cloaking transition (most reports anecdotal, sensor artifacts plausible alternative). The technology is real in principle, increasingly viable in practice for limited applications, but unconfirmed for macroscopic aerial vehicles at reported scales. Claims require extraordinary evidence—multi-angle, multi-sensor confirmations ruling out conventional explanations.
 
 Angular Cloaking & Directional Stealth represents a spectrum from validated laboratory physics through near-term aerospace applications to speculative xenotechnology—bridging conventional stealth, metamaterial science, transformation optics, and UAP phenomenology. Whether witnessed angle-dependent visibilities reflect advanced cloaking implementations, conventional optical effects, or perceptual artifacts remains unresolved—but the technological pathway from current demonstrations to aerial angular cloaking is clearer than omnidirectional invisibility, making it plausible near-future development and possible explanation for subset of UAP observations.
+
+## Sources
+
+- [Adaptive transparent cloaking tunnel enabled by Meta-Reinforcement-Learning Metasurfaces](https://link.springer.com/article/10.1186/s43074-025-00224-0) (2026)
+- [Spatial light modulator via optically addressed metasurface](http://www.nature.com/articles/s41565-026-02128-x) (2026)
+- [Demonstration of a Metamaterial Electromagnetic Cloak at Microwave Frequencies](https://arxiv.org/abs/2507.03360) (2025)
+- [Dispersion-Engineered Broadband Transparent Meta-Cloak](https://www.researchsquare.com/article/rs-7737853/latest.pdf) (2025)

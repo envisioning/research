@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774853258/spore/technologies/575a63ba-a1b8-4f2e-96a6-a79ca2432cc4-google-gemini-3.1-flash-image-preview-pnnk3s.jpg
+updated_at: '2026-09-28T17:17:04.532435+00:00'
+last_reviewed: null
 ---
 
 # Common Agricultural Policy Digital Transformation
@@ -25,3 +27,8 @@ The EU's Common Agricultural Policy (CAP) is transitioning from manual, sample-b
 The Area Monitoring System uses AI to analyze time-series satellite imagery, detecting crop types, mowing dates, tillage practices, and compliance with agri-environmental schemes. By 2027, all EU member states must implement satellite-based monitoring for most CAP measures.
 
 The technology reverses the inspection model: instead of sending inspectors to a random sample of farms, every farm is monitored continuously from space. Non-compliance is detected automatically, reducing fraud while actually decreasing the administrative burden on compliant farmers (who no longer need to submit paper documentation). The system processes petabytes of Copernicus data annually across the EU's 10+ million farm holdings.
+
+## Sources
+
+- [https://www.copernicus.eu/en](https://www.copernicus.eu/en)
+- [https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_3528](https://ec.europa.eu/commission/presscorner/detail/en/qanda_23_3528)

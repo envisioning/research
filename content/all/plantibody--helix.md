@@ -9,6 +9,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882757/helix/technologies/2191c8b9-96aa-456a-95e5-199dcecc1ad2-google-gemini-3.1-flash-image-preview-hz58eh.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Plantibody

@@ -9,6 +9,8 @@ trl: 6
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131064/cradle/technologies/neonatal-tele-rehabilitation-google-gemini-3-pro-image-preview-bpnb4t.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Neonatal Tele-Rehabilitation

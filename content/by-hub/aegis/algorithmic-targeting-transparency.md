@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010602/aegis/technologies/algorithmic-targeting-transparency-gemini-3-pro-1rbgoq.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Algorithmic Targeting Transparency & Auditability

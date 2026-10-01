@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817729/prism/technologies/e8871b4d-7072-4538-afd9-a34d5389cee7-google-gemini-3.1-flash-image-preview-bbhl58.png
+updated_at: '2026-09-28T17:16:23.478914+00:00'
+last_reviewed: null
 ---
 
 # K-Content Cultural Technology Platform
@@ -26,3 +28,8 @@ South Korea's cultural exports (K-pop, K-drama, K-film, webtoons, games) constit
 K-content is not just creative output — it's a technology industry. SM Entertainment uses AI for talent scouting and virtual performer creation. JYP Entertainment employs data analytics for market-specific release strategies. Webtoons pioneered the vertical-scroll format that reshaped digital comics globally. Korean game companies (Krafton, NCSoft, Netmarble) generate $15B+ in combined revenue. The technology layer — production tools, distribution platforms, fan engagement systems, localization AI — is as significant as the creative content itself.
 
 The strategic significance of K-content is soft power as economic infrastructure. Korean cultural exports create demand for Korean products (Samsung, Hyundai, Korean cosmetics), drive tourism ($20B+ in K-culture-motivated tourism annually), and establish Korean platforms as global standards. This feedback loop between cultural technology and industrial exports is unique among technology-exporting nations.
+
+## Sources
+
+- [https://www.mcst.go.kr/english/policy/cultureIndustryPolicy.jsp](https://www.mcst.go.kr/english/policy/cultureIndustryPolicy.jsp)
+- [https://www.bloomberg.com/news/articles/2025-01-korea-cultural-exports-12-billion](https://www.bloomberg.com/news/articles/2025-01-korea-cultural-exports-12-billion)

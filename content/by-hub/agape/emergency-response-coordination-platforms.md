@@ -3,19 +3,22 @@ slug: emergency-response-coordination-platforms
 hub: agape
 title: Emergency Response Coordination Platforms
 summary: Real-time crisis coordination systems enabling rapid mobilization and coordination
+  of resources during emergencies.
 permalink: https://www.envisioning.com/agape/emergency-response-coordination-platforms
 collection: technology-infrastructure
 trl: 2
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368266/agape/signals/emergency-response-coordination-platforms-google-gemini-3-pro-image-preview-rkwihc.jpg
+updated_at: '2026-10-01T09:30:05.457266+00:00'
+last_reviewed: null
 ---
 
 # Emergency Response Coordination Platforms
 
 ## Summary
 
-Real-time crisis coordination systems enabling rapid mobilization and coordination
+Real-time crisis coordination systems enabling rapid mobilization and coordination of resources during emergencies.
 
 ## Description
 

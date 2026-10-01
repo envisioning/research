@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939883/xenotech/technologies/self-healing-smart-materials-imagegen-v1.png
+updated_at: '2026-08-28T17:58:04.735121+00:00'
+last_reviewed: null
 ---
 
 # Self-Healing Smart Materials

@@ -11,6 +11,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807092/apogee/technologies/89064a16-bbe3-44e2-9493-894611a5fa5b-google-gemini-3.1-flash-image-preview-4s196e.jpg
+updated_at: '2026-09-28T17:17:58.029096+00:00'
+last_reviewed: null
 ---
 
 # Space-Based Gravitational Wave Detection (Taiji/TianQin)
@@ -26,3 +28,8 @@ China is developing two independent space-based gravitational wave detection pro
 Taiji-1, a pathfinder satellite, launched successfully in 2019 and validated key technologies including optical metrology and drag-free control systems. Taiji-2 (two satellites for inter-satellite laser link testing) was planned for 2023-2025, with the full three-satellite constellation (Taiji-3) targeting ~2030. TianQin's pathfinder mission TianQin-1 launched in 2019 as well. The dual-program approach provides redundancy and competition.
 
 The only comparable Western project is ESA's LISA mission, also targeting ~2035 launch. China's parallel development of two gravitational wave observatories — when no other country is building even one independently — illustrates its strategy of pursuing frontier science as a matter of national prestige and eventual practical application. Space-based gravitational wave detection is pure science today, but the precision laser interferometry, drag-free satellite control, and inter-satellite ranging technologies have applications in next-generation navigation and geodesy.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Taiji_program](https://en.wikipedia.org/wiki/Taiji_program)
+- [https://en.wikipedia.org/wiki/TianQin](https://en.wikipedia.org/wiki/TianQin)

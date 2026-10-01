@@ -10,6 +10,8 @@ trl: 4
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649757/lumen/technologies/graphene-2d-emitters-google-gemini-3-pro-image-preview-g0a66g.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Graphene & 2D Material Emitters

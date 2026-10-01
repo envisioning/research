@@ -10,6 +10,8 @@ trl: 9
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809658/apogee/technologies/f68a67d1-8a85-40e9-bcf5-2b5ec2be53a3-google-gemini-3.1-flash-image-preview-47ok02.png
+updated_at: '2026-09-28T17:17:12.04922+00:00'
+last_reviewed: null
 ---
 
 # Mars Orbiter Mission (Mangalyaan)
@@ -25,3 +27,9 @@ The Mars Orbiter Mission (MOM), nicknamed Mangalyaan, made India the first Asian
 Mangalyaan was designed as a technology demonstrator to prove India could build and operate an interplanetary spacecraft. It carried five scientific instruments including a methane sensor and a color camera that returned stunning images of Mars. The spacecraft operated for eight years, far exceeding its six-month design life, before losing contact in 2022 when it ran out of propellant.
 
 The mission became a symbol of India's cost-engineering prowess. ISRO achieved what NASA, ESA, and Roscosmos had spent billions on, at a tiny fraction of the cost. The techniques that made this possible — aggressive mass optimization, reuse of existing PSLV rocket technology, and a lean team of engineers — reflect a broader Indian engineering culture of doing more with less. A follow-up Mars mission (MOM-2) is in planning stages.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Mars_Orbiter_Mission](https://en.wikipedia.org/wiki/Mars_Orbiter_Mission)
+- [https://www.isro.gov.in/MarsOrbiterMission.html](https://www.isro.gov.in/MarsOrbiterMission.html)
+- [https://www.mapsofindia.com/my-india/education/from-chandrayaan-to-gaganyaan-indias-space-achievements-and-upcoming-missions-in-2025](https://www.mapsofindia.com/my-india/education/from-chandrayaan-to-gaganyaan-indias-space-achievements-and-upcoming-missions-in-2025)

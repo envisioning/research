@@ -11,6 +11,8 @@ trl: 3
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858398/substrate/technologies/6fd0019f-aa97-4358-8c56-6b343900d166-google-gemini-3.1-flash-image-preview-zqgtpw.jpg
+updated_at: '2026-09-28T17:18:31.563334+00:00'
+last_reviewed: null
 ---
 
 # Photonic Quantum Computing
@@ -26,3 +28,7 @@ Australian researchers at universities including University of Sydney, RMIT, and
 The room-temperature advantage of photonic quantum computing is transformational for practical deployment. Current quantum computers require cooling to 15 millikelvin — colder than outer space — using refrigerators costing millions of dollars and consuming enormous power. Photonic processors, operating at room temperature, could be deployed in data centers, on military platforms, or in remote locations where cryogenic infrastructure is impractical.
 
 Australia's strengths in photonics research complement its silicon quantum computing program (SQC), creating a portfolio approach to quantum computing that hedges against the risk of any single hardware approach failing. While photonic quantum computing faces its own challenges (photon loss, deterministic photon sources), Australian research contributions to integrated photonic circuits and quantum error correction codes are internationally recognized.
+
+## Sources
+
+- [https://tracxn.com/d/explore/deep-tech-startups-in-australia-and-new-zealand/__19jXouKIL6z_ravPPBisAoE0gzD2NugAuh_U-HtGohg](https://tracxn.com/d/explore/deep-tech-startups-in-australia-and-new-zealand/__19jXouKIL6z_ravPPBisAoE0gzD2NugAuh_U-HtGohg)

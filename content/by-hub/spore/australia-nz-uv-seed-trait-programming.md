@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774858358/spore/technologies/694ddf1a-b081-4dfb-ac64-82d6f0d059c6-google-gemini-3.1-flash-image-preview-hlzsir.jpg
+updated_at: '2026-09-28T17:16:43.119572+00:00'
+last_reviewed: null
 ---
 
 # UV Light Seed Trait Programming
@@ -26,3 +28,9 @@ BioLumic, a New Zealand ag-tech company spun out of Massey University research, 
 In September 2025, BioLumic entered a multi-year partnership with Fonterra, the world's largest dairy cooperative, to develop UV-activated seed traits specifically for New Zealand's pasture-based dairy systems — targeting ryegrass varieties that improve milk production and environmental outcomes. Commercial seed treatments launched in early 2025, with field trials in the US (corn, soybean) and New Zealand (ryegrass) showing consistent yield improvements of 3-8%.
 
 This technology is significant because it offers a third path between traditional breeding (slow) and genetic modification (controversial, heavily regulated). By using light as a programming language for gene expression, BioLumic can develop new seed traits in months rather than years, at a fraction of the cost of transgenic approaches. For New Zealand, whose agricultural exports face increasing scrutiny over environmental footprint, chemical-free seed enhancement is commercially compelling. The global seed treatment market exceeds US$10B annually, and BioLumic's non-GMO approach could capture significant share.
+
+## Sources
+
+- [https://www.seedworld.com/europe/2025/04/30/lighting-up-seed-innovation/](https://www.seedworld.com/europe/2025/04/30/lighting-up-seed-innovation/)
+- [https://www.globenewswire.com/news-release/2025/09/27/3157297/0/en/Fonterra-and-BioLumic-Partner-to-Bring-Light-Activated-Seed-Traits-to-New-Zealand-Dairy-Systems.html](https://www.globenewswire.com/news-release/2025/09/27/3157297/0/en/Fonterra-and-BioLumic-Partner-to-Bring-Light-Activated-Seed-Traits-to-New-Zealand-Dairy-Systems.html)
+- [https://www.massey.ac.nz/research/research-impact-stories/biolumic-novel-light-activation-science-unlocks-high-value-traits-in-seeds/](https://www.massey.ac.nz/research/research-impact-stories/biolumic-novel-light-activation-science-unlocks-high-value-traits-in-seeds/)

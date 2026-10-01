@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861595/vault/technologies/becd731b-3a89-4a7c-8446-38810ebbba7f-google-gemini-3.1-flash-image-preview-q4790n.jpg
+updated_at: '2026-09-28T17:18:35.482866+00:00'
+last_reviewed: null
 ---
 
 # Tokenized Real-World Assets (RWA)
@@ -26,3 +28,8 @@ Real-world asset tokenization creates blockchain-based digital representations o
 Tokenization addresses fundamental inefficiencies in financial markets: private credit and real estate are illiquid, settlement takes days, and fractional ownership is complex. Blockchain-based tokens enable $100 minimums for assets that previously required $1 million+ entry, instant peer-to-peer trading, and automated compliance through smart contracts.
 
 The US financial industry is driving tokenization adoption, leveraging its position as the world's largest capital market. If successful, tokenization could restructure how assets are issued, traded, and settled globally — potentially making traditional stock exchanges, clearinghouses, and custodians less central to financial infrastructure.
+
+## Sources
+
+- [https://www.weforum.org/stories/2025/12/the-top-frontier-tech-stories-from-2025/](https://www.weforum.org/stories/2025/12/the-top-frontier-tech-stories-from-2025/)
+- [https://www.svb.com/trends-insights/reports/future-of-frontier-tech/](https://www.svb.com/trends-insights/reports/future-of-frontier-tech/)

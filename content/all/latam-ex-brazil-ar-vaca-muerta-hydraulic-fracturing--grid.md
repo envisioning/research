@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774812439/grid/technologies/1a005a8d-ac8b-4c2d-8a27-73846e024480-google-gemini-3.1-flash-image-preview-pae9jf.jpg
+updated_at: '2026-09-28T17:17:23.69551+00:00'
+last_reviewed: null
 ---
 
 # Vaca Muerta Unconventional Shale Extraction
@@ -26,3 +28,9 @@ Vaca Muerta ("Dead Cow") in Patagonia's Neuquén Basin is one of the world's mos
 The technology is imported but the adaptation is local: multi-stage horizontal drilling using pad-based operations that reduce surface footprint, simultaneous fracturing of multiple wells (simul-frac) to increase efficiency, and water recycling systems that reduce freshwater consumption — critical in the semi-arid Neuquén region. SLB, Halliburton, and Liberty Oilfield Services provide fracking equipment, while Argentine operators like YPF and Vista Energy drive production targets.
 
 Vaca Muerta's strategic importance extends beyond Argentina. Under President Milei's liberalization policies, the formation is positioned to make Argentina a net energy exporter — potentially rivaling US shale production growth. The Vaca Muerta Oleoducto Sur pipeline and LNG export terminals under development would connect Argentine gas and oil to global markets. However, the environmental consequences of large-scale fracking in Patagonia — water contamination, seismic activity, and methane emissions — are generating significant opposition from local communities and environmental organizations.
+
+## Sources
+
+- [https://energy-analytics-institute.org/2025/03/11/argentine-fracking-boom-in-vaca-muerta-record-breaking-activity-continues/](https://energy-analytics-institute.org/2025/03/11/argentine-fracking-boom-in-vaca-muerta-record-breaking-activity-continues/)
+- [https://www.reuters.com/business/energy/slowing-vaca-muerta-oil-activity-could-pose-challenge-argentinas-milei-2025-10-07/](https://www.reuters.com/business/energy/slowing-vaca-muerta-oil-activity-could-pose-challenge-argentinas-milei-2025-10-07/)
+- [https://www.theguardian.com/global-development/2023/oct/18/vaca-muerta-oil-shale-argentina-goes-all-in-on-fracking](https://www.theguardian.com/global-development/2023/oct/18/vaca-muerta-oil-shale-argentina-goes-all-in-on-fracking)

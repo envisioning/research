@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124495/beacon/technologies/affective-labor-protections-google-gemini-3-pro-image-preview-bu8zic.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Affective Labor Protection Systems

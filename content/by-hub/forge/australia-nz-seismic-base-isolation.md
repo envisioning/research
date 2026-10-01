@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774859101/forge/technologies/df102102-6e7d-4940-8e92-f9dfdea04604-google-gemini-3.1-flash-image-preview-e6d0qz.jpg
+updated_at: '2026-09-28T17:16:47.679954+00:00'
+last_reviewed: null
 ---
 
 # Lead-Rubber Bearing Seismic Base Isolation
@@ -26,3 +28,9 @@ New Zealand scientist Dr. Bill Robinson invented the lead-rubber bearing (LRB) i
 New Zealand's position on the Pacific Ring of Fire — with major earthquakes including the devastating 2010-11 Canterbury sequence — created the necessity that drove innovation. NZ's William Clayton Building (1981) was the world's first to use base isolation with LRBs, and the country has since pioneered new seismic isolation design guidelines published by NZSEE. In 2025, NZ researchers published on 3D seismic isolation for modular steel buildings, extending the technology to new construction methods. The first viaduct with base isolation was also built in New Zealand, inspiring global adoption.
 
 The technology has been adopted in over 30 countries, with Japan alone installing base isolation in thousands of buildings after the 1995 Kobe earthquake. NZ-originated seismic engineering concepts — including capacity design, controlled rocking, and post-tensioned timber structures — represent a globally significant export of intellectual property. As climate change increases seismic risk awareness in previously low-seismicity regions, and as critical infrastructure (data centers, hospitals, chip fabs) requires guaranteed operational continuity, NZ's seismic isolation technology faces growing global demand.
+
+## Sources
+
+- [https://www.sciencelearn.org.nz/resources/331-seismic-engineering](https://www.sciencelearn.org.nz/resources/331-seismic-engineering)
+- [https://www.robinsonseismic.com/](https://www.robinsonseismic.com/)
+- [https://www.webuildvalue.com/en/reportage/first-viaduct-base-isolation.html](https://www.webuildvalue.com/en/reportage/first-viaduct-base-isolation.html)

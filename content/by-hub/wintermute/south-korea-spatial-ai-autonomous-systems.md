@@ -11,6 +11,8 @@ trl: 6
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817764/wintermute/technologies/ece59cf0-1372-47a5-8aac-bee5c2a08101-google-gemini-3.1-flash-image-preview-hcd2k5.jpg
+updated_at: '2026-09-28T17:17:38.100528+00:00'
+last_reviewed: null
 ---
 
 # Spatial AI for Autonomous Systems
@@ -26,3 +28,8 @@ LBS Tech, based in Daejeon near KAIST, develops spatial intelligence software th
 Spatial AI is a critical enabling technology for the next wave of autonomous systems — warehouse robots, delivery drones, mine exploration, and military reconnaissance all require the ability to understand and navigate 3D space autonomously. LBS Tech's approach is sensor-agnostic, working with cameras, lidar, or radar inputs, which makes it adaptable across different hardware platforms.
 
 Korea's autonomous systems startup ecosystem is growing rapidly, fueled by defense procurement demand, government R&D grants through KIST and KAIST, and the proximity to major potential customers (Hyundai, Samsung, HD Hyundai). LBS Tech is representative of a broader trend: Korean AI startups focusing on perception and navigation for physical systems rather than the consumer chatbot space dominated by US and Chinese companies.
+
+## Sources
+
+- [https://www.lbstech.net/](https://www.lbstech.net/)
+- [https://www.koreaherald.com/view.php?ud=20250204000345](https://www.koreaherald.com/view.php?ud=20250204000345)

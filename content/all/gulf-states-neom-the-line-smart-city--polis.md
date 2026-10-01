@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814702/polis/technologies/e0252c2c-808c-47ef-bdbe-ee3f462cbe6c-google-gemini-3.1-flash-image-preview-ml0ezo.png
+updated_at: '2026-09-28T17:17:05.959664+00:00'
+last_reviewed: null
 ---
 
 # NEOM / The Line Linear City
@@ -26,3 +28,9 @@ The Line is the centerpiece of Saudi Arabia's NEOM megaproject — a planned 170
 Despite the scaling back, NEOM's technology development continues: the Oxagon industrial city is being built with advanced manufacturing capabilities, massive desalination infrastructure is under construction, and the project's concrete factory network aims to produce 20,000 cubic meters per day. The underlying smart city technologies — AI-managed logistics, autonomous transport systems, integrated sensor networks — are being developed regardless of The Line's ultimate scale.
 
 The Line's story is instructive for global observers: it demonstrates both the ambition and limitations of top-down technology moonshots. The pivot toward using NEOM infrastructure for data centers rather than residential development suggests a more pragmatic approach. Even at reduced scale, NEOM will produce innovations in desert construction, renewable energy integration, and automated urban systems that have value beyond the project itself.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia](https://en.wikipedia.org/wiki/The_Line,_Saudi_Arabia)
+- [https://www.cnbc.com/2025/10/29/from-neom-to-ai-and-tourism-saudi-arabias-priorities-are-shifting.html](https://www.cnbc.com/2025/10/29/from-neom-to-ai-and-tourism-saudi-arabias-priorities-are-shifting.html)
+- [https://www.datacenterdynamics.com/en/news/saudi-arabias-neom-megaproject-could-be-redesignated-as-a-data-center-hub/](https://www.datacenterdynamics.com/en/news/saudi-arabias-neom-megaproject-could-be-redesignated-as-a-data-center-hub/)

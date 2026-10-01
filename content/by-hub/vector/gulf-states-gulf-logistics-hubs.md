@@ -11,6 +11,8 @@ trl: 8
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814411/vector/technologies/b33843d5-5457-4840-825d-b3e27c8b7bfe-google-gemini-3.1-flash-image-preview-3qnibf.png
+updated_at: '2026-09-28T17:17:25.035528+00:00'
+last_reviewed: null
 ---
 
 # Gulf Smart Logistics & Port Technology
@@ -26,3 +28,7 @@ Gulf ports, led by DP World's Jebel Ali in Dubai, are among the world's most tec
 The Gulf's geographic position as the midpoint between Asian manufacturing and European/African consumption markets makes port technology strategically important. Efficiency gains from automation and AI directly impact the cost competitiveness of the Gulf as a global transshipment hub. Khalifa Port in Abu Dhabi and King Abdullah Port in Saudi Arabia are competing to attract container traffic with technology-driven efficiency.
 
 DP World's global presence means that logistics technology developed in Gulf ports is exported worldwide through the company's operations. This makes the Gulf not just a user of advanced logistics technology but a developer and global deployer — creating a virtuous cycle where operational experience in Gulf facilities drives innovation that is then rolled out across international ports.
+
+## Sources
+
+- [https://www.dubaiobserver.ae/how-dubai-is-leading-smart-city-innovation-in-2025](https://www.dubaiobserver.ae/how-dubai-is-leading-smart-city-innovation-in-2025)

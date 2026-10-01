@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815559/apogee/technologies/76096276-1aaa-451d-bfc1-180030b585d6-google-gemini-3.1-flash-image-preview-ywrmjj.png
+updated_at: '2026-09-28T17:17:43.917207+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Earth Observation Satellite Programs
@@ -26,3 +28,9 @@ Regional — Multiple ASEAN nations are developing indigenous earth observation 
 The ASEAN space economy remains nascent compared to global powers — total spending across the region is roughly $200 million annually, with Indonesia ($100M), Thailand ($20M), and Malaysia ($18M) leading. But the applications are immediately practical: satellite-based crop insurance verification, illegal fishing detection, and flood prediction in a region where 650 million people live within 100km of coastlines.
 
 The sovereignty dimension is critical. ASEAN nations currently depend heavily on foreign satellite data (from the US, Europe, China, and India) for critical functions including weather forecasting, maritime surveillance, and disaster response. Building indigenous capabilities — even small constellation programs — reduces this dependency and creates negotiating leverage in an increasingly contested space domain.
+
+## Sources
+
+- [https://www.aseanbriefing.com/news/investing-asean-space-sector-emerging-opportunities-satellite-programs/](https://www.aseanbriefing.com/news/investing-asean-space-sector-emerging-opportunities-satellite-programs/)
+- [https://www.orfonline.org/research/southeast-asian-space-programmes-capabilities-challenges-and-collaborations](https://www.orfonline.org/research/southeast-asian-space-programmes-capabilities-challenges-and-collaborations)
+- [https://www.sciencedirect.com/science/article/pii/S0265964624000572](https://www.sciencedirect.com/science/article/pii/S0265964624000572)

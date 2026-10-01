@@ -11,6 +11,8 @@ trl: 4
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774860700/grid/technologies/4a02b6f1-d13c-480d-9aac-b087aca58ed3-google-gemini-3.1-flash-image-preview-5n9h4q.jpg
+updated_at: '2026-09-28T17:18:33.345148+00:00'
+last_reviewed: null
 ---
 
 # Nuclear Microreactors
@@ -26,3 +28,8 @@ Nuclear microreactors are factory-built, truck-transportable reactors generating
 Microreactors solve the energy problem in places where grid power doesn't exist. US military forward operating bases currently rely on fuel convoys — a major logistical vulnerability that costs lives. Remote Arctic communities, mining operations, and disaster zones need reliable power that solar and wind can't provide. A microreactor can deliver megawatts of power from a shipping container.
 
 The DOD's Project Pele demonstrated a prototype at Idaho National Laboratory, making the US military potentially the first customer for microreactor technology. Success in military applications would create a path to commercial deployment for remote industrial sites, data centers, and developing-world electrification.
+
+## Sources
+
+- [https://www.nrc.gov/reactors/new-reactors/advanced](https://www.nrc.gov/reactors/new-reactors/advanced)
+- [https://themesetfs.com/insights/5-nuclear-stocks-to-watch-as-smrs-and-microreactors-advance](https://themesetfs.com/insights/5-nuclear-stocks-to-watch-as-smrs-and-microreactors-advance)

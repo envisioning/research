@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774813719/polis/technologies/1a4238a2-8a42-47ff-a520-7ea45d0b0d8a-google-gemini-3.1-flash-image-preview-xmax7u.png
+updated_at: '2026-09-28T17:18:11.333616+00:00'
+last_reviewed: null
 ---
 
 # Lusail Post-World Cup Smart City
@@ -26,3 +28,9 @@ Lusail City, the $45 billion development that hosted the World Cup 2022 final, i
 What makes Lusail distinctive among Gulf smart cities is that it was stress-tested at scale before becoming a residential community. The World Cup hosted millions of visitors, generating real performance data on transport networks, crowd management systems, energy grids, and communications infrastructure. This operational data now informs the optimization of permanent urban systems — a luxury that most smart city projects never get.
 
 Lusail's transition from mega-event venue to permanent smart city provides a replicable model for future host cities. The $300+ billion Qatar invested in World Cup infrastructure — metro, airport expansion, roads, utilities — becomes the backbone of a modern urban district rather than a stranded asset. The lessons in converting event infrastructure to everyday urban life are particularly relevant for cities planning for the 2030 World Cup (Morocco-Spain-Portugal) and other mega-events.
+
+## Sources
+
+- [https://thursdaytimes.com/2024/11/15/qatar/qatars-lusail-leads-smart-city-development-with-ai-driven-future/](https://thursdaytimes.com/2024/11/15/qatar/qatars-lusail-leads-smart-city-development-with-ai-driven-future/)
+- [https://thebusinessyear.com/article/qatar-smart-city-2025/](https://thebusinessyear.com/article/qatar-smart-city-2025/)
+- [https://www.entrepreneur.com/en-ae/growth-strategies/qatar-keeps-raising-resilience-reform-and-regional/494232](https://www.entrepreneur.com/en-ae/growth-strategies/qatar-keeps-raising-resilience-reform-and-regional/494232)

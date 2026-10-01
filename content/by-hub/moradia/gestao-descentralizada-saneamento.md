@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766585784/habitacao/technologies/gestao-descentralizada-saneamento-google-gemini-3-pro-image-preview-t2fy6l.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Gestão Descentralizada de Saneamento

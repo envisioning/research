@@ -10,6 +10,8 @@ trl: null
 impact: null
 investment: null
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328219/formar/technologies/bim-5d-6d-obras-publicas-google-gemini-3-pro-image-preview-z2tn5u.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # BIM para Obras e Infraestrutura
@@ -25,3 +27,7 @@ BIM (Building Information Modeling) e CIM (Civil Information Modeling) aplicados
 No Brasil, é um sinal de digitalização da cadeia de construção e operação, habilitando planejamento preventivo, redução de interferências e melhor coordenação entre projetos e operadores. Em obras públicas brasileiras, permite planejamento mais preciso, controle de orçamento, gestão de cronograma e análise de custos operacionais. A tecnologia está sendo adotada progressivamente em grandes obras de infraestrutura e edifícios públicos, com potencial para reduzir custos e melhorar qualidade.
 
 O sinal de mudança é a transição de projeto e gestão baseados em documentos 2D para modelos digitais integrados que conectam projeto, construção e operação, criando novos modelos de gestão baseados em dados, especialmente relevante em obras complexas onde coordenação e planejamento são críticos.
+
+## Sources
+
+- [TECNOLOGIA BIM EM PROJETOS DE INFRAESTRUTURA DE RODOVIAS NO BRASIL](https://zenodo.org/record/7447222) (2025)

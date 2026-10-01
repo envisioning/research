@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815301/vector/technologies/4c76b3ee-1778-4ee8-9872-2a826a7ca419-google-gemini-3.1-flash-image-preview-rs3osn.jpg
+updated_at: '2026-09-28T17:16:55.291644+00:00'
+last_reviewed: null
 ---
 
 # Autonomous Mega-Port Operations Technology
@@ -26,3 +28,9 @@ Singapore's Tuas Mega Port, opening in phases through 2040, represents the world
 The technology stack goes beyond simple automation. PSA's CALISTA platform uses machine learning to optimize container stacking, vessel berth allocation, and truck scheduling simultaneously — reducing average container dwell time and increasing throughput per hectare. The digital twin enables predictive maintenance and scenario planning for disruptions (typhoons, equipment failures, demand spikes). Autonomous cranes and AGVs operate 24/7 without shift changes, achieving consistency that human operators cannot match at this scale.
 
 Strategically, Tuas is Singapore's answer to an existential question: how does a city-state with zero land reserves remain the world's top transshipment hub as competitors (Malaysia's Port Klang, Vietnam's Cai Mep) build cheaper alternatives? The answer is radical automation that delivers reliability, speed, and throughput density no competitor can match. The autonomous port technology being developed at Tuas is also exportable — PSA already operates terminals in 160 locations across 42 countries, making Singapore's port automation IP a globally deployable technology platform.
+
+## Sources
+
+- [https://www.mpa.gov.sg/port-of-singapore/tuas-port](https://www.mpa.gov.sg/port-of-singapore/tuas-port)
+- [https://www.psa.com/about-us/our-businesses/singapore](https://www.psa.com/about-us/our-businesses/singapore)
+- [https://www.seatrade-maritime.com/ports/psa-singapore-tuas-mega-port-automation](https://www.seatrade-maritime.com/ports/psa-singapore-tuas-mega-port-automation)

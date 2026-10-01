@@ -10,6 +10,8 @@ trl: 7
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774888889/liminal/technologies/61e5295e-7345-4076-8c06-9ebae91b1001-google-gemini-3.1-flash-image-preview-t9am8s.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Augmented Reality

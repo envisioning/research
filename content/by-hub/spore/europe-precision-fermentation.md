@@ -11,6 +11,8 @@ trl: 6
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852826/spore/technologies/37edfd19-036a-43cc-9105-5d5ea98cce13-google-gemini-3.1-flash-image-preview-urt9ko.jpg
+updated_at: '2026-09-28T17:16:42.465404+00:00'
+last_reviewed: null
 ---
 
 # Precision Fermentation for Food
@@ -26,3 +28,9 @@ European precision fermentation startups are engineering microorganisms (yeast, 
 The technology uses synthetic biology to insert genes encoding desired proteins into microorganisms, which then produce the target molecule during fermentation — the same industrial process used for decades to make insulin, enzymes, and amino acids. The difference is applying this at food scale. Denmark leads with its national Green Protein Strategy and Action Plan for Plant-based Foods, while the EU's updated EFSA novel food pathway (early 2025) is creating clearer regulatory routes for fermented proteins.
 
 Food Fermentation Europe, a new trade association launched in January 2025, signals the sector's maturation from lab curiosity to industrial reality. The strategic implications are profound for Europe's agricultural economy: precision fermentation could produce dairy proteins at a fraction of the land, water, and emissions footprint of dairy farming — potentially restructuring European agriculture's largest sector. The EU's regulatory approach will determine whether European companies lead this transition or whether products are imported from the US and Israel, where regulatory approval is faster.
+
+## Sources
+
+- [https://proveg.org/policy/precision-fermentation/](https://proveg.org/policy/precision-fermentation/)
+- [https://agfundernews.com/precision-fermentation-startups-launch-food-fermentation-europe](https://agfundernews.com/precision-fermentation-startups-launch-food-fermentation-europe)
+- [https://www.greenqueen.com.hk/eu-eit-food-rising-food-stars-2025-palm-oil-cocoa-fermentation-protein/](https://www.greenqueen.com.hk/eu-eit-food-rising-food-stars-2025-palm-oil-cocoa-fermentation-protein/)

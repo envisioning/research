@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133454/impulse/technologies/epidermal-haptic-skins-google-gemini-3-pro-image-preview-2wg5f2.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Epidermal Haptic Skins

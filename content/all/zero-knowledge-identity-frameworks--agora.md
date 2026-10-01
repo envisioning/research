@@ -9,6 +9,8 @@ trl: 7
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642033/agora/technologies/zero-knowledge-identity-frameworks-google-gemini-3-pro-image-preview-q4o9lg.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Zero-Knowledge Identity Frameworks

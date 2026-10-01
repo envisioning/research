@@ -11,6 +11,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809938/grid/technologies/1c38fb7a-bc87-47e7-aac2-2bfd98ce5f20-google-gemini-3.1-flash-image-preview-2petby.png
+updated_at: '2026-09-28T17:17:11.29299+00:00'
+last_reviewed: null
 ---
 
 # Grand Ethiopian Renaissance Dam Hydroelectric System
@@ -26,3 +28,9 @@ The Grand Ethiopian Renaissance Dam (GERD) is a 6,450 MW hydroelectric power pla
 GERD will more than double Ethiopia's electricity generation capacity, transforming the country from energy-poor to a potential regional power exporter. Ethiopia plans to sell electricity to neighboring Sudan, Djibouti, Kenya, and beyond via the Eastern Africa Power Pool. The project was financed almost entirely through domestic bond sales and diaspora contributions — a remarkable demonstration of financial sovereignty for one of the world's poorest countries.
 
 The geopolitical implications are enormous. GERD has been a source of tension with downstream Egypt and Sudan over Nile water rights for over a decade. Beyond the regional politics, the dam represents Africa's assertion of the right to develop its own natural resources. It is also a test case for large-scale renewable energy infrastructure on the continent, proving that African nations can undertake megaprojects independently.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam](https://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam)
+- [https://www.webuildvalue.com/en/infrastructure/gerd-hydroelectric-plant.html](https://www.webuildvalue.com/en/infrastructure/gerd-hydroelectric-plant.html)
+- [https://www.nature.com/articles/s43247-024-01821-w](https://www.nature.com/articles/s43247-024-01821-w)

@@ -10,6 +10,8 @@ trl: 1
 impact: 2
 investment: 1
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898655/xenotech/technologies/localized-gravitational-field-manipulation-openrouter-google-gemini-3.1-flash-image-preview-9c5zpr.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Mass Anomaly

@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774796812/wintermute/technologies/56350398-15ae-43f3-bece-ebb9a358d8ac-google-gemini-3.1-flash-image-preview-bb10i5.png
+updated_at: '2026-09-28T17:17:57.609181+00:00'
+last_reviewed: null
 ---
 
 # Inference-Optimized AI Ecosystem
@@ -25,3 +27,7 @@ As AI shifts from training (building models) to inference (running them), China'
 DeepSeek and other Chinese labs have made breakthrough advances in inference efficiency — techniques like mixture-of-experts, speculative decoding, and aggressive quantization that let smaller, older chips serve large models. The irony: US export controls may have accelerated this optimization.
 
 The implication: even if China never matches NVIDIA's latest training chips, it may not need to. If inference is where most AI value is created (serving models to users, not training them), China's efficiency-focused approach could be the right bet. The H20 chip that NVIDIA was allowed to sell to China is optimized for exactly this use case.
+
+## Sources
+
+- [https://www.chinatalk.media/p/best-of-late](https://www.chinatalk.media/p/best-of-late)

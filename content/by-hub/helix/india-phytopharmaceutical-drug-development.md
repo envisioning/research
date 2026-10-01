@@ -11,6 +11,8 @@ trl: 5
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774809214/helix/technologies/97c1c326-90ac-44ec-be9f-48e4eae0d93b-google-gemini-3.1-flash-image-preview-du05vy.jpg
+updated_at: '2026-09-28T17:16:28.037253+00:00'
+last_reviewed: null
 ---
 
 # Phytopharmaceutical Drug Development Platform
@@ -26,3 +28,9 @@ India is the only country to have created a distinct regulatory category for 'ph
 Reverse pharmacology — starting from documented traditional use in thousands of patients over centuries, then working backward to identify active compounds and validate mechanisms — inverts the Western drug discovery model. India has 8,000+ medicinal plants documented in Ayurvedic, Siddha, and Unani texts, representing a vast pre-screened library of bioactive compounds. The National Medicinal Plants Board has prioritized specific plants for cultivation under the National AYUSH Mission, creating supply chains for standardized raw materials. Research institutions are using modern analytical chemistry, genomics, and metabolomics to characterize these traditional formulations.
 
 The phytopharmaceutical approach could position India uniquely in global drug discovery. While Western pharma spends $1-2 billion developing each new drug with a 90% failure rate, India's reverse pharmacology approach starts with compounds that already have thousands of years of human safety data. If India can validate even a small fraction of Ayurvedic formulations through rigorous modern trials, it would create a pipeline of affordable, plant-based therapeutics with established supply chains — relevant not just for India but for the 80% of the world's population that relies partly on traditional medicine.
+
+## Sources
+
+- [https://link.springer.com/article/10.1007/s44395-025-00006-4](https://link.springer.com/article/10.1007/s44395-025-00006-4)
+- [https://www.investindia.gov.in/team-india-blogs/phytopharmaceuticals-india-opportunity](https://www.investindia.gov.in/team-india-blogs/phytopharmaceuticals-india-opportunity)
+- [https://www.tandfonline.com/doi/full/10.1080/17460441.2023.2228201](https://www.tandfonline.com/doi/full/10.1080/17460441.2023.2228201)

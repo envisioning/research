@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898158/habitat/technologies/aab6e93a-c756-44be-b941-07d3143750b9-google-gemini-3.1-flash-image-preview-vg98c3.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Active Structures

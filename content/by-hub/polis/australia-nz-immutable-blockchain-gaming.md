@@ -11,6 +11,8 @@ trl: 7
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774857915/polis/technologies/1707b9c3-443a-46a5-9c16-8e792d0222ae-google-gemini-3.1-flash-image-preview-rb1z6i.jpg
+updated_at: '2026-09-28T17:18:30.744562+00:00'
+last_reviewed: null
 ---
 
 # Blockchain-Based Digital Asset Infrastructure
@@ -26,3 +28,7 @@ Immutable, a Sydney-based blockchain technology company, developed ImmutableX �
 Layer 2 scaling solutions address Ethereum's fundamental limitation — high transaction fees ('gas') that make microtransactions economically unviable. By batching thousands of transactions and settling them on Ethereum in compressed form, ImmutableX achieves near-zero transaction costs while maintaining Ethereum's security guarantees. This technical approach enables business models (trading US$0.10 game items) that are impossible on the base layer.
 
 While blockchain gaming's consumer momentum has been volatile, the underlying infrastructure technology — gas-free scaling, digital asset interoperability, provable scarcity — has applications beyond gaming in supply chain verification, digital identity, and financial market settlement. Immutable represents Australia's most successful blockchain infrastructure company and contributes to the country's emerging position in Web3 technology development.
+
+## Sources
+
+- [https://tracxn.com/d/explore/deep-tech-startups-in-australia/__M5m8Bs_VzRCcbj22sMnRTwZNWMtZSyIjjppct8hur2c/companies](https://tracxn.com/d/explore/deep-tech-startups-in-australia/__M5m8Bs_VzRCcbj22sMnRTwZNWMtZSyIjjppct8hur2c/companies)

@@ -10,6 +10,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649146/lumen/technologies/vehicle-to-environment-illumination-google-gemini-3-pro-image-preview-nbwq9s.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Vehicle-to-environment Illumination

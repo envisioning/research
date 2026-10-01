@@ -10,6 +10,8 @@ trl: 7
 impact: 2
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774852554/polis/technologies/06d2fad8-06d7-494a-9f77-eda934eaf1d1-google-gemini-3.1-flash-image-preview-9ml2sx.jpg
+updated_at: '2026-09-28T17:18:22.764676+00:00'
+last_reviewed: null
 ---
 
 # Germany Super-High-Tech Ministry
@@ -25,3 +27,8 @@ Germany established a 'super-high-tech ministry' combining research, technology,
 The ministry provides direct research grants to small and medium companies — functioning like seed-stage venture capital but from the government. The approach has already produced successful outcomes: Voize (healthcare AI) received a €1.98M research grant before raising private capital through Y Combinator, demonstrating the pathway from government R&D funding to commercial scale.
 
 The institutional innovation reflects a broader European recognition that technology policy was too fragmented across multiple ministries (economy, education, defense, digital). By concentrating authority, Germany aims to make faster strategic decisions about which technologies to support and how to coordinate public investment with private capital — addressing a structural disadvantage compared to the US (DARPA model) and China (state-directed investment).
+
+## Sources
+
+- [https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace](https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace)
+- [https://news.ycombinator.com/item?id=43658060](https://news.ycombinator.com/item?id=43658060)

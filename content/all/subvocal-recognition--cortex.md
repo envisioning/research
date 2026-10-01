@@ -9,6 +9,8 @@ trl: 5
 impact: 4
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897930/cortex/technologies/9e2a0f07-0b0c-44aa-a970-370575583195-google-gemini-3.1-flash-image-preview-oxwjsr.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Subvocal Recognition

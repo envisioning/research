@@ -3,19 +3,22 @@ slug: outcome-based-regenerative-finance
 hub: agape
 title: Outcome-Based & Regenerative Finance
 summary: Experimentation with outcome-based or regenerative finance, exploring new
+  economic models for social impact.
 permalink: https://www.envisioning.com/agape/outcome-based-regenerative-finance
 collection: capital-instruments-economic
 trl: 1
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371772/agape/signals/outcome-based-regenerative-finance-google-gemini-3-pro-image-preview-tjeeyn.jpg
+updated_at: '2026-10-01T09:32:14.958843+00:00'
+last_reviewed: null
 ---
 
 # Outcome-Based & Regenerative Finance
 
 ## Summary
 
-Experimentation with outcome-based or regenerative finance, exploring new
+Experimentation with outcome-based or regenerative finance, exploring new economic models for social impact.
 
 ## Description
 

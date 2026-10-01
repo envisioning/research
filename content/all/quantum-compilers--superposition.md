@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886866/superposition/technologies/42653443-41b5-48f6-a992-3c8cdfabe9ff-google-gemini-3.1-flash-image-preview-v9il8e.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Quantum Compilers

@@ -11,6 +11,8 @@ trl: 9
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774792523/vector/technologies/1888b47e-8d63-4303-88a6-f347620b482d-google-gemini-3.1-flash-image-preview-enu2gl.jpg
+updated_at: '2026-09-28T17:17:54.025989+00:00'
+last_reviewed: null
 ---
 
 # FPSO Mega-Platforms
@@ -26,3 +28,8 @@ FPSOs are ship-shaped floating factories that extract, process, and store oil at
 The Almirante Tamandaré FPSO, deployed in the Búzios field, is Brazil's largest oil platform at 182 meters tall — equivalent to five Christ the Redeemer statues. It produces 270,000 barrels per day and was decisive in Búzios reaching its 1 million barrel/day milestone.
 
 Brazil's FPSO expertise is a complete industrial capability: hull conversion, topside integration, subsea connection, and remote operations. The country now designs, assembles, and operates these complex systems, having built the knowledge base over three decades of deepwater development.
+
+## Sources
+
+- [https://petrobras.com.br/en/pre-sal](https://petrobras.com.br/en/pre-sal)
+- [https://www.offshore-energy.biz/first-oil-flows-from-petrobras-new-fpso-at-one-of-worlds-largest-deepwater-fields/](https://www.offshore-energy.biz/first-oil-flows-from-petrobras-new-fpso-at-one-of-worlds-largest-deepwater-fields/)

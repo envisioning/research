@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774796747/spore/technologies/5632777c-6772-4c20-bf80-ced2ad7fbcbc-google-gemini-3.1-flash-image-preview-7wwwma.png
+updated_at: '2026-09-28T17:17:11.883461+00:00'
+last_reviewed: null
 ---
 
 # Gene-Edited Crops (CRISPR)
@@ -25,3 +27,8 @@ China's Ministry of Agriculture issued its first gene-editing safety certificate
 The driving policy is food security. China feeds 18% of the world's population with 7% of its arable land. Gene editing — distinct from transgenic GMOs — allows precise trait modifications without introducing foreign DNA, making regulatory approval faster and public acceptance higher.
 
 The CAS-developed wheat uses CRISPR to knock out susceptibility genes for powdery mildew, a fungal disease that costs global wheat production $1 billion annually. The breakthrough demonstrated resistance without the yield penalties that plagued earlier attempts.
+
+## Sources
+
+- [https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/china-crops-food/](https://crispr-gene-editing-regs-tracker.geneticliteracyproject.org/china-crops-food/)
+- [https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21147](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21147)

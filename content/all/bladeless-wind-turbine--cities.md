@@ -10,6 +10,8 @@ trl: 5
 impact: 1
 investment: 1
 image_url: https://www.datocms-assets.com/134194/1719485371-bladeless-wind-turbine.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Bladeless Wind Turbine
@@ -27,3 +29,13 @@ Bladeless wind turbines offer a revolutionary approach to harnessing wind energy
 These wind harvesting platforms are designed to generate power closer to where it is needed, in facilities such as hospitals, factories, warehouses or apartment buildings. To collect enough energy, at least ten units should be installed on the same flat unobstructed rooftop, on the edge facing the predominant wind direction. They can work independently or in tandem with solar panels, incrementing a robust decentralised renewable power grid.
 
 The adoption of bladeless wind turbines represents a pivotal step towards decentralised energy production. By enabling buildings, parks, and other urban infrastructures to generate their own power, cities can reduce their reliance on centralised power grids, enhancing energy resilience and sustainability. This shift not only mitigates the environmental impact but also promotes energy security and economic savings for urban dwellers.
+
+## Sources
+
+- [Aeromine Technologies](https://aerominetechnologies.com/)
+- [Bladeless wind energy innovation aims to compete with rooftop solar](https://www.pv-magazine.com/2024/05/24/bladeless-wind-energy-innovation-aims-to-compete-with-rooftop-solar/)
+- [Design and Analysis of Vortex Bladeless Wind Turbine](https://www.sciencedirect.com/science/article/abs/pii/S2214785321025244)
+- [Intelligent Living: “Motionless” Rooftop Wind Device Could Be A Game-Changer](https://news.aerominetechnologies.com/motionless-rooftop-wind-device-could-be-a-game-changer)
+- [This startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
+- [Vortex Bladeless](https://vortexbladeless.com/)
+- [Wind Power: Bladeless Turbines On Roof Tops New Green Energy Source](https://mitechnews.com/update/wind-power-bladeless-turbines-on-roof-tops-new-green-energy-source/)

@@ -10,6 +10,8 @@ trl: 9
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774807291/polis/technologies/1a880d64-b004-4d93-a27f-2bee24749105-google-gemini-3.1-flash-image-preview-1yxzb7.jpg
+updated_at: '2026-09-28T17:17:11.717122+00:00'
+last_reviewed: null
 ---
 
 # India Stack (Digital Public Infrastructure)
@@ -25,3 +27,9 @@ India Stack is an open API architecture that combines identity (Aadhaar), paymen
 The genius of India Stack is that it separates infrastructure from application. The government builds the rails — identity verification, payment processing, data consent — and the private sector builds the trains. This is why India has thousands of fintech startups: they don't need to build identity verification or payment processing from scratch. They plug into India Stack's APIs and focus on their specific value proposition.
 
 India Stack is arguably the most consequential technology governance innovation of the 21st century. During India's G20 presidency, it was formally proposed as a model for global digital public infrastructure. Countries including Brazil, Singapore, and several African nations are studying or adapting elements of the stack. The DPI approach — government-built, open-protocol, private-sector-leveraged — represents a third way between Silicon Valley's private platform model and China's state-controlled digital infrastructure.
+
+## Sources
+
+- [https://indiastack.org/](https://indiastack.org/)
+- [https://www.orfonline.org/expert-speak/india-s-dpi-2-0-from-upi-to-universal-data-empowerment](https://www.orfonline.org/expert-speak/india-s-dpi-2-0-from-upi-to-universal-data-empowerment)
+- [https://www.biometricupdate.com/202312/india-layers-new-ids-for-workers-on-top-of-aadhaar-as-dpi-projects-expand](https://www.biometricupdate.com/202312/india-layers-new-ids-for-workers-on-top-of-aadhaar-as-dpi-projects-expand)

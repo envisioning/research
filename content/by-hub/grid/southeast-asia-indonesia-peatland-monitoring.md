@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774815248/grid/technologies/420ffb0d-2098-4533-851d-7ce1744a8f26-google-gemini-3.1-flash-image-preview-yv1mmr.png
+updated_at: '2026-09-28T17:18:16.798277+00:00'
+last_reviewed: null
 ---
 
 # Satellite-Based Peatland Fire Monitoring
@@ -26,3 +28,7 @@ Indonesia — Indonesia's 15 million hectares of tropical peatlands are among th
 The Peatland Restoration Agency (BRG) manages hydrological restoration — blocking drainage canals that dry out peat and make it combustible. Satellite-based water table monitoring triggers early warnings when peat moisture drops below fire-risk thresholds. This combines remote sensing, hydrological engineering, and predictive AI into an integrated fire prevention system.
 
 Peatland monitoring technology has both domestic urgency and global export potential. Similar peatland systems in the Congo Basin, Amazon, and Arctic are at risk as climate change dries organic soils. Indonesia's hard-won expertise in tropical peatland management — the technology, institutional frameworks, and community engagement approaches — is directly transferable to other nations facing the same challenge.
+
+## Sources
+
+- [https://www.aseanbriefing.com/news/an-overview-of-indonesias-geothermal-energy-sector/](https://www.aseanbriefing.com/news/an-overview-of-indonesias-geothermal-energy-sector/)

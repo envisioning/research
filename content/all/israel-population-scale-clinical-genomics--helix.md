@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774875476/helix/technologies/7ef88bbe-4766-4cd6-aa51-f4ed98bebe49-google-gemini-3.1-flash-image-preview-pkvqor.jpg
+updated_at: '2026-09-28T17:18:43.190323+00:00'
+last_reviewed: null
 ---
 
 # National Population-Scale Clinical Genomic Database
@@ -26,3 +28,9 @@ Israel launched the Psifas (Mosaic) initiative — a NIS 250 million national ge
 Israel's unique advantage in population genomics stems from three factors: universal healthcare with centralized digital records dating back decades, a genetically diverse but bounded population (enabling studies of both founder effects and admixture), and tight integration between research hospitals and HMOs. The Psifas project partners with the Weizmann Institute, Hebrew University, and all four Israeli HMOs to create a federated clinical-genomic database enabling precision medicine research without centralizing sensitive data.
 
 Strategically, population-scale genomics linked to lifelong clinical records is the foundation of precision medicine — the ability to predict disease risk, optimize drug selection, and identify therapeutic targets for specific genetic backgrounds. Israel's combination of data depth (decades of clinical history), population structure (founder mutations traceable across generations), and bioinformatics talent positions it to generate insights that larger but less integrated national programs cannot replicate. The project directly enables pharmacogenomics, rare disease diagnosis, and population-specific risk screening.
+
+## Sources
+
+- [https://www.calcalistech.com/ctechnews/article/8l45gkhby](https://www.calcalistech.com/ctechnews/article/8l45gkhby)
+- [https://partnership.psifas.org.il/](https://partnership.psifas.org.il/)
+- [https://lifebit.ai/blog/lifebit-psifas-partner-genomic-research-israel/](https://lifebit.ai/blog/lifebit-psifas-partner-genomic-research-israel/)

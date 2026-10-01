@@ -10,6 +10,8 @@ trl: 5
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124042/eros/technologies/synthetic-offspring-ecosystems-google-gemini-3-pro-image-preview-xi61ms.jpg
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Synthetic Offspring Ecosystems

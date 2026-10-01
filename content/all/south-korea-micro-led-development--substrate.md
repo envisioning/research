@@ -10,6 +10,8 @@ trl: 5
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774817530/substrate/technologies/c86a2385-52b9-4115-891e-12304461477f-google-gemini-3.1-flash-image-preview-wpbip5.png
+updated_at: '2026-09-28T17:16:38.16667+00:00'
+last_reviewed: null
 ---
 
 # Micro-LED Display Technology
@@ -25,3 +27,8 @@ Samsung's 'The Wall' is a modular Micro-LED display available in sizes from 76" 
 The core challenge in Micro-LED is mass transfer — picking up and placing millions of microscopic LED chips onto a backplane quickly and accurately enough for cost-effective production. Samsung has invested in multiple mass-transfer approaches including laser-based, elastomer stamp, and fluidic self-assembly. LG and Seoul Semiconductor are also pursuing Micro-LED for automotive and AR/VR applications.
 
 Micro-LED is considered the eventual successor to OLED for premium displays, offering all of OLED's advantages (self-emissive, perfect blacks, wide viewing angles) without its weaknesses (organic material degradation, burn-in). Whoever solves mass transfer at scale first will own the next generation of display technology — and Korean companies are among the best-positioned to do so.
+
+## Sources
+
+- [https://www.samsung.com/us/business/displays/the-wall/](https://www.samsung.com/us/business/displays/the-wall/)
+- [https://www.ledinside.com/news/2025/micro-led-samsung-mass-transfer-progress](https://www.ledinside.com/news/2025/micro-led-samsung-mass-transfer-progress)

@@ -10,6 +10,8 @@ trl: 3
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123716/meridian/technologies/ai-escalation-management-systems-google-gemini-3-pro-image-preview-rc9qqx.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # AI Escalation Management Systems

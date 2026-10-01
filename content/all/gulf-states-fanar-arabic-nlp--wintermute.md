@@ -10,6 +10,8 @@ trl: 7
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774814484/wintermute/technologies/bb9ac6fd-2acf-47aa-a83f-1c2a00592731-google-gemini-3.1-flash-image-preview-p6jj8m.png
+updated_at: '2026-09-28T17:17:05.416068+00:00'
+last_reviewed: null
 ---
 
 # Fanar Arabic NLP Platform
@@ -25,3 +27,8 @@ Fanar is an Arabic natural language processing platform developed by the Qatar C
 QCRI has positioned itself as the Gulf's premier computing research institution, with Fanar representing its flagship contribution to Arabic AI. Unlike the commercial LLM plays of UAE and Saudi Arabia, Fanar is research-driven and focused on advancing the foundational science of Arabic language computing — a necessary complement to the region's big-model approaches.
 
 Qatar's strategy differs from its neighbors: rather than competing on raw compute or model scale, it invests in deep research capabilities through Qatar Foundation institutions. This niche approach gives Qatar outsized influence in Arabic NLP standards and academic AI research, while the larger Gulf states focus on infrastructure and deployment.
+
+## Sources
+
+- [https://www.hbku.edu.qa/en/qcri](https://www.hbku.edu.qa/en/qcri)
+- [https://www.qf.org.qa/research/qatar-computing-research-institute](https://www.qf.org.qa/research/qatar-computing-research-institute)

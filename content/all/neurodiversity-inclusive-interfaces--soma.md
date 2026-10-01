@@ -10,6 +10,8 @@ trl: 6
 impact: 5
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178088/soma/technologies/neurodiversity-inclusive-interfaces-google-gemini-3-pro-image-preview-kf6t3c.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Neurodiversity-Inclusive Interfaces

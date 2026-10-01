@@ -11,6 +11,8 @@ trl: 6
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871271/helix/technologies/92aa1e58-0fff-40ca-a936-e43f0a7496af-google-gemini-3.1-flash-image-preview-kmiiif.jpg
+updated_at: '2026-09-28T17:16:54.420551+00:00'
+last_reviewed: null
 ---
 
 # AI-Driven Drug Discovery Platforms
@@ -26,3 +28,8 @@ Canadian researchers are building AI-driven drug discovery platforms that levera
 AI drug discovery matters because traditional pharmaceutical R&D costs approximately $2.6 billion per approved drug with a 90% failure rate. AI approaches can dramatically reduce the time and cost of identifying promising drug candidates, predicting their properties, and optimizing synthesis routes. The proximity of Canada's AI institutes to major research hospitals (especially in Toronto and Montreal) creates natural synergies.
 
 The strategic implication is that AI drug discovery is where Canada's two greatest research strengths — AI and biomedical science — converge. The country has the talent, the data (through public healthcare systems), and the institutional infrastructure to be a global leader in this domain. Success would address the long-standing commercialization gap by creating high-value biotech companies built on Canadian AI research.
+
+## Sources
+
+- [https://cifar.ca/ai/cifar-ai-catalyst-grants/](https://cifar.ca/ai/cifar-ai-catalyst-grants/)
+- [https://canadiansme.ca/ai-in-science-healthcare-canadas-breakthroughs-in-2025/](https://canadiansme.ca/ai-in-science-healthcare-canadas-breakthroughs-in-2025/)

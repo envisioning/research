@@ -10,6 +10,8 @@ trl: 3
 impact: 4
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898233/xenotech/technologies/affective-field-modulation-arrays-openrouter-google-gemini-3.1-flash-image-preview-l24hle.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'
+last_reviewed: null
 ---
 
 # Emotion Modulation
@@ -50,3 +52,7 @@ resonant field arrays creating standing wave patterns in emotional brain regions
 ## Critical Assessment
 
 Affective field modulation represents intersection of encounter testimony (rapid, involuntary emotional changes), legitimate neuroscience (emotional processing and field effects), and speculative consciousness technologies. While current emotional modulation requires individual application, the consistency of group-level emotional effects in encounter reports suggests either sophisticated unknown field technology or systematic psychological processes not yet understood. The phenomenon bridges established affective neuroscience with claims of environmental emotional engineering far exceeding current capabilities.
+
+## Sources
+
+- [Mirrorwell Research Brief: Integrating Healing Frequencies into Harmonic Field Protocols for Emotional Regulation and Trauma Repair](https://www.linkedin.com/pulse/mirrorwell-research-brief-integrating-healing-harmonic-shawn-riley-fcouc) (2025)

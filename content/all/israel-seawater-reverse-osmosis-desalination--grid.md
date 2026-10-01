@@ -11,6 +11,8 @@ trl: 9
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774876216/grid/technologies/f796aea4-f5e3-4e9c-bfaf-84b424509145-google-gemini-3.1-flash-image-preview-4k56ow.jpg
+updated_at: '2026-09-28T17:17:21.716304+00:00'
+last_reviewed: null
 ---
 
 # Large-Scale Seawater Reverse Osmosis Desalination
@@ -26,3 +28,9 @@ Israel has built the world's most advanced large-scale seawater reverse osmosis 
 Israel's desalination program is the most successful national-scale deployment of the technology in history, transforming a water-stressed nation into one with surplus supply. The achievement is particularly remarkable because it was driven by existential necessity — Israel's natural freshwater sources could not sustain a growing population in a region where water access is geopolitically contested. IDE Technologies and other Israeli firms developed innovations in membrane cleaning, energy recovery, and intake/outfall systems that set global benchmarks.
 
 Strategically, Israeli desalination expertise is a major export and soft-power tool. IDE has built plants in the U.S., China, India, and Australia. As climate change intensifies water scarcity worldwide — affecting 2+ billion people — Israeli desalination technology and operational know-how represent a critical capability for global adaptation. The technology also feeds Israel's agricultural water recycling system, creating a circular water economy that is studied worldwide.
+
+## Sources
+
+- [https://www.scientificamerican.com/article/israel-proves-the-desalination-era-is-here/](https://www.scientificamerican.com/article/israel-proves-the-desalination-era-is-here/)
+- [https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Israel](https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Israel)
+- [https://ide-tech.com/en/project/sorek-desalination-plant/](https://ide-tech.com/en/project/sorek-desalination-plant/)

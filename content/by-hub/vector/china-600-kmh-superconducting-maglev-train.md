@@ -11,6 +11,8 @@ trl: 4
 impact: 2
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774791764/vector/technologies/802f70d6-5c27-4fab-9d22-58bb773eb62c-google-gemini-3.1-flash-image-preview-3c9w30.png
+updated_at: '2026-09-28T17:17:53.808638+00:00'
+last_reviewed: null
 ---
 
 # 600 km/h Superconducting Maglev Train
@@ -26,3 +28,9 @@ The CRRC maglev achieves a 100mm levitation gap using high-temperature supercond
 At 600 km/h, the train would cut Beijing-Shanghai travel time from 4.5 hours (current HSR) to 2.5 hours — competitive with flying when accounting for airport procedures. The intended use case is intercity corridors of 500-1,500 km where trains can beat planes door-to-door.
 
 Skeptics note that the prototype has never run on a full-scale track. Commercial service is 5-10 years away. The fundamental challenge is infrastructure cost: maglev track is far more expensive per kilometer than conventional HSR, and China's existing 45,000 km HSR network already serves most corridors. The maglev may be a technology demonstration rather than a practical transport solution.
+
+## Sources
+
+- [https://www.railjournal.com/passenger/high-speed/crrc-unveils-600km-h-superconducting-maglev-prototype/](https://www.railjournal.com/passenger/high-speed/crrc-unveils-600km-h-superconducting-maglev-prototype/)
+- [https://newatlas.com/transport/china-fastest-maglev-train/](https://newatlas.com/transport/china-fastest-maglev-train/)
+- [https://asiatimes.com/2025/07/china-accelerates-its-maglev-train-to-catch-up-with-japan/](https://asiatimes.com/2025/07/china-accelerates-its-maglev-train-to-catch-up-with-japan/)

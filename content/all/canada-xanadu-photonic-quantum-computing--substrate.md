@@ -11,6 +11,8 @@ trl: 5
 impact: 5
 investment: 5
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871743/substrate/technologies/d71f17fd-6e07-4bf5-a375-20044849a762-google-gemini-3.1-flash-image-preview-x3taf3.png
+updated_at: '2026-09-28T17:18:40.360147+00:00'
+last_reviewed: null
 ---
 
 # Xanadu Photonic Quantum Computing
@@ -26,3 +28,8 @@ Xanadu Quantum Technologies is building fault-tolerant quantum computers using p
 Xanadu's photonic approach matters because it offers potential advantages in room-temperature operation, scalability through existing fiber optic infrastructure, and native compatibility with telecommunications networks. The TELUS partnership specifically aims to keep quantum computing capabilities and associated intellectual property under Canadian control — a national security consideration as quantum computing matures.
 
 Strategically, Xanadu is one of four Canadian quantum companies receiving up to CA$23 million each under the federal government's CA$92 million quantum initiative announced in December 2025. Its battery simulation work with NRC demonstrates a path to near-term industrial utility, bridging the gap between quantum hardware development and practical applications in materials science and clean energy.
+
+## Sources
+
+- [https://www.xanadu.ai/press/xanadu-and-telus-collaborate-to-advance-quantum-data-centre-infrastructure-in-canada](https://www.xanadu.ai/press/xanadu-and-telus-collaborate-to-advance-quantum-data-centre-infrastructure-in-canada)
+- [https://www.xanadu.ai/press/xanadu-the-university-of-toronto-and-the-national-research-council-of-canada-unveil-quantum-algorithms-for-lithium-ion-battery-simulations](https://www.xanadu.ai/press/xanadu-the-university-of-toronto-and-the-national-research-council-of-canada-unveil-quantum-algorithms-for-lithium-ion-battery-simulations)

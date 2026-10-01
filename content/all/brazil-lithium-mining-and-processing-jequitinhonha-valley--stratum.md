@@ -11,6 +11,8 @@ trl: 7
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774793908/stratum/technologies/ffc1d29d-2232-4a5a-a00a-9dc393f4c297-google-gemini-3.1-flash-image-preview-x3h1dm.jpg
+updated_at: '2026-09-28T17:17:05.49982+00:00'
+last_reviewed: null
 ---
 
 # Lithium Mining and Processing (Jequitinhonha Valley)
@@ -26,3 +28,8 @@ The Jequitinhonha Valley in Minas Gerais contains Brazil's largest concentration
 BYD acquired lithium mining rights in the region in early 2025, signaling intent to vertically integrate its EV battery supply chain from Brazilian mines. This mirrors BYD's strategy in China: controlling raw materials to reduce dependency on third-party suppliers.
 
 Brazil's lithium reserves are modest compared to Chile, Argentina, or Australia, but the hard-rock (spodumene) deposits in Minas Gerais offer advantages: faster permitting than South American brine operations, proximity to port infrastructure, and lower water requirements. The government is pushing for domestic value addition — processing concentrate into battery-grade lithium compounds in Brazil rather than exporting raw ore.
+
+## Sources
+
+- [https://www.streetwisereports.com/article/2025/03/17/major-lithium-plant-lands-in-brazil-fast-tracking-production.html](https://www.streetwisereports.com/article/2025/03/17/major-lithium-plant-lands-in-brazil-fast-tracking-production.html)
+- [https://evmagazine.com/news/byd-expands-into-brazils-lithium-valley-with-acquisition](https://evmagazine.com/news/byd-expands-into-brazils-lithium-valley-with-acquisition)

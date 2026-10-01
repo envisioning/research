@@ -12,6 +12,8 @@ trl: 9
 impact: 3
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774816514/helix/technologies/26a5f3cd-cc98-4aa0-8893-c726c7526357-google-gemini-3.1-flash-image-preview-nevqfr.jpg
+updated_at: '2026-09-28T17:16:53.173117+00:00'
+last_reviewed: null
 ---
 
 # K-Beauty R&D and Manufacturing Innovation
@@ -27,3 +29,8 @@ Korean beauty innovation is an R&D-driven technology pipeline disguised as a con
 The depth of Korean beauty R&D is invisible to consumers. Amorepacific's R&D center in Yongin employs over 500 researchers studying skin biology, with specialties in peptide synthesis, fermented extract efficacy (galactomyces, saccharomyces), and microbiome-based skincare. Korean companies increasingly use AI-powered skin analysis — smartphone cameras assess skin condition, then algorithms recommend personalized product combinations from existing product lines. 3D facial scanning enables custom-fit sheet masks manufactured to individual face geometry.
 
 The global impact is structural: Korean beauty innovations set the global product development agenda. Formulations and formats that appear in Korean products (snail mucin, centella asiatica, fermented rice extract, sunscreen-moisturizer hybrids) reach Western markets through both Korean brand exports and Western brands copying the technology 2-3 years later. Korea's $9.5B annual cosmetics export industry is built not on marketing but on a genuine R&D pipeline that consistently produces novel ingredient technologies, delivery systems, and product formats.
+
+## Sources
+
+- [https://www.amorepacific.com/en/innovation](https://www.amorepacific.com/en/innovation)
+- [https://www.beautyindependent.com/k-beauty-innovation-2025/](https://www.beautyindependent.com/k-beauty-innovation-2025/)

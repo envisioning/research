@@ -10,6 +10,8 @@ trl: 8
 impact: 4
 investment: 4
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774818013/grid/technologies/0e927b15-1157-4d8c-a544-cff35ca286e4-google-gemini-3.1-flash-image-preview-1qfn29.png
+updated_at: '2026-09-28T17:16:29.543179+00:00'
+last_reviewed: null
 ---
 
 # Hydrogen Economy Infrastructure
@@ -25,3 +27,8 @@ Japan's hydrogen strategy is the world's most comprehensive, encompassing produc
 The ammonia co-firing approach is uniquely Japanese — a pragmatic response to the country's limited renewable energy potential (mountainous terrain, limited land) and need for energy security. Japan imports 90%+ of its primary energy, making hydrogen and ammonia imports a pathway to carbon-neutral energy independence. Kawasaki Heavy Industries developed the world's first liquid hydrogen carrier ship for this purpose.
 
 Japan's hydrogen bet carries significant risk: green hydrogen remains 3-5x more expensive than natural gas, and battery electrification may address more end uses than hydrogen advocates project. However, if hydrogen costs decline as expected and hard-to-abate sectors (steel, shipping, aviation) require non-electric decarbonization, Japan's decade-long head start in infrastructure and industrial supply chains could prove visionary.
+
+## Sources
+
+- [https://www.nature.com/articles/d42473-023-00174-w](https://www.nature.com/articles/d42473-023-00174-w)
+- [https://pressroom.toyota.com/toyota-establishes-hydrogen-headquarters-to-accelerate-advancement-of-fuel-cell-technology/](https://pressroom.toyota.com/toyota-establishes-hydrogen-headquarters-to-accelerate-advancement-of-fuel-cell-technology/)

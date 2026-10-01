@@ -11,6 +11,8 @@ trl: 8
 impact: 2
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1774855917/helix/technologies/97424efe-1f9e-4c1c-975d-bc9eb4796165-google-gemini-3.1-flash-image-preview-wd3b2t.jpg
+updated_at: '2026-09-28T17:17:46.927969+00:00'
+last_reviewed: null
 ---
 
 # Indigenous Inactivated Vaccine Platform
@@ -26,3 +28,9 @@ TURKOVAC is Turkey's first indigenously developed vaccine, created by the Minist
 The TURKOVAC program established Turkey's sovereign vaccine development pipeline — from virus isolation through clinical trials to mass production. While the pandemic urgency that drove TURKOVAC's development has passed, the capability infrastructure persists: Turkey is building a vaccine and biotech hub in Ankara, and Sinovac has opened its first overseas jointly invested vaccine production plant in Turkey, bringing mRNA technology and manufacturing expertise.
 
 The strategic lesson of COVID-19 — that nations without vaccine sovereignty are dependent on the goodwill and supply priorities of producing nations — drives Turkey's continued investment in bio-pharmaceutical capability. The platform technologies developed for TURKOVAC (virus isolation, adjuvant development, clinical trial infrastructure) are transferable to other vaccine and therapeutic programs.
+
+## Sources
+
+- [https://en.wikipedia.org/wiki/Turkovac](https://en.wikipedia.org/wiki/Turkovac)
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC12066321/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12066321/)
+- [https://www.dailysabah.com/turkey/turkey-set-to-build-vaccine-biotech-hub-in-capital-ankara/news](https://www.dailysabah.com/turkey/turkey-set-to-build-vaccine-biotech-hub-in-capital-ankara/news)
