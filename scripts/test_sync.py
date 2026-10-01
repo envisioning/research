@@ -53,7 +53,43 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(a, b)
         self.assertIn("# Orbital Lattice", a)
         self.assertIn("## Description", a)
-        self.assertNotIn("## Sources", a)
+        self.assertIn("## Sources\n\n- [Example](https://example.com)\n", a)
+        self.assertIn("last_reviewed: null", a)
+        self.assertIn("updated_at: '2026-02-23T14:12:20.889403+00:00'", a)
+
+    def test_render_without_sources_has_no_sources_section(self):
+        tech = {**self.tech, "sources": []}
+        self.assertNotIn("## Sources", sync.render_technology_markdown(tech))
+
+    def test_evidence_replaces_legacy_sources(self):
+        data = {
+            "research": [{"id": "hub-1", "slug": "lattice", "title": "Lattice"}],
+            "technologies": [
+                {"id": "uuid-1", "original_id": "orbital-lattice", "research_id": "hub-1",
+                 "title": "Orbital Lattice", "published": True, "last_reviewed_at": "2026-10-01T00:00:00+00:00"},
+            ],
+            "sources": [{"technology_id": "uuid-1", "url": "https://legacy.example", "title": "Legacy", "position": 0}],
+            "technology_tags": [], "tags": [], "research_metrics": [],
+            "links": {"technology_evidence": [
+                {"id": "e2", "technology_id": "uuid-1", "url": "https://old.example", "title": "Old", "year": 2019},
+                {"id": "e1", "technology_id": "uuid-1", "url": "https://new.example", "title": "New", "year": 2025},
+                {"id": "e3", "technology_id": "uuid-1", "url": None, "title": "No link", "year": 2026},
+            ]},
+        }
+        techs, _ = sync.build_enriched(data)
+        self.assertEqual([s["url"] for s in techs[0]["sources"]], ["https://new.example", "https://old.example"])
+        self.assertEqual(techs[0]["last_reviewed_at"], "2026-10-01T00:00:00+00:00")
+
+    def test_link_files_are_sorted_jsonl_per_table(self):
+        data = {"links": {"technology_tags": [
+            {"id": "b", "technology_id": "uuid-1", "tag_id": "t2"},
+            {"id": "a", "technology_id": "uuid-1", "tag_id": "t1"},
+        ]}, "organizations": []}
+        files = sync.build_link_files(data)
+        tags = files[sync.LINKS_DIR / "technology_tags.jsonl"]
+        self.assertEqual(tags.splitlines()[0], '{"id": "a", "tag_id": "t1", "technology_id": "uuid-1"}')
+        self.assertEqual(files[sync.LINKS_DIR / "technology_evidence.jsonl"], "")
+        self.assertIn(sync.LINKS_DIR / "organizations.jsonl", files)
 
     def test_render_hubs_markdown_deterministic(self):
         techs = [self.tech]

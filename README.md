@@ -43,6 +43,13 @@ If you are republishing, remixing, or deriving from this dataset, please include
 - `indexes/run-manifest.json`
   Snapshot-level metadata (`hub_count`, `technology_count`, timestamp).
 
+- `indexes/links/*.jsonl`
+  Every row that links a published technology to something else, one JSON
+  object per line, sorted by `id`: `technology_evidence` (sources),
+  `technology_organizations`, `technology_tags`, `technology_geographies`,
+  `technology_signal_links`, `technology_links`, and the `organizations` they
+  name. Rows keep their CMS ids, so Git history can restore a row.
+
 ## Entry Format
 
 Each technology Markdown file uses YAML frontmatter + Markdown body.
@@ -60,6 +67,8 @@ trl: 4
 impact: 5
 investment: 4
 image_url: https://res.cloudinary.com/.../image.png
+updated_at: '2026-05-25T12:53:52.153719+00:00'   # last edit of any kind
+last_reviewed: null   # last check against current sources; null = never reviewed
 ```
 
 ### Body schema
@@ -72,6 +81,9 @@ image_url: https://res.cloudinary.com/.../image.png
 
 ## Description
 <full research description>
+
+## Sources            (only when the entry has any)
+- [<title>](<url>) (<year>)
 ```
 
 ## Naming and Organization Conventions

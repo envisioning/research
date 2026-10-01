@@ -6,6 +6,11 @@ Exports published technologies into:
 - content/by-hub
 - content/hubs.md
 - indexes/*.json
+- indexes/links/*.jsonl  (every link row of a published technology, one per line)
+
+The link files are the restore point for the research agents: each row keeps
+its id, so a wrong write or delete in the CMS can be put back from Git.
+Published rows only; this repository is public.
 
 Designed to be deterministic and idempotent.
 """
@@ -31,6 +36,37 @@ CONTENT_ALL_DIR = REPO_ROOT / "content" / "all"
 CONTENT_BY_HUB_DIR = REPO_ROOT / "content" / "by-hub"
 HUBS_MD_PATH = REPO_ROOT / "content" / "hubs.md"
 INDEXES_DIR = REPO_ROOT / "indexes"
+LINKS_DIR = INDEXES_DIR / "links"
+
+# Link tables keyed to a technology, exported whole for published
+# technologies: (table, columns, technology column).
+LINK_TABLES: list[tuple[str, str, str]] = [
+    (
+        "technology_evidence",
+        "id,technology_id,evidence_type,title,canonical_key,url,source_name,publication_date,"
+        "year,doi,patent_number,authors,snippet,support_strength,confidence,reasoning,source,"
+        "enrichment_model,created_at,updated_at",
+        "technology_id",
+    ),
+    (
+        "technology_organizations",
+        "id,technology_id,organization_id,relationship_type,relevance_score,notes,source,created_at",
+        "technology_id",
+    ),
+    ("technology_tags", "id,technology_id,tag_id,created_at", "technology_id"),
+    ("technology_geographies", "id,technology_id,geography_id,source,created_at", "technology_id"),
+    (
+        "technology_signal_links",
+        "id,technology_id,technology_signal_id,relation_type,claim,confidence,note,last_seen_at,"
+        "created_at,updated_at",
+        "technology_id",
+    ),
+    (
+        "technology_links",
+        "id,technology_id_1,technology_id_2,link_type,confidence,created_at",
+        "technology_id_1",
+    ),
+]
 
 
 def env_first(*keys: str) -> str | None:
@@ -148,12 +184,15 @@ def fetch_data(client: SupabaseClient, hub_slug: str | None = None) -> dict[str,
             "technology_tags": [],
             "tags": [],
             "research_metrics": [],
+            "links": {table: [] for table, _, _ in LINK_TABLES},
+            "organizations": [],
         }
 
     technologies = client.fetch_all(
         "technologies",
         "id,original_id,research_id,title,summary,description,image,"
-        "collection_id,collection_label,metric1,metric2,metric3,published,created_at,updated_at",
+        "collection_id,collection_label,metric1,metric2,metric3,published,created_at,updated_at,"
+        "last_reviewed_at",
         filters={
             "published": "is.true",
             "research_id": in_filter(research_ids),
@@ -202,6 +241,27 @@ def fetch_data(client: SupabaseClient, hub_slug: str | None = None) -> dict[str,
                 )
             )
 
+    links: dict[str, list[dict[str, Any]]] = {table: [] for table, _, _ in LINK_TABLES}
+    if tech_ids:
+        for table, columns, tech_column in LINK_TABLES:
+            for tech_chunk in chunked(tech_ids, 100):
+                links[table].extend(
+                    client.fetch_all(table, columns, filters={tech_column: in_filter(tech_chunk)})
+                )
+
+    org_ids = sorted(
+        {str(r["organization_id"]) for r in links["technology_organizations"] if r.get("organization_id")}
+    )
+    organizations: list[dict[str, Any]] = []
+    for org_chunk in chunked(org_ids, 200):
+        organizations.extend(
+            client.fetch_all(
+                "organizations",
+                "id,name,slug,org_type,url,country,founding_year,description,source,created_at,updated_at",
+                filters={"id": in_filter(org_chunk)},
+            )
+        )
+
     research_metrics = client.fetch_all(
         "research_metrics",
         "id,research_id,collection_id,updated_at,metrics_config",
@@ -219,6 +279,8 @@ def fetch_data(client: SupabaseClient, hub_slug: str | None = None) -> dict[str,
         "technology_tags": technology_tags,
         "tags": tags,
         "research_metrics": research_metrics,
+        "links": links,
+        "organizations": organizations,
     }
 
 
@@ -257,6 +319,27 @@ def build_enriched(data: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dic
             sources_by_tech[tid],
             key=lambda s: (s.get("position") if s.get("position") is not None else 999999, str(s.get("url") or "")),
         )
+
+    # Evidence replaces the legacy technologies_sources list where a
+    # technology has any; the legacy rows remain the fallback.
+    evidence_by_tech: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for row in data.get("links", {}).get("technology_evidence", []):
+        evidence_by_tech[str(row.get("technology_id"))].append(row)
+    for tid, rows in evidence_by_tech.items():
+        sources_by_tech[tid] = [
+            {
+                "url": row.get("url"),
+                "title": row.get("title"),
+                "summary": row.get("source_name"),
+                "position": None,
+                "year": row.get("year"),
+            }
+            for row in sorted(
+                rows,
+                key=lambda r: (-(r.get("year") or 0), str(r.get("title") or ""), str(r.get("id"))),
+            )
+            if row.get("url")
+        ]
 
     tag_by_row_id = {str(t["id"]): t for t in data.get("tags", [])}
     tag_map_by_tech: dict[str, dict[str, list[dict[str, str]]]] = defaultdict(
@@ -324,6 +407,7 @@ def build_enriched(data: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dic
                 "title": normalize_text(src.get("title") or ""),
                 "summary": normalize_text(src.get("summary") or ""),
                 "position": src.get("position"),
+                "year": src.get("year"),
             }
             for src in sources_by_tech.get(internal_id, [])
         ]
@@ -345,7 +429,9 @@ def build_enriched(data: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dic
                 "metric3": tech.get("metric3"),
                 "published": bool(tech.get("published")),
                 "created_at": tech.get("created_at"),
-                        "sources": normalized_sources,
+                "updated_at": tech.get("updated_at"),
+                "last_reviewed_at": tech.get("last_reviewed_at"),
+                "sources": normalized_sources,
                 "tags": tags_for_tech,
             }
         )
@@ -369,6 +455,8 @@ def render_technology_markdown(tech: dict[str, Any]) -> str:
         "impact": tech.get("metric2"),
         "investment": tech.get("metric3"),
         "image_url": tech.get("image"),
+        "updated_at": tech.get("updated_at"),
+        "last_reviewed": tech.get("last_reviewed_at"),
     }
 
     lines = [
@@ -382,6 +470,14 @@ def render_technology_markdown(tech: dict[str, Any]) -> str:
         "",
         (tech.get("description") or "").strip() or "_No description available._",
     ]
+
+    sources = [src for src in tech.get("sources", []) if src.get("url")]
+    if sources:
+        lines.extend(["", "## Sources", ""])
+        for src in sources:
+            label = (src.get("title") or src["url"]).strip()
+            year = f" ({src['year']})" if src.get("year") else ""
+            lines.append(f"- [{label}]({src['url']}){year}")
 
     body = "\n".join(lines).strip() + "\n"
     return f"---\n{yaml_frontmatter(frontmatter)}\n---\n\n{body}"
@@ -434,6 +530,7 @@ def build_indexes(
             "metric3": t.get("metric3"),
             "image_url": t.get("image"),
             "updated_at": t.get("updated_at"),
+            "last_reviewed": t.get("last_reviewed_at"),
             "canonical_path": f"content/all/{slugify(t['original_id'])}--{t['hub_slug']}.md",
             "permalink": build_permalink(t["hub_slug"], t["original_id"]),
         }
@@ -493,6 +590,21 @@ def dump_json_stable(data: Any) -> str:
     return json.dumps(data, indent=2, sort_keys=True, ensure_ascii=False) + "\n"
 
 
+def dump_jsonl_stable(rows: list[dict[str, Any]]) -> str:
+    """One row per line, sorted by id, so a changed row is a one-line diff."""
+    ordered = sorted(rows, key=lambda r: str(r.get("id")))
+    return "".join(json.dumps(r, sort_keys=True, ensure_ascii=False) + "\n" for r in ordered)
+
+
+def build_link_files(data: dict[str, Any]) -> dict[Path, str]:
+    files = {
+        LINKS_DIR / f"{table}.jsonl": dump_jsonl_stable(data.get("links", {}).get(table, []))
+        for table, _, _ in LINK_TABLES
+    }
+    files[LINKS_DIR / "organizations.jsonl"] = dump_jsonl_stable(data.get("organizations", []))
+    return files
+
+
 def list_files_recursive(base: Path, pattern: str) -> set[Path]:
     if not base.exists():
         return set()
@@ -504,6 +616,7 @@ def planned_full_stale(expected_paths: set[Path]) -> set[Path]:
     stale |= list_files_recursive(CONTENT_ALL_DIR, "*.md")
     stale |= list_files_recursive(CONTENT_BY_HUB_DIR, "*/*.md")
     stale |= list_files_recursive(INDEXES_DIR, "*.json")
+    stale |= list_files_recursive(LINKS_DIR, "*.jsonl")
     if HUBS_MD_PATH.exists():
         stale.add(HUBS_MD_PATH)
     return stale - expected_paths
@@ -560,7 +673,11 @@ def apply_file_updates(
 
 
 def build_expected_files(
-    techs: list[dict[str, Any]], hubs: list[dict[str, Any]], snapshot_ts: str, mode: str
+    techs: list[dict[str, Any]],
+    hubs: list[dict[str, Any]],
+    snapshot_ts: str,
+    mode: str,
+    raw: dict[str, Any] | None = None,
 ) -> dict[Path, str]:
     expected: dict[Path, str] = {}
 
@@ -581,6 +698,8 @@ def build_expected_files(
         expected[INDEXES_DIR / "hubs.json"] = dump_json_stable(indexes["hubs"])
         expected[INDEXES_DIR / "tags.json"] = dump_json_stable(indexes["tags"])
         expected[INDEXES_DIR / "run-manifest.json"] = dump_json_stable(indexes["run_manifest"])
+        if raw is not None:
+            expected.update(build_link_files(raw))
 
     return expected
 
@@ -623,7 +742,7 @@ def main() -> int:
     techs, hubs = build_enriched(raw)
     snapshot_ts = snapshot_timestamp(raw)
 
-    expected_files = build_expected_files(techs, hubs, snapshot_ts, mode=mode)
+    expected_files = build_expected_files(techs, hubs, snapshot_ts, mode=mode, raw=raw)
     expected_paths = set(expected_files.keys())
 
     if mode == "full":
