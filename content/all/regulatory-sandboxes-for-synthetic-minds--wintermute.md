@@ -2,7 +2,8 @@
 slug: regulatory-sandboxes-for-synthetic-minds
 hub: wintermute
 title: Regulatory Sandboxes for Synthetic Minds
-summary: Controlled environments for experimenting with high-risk cognitive systems.
+summary: Supervised testing environments where high-risk AI systems are deployed under
+  regulatory oversight
 permalink: https://www.envisioning.com/wintermute/regulatory-sandboxes-for-synthetic-minds
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079495/winte
 
 ## Summary
 
-Controlled environments for experimenting with high-risk cognitive systems.
+Supervised testing environments where high-risk AI systems are deployed under regulatory oversight
 
 ## Description
 

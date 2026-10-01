@@ -2,7 +2,7 @@
 slug: algorithmic-impact-assessments
 hub: polis
 title: Algorithmic Impact Assessments
-summary: Mandatory transparency reports for high-risk AI in government.
+summary: Standardized evaluations required before deploying AI systems in public services
 permalink: https://www.envisioning.com/polis/algorithmic-impact-assessments
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126793/polis
 
 ## Summary
 
-Mandatory transparency reports for high-risk AI in government.
+Standardized evaluations required before deploying AI systems in public services
 
 ## Description
 

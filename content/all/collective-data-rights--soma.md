@@ -2,7 +2,8 @@
 slug: collective-data-rights
 hub: soma
 title: Collective Data Rights
-summary: Governance models for group-level data ownership and decision-making.
+summary: Governance models that grant communities shared ownership and control over
+  their collective data
 permalink: https://www.envisioning.com/soma/collective-data-rights
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179255/soma/
 
 ## Summary
 
-Governance models for group-level data ownership and decision-making.
+Governance models that grant communities shared ownership and control over their collective data
 
 ## Description
 

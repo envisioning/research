@@ -2,7 +2,7 @@
 slug: real-time-ray-tracing
 hub: prism
 title: Real-time Ray Tracing
-summary: Rendering technique simulating physical light behavior for photorealism.
+summary: Simulates realistic light behavior in graphics engines for interactive visuals
 permalink: https://www.envisioning.com/prism/real-time-ray-tracing
 collection: software
 trl: 9
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074867/pulse
 
 ## Summary
 
-Rendering technique simulating physical light behavior for photorealism.
+Simulates realistic light behavior in graphics engines for interactive visuals
 
 ## Description
 

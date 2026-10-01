@@ -2,7 +2,8 @@
 slug: quantum-magnetometers
 hub: superposition
 title: Quantum Magnetometers
-summary: Ultra-sensitive sensors for medical imaging and GPS-denied navigation.
+summary: Ultra-sensitive magnetic field sensors using quantum effects in diamonds
+  or atomic vapors
 permalink: https://www.envisioning.com/superposition/quantum-magnetometers
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181202/super
 
 ## Summary
 
-Ultra-sensitive sensors for medical imaging and GPS-denied navigation.
+Ultra-sensitive magnetic field sensors using quantum effects in diamonds or atomic vapors
 
 ## Description
 

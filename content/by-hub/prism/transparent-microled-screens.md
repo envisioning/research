@@ -2,7 +2,8 @@
 slug: transparent-microled-screens
 hub: prism
 title: Transparent OLED & MicroLED Screens
-summary: See-through display sheets for retail storytelling and AR broadcast sets.
+summary: See-through display panels that overlay graphics on windows and surfaces
+  without blocking the view
 permalink: https://www.envisioning.com/prism/transparent-microled-screens
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062564/pulse
 
 ## Summary
 
-See-through display sheets for retail storytelling and AR broadcast sets.
+See-through display panels that overlay graphics on windows and surfaces without blocking the view
 
 ## Description
 

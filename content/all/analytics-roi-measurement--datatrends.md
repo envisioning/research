@@ -2,8 +2,7 @@
 slug: analytics-roi-measurement
 hub: datatrends
 title: Analytics ROI and Value Measurement
-summary: Frameworks and practices for measuring the business value and return on investment
-  of analytics initiatives.
+summary: Frameworks for quantifying financial and strategic returns from data initiatives
 permalink: https://www.envisioning.com/datatrends/analytics-roi-measurement
 collection: valuation-productization
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730745/datat
 
 ## Summary
 
-Frameworks and practices for measuring the business value and return on investment of analytics initiatives.
+Frameworks for quantifying financial and strategic returns from data initiatives
 
 ## Description
 

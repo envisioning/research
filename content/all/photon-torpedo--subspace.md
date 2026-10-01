@@ -2,21 +2,21 @@
 slug: photon-torpedo
 hub: subspace
 title: Photon Torpedo
-summary: Self-propelled projectile weapon utilizing matter-antimatter warheads for
-  devastating explosive yield.
+summary: Self-propelled weapon using matter-antimatter annihilation for maximum explosive
+  yield
 permalink: https://www.envisioning.com/subspace/photon-torpedo
 collection: weapons
 trl: 4
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208352/subspaceindex/technologies/photon-torpedo.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908662/subspace/technologies/photon-torpedo-openrouter-google-gemini-3.1-flash-image-preview-8e2gkr.png
 ---
 
 # Photon Torpedo
 
 ## Summary
 
-Self-propelled projectile weapon utilizing matter-antimatter warheads for devastating explosive yield.
+Self-propelled weapon using matter-antimatter annihilation for maximum explosive yield
 
 ## Description
 

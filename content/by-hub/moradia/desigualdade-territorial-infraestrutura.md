@@ -2,8 +2,8 @@
 slug: desigualdade-territorial-infraestrutura
 hub: moradia
 title: Desigualdade Territorial de Infraestrutura
-summary: Desafios de distribuição desigual de infraestrutura urbana entre diferentes
-  territórios.
+summary: Distribuição desigual de serviços essenciais, transporte e saneamento entre
+  áreas urbanas
 permalink: https://www.envisioning.com/moradia/desigualdade-territorial-infraestrutura
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359703/conec
 
 ## Summary
 
-Desafios de distribuição desigual de infraestrutura urbana entre diferentes territórios.
+Distribuição desigual de serviços essenciais, transporte e saneamento entre áreas urbanas
 
 ## Description
 

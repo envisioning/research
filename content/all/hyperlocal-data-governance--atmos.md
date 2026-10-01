@@ -2,8 +2,8 @@
 slug: hyperlocal-data-governance
 hub: atmos
 title: Data Governance for Hyperlocal Exposure and Mobility
-summary: Rules for using fine-grained mobility and exposure data without enabling
-  surveillance.
+summary: Consent and privacy rules for fine-grained mobility and environmental exposure
+  datasets
 permalink: https://www.envisioning.com/atmos/hyperlocal-data-governance
 collection: ethics-security
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010262/atmos
 
 ## Summary
 
-Rules for using fine-grained mobility and exposure data without enabling surveillance.
+Consent and privacy rules for fine-grained mobility and environmental exposure datasets
 
 ## Description
 

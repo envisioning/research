@@ -2,19 +2,21 @@
 slug: speech-recognition
 hub: interface
 title: Speech Recognition
-summary: Automatic transcription and understanding of spoken language.
+summary: Converts spoken audio into written text using neural networks and language
+  models
 permalink: https://www.envisioning.com/interface/speech-recognition
 collection: applications
 trl: 9
-impact: 5
-investment: 5
+impact: 3
+investment: 3
+image_url: null
 ---
 
 # Speech Recognition
 
 ## Summary
 
-Automatic transcription and understanding of spoken language.
+Converts spoken audio into written text using neural networks and language models
 
 ## Description
 

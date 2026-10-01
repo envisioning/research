@@ -2,7 +2,8 @@
 slug: systemic-risk-and-protocol-stability
 hub: lattice
 title: Systemic Risk & Protocol-Scale Financial Stability
-summary: Managing contagion and instability across interconnected protocols and chains.
+summary: Managing cascade failures and contagion risks across interconnected DeFi
+  protocols and blockchains
 permalink: https://www.envisioning.com/lattice/systemic-risk-and-protocol-stability
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010255/flows
 
 ## Summary
 
-Managing contagion and instability across interconnected protocols and chains.
+Managing cascade failures and contagion risks across interconnected DeFi protocols and blockchains
 
 ## Description
 

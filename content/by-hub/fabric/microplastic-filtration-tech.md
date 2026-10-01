@@ -2,7 +2,8 @@
 slug: microplastic-filtration-tech
 hub: fabric
 title: Microplastic Filtration Technologies
-summary: Technologies preventing synthetic microfiber release during washing.
+summary: Filters and treatments that prevent synthetic microfibers from entering waterways
+  during laundry
 permalink: https://www.envisioning.com/fabric/microplastic-filtration-tech
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058385/threa
 
 ## Summary
 
-Technologies preventing synthetic microfiber release during washing.
+Filters and treatments that prevent synthetic microfibers from entering waterways during laundry
 
 ## Description
 

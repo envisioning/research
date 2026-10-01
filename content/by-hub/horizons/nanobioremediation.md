@@ -2,10 +2,10 @@
 slug: nanobioremediation
 hub: horizons
 title: Nanobioremediation
-summary: Nanoparticles combined with biological processes to clean up environmental
-  pollution.
+summary: Engineered nanoparticles that enhance biological cleanup of soil and water
+  contaminants
 permalink: https://www.envisioning.com/horizons/nanobioremediation
-collection: society-culture
+collection: applications
 trl: 6
 impact: 3
 investment: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521293/horiz
 
 ## Summary
 
-Nanoparticles combined with biological processes to clean up environmental pollution.
+Engineered nanoparticles that enhance biological cleanup of soil and water contaminants
 
 ## Description
 

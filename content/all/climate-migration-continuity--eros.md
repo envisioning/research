@@ -2,7 +2,7 @@
 slug: climate-migration-continuity
 hub: eros
 title: Climate Migration Relationship Continuity Tools
-summary: Infrastructure to maintain bonds during displacement and relocation.
+summary: Systems preserving family and community bonds across climate-driven displacement
 permalink: https://www.envisioning.com/eros/climate-migration-continuity
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125551/eros/
 
 ## Summary
 
-Infrastructure to maintain bonds during displacement and relocation.
+Systems preserving family and community bonds across climate-driven displacement
 
 ## Description
 

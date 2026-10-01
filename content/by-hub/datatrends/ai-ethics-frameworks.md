@@ -2,8 +2,8 @@
 slug: ai-ethics-frameworks
 hub: datatrends
 title: AI Ethics Frameworks
-summary: Emerging frameworks addressing algorithmic bias, fairness, and ethical AI
-  deployment across diverse socioeconomic contexts.
+summary: Structured guidelines for detecting and preventing algorithmic bias in AI
+  systems
 permalink: https://www.envisioning.com/datatrends/ai-ethics-frameworks
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766954525/datat
 
 ## Summary
 
-Emerging frameworks addressing algorithmic bias, fairness, and ethical AI deployment across diverse socioeconomic contexts.
+Structured guidelines for detecting and preventing algorithmic bias in AI systems
 
 ## Description
 

@@ -2,14 +2,10 @@
 slug: ultra-low-emission-zone
 hub: cities
 title: Ultra Low Emission Zone
-summary: 'Designed to address the pressing problem of urban air pollution, which significantly
-  impacts public health and contributes to climate change, this solution refers to
-  a designated area within a city where strict emission standards are enforced, requiring
-  vehicles to meet specific environmental criteria or face a daily charge. By incentivising
-  the use of cleaner vehicles and discouraging older, more polluting models, ULEZ
-  helps improve air quality, making cities healthier and more sustainable. '
+summary: Designated urban areas enforcing strict vehicle emission standards through
+  daily charges
 permalink: https://www.envisioning.com/cities/ultra-low-emission-zone
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: ethics-security
 trl: 9
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869590-ultra-low-emission-z
 
 ## Summary
 
-Designed to address the pressing problem of urban air pollution, which significantly impacts public health and contributes to climate change, this solution refers to a designated area within a city where strict emission standards are enforced, requiring vehicles to meet specific environmental criteria or face a daily charge. By incentivising the use of cleaner vehicles and discouraging older, more polluting models, ULEZ helps improve air quality, making cities healthier and more sustainable.
+Designated urban areas enforcing strict vehicle emission standards through daily charges
 
 ## Description
 

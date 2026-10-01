@@ -2,21 +2,21 @@
 slug: cardassian-neural-conditioning
 hub: subspace
 title: Neural Conditioning Devices
-summary: Interrogation and reeducation technology for extracting information and modifying
-  beliefs.
+summary: Brain-computer interfaces designed to extract memories and alter beliefs
+  through neural stimulation
 permalink: https://www.envisioning.com/subspace/cardassian-neural-conditioning
 collection: biotechnology
 trl: 7
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760264961/subspaceindex/technologies/cardassian-neural-conditioning.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908529/subspace/technologies/cardassian-neural-conditioning-openrouter-google-gemini-3.1-flash-image-preview-29wr39.png
 ---
 
 # Neural Conditioning Devices
 
 ## Summary
 
-Interrogation and reeducation technology for extracting information and modifying beliefs.
+Brain-computer interfaces designed to extract memories and alter beliefs through neural stimulation
 
 ## Description
 

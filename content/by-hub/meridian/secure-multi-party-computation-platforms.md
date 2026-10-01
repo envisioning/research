@@ -2,7 +2,8 @@
 slug: secure-multi-party-computation-platforms
 hub: meridian
 title: Secure Multi-Party Computation Platforms
-summary: Joint analytics without revealing raw data.
+summary: Collaborative data analysis across organizations without exposing underlying
+  datasets
 permalink: https://www.envisioning.com/meridian/secure-multi-party-computation-platforms
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129316/merid
 
 ## Summary
 
-Joint analytics without revealing raw data.
+Collaborative data analysis across organizations without exposing underlying datasets
 
 ## Description
 

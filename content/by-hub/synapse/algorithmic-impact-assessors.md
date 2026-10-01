@@ -2,7 +2,8 @@
 slug: algorithmic-impact-assessors
 hub: synapse
 title: Algorithmic Impact Assessors
-summary: Tools for evaluating the societal and ethical risks of deployed AI systems.
+summary: Frameworks and tools that evaluate AI systems for bias, fairness, and unintended
+  harms
 permalink: https://www.envisioning.com/synapse/algorithmic-impact-assessors
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127175/synap
 
 ## Summary
 
-Tools for evaluating the societal and ethical risks of deployed AI systems.
+Frameworks and tools that evaluate AI systems for bias, fairness, and unintended harms
 
 ## Description
 

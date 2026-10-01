@@ -2,7 +2,8 @@
 slug: quantum-chemistry-simulation-platforms
 hub: superposition
 title: Quantum Chemistry Simulation Platforms
-summary: Cloud services running VQE and phase estimation for molecular discovery.
+summary: Cloud platforms running quantum algorithms to model molecular structures
+  and reactions
 permalink: https://www.envisioning.com/superposition/quantum-chemistry-simulation-platforms
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181041/super
 
 ## Summary
 
-Cloud services running VQE and phase estimation for molecular discovery.
+Cloud platforms running quantum algorithms to model molecular structures and reactions
 
 ## Description
 

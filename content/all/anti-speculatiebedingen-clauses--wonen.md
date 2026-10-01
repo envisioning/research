@@ -9,7 +9,7 @@ collection: development-models
 trl: 2
 impact: 4
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887493/wonen/technologies/60f0618a-1cbe-4978-a634-1602f3b3087f-google-gemini-3.1-flash-image-preview-wpfv9f.jpg
 ---
 
 # Anti-Speculatiebedingen (Anti-Speculation Clauses)

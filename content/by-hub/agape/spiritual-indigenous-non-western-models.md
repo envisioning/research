@@ -3,7 +3,6 @@ slug: spiritual-indigenous-non-western-models
 hub: agape
 title: Spiritual, Indigenous & Non-Western Models
 summary: Spiritual, indigenous, and non-Western models gaining visibility, as diverse
-  traditions reshape philanthropic practice.
 permalink: https://www.envisioning.com/agape/spiritual-indigenous-non-western-models
 collection: culture-values-narratives
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372202/agape
 
 ## Summary
 
-Spiritual, indigenous, and non-Western models gaining visibility, as diverse traditions reshape philanthropic practice.
+Spiritual, indigenous, and non-Western models gaining visibility, as diverse
 
 ## Description
 

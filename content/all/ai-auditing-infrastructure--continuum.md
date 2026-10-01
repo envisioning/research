@@ -2,7 +2,8 @@
 slug: ai-auditing-infrastructure
 hub: continuum
 title: AI Auditing Infrastructure
-summary: Standardized pipelines for stress-testing and evaluating powerful AI systems.
+summary: Standardized frameworks for testing AI safety, reliability, and alignment
+  at scale
 permalink: https://www.envisioning.com/continuum/ai-auditing-infrastructure
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123951/conti
 
 ## Summary
 
-Standardized pipelines for stress-testing and evaluating powerful AI systems.
+Standardized frameworks for testing AI safety, reliability, and alignment at scale
 
 ## Description
 

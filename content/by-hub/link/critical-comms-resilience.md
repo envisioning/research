@@ -2,7 +2,8 @@
 slug: critical-comms-resilience
 hub: link
 title: Critical Communications Resilience
-summary: Architectures to keep networks running under extreme failures or attacks.
+summary: Redundant network architectures that maintain connectivity during disasters
+  and attacks
 permalink: https://www.envisioning.com/link/critical-comms-resilience
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179349/link/
 
 ## Summary
 
-Architectures to keep networks running under extreme failures or attacks.
+Redundant network architectures that maintain connectivity during disasters and attacks
 
 ## Description
 

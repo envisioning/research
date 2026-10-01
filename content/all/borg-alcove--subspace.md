@@ -2,21 +2,21 @@
 slug: borg-alcove
 hub: subspace
 title: Borg Regeneration Alcove
-summary: Recharging and maintenance station for Borg drones providing power and software
-  updates.
+summary: Vertical docking station that recharges cybernetic implants and synchronizes
+  drones to a hive network
 permalink: https://www.envisioning.com/subspace/borg-alcove
 collection: biotechnology
 trl: 5
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216795/subspaceindex/technologies/borg-alcove.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907594/subspace/technologies/borg-alcove-openrouter-google-gemini-3.1-flash-image-preview-sk037q.png
 ---
 
 # Borg Regeneration Alcove
 
 ## Summary
 
-Recharging and maintenance station for Borg drones providing power and software updates.
+Vertical docking station that recharges cybernetic implants and synchronizes drones to a hive network
 
 ## Description
 

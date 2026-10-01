@@ -2,7 +2,7 @@
 slug: mineral-carbonation
 hub: stratum
 title: Mineral Carbonation (CCU)
-summary: Locking captured CO2 into stable mineral byproducts.
+summary: Reacting captured CO2 with alkaline minerals to form stable carbonate solids
 permalink: https://www.envisioning.com/stratum/mineral-carbonation
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177948/strat
 
 ## Summary
 
-Locking captured CO2 into stable mineral byproducts.
+Reacting captured CO2 with alkaline minerals to form stable carbonate solids
 
 ## Description
 

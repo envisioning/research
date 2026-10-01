@@ -2,8 +2,8 @@
 slug: contratos-colaborativos-ipd-alliancing
 hub: moradia
 title: Contratos Colaborativos
-summary: Modelos contratuais que alinham incentivos, compartilham riscos e reduzem
-  disputas em projetos complexos.
+summary: Modelos contratuais que alinham incentivos e compartilham riscos entre todas
+  as partes de um projeto
 permalink: https://www.envisioning.com/moradia/contratos-colaborativos-ipd-alliancing
 collection: modelos-mercado-governanca
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766579931/habit
 
 ## Summary
 
-Modelos contratuais que alinham incentivos, compartilham riscos e reduzem disputas em projetos complexos.
+Modelos contratuais que alinham incentivos e compartilham riscos entre todas as partes de um projeto
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: climate-adaptation-tourism-models
 hub: atlas
 title: Climate Adaptation Tourism Models
-summary: Predictive systems modeling climate impact on destinations and seasonality.
+summary: Forecasting how climate change will reshape destination viability and travel
+  patterns
 permalink: https://www.envisioning.com/atlas/climate-adaptation-tourism-models
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123891/atlas
 
 ## Summary
 
-Predictive systems modeling climate impact on destinations and seasonality.
+Forecasting how climate change will reshape destination viability and travel patterns
 
 ## Description
 

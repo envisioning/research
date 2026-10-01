@@ -2,7 +2,8 @@
 slug: distributed-minds
 hub: wintermute
 title: Distributed Minds & Cloud Embodiment
-summary: Shared cognition across clusters enabling parallel 'selves'.
+summary: AI agents running as parallel instances across cloud infrastructure with
+  shared memory
 permalink: https://www.envisioning.com/wintermute/distributed-minds
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985562/winte
 
 ## Summary
 
-Shared cognition across clusters enabling parallel 'selves'.
+AI agents running as parallel instances across cloud infrastructure with shared memory
 
 ## Description
 

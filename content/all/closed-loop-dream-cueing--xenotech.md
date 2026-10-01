@@ -2,21 +2,21 @@
 slug: closed-loop-dream-cueing
 hub: xenotech
 title: Dream Cueing Systems
-summary: Wearables detect REM in real time to inject gentle cues (audio, haptics,
-  light) for dream incorporation without awakening.
+summary: Wearables detect REM sleep and deliver timed sensory cues to shape dream
+  content without waking
 permalink: https://www.envisioning.com/xenotech/closed-loop-dream-cueing
 collection: consciousness-interface
 trl: 5
 impact: 2
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760952487/xenotech/technologies/closed-loop-dream-cueing.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939881/xenotech/technologies/closed-loop-dream-cueing-imagegen-v1.png
 ---
 
 # Dream Cueing Systems
 
 ## Summary
 
-Wearables detect REM in real time to inject gentle cues (audio, haptics, light) for dream incorporation without awakening.
+Wearables detect REM sleep and deliver timed sensory cues to shape dream content without waking
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: post-quantum-encryption-media
 hub: prism
 title: Post-Quantum Encryption for Media
-summary: Cryptographic standards future-proofing media rights against quantum decryption.
+summary: Quantum-resistant cryptography protecting media rights, archives, and DRM
+  from future attacks
 permalink: https://www.envisioning.com/prism/post-quantum-encryption-media
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062708/pulse
 
 ## Summary
 
-Cryptographic standards future-proofing media rights against quantum decryption.
+Quantum-resistant cryptography protecting media rights, archives, and DRM from future attacks
 
 ## Description
 

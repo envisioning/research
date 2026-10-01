@@ -2,14 +2,13 @@
 slug: emotion-aware-autism-support-robots
 hub: interface
 title: Emotion-Aware Autism Support Robots
-summary: Native AI platform and modular companion robot supporting children with autism,
-  offering affordable, personalized, and engaging learning with adaptive, emotion-aware
-  technology across homes, schools, and clinics.
+summary: AI-powered robots that recognize emotions and adapt interactions to help
+  children with autism develop social skills
 permalink: https://www.envisioning.com/interface/emotion-aware-autism-support-robots
-collection: spatial-computing-immersive
+collection: applications
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737599/interface/technologies/emotion-aware-autism-support-robots-google-gemini-3-pro-image-preview-x0weug.jpg
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737599/inter
 
 ## Summary
 
-Native AI platform and modular companion robot supporting children with autism, offering affordable, personalized, and engaging learning with adaptive, emotion-aware technology across homes, schools, and clinics.
+AI-powered robots that recognize emotions and adapt interactions to help children with autism develop social skills
 
 ## Description
 

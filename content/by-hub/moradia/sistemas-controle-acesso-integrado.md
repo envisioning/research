@@ -2,8 +2,8 @@
 slug: sistemas-controle-acesso-integrado
 hub: moradia
 title: Sistemas de Controle de Acesso Integrado
-summary: Infraestrutura unificada de controle de acesso com credenciais digitais multimodais
-  (QR, BLE, NFC, Biometria) e integração com gestão de visitantes e segurança.
+summary: Plataforma unificada de controle de acesso com credenciais digitais e biometria
+  para segurança predial
 permalink: https://www.envisioning.com/moradia/sistemas-controle-acesso-integrado
 collection: sistemas-prediais-automacao
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326811/habit
 
 ## Summary
 
-Infraestrutura unificada de controle de acesso com credenciais digitais multimodais (QR, BLE, NFC, Biometria) e integração com gestão de visitantes e segurança.
+Plataforma unificada de controle de acesso com credenciais digitais e biometria para segurança predial
 
 ## Description
 

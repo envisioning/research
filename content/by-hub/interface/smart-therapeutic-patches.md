@@ -2,21 +2,21 @@
 slug: smart-therapeutic-patches
 hub: interface
 title: Smart Therapeutic Patches
-summary: Ultra-thin wearable light-therapy patches with pulsed red and blue PBM for
-  pain relief and recovery.
+summary: Wearable light-therapy patches using red and blue light for pain relief and
+  recovery
 permalink: https://www.envisioning.com/interface/smart-therapeutic-patches
-collection: wearables-health-sensing
+collection: applications
 trl: 7
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889321/interface/technologies/7ad74d35-ebe0-456e-a74d-d713025bd605-google-gemini-3.1-flash-image-preview-qbav47.jpg
 ---
 
 # Smart Therapeutic Patches
 
 ## Summary
 
-Ultra-thin wearable light-therapy patches with pulsed red and blue PBM for pain relief and recovery.
+Wearable light-therapy patches using red and blue light for pain relief and recovery
 
 ## Description
 

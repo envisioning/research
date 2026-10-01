@@ -2,19 +2,20 @@
 slug: hypersonic-cruise-missile
 hub: aegis
 title: Hypersonic Cruise Missile
-summary: Missiles traveling at Mach 5+; Avangard, Kinzhal, Zircon, BrahMos-II development.
+summary: Missiles sustaining Mach 5+ speeds for precision strike and strategic deterrence
 permalink: https://www.envisioning.com/aegis/hypersonic-cruise-missile
 collection: hardware
 trl: 7
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962821/aegis/technologies/hypersonic-cruise-missile-72gpzs.png
 ---
 
 # Hypersonic Cruise Missile
 
 ## Summary
 
-Missiles traveling at Mach 5+; Avangard, Kinzhal, Zircon, BrahMos-II development.
+Missiles sustaining Mach 5+ speeds for precision strike and strategic deterrence
 
 ## Description
 

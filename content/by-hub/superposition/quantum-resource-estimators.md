@@ -2,7 +2,8 @@
 slug: quantum-resource-estimators
 hub: superposition
 title: Quantum Resource Estimators
-summary: Tools to predict the qubit count and runtime required for large-scale algorithms.
+summary: Software that predicts qubit count and runtime needed for quantum algorithms
+  before execution
 permalink: https://www.envisioning.com/superposition/quantum-resource-estimators
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181274/super
 
 ## Summary
 
-Tools to predict the qubit count and runtime required for large-scale algorithms.
+Software that predicts qubit count and runtime needed for quantum algorithms before execution
 
 ## Description
 

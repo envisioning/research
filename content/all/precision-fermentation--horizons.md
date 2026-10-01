@@ -2,9 +2,10 @@
 slug: precision-fermentation
 hub: horizons
 title: Precision Fermentation
-summary: Using engineered microbes to produce specific functional ingredients.
+summary: Engineered microbes producing proteins, fats, and ingredients through controlled
+  fermentation
 permalink: https://www.envisioning.com/horizons/precision-fermentation
-collection: life-health
+collection: hardware
 trl: 8
 impact: 5
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526993/horiz
 
 ## Summary
 
-Using engineered microbes to produce specific functional ingredients.
+Engineered microbes producing proteins, fats, and ingredients through controlled fermentation
 
 ## Description
 

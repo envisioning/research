@@ -2,21 +2,21 @@
 slug: dyson-sphere
 hub: subspace
 title: Dyson Sphere
-summary: Massive megastructure completely enclosing a star to harness its total energy
-  output.
+summary: Hypothetical megastructure enclosing a star to capture its entire energy
+  output
 permalink: https://www.envisioning.com/subspace/dyson-sphere
 collection: energy
 trl: 1
 impact: 1
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760274560/subspaceindex/technologies/dyson-sphere.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907913/subspace/technologies/dyson-sphere-openrouter-google-gemini-3.1-flash-image-preview-gud1bv.png
 ---
 
 # Dyson Sphere
 
 ## Summary
 
-Massive megastructure completely enclosing a star to harness its total energy output.
+Hypothetical megastructure enclosing a star to capture its entire energy output
 
 ## Description
 

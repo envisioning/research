@@ -2,7 +2,8 @@
 slug: smart-fabrics
 hub: stride
 title: Smart Fabrics & E-Textiles
-summary: Conductive fibers embedded in athletic wear for physiological monitoring.
+summary: Athletic wear with woven sensors that track heart rate, movement, and body
+  temperature
 permalink: https://www.envisioning.com/stride/smart-fabrics
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127943/strid
 
 ## Summary
 
-Conductive fibers embedded in athletic wear for physiological monitoring.
+Athletic wear with woven sensors that track heart rate, movement, and body temperature
 
 ## Description
 

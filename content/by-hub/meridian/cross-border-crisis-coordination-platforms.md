@@ -2,7 +2,8 @@
 slug: cross-border-crisis-coordination-platforms
 hub: meridian
 title: Cross-Border Crisis Coordination Platforms
-summary: Real-time shared situational awareness.
+summary: Secure systems enabling real-time coordination between nations during cross-border
+  emergencies
 permalink: https://www.envisioning.com/meridian/cross-border-crisis-coordination-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131132/merid
 
 ## Summary
 
-Real-time shared situational awareness.
+Secure systems enabling real-time coordination between nations during cross-border emergencies
 
 ## Description
 

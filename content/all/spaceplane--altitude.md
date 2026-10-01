@@ -2,19 +2,21 @@
 slug: spaceplane
 hub: altitude
 title: Spaceplane
-summary: Reusable spacecraft with aircraft-like operations; hypersonic transport.
+summary: Reusable spacecraft that take off and land like aircraft for orbital access
+  and hypersonic travel
 permalink: https://www.envisioning.com/altitude/spaceplane
 collection: hardware
 trl: 6
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898104/altitude/technologies/a96e7d31-0446-4137-b59e-6d4e8b3d1547-google-gemini-3.1-flash-image-preview-0s55zw.png
 ---
 
 # Spaceplane
 
 ## Summary
 
-Reusable spacecraft with aircraft-like operations; hypersonic transport.
+Reusable spacecraft that take off and land like aircraft for orbital access and hypersonic travel
 
 ## Description
 

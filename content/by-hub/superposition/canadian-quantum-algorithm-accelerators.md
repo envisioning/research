@@ -2,7 +2,7 @@
 slug: canadian-quantum-algorithm-accelerators
 hub: superposition
 title: Canadian Quantum Algorithm Accelerators
-summary: Industry programs pairing enterprises with Canadian quantum algorithm labs.
+summary: Industry programs pairing enterprises with quantum algorithm labs in Canada
 permalink: https://www.envisioning.com/superposition/canadian-quantum-algorithm-accelerators
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181180/super
 
 ## Summary
 
-Industry programs pairing enterprises with Canadian quantum algorithm labs.
+Industry programs pairing enterprises with quantum algorithm labs in Canada
 
 ## Description
 

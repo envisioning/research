@@ -2,7 +2,8 @@
 slug: machine-to-machine-economic-os
 hub: lattice
 title: Machine-to-Machine Economic OS
-summary: Protocols coordinating autonomous fleets via microtransactions.
+summary: Protocols enabling autonomous machines to transact, negotiate, and coordinate
+  via economic incentives
 permalink: https://www.envisioning.com/lattice/machine-to-machine-economic-os
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995582/flows
 
 ## Summary
 
-Protocols coordinating autonomous fleets via microtransactions.
+Protocols enabling autonomous machines to transact, negotiate, and coordinate via economic incentives
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: embedded-finance
 hub: vault
 title: Embedded Finance & Banking-as-a-Service
-summary: Financial services within non-financial platforms.
+summary: Banking capabilities integrated directly into non-financial apps and platforms
+  via APIs
 permalink: https://www.envisioning.com/vault/embedded-finance
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128728/vault
 
 ## Summary
 
-Financial services within non-financial platforms.
+Banking capabilities integrated directly into non-financial apps and platforms via APIs
 
 ## Description
 

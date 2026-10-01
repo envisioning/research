@@ -2,20 +2,21 @@
 slug: vulcan-kolinahr-apparatus
 hub: subspace
 title: Kolinahr Ritual Apparatus
-summary: Neural suppression technology used in ceremony to purge all emotion.
+summary: Ceremonial neural interface designed to permanently suppress emotional processing
+  in favor of pure logic
 permalink: https://www.envisioning.com/subspace/vulcan-kolinahr-apparatus
 collection: biotechnology
 trl: 6
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760268827/subspaceindex/technologies/vulcan-kolinahr-apparatus.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908266/subspace/technologies/vulcan-kolinahr-apparatus-openrouter-google-gemini-3.1-flash-image-preview-42xsfq.png
 ---
 
 # Kolinahr Ritual Apparatus
 
 ## Summary
 
-Neural suppression technology used in ceremony to purge all emotion.
+Ceremonial neural interface designed to permanently suppress emotional processing in favor of pure logic
 
 ## Description
 

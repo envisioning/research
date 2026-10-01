@@ -2,7 +2,8 @@
 slug: data-ops-observability
 hub: datatrends
 title: Data Ops & Observability
-summary: Agile automation and real-time monitoring of data health in motion.
+summary: Applying DevOps practices to automate, test, and monitor data pipelines in
+  real time
 permalink: https://www.envisioning.com/datatrends/data-ops-observability
 collection: agile-infrastructure
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373562/datat
 
 ## Summary
 
-Agile automation and real-time monitoring of data health in motion.
+Applying DevOps practices to automate, test, and monitor data pipelines in real time
 
 ## Description
 

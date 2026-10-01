@@ -2,8 +2,8 @@
 slug: mobility-simulation-optimization
 hub: habitat
 title: Mobility Simulation & Optimization
-summary: City-scale models optimizing multimodal mobility, curb space, and logistics
-  flows.
+summary: City-scale models that optimize traffic flow, curb allocation, and multimodal
+  transport networks
 permalink: https://www.envisioning.com/habitat/mobility-simulation-optimization
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118454/habit
 
 ## Summary
 
-City-scale models optimizing multimodal mobility, curb space, and logistics flows.
+City-scale models that optimize traffic flow, curb allocation, and multimodal transport networks
 
 ## Description
 

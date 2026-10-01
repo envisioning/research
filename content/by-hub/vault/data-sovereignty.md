@@ -2,7 +2,8 @@
 slug: data-sovereignty
 hub: vault
 title: Data Sovereignty & Localization Frameworks
-summary: Compliance with cross-border data regulations.
+summary: Technical and governance systems ensuring financial data stays within required
+  geographic or legal boundaries
 permalink: https://www.envisioning.com/vault/data-sovereignty
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131105/vault
 
 ## Summary
 
-Compliance with cross-border data regulations.
+Technical and governance systems ensuring financial data stays within required geographic or legal boundaries
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: neural-biometric-authentication
 hub: cortex
 title: Neural Biometric Authentication
-summary: Using unique brainwave signatures for identity verification.
+summary: Authenticates identity using unique brainwave patterns captured via EEG
 permalink: https://www.envisioning.com/cortex/neural-biometric-authentication
 collection: ethics-security
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996115/corte
 
 ## Summary
 
-Using unique brainwave signatures for identity verification.
+Authenticates identity using unique brainwave patterns captured via EEG
 
 ## Description
 

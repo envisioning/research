@@ -2,13 +2,10 @@
 slug: universal-basic-income
 hub: cities
 title: Universal Basic Income
-summary: 'A socio-economic policy that provides all citizens with a regular, unconditional
-  sum of money, regardless of employment status or income level. This solution addresses
-  economic inequality, job displacement due to automation, and social instability.
-  By offering a guaranteed income, UBI ensures everyone can meet their basic living
-  expenses, which helps reduce poverty and financial stress. '
+summary: Regular unconditional payments to all citizens to reduce poverty and offset
+  automation-driven job loss
 permalink: https://www.envisioning.com/cities/universal-basic-income
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: ethics-security
 trl: 7
 impact: 1
 investment: 1
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719228244-universal-basic-inco
 
 ## Summary
 
-A socio-economic policy that provides all citizens with a regular, unconditional sum of money, regardless of employment status or income level. This solution addresses economic inequality, job displacement due to automation, and social instability. By offering a guaranteed income, UBI ensures everyone can meet their basic living expenses, which helps reduce poverty and financial stress.
+Regular unconditional payments to all citizens to reduce poverty and offset automation-driven job loss
 
 ## Description
 

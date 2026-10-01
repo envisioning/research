@@ -2,7 +2,8 @@
 slug: isru
 hub: substrate
 title: In-Situ Resource Utilization (ISRU)
-summary: Extracting and processing local materials on the Moon and Mars.
+summary: Extracting and processing local materials on celestial bodies to support
+  space missions
 permalink: https://www.envisioning.com/substrate/isru
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178076/subst
 
 ## Summary
 
-Extracting and processing local materials on the Moon and Mars.
+Extracting and processing local materials on celestial bodies to support space missions
 
 ## Description
 

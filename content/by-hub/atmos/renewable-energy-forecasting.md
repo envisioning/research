@@ -2,7 +2,8 @@
 slug: renewable-energy-forecasting
 hub: atmos
 title: Renewable Energy Forecasting Engines
-summary: ML models predicting solar and wind output hours ahead.
+summary: Machine learning models that predict solar and wind power output for grid
+  planning
 permalink: https://www.envisioning.com/atmos/renewable-energy-forecasting
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764176735/atmos
 
 ## Summary
 
-ML models predicting solar and wind output hours ahead.
+Machine learning models that predict solar and wind power output for grid planning
 
 ## Description
 

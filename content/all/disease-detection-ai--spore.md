@@ -2,7 +2,8 @@
 slug: disease-detection-ai
 hub: spore
 title: Disease Detection AI
-summary: Computer vision spotting pathogens on leaves and fruits.
+summary: Computer vision systems that identify crop diseases, pests, and nutrient
+  deficiencies from images
 permalink: https://www.envisioning.com/spore/disease-detection-ai
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095847/spore
 
 ## Summary
 
-Computer vision spotting pathogens on leaves and fruits.
+Computer vision systems that identify crop diseases, pests, and nutrient deficiencies from images
 
 ## Description
 

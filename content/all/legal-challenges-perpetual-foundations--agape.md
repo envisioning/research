@@ -3,7 +3,6 @@ slug: legal-challenges-perpetual-foundations
 hub: agape
 title: Legal Challenges to Perpetual Foundations
 summary: Legal challenges to perpetual foundations and endowments, questioning the
-  legitimacy of wealth accumulation in perpetuity.
 permalink: https://www.envisioning.com/agape/legal-challenges-perpetual-foundations
 collection: power-agency-governance
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419482/phila
 
 ## Summary
 
-Legal challenges to perpetual foundations and endowments, questioning the legitimacy of wealth accumulation in perpetuity.
+Legal challenges to perpetual foundations and endowments, questioning the
 
 ## Description
 

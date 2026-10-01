@@ -2,8 +2,8 @@
 slug: extracellular-matrix-remodeling-devices
 hub: epoch
 title: Extracellular Matrix Remodeling Devices
-summary: Targeted ultrasound and enzymatic systems that break down aged, crosslinked
-  ECM and stimulate fresh matrix deposition.
+summary: Ultrasound and enzymatic tools that dissolve stiff, aged tissue scaffolding
+  and promote fresh matrix growth
 permalink: https://www.envisioning.com/epoch/extracellular-matrix-remodeling-devices
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765478772/epoch
 
 ## Summary
 
-Targeted ultrasound and enzymatic systems that break down aged, crosslinked ECM and stimulate fresh matrix deposition.
+Ultrasound and enzymatic tools that dissolve stiff, aged tissue scaffolding and promote fresh matrix growth
 
 ## Description
 

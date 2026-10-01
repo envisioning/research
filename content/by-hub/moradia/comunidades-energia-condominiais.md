@@ -2,8 +2,8 @@
 slug: comunidades-energia-condominiais
 hub: moradia
 title: Comunidades de Energia Condominiais
-summary: Modelos de geração distribuída e compartilhamento de energia solar em condomínios
-  com rateio entre unidades e áreas comuns.
+summary: Compartilhamento de energia solar entre unidades de condomínios com rateio
+  de custos e créditos
 permalink: https://www.envisioning.com/moradia/comunidades-energia-condominiais
 collection: modelos-mercado-governanca
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584325/habit
 
 ## Summary
 
-Modelos de geração distribuída e compartilhamento de energia solar em condomínios com rateio entre unidades e áreas comuns.
+Compartilhamento de energia solar entre unidades de condomínios com rateio de custos e créditos
 
 ## Description
 

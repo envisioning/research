@@ -2,7 +2,8 @@
 slug: early-warning-learning-systems
 hub: axiom
 title: Early-Warning & Retention Systems
-summary: Predictive models for dropout, failure, and burnout risk.
+summary: Predictive analytics that flag students at risk of dropout, failure, or burnout
+  for early intervention
 permalink: https://www.envisioning.com/axiom/early-warning-learning-systems
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995599/axiom
 
 ## Summary
 
-Predictive models for dropout, failure, and burnout risk.
+Predictive analytics that flag students at risk of dropout, failure, or burnout for early intervention
 
 ## Description
 

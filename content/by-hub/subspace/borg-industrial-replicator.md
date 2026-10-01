@@ -2,21 +2,21 @@
 slug: borg-industrial-replicator
 hub: subspace
 title: Borg Industrial Replicator
-summary: Large-scale matter reconstruction systems capable of fabricating entire ships
-  and drones.
+summary: Civilization-scale matter-energy conversion for fabricating starships and
+  complex machinery
 permalink: https://www.envisioning.com/subspace/borg-industrial-replicator
 collection: engineering
 trl: 7
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760269132/subspaceindex/technologies/borg-industrial-replicator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907561/subspace/technologies/borg-industrial-replicator-openrouter-google-gemini-3.1-flash-image-preview-r9h41f.png
 ---
 
 # Borg Industrial Replicator
 
 ## Summary
 
-Large-scale matter reconstruction systems capable of fabricating entire ships and drones.
+Civilization-scale matter-energy conversion for fabricating starships and complex machinery
 
 ## Description
 

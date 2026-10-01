@@ -2,8 +2,8 @@
 slug: qualidade-continuidade-servicos-regulacao
 hub: moradia
 title: Qualidade e Continuidade de Serviços sob Regulação
-summary: Pressão por indicadores, auditoria e transparência em serviços essenciais
-  digitalizados.
+summary: Monitoramento digital em tempo real de serviços essenciais como energia,
+  água e transporte
 permalink: https://www.envisioning.com/moradia/qualidade-continuidade-servicos-regulacao
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591652/habit
 
 ## Summary
 
-Pressão por indicadores, auditoria e transparência em serviços essenciais digitalizados.
+Monitoramento digital em tempo real de serviços essenciais como energia, água e transporte
 
 ## Description
 

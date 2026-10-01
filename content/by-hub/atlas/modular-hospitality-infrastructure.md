@@ -2,7 +2,8 @@
 slug: modular-hospitality-infrastructure
 hub: atlas
 title: Modular Hospitality Infrastructure
-summary: Prefabricated, relocatable hotel units for rapid deployment.
+summary: Factory-built hotel units that can be rapidly deployed and relocated as demand
+  shifts
 permalink: https://www.envisioning.com/atlas/modular-hospitality-infrastructure
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125534/atlas
 
 ## Summary
 
-Prefabricated, relocatable hotel units for rapid deployment.
+Factory-built hotel units that can be rapidly deployed and relocated as demand shifts
 
 ## Description
 

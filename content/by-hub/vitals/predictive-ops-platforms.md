@@ -2,8 +2,8 @@
 slug: predictive-ops-platforms
 hub: vitals
 title: Predictive Hospital Operations Platforms
-summary: AI-driven command centers that forecast patient flow and resource needs to
-  optimize capacity.
+summary: AI systems that forecast patient flow and resource needs across hospital
+  operations
 permalink: https://www.envisioning.com/vitals/predictive-ops-platforms
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116426/vital
 
 ## Summary
 
-AI-driven command centers that forecast patient flow and resource needs to optimize capacity.
+AI systems that forecast patient flow and resource needs across hospital operations
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: bio-computing
 hub: horizons
 title: Bio-computing
-summary: Computing systems integrating living biological neurons.
+summary: Computing systems that integrate living neurons with electronic interfaces
+  for adaptive processing
 permalink: https://www.envisioning.com/horizons/bio-computing
-collection: intelligence-computation
+collection: hardware
 trl: 4
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526105/horiz
 
 ## Summary
 
-Computing systems integrating living biological neurons.
+Computing systems that integrate living neurons with electronic interfaces for adaptive processing
 
 ## Description
 

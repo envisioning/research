@@ -2,21 +2,21 @@
 slug: regenerative-shielding
 hub: subspace
 title: Regenerative Shielding
-summary: Advanced shield technology capable of self-repair and adaptation to incoming
-  weapons fire.
+summary: Self-repairing force fields that redistribute energy and adapt to incoming
+  weapon patterns
 permalink: https://www.envisioning.com/subspace/regenerative-shielding
 collection: defense
 trl: 5
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760212074/subspaceindex/technologies/regenerative-shielding.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908843/subspace/technologies/regenerative-shielding-openrouter-google-gemini-3.1-flash-image-preview-ezep4x.png
 ---
 
 # Regenerative Shielding
 
 ## Summary
 
-Advanced shield technology capable of self-repair and adaptation to incoming weapons fire.
+Self-repairing force fields that redistribute energy and adapt to incoming weapon patterns
 
 ## Description
 

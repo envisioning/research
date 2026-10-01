@@ -2,7 +2,8 @@
 slug: image-based-overproduction-reduction
 hub: fabric
 title: Image-Based Predictive Analytics to Reduce Overproduction
-summary: AI analysis of social imagery to accurately forecast demand and prevent waste.
+summary: AI analyzes social imagery to forecast fashion demand and prevent overproduction
+  waste
 permalink: https://www.envisioning.com/fabric/image-based-overproduction-reduction
 collection: ethics-security
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058383/threa
 
 ## Summary
 
-AI analysis of social imagery to accurately forecast demand and prevent waste.
+AI analyzes social imagery to forecast fashion demand and prevent overproduction waste
 
 ## Description
 

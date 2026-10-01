@@ -2,12 +2,13 @@
 slug: high-gain-antenna-systems
 hub: interface
 title: High-Gain Antenna Systems
-summary: Up to 1,024 large array antenna systems and circuits.
+summary: Antenna arrays with hundreds of elements for stronger, more directional wireless
+  signals
 permalink: https://www.envisioning.com/interface/high-gain-antenna-systems
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730747/interface/technologies/high-gain-antenna-systems-google-gemini-3-pro-image-preview-ftm81x.png
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730747/inter
 
 ## Summary
 
-Up to 1,024 large array antenna systems and circuits.
+Antenna arrays with hundreds of elements for stronger, more directional wireless signals
 
 ## Description
 

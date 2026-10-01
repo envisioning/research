@@ -2,7 +2,7 @@
 slug: algorithmic-persuasion-auditing
 hub: impulse
 title: Algorithmic Persuasion Auditing
-summary: Tools detecting manipulative design patterns.
+summary: Systems that detect and flag manipulative interface patterns in digital products
 permalink: https://www.envisioning.com/impulse/algorithmic-persuasion-auditing
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133983/impul
 
 ## Summary
 
-Tools detecting manipulative design patterns.
+Systems that detect and flag manipulative interface patterns in digital products
 
 ## Description
 

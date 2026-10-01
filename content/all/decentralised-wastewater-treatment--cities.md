@@ -2,14 +2,10 @@
 slug: decentralised-wastewater-treatment
 hub: cities
 title: Decentralised Wastewater Treatment
-summary: These systems treat wastewater locally, near its source, thus eliminating
-  the need for large-scale sewer networks and central treatment plants. By using technologies
-  such as constructed wetlands, anaerobic baffled reactors, and biogas reactors, DWT
-  systems effectively reduce pollution, recover valuable resources, and enable the
-  reuse of treated water. This approach not only mitigates environmental impacts but
-  also enhances public health and supports sustainable urban development.
+summary: Treats wastewater locally using wetlands, reactors, and biogas to recover
+  resources and enable reuse
 permalink: https://www.envisioning.com/cities/decentralised-wastewater-treatment
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719319338-decentralised-wastew
 
 ## Summary
 
-These systems treat wastewater locally, near its source, thus eliminating the need for large-scale sewer networks and central treatment plants. By using technologies such as constructed wetlands, anaerobic baffled reactors, and biogas reactors, DWT systems effectively reduce pollution, recover valuable resources, and enable the reuse of treated water. This approach not only mitigates environmental impacts but also enhances public health and supports sustainable urban development.
+Treats wastewater locally using wetlands, reactors, and biogas to recover resources and enable reuse
 
 ## Description
 

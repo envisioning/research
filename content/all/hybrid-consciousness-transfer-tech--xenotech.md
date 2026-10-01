@@ -2,21 +2,20 @@
 slug: hybrid-consciousness-transfer-tech
 hub: xenotech
 title: Consciousness Transfer
-summary: Alleged systems for transferring human consciousness into hybrid bodies or
-  moving entity consciousness into human hosts, reported in hybrid development programs.
+summary: Transferring consciousness between human and non-human biological bodies
 permalink: https://www.envisioning.com/xenotech/hybrid-consciousness-transfer-tech
 collection: consciousness-interface
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760984573/xenotech/technologies/hybrid-consciousness-transfer-tech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897891/xenotech/technologies/hybrid-consciousness-transfer-tech-openrouter-google-gemini-3.1-flash-image-preview-j7183c.png
 ---
 
 # Consciousness Transfer
 
 ## Summary
 
-Alleged systems for transferring human consciousness into hybrid bodies or moving entity consciousness into human hosts, reported in hybrid development programs.
+Transferring consciousness between human and non-human biological bodies
 
 ## Description
 

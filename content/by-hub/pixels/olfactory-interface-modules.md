@@ -2,7 +2,7 @@
 slug: olfactory-interface-modules
 hub: pixels
 title: Olfactory Interface Modules
-summary: Programmable scent emitters synchronized with game events.
+summary: Scent-emitting devices that release game-triggered aromas to deepen immersion
 permalink: https://www.envisioning.com/pixels/olfactory-interface-modules
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058880/pixel
 
 ## Summary
 
-Programmable scent emitters synchronized with game events.
+Scent-emitting devices that release game-triggered aromas to deepen immersion
 
 ## Description
 

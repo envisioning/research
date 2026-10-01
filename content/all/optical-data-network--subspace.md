@@ -2,20 +2,20 @@
 slug: optical-data-network
 hub: subspace
 title: Optical Data Network (ODN)
-summary: Shipwide photonic backbone interconnecting all subsystems.
+summary: Fiber-optic backbone routing control, sensor, and systems data across spacecraft
 permalink: https://www.envisioning.com/subspace/optical-data-network
 collection: computing
 trl: 9
 impact: 1
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263503/subspaceindex/technologies/optical-data-network.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908584/subspace/technologies/optical-data-network-openrouter-google-gemini-3.1-flash-image-preview-82ci6e.png
 ---
 
 # Optical Data Network (ODN)
 
 ## Summary
 
-Shipwide photonic backbone interconnecting all subsystems.
+Fiber-optic backbone routing control, sensor, and systems data across spacecraft
 
 ## Description
 

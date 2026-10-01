@@ -2,7 +2,8 @@
 slug: embryo-lab-on-chip
 hub: cradle
 title: Embryo Lab-on-Chip Systems
-summary: Microfluidic platforms for gamete and embryo handling.
+summary: Microfluidic chips that automate sperm selection, fertilization, and embryo
+  culture for IVF
 permalink: https://www.envisioning.com/cradle/embryo-lab-on-chip
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126138/cradl
 
 ## Summary
 
-Microfluidic platforms for gamete and embryo handling.
+Microfluidic chips that automate sperm selection, fertilization, and embryo culture for IVF
 
 ## Description
 

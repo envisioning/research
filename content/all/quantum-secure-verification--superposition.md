@@ -2,7 +2,8 @@
 slug: quantum-secure-verification
 hub: superposition
 title: Quantum-Secure Verification Protocols
-summary: Ensuring end-to-end integrity of quantum channels and repeaters.
+summary: Security protocols that verify quantum communication links haven't been tampered
+  with
 permalink: https://www.envisioning.com/superposition/quantum-secure-verification
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181132/super
 
 ## Summary
 
-Ensuring end-to-end integrity of quantum channels and repeaters.
+Security protocols that verify quantum communication links haven't been tampered with
 
 ## Description
 

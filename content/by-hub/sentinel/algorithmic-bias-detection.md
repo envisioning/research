@@ -2,7 +2,7 @@
 slug: algorithmic-bias-detection
 hub: sentinel
 title: Algorithmic Bias Detection
-summary: Frameworks to identify and mitigate unfairness in verification models.
+summary: Tools to identify and reduce unfairness in AI-powered verification systems
 permalink: https://www.envisioning.com/sentinel/algorithmic-bias-detection
 collection: ethics-security
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461550/senti
 
 ## Summary
 
-Frameworks to identify and mitigate unfairness in verification models.
+Tools to identify and reduce unfairness in AI-powered verification systems
 
 ## Description
 

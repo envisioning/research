@@ -8,7 +8,7 @@ collection: hardware
 trl: 5
 impact: 5
 investment: 5
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882802/agora/technologies/250af98a-d9ec-4ec4-a2dd-3815b4678eb0-google-gemini-3.1-flash-image-preview-43x2tx.jpg
 ---
 
 # Privacy-Preserving Proof of Personhood

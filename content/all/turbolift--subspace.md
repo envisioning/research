@@ -2,21 +2,21 @@
 slug: turbolift
 hub: subspace
 title: Turbolift
-summary: High-speed transportation system moving personnel vertically and horizontally
-  throughout starships and stations.
+summary: Electromagnetic transport system moving people vertically and horizontally
+  through starships
 permalink: https://www.envisioning.com/subspace/turbolift
 collection: engineering
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760259151/subspaceindex/technologies/turbolift.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909672/subspace/technologies/turbolift-openrouter-google-gemini-3.1-flash-image-preview-9i31fu.png
 ---
 
 # Turbolift
 
 ## Summary
 
-High-speed transportation system moving personnel vertically and horizontally throughout starships and stations.
+Electromagnetic transport system moving people vertically and horizontally through starships
 
 ## Description
 

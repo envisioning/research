@@ -2,8 +2,8 @@
 slug: data-products-marketplaces
 hub: datatrends
 title: Data Products & Marketplaces
-summary: Treating data as a tailored product with owners, SLAs, and a focus on user
-  needs.
+summary: Applying product management principles to data assets with defined ownership,
+  quality standards, and user-centric design
 permalink: https://www.envisioning.com/datatrends/data-products-marketplaces
 collection: valuation-productization
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372710/datat
 
 ## Summary
 
-Treating data as a tailored product with owners, SLAs, and a focus on user needs.
+Applying product management principles to data assets with defined ownership, quality standards, and user-centric design
 
 ## Description
 

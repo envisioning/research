@@ -2,20 +2,21 @@
 slug: graviton-scanner
 hub: subspace
 title: Graviton Scanner
-summary: Measures graviton emission and curvature gradients.
+summary: Detects gravitational waves and spacetime curvature for navigation and field
+  mapping
 permalink: https://www.envisioning.com/subspace/graviton-scanner
 collection: sensors
 trl: 7
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760272894/subspaceindex/technologies/graviton-scanner.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908078/subspace/technologies/graviton-scanner-openrouter-google-gemini-3.1-flash-image-preview-43g7za.png
 ---
 
 # Graviton Scanner
 
 ## Summary
 
-Measures graviton emission and curvature gradients.
+Detects gravitational waves and spacetime curvature for navigation and field mapping
 
 ## Description
 

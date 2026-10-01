@@ -2,7 +2,8 @@
 slug: active-protection-systems
 hub: aegis
 title: Active Protection Systems
-summary: Vehicle-mounted radar and interceptors defeating incoming munitions.
+summary: Vehicle-mounted radar and interceptors that defeat incoming munitions before
+  impact
 permalink: https://www.envisioning.com/aegis/active-protection-systems
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074966/aegis
 
 ## Summary
 
-Vehicle-mounted radar and interceptors defeating incoming munitions.
+Vehicle-mounted radar and interceptors that defeat incoming munitions before impact
 
 ## Description
 

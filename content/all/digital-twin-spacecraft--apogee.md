@@ -2,7 +2,8 @@
 slug: digital-twin-spacecraft
 hub: apogee
 title: Digital Twin Spacecraft
-summary: High-fidelity simulators mirroring spacecraft state for testing and ops.
+summary: Virtual replicas of spacecraft synchronized with real-time telemetry for
+  testing and diagnostics
 permalink: https://www.envisioning.com/apogee/digital-twin-spacecraft
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180723/apoge
 
 ## Summary
 
-High-fidelity simulators mirroring spacecraft state for testing and ops.
+Virtual replicas of spacecraft synchronized with real-time telemetry for testing and diagnostics
 
 ## Description
 

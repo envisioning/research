@@ -2,7 +2,7 @@
 slug: high-temp-industrial-heat-pumps
 hub: atmos
 title: High-Temperature Industrial Heat Pumps
-summary: Electrified process heat delivering 150–200°C and beyond with high COP.
+summary: Electric heat pumps delivering 150–200°C process steam for industrial decarbonization
 permalink: https://www.envisioning.com/atmos/high-temp-industrial-heat-pumps
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990777/atmos
 
 ## Summary
 
-Electrified process heat delivering 150–200°C and beyond with high COP.
+Electric heat pumps delivering 150–200°C process steam for industrial decarbonization
 
 ## Description
 

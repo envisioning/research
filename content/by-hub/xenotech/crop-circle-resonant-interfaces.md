@@ -2,22 +2,20 @@
 slug: crop-circle-resonant-interfaces
 hub: xenotech
 title: Agroglyph Resonant Interfaces
-summary: Large-scale agroglyph formations encoding information through resonant field
-  imprinting, suggesting unknown energy transfer techniques and environmental interface
-  design.
+summary: Large-scale crop formations studied as energy-imprinted environmental interfaces
 permalink: https://www.envisioning.com/xenotech/crop-circle-resonant-interfaces
 collection: perception-cognition
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762698088/xenotech/technologies/crop-circle-resonant-interfaces-openai-gpt-5-5bvxpy.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897050/xenotech/technologies/crop-circle-resonant-interfaces-openrouter-google-gemini-3.1-flash-image-preview-ldugki.png
 ---
 
 # Agroglyph Resonant Interfaces
 
 ## Summary
 
-Large-scale agroglyph formations encoding information through resonant field imprinting, suggesting unknown energy transfer techniques and environmental interface design.
+Large-scale crop formations studied as energy-imprinted environmental interfaces
 
 ## Description
 

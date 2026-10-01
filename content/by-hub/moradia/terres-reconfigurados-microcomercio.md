@@ -2,8 +2,7 @@
 slug: terres-reconfigurados-microcomercio
 hub: moradia
 title: Térreos Reconfigurados para Microcomércio
-summary: Reconfiguração de térreos residenciais para atividades comerciais, criando
-  uso misto através de adaptação de estoque existente para microcomércio e serviços.
+summary: Adaptação de térreos residenciais para comércio e serviços de pequena escala
 permalink: https://www.envisioning.com/moradia/terres-reconfigurados-microcomercio
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668321/habit
 
 ## Summary
 
-Reconfiguração de térreos residenciais para atividades comerciais, criando uso misto através de adaptação de estoque existente para microcomércio e serviços.
+Adaptação de térreos residenciais para comércio e serviços de pequena escala
 
 ## Description
 

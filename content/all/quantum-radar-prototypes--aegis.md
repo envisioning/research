@@ -2,7 +2,8 @@
 slug: quantum-radar-prototypes
 hub: aegis
 title: Quantum Radar Prototypes
-summary: Entanglement-enhanced sensing to detect stealth objects.
+summary: Entanglement-based radar systems designed to detect stealth aircraft and
+  low-signature targets
 permalink: https://www.envisioning.com/aegis/quantum-radar-prototypes
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074965/aegis
 
 ## Summary
 
-Entanglement-enhanced sensing to detect stealth objects.
+Entanglement-based radar systems designed to detect stealth aircraft and low-signature targets
 
 ## Description
 

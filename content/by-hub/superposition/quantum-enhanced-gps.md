@@ -2,7 +2,7 @@
 slug: quantum-enhanced-gps
 hub: superposition
 title: Quantum-Enhanced GPS
-summary: Quantum accelerometers providing navigation in GPS-denied environments.
+summary: Atom interferometers enabling precise navigation without satellite signals
 permalink: https://www.envisioning.com/superposition/quantum-enhanced-gps
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181103/super
 
 ## Summary
 
-Quantum accelerometers providing navigation in GPS-denied environments.
+Atom interferometers enabling precise navigation without satellite signals
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: geometallurgical-modeling
 hub: stratum
 title: Geometallurgical Modeling Platforms
-summary: Software linking orebody variability to processing performance and product
-  quality.
+summary: Software linking ore body variability to processing performance and product
+  quality predictions
 permalink: https://www.envisioning.com/stratum/geometallurgical-modeling
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135184/strat
 
 ## Summary
 
-Software linking orebody variability to processing performance and product quality.
+Software linking ore body variability to processing performance and product quality predictions
 
 ## Description
 

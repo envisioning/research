@@ -2,8 +2,8 @@
 slug: chronic-virtual-care-programs
 hub: vitals
 title: Chronic Disease Virtual Care Programs
-summary: Longitudinal telehealth and remote monitoring models for chronic conditions
-  like heart failure and diabetes.
+summary: Remote monitoring and telehealth platforms for managing heart failure, diabetes,
+  and other long-term conditions
 permalink: https://www.envisioning.com/vitals/chronic-virtual-care-programs
 collection: applications
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441645/vital
 
 ## Summary
 
-Longitudinal telehealth and remote monitoring models for chronic conditions like heart failure and diabetes.
+Remote monitoring and telehealth platforms for managing heart failure, diabetes, and other long-term conditions
 
 ## Description
 

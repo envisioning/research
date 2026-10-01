@@ -2,7 +2,8 @@
 slug: deepfake-detection
 hub: vault
 title: Deepfake & Synthetic Media Detection
-summary: Defense against AI-generated fraud.
+summary: AI systems that identify fake voices, videos, and documents used in financial
+  fraud
 permalink: https://www.envisioning.com/vault/deepfake-detection
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129275/vault
 
 ## Summary
 
-Defense against AI-generated fraud.
+AI systems that identify fake voices, videos, and documents used in financial fraud
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: emergency-medical-hologram
 hub: subspace
 title: Emergency Medical Hologram
-summary: Advanced holographic AI program capable of full medical practice and autonomous
-  operation.
+summary: Holographic AI physician providing autonomous medical care through hard-light
+  projection
 permalink: https://www.envisioning.com/subspace/emergency-medical-hologram
 collection: computing
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760213528/subspaceindex/technologies/emergency-medical-hologram.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907946/subspace/technologies/emergency-medical-hologram-openrouter-google-gemini-3.1-flash-image-preview-yd6ngu.png
 ---
 
 # Emergency Medical Hologram
 
 ## Summary
 
-Advanced holographic AI program capable of full medical practice and autonomous operation.
+Holographic AI physician providing autonomous medical care through hard-light projection
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: direct-to-device-satellite-connectivity
 hub: link
 title: Direct-to-Device Satellite Connectivity
-summary: Satellites that connect directly to standard phones and IoT devices.
+summary: LEO satellites connecting directly to unmodified smartphones without specialized
+  hardware
 permalink: https://www.envisioning.com/link/direct-to-device-satellite-connectivity
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441664/link/
 
 ## Summary
 
-Satellites that connect directly to standard phones and IoT devices.
+LEO satellites connecting directly to unmodified smartphones without specialized hardware
 
 ## Description
 

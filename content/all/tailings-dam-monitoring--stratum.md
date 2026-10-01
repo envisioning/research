@@ -2,7 +2,8 @@
 slug: tailings-dam-monitoring
 hub: stratum
 title: Real-Time Tailings Dam Monitoring
-summary: Sensor networks and analytics continuously assessing tailings facility stability.
+summary: Continuous sensor networks tracking structural stability of mining waste
+  storage facilities
 permalink: https://www.envisioning.com/stratum/tailings-dam-monitoring
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435054/strat
 
 ## Summary
 
-Sensor networks and analytics continuously assessing tailings facility stability.
+Continuous sensor networks tracking structural stability of mining waste storage facilities
 
 ## Description
 

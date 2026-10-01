@@ -2,7 +2,8 @@
 slug: resilience-equity
 hub: aegis
 title: Resilience Equity
-summary: Ensuring protective infrastructure is available to vulnerable communities.
+summary: Distributing protective infrastructure and emergency response capabilities
+  to underserved communities
 permalink: https://www.envisioning.com/aegis/resilience-equity
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010575/aegis
 
 ## Summary
 
-Ensuring protective infrastructure is available to vulnerable communities.
+Distributing protective infrastructure and emergency response capabilities to underserved communities
 
 ## Description
 

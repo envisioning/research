@@ -2,7 +2,8 @@
 slug: multi-language-intelligence-models
 hub: meridian
 title: Multi-Language Intelligence Models
-summary: Foundation models for global OSINT and translation.
+summary: Language models trained on hundreds of languages for intelligence analysis
+  and cross-cultural communication
 permalink: https://www.envisioning.com/meridian/multi-language-intelligence-models
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131003/merid
 
 ## Summary
 
-Foundation models for global OSINT and translation.
+Language models trained on hundreds of languages for intelligence analysis and cross-cultural communication
 
 ## Description
 

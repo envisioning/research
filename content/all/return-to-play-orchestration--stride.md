@@ -2,7 +2,8 @@
 slug: return-to-play-orchestration
 hub: stride
 title: Return-to-Play Orchestration Systems
-summary: Integrated workflows guiding rehab and clearance decisions after injury.
+summary: Coordinated digital workflows for managing athlete injury recovery and clearance
+  decisions
 permalink: https://www.envisioning.com/stride/return-to-play-orchestration
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128559/strid
 
 ## Summary
 
-Integrated workflows guiding rehab and clearance decisions after injury.
+Coordinated digital workflows for managing athlete injury recovery and clearance decisions
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: immersive-remote-ops
 hub: stratum
 title: Immersive Remote Operation Centers
-summary: VR/AR interfaces for tele-operating mining equipment from distance.
+summary: VR and AR systems enabling operators to control mining equipment remotely
+  with enhanced spatial awareness
 permalink: https://www.envisioning.com/stratum/immersive-remote-ops
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177925/strat
 
 ## Summary
 
-VR/AR interfaces for tele-operating mining equipment from distance.
+VR and AR systems enabling operators to control mining equipment remotely with enhanced spatial awareness
 
 ## Description
 

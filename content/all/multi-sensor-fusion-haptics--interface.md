@@ -2,13 +2,13 @@
 slug: multi-sensor-fusion-haptics
 hub: interface
 title: Multi-Sensor Fusion Haptics
-summary: Tracking and feedback systems combining radar and video for precise object
-  interaction.
+summary: Combining radar, vision, and tactile feedback to create realistic touch sensations
+  in digital environments
 permalink: https://www.envisioning.com/interface/multi-sensor-fusion-haptics
-collection: advanced-interaction-modalities
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742709/interface/technologies/multi-sensor-fusion-haptics-google-gemini-3-pro-image-preview-hfaz0c.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742709/inter
 
 ## Summary
 
-Tracking and feedback systems combining radar and video for precise object interaction.
+Combining radar, vision, and tactile feedback to create realistic touch sensations in digital environments
 
 ## Description
 

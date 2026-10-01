@@ -2,7 +2,8 @@
 slug: directed-energy-weapons
 hub: meridian
 title: Directed Energy Weapons
-summary: Laser and microwave systems for defense.
+summary: Laser and microwave systems that neutralize threats at the speed of light
+  for defense applications
 permalink: https://www.envisioning.com/meridian/directed-energy-weapons
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129276/merid
 
 ## Summary
 
-Laser and microwave systems for defense.
+Laser and microwave systems that neutralize threats at the speed of light for defense applications
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: wake-energy-retrieval-formation-flight
 hub: altitude
 title: Wake Energy Retrieval (Formation Flight)
-summary: Automated formation flying to harvest lift from leading aircraft.
+summary: Aircraft flying in coordinated patterns to capture lift from wingtip vortices
+  and reduce fuel burn
 permalink: https://www.envisioning.com/altitude/wake-energy-retrieval-formation-flight
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649436/altit
 
 ## Summary
 
-Automated formation flying to harvest lift from leading aircraft.
+Aircraft flying in coordinated patterns to capture lift from wingtip vortices and reduce fuel burn
 
 ## Description
 

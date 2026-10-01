@@ -2,7 +2,8 @@
 slug: open-ran
 hub: substrate
 title: Open RAN & Disaggregated Telecom Infrastructure
-summary: Open, interoperable radio networks built from multi-vendor components.
+summary: Multi-vendor cellular base stations with separated hardware and software
+  layers
 permalink: https://www.envisioning.com/substrate/open-ran
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120026/subst
 
 ## Summary
 
-Open, interoperable radio networks built from multi-vendor components.
+Multi-vendor cellular base stations with separated hardware and software layers
 
 ## Description
 

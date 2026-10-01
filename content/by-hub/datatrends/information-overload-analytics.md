@@ -2,8 +2,8 @@
 slug: information-overload-analytics
 hub: datatrends
 title: Information Overload Analytics
-summary: Measuring, understanding, and managing the cognitive and organizational impacts
-  of excessive information on decision-making and productivity.
+summary: Measuring how excessive information affects decision-making, attention, and
+  organizational performance
 permalink: https://www.envisioning.com/datatrends/information-overload-analytics
 collection: strategic-culture-literacy
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593358/datat
 
 ## Summary
 
-Measuring, understanding, and managing the cognitive and organizational impacts of excessive information on decision-making and productivity.
+Measuring how excessive information affects decision-making, attention, and organizational performance
 
 ## Description
 

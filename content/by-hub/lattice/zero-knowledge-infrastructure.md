@@ -2,7 +2,8 @@
 slug: zero-knowledge-infrastructure
 hub: lattice
 title: Zero-Knowledge Infrastructure
-summary: General-purpose ZK circuits for privacy-preserving identity and data exchange.
+summary: Privacy-preserving proof systems for verifiable computation without revealing
+  underlying data
 permalink: https://www.envisioning.com/lattice/zero-knowledge-infrastructure
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990861/flows
 
 ## Summary
 
-General-purpose ZK circuits for privacy-preserving identity and data exchange.
+Privacy-preserving proof systems for verifiable computation without revealing underlying data
 
 ## Description
 

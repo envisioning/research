@@ -2,7 +2,8 @@
 slug: algorithmic-targeting-transparency
 hub: aegis
 title: Algorithmic Targeting Transparency & Auditability
-summary: Tooling to log, explain, and audit AI-assisted targeting decisions.
+summary: Frameworks that document and explain how AI systems contribute to military
+  targeting decisions
 permalink: https://www.envisioning.com/aegis/algorithmic-targeting-transparency
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010602/aegis
 
 ## Summary
 
-Tooling to log, explain, and audit AI-assisted targeting decisions.
+Frameworks that document and explain how AI systems contribute to military targeting decisions
 
 ## Description
 

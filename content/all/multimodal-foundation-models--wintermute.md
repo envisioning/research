@@ -2,7 +2,8 @@
 slug: multimodal-foundation-models
 hub: wintermute
 title: Multimodal Foundation Models
-summary: Unified embeddings across text, vision, action, and internal state.
+summary: AI models that process text, images, audio, and video in a unified representation
+  space
 permalink: https://www.envisioning.com/wintermute/multimodal-foundation-models
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980903/winte
 
 ## Summary
 
-Unified embeddings across text, vision, action, and internal state.
+AI models that process text, images, audio, and video in a unified representation space
 
 ## Description
 

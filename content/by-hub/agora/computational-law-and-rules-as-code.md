@@ -8,7 +8,7 @@ collection: software
 trl: 5
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898018/agora/technologies/a51ed7dd-ca08-4269-bf0a-b98b9610bb18-google-gemini-3.1-flash-image-preview-t8ar2u.jpg
 ---
 
 # Computational Law & Rules as Code

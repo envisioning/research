@@ -2,7 +2,8 @@
 slug: quantum-processors
 hub: vault
 title: Quantum Financial Processors
-summary: Quantum hardware for portfolio optimization and risk analysis.
+summary: Quantum computing hardware designed for portfolio optimization and financial
+  risk modeling
 permalink: https://www.envisioning.com/vault/quantum-processors
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127936/vault
 
 ## Summary
 
-Quantum hardware for portfolio optimization and risk analysis.
+Quantum computing hardware designed for portfolio optimization and financial risk modeling
 
 ## Description
 

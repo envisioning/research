@@ -2,7 +2,7 @@
 slug: pain-management-implants
 hub: cortex
 title: Pain Management Implants
-summary: Spinal cord and dorsal root stimulators providing analgesia.
+summary: Implanted devices that block chronic pain signals with electrical stimulation
 permalink: https://www.envisioning.com/cortex/pain-management-implants
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062755/corte
 
 ## Summary
 
-Spinal cord and dorsal root stimulators providing analgesia.
+Implanted devices that block chronic pain signals with electrical stimulation
 
 ## Description
 

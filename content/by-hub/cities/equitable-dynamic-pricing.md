@@ -2,14 +2,10 @@
 slug: equitable-dynamic-pricing
 hub: cities
 title: Equitable Dynamic Pricing
-summary: Aimed at balancing wage inequality and access to essential services, this
-  framework dynamically modifies the cost of goods and services based on an array
-  of socio-economic factors such as gender, race, geographic location, and economic
-  background. The primary goal of EDP is to make necessary goods and services more
-  affordable for underserved and economically disadvantaged communities, promoting
-  greater economic and social inclusion within urban settings.
+summary: Pricing that adjusts costs based on income and demographics to improve access
+  to essential services
 permalink: https://www.envisioning.com/cities/equitable-dynamic-pricing
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: ethics-security
 trl: 4
 impact: 1
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719478960-envisioning-io_add_o
 
 ## Summary
 
-Aimed at balancing wage inequality and access to essential services, this framework dynamically modifies the cost of goods and services based on an array of socio-economic factors such as gender, race, geographic location, and economic background. The primary goal of EDP is to make necessary goods and services more affordable for underserved and economically disadvantaged communities, promoting greater economic and social inclusion within urban settings.
+Pricing that adjusts costs based on income and demographics to improve access to essential services
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: ai-exploration-targeting
 hub: stratum
 title: AI-Driven Exploration Targeting
-summary: Machine learning models identifying new deposits from multi-scale geoscience
-  data.
+summary: Machine learning models that pinpoint mineral deposits by analyzing multi-scale
+  geological data
 permalink: https://www.envisioning.com/stratum/ai-exploration-targeting
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135167/strat
 
 ## Summary
 
-Machine learning models identifying new deposits from multi-scale geoscience data.
+Machine learning models that pinpoint mineral deposits by analyzing multi-scale geological data
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: nanofactory
 hub: horizons
 title: Nanofactory
-summary: Molecular-scale manufacturing systems building products with atomic precision.
+summary: Molecular manufacturing systems that assemble products atom by atom with
+  atomic precision
 permalink: https://www.envisioning.com/horizons/nanofactory
-collection: materials-making
+collection: hardware
 trl: 3
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526488/horiz
 
 ## Summary
 
-Molecular-scale manufacturing systems building products with atomic precision.
+Molecular manufacturing systems that assemble products atom by atom with atomic precision
 
 ## Description
 

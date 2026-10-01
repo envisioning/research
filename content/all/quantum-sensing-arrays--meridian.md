@@ -2,7 +2,8 @@
 slug: quantum-sensing-arrays
 hub: meridian
 title: Quantum Sensing Arrays
-summary: Ultra-precise detection of stealth and subsurface threats.
+summary: Detection systems using quantum mechanics to identify stealth vehicles and
+  underground structures
 permalink: https://www.envisioning.com/meridian/quantum-sensing-arrays
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129242/merid
 
 ## Summary
 
-Ultra-precise detection of stealth and subsurface threats.
+Detection systems using quantum mechanics to identify stealth vehicles and underground structures
 
 ## Description
 

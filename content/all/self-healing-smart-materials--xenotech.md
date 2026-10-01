@@ -2,21 +2,21 @@
 slug: self-healing-smart-materials
 hub: xenotech
 title: Self-Healing Smart Materials
-summary: High strength-to-weight structures with flexible rigidity and rapid recovery—hulls
-  that self-heal, redistribute loads, and maintain form under extreme stress.
+summary: Materials that repair damage autonomously and adapt stiffness under extreme
+  loads
 permalink: https://www.envisioning.com/xenotech/self-healing-smart-materials
 collection: materials-structures
 trl: 3
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761768128/xenotech/technologies/self-healing-smart-materials.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939883/xenotech/technologies/self-healing-smart-materials-imagegen-v1.png
 ---
 
 # Self-Healing Smart Materials
 
 ## Summary
 
-High strength-to-weight structures with flexible rigidity and rapid recovery—hulls that self-heal, redistribute loads, and maintain form under extreme stress.
+Materials that repair damage autonomously and adapt stiffness under extreme loads
 
 ## Description
 

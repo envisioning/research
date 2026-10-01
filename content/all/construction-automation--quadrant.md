@@ -2,7 +2,8 @@
 slug: construction-automation
 hub: quadrant
 title: Construction Automation
-summary: Robotic building systems for modular and on-site fabrication.
+summary: Robotic systems and autonomous machinery for precise, safer building tasks
+  with minimal human intervention
 permalink: https://www.envisioning.com/quadrant/construction-automation
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128024/quadr
 
 ## Summary
 
-Robotic building systems for modular and on-site fabrication.
+Robotic systems and autonomous machinery for precise, safer building tasks with minimal human intervention
 
 ## Description
 

@@ -2,8 +2,7 @@
 slug: asteroid-mining
 hub: substrate
 title: Asteroid Mining & Resource Extraction
-summary: Robotic prospecting and processing of water, metals, and rare elements from
-  asteroids.
+summary: Robotic extraction of water, metals, and rare elements from near-Earth asteroids
 permalink: https://www.envisioning.com/substrate/asteroid-mining
 collection: hardware
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117047/subst
 
 ## Summary
 
-Robotic prospecting and processing of water, metals, and rare elements from asteroids.
+Robotic extraction of water, metals, and rare elements from near-Earth asteroids
 
 ## Description
 

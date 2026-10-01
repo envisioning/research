@@ -2,7 +2,7 @@
 slug: cryotherapy-chambers
 hub: aura
 title: Cryotherapy Chambers
-summary: Whole-body and localized cold therapy suites for recovery and aesthetics.
+summary: Extreme cold exposure chambers that trigger circulation and reduce inflammation
 permalink: https://www.envisioning.com/aura/cryotherapy-chambers
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074016/aura/
 
 ## Summary
 
-Whole-body and localized cold therapy suites for recovery and aesthetics.
+Extreme cold exposure chambers that trigger circulation and reduce inflammation
 
 ## Description
 

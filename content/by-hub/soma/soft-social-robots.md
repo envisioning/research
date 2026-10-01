@@ -2,7 +2,7 @@
 slug: soft-social-robots
 hub: soma
 title: Soft Social Robots
-summary: Robots made of compliant materials mimicking organic movement.
+summary: Robots built from flexible materials for safer, more natural human interaction
 permalink: https://www.envisioning.com/soma/soft-social-robots
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132914/soma/
 
 ## Summary
 
-Robots made of compliant materials mimicking organic movement.
+Robots built from flexible materials for safer, more natural human interaction
 
 ## Description
 

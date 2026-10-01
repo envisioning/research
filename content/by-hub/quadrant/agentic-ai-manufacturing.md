@@ -2,7 +2,8 @@
 slug: agentic-ai-manufacturing
 hub: quadrant
 title: Agentic AI for Manufacturing
-summary: Autonomous agents orchestrating complex industrial workflows.
+summary: AI agents that interpret instructions, plan workflows, and adapt manufacturing
+  processes autonomously
 permalink: https://www.envisioning.com/quadrant/agentic-ai-manufacturing
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123933/quadr
 
 ## Summary
 
-Autonomous agents orchestrating complex industrial workflows.
+AI agents that interpret instructions, plan workflows, and adapt manufacturing processes autonomously
 
 ## Description
 

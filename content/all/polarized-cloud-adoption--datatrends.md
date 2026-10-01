@@ -2,7 +2,8 @@
 slug: polarized-cloud-adoption
 hub: datatrends
 title: Sovereignty-Aware Cloud Analytics
-summary: Regionalized adoption balancing scalability against cost and regulatory concerns.
+summary: Cloud analytics platforms designed to comply with regional data residency
+  and sovereignty laws
 permalink: https://www.envisioning.com/datatrends/polarized-cloud-adoption
 collection: agile-infrastructure
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372800/datat
 
 ## Summary
 
-Regionalized adoption balancing scalability against cost and regulatory concerns.
+Cloud analytics platforms designed to comply with regional data residency and sovereignty laws
 
 ## Description
 

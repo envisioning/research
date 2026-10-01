@@ -2,8 +2,7 @@
 slug: neutral-atom-rydberg-arrays
 hub: superposition
 title: Neutral Atom Rydberg Arrays
-summary: Reconfigurable optical tweezer arrays performing fast entangling gates via
-  Rydberg states.
+summary: Laser-trapped atom arrays using Rydberg states for quantum computing gates
 permalink: https://www.envisioning.com/superposition/neutral-atom-rydberg-arrays
 collection: hardware
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073942/super
 
 ## Summary
 
-Reconfigurable optical tweezer arrays performing fast entangling gates via Rydberg states.
+Laser-trapped atom arrays using Rydberg states for quantum computing gates
 
 ## Description
 

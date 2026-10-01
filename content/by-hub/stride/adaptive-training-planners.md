@@ -2,7 +2,8 @@
 slug: adaptive-training-planners
 hub: stride
 title: Adaptive Training Plan Optimizers
-summary: AI systems that continuously adjust periodization and sessions.
+summary: AI systems that continuously adjust training cycles based on real-time athlete
+  readiness and recovery data
 permalink: https://www.envisioning.com/stride/adaptive-training-planners
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128362/strid
 
 ## Summary
 
-AI systems that continuously adjust periodization and sessions.
+AI systems that continuously adjust training cycles based on real-time athlete readiness and recovery data
 
 ## Description
 

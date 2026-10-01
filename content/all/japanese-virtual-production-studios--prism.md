@@ -2,7 +2,8 @@
 slug: japanese-virtual-production-studios
 hub: prism
 title: Japanese Virtual Production Studios
-summary: LED volume ecosystems customized for anime and live-action hybrids.
+summary: LED stages optimized for anime aesthetics, idol performances, and real-time
+  2D/3D hybrid production
 permalink: https://www.envisioning.com/prism/japanese-virtual-production-studios
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069405/pulse
 
 ## Summary
 
-LED volume ecosystems customized for anime and live-action hybrids.
+LED stages optimized for anime aesthetics, idol performances, and real-time 2D/3D hybrid production
 
 ## Description
 

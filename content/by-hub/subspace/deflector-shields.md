@@ -2,21 +2,21 @@
 slug: deflector-shields
 hub: subspace
 title: Deflector Shields
-summary: Energy barriers that protect spacecraft from weapons fire, radiation, and
-  spatial hazards.
+summary: Energy barriers protecting spacecraft from weapons, radiation, and debris
+  impacts
 permalink: https://www.envisioning.com/subspace/deflector-shields
 collection: defense
 trl: 5
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208042/subspaceindex/technologies/deflector-shields.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907769/subspace/technologies/deflector-shields-openrouter-google-gemini-3.1-flash-image-preview-ly0k4s.png
 ---
 
 # Deflector Shields
 
 ## Summary
 
-Energy barriers that protect spacecraft from weapons fire, radiation, and spatial hazards.
+Energy barriers protecting spacecraft from weapons, radiation, and debris impacts
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: quantum-enhanced-drug-discovery
 hub: superposition
 title: Quantum-Enhanced Drug Discovery
-summary: Simulating molecular interactions and protein folding with quantum precision.
+summary: Simulating molecular interactions and protein folding using quantum computers
+  for drug development
 permalink: https://www.envisioning.com/superposition/quantum-enhanced-drug-discovery
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181222/super
 
 ## Summary
 
-Simulating molecular interactions and protein folding with quantum precision.
+Simulating molecular interactions and protein folding using quantum computers for drug development
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: tokenized-public-assets
 hub: polis
 title: Tokenized Public Assets
-summary: Blockchain representation of public infrastructure ownership.
+summary: Blockchain-based fractional ownership and trading of public infrastructure
+  revenue rights
 permalink: https://www.envisioning.com/polis/tokenized-public-assets
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441700/polis
 
 ## Summary
 
-Blockchain representation of public infrastructure ownership.
+Blockchain-based fractional ownership and trading of public infrastructure revenue rights
 
 ## Description
 

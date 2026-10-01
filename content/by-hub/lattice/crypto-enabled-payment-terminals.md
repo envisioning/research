@@ -2,7 +2,8 @@
 slug: crypto-enabled-payment-terminals
 hub: lattice
 title: Payment Terminal Integration
-summary: Point-of-sale terminals with native stablecoin and Lightning support.
+summary: Point-of-sale terminals with built-in cryptocurrency and Lightning Network
+  payment processing
 permalink: https://www.envisioning.com/lattice/crypto-enabled-payment-terminals
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074805/flows
 
 ## Summary
 
-Point-of-sale terminals with native stablecoin and Lightning support.
+Point-of-sale terminals with built-in cryptocurrency and Lightning Network payment processing
 
 ## Description
 

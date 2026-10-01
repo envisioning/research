@@ -2,7 +2,8 @@
 slug: digital-legacy-creation
 hub: eclipse
 title: Digital Legacy Creation
-summary: Curated digital archives and interactive biographies.
+summary: Curated digital archives that preserve personal histories through photos,
+  videos, and interactive media
 permalink: https://www.envisioning.com/eclipse/digital-legacy-creation
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127152/eclip
 
 ## Summary
 
-Curated digital archives and interactive biographies.
+Curated digital archives that preserve personal histories through photos, videos, and interactive media
 
 ## Description
 

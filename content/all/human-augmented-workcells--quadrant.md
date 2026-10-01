@@ -2,7 +2,8 @@
 slug: human-augmented-workcells
 hub: quadrant
 title: Human-Augmented Workcells
-summary: AR, wearables, and exoskeletons enhancing frontline workers.
+summary: Workstations combining collaborative robots, AR interfaces, and exoskeletons
+  to enhance worker capabilities
 permalink: https://www.envisioning.com/quadrant/human-augmented-workcells
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127201/quadr
 
 ## Summary
 
-AR, wearables, and exoskeletons enhancing frontline workers.
+Workstations combining collaborative robots, AR interfaces, and exoskeletons to enhance worker capabilities
 
 ## Description
 

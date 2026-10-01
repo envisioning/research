@@ -2,7 +2,8 @@
 slug: integrated-aquaponics-systems
 hub: spore
 title: Aquaponics Systems
-summary: Recirculating setups pairing fish tanks with hydroponic beds.
+summary: Integrated fish and plant farming that recycles water and nutrients between
+  aquaculture tanks and hydroponic beds
 permalink: https://www.envisioning.com/spore/integrated-aquaponics-systems
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095961/spore
 
 ## Summary
 
-Recirculating setups pairing fish tanks with hydroponic beds.
+Integrated fish and plant farming that recycles water and nutrients between aquaculture tanks and hydroponic beds
 
 ## Description
 

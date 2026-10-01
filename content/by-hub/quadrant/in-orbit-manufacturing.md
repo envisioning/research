@@ -2,7 +2,7 @@
 slug: in-orbit-manufacturing
 hub: quadrant
 title: In-Orbit Manufacturing
-summary: Zero-gravity production of superior materials.
+summary: Manufacturing materials and structures in space using microgravity conditions
 permalink: https://www.envisioning.com/quadrant/in-orbit-manufacturing
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128093/quadr
 
 ## Summary
 
-Zero-gravity production of superior materials.
+Manufacturing materials and structures in space using microgravity conditions
 
 ## Description
 

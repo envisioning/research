@@ -2,7 +2,7 @@
 slug: intent-based-networking
 hub: link
 title: Intent-Based Networking
-summary: High-level policy engines that translate human intent into network config.
+summary: Policy engines that translate business goals into automated network configurations
 permalink: https://www.envisioning.com/link/intent-based-networking
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435982/link/
 
 ## Summary
 
-High-level policy engines that translate human intent into network config.
+Policy engines that translate business goals into automated network configurations
 
 ## Description
 

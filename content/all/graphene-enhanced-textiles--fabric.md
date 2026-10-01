@@ -2,7 +2,8 @@
 slug: graphene-enhanced-textiles
 hub: fabric
 title: Graphene-Enhanced Textiles
-summary: Conductive, antimicrobial fabrics strengthened with graphene flakes.
+summary: Fabrics embedded with carbon nanosheets for conductivity, durability, and
+  antimicrobial performance
 permalink: https://www.envisioning.com/fabric/graphene-enhanced-textiles
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059669/threa
 
 ## Summary
 
-Conductive, antimicrobial fabrics strengthened with graphene flakes.
+Fabrics embedded with carbon nanosheets for conductivity, durability, and antimicrobial performance
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cross-cultural-affective-models
 hub: soma
 title: Cross-Cultural Affective Models
-summary: Frameworks that adapt affect recognition to cultural contexts and norms.
+summary: Emotion-recognition systems that account for cultural differences in expression
+  and interpretation
 permalink: https://www.envisioning.com/soma/cross-cultural-affective-models
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177746/soma/
 
 ## Summary
 
-Frameworks that adapt affect recognition to cultural contexts and norms.
+Emotion-recognition systems that account for cultural differences in expression and interpretation
 
 ## Description
 

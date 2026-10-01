@@ -2,7 +2,8 @@
 slug: distritos-autoenergeticos
 hub: moradia
 title: Distritos Autoenergéticos
-summary: Bairros que equilibram geração, armazenamento e consumo de energia localmente.
+summary: Bairros que geram, armazenam e distribuem energia de forma autônoma através
+  de microrredes
 permalink: https://www.envisioning.com/moradia/distritos-autoenergeticos
 collection: modelos-mercado-governanca
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766586007/habit
 
 ## Summary
 
-Bairros que equilibram geração, armazenamento e consumo de energia localmente.
+Bairros que geram, armazenam e distribuem energia de forma autônoma através de microrredes
 
 ## Description
 

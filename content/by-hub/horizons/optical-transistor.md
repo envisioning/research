@@ -2,19 +2,21 @@
 slug: optical-transistor
 hub: horizons
 title: Optical Transistor
-summary: Light-controlled switching devices for optical computing.
+summary: Switching devices where light controls light, enabling optical logic and
+  computing without electronics
 permalink: https://www.envisioning.com/horizons/optical-transistor
 collection: hardware
 trl: 4
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882986/horizons/technologies/28d49e56-71b3-4163-b37c-b00b30ec1a19-google-gemini-3.1-flash-image-preview-pgfynj.jpg
 ---
 
 # Optical Transistor
 
 ## Summary
 
-Light-controlled switching devices for optical computing.
+Switching devices where light controls light, enabling optical logic and computing without electronics
 
 ## Description
 

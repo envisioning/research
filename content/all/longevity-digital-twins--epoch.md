@@ -2,8 +2,8 @@
 slug: longevity-digital-twins
 hub: epoch
 title: Longevity Digital Twins
-summary: Virtual physiological replicas of individuals used to simulate the long-term
-  impact of interventions on aging.
+summary: Personalized simulations that model how aging interventions affect an individual's
+  biology over time
 permalink: https://www.envisioning.com/epoch/longevity-digital-twins
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477534/epoch
 
 ## Summary
 
-Virtual physiological replicas of individuals used to simulate the long-term impact of interventions on aging.
+Personalized simulations that model how aging interventions affect an individual's biology over time
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: dilithium-crystals
 hub: subspace
 title: Dilithium Crystals
-summary: Rare crystalline matrix essential for regulating matter-antimatter reactions.
+summary: Crystalline matrix regulating matter-antimatter reactions in warp propulsion
+  systems
 permalink: https://www.envisioning.com/subspace/dilithium-crystals
 collection: energy
 trl: 6
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211008/subspaceindex/technologies/dilithium-crystals.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907821/subspace/technologies/dilithium-crystals-openrouter-google-gemini-3.1-flash-image-preview-kpwy1c.png
 ---
 
 # Dilithium Crystals
 
 ## Summary
 
-Rare crystalline matrix essential for regulating matter-antimatter reactions.
+Crystalline matrix regulating matter-antimatter reactions in warp propulsion systems
 
 ## Description
 

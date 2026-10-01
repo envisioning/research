@@ -2,8 +2,8 @@
 slug: augmented-analytics
 hub: datatrends
 title: Augmented Analytics
-summary: AI-powered analytics that automates insight discovery, data preparation,
-  and natural language interactions, making analytics more accessible.
+summary: AI-driven analytics that automates insight discovery and data prep through
+  natural language
 permalink: https://www.envisioning.com/datatrends/augmented-analytics
 collection: agile-infrastructure
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593456/datat
 
 ## Summary
 
-AI-powered analytics that automates insight discovery, data preparation, and natural language interactions, making analytics more accessible.
+AI-driven analytics that automates insight discovery and data prep through natural language
 
 ## Description
 

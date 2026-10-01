@@ -2,7 +2,8 @@
 slug: 3d-cadastral-systems
 hub: habitat
 title: 3D Cadastral Systems
-summary: Three-dimensional land and property registries for dense, mixed-use environments.
+summary: Digital property registries that map ownership and rights in three dimensions
+  for complex urban spaces
 permalink: https://www.envisioning.com/habitat/3d-cadastral-systems
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117977/habit
 
 ## Summary
 
-Three-dimensional land and property registries for dense, mixed-use environments.
+Digital property registries that map ownership and rights in three dimensions for complex urban spaces
 
 ## Description
 

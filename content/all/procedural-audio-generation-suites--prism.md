@@ -2,7 +2,8 @@
 slug: procedural-audio-generation-suites
 hub: prism
 title: Procedural Audio Generation Suites
-summary: AI sound design engines generating adaptive Foley and music beds.
+summary: AI engines that generate adaptive sound effects and music from scene metadata
+  and visual cues
 permalink: https://www.envisioning.com/prism/procedural-audio-generation-suites
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062634/pulse
 
 ## Summary
 
-AI sound design engines generating adaptive Foley and music beds.
+AI engines that generate adaptive sound effects and music from scene metadata and visual cues
 
 ## Description
 

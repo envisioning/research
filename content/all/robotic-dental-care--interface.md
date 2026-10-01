@@ -2,22 +2,21 @@
 slug: robotic-dental-care
 hub: interface
 title: Robotic Dental Care
-summary: AI prosthetic-first planning with automated robotic Prep&Place™ powered by
-  patented dynamic real-time tracking, enabling scalable single-visit restorative
-  dental care with crown-grade outcomes and lower costs.
+summary: AI-guided robotic systems that automate tooth preparation and restoration
+  in a single visit
 permalink: https://www.envisioning.com/interface/robotic-dental-care
-collection: consumer-electronics-platforms
+collection: applications
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898278/interface/technologies/b195154a-4d25-4ced-bb81-c073bec3c7ec-google-gemini-3.1-flash-image-preview-006e9c.png
 ---
 
 # Robotic Dental Care
 
 ## Summary
 
-AI prosthetic-first planning with automated robotic Prep&Place™ powered by patented dynamic real-time tracking, enabling scalable single-visit restorative dental care with crown-grade outcomes and lower costs.
+AI-guided robotic systems that automate tooth preparation and restoration in a single visit
 
 ## Description
 

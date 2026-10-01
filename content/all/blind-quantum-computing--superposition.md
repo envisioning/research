@@ -2,7 +2,8 @@
 slug: blind-quantum-computing
 hub: superposition
 title: Blind Quantum Computing Protocols
-summary: Allowing clients to compute on remote quantum servers without revealing data.
+summary: Cryptographic protocols that keep quantum computations private when using
+  remote servers
 permalink: https://www.envisioning.com/superposition/blind-quantum-computing
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181065/super
 
 ## Summary
 
-Allowing clients to compute on remote quantum servers without revealing data.
+Cryptographic protocols that keep quantum computations private when using remote servers
 
 ## Description
 

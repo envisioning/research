@@ -2,7 +2,8 @@
 slug: attention-restoration-environments
 hub: soma
 title: Attention Restoration Environments
-summary: Nature-based XR and ambient systems for mental fatigue recovery.
+summary: Nature-based XR and ambient systems designed to reduce mental fatigue and
+  restore focus
 permalink: https://www.envisioning.com/soma/attention-restoration-environments
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179103/soma/
 
 ## Summary
 
-Nature-based XR and ambient systems for mental fatigue recovery.
+Nature-based XR and ambient systems designed to reduce mental fatigue and restore focus
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: psychedelic-palliative-protocols
 hub: eclipse
 title: Psychedelic Palliative Protocols
-summary: Guided psychedelic therapies for existential distress at end-of-life.
+summary: Clinical frameworks using psilocybin, MDMA, or ketamine to ease existential
+  distress in terminal patients
 permalink: https://www.envisioning.com/eclipse/psychedelic-palliative-protocols
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127130/eclip
 
 ## Summary
 
-Guided psychedelic therapies for existential distress at end-of-life.
+Clinical frameworks using psilocybin, MDMA, or ketamine to ease existential distress in terminal patients
 
 ## Description
 

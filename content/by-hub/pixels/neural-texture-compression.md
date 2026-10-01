@@ -2,7 +2,8 @@
 slug: neural-texture-compression
 hub: pixels
 title: Neural Texture Compression
-summary: AI codecs shrinking texture memory footprints by up to 90%.
+summary: AI-driven codecs that compress game textures up to 90% while preserving visual
+  quality
 permalink: https://www.envisioning.com/pixels/neural-texture-compression
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062221/pixel
 
 ## Summary
 
-AI codecs shrinking texture memory footprints by up to 90%.
+AI-driven codecs that compress game textures up to 90% while preserving visual quality
 
 ## Description
 

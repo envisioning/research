@@ -2,19 +2,20 @@
 slug: laser-weapon
 hub: aegis
 title: Laser Weapon
-summary: Directed-energy weapons for tracking and destruction of rockets, bombs, drones.
+summary: High-power directed-energy systems that track and destroy airborne threats
 permalink: https://www.envisioning.com/aegis/laser-weapon
 collection: hardware
 trl: 6
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962842/aegis/technologies/laser-weapon-hvalfq.jpg
 ---
 
 # Laser Weapon
 
 ## Summary
 
-Directed-energy weapons for tracking and destruction of rockets, bombs, drones.
+High-power directed-energy systems that track and destroy airborne threats
 
 ## Description
 

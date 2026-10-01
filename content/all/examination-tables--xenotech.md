@@ -2,21 +2,21 @@
 slug: examination-tables
 hub: xenotech
 title: Examination Tables
-summary: Alleged conforming medical surfaces that adapt to body contours while providing
-  invisible restraint and floating capabilities.
+summary: Medical surfaces from abduction accounts that allegedly conform to bodies
+  while appearing rigid and metallic
 permalink: https://www.envisioning.com/xenotech/examination-tables
 collection: biology-hybridization
 trl: 1
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760876056/xenotech/technologies/abduction-medical-examination.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898295/xenotech/technologies/examination-tables-openrouter-google-gemini-3.1-flash-image-preview-f7imw0.png
 ---
 
 # Examination Tables
 
 ## Summary
 
-Alleged conforming medical surfaces that adapt to body contours while providing invisible restraint and floating capabilities.
+Medical surfaces from abduction accounts that allegedly conform to bodies while appearing rigid and metallic
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: offline-learning-appliances
 hub: axiom
 title: Low-Cost Offline Learning Appliances
-summary: Rugged devices delivering AI-powered learning without constant connectivity.
+summary: Rugged devices delivering AI-powered education in areas without reliable
+  internet access
 permalink: https://www.envisioning.com/axiom/offline-learning-appliances
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990537/axiom
 
 ## Summary
 
-Rugged devices delivering AI-powered learning without constant connectivity.
+Rugged devices delivering AI-powered education in areas without reliable internet access
 
 ## Description
 

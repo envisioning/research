@@ -2,7 +2,8 @@
 slug: iot-smart-manufacturing-monitoring
 hub: fabric
 title: IoT-Enabled Smart Manufacturing Monitoring
-summary: Networked factory systems for real-time production tracking and efficiency.
+summary: Connected sensors tracking apparel production equipment, energy use, and
+  facility conditions in real time
 permalink: https://www.envisioning.com/fabric/iot-smart-manufacturing-monitoring
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062617/threa
 
 ## Summary
 
-Networked factory systems for real-time production tracking and efficiency.
+Connected sensors tracking apparel production equipment, energy use, and facility conditions in real time
 
 ## Description
 

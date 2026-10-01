@@ -2,9 +2,10 @@
 slug: cellular-agriculture
 hub: horizons
 title: Cellular Agriculture
-summary: Producing animal products from cell cultures without slaughter.
+summary: Growing meat, dairy, and other animal products from cell cultures instead
+  of livestock
 permalink: https://www.envisioning.com/horizons/cellular-agriculture
-collection: life-health
+collection: applications
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526125/horiz
 
 ## Summary
 
-Producing animal products from cell cultures without slaughter.
+Growing meat, dairy, and other animal products from cell cultures instead of livestock
 
 ## Description
 

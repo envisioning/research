@@ -2,7 +2,8 @@
 slug: space-economy-finance
 hub: vault
 title: Space Economy & Orbital Finance
-summary: Financial infrastructure for the multi-planetary economy.
+summary: Financial systems designed for assets, transactions, and economic activity
+  beyond Earth
 permalink: https://www.envisioning.com/vault/space-economy-finance
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128620/vault
 
 ## Summary
 
-Financial infrastructure for the multi-planetary economy.
+Financial systems designed for assets, transactions, and economic activity beyond Earth
 
 ## Description
 

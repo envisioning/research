@@ -2,13 +2,12 @@
 slug: ultra-fast-ev-charging-infrastructure
 hub: interface
 title: Ultra-Fast EV Charging Infrastructure
-summary: Battery-integrated ultra-fast EV chargers delivering 350 kW charging, providing
-  backup power, and operating as distributed energy assets.
+summary: High-power DC chargers delivering 350 kW to restore EV range in 10–20 minutes
 permalink: https://www.envisioning.com/interface/ultra-fast-ev-charging-infrastructure
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 8
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: null
 ---
 
@@ -16,7 +15,7 @@ image_url: null
 
 ## Summary
 
-Battery-integrated ultra-fast EV chargers delivering 350 kW charging, providing backup power, and operating as distributed energy assets.
+High-power DC chargers delivering 350 kW to restore EV range in 10–20 minutes
 
 ## Description
 

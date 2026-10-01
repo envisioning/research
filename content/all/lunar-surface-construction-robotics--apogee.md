@@ -2,7 +2,8 @@
 slug: lunar-surface-construction-robotics
 hub: apogee
 title: Lunar Surface Construction Robotics
-summary: Autonomous robots building landing pads, roads, and habitats from regolith.
+summary: Robotic systems that build lunar infrastructure using Moon soil instead of
+  Earth materials
 permalink: https://www.envisioning.com/apogee/lunar-surface-construction-robotics
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011765/apoge
 
 ## Summary
 
-Autonomous robots building landing pads, roads, and habitats from regolith.
+Robotic systems that build lunar infrastructure using Moon soil instead of Earth materials
 
 ## Description
 

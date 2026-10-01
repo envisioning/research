@@ -2,7 +2,8 @@
 slug: digital-destination-twins
 hub: atlas
 title: Digital Destination Twins
-summary: Virtual replicas of cities used to simulate and manage tourist flows.
+summary: Virtual replicas of destinations that simulate tourist flows and optimize
+  visitor management
 permalink: https://www.envisioning.com/atlas/digital-destination-twins
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126053/atlas
 
 ## Summary
 
-Virtual replicas of cities used to simulate and manage tourist flows.
+Virtual replicas of destinations that simulate tourist flows and optimize visitor management
 
 ## Description
 

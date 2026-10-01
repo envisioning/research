@@ -2,7 +2,8 @@
 slug: hardened-edge-compute-nodes
 hub: aegis
 title: Hardened Edge Compute Nodes
-summary: Ruggedized AI edge compute for contested tactical environments.
+summary: Ruggedized computing systems that run AI and command operations locally in
+  hostile, low-connectivity zones
 permalink: https://www.envisioning.com/aegis/hardened-edge-compute-nodes
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995638/aegis
 
 ## Summary
 
-Ruggedized AI edge compute for contested tactical environments.
+Ruggedized computing systems that run AI and command operations locally in hostile, low-connectivity zones
 
 ## Description
 

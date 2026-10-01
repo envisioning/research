@@ -2,7 +2,7 @@
 slug: genetic-integrity
 hub: stride
 title: Genetic Doping Surveillance
-summary: Methods to detect and prevent gene manipulation in sports.
+summary: Detection methods for identifying gene therapy misuse in competitive athletics
 permalink: https://www.envisioning.com/stride/genetic-integrity
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128642/strid
 
 ## Summary
 
-Methods to detect and prevent gene manipulation in sports.
+Detection methods for identifying gene therapy misuse in competitive athletics
 
 ## Description
 

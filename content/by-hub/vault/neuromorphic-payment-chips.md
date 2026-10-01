@@ -2,7 +2,8 @@
 slug: neuromorphic-payment-chips
 hub: vault
 title: Neuromorphic AI Chips
-summary: Brain-inspired processors for ultra-low-power edge AI.
+summary: Brain-inspired processors that mimic neural networks for ultra-low-power
+  edge AI
 permalink: https://www.envisioning.com/vault/neuromorphic-payment-chips
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128043/vault
 
 ## Summary
 
-Brain-inspired processors for ultra-low-power edge AI.
+Brain-inspired processors that mimic neural networks for ultra-low-power edge AI
 
 ## Description
 

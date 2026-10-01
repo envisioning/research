@@ -2,9 +2,7 @@
 slug: airystring-zipper-innovation
 hub: fabric
 title: AiryString Zipper Innovation for Flexible Garment Design
-summary: The AiryString zipper by YKK represents a significant evolution in zipper
-  technology by eliminating the fabric tape, resulting in a lighter and more flexible
-  fastening system.
+summary: Tape-free zipper design enabling lighter, more flexible garment construction
 permalink: https://www.envisioning.com/fabric/airystring-zipper-innovation
 collection: hardware
 trl: 6
@@ -17,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764412284/fabri
 
 ## Summary
 
-The AiryString zipper by YKK represents a significant evolution in zipper technology by eliminating the fabric tape, resulting in a lighter and more flexible fastening system.
+Tape-free zipper design enabling lighter, more flexible garment construction
 
 ## Description
 

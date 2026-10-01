@@ -2,7 +2,8 @@
 slug: soft-exoskeletons-for-adventure
 hub: atlas
 title: Soft Exoskeletons for Adventure
-summary: Wearable robotics enabling accessible hiking and active travel for seniors.
+summary: Wearable robotic assistance that helps seniors and travelers navigate challenging
+  terrain
 permalink: https://www.envisioning.com/atlas/soft-exoskeletons-for-adventure
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126027/atlas
 
 ## Summary
 
-Wearable robotics enabling accessible hiking and active travel for seniors.
+Wearable robotic assistance that helps seniors and travelers navigate challenging terrain
 
 ## Description
 

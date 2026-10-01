@@ -2,7 +2,8 @@
 slug: reproductive-polygenic-risk
 hub: cradle
 title: Reproductive Polygenic Risk Scoring
-summary: Genomic risk profiles for future offspring health.
+summary: Genomic analysis predicting disease risk in future children based on parental
+  DNA
 permalink: https://www.envisioning.com/cradle/reproductive-polygenic-risk
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129168/cradl
 
 ## Summary
 
-Genomic risk profiles for future offspring health.
+Genomic analysis predicting disease risk in future children based on parental DNA
 
 ## Description
 

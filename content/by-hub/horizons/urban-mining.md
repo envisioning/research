@@ -2,9 +2,10 @@
 slug: urban-mining
 hub: horizons
 title: Urban Mining
-summary: Recovering valuable materials from city waste streams.
+summary: Extracting valuable metals and materials from electronic waste and urban
+  refuse
 permalink: https://www.envisioning.com/horizons/urban-mining
-collection: cities-mobility
+collection: hardware
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521857/horiz
 
 ## Summary
 
-Recovering valuable materials from city waste streams.
+Extracting valuable metals and materials from electronic waste and urban refuse
 
 ## Description
 

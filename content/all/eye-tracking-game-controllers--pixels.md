@@ -2,8 +2,7 @@
 slug: eye-tracking-game-controllers
 hub: pixels
 title: Eye-Tracking Game Controllers
-summary: Gaze-driven controllers syncing headset optics with input for hands-free
-  UI.
+summary: Hardware that maps eye movement to in-game actions and UI navigation
 permalink: https://www.envisioning.com/pixels/eye-tracking-game-controllers
 collection: hardware
 trl: 7
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058883/pixel
 
 ## Summary
 
-Gaze-driven controllers syncing headset optics with input for hands-free UI.
+Hardware that maps eye movement to in-game actions and UI navigation
 
 ## Description
 

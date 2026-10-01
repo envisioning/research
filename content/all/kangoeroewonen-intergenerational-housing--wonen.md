@@ -9,7 +9,7 @@ collection: development-models
 trl: 2
 impact: 5
 investment: 5
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882317/wonen/technologies/04ce2f48-0d9a-4d01-bb5c-f0975b71d23c-google-gemini-3.1-flash-image-preview-5117ud.jpg
 ---
 
 # Kangoeroewonen (Intergenerational Housing)

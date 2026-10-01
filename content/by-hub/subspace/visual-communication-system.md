@@ -2,20 +2,21 @@
 slug: visual-communication-system
 hub: subspace
 title: Visual Communication System
-summary: Real-time video communication technology for face-to-face interstellar conversations.
+summary: Real-time video transmission across interstellar distances using faster-than-light
+  channels
 permalink: https://www.envisioning.com/subspace/visual-communication-system
 collection: communications
 trl: 7
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760213860/subspaceindex/technologies/visual-communication-system.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909828/subspace/technologies/visual-communication-system-openrouter-google-gemini-3.1-flash-image-preview-l0h8k5.png
 ---
 
 # Visual Communication System
 
 ## Summary
 
-Real-time video communication technology for face-to-face interstellar conversations.
+Real-time video transmission across interstellar distances using faster-than-light channels
 
 ## Description
 

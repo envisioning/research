@@ -2,7 +2,8 @@
 slug: privacy-preserving-computation
 hub: quadrant
 title: Privacy-Preserving Computation
-summary: Homomorphic encryption and MPC for confidential data processing.
+summary: Cryptographic methods enabling secure computation on encrypted data without
+  exposing sensitive information
 permalink: https://www.envisioning.com/quadrant/privacy-preserving-computation
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128338/quadr
 
 ## Summary
 
-Homomorphic encryption and MPC for confidential data processing.
+Cryptographic methods enabling secure computation on encrypted data without exposing sensitive information
 
 ## Description
 

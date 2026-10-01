@@ -2,8 +2,7 @@
 slug: managed-retreat-urban-adaptation
 hub: atmos
 title: Managed Retreat and Adaptive Urban Design
-summary: Toolkits and planning models for relocating and redesigning climate-exposed
-  communities.
+summary: Planning frameworks for relocating communities from climate-threatened areas
 permalink: https://www.envisioning.com/atmos/managed-retreat-urban-adaptation
 collection: applications
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998628/atmos
 
 ## Summary
 
-Toolkits and planning models for relocating and redesigning climate-exposed communities.
+Planning frameworks for relocating communities from climate-threatened areas
 
 ## Description
 

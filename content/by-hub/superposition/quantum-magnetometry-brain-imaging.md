@@ -2,7 +2,8 @@
 slug: quantum-magnetometry-brain-imaging
 hub: superposition
 title: Quantum Magnetometry for Brain Imaging
-summary: Wearable MEG alternatives using optically pumped magnetometers.
+summary: Room-temperature magnetometer arrays that map brain activity without bulky
+  shielding
 permalink: https://www.envisioning.com/superposition/quantum-magnetometry-brain-imaging
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181141/super
 
 ## Summary
 
-Wearable MEG alternatives using optically pumped magnetometers.
+Room-temperature magnetometer arrays that map brain activity without bulky shielding
 
 ## Description
 

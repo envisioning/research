@@ -2,7 +2,8 @@
 slug: network-fairness
 hub: link
 title: Algorithmic Fairness in Slicing
-summary: Preventing bias in AI-driven network resource allocation.
+summary: Ensuring AI allocates network resources equitably across user groups and
+  services
 permalink: https://www.envisioning.com/link/network-fairness
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179257/link/
 
 ## Summary
 
-Preventing bias in AI-driven network resource allocation.
+Ensuring AI allocates network resources equitably across user groups and services
 
 ## Description
 

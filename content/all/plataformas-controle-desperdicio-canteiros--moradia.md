@@ -2,7 +2,8 @@
 slug: plataformas-controle-desperdicio-canteiros
 hub: moradia
 title: Plataformas de Controle de Desperdício em Canteiros
-summary: Sistemas digitais para monitorar e reduzir desperdício de materiais em obras.
+summary: Monitora fluxo de materiais em obras com sensores e análise de dados para
+  reduzir perdas
 permalink: https://www.envisioning.com/moradia/plataformas-controle-desperdicio-canteiros
 collection: metodos-execucao-obra
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766332877/forma
 
 ## Summary
 
-Sistemas digitais para monitorar e reduzir desperdício de materiais em obras.
+Monitora fluxo de materiais em obras com sensores e análise de dados para reduzir perdas
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: synthetic-population-sandboxes
 hub: polis
 title: Synthetic Population Sandboxes
-summary: Privacy-preserving artificial data sets for policy training and testing.
+summary: Artificial datasets that mirror real populations for policy testing without
+  exposing personal data
 permalink: https://www.envisioning.com/polis/synthetic-population-sandboxes
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126579/polis
 
 ## Summary
 
-Privacy-preserving artificial data sets for policy training and testing.
+Artificial datasets that mirror real populations for policy testing without exposing personal data
 
 ## Description
 

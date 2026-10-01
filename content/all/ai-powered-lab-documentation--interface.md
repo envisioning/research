@@ -2,22 +2,21 @@
 slug: ai-powered-lab-documentation
 hub: interface
 title: AI-Powered Lab Documentation
-summary: Smart-glasses platform automating R&D lab documentation with hands-free,
-  real-time workflow capture, converting visual input into structured experiment records,
-  reducing manual errors and significantly cutting documentation time.
+summary: Smart glasses that auto-document lab workflows in real-time from a researcher's
+  point of view
 permalink: https://www.envisioning.com/interface/ai-powered-lab-documentation
-collection: wearables-health-sensing
+collection: software
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898410/interface/technologies/b82782ed-8fd7-40c0-997a-c34750fce83f-google-gemini-3.1-flash-image-preview-mx8yy1.jpg
 ---
 
 # AI-Powered Lab Documentation
 
 ## Summary
 
-Smart-glasses platform automating R&D lab documentation with hands-free, real-time workflow capture, converting visual input into structured experiment records, reducing manual errors and significantly cutting documentation time.
+Smart glasses that auto-document lab workflows in real-time from a researcher's point of view
 
 ## Description
 

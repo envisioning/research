@@ -2,14 +2,9 @@
 slug: machine-vision-recycling-system
 hub: cities
 title: Machine Vision Recycling System
-summary: This solution addresses inefficient urban waste management, which often leads
-  to increased landfill use, pollution, and high operational costs. This technology
-  leverages advanced image recognition and artificial intelligence to accurately identify
-  and sort recyclable materials from waste streams. By automating the sorting process,
-  these systems reduce contamination, enhance recycling rates, and lower the dependency
-  on manual labour.
+summary: AI-powered cameras that identify and sort recyclable materials in waste streams
 permalink: https://www.envisioning.com/cities/machine-vision-recycling-system
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 6
 impact: 3
 investment: 2
@@ -20,7 +15,7 @@ image_url: https://www.datocms-assets.com/134194/1718803940-machine-vision-recyc
 
 ## Summary
 
-This solution addresses inefficient urban waste management, which often leads to increased landfill use, pollution, and high operational costs. This technology leverages advanced image recognition and artificial intelligence to accurately identify and sort recyclable materials from waste streams. By automating the sorting process, these systems reduce contamination, enhance recycling rates, and lower the dependency on manual labour.
+AI-powered cameras that identify and sort recyclable materials in waste streams
 
 ## Description
 

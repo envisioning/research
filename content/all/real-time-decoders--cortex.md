@@ -2,7 +2,7 @@
 slug: real-time-decoders
 hub: cortex
 title: Real-Time Predictive Decoders
-summary: Low-latency inference of intent, speech, and motor plans.
+summary: Algorithms that infer intent, speech, or movement from brain signals in milliseconds
 permalink: https://www.envisioning.com/cortex/real-time-decoders
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990758/corte
 
 ## Summary
 
-Low-latency inference of intent, speech, and motor plans.
+Algorithms that infer intent, speech, or movement from brain signals in milliseconds
 
 ## Description
 

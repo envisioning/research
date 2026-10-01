@@ -2,7 +2,8 @@
 slug: grid-integration-electrified-aviation
 hub: altitude
 title: Grid Integration & Energy Impacts of Electrified Aviation
-summary: Managing electricity demand, renewable pairing, and grid stability.
+summary: Integrating electric aircraft charging infrastructure with power grids at
+  scale
 permalink: https://www.envisioning.com/altitude/grid-integration-electrified-aviation
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649487/altit
 
 ## Summary
 
-Managing electricity demand, renewable pairing, and grid stability.
+Integrating electric aircraft charging infrastructure with power grids at scale
 
 ## Description
 

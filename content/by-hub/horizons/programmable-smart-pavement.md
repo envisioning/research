@@ -2,9 +2,9 @@
 slug: programmable-smart-pavement
 hub: horizons
 title: Programmable Smart Pavement
-summary: Adaptive road surfaces responding to environmental and traffic conditions.
+summary: Road surfaces that adapt permeability, temperature, and traffic flow in real-time
 permalink: https://www.envisioning.com/horizons/programmable-smart-pavement
-collection: cities-mobility
+collection: hardware
 trl: 3
 impact: 3
 investment: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521224/horiz
 
 ## Summary
 
-Adaptive road surfaces responding to environmental and traffic conditions.
+Road surfaces that adapt permeability, temperature, and traffic flow in real-time
 
 ## Description
 

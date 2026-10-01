@@ -2,7 +2,7 @@
 slug: post-quantum-cryptography
 hub: quadrant
 title: Post-Quantum Cryptography
-summary: Security algorithms resistant to quantum computing attacks.
+summary: Encryption methods designed to withstand attacks from quantum computers
 permalink: https://www.envisioning.com/quadrant/post-quantum-cryptography
 collection: ethics-security
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128128/quadr
 
 ## Summary
 
-Security algorithms resistant to quantum computing attacks.
+Encryption methods designed to withstand attacks from quantum computers
 
 ## Description
 

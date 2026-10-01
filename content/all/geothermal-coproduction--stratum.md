@@ -2,7 +2,8 @@
 slug: geothermal-coproduction
 hub: stratum
 title: Geothermal Co-Production with Oil and Gas
-summary: Leveraging existing wells to co-produce geothermal heat, power, and minerals.
+summary: Extracting heat, power, and minerals from hot fluids in existing oil and
+  gas wells
 permalink: https://www.envisioning.com/stratum/geothermal-coproduction
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178094/strat
 
 ## Summary
 
-Leveraging existing wells to co-produce geothermal heat, power, and minerals.
+Extracting heat, power, and minerals from hot fluids in existing oil and gas wells
 
 ## Description
 

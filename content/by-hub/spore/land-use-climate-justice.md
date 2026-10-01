@@ -2,7 +2,8 @@
 slug: land-use-climate-justice
 hub: spore
 title: Land Use & Climate Justice
-summary: Allocation of land between biomass production, carbon farming, and restoration.
+summary: Frameworks for balancing food production, carbon sequestration, and restoration
+  on finite land
 permalink: https://www.envisioning.com/spore/land-use-climate-justice
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095988/spore
 
 ## Summary
 
-Allocation of land between biomass production, carbon farming, and restoration.
+Frameworks for balancing food production, carbon sequestration, and restoration on finite land
 
 ## Description
 

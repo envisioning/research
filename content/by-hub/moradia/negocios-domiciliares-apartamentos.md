@@ -2,8 +2,8 @@
 slug: negocios-domiciliares-apartamentos
 hub: moradia
 title: Negócios Domiciliares em Apartamentos
-summary: Operação de negócios (salões, oficinas, cozinhas comerciais) dentro de unidades
-  habitacionais, criando economia híbrida onde habitação e geração de renda se integram.
+summary: Operação de salões, oficinas e cozinhas comerciais dentro de apartamentos
+  residenciais
 permalink: https://www.envisioning.com/moradia/negocios-domiciliares-apartamentos
 collection: modelos-mercado-governanca
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668278/habit
 
 ## Summary
 
-Operação de negócios (salões, oficinas, cozinhas comerciais) dentro de unidades habitacionais, criando economia híbrida onde habitação e geração de renda se integram.
+Operação de salões, oficinas e cozinhas comerciais dentro de apartamentos residenciais
 
 ## Description
 

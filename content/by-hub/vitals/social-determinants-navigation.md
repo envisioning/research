@@ -2,8 +2,8 @@
 slug: social-determinants-navigation
 hub: vitals
 title: Social Determinants Navigation Platforms
-summary: Digital tools that link patients to community resources addressing food,
-  housing, and transportation needs.
+summary: Connect patients to housing, food, and transportation resources alongside
+  clinical care
 permalink: https://www.envisioning.com/vitals/social-determinants-navigation
 collection: applications
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115379/vital
 
 ## Summary
 
-Digital tools that link patients to community resources addressing food, housing, and transportation needs.
+Connect patients to housing, food, and transportation resources alongside clinical care
 
 ## Description
 

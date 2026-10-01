@@ -2,8 +2,8 @@
 slug: armazenamento-agua-urbano-domestico
 hub: moradia
 title: Armazenamento de Água Urbano Doméstico
-summary: Sistemas individuais de armazenamento de água em áreas urbanas, criando autonomia
-  hídrica doméstica como resposta a instabilidade de abastecimento e eventos climáticos.
+summary: Sistemas domésticos de armazenamento de água que criam autonomia hídrica
+  frente a interrupções no abastecimento
 permalink: https://www.envisioning.com/moradia/armazenamento-agua-urbano-domestico
 collection: sistemas-prediais-automacao
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668122/habit
 
 ## Summary
 
-Sistemas individuais de armazenamento de água em áreas urbanas, criando autonomia hídrica doméstica como resposta a instabilidade de abastecimento e eventos climáticos.
+Sistemas domésticos de armazenamento de água que criam autonomia hídrica frente a interrupções no abastecimento
 
 ## Description
 

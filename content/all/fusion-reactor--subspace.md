@@ -2,20 +2,21 @@
 slug: fusion-reactor
 hub: subspace
 title: Fusion Reactor
-summary: Impulse power generation through controlled nuclear fusion reactions.
+summary: Controlled nuclear fusion systems that power spacecraft through hydrogen
+  isotope reactions
 permalink: https://www.envisioning.com/subspace/fusion-reactor
 collection: energy
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210790/subspaceindex/technologies/fusion-reactor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908026/subspace/technologies/fusion-reactor-openrouter-google-gemini-3.1-flash-image-preview-aivp5i.png
 ---
 
 # Fusion Reactor
 
 ## Summary
 
-Impulse power generation through controlled nuclear fusion reactions.
+Controlled nuclear fusion systems that power spacecraft through hydrogen isotope reactions
 
 ## Description
 

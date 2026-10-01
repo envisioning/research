@@ -2,7 +2,8 @@
 slug: algorithmic-governance-oracles
 hub: polis
 title: Algorithmic Governance Oracles
-summary: Automated systems for transparent public decision verification.
+summary: Automated systems that verify real-world conditions to trigger transparent
+  public decisions
 permalink: https://www.envisioning.com/polis/algorithmic-governance-oracles
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126840/polis
 
 ## Summary
 
-Automated systems for transparent public decision verification.
+Automated systems that verify real-world conditions to trigger transparent public decisions
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: autonomous-mission-controllers
 hub: apogee
 title: Autonomous Mission Controllers
-summary: AI agents managing spacecraft operations with minimal ground support.
+summary: AI systems managing spacecraft navigation, diagnostics, and mission planning
+  without real-time ground control
 permalink: https://www.envisioning.com/apogee/autonomous-mission-controllers
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180723/apoge
 
 ## Summary
 
-AI agents managing spacecraft operations with minimal ground support.
+AI systems managing spacecraft navigation, diagnostics, and mission planning without real-time ground control
 
 ## Description
 

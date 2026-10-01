@@ -2,21 +2,21 @@
 slug: sensory-overload-detection
 hub: interface
 title: Sensory Overload Detection
-summary: Mobile and smartwatch apps tracking light, sound, and stress signals in real-time,
-  alerting users before reaching sensory overload.
+summary: Wearables that monitor environmental and physiological signals to predict
+  sensory overwhelm
 permalink: https://www.envisioning.com/interface/sensory-overload-detection
-collection: wearables-health-sensing
+collection: applications
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882339/interface/technologies/068b65ab-9e30-44b6-88d8-be50c01449f9-google-gemini-3.1-flash-image-preview-ofj5kc.jpg
 ---
 
 # Sensory Overload Detection
 
 ## Summary
 
-Mobile and smartwatch apps tracking light, sound, and stress signals in real-time, alerting users before reaching sensory overload.
+Wearables that monitor environmental and physiological signals to predict sensory overwhelm
 
 ## Description
 

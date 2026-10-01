@@ -2,9 +2,9 @@
 slug: spatial-computing
 hub: horizons
 title: Spatial Computing
-summary: Mapping and interacting with physical spaces using digital overlays.
+summary: Digital systems that map and interact with physical 3D environments in real-time
 permalink: https://www.envisioning.com/horizons/spatial-computing
-collection: intelligence-computation
+collection: software
 trl: 7
 impact: 4
 investment: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521854/horiz
 
 ## Summary
 
-Mapping and interacting with physical spaces using digital overlays.
+Digital systems that map and interact with physical 3D environments in real-time
 
 ## Description
 

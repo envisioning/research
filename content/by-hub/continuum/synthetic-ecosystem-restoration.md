@@ -2,7 +2,8 @@
 slug: synthetic-ecosystem-restoration
 hub: continuum
 title: Synthetic Ecosystem Restoration
-summary: Engineered organisms for rapid environmental remediation.
+summary: Engineered organisms designed to accelerate ecological recovery in degraded
+  environments
 permalink: https://www.envisioning.com/continuum/synthetic-ecosystem-restoration
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124027/conti
 
 ## Summary
 
-Engineered organisms for rapid environmental remediation.
+Engineered organisms designed to accelerate ecological recovery in degraded environments
 
 ## Description
 

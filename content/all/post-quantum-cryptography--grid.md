@@ -2,7 +2,7 @@
 slug: post-quantum-cryptography
 hub: grid
 title: Post-Quantum Cryptography
-summary: Cryptographic methods resistant to attack by quantum computers.
+summary: Encryption methods designed to resist attacks from quantum computers
 permalink: https://www.envisioning.com/grid/post-quantum-cryptography
 collection: ethics-security
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435980/grid/
 
 ## Summary
 
-Cryptographic methods resistant to attack by quantum computers.
+Encryption methods designed to resist attacks from quantum computers
 
 ## Description
 

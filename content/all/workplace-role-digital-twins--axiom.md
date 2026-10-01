@@ -2,7 +2,8 @@
 slug: workplace-role-digital-twins
 hub: axiom
 title: Workplace Digital Twins for Roles
-summary: Digital twins of roles mapping tasks, skills, and performance.
+summary: Dynamic virtual models of job roles that track evolving tasks, required skills,
+  and performance metrics
 permalink: https://www.envisioning.com/axiom/workplace-role-digital-twins
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998420/axiom
 
 ## Summary
 
-Digital twins of roles mapping tasks, skills, and performance.
+Dynamic virtual models of job roles that track evolving tasks, required skills, and performance metrics
 
 ## Description
 

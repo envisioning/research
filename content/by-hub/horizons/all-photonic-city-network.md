@@ -2,9 +2,10 @@
 slug: all-photonic-city-network
 hub: horizons
 title: All-Photonic City Network
-summary: Ultra-fast urban communication infrastructure using light for data transmission.
+summary: Urban communication infrastructure that routes data entirely as light, eliminating
+  electronic conversion bottlenecks
 permalink: https://www.envisioning.com/horizons/all-photonic-city-network
-collection: intelligence-computation
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521086/horiz
 
 ## Summary
 
-Ultra-fast urban communication infrastructure using light for data transmission.
+Urban communication infrastructure that routes data entirely as light, eliminating electronic conversion bottlenecks
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: biometric-e-gates
 hub: atlas
 title: Biometric E-Gates
-summary: Automated border control systems using facial and biometric recognition.
+summary: Automated border control gates using facial recognition and biometric verification
+  to process travelers
 permalink: https://www.envisioning.com/atlas/biometric-e-gates
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123889/atlas
 
 ## Summary
 
-Automated border control systems using facial and biometric recognition.
+Automated border control gates using facial recognition and biometric verification to process travelers
 
 ## Description
 

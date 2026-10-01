@@ -2,7 +2,8 @@
 slug: just-transition-frameworks
 hub: grid
 title: Just Transition Frameworks
-summary: Policies and programs supporting workers and communities leaving fossil fuels.
+summary: Policy frameworks ensuring fossil fuel workers and communities aren't left
+  behind in the energy transition
 permalink: https://www.envisioning.com/grid/just-transition-frameworks
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436017/grid/
 
 ## Summary
 
-Policies and programs supporting workers and communities leaving fossil fuels.
+Policy frameworks ensuring fossil fuel workers and communities aren't left behind in the energy transition
 
 ## Description
 

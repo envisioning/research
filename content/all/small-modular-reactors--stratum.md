@@ -2,7 +2,8 @@
 slug: small-modular-reactors
 hub: stratum
 title: Small Modular Reactors (SMRs)
-summary: Compact nuclear fission reactors providing reliable off-grid power.
+summary: Factory-built nuclear reactors delivering scalable power for remote industrial
+  sites
 permalink: https://www.envisioning.com/stratum/small-modular-reactors
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135074/strat
 
 ## Summary
 
-Compact nuclear fission reactors providing reliable off-grid power.
+Factory-built nuclear reactors delivering scalable power for remote industrial sites
 
 ## Description
 

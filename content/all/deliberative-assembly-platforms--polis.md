@@ -2,7 +2,8 @@
 slug: deliberative-assembly-platforms
 hub: polis
 title: Deliberative Assembly Platforms
-summary: Digital tools for structured, large-scale citizen deliberation and consensus-building.
+summary: Digital platforms enabling structured citizen deliberation and consensus-building
+  at scale
 permalink: https://www.envisioning.com/polis/deliberative-assembly-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126438/polis
 
 ## Summary
 
-Digital tools for structured, large-scale citizen deliberation and consensus-building.
+Digital platforms enabling structured citizen deliberation and consensus-building at scale
 
 ## Description
 

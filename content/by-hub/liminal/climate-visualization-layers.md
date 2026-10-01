@@ -2,7 +2,8 @@
 slug: climate-visualization-layers
 hub: liminal
 title: Climate Visualization Layers
-summary: Overlaying environmental data and climate futures onto landscapes.
+summary: Augmented reality overlays that render climate data and environmental futures
+  onto physical landscapes
 permalink: https://www.envisioning.com/liminal/climate-visualization-layers
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123771/limin
 
 ## Summary
 
-Overlaying environmental data and climate futures onto landscapes.
+Augmented reality overlays that render climate data and environmental futures onto physical landscapes
 
 ## Description
 

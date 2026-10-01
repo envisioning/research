@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 5
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886805/agora/technologies/40979e06-4b5d-44e3-8b3c-c7ed6ffc803d-google-gemini-3.1-flash-image-preview-0dqs5g.png
 ---
 
 # Digital Rights Enforcement Mechanisms

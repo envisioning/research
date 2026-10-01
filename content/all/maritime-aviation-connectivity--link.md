@@ -2,7 +2,8 @@
 slug: maritime-aviation-connectivity
 hub: link
 title: Maritime & Aviation Connectivity
-summary: High-throughput connectivity for ships, aircraft, and offshore platforms.
+summary: High-speed satellite and cellular networks for ships, aircraft, and offshore
+  operations
 permalink: https://www.envisioning.com/link/maritime-aviation-connectivity
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441829/link/
 
 ## Summary
 
-High-throughput connectivity for ships, aircraft, and offshore platforms.
+High-speed satellite and cellular networks for ships, aircraft, and offshore operations
 
 ## Description
 

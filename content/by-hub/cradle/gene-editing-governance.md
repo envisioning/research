@@ -2,7 +2,7 @@
 slug: gene-editing-governance
 hub: cradle
 title: Gene Editing Governance
-summary: Regulating germline modifications.
+summary: Frameworks and standards for regulating heritable human genetic modifications
 permalink: https://www.envisioning.com/cradle/gene-editing-governance
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131161/cradl
 
 ## Summary
 
-Regulating germline modifications.
+Frameworks and standards for regulating heritable human genetic modifications
 
 ## Description
 

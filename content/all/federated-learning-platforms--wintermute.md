@@ -2,7 +2,8 @@
 slug: federated-learning-platforms
 hub: wintermute
 title: Federated Learning Platforms
-summary: Privacy-preserving training across distributed devices and institutions.
+summary: Training AI models across distributed devices without centralizing sensitive
+  data
 permalink: https://www.envisioning.com/wintermute/federated-learning-platforms
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080447/winte
 
 ## Summary
 
-Privacy-preserving training across distributed devices and institutions.
+Training AI models across distributed devices without centralizing sensitive data
 
 ## Description
 

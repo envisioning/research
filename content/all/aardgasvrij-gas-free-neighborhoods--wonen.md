@@ -9,7 +9,7 @@ collection: energy-sustainability
 trl: 4
 impact: 3
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889833/wonen/technologies/8e62e5e4-2997-4e70-a5a7-065d74d72e1c-google-gemini-3.1-flash-image-preview-63xvei.png
 ---
 
 # Aardgasvrij (Gas-Free Neighborhoods)

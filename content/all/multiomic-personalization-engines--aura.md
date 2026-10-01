@@ -2,7 +2,8 @@
 slug: multiomic-personalization-engines
 hub: aura
 title: Multi-Omic Personalization Engines
-summary: Pipelines fusing genomics, epigenomics, and microbiome data.
+summary: Platforms that analyze genomics, microbiome, and metabolic data to personalize
+  beauty and wellness products
 permalink: https://www.envisioning.com/aura/multiomic-personalization-engines
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995721/aura/
 
 ## Summary
 
-Pipelines fusing genomics, epigenomics, and microbiome data.
+Platforms that analyze genomics, microbiome, and metabolic data to personalize beauty and wellness products
 
 ## Description
 

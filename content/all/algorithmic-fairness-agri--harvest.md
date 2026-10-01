@@ -2,7 +2,7 @@
 slug: algorithmic-fairness-agri
 hub: harvest
 title: Algorithmic Fairness in Agri-Finance
-summary: Auditable AI to prevent lending bias.
+summary: Bias-auditing tools for agricultural lending and insurance algorithms
 permalink: https://www.envisioning.com/harvest/algorithmic-fairness-agri
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128329/harve
 
 ## Summary
 
-Auditable AI to prevent lending bias.
+Bias-auditing tools for agricultural lending and insurance algorithms
 
 ## Description
 

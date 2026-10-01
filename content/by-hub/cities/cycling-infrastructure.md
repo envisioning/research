@@ -2,14 +2,10 @@
 slug: cycling-infrastructure
 hub: cities
 title: Cycling Infrastructure
-summary: Encompassing bike lanes, parking facilities, and underground parking systems,
-  this solution addresses traffic congestion, air pollution and the need for sustainable
-  and accessible transportation options. This infrastructure provides a dedicated
-  space for cyclists, reducing the risk of accidents and promoting cycling as a viable
-  alternative to car travel. By encouraging more people to cycle, cities can significantly
-  lower their carbon emissions, improve air quality, and enhance public health.
+summary: Dedicated bike lanes, parking, and storage systems that reduce traffic and
+  promote sustainable transport
 permalink: https://www.envisioning.com/cities/cycling-infrastructure
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 9
 impact: 3
 investment: 3
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869518-cycling-infrastructu
 
 ## Summary
 
-Encompassing bike lanes, parking facilities, and underground parking systems, this solution addresses traffic congestion, air pollution and the need for sustainable and accessible transportation options. This infrastructure provides a dedicated space for cyclists, reducing the risk of accidents and promoting cycling as a viable alternative to car travel. By encouraging more people to cycle, cities can significantly lower their carbon emissions, improve air quality, and enhance public health.
+Dedicated bike lanes, parking, and storage systems that reduce traffic and promote sustainable transport
 
 ## Description
 

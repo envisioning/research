@@ -2,7 +2,8 @@
 slug: autonomous-cognitive-workers
 hub: wintermute
 title: Autonomous Cognitive Workers
-summary: Full-stack digital employees operating within defined guardrails.
+summary: AI agents handling research, analysis, and development tasks with minimal
+  human oversight
 permalink: https://www.envisioning.com/wintermute/autonomous-cognitive-workers
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985495/winte
 
 ## Summary
 
-Full-stack digital employees operating within defined guardrails.
+AI agents handling research, analysis, and development tasks with minimal human oversight
 
 ## Description
 

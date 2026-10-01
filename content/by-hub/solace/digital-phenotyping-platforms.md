@@ -2,8 +2,8 @@
 slug: digital-phenotyping-platforms
 hub: solace
 title: Ethical Digital Phenotyping
-summary: Tools for early detection of mental health issues via device interaction
-  patterns.
+summary: Monitors device interaction patterns to detect early signs of mental health
+  changes
 permalink: https://www.envisioning.com/solace/digital-phenotyping-platforms
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133082/solac
 
 ## Summary
 
-Tools for early detection of mental health issues via device interaction patterns.
+Monitors device interaction patterns to detect early signs of mental health changes
 
 ## Description
 

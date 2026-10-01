@@ -3,7 +3,6 @@ slug: philanthropy-navigating-sanctions-nationalism
 hub: agape
 title: Philanthropy Navigating Sanctions & Nationalism
 summary: Philanthropy navigating sanctions, nationalism, and regulation, as geopolitical
-  tensions constrain cross-border action.
 permalink: https://www.envisioning.com/agape/philanthropy-navigating-sanctions-nationalism
 collection: geopolitics-planet-polycrisis
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372091/agape
 
 ## Summary
 
-Philanthropy navigating sanctions, nationalism, and regulation, as geopolitical tensions constrain cross-border action.
+Philanthropy navigating sanctions, nationalism, and regulation, as geopolitical
 
 ## Description
 

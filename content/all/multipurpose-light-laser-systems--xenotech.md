@@ -2,22 +2,21 @@
 slug: multipurpose-light-laser-systems
 hub: xenotech
 title: Multi-purpose Light Systems
-summary: Integrated photonic technology using variable-frequency coherent light for
-  communication, construction, navigation, scanning, and energy transfer across all
-  craft systems.
+summary: Variable-frequency light systems for communication, energy transfer, scanning,
+  and construction
 permalink: https://www.envisioning.com/xenotech/multipurpose-light-laser-systems
 collection: defense-surveillance
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762026257/xenotech/technologies/multipurpose-light-laser-systems-openai-gpt-5-dmai7i.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898952/xenotech/technologies/multipurpose-light-laser-systems-openrouter-google-gemini-3.1-flash-image-preview-vy7014.png
 ---
 
 # Multi-purpose Light Systems
 
 ## Summary
 
-Integrated photonic technology using variable-frequency coherent light for communication, construction, navigation, scanning, and energy transfer across all craft systems.
+Variable-frequency light systems for communication, energy transfer, scanning, and construction
 
 ## Description
 

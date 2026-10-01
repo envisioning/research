@@ -2,7 +2,8 @@
 slug: reproductive-data-trusts
 hub: cradle
 title: Reproductive Data Trusts
-summary: New governance vehicles for lifelong reproductive data.
+summary: Governance frameworks for managing sensitive reproductive and genetic health
+  data across the fertility-to-birth journey
 permalink: https://www.envisioning.com/cradle/reproductive-data-trusts
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131188/cradl
 
 ## Summary
 
-New governance vehicles for lifelong reproductive data.
+Governance frameworks for managing sensitive reproductive and genetic health data across the fertility-to-birth journey
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: athlete-data-fusion-platforms
 hub: stride
 title: Athlete Data Fusion Platforms
-summary: Unified data layers integrating tracking, wearables, labs, and medical records.
+summary: Platforms that combine tracking, wearables, lab tests, and medical data into
+  one athlete profile
 permalink: https://www.envisioning.com/stride/athlete-data-fusion-platforms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128401/strid
 
 ## Summary
 
-Unified data layers integrating tracking, wearables, labs, and medical records.
+Platforms that combine tracking, wearables, lab tests, and medical data into one athlete profile
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: intergenerational-smart-contracts
 hub: continuum
 title: Intergenerational Smart Contracts
-summary: Blockchain protocols protecting resources for future generations.
+summary: Self-executing blockchain agreements that lock resources or decisions across
+  generational timescales
 permalink: https://www.envisioning.com/continuum/intergenerational-smart-contracts
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124627/conti
 
 ## Summary
 
-Blockchain protocols protecting resources for future generations.
+Self-executing blockchain agreements that lock resources or decisions across generational timescales
 
 ## Description
 

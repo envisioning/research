@@ -2,7 +2,8 @@
 slug: haptic-force-feedback-materials
 hub: pixels
 title: Haptic & Force-Feedback Materials
-summary: Soft-robotic haptics and programmable friction surfaces.
+summary: Wearable materials that simulate touch, weight, and texture through soft
+  robotics and programmable surfaces
 permalink: https://www.envisioning.com/pixels/haptic-force-feedback-materials
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062203/pixel
 
 ## Summary
 
-Soft-robotic haptics and programmable friction surfaces.
+Wearable materials that simulate touch, weight, and texture through soft robotics and programmable surfaces
 
 ## Description
 

@@ -2,21 +2,20 @@
 slug: universal-translator
 hub: subspace
 title: Universal Translator
-summary: Real-time language translation system enabling communication across alien
-  species.
+summary: Real-time translation bridging communication between humans and alien species
 permalink: https://www.envisioning.com/subspace/universal-translator
 collection: computing
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208858/subspaceindex/technologies/universal-translator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909687/subspace/technologies/universal-translator-openrouter-google-gemini-3.1-flash-image-preview-6lxg43.png
 ---
 
 # Universal Translator
 
 ## Summary
 
-Real-time language translation system enabling communication across alien species.
+Real-time translation bridging communication between humans and alien species
 
 ## Description
 

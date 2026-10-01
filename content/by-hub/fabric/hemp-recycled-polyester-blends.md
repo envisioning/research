@@ -2,7 +2,8 @@
 slug: hemp-recycled-polyester-blends
 hub: fabric
 title: Hemp and Recycled Polyester Blended Fabrics
-summary: Sustainable hybrid textiles combining natural durability with recycled performance.
+summary: Textiles blending hemp fiber with recycled polyester for durable, low-impact
+  apparel
 permalink: https://www.envisioning.com/fabric/hemp-recycled-polyester-blends
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058156/threa
 
 ## Summary
 
-Sustainable hybrid textiles combining natural durability with recycled performance.
+Textiles blending hemp fiber with recycled polyester for durable, low-impact apparel
 
 ## Description
 

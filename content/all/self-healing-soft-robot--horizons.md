@@ -2,9 +2,10 @@
 slug: self-healing-soft-robot
 hub: horizons
 title: Self-Healing Soft Robot
-summary: Flexible robots capable of autonomously repairing physical damage.
+summary: Flexible robots that autonomously repair physical damage using self-healing
+  polymers
 permalink: https://www.envisioning.com/horizons/self-healing-soft-robot
-collection: materials-making
+collection: hardware
 trl: 4
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522027/horiz
 
 ## Summary
 
-Flexible robots capable of autonomously repairing physical damage.
+Flexible robots that autonomously repair physical damage using self-healing polymers
 
 ## Description
 

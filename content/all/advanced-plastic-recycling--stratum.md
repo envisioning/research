@@ -2,7 +2,8 @@
 slug: advanced-plastic-recycling
 hub: stratum
 title: Advanced Plastics Recycling (Chemical)
-summary: Breaking down polymers to monomers or fuels via pyrolysis and depolymerization.
+summary: Breaking down plastic waste into reusable monomers or fuels through pyrolysis
+  and depolymerization
 permalink: https://www.envisioning.com/stratum/advanced-plastic-recycling
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179191/strat
 
 ## Summary
 
-Breaking down polymers to monomers or fuels via pyrolysis and depolymerization.
+Breaking down plastic waste into reusable monomers or fuels through pyrolysis and depolymerization
 
 ## Description
 

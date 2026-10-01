@@ -2,7 +2,8 @@
 slug: vr-palliative-therapy
 hub: eclipse
 title: VR Palliative Therapy
-summary: Immersive experiences for pain and anxiety management.
+summary: Immersive digital environments to manage pain and anxiety in hospice and
+  palliative care
 permalink: https://www.envisioning.com/eclipse/vr-palliative-therapy
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127103/eclip
 
 ## Summary
 
-Immersive experiences for pain and anxiety management.
+Immersive digital environments to manage pain and anxiety in hospice and palliative care
 
 ## Description
 

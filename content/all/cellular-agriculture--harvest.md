@@ -2,7 +2,7 @@
 slug: cellular-agriculture
 hub: harvest
 title: Cellular Agriculture
-summary: Cultivating meat and dairy from cells.
+summary: Growing meat, dairy, and other animal products directly from cells in bioreactors
 permalink: https://www.envisioning.com/harvest/cellular-agriculture
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128119/harve
 
 ## Summary
 
-Cultivating meat and dairy from cells.
+Growing meat, dairy, and other animal products directly from cells in bioreactors
 
 ## Description
 

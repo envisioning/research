@@ -2,7 +2,8 @@
 slug: anonymous-intimacy-platforms
 hub: eros
 title: Anonymous & Pseudonymous Intimacy Platforms
-summary: Spaces for vulnerable sharing without identity exposure.
+summary: Digital spaces enabling emotional vulnerability and connection while protecting
+  user identity through anonymity
 permalink: https://www.envisioning.com/eros/anonymous-intimacy-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123976/eros/
 
 ## Summary
 
-Spaces for vulnerable sharing without identity exposure.
+Digital spaces enabling emotional vulnerability and connection while protecting user identity through anonymity
 
 ## Description
 

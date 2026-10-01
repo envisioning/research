@@ -2,9 +2,8 @@
 slug: passivas-tropicais-resfriamento-passivo-baixo-custo
 hub: moradia
 title: Passivas Tropicais e Resfriamento Passivo de Baixo Custo
-summary: Tecnologias de resfriamento passivo otimizadas para clima tropical brasileiro,
-  incluindo tintas refletivas (Cool Roofs), ventilação induzida, sombreamento e estratégias
-  de baixo custo que são escaláveis em favelas e habitação popular.
+summary: Soluções de resfriamento sem energia elétrica adaptadas ao clima tropical
+  brasileiro
 permalink: https://www.envisioning.com/moradia/passivas-tropicais-resfriamento-passivo-baixo-custo
 collection: materiais-componentes
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766783995/morad
 
 ## Summary
 
-Tecnologias de resfriamento passivo otimizadas para clima tropical brasileiro, incluindo tintas refletivas (Cool Roofs), ventilação induzida, sombreamento e estratégias de baixo custo que são escaláveis em favelas e habitação popular.
+Soluções de resfriamento sem energia elétrica adaptadas ao clima tropical brasileiro
 
 ## Description
 

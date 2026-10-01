@@ -2,7 +2,8 @@
 slug: longevity-risk-modeling
 hub: vault
 title: Longevity & Mortality Risk Platforms
-summary: Actuarial tools for aging populations.
+summary: Platforms modeling lifespan risk using genomics, health data, and AI for
+  insurers and pension funds
 permalink: https://www.envisioning.com/vault/longevity-risk-modeling
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129191/vault
 
 ## Summary
 
-Actuarial tools for aging populations.
+Platforms modeling lifespan risk using genomics, health data, and AI for insurers and pension funds
 
 ## Description
 

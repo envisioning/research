@@ -2,8 +2,8 @@
 slug: tele-icu-and-virtual-specialists
 hub: vitals
 title: Tele-ICU & Virtual Specialist Networks
-summary: Hub-and-spoke models providing remote intensivist and specialist support
-  to community hospitals.
+summary: Remote intensivist and specialist support connecting community hospitals
+  to centralized critical care teams
 permalink: https://www.envisioning.com/vitals/tele-icu-and-virtual-specialists
 collection: applications
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115382/vital
 
 ## Summary
 
-Hub-and-spoke models providing remote intensivist and specialist support to community hospitals.
+Remote intensivist and specialist support connecting community hospitals to centralized critical care teams
 
 ## Description
 

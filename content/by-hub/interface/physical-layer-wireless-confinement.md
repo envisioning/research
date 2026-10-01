@@ -2,14 +2,13 @@
 slug: physical-layer-wireless-confinement
 hub: interface
 title: Physical-Layer Wireless Confinement
-summary: Advanced wireless security technologies using E-field communication that
-  confines signals in a 10cm bubble, providing privacy-by-physics connectivity for
-  zero-trust environments.
+summary: Wireless data transmission confined to a 10cm bubble using electric fields
+  instead of radio waves
 permalink: https://www.envisioning.com/interface/physical-layer-wireless-confinement
-collection: advanced-interaction-modalities
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743234/interface/technologies/physical-layer-wireless-confinement-google-gemini-3-pro-image-preview-596de7.jpg
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743234/inter
 
 ## Summary
 
-Advanced wireless security technologies using E-field communication that confines signals in a 10cm bubble, providing privacy-by-physics connectivity for zero-trust environments.
+Wireless data transmission confined to a 10cm bubble using electric fields instead of radio waves
 
 ## Description
 

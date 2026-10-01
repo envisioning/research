@@ -2,8 +2,8 @@
 slug: subdivisao-informal-unidades
 hub: moradia
 title: Subdivisão Informal de Unidades Habitacionais
-summary: Divisão de unidades habitacionais existentes em espaços menores para locação,
-  criando modelos de micro-habitação através de adaptação do estoque existente.
+summary: Divisão não regulamentada de imóveis em espaços menores para locação de baixo
+  custo
 permalink: https://www.envisioning.com/moradia/subdivisao-informal-unidades
 collection: metodos-execucao-obra
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668052/habit
 
 ## Summary
 
-Divisão de unidades habitacionais existentes em espaços menores para locação, criando modelos de micro-habitação através de adaptação do estoque existente.
+Divisão não regulamentada de imóveis em espaços menores para locação de baixo custo
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: biometric-sensors
 hub: sentinel
 title: Biometric Sensors & Liveness Detection
-summary: Hardware sensors with anti-spoofing capabilities for fingerprint, face, and
-  iris authentication.
+summary: Hardware sensors that detect spoofing attempts during fingerprint, face,
+  and iris authentication
 permalink: https://www.envisioning.com/sentinel/biometric-sensors
 collection: hardware
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461551/senti
 
 ## Summary
 
-Hardware sensors with anti-spoofing capabilities for fingerprint, face, and iris authentication.
+Hardware sensors that detect spoofing attempts during fingerprint, face, and iris authentication
 
 ## Description
 

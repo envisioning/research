@@ -2,7 +2,8 @@
 slug: decentralized-identity-systems
 hub: soma
 title: Decentralized Identity Systems
-summary: Self-sovereign protocols and orchestration layers for cross-platform identity.
+summary: User-controlled digital identity protocols that work across platforms without
+  central authorities
 permalink: https://www.envisioning.com/soma/decentralized-identity-systems
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132987/soma/
 
 ## Summary
 
-Self-sovereign protocols and orchestration layers for cross-platform identity.
+User-controlled digital identity protocols that work across platforms without central authorities
 
 ## Description
 

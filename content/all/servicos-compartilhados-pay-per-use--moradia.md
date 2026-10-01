@@ -2,8 +2,8 @@
 slug: servicos-compartilhados-pay-per-use
 hub: moradia
 title: Serviços Compartilhados Pay-per-Use
-summary: Infraestrutura compartilhada (lavanderias, espaços flexíveis) como serviço
-  com pagamento por uso em condomínios e edifícios residenciais.
+summary: Lavanderias e espaços comuns em condomínios operados como serviços pagos
+  por uso via app
 permalink: https://www.envisioning.com/moradia/servicos-compartilhados-pay-per-use
 collection: sistemas-prediais-automacao
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360036/habit
 
 ## Summary
 
-Infraestrutura compartilhada (lavanderias, espaços flexíveis) como serviço com pagamento por uso em condomínios e edifícios residenciais.
+Lavanderias e espaços comuns em condomínios operados como serviços pagos por uso via app
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: digital-heritage-preservation
 hub: pixels
 title: Digital Heritage Preservation
-summary: Archiving discontinued live-service worlds as cultural artifacts.
+summary: Archiving shuttered online games and virtual worlds as playable cultural
+  records
 permalink: https://www.envisioning.com/pixels/digital-heritage-preservation
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012242/pixel
 
 ## Summary
 
-Archiving discontinued live-service worlds as cultural artifacts.
+Archiving shuttered online games and virtual worlds as playable cultural records
 
 ## Description
 

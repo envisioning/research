@@ -2,7 +2,8 @@
 slug: cognitive-liberty-frameworks
 hub: solace
 title: Cognitive Liberty Frameworks
-summary: Standards to protect mental privacy and freedom of thought.
+summary: Legal and ethical standards protecting mental privacy and freedom from neural
+  manipulation
 permalink: https://www.envisioning.com/solace/cognitive-liberty-frameworks
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133115/solac
 
 ## Summary
 
-Standards to protect mental privacy and freedom of thought.
+Legal and ethical standards protecting mental privacy and freedom from neural manipulation
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: swim-interoperability
 hub: altitude
 title: System Wide Information Management (SWIM) Interoperability
-summary: Standardized aviation data exchange across stakeholders.
+summary: Service-oriented architecture enabling real-time aviation data sharing across
+  airlines, ATC, and airports
 permalink: https://www.envisioning.com/altitude/swim-interoperability
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642483/altit
 
 ## Summary
 
-Standardized aviation data exchange across stakeholders.
+Service-oriented architecture enabling real-time aviation data sharing across airlines, ATC, and airports
 
 ## Description
 

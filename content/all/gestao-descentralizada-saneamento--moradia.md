@@ -2,7 +2,8 @@
 slug: gestao-descentralizada-saneamento
 hub: moradia
 title: Gestão Descentralizada de Saneamento
-summary: Modelos de gestão de água e esgoto em nível de bairro ou distrito.
+summary: Tratamento de água e esgoto em escala de bairro, sem depender de grandes
+  estações centralizadas
 permalink: https://www.envisioning.com/moradia/gestao-descentralizada-saneamento
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766585784/habit
 
 ## Summary
 
-Modelos de gestão de água e esgoto em nível de bairro ou distrito.
+Tratamento de água e esgoto em escala de bairro, sem depender de grandes estações centralizadas
 
 ## Description
 

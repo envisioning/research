@@ -2,7 +2,8 @@
 slug: electrospun-nanofiber-fabrics
 hub: fabric
 title: Electrospun Nanofiber Fabrics
-summary: Ultrafine fiber mats for medical textiles, filtration, and performance wear.
+summary: Electrically spun polymer fibers creating ultra-breathable, high-filtration
+  fabric structures
 permalink: https://www.envisioning.com/fabric/electrospun-nanofiber-fabrics
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058635/threa
 
 ## Summary
 
-Ultrafine fiber mats for medical textiles, filtration, and performance wear.
+Electrically spun polymer fibers creating ultra-breathable, high-filtration fabric structures
 
 ## Description
 

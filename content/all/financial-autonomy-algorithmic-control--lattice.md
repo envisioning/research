@@ -2,7 +2,8 @@
 slug: financial-autonomy-algorithmic-control
 hub: lattice
 title: Financial Autonomy & Algorithmic Control
-summary: Risks of opaque financial decisions by autonomous agents.
+summary: Oversight mechanisms for AI-driven financial systems to prevent runaway market
+  behavior
 permalink: https://www.envisioning.com/lattice/financial-autonomy-algorithmic-control
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010143/flows
 
 ## Summary
 
-Risks of opaque financial decisions by autonomous agents.
+Oversight mechanisms for AI-driven financial systems to prevent runaway market behavior
 
 ## Description
 

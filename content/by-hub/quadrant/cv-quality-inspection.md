@@ -2,7 +2,8 @@
 slug: cv-quality-inspection
 hub: quadrant
 title: Computer Vision Quality Inspection
-summary: Autonomous visual defect detection and classification.
+summary: Automated visual defect detection using deep learning to replace manual quality
+  control
 permalink: https://www.envisioning.com/quadrant/cv-quality-inspection
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126934/quadr
 
 ## Summary
 
-Autonomous visual defect detection and classification.
+Automated visual defect detection using deep learning to replace manual quality control
 
 ## Description
 

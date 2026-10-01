@@ -2,21 +2,21 @@
 slug: dna-phantom-effect
 hub: xenotech
 title: DNA Phantom Effect
-summary: Controversial claims that DNA emits photons detectable after physical removal,
-  and can transfer genetic information via electromagnetic fields.
+summary: Claim that DNA leaves detectable electromagnetic patterns in space after
+  physical removal
 permalink: https://www.envisioning.com/xenotech/dna-phantom-effect
 collection: biology-hybridization
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760984251/xenotech/technologies/dna-phantom-effect.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898057/xenotech/technologies/dna-phantom-effect-openrouter-google-gemini-3.1-flash-image-preview-2lu28g.png
 ---
 
 # DNA Phantom Effect
 
 ## Summary
 
-Controversial claims that DNA emits photons detectable after physical removal, and can transfer genetic information via electromagnetic fields.
+Claim that DNA leaves detectable electromagnetic patterns in space after physical removal
 
 ## Description
 

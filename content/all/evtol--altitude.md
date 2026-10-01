@@ -2,19 +2,20 @@
 slug: evtol
 hub: altitude
 title: eVTOL
-summary: Electric vertical takeoff and landing aircraft; low emission, low noise air taxis.
+summary: Electric aircraft for vertical takeoff, landing, and urban air taxi services
 permalink: https://www.envisioning.com/altitude/evtol
 collection: applications
 trl: 6
 impact: 5
 investment: 5
+image_url: null
 ---
 
 # eVTOL
 
 ## Summary
 
-Electric vertical takeoff and landing aircraft; low emission, low noise air taxis.
+Electric aircraft for vertical takeoff, landing, and urban air taxi services
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: smart-safety-wearables
 hub: stratum
 title: Smart Worker Safety Wearables
-summary: IoT devices monitoring environmental hazards and vital signs.
+summary: Wearable sensors tracking worker vitals and hazards in real time to prevent
+  industrial accidents
 permalink: https://www.envisioning.com/stratum/smart-safety-wearables
 collection: ethics-security
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179292/strat
 
 ## Summary
 
-IoT devices monitoring environmental hazards and vital signs.
+Wearable sensors tracking worker vitals and hazards in real time to prevent industrial accidents
 
 ## Description
 

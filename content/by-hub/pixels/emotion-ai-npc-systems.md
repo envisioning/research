@@ -2,7 +2,8 @@
 slug: emotion-ai-npc-systems
 hub: pixels
 title: Emotion AI for NPCs
-summary: Affective computing stacks driving believable NPC moods and responses.
+summary: AI systems that model NPC emotions to drive realistic moods, dialogue, and
+  reactions
 permalink: https://www.envisioning.com/pixels/emotion-ai-npc-systems
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062220/pixel
 
 ## Summary
 
-Affective computing stacks driving believable NPC moods and responses.
+AI systems that model NPC emotions to drive realistic moods, dialogue, and reactions
 
 ## Description
 

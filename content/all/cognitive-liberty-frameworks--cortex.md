@@ -2,7 +2,7 @@
 slug: cognitive-liberty-frameworks
 hub: cortex
 title: Cognitive Liberty Frameworks
-summary: Legal rights to mental privacy and integrity.
+summary: Legal protections for mental privacy and freedom from neural interference
 permalink: https://www.envisioning.com/cortex/cognitive-liberty-frameworks
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996142/corte
 
 ## Summary
 
-Legal rights to mental privacy and integrity.
+Legal protections for mental privacy and freedom from neural interference
 
 ## Description
 

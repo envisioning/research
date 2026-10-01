@@ -2,7 +2,8 @@
 slug: orbital-traffic-management
 hub: apogee
 title: Orbital Traffic Management Systems
-summary: Predictive systems for collision avoidance and maneuver negotiation.
+summary: Automated collision prediction and maneuver coordination for satellites in
+  crowded orbits
 permalink: https://www.envisioning.com/apogee/orbital-traffic-management
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180706/apoge
 
 ## Summary
 
-Predictive systems for collision avoidance and maneuver negotiation.
+Automated collision prediction and maneuver coordination for satellites in crowded orbits
 
 ## Description
 

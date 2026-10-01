@@ -2,7 +2,8 @@
 slug: norms-autonomous-cyber-operations
 hub: aegis
 title: Norms for Autonomous Cyber Operations
-summary: Guidelines for when autonomous cyber agents may act without humans.
+summary: Governance frameworks defining when AI-driven cyber systems can operate independently
+  in conflict
 permalink: https://www.envisioning.com/aegis/norms-autonomous-cyber-operations
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010685/aegis
 
 ## Summary
 
-Guidelines for when autonomous cyber agents may act without humans.
+Governance frameworks defining when AI-driven cyber systems can operate independently in conflict
 
 ## Description
 

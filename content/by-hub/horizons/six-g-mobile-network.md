@@ -2,9 +2,10 @@
 slug: six-g-mobile-network
 hub: horizons
 title: 6G Mobile Network
-summary: Next-gen wireless delivering terabit speeds and native AI integration.
+summary: Next-generation wireless with terabit speeds, sub-millisecond latency, and
+  AI integration
 permalink: https://www.envisioning.com/horizons/six-g-mobile-network
-collection: cities-mobility
+collection: hardware
 trl: 3
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521267/horiz
 
 ## Summary
 
-Next-gen wireless delivering terabit speeds and native AI integration.
+Next-generation wireless with terabit speeds, sub-millisecond latency, and AI integration
 
 ## Description
 

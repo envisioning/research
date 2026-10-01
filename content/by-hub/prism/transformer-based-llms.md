@@ -2,7 +2,8 @@
 slug: transformer-based-llms
 hub: prism
 title: Transformer-based LLMs
-summary: Foundation models enabling general-purpose text generation and reasoning.
+summary: Neural networks that generate human-like text, code, and summaries using
+  attention mechanisms
 permalink: https://www.envisioning.com/prism/transformer-based-llms
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074628/pulse
 
 ## Summary
 
-Foundation models enabling general-purpose text generation and reasoning.
+Neural networks that generate human-like text, code, and summaries using attention mechanisms
 
 ## Description
 

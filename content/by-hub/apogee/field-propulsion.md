@@ -2,19 +2,21 @@
 slug: field-propulsion
 hub: apogee
 title: Field Propulsion
-summary: Electrodynamic tether, electrodeless plasma thruster; reduction of propellant requirements.
+summary: Propulsion systems using electromagnetic fields to reduce or eliminate onboard
+  propellant mass
 permalink: https://www.envisioning.com/apogee/field-propulsion
 collection: hardware
 trl: 5
 impact: 5
 investment: 4
+image_url: null
 ---
 
 # Field Propulsion
 
 ## Summary
 
-Electrodynamic tether, electrodeless plasma thruster; reduction of propellant requirements.
+Propulsion systems using electromagnetic fields to reduce or eliminate onboard propellant mass
 
 ## Description
 

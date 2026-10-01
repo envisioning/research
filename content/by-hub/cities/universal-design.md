@@ -2,14 +2,10 @@
 slug: universal-design
 hub: cities
 title: Universal Design
-summary: Universal Design is an essential approach to creating accessible and inclusive
-  urban environments. It aims to solve the problem of exclusion faced by individuals
-  with disabilities, the elderly, and others with varying physical abilities, ensuring
-  they can fully participate in urban life. It includes features like ramps, tactile
-  indicators, and auditory signals in public spaces, transportation systems, and residential
-  housing, making them usable by everyone. It also applies to public digital services.
+summary: Design principles ensuring urban spaces, services, and infrastructure are
+  accessible to people of all abilities
 permalink: https://www.envisioning.com/cities/universal-design
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: ethics-security
 trl: 9
 impact: 4
 investment: 3
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719402650-universal-design.png
 
 ## Summary
 
-Universal Design is an essential approach to creating accessible and inclusive urban environments. It aims to solve the problem of exclusion faced by individuals with disabilities, the elderly, and others with varying physical abilities, ensuring they can fully participate in urban life. It includes features like ramps, tactile indicators, and auditory signals in public spaces, transportation systems, and residential housing, making them usable by everyone. It also applies to public digital services.
+Design principles ensuring urban spaces, services, and infrastructure are accessible to people of all abilities
 
 ## Description
 

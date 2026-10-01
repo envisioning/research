@@ -2,8 +2,8 @@
 slug: hubs-resiliencia-servicos-essenciais
 hub: moradia
 title: Hubs de Resiliência para Serviços Essenciais
-summary: Estruturas locais com energia, conectividade e água para manter serviços
-  em crises.
+summary: Instalações locais com energia, água e conectividade autônomas para manter
+  serviços durante crises
 permalink: https://www.envisioning.com/moradia/hubs-resiliencia-servicos-essenciais
 collection: modelos-mercado-governanca
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359671/conec
 
 ## Summary
 
-Estruturas locais com energia, conectividade e água para manter serviços em crises.
+Instalações locais com energia, água e conectividade autônomas para manter serviços durante crises
 
 ## Description
 

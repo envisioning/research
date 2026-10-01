@@ -2,7 +2,8 @@
 slug: location-based-massive-events
 hub: pixels
 title: Location-Based Massive Events
-summary: City-scale AR games coordinating tens of thousands of players.
+summary: Coordinating city-wide AR events with synchronized quests, holograms, and
+  live crowd management
 permalink: https://www.envisioning.com/pixels/location-based-massive-events
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011564/pixel
 
 ## Summary
 
-City-scale AR games coordinating tens of thousands of players.
+Coordinating city-wide AR events with synchronized quests, holograms, and live crowd management
 
 ## Description
 

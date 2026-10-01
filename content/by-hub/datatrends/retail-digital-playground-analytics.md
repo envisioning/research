@@ -2,8 +2,8 @@
 slug: retail-digital-playground-analytics
 hub: datatrends
 title: Retail Digital Experience Analytics
-summary: Analyzing and optimizing digital retail experiences, including online shopping,
-  virtual stores, and immersive retail environments.
+summary: Tracking customer behavior across e-commerce, virtual stores, and AR shopping
+  experiences
 permalink: https://www.envisioning.com/datatrends/retail-digital-playground-analytics
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769385/datat
 
 ## Summary
 
-Analyzing and optimizing digital retail experiences, including online shopping, virtual stores, and immersive retail environments.
+Tracking customer behavior across e-commerce, virtual stores, and AR shopping experiences
 
 ## Description
 

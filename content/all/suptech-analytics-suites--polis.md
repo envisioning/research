@@ -2,7 +2,8 @@
 slug: suptech-analytics-suites
 hub: polis
 title: SupTech Analytics Suites
-summary: Advanced analytics tools used by supervisors to oversee regulated sectors.
+summary: Software platforms that automate regulatory data analysis for supervisory
+  bodies
 permalink: https://www.envisioning.com/polis/suptech-analytics-suites
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127201/polis
 
 ## Summary
 
-Advanced analytics tools used by supervisors to oversee regulated sectors.
+Software platforms that automate regulatory data analysis for supervisory bodies
 
 ## Description
 

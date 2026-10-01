@@ -2,7 +2,8 @@
 slug: neuromorphic-intelligence-processors
 hub: meridian
 title: Neuromorphic Intelligence Processors
-summary: Brain-inspired chips for real-time analysis.
+summary: Brain-inspired chips that process information like biological neural networks
+  for efficient real-time analysis
 permalink: https://www.envisioning.com/meridian/neuromorphic-intelligence-processors
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129182/merid
 
 ## Summary
 
-Brain-inspired chips for real-time analysis.
+Brain-inspired chips that process information like biological neural networks for efficient real-time analysis
 
 ## Description
 

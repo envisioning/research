@@ -2,7 +2,8 @@
 slug: explainable-ai-admin-systems
 hub: polis
 title: Explainable AI for Administrative Decisions
-summary: Transparent reasoning chains for AI-driven government determinations.
+summary: AI systems that justify government decisions with transparent, auditable
+  reasoning
 permalink: https://www.envisioning.com/polis/explainable-ai-admin-systems
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127281/polis
 
 ## Summary
 
-Transparent reasoning chains for AI-driven government determinations.
+AI systems that justify government decisions with transparent, auditable reasoning
 
 ## Description
 

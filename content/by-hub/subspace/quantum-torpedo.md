@@ -2,21 +2,21 @@
 slug: quantum-torpedo
 hub: subspace
 title: Quantum Torpedo
-summary: Advanced torpedo utilizing zero-point energy extraction for enhanced destructive
-  capability.
+summary: Fictional weapon harnessing zero-point energy for compact, high-yield space
+  combat
 permalink: https://www.envisioning.com/subspace/quantum-torpedo
 collection: weapons
 trl: 4
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208489/subspaceindex/technologies/quantum-torpedo.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908810/subspace/technologies/quantum-torpedo-openrouter-google-gemini-3.1-flash-image-preview-y9fyy2.png
 ---
 
 # Quantum Torpedo
 
 ## Summary
 
-Advanced torpedo utilizing zero-point energy extraction for enhanced destructive capability.
+Fictional weapon harnessing zero-point energy for compact, high-yield space combat
 
 ## Description
 

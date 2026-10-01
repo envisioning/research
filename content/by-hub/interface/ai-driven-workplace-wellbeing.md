@@ -2,14 +2,13 @@
 slug: ai-driven-workplace-wellbeing
 hub: interface
 title: AI-Driven Workplace Wellbeing
-summary: Smart IoT health assistant detecting stress, posture, ergonomics, and environmental
-  strain, turning real-time health data into actionable insights for digital health,
-  prevention, and resilience at work.
+summary: IoT sensors and AI that monitor stress, posture, and environment to improve
+  employee health and prevent workplace strain
 permalink: https://www.envisioning.com/interface/ai-driven-workplace-wellbeing
-collection: wearables-health-sensing
+collection: applications
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: null
 ---
 
@@ -17,7 +16,7 @@ image_url: null
 
 ## Summary
 
-Smart IoT health assistant detecting stress, posture, ergonomics, and environmental strain, turning real-time health data into actionable insights for digital health, prevention, and resilience at work.
+IoT sensors and AI that monitor stress, posture, and environment to improve employee health and prevent workplace strain
 
 ## Description
 

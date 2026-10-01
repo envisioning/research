@@ -2,7 +2,7 @@
 slug: supersonic-commercial-travel
 hub: altitude
 title: Supersonic Commercial Travel
-summary: Next-generation quiet supersonic flight for rapid global connectivity.
+summary: Passenger jets designed to fly faster than sound with quieter sonic booms
 permalink: https://www.envisioning.com/altitude/supersonic-commercial-travel
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644193/altit
 
 ## Summary
 
-Next-generation quiet supersonic flight for rapid global connectivity.
+Passenger jets designed to fly faster than sound with quieter sonic booms
 
 ## Description
 

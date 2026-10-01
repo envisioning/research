@@ -2,7 +2,8 @@
 slug: virtual-consent
 hub: eros
 title: Virtual Consent Frameworks
-summary: Protocols for personal space and consent in immersive environments.
+summary: Protocols for managing personal boundaries and interaction permissions in
+  VR and AR spaces
 permalink: https://www.envisioning.com/eros/virtual-consent
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124043/eros/
 
 ## Summary
 
-Protocols for personal space and consent in immersive environments.
+Protocols for managing personal boundaries and interaction permissions in VR and AR spaces
 
 ## Description
 

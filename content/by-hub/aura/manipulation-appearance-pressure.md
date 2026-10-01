@@ -2,7 +2,8 @@
 slug: manipulation-appearance-pressure
 hub: aura
 title: Manipulation & Appearance Pressure
-summary: Risks of AI-driven perfection loops.
+summary: Risks of AI beauty tools creating endless perfection loops and appearance
+  anxiety
 permalink: https://www.envisioning.com/aura/manipulation-appearance-pressure
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010174/aura/
 
 ## Summary
 
-Risks of AI-driven perfection loops.
+Risks of AI beauty tools creating endless perfection loops and appearance anxiety
 
 ## Description
 

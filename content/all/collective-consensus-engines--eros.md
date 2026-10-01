@@ -2,7 +2,8 @@
 slug: collective-consensus-engines
 hub: eros
 title: Collective Consensus & Decision Engines
-summary: Algorithms for group decision-making in families, polycules, and communities.
+summary: Computational systems that aggregate preferences and resolve decisions across
+  families, polycules, and communities
 permalink: https://www.envisioning.com/eros/collective-consensus-engines
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125024/eros/
 
 ## Summary
 
-Algorithms for group decision-making in families, polycules, and communities.
+Computational systems that aggregate preferences and resolve decisions across families, polycules, and communities
 
 ## Description
 

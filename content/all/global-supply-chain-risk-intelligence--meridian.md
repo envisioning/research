@@ -2,7 +2,8 @@
 slug: global-supply-chain-risk-intelligence
 hub: meridian
 title: Global Supply Chain Risk Intelligence
-summary: Mapping critical dependencies and chokepoints.
+summary: Analytical platforms that map dependencies and vulnerabilities across global
+  trade networks
 permalink: https://www.envisioning.com/meridian/global-supply-chain-risk-intelligence
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131110/merid
 
 ## Summary
 
-Mapping critical dependencies and chokepoints.
+Analytical platforms that map dependencies and vulnerabilities across global trade networks
 
 ## Description
 

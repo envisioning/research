@@ -2,7 +2,8 @@
 slug: community-networks-mesh-connectivity
 hub: link
 title: Community Networks & Mesh Connectivity
-summary: Bottom-up, cooperative infrastructure built and operated by local communities.
+summary: Locally-owned wireless networks using mesh topology for cooperative, decentralized
+  connectivity
 permalink: https://www.envisioning.com/link/community-networks-mesh-connectivity
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441736/link/
 
 ## Summary
 
-Bottom-up, cooperative infrastructure built and operated by local communities.
+Locally-owned wireless networks using mesh topology for cooperative, decentralized connectivity
 
 ## Description
 

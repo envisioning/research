@@ -2,7 +2,8 @@
 slug: carbon-credit-trading-dapps
 hub: lattice
 title: Carbon Credit Trading Platforms
-summary: On-chain registries and exchanges for tokenized carbon offsets.
+summary: Blockchain-based exchanges for tokenized carbon offsets with transparent
+  tracking and retirement
 permalink: https://www.envisioning.com/lattice/carbon-credit-trading-dapps
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179939/latti
 
 ## Summary
 
-On-chain registries and exchanges for tokenized carbon offsets.
+Blockchain-based exchanges for tokenized carbon offsets with transparent tracking and retirement
 
 ## Description
 

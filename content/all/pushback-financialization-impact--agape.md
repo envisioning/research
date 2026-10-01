@@ -3,7 +3,6 @@ slug: pushback-financialization-impact
 hub: agape
 title: Pushback Against Financialization of Social Impact
 summary: Pushback against financialization of social impact, as critiques question
-  whether market logic should shape social change.
 permalink: https://www.envisioning.com/agape/pushback-financialization-impact
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371797/agape
 
 ## Summary
 
-Pushback against financialization of social impact, as critiques question whether market logic should shape social change.
+Pushback against financialization of social impact, as critiques question
 
 ## Description
 

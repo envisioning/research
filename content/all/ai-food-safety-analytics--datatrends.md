@@ -2,8 +2,8 @@
 slug: ai-food-safety-analytics
 hub: datatrends
 title: AI-Powered Food Safety Analytics
-summary: Using AI and analytics to improve food safety through smart inspections,
-  contamination detection, and supply chain monitoring.
+summary: AI-driven inspection and monitoring systems that detect contamination and
+  quality issues across food supply chains
 permalink: https://www.envisioning.com/datatrends/ai-food-safety-analytics
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769460/datat
 
 ## Summary
 
-Using AI and analytics to improve food safety through smart inspections, contamination detection, and supply chain monitoring.
+AI-driven inspection and monitoring systems that detect contamination and quality issues across food supply chains
 
 ## Description
 

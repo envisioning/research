@@ -2,7 +2,8 @@
 slug: hyperspectral-imaging
 hub: stratum
 title: Hyperspectral Imaging Drones
-summary: Aerial platforms identifying mineral compositions and structural integrity.
+summary: Drones using multi-band sensors to map mineral deposits and assess industrial
+  infrastructure
 permalink: https://www.envisioning.com/stratum/hyperspectral-imaging
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132934/strat
 
 ## Summary
 
-Aerial platforms identifying mineral compositions and structural integrity.
+Drones using multi-band sensors to map mineral deposits and assess industrial infrastructure
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: data-as-value-networks
 hub: lattice
 title: Data-as-Value Networks
-summary: Systems for selling or licensing anonymized data streams with control.
+summary: Platforms enabling individuals to monetize anonymized personal data while
+  retaining control over access and use
 permalink: https://www.envisioning.com/lattice/data-as-value-networks
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996227/flows
 
 ## Summary
 
-Systems for selling or licensing anonymized data streams with control.
+Platforms enabling individuals to monetize anonymized personal data while retaining control over access and use
 
 ## Description
 

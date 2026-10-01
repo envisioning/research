@@ -2,7 +2,8 @@
 slug: responsible-automation-transition
 hub: harvest
 title: Responsible Automation Transition
-summary: Socio-technical systems for labor shifts in agri-food.
+summary: Frameworks for managing workforce changes as farms and food supply chains
+  adopt automation
 permalink: https://www.envisioning.com/harvest/responsible-automation-transition
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128597/harve
 
 ## Summary
 
-Socio-technical systems for labor shifts in agri-food.
+Frameworks for managing workforce changes as farms and food supply chains adopt automation
 
 ## Description
 

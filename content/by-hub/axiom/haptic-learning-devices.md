@@ -2,7 +2,8 @@
 slug: haptic-learning-devices
 hub: axiom
 title: Haptic Learning Devices
-summary: Force-feedback controllers teaching surgery, craft, and motor skills.
+summary: Force-feedback tools that teach motor skills through tactile simulation and
+  muscle memory training
 permalink: https://www.envisioning.com/axiom/haptic-learning-devices
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162135/axiom
 
 ## Summary
 
-Force-feedback controllers teaching surgery, craft, and motor skills.
+Force-feedback tools that teach motor skills through tactile simulation and muscle memory training
 
 ## Description
 

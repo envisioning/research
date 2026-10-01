@@ -2,7 +2,8 @@
 slug: performance-data-labour-rights
 hub: stride
 title: Performance Data & Labour Rights
-summary: Policies preventing misuse of athlete metrics in contracts and negotiations.
+summary: Legal frameworks governing how teams and leagues can use athlete biometric
+  and performance data
 permalink: https://www.envisioning.com/stride/performance-data-labour-rights
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177938/strid
 
 ## Summary
 
-Policies preventing misuse of athlete metrics in contracts and negotiations.
+Legal frameworks governing how teams and leagues can use athlete biometric and performance data
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: wearable-edge-ai-ecg
 hub: interface
 title: Wearable Edge AI ECG
-summary: Real-time cardiac analysis processed directly on wearable devices.
+summary: On-device heart rhythm analysis that detects cardiac abnormalities without
+  cloud connectivity
 permalink: https://www.envisioning.com/interface/wearable-edge-ai-ecg
-collection: wearables-health-sensing
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898122/interface/technologies/aa220ccd-7d13-4777-a9bf-c78889ff46b7-google-gemini-3.1-flash-image-preview-z9tf58.jpg
 ---
 
 # Wearable Edge AI ECG
 
 ## Summary
 
-Real-time cardiac analysis processed directly on wearable devices.
+On-device heart rhythm analysis that detects cardiac abnormalities without cloud connectivity
 
 ## Description
 

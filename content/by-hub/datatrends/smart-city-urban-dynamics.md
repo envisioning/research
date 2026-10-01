@@ -2,7 +2,8 @@
 slug: smart-city-urban-dynamics
 hub: datatrends
 title: Urban Dynamics Analytics
-summary: Optimizing city safety and traffic through integrated city sensor networks.
+summary: Real-time sensor networks and analytics for city traffic, safety, and infrastructure
+  management
 permalink: https://www.envisioning.com/datatrends/smart-city-urban-dynamics
 collection: analytics-in-action
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372799/datat
 
 ## Summary
 
-Optimizing city safety and traffic through integrated city sensor networks.
+Real-time sensor networks and analytics for city traffic, safety, and infrastructure management
 
 ## Description
 

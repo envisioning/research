@@ -2,7 +2,8 @@
 slug: vagus-nerve-stimulators
 hub: cortex
 title: Vagus Nerve Stimulators
-summary: Implantable pulse generators modulating autonomic balance.
+summary: Implanted devices that deliver electrical pulses to the vagus nerve to treat
+  epilepsy, depression, and inflammation
 permalink: https://www.envisioning.com/cortex/vagus-nerve-stimulators
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073985/corte
 
 ## Summary
 
-Implantable pulse generators modulating autonomic balance.
+Implanted devices that deliver electrical pulses to the vagus nerve to treat epilepsy, depression, and inflammation
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: financial-intimacy-transparency
 hub: eros
 title: Financial Intimacy & Transparency Standards
-summary: Protections around dowry, bride price, and relationship economics.
+summary: Standards governing dowry, bride price, and other relationship-based financial
+  exchanges
 permalink: https://www.envisioning.com/eros/financial-intimacy-transparency
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126151/eros/
 
 ## Summary
 
-Protections around dowry, bride price, and relationship economics.
+Standards governing dowry, bride price, and other relationship-based financial exchanges
 
 ## Description
 

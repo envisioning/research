@@ -2,8 +2,8 @@
 slug: social-impact-measurement-tools
 hub: habitat
 title: Social Impact Measurement Tools
-summary: Analytics platforms quantifying societal value, community wellbeing, and
-  housing equity outcomes.
+summary: Platforms that quantify housing equity, community wellbeing, and societal
+  value beyond financial returns
 permalink: https://www.envisioning.com/habitat/social-impact-measurement-tools
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768310338/habit
 
 ## Summary
 
-Analytics platforms quantifying societal value, community wellbeing, and housing equity outcomes.
+Platforms that quantify housing equity, community wellbeing, and societal value beyond financial returns
 
 ## Description
 

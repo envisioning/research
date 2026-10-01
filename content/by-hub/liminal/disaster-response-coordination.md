@@ -2,7 +2,8 @@
 slug: disaster-response-coordination
 hub: liminal
 title: Disaster Response Coordination
-summary: Real-time spatial mapping for emergency response and relief.
+summary: Real-time spatial mapping and coordination tools for multi-agency emergency
+  response teams
 permalink: https://www.envisioning.com/liminal/disaster-response-coordination
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125451/limin
 
 ## Summary
 
-Real-time spatial mapping for emergency response and relief.
+Real-time spatial mapping and coordination tools for multi-agency emergency response teams
 
 ## Description
 

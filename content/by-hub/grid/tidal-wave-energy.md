@@ -2,7 +2,8 @@
 slug: tidal-wave-energy
 hub: grid
 title: Tidal & Wave Energy Converters
-summary: Harnessing ocean currents and waves for predictable renewable generation.
+summary: Devices that extract electricity from ocean tides and waves for reliable,
+  predictable power generation
 permalink: https://www.envisioning.com/grid/tidal-wave-energy
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116598/grid/
 
 ## Summary
 
-Harnessing ocean currents and waves for predictable renewable generation.
+Devices that extract electricity from ocean tides and waves for reliable, predictable power generation
 
 ## Description
 

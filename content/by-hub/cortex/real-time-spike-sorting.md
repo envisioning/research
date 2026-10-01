@@ -2,7 +2,8 @@
 slug: real-time-spike-sorting
 hub: cortex
 title: Real-Time Spike Sorting Algorithms
-summary: Embedded ML pipelines classifying neural spikes on-device.
+summary: On-device ML that identifies and classifies individual neuron signals from
+  brain implants in real time
 permalink: https://www.envisioning.com/cortex/real-time-spike-sorting
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062727/corte
 
 ## Summary
 
-Embedded ML pipelines classifying neural spikes on-device.
+On-device ML that identifies and classifies individual neuron signals from brain implants in real time
 
 ## Description
 

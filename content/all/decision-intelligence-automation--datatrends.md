@@ -2,7 +2,7 @@
 slug: decision-intelligence-automation
 hub: datatrends
 title: Operational Decision Intelligence
-summary: The convergence of data and AI to manage decision complexity at scale.
+summary: AI-driven systems that automate routine business decisions in real-time workflows
 permalink: https://www.envisioning.com/datatrends/decision-intelligence-automation
 collection: decision-intelligence-ai
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372388/datat
 
 ## Summary
 
-The convergence of data and AI to manage decision complexity at scale.
+AI-driven systems that automate routine business decisions in real-time workflows
 
 ## Description
 

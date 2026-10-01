@@ -2,7 +2,8 @@
 slug: varifocal-displays
 hub: liminal
 title: Varifocal Displays
-summary: Dynamic focus displays solving vergence-accommodation conflict.
+summary: Displays that adjust focal depth in real-time to match where users look in
+  XR environments
 permalink: https://www.envisioning.com/liminal/varifocal-displays
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124147/limin
 
 ## Summary
 
-Dynamic focus displays solving vergence-accommodation conflict.
+Displays that adjust focal depth in real-time to match where users look in XR environments
 
 ## Description
 

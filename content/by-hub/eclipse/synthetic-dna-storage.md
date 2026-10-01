@@ -2,7 +2,8 @@
 slug: synthetic-dna-storage
 hub: eclipse
 title: Synthetic DNA Data Storage
-summary: Archival storage of digital legacies in synthesized DNA strands.
+summary: Encoding digital information into synthesized DNA molecules for ultra-dense,
+  long-term archival
 permalink: https://www.envisioning.com/eclipse/synthetic-dna-storage
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126603/eclip
 
 ## Summary
 
-Archival storage of digital legacies in synthesized DNA strands.
+Encoding digital information into synthesized DNA molecules for ultra-dense, long-term archival
 
 ## Description
 

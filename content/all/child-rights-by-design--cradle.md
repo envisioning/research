@@ -2,7 +2,8 @@
 slug: child-rights-by-design
 hub: cradle
 title: Child Rights by Design
-summary: Embedding children’s rights into early-life technologies.
+summary: Governance framework requiring early-life technologies to meet children's
+  rights standards before deployment
 permalink: https://www.envisioning.com/cradle/child-rights-by-design
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435252/cradl
 
 ## Summary
 
-Embedding children’s rights into early-life technologies.
+Governance framework requiring early-life technologies to meet children's rights standards before deployment
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: natural-language-analytics-interfaces
 hub: datatrends
 title: Natural Language Analytics Interfaces
-summary: Conversational and natural language interfaces that enable users to interact
-  with analytics systems using everyday language instead of technical queries.
+summary: Query data and generate insights using conversational language instead of
+  SQL or technical commands
 permalink: https://www.envisioning.com/datatrends/natural-language-analytics-interfaces
 collection: agile-infrastructure
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730767/datat
 
 ## Summary
 
-Conversational and natural language interfaces that enable users to interact with analytics systems using everyday language instead of technical queries.
+Query data and generate insights using conversational language instead of SQL or technical commands
 
 ## Description
 

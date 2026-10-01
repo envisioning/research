@@ -2,7 +2,7 @@
 slug: cognitive-radio-dynamic-spectrum
 hub: link
 title: Cognitive Radio & Dynamic Spectrum Access
-summary: Intelligent radios that sense and opportunistically use available spectrum.
+summary: Radios that detect unused frequencies and adapt transmission to avoid interference
 permalink: https://www.envisioning.com/link/cognitive-radio-dynamic-spectrum
 collection: software
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436274/link/
 
 ## Summary
 
-Intelligent radios that sense and opportunistically use available spectrum.
+Radios that detect unused frequencies and adapt transmission to avoid interference
 
 ## Description
 

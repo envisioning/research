@@ -2,19 +2,21 @@
 slug: fullerene
 hub: horizons
 title: Fullerene
-summary: Carbon cage molecules; experiments, diffusion, and programmable matter.
+summary: Hollow carbon cage molecules for drug delivery, superconductivity, and advanced
+  materials
 permalink: https://www.envisioning.com/horizons/fullerene
-collection: materials
+collection: hardware
 trl: 5
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883087/horizons/technologies/2e789ea1-2438-4b40-ad1f-467489aedc98-google-gemini-3.1-flash-image-preview-m5ksr2.jpg
 ---
 
 # Fullerene
 
 ## Summary
 
-Carbon cage molecules; experiments, diffusion, and programmable matter.
+Hollow carbon cage molecules for drug delivery, superconductivity, and advanced materials
 
 ## Description
 

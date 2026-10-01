@@ -2,7 +2,8 @@
 slug: advanced-cold-chain-thermal-storage
 hub: harvest
 title: Advanced Cold-Chain Thermal Storage
-summary: Phase-change materials for resilient refrigeration.
+summary: Phase-change materials that maintain refrigeration during power outages and
+  equipment failures
 permalink: https://www.envisioning.com/harvest/advanced-cold-chain-thermal-storage
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128407/harve
 
 ## Summary
 
-Phase-change materials for resilient refrigeration.
+Phase-change materials that maintain refrigeration during power outages and equipment failures
 
 ## Description
 

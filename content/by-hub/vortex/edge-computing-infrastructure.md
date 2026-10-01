@@ -2,7 +2,8 @@
 slug: edge-computing-infrastructure
 hub: vortex
 title: Edge Computing Infrastructure
-summary: 5G/6G nodes that process video at network edge.
+summary: Distributed servers at network edge that process and deliver streaming content
+  closer to viewers
 permalink: https://www.envisioning.com/vortex/edge-computing-infrastructure
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126544/vorte
 
 ## Summary
 
-5G/6G nodes that process video at network edge.
+Distributed servers at network edge that process and deliver streaming content closer to viewers
 
 ## Description
 

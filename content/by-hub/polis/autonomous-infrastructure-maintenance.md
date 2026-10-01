@@ -2,7 +2,8 @@
 slug: autonomous-infrastructure-maintenance
 hub: polis
 title: Autonomous Infrastructure Maintenance
-summary: Robotic systems for self-repairing public assets.
+summary: Robotic systems that detect and repair roads, bridges, and utilities without
+  human intervention
 permalink: https://www.envisioning.com/polis/autonomous-infrastructure-maintenance
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126717/polis
 
 ## Summary
 
-Robotic systems for self-repairing public assets.
+Robotic systems that detect and repair roads, bridges, and utilities without human intervention
 
 ## Description
 

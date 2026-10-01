@@ -2,21 +2,21 @@
 slug: vulcan-learning-matrix
 hub: subspace
 title: Learning Matrices
-summary: Educational technology teaching children logic and Vulcan history through
-  interactive systems.
+summary: Adaptive educational systems that adjust difficulty and teaching style based
+  on student responses
 permalink: https://www.envisioning.com/subspace/vulcan-learning-matrix
 collection: computing
 trl: 8
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760270010/subspaceindex/technologies/vulcan-learning-matrix.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908300/subspace/technologies/vulcan-learning-matrix-openrouter-google-gemini-3.1-flash-image-preview-ezk0yu.png
 ---
 
 # Learning Matrices
 
 ## Summary
 
-Educational technology teaching children logic and Vulcan history through interactive systems.
+Adaptive educational systems that adjust difficulty and teaching style based on student responses
 
 ## Description
 

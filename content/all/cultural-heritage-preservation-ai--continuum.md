@@ -2,7 +2,8 @@
 slug: cultural-heritage-preservation-ai
 hub: continuum
 title: Cultural Heritage Preservation AI
-summary: Automated digitization and restoration of endangered cultures.
+summary: AI systems digitizing endangered languages, artifacts, and traditions before
+  they disappear
 permalink: https://www.envisioning.com/continuum/cultural-heritage-preservation-ai
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124892/conti
 
 ## Summary
 
-Automated digitization and restoration of endangered cultures.
+AI systems digitizing endangered languages, artifacts, and traditions before they disappear
 
 ## Description
 

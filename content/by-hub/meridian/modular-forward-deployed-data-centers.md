@@ -2,7 +2,8 @@
 slug: modular-forward-deployed-data-centers
 hub: meridian
 title: Modular Forward-Deployed Data Centers
-summary: Hardened, relocatable compute infrastructure.
+summary: Ruggedized, containerized compute infrastructure for austere or contested
+  environments
 permalink: https://www.envisioning.com/meridian/modular-forward-deployed-data-centers
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129151/merid
 
 ## Summary
 
-Hardened, relocatable compute infrastructure.
+Ruggedized, containerized compute infrastructure for austere or contested environments
 
 ## Description
 

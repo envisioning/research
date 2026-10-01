@@ -2,7 +2,8 @@
 slug: ultra-high-voltage-transmission
 hub: continuum
 title: Ultra-High Voltage DC Transmission
-summary: Continental-scale grids linking renewable energy zones.
+summary: High-voltage DC lines that move renewable power across continents with minimal
+  loss
 permalink: https://www.envisioning.com/continuum/ultra-high-voltage-transmission
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124017/conti
 
 ## Summary
 
-Continental-scale grids linking renewable energy zones.
+High-voltage DC lines that move renewable power across continents with minimal loss
 
 ## Description
 

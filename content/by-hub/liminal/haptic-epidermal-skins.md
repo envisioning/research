@@ -2,7 +2,8 @@
 slug: haptic-epidermal-skins
 hub: liminal
 title: Haptic Epidermal Skins
-summary: Ultra-thin, flexible interfaces that deliver touch sensations.
+summary: Skin-thin electronic membranes that generate touch, pressure, and temperature
+  sensations on the body
 permalink: https://www.envisioning.com/liminal/haptic-epidermal-skins
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124365/limin
 
 ## Summary
 
-Ultra-thin, flexible interfaces that deliver touch sensations.
+Skin-thin electronic membranes that generate touch, pressure, and temperature sensations on the body
 
 ## Description
 

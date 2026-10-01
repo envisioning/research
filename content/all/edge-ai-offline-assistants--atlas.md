@@ -2,7 +2,8 @@
 slug: edge-ai-offline-assistants
 hub: atlas
 title: Edge AI Offline Assistants
-summary: On-device AI providing travel guidance without connectivity.
+summary: On-device AI models delivering travel assistance without requiring internet
+  connectivity
 permalink: https://www.envisioning.com/atlas/edge-ai-offline-assistants
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126148/atlas
 
 ## Summary
 
-On-device AI providing travel guidance without connectivity.
+On-device AI models delivering travel assistance without requiring internet connectivity
 
 ## Description
 

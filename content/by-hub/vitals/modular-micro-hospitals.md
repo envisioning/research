@@ -2,8 +2,8 @@
 slug: modular-micro-hospitals
 hub: vitals
 title: Modular Micro-Hospitals & Mobile Clinics
-summary: Rapidly deployable clinical environments for surge capacity and underserved
-  regions.
+summary: Prefabricated clinical units that deploy quickly for surge capacity or remote
+  care delivery
 permalink: https://www.envisioning.com/vitals/modular-micro-hospitals
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462068/vital
 
 ## Summary
 
-Rapidly deployable clinical environments for surge capacity and underserved regions.
+Prefabricated clinical units that deploy quickly for surge capacity or remote care delivery
 
 ## Description
 

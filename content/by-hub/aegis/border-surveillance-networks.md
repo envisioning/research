@@ -2,7 +2,8 @@
 slug: border-surveillance-networks
 hub: aegis
 title: Border Surveillance Networks
-summary: Sensor towers, aerostats, and AI analytics covering vast frontiers.
+summary: Integrated sensor systems and AI analytics for monitoring national borders
+  and frontiers
 permalink: https://www.envisioning.com/aegis/border-surveillance-networks
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764161789/aegis
 
 ## Summary
 
-Sensor towers, aerostats, and AI analytics covering vast frontiers.
+Integrated sensor systems and AI analytics for monitoring national borders and frontiers
 
 ## Description
 

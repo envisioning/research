@@ -2,21 +2,21 @@
 slug: dmt-x-extended-state-program
 hub: xenotech
 title: Extended-State DMT
-summary: Continuous intravenous DMT infusion protocols for sustained psychedelic states
-  lasting hours, enabling extended consciousness research and therapeutic applications.
+summary: Continuous IV DMT infusion maintaining multi-hour psychedelic states for
+  research and therapy
 permalink: https://www.envisioning.com/xenotech/dmt-x-extended-state-program
 collection: consciousness-interface
 trl: 5
 impact: 2
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760952799/xenotech/technologies/dmt-x-extended-state-program.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898312/xenotech/technologies/dmt-x-extended-state-program-openrouter-google-gemini-3.1-flash-image-preview-c47fft.png
 ---
 
 # Extended-State DMT
 
 ## Summary
 
-Continuous intravenous DMT infusion protocols for sustained psychedelic states lasting hours, enabling extended consciousness research and therapeutic applications.
+Continuous IV DMT infusion maintaining multi-hour psychedelic states for research and therapy
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: quantum-weather-forecasting
 hub: superposition
 title: Quantum Weather Forecasting
-summary: Handling vast variables in climate models for more accurate long-term predictions.
+summary: Using quantum algorithms to process climate data for improved long-term weather
+  predictions
 permalink: https://www.envisioning.com/superposition/quantum-weather-forecasting
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181205/super
 
 ## Summary
 
-Handling vast variables in climate models for more accurate long-term predictions.
+Using quantum algorithms to process climate data for improved long-term weather predictions
 
 ## Description
 

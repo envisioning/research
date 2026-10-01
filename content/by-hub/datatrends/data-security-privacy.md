@@ -2,8 +2,8 @@
 slug: data-security-privacy
 hub: datatrends
 title: Data Security & Privacy Compliance
-summary: A top global priority driven by professionalized cyber-attacks and strict
-  regulatory requirements.
+summary: Frameworks and controls protecting sensitive data from breaches and ensuring
+  regulatory compliance
 permalink: https://www.envisioning.com/datatrends/data-security-privacy
 collection: management-foundations
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373514/datat
 
 ## Summary
 
-A top global priority driven by professionalized cyber-attacks and strict regulatory requirements.
+Frameworks and controls protecting sensitive data from breaches and ensuring regulatory compliance
 
 ## Description
 

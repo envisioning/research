@@ -2,21 +2,21 @@
 slug: inertial-dampeners
 hub: subspace
 title: Inertial Dampening Field
-summary: Critical life support system preventing crew from experiencing lethal acceleration
-  forces.
+summary: Technology that protects spacecraft crews from lethal g-forces during extreme
+  acceleration
 permalink: https://www.envisioning.com/subspace/inertial-dampeners
 collection: engineering
 trl: 4
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760259034/subspaceindex/technologies/inertial-dampeners.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908197/subspace/technologies/inertial-dampeners-openrouter-google-gemini-3.1-flash-image-preview-5a7faf.png
 ---
 
 # Inertial Dampening Field
 
 ## Summary
 
-Critical life support system preventing crew from experiencing lethal acceleration forces.
+Technology that protects spacecraft crews from lethal g-forces during extreme acceleration
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: perovskite-solar-modules
 hub: atmos
 title: Perovskite Solar Cells
-summary: High-efficiency tandem cells manufactured at low temperatures.
+summary: Solution-processed solar cells enabling lightweight, flexible modules and
+  high-efficiency tandem stacks
 permalink: https://www.envisioning.com/atmos/perovskite-solar-modules
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764140580/atmos
 
 ## Summary
 
-High-efficiency tandem cells manufactured at low temperatures.
+Solution-processed solar cells enabling lightweight, flexible modules and high-efficiency tandem stacks
 
 ## Description
 

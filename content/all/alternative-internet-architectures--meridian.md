@@ -2,7 +2,8 @@
 slug: alternative-internet-architectures
 hub: meridian
 title: Alternative Internet Architectures
-summary: Parallel routing and governance systems.
+summary: Redesigned internet infrastructure with independent routing, DNS, and governance
+  outside global systems
 permalink: https://www.envisioning.com/meridian/alternative-internet-architectures
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435099/merid
 
 ## Summary
 
-Parallel routing and governance systems.
+Redesigned internet infrastructure with independent routing, DNS, and governance outside global systems
 
 ## Description
 

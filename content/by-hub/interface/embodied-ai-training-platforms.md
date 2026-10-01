@@ -2,13 +2,13 @@
 slug: embodied-ai-training-platforms
 hub: interface
 title: Embodied AI Training Platforms
-summary: Multi-source data training paradigms (Sim2Real) for general-purpose physical
-  AI robots.
+summary: Virtual training environments that teach robots skills in simulation before
+  real-world deployment
 permalink: https://www.envisioning.com/interface/embodied-ai-training-platforms
-collection: neuromorphic-edge-intelligence
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737600/interface/technologies/embodied-ai-training-platforms-google-gemini-3-pro-image-preview-onniad.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737600/inter
 
 ## Summary
 
-Multi-source data training paradigms (Sim2Real) for general-purpose physical AI robots.
+Virtual training environments that teach robots skills in simulation before real-world deployment
 
 ## Description
 

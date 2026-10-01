@@ -2,7 +2,8 @@
 slug: predictive-threat-intelligence
 hub: aegis
 title: Predictive Threat Intelligence Platforms
-summary: OSINT fusion engines forecasting emerging attacks.
+summary: Intelligence platforms that forecast cyber and physical threats by analyzing
+  OSINT, social signals, and adversary patter
 permalink: https://www.envisioning.com/aegis/predictive-threat-intelligence
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075652/aegis
 
 ## Summary
 
-OSINT fusion engines forecasting emerging attacks.
+Intelligence platforms that forecast cyber and physical threats by analyzing OSINT, social signals, and adversary patter
 
 ## Description
 

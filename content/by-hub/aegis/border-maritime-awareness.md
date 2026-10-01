@@ -2,7 +2,8 @@
 slug: border-maritime-awareness
 hub: aegis
 title: Border & Maritime Domain Awareness
-summary: Persistent surveillance and AI-ranked risk triage for high-traffic areas.
+summary: Persistent surveillance combining aerial platforms and autonomous vessels
+  to monitor borders and maritime zones
 permalink: https://www.envisioning.com/aegis/border-maritime-awareness
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010140/aegis
 
 ## Summary
 
-Persistent surveillance and AI-ranked risk triage for high-traffic areas.
+Persistent surveillance combining aerial platforms and autonomous vessels to monitor borders and maritime zones
 
 ## Description
 

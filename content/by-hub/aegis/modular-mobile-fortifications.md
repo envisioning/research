@@ -2,7 +2,8 @@
 slug: modular-mobile-fortifications
 hub: aegis
 title: Modular Mobile Fortifications
-summary: Rapid-assembly blast-resistant walls and shelters with integrated systems.
+summary: Rapid-assembly blast-resistant barriers with integrated power, sensors, and
+  communications
 permalink: https://www.envisioning.com/aegis/modular-mobile-fortifications
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995699/aegis
 
 ## Summary
 
-Rapid-assembly blast-resistant walls and shelters with integrated systems.
+Rapid-assembly blast-resistant barriers with integrated power, sensors, and communications
 
 ## Description
 

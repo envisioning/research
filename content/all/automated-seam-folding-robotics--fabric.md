@@ -2,7 +2,7 @@
 slug: automated-seam-folding-robotics
 hub: fabric
 title: Automated Seam Folding Robotics
-summary: Robotic systems automating complex sewing tasks like pleated pant production.
+summary: Robotic systems that fold, align, and stitch fabric for complex garment construction
 permalink: https://www.envisioning.com/fabric/automated-seam-folding-robotics
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059464/threa
 
 ## Summary
 
-Robotic systems automating complex sewing tasks like pleated pant production.
+Robotic systems that fold, align, and stitch fabric for complex garment construction
 
 ## Description
 

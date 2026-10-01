@@ -2,7 +2,8 @@
 slug: dark-pattern-detection
 hub: beacon
 title: Dark Pattern Detection Agents
-summary: AI that neutralizes manipulative UI.
+summary: AI systems that identify and flag manipulative interface design patterns
+  in real time
 permalink: https://www.envisioning.com/beacon/dark-pattern-detection
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125492/beaco
 
 ## Summary
 
-AI that neutralizes manipulative UI.
+AI systems that identify and flag manipulative interface design patterns in real time
 
 ## Description
 

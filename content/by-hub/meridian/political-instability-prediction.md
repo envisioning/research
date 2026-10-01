@@ -2,7 +2,8 @@
 slug: political-instability-prediction
 hub: meridian
 title: Political Instability Prediction
-summary: Early warning systems for regime fragility.
+summary: Computational systems that forecast regime collapse and political upheaval
+  using economic, social, and network data
 permalink: https://www.envisioning.com/meridian/political-instability-prediction
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131083/merid
 
 ## Summary
 
-Early warning systems for regime fragility.
+Computational systems that forecast regime collapse and political upheaval using economic, social, and network data
 
 ## Description
 

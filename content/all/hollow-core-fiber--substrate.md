@@ -2,7 +2,8 @@
 slug: hollow-core-fiber
 hub: substrate
 title: Hollow-Core Fiber Networks
-summary: Optical cables that transmit light through air channels for ultra-low latency.
+summary: Fiber optic cables that route light through air instead of glass to reduce
+  transmission delays
 permalink: https://www.envisioning.com/substrate/hollow-core-fiber
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178000/subst
 
 ## Summary
 
-Optical cables that transmit light through air channels for ultra-low latency.
+Fiber optic cables that route light through air instead of glass to reduce transmission delays
 
 ## Description
 

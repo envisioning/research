@@ -2,7 +2,8 @@
 slug: ecological-integrity-vs-engineered-systems
 hub: spore
 title: Ecological Integrity vs. Engineered Systems
-summary: Balancing regenerative practices with engineered microbes to avoid disruption.
+summary: Integrating engineered microbes into agriculture while preserving natural
+  soil ecosystems
 permalink: https://www.envisioning.com/spore/ecological-integrity-vs-engineered-systems
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095997/spore
 
 ## Summary
 
-Balancing regenerative practices with engineered microbes to avoid disruption.
+Integrating engineered microbes into agriculture while preserving natural soil ecosystems
 
 ## Description
 

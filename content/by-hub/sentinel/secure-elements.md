@@ -2,7 +2,8 @@
 slug: secure-elements
 hub: sentinel
 title: Secure Elements & eSIMs
-summary: Tamper-resistant chips for storing credentials and identity secrets.
+summary: Tamper-resistant chips that isolate and protect cryptographic keys and digital
+  credentials
 permalink: https://www.envisioning.com/sentinel/secure-elements
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461906/senti
 
 ## Summary
 
-Tamper-resistant chips for storing credentials and identity secrets.
+Tamper-resistant chips that isolate and protect cryptographic keys and digital credentials
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: drone-based-crop-spraying
 hub: spore
 title: Drone-Based Crop Spraying
-summary: Autonomous UAV fleets delivering variable-rate inputs.
+summary: Autonomous drones applying pesticides and nutrients with precision over difficult
+  terrain
 permalink: https://www.envisioning.com/spore/drone-based-crop-spraying
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095982/spore
 
 ## Summary
 
-Autonomous UAV fleets delivering variable-rate inputs.
+Autonomous drones applying pesticides and nutrients with precision over difficult terrain
 
 ## Description
 

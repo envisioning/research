@@ -2,21 +2,21 @@
 slug: alpha-wave-radio-interface
 hub: xenotech
 title: Alpha-Wave Radio
-summary: Soviet biocommunication device converting EEG alpha-wave patterns into coherent
-  radio emissions for alleged emotional state transmission.
+summary: Converts brainwave patterns into radio signals to transmit emotional states
+  remotely
 permalink: https://www.envisioning.com/xenotech/alpha-wave-radio-interface
 collection: biology-hybridization
 trl: 4
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761065124/xenotech/technologies/alpha-wave-radio-interface.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897082/xenotech/technologies/alpha-wave-radio-interface-openrouter-google-gemini-3.1-flash-image-preview-m6fy9f.png
 ---
 
 # Alpha-Wave Radio
 
 ## Summary
 
-Soviet biocommunication device converting EEG alpha-wave patterns into coherent radio emissions for alleged emotional state transmission.
+Converts brainwave patterns into radio signals to transmit emotional states remotely
 
 ## Description
 

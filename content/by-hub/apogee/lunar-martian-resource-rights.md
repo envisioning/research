@@ -2,7 +2,8 @@
 slug: lunar-martian-resource-rights
 hub: apogee
 title: Lunar and Martian Resource Rights
-summary: Legal frameworks for off-planet extraction and stewardship.
+summary: Legal frameworks governing resource extraction, ownership, and stewardship
+  on the Moon and Mars
 permalink: https://www.envisioning.com/apogee/lunar-martian-resource-rights
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060887/apoge
 
 ## Summary
 
-Legal frameworks for off-planet extraction and stewardship.
+Legal frameworks governing resource extraction, ownership, and stewardship on the Moon and Mars
 
 ## Description
 

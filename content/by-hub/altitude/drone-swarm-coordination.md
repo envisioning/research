@@ -2,7 +2,8 @@
 slug: drone-swarm-coordination
 hub: altitude
 title: Swarm Coordination Algorithms for Multi-Drone Operations
-summary: Distributed control for large fleets of cooperative autonomous aircraft.
+summary: Distributed control enabling drone fleets to coordinate autonomously without
+  central command
 permalink: https://www.envisioning.com/altitude/drone-swarm-coordination
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642685/altit
 
 ## Summary
 
-Distributed control for large fleets of cooperative autonomous aircraft.
+Distributed control enabling drone fleets to coordinate autonomously without central command
 
 ## Description
 

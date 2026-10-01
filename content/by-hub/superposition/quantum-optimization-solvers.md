@@ -2,7 +2,8 @@
 slug: quantum-optimization-solvers
 hub: superposition
 title: Quantum Optimization Solvers
-summary: QAOA and annealing toolkits targeting logistics and portfolio problems.
+summary: Software toolkits using quantum algorithms to solve logistics routing and
+  portfolio optimization problems
 permalink: https://www.envisioning.com/superposition/quantum-optimization-solvers
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181064/super
 
 ## Summary
 
-QAOA and annealing toolkits targeting logistics and portfolio problems.
+Software toolkits using quantum algorithms to solve logistics routing and portfolio optimization problems
 
 ## Description
 

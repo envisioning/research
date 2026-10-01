@@ -2,7 +2,8 @@
 slug: explainable-ai-tooling
 hub: quadrant
 title: Explainable AI Tooling
-summary: Toolchains to inspect, justify, and govern AI decisions.
+summary: Tools that reveal how AI models make decisions and enable human oversight
+  of automated systems
 permalink: https://www.envisioning.com/quadrant/explainable-ai-tooling
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128225/quadr
 
 ## Summary
 
-Toolchains to inspect, justify, and govern AI decisions.
+Tools that reveal how AI models make decisions and enable human oversight of automated systems
 
 ## Description
 

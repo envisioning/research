@@ -2,7 +2,8 @@
 slug: engineered-exosome-vehicles
 hub: epoch
 title: Engineered Exosome Vehicles
-summary: Cell-free delivery of regenerative factors using modified extracellular vesicles.
+summary: Modified cell-secreted nanoparticles that deliver regenerative signals without
+  transplanting live cells
 permalink: https://www.envisioning.com/epoch/engineered-exosome-vehicles
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620854/epoch
 
 ## Summary
 
-Cell-free delivery of regenerative factors using modified extracellular vesicles.
+Modified cell-secreted nanoparticles that deliver regenerative signals without transplanting live cells
 
 ## Description
 

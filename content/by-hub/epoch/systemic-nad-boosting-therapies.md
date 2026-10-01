@@ -2,8 +2,8 @@
 slug: systemic-nad-boosting-therapies
 hub: epoch
 title: Systemic NAD+ Boosting Therapies
-summary: Interventions that restore youthful levels of NAD+, a crucial metabolic cofactor
-  that declines with age.
+summary: Interventions that restore declining NAD+ levels to support cellular energy,
+  DNA repair, and metabolic health
 permalink: https://www.envisioning.com/epoch/systemic-nad-boosting-therapies
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476932/epoch
 
 ## Summary
 
-Interventions that restore youthful levels of NAD+, a crucial metabolic cofactor that declines with age.
+Interventions that restore declining NAD+ levels to support cellular energy, DNA repair, and metabolic health
 
 ## Description
 

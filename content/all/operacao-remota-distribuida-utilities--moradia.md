@@ -2,7 +2,7 @@
 slug: operacao-remota-distribuida-utilities
 hub: moradia
 title: Operação Remota e Distribuída de Utilities
-summary: Centros de controle virtualizados e equipes distribuídas para redes urbanas.
+summary: Gestão descentralizada de infraestrutura urbana via centros de controle virtualizados
 permalink: https://www.envisioning.com/moradia/operacao-remota-distribuida-utilities
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766585972/habit
 
 ## Summary
 
-Centros de controle virtualizados e equipes distribuídas para redes urbanas.
+Gestão descentralizada de infraestrutura urbana via centros de controle virtualizados
 
 ## Description
 

@@ -2,16 +2,10 @@
 slug: sharing-economy
 hub: cities
 title: Sharing Economy
-summary: 'By enabling the collaborative use of assets and services, this solution
-  maximises resource utilisation, reduces waste, and fosters community connections.
-  Platforms use advanced digital technology to connect individuals with underutilised
-  resources to those in need, promoting access over ownership. The sharing economy
-  enhances urban sustainability by lowering emissions, reducing the demand for new
-  products, and optimising the use of urban infrastructure. It also contributes to
-  social equity by making goods and services more accessible and supports economic
-  resilience by creating new job opportunities and reducing living costs. '
+summary: Platforms connecting people to share underutilized assets, from rides to
+  workspaces
 permalink: https://www.envisioning.com/cities/sharing-economy
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: applications
 trl: 9
 impact: 4
 investment: 3
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719304971-sharing-economy.png
 
 ## Summary
 
-By enabling the collaborative use of assets and services, this solution maximises resource utilisation, reduces waste, and fosters community connections. Platforms use advanced digital technology to connect individuals with underutilised resources to those in need, promoting access over ownership. The sharing economy enhances urban sustainability by lowering emissions, reducing the demand for new products, and optimising the use of urban infrastructure. It also contributes to social equity by making goods and services more accessible and supports economic resilience by creating new job opportunities and reducing living costs.
+Platforms connecting people to share underutilized assets, from rides to workspaces
 
 ## Description
 

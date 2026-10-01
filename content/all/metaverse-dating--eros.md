@@ -2,7 +2,8 @@
 slug: metaverse-dating
 hub: eros
 title: Immersive Metaverse Dating
-summary: Social VR environments designed specifically for romantic interaction.
+summary: Virtual reality environments for romantic connection through avatar-based
+  interaction and spatial presence
 permalink: https://www.envisioning.com/eros/metaverse-dating
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124505/eros/
 
 ## Summary
 
-Social VR environments designed specifically for romantic interaction.
+Virtual reality environments for romantic connection through avatar-based interaction and spatial presence
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: precision-fermentation-ingredients
 hub: harvest
 title: Precision Fermentation Ingredients
-summary: Microbial production of proteins and functional compounds.
+summary: Engineered microbes producing proteins, fats, and enzymes for food applications
 permalink: https://www.envisioning.com/harvest/precision-fermentation-ingredients
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128517/harve
 
 ## Summary
 
-Microbial production of proteins and functional compounds.
+Engineered microbes producing proteins, fats, and enzymes for food applications
 
 ## Description
 

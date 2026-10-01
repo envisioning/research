@@ -2,8 +2,8 @@
 slug: logistics-transportation
 hub: datatrends
 title: Logistics and Transportation Analytics
-summary: Optimizing transportation networks, delivery routes, and fleet management
-  using analytics to improve efficiency and reduce costs.
+summary: Analyzes supply chain data to optimize delivery routes, fleet operations,
+  and network efficiency
 permalink: https://www.envisioning.com/datatrends/logistics-transportation
 collection: analytics-in-action
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730882/datat
 
 ## Summary
 
-Optimizing transportation networks, delivery routes, and fleet management using analytics to improve efficiency and reduce costs.
+Analyzes supply chain data to optimize delivery routes, fleet operations, and network efficiency
 
 ## Description
 

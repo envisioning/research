@@ -2,7 +2,8 @@
 slug: industrial-data-spaces
 hub: quadrant
 title: Industrial Data Spaces
-summary: Sovereign data-sharing infrastructures for ecosystems and partners.
+summary: Federated architectures enabling secure, sovereign data exchange between
+  industrial partners
 permalink: https://www.envisioning.com/quadrant/industrial-data-spaces
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128205/quadr
 
 ## Summary
 
-Sovereign data-sharing infrastructures for ecosystems and partners.
+Federated architectures enabling secure, sovereign data exchange between industrial partners
 
 ## Description
 

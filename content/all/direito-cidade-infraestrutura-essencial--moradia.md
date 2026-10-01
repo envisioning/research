@@ -2,7 +2,7 @@
 slug: direito-cidade-infraestrutura-essencial
 hub: moradia
 title: Direito à Cidade e Infraestrutura como Bem Essencial
-summary: Debate sobre acesso universal, equidade territorial e responsabilidades públicas.
+summary: Acesso equitativo a serviços urbanos essenciais como direito, não mercadoria
 permalink: https://www.envisioning.com/moradia/direito-cidade-infraestrutura-essencial
 collection: modelos-mercado-governanca
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591687/habit
 
 ## Summary
 
-Debate sobre acesso universal, equidade territorial e responsabilidades públicas.
+Acesso equitativo a serviços urbanos essenciais como direito, não mercadoria
 
 ## Description
 

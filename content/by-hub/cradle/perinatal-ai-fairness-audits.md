@@ -2,7 +2,8 @@
 slug: perinatal-ai-fairness-audits
 hub: cradle
 title: Perinatal AI Fairness Audits
-summary: Systematic bias testing for reproductive algorithms.
+summary: Bias testing frameworks for AI systems used in fertility, pregnancy, and
+  neonatal care
 permalink: https://www.envisioning.com/cradle/perinatal-ai-fairness-audits
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131221/cradl
 
 ## Summary
 
-Systematic bias testing for reproductive algorithms.
+Bias testing frameworks for AI systems used in fertility, pregnancy, and neonatal care
 
 ## Description
 

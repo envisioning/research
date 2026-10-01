@@ -2,20 +2,20 @@
 slug: klingon-dahar-archives
 hub: subspace
 title: Dahar Master Archives
-summary: Data repositories chronicling legendary warrior achievements.
+summary: Cultural memory systems preserving warrior lineages and tactical knowledge
 permalink: https://www.envisioning.com/subspace/klingon-dahar-archives
 collection: computing
 trl: 8
 impact: 1
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760266573/subspaceindex/technologies/klingon-dahar-archives.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907752/subspace/technologies/klingon-dahar-archives-openrouter-google-gemini-3.1-flash-image-preview-dive7a.png
 ---
 
 # Dahar Master Archives
 
 ## Summary
 
-Data repositories chronicling legendary warrior achievements.
+Cultural memory systems preserving warrior lineages and tactical knowledge
 
 ## Description
 

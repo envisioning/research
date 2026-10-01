@@ -2,7 +2,7 @@
 slug: in-orbit-data-centers
 hub: substrate
 title: In-Orbit Data Centers
-summary: Space-based computing infrastructure leveraging cold vacuum environments.
+summary: Data centers in orbit using space's vacuum and cold for passive cooling
 permalink: https://www.envisioning.com/substrate/in-orbit-data-centers
 collection: hardware
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178096/subst
 
 ## Summary
 
-Space-based computing infrastructure leveraging cold vacuum environments.
+Data centers in orbit using space's vacuum and cold for passive cooling
 
 ## Description
 

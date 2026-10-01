@@ -2,7 +2,8 @@
 slug: at-home-molecular-diagnostics
 hub: aura
 title: At-Home Molecular Diagnostics
-summary: Compact spectrometers and microfluidic skin testers.
+summary: Handheld devices that measure skin biomarkers like collagen and oxidative
+  stress at home
 permalink: https://www.envisioning.com/aura/at-home-molecular-diagnostics
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990347/aura/
 
 ## Summary
 
-Compact spectrometers and microfluidic skin testers.
+Handheld devices that measure skin biomarkers like collagen and oxidative stress at home
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-native-command-control
 hub: aegis
 title: AI-Native Command & Control
-summary: Strategic planning AI integrating logistics, terrain, and threat models.
+summary: AI-driven military planning systems integrating intelligence, logistics,
+  and real-time threat data
 permalink: https://www.envisioning.com/aegis/ai-native-command-control
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996062/aegis
 
 ## Summary
 
-Strategic planning AI integrating logistics, terrain, and threat models.
+AI-driven military planning systems integrating intelligence, logistics, and real-time threat data
 
 ## Description
 

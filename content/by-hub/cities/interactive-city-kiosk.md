@@ -2,14 +2,10 @@
 slug: interactive-city-kiosk
 hub: cities
 title: Interactive City Kiosk
-summary: Public touchscreen devices strategically installed in high-traffic urban
-  areas to provide real-time information and services. These kiosks address difficulty
-  in accessing timely information on public services, navigating city spaces, and
-  engaging with local communities. They are equipped with features such as wayfinding,
-  public transport schedules, local news, emergency alerts, and Wi-Fi connectivity,
-  making them versatile tools for enhancing urban living.
+summary: Public touchscreens offering wayfinding, transit info, and city services
+  in high-traffic areas
 permalink: https://www.envisioning.com/cities/interactive-city-kiosk
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: hardware
 trl: 9
 impact: 3
 investment: 3
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719241519-interactive-city-kio
 
 ## Summary
 
-Public touchscreen devices strategically installed in high-traffic urban areas to provide real-time information and services. These kiosks address difficulty in accessing timely information on public services, navigating city spaces, and engaging with local communities. They are equipped with features such as wayfinding, public transport schedules, local news, emergency alerts, and Wi-Fi connectivity, making them versatile tools for enhancing urban living.
+Public touchscreens offering wayfinding, transit info, and city services in high-traffic areas
 
 ## Description
 

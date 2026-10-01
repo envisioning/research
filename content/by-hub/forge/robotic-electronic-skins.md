@@ -2,7 +2,8 @@
 slug: robotic-electronic-skins
 hub: forge
 title: Robotic Electronic Skins (e-Skins)
-summary: Large-area, flexible sensor arrays giving robots whole-body tactile awareness.
+summary: Flexible sensor arrays that give robots continuous touch sensitivity across
+  their entire body
 permalink: https://www.envisioning.com/forge/robotic-electronic-skins
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177643/forge
 
 ## Summary
 
-Large-area, flexible sensor arrays giving robots whole-body tactile awareness.
+Flexible sensor arrays that give robots continuous touch sensitivity across their entire body
 
 ## Description
 

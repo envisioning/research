@@ -2,7 +2,8 @@
 slug: ai-bias-auditing-frameworks
 hub: polis
 title: AI Bias Auditing Frameworks
-summary: Automated tools for detecting discrimination in public algorithms.
+summary: Standardized tools and methods for detecting discrimination in government
+  AI systems
 permalink: https://www.envisioning.com/polis/ai-bias-auditing-frameworks
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127154/polis
 
 ## Summary
 
-Automated tools for detecting discrimination in public algorithms.
+Standardized tools and methods for detecting discrimination in government AI systems
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: hydrogen-electric-powertrains
 hub: altitude
 title: Hydrogen-Electric Powertrains
-summary: Zero-emission propulsion systems utilizing hydrogen fuel cells for aviation.
+summary: Fuel cells converting hydrogen to electricity for zero-emission flight propulsion
 permalink: https://www.envisioning.com/altitude/hydrogen-electric-powertrains
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641585/altit
 
 ## Summary
 
-Zero-emission propulsion systems utilizing hydrogen fuel cells for aviation.
+Fuel cells converting hydrogen to electricity for zero-emission flight propulsion
 
 ## Description
 

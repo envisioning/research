@@ -2,20 +2,21 @@
 slug: industrial-replicator
 hub: subspace
 title: Industrial Replicator
-summary: Heavy-duty matter synthesis for large structures and relief logistics.
+summary: Large-scale matter synthesis for infrastructure, machinery, and emergency
+  supply production
 permalink: https://www.envisioning.com/subspace/industrial-replicator
 collection: engineering
 trl: 7
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760265178/subspaceindex/technologies/industrial-replicator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908182/subspace/technologies/industrial-replicator-openrouter-google-gemini-3.1-flash-image-preview-lhgvos.png
 ---
 
 # Industrial Replicator
 
 ## Summary
 
-Heavy-duty matter synthesis for large structures and relief logistics.
+Large-scale matter synthesis for infrastructure, machinery, and emergency supply production
 
 ## Description
 

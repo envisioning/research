@@ -2,7 +2,8 @@
 slug: high-density-cortical-arrays
 hub: cortex
 title: High-Density Cortical Arrays
-summary: Thousands of channels for single-neuron resolution.
+summary: Electrode arrays recording thousands of neurons simultaneously for brain–machine
+  interfaces
 permalink: https://www.envisioning.com/cortex/high-density-cortical-arrays
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010182/corte
 
 ## Summary
 
-Thousands of channels for single-neuron resolution.
+Electrode arrays recording thousands of neurons simultaneously for brain–machine interfaces
 
 ## Description
 

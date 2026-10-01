@@ -2,21 +2,21 @@
 slug: toroidal-soliton-dna-antenna
 hub: xenotech
 title: DNA Coupling
-summary: Theoretical framework proposing DNA functions as fractal toroidal antenna
-  coupling biological consciousness to scalar field substrate.
+summary: DNA as fractal antenna coupling biological systems to proposed scalar field
+  substrate
 permalink: https://www.envisioning.com/xenotech/toroidal-soliton-dna-antenna
 collection: biology-hybridization
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762698006/xenotech/technologies/toroidal-soliton-dna-antenna-openai-gpt-5-0o2w3a.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898046/xenotech/technologies/toroidal-soliton-dna-antenna-openrouter-google-gemini-3.1-flash-image-preview-gwmj9j.png
 ---
 
 # DNA Coupling
 
 ## Summary
 
-Theoretical framework proposing DNA functions as fractal toroidal antenna coupling biological consciousness to scalar field substrate.
+DNA as fractal antenna coupling biological systems to proposed scalar field substrate
 
 ## Description
 

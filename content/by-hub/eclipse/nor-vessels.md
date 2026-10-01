@@ -2,7 +2,8 @@
 slug: nor-vessels
 hub: eclipse
 title: Natural Organic Reduction Vessels
-summary: Specialized chambers for converting human remains into soil.
+summary: Chambers that accelerate human decomposition into soil through controlled
+  biological processes
 permalink: https://www.envisioning.com/eclipse/nor-vessels
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126409/eclip
 
 ## Summary
 
-Specialized chambers for converting human remains into soil.
+Chambers that accelerate human decomposition into soil through controlled biological processes
 
 ## Description
 

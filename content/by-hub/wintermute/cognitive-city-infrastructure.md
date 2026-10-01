@@ -2,7 +2,8 @@
 slug: cognitive-city-infrastructure
 hub: wintermute
 title: Cognitive Infrastructure for Cities
-summary: AI governance layers overseeing energy, mobility, and emergency response.
+summary: AI coordination layers that monitor and optimize urban systems like energy,
+  transit, and emergency services
 permalink: https://www.envisioning.com/wintermute/cognitive-city-infrastructure
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985596/winte
 
 ## Summary
 
-AI governance layers overseeing energy, mobility, and emergency response.
+AI coordination layers that monitor and optimize urban systems like energy, transit, and emergency services
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: consumer-lidar-sensors
 hub: prism
 title: Consumer LiDAR Sensors
-summary: Depth-sensing hardware integrated into mobile devices for instant 3D scanning.
+summary: Depth-sensing hardware in phones and tablets that captures centimeter-accurate
+  3D scans
 permalink: https://www.envisioning.com/prism/consumer-lidar-sensors
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062558/pulse
 
 ## Summary
 
-Depth-sensing hardware integrated into mobile devices for instant 3D scanning.
+Depth-sensing hardware in phones and tablets that captures centimeter-accurate 3D scans
 
 ## Description
 

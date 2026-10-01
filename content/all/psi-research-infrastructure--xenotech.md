@@ -2,22 +2,21 @@
 slug: psi-research-infrastructure
 hub: xenotech
 title: Remote Viewing
-summary: Comprehensive research infrastructure for consciousness-matter interaction
-  including remote viewing protocols, brainwave entrainment systems, and controlled
-  parapsychology facilities.
+summary: Structured protocol for alleged psychic perception of distant targets through
+  staged mental exercises
 permalink: https://www.envisioning.com/xenotech/psi-research-infrastructure
 collection: defense-surveillance
 trl: 5
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760814393/xenotech/technologies/remote-viewing-tech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902910/xenotech/technologies/psi-research-infrastructure-openrouter-google-gemini-3.1-flash-image-preview-nlke6z.png
 ---
 
 # Remote Viewing
 
 ## Summary
 
-Comprehensive research infrastructure for consciousness-matter interaction including remote viewing protocols, brainwave entrainment systems, and controlled parapsychology facilities.
+Structured protocol for alleged psychic perception of distant targets through staged mental exercises
 
 ## Description
 

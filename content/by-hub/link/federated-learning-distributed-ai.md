@@ -2,7 +2,7 @@
 slug: federated-learning-distributed-ai
 hub: link
 title: Federated Learning for Distributed Network AI
-summary: Training AI models across distributed nodes without centralizing data.
+summary: Training AI models across network nodes while keeping data local and private
 permalink: https://www.envisioning.com/link/federated-learning-distributed-ai
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436363/link/
 
 ## Summary
 
-Training AI models across distributed nodes without centralizing data.
+Training AI models across network nodes while keeping data local and private
 
 ## Description
 

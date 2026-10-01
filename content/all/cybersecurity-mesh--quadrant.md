@@ -2,7 +2,8 @@
 slug: cybersecurity-mesh
 hub: quadrant
 title: Cybersecurity Mesh
-summary: Distributed security architecture for hyper-connected assets.
+summary: Distributed security model that protects each connected device as an independent
+  entity
 permalink: https://www.envisioning.com/quadrant/cybersecurity-mesh
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128177/quadr
 
 ## Summary
 
-Distributed security architecture for hyper-connected assets.
+Distributed security model that protects each connected device as an independent entity
 
 ## Description
 

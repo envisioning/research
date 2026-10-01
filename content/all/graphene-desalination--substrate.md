@@ -2,7 +2,8 @@
 slug: graphene-desalination
 hub: substrate
 title: Graphene Desalination Membranes
-summary: Atomic-scale sieves for highly efficient water purification.
+summary: Nanoporous graphene sheets that filter salt from seawater with less energy
+  than reverse osmosis
 permalink: https://www.envisioning.com/substrate/graphene-desalination
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118425/subst
 
 ## Summary
 
-Atomic-scale sieves for highly efficient water purification.
+Nanoporous graphene sheets that filter salt from seawater with less energy than reverse osmosis
 
 ## Description
 

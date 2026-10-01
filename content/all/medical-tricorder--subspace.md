@@ -2,21 +2,20 @@
 slug: medical-tricorder
 hub: subspace
 title: Medical Tricorder
-summary: Portable diagnostic device capable of comprehensive biological and medical
-  analysis.
+summary: Handheld device for non-invasive medical diagnosis and biological scanning
 permalink: https://www.envisioning.com/subspace/medical-tricorder
 collection: biotechnology
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760209831/subspaceindex/technologies/medical-tricorder.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908390/subspace/technologies/medical-tricorder-openrouter-google-gemini-3.1-flash-image-preview-qtruqc.png
 ---
 
 # Medical Tricorder
 
 ## Summary
 
-Portable diagnostic device capable of comprehensive biological and medical analysis.
+Handheld device for non-invasive medical diagnosis and biological scanning
 
 ## Description
 

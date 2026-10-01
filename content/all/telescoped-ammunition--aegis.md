@@ -2,19 +2,20 @@
 slug: telescoped-ammunition
 hub: aegis
 title: Telescoped Ammunition
-summary: More compact cartridges with projectile nested in propellant.
+summary: Cartridges with projectiles nested inside propellant for compact weapon systems
 permalink: https://www.envisioning.com/aegis/telescoped-ammunition
 collection: hardware
 trl: 5
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772963575/aegis/technologies/telescoped-ammunition-3rjrm5.jpg
 ---
 
 # Telescoped Ammunition
 
 ## Summary
 
-More compact cartridges with projectile nested in propellant.
+Cartridges with projectiles nested inside propellant for compact weapon systems
 
 ## Description
 

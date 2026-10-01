@@ -2,7 +2,7 @@
 slug: fusion-energy
 hub: grid
 title: Nuclear Fusion Reactors
-summary: Experimental reactors achieving net energy gain from nuclear fusion reactions.
+summary: Reactors that fuse hydrogen isotopes to generate clean, abundant energy
 permalink: https://www.envisioning.com/grid/fusion-energy
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131948/grid/
 
 ## Summary
 
-Experimental reactors achieving net energy gain from nuclear fusion reactions.
+Reactors that fuse hydrogen isotopes to generate clean, abundant energy
 
 ## Description
 

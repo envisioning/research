@@ -2,7 +2,8 @@
 slug: canadian-ai-research-labs
 hub: wintermute
 title: Canadian AI Research Labs
-summary: Academic-industry hubs advancing deep learning and reinforcement learning.
+summary: Academic-industry institutes advancing deep learning, reinforcement learning,
+  and responsible AI development
 permalink: https://www.envisioning.com/wintermute/canadian-ai-research-labs
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079778/winte
 
 ## Summary
 
-Academic-industry hubs advancing deep learning and reinforcement learning.
+Academic-industry institutes advancing deep learning, reinforcement learning, and responsible AI development
 
 ## Description
 

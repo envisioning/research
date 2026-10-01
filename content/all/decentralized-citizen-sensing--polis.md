@@ -2,7 +2,8 @@
 slug: decentralized-citizen-sensing
 hub: polis
 title: Decentralized Citizen Sensing
-summary: Community-owned IoT networks for environmental monitoring.
+summary: Community-owned IoT networks that enable residents to monitor local air quality,
+  noise, and environmental conditions
 permalink: https://www.envisioning.com/polis/decentralized-citizen-sensing
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126412/polis
 
 ## Summary
 
-Community-owned IoT networks for environmental monitoring.
+Community-owned IoT networks that enable residents to monitor local air quality, noise, and environmental conditions
 
 ## Description
 

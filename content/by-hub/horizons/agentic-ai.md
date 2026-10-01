@@ -2,9 +2,10 @@
 slug: agentic-ai
 hub: horizons
 title: Agentic AI
-summary: Autonomous AI agents capable of planning and executing complex tasks.
+summary: AI systems that autonomously plan, decide, and adapt to achieve goals without
+  constant human input
 permalink: https://www.envisioning.com/horizons/agentic-ai
-collection: intelligence-computation
+collection: software
 trl: 6
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521461/horiz
 
 ## Summary
 
-Autonomous AI agents capable of planning and executing complex tasks.
+AI systems that autonomously plan, decide, and adapt to achieve goals without constant human input
 
 ## Description
 

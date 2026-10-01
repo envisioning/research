@@ -2,21 +2,21 @@
 slug: phase-cloak
 hub: subspace
 title: Phased Cloaking Device
-summary: Banned Federation technology combining cloaking with phase shifting to pass
-  through solid matter.
+summary: Combines invisibility with quantum phase shifting to pass through solid objects
+  undetected
 permalink: https://www.envisioning.com/subspace/phase-cloak
 collection: defense
 trl: 5
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211732/subspaceindex/technologies/phase-cloak.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908631/subspace/technologies/phase-cloak-openrouter-google-gemini-3.1-flash-image-preview-oc72i9.png
 ---
 
 # Phased Cloaking Device
 
 ## Summary
 
-Banned Federation technology combining cloaking with phase shifting to pass through solid matter.
+Combines invisibility with quantum phase shifting to pass through solid objects undetected
 
 ## Description
 

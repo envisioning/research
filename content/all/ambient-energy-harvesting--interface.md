@@ -2,13 +2,13 @@
 slug: ambient-energy-harvesting
 hub: interface
 title: Ambient Energy Harvesting
-summary: Technologies to harvest power from RF, indoor light, and other ambient sources
-  for battery-free operation.
+summary: Powering devices by capturing energy from RF signals, light, vibration, and
+  heat instead of batteries
 permalink: https://www.envisioning.com/interface/ambient-energy-harvesting
-collection: ambient-contextual-systems
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743320/interface/technologies/ambient-energy-harvesting-google-gemini-3-pro-image-preview-nm9m5i.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743320/inter
 
 ## Summary
 
-Technologies to harvest power from RF, indoor light, and other ambient sources for battery-free operation.
+Powering devices by capturing energy from RF signals, light, vibration, and heat instead of batteries
 
 ## Description
 

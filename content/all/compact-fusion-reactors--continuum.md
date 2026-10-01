@@ -2,7 +2,8 @@
 slug: compact-fusion-reactors
 hub: continuum
 title: Compact Fusion Reactors
-summary: Commercially viable fusion energy for baseload power.
+summary: Nuclear fusion reactors designed for commercial electricity generation without
+  carbon emissions
 permalink: https://www.envisioning.com/continuum/compact-fusion-reactors
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124451/conti
 
 ## Summary
 
-Commercially viable fusion energy for baseload power.
+Nuclear fusion reactors designed for commercial electricity generation without carbon emissions
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: financial-oracle-sensor-gateways
 hub: lattice
 title: Financial Oracle Sensor Gateways
-summary: Hardened gateways binding sensor data to signed on-chain attestations.
+summary: Hardware devices that cryptographically sign sensor data before feeding it
+  to blockchain oracles
 permalink: https://www.envisioning.com/lattice/financial-oracle-sensor-gateways
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990726/flows
 
 ## Summary
 
-Hardened gateways binding sensor data to signed on-chain attestations.
+Hardware devices that cryptographically sign sensor data before feeding it to blockchain oracles
 
 ## Description
 

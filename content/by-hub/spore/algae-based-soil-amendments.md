@@ -2,7 +2,8 @@
 slug: algae-based-soil-amendments
 hub: spore
 title: Algae-Based Soil Amendments
-summary: Bio-fertilizers derived from microalgae that regenerate soil structure.
+summary: Microalgae-derived fertilizers that restore soil structure and fertility
+  using cultivated biomass
 permalink: https://www.envisioning.com/spore/algae-based-soil-amendments
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763977127/spore
 
 ## Summary
 
-Bio-fertilizers derived from microalgae that regenerate soil structure.
+Microalgae-derived fertilizers that restore soil structure and fertility using cultivated biomass
 
 ## Description
 

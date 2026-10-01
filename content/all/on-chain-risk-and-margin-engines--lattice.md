@@ -2,7 +2,8 @@
 slug: on-chain-risk-and-margin-engines
 hub: lattice
 title: On-Chain Risk & Margin Engines
-summary: Shared libraries for margin, liquidation, and risk limits.
+summary: Smart contract libraries that calculate collateral, margin calls, and liquidations
+  across DeFi protocols
 permalink: https://www.envisioning.com/lattice/on-chain-risk-and-margin-engines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995614/flows
 
 ## Summary
 
-Shared libraries for margin, liquidation, and risk limits.
+Smart contract libraries that calculate collateral, margin calls, and liquidations across DeFi protocols
 
 ## Description
 

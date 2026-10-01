@@ -2,7 +2,8 @@
 slug: ammonia-energy-carrier
 hub: grid
 title: Ammonia as Energy Carrier
-summary: Using ammonia for long-distance hydrogen transport and maritime fuel.
+summary: Transporting and storing hydrogen energy in ammonia form for shipping and
+  grid-scale applications
 permalink: https://www.envisioning.com/grid/ammonia-energy-carrier
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113856/grid/
 
 ## Summary
 
-Using ammonia for long-distance hydrogen transport and maritime fuel.
+Transporting and storing hydrogen energy in ammonia form for shipping and grid-scale applications
 
 ## Description
 

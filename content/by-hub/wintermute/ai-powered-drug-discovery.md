@@ -2,7 +2,8 @@
 slug: ai-powered-drug-discovery
 hub: wintermute
 title: AI-Powered Drug Discovery Platforms
-summary: End-to-end generative chemistry stacks accelerating preclinical pipelines.
+summary: AI systems that design, simulate, and test drug molecules to accelerate pharmaceutical
+  development
 permalink: https://www.envisioning.com/wintermute/ai-powered-drug-discovery
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079855/winte
 
 ## Summary
 
-End-to-end generative chemistry stacks accelerating preclinical pipelines.
+AI systems that design, simulate, and test drug molecules to accelerate pharmaceutical development
 
 ## Description
 

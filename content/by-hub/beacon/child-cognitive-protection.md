@@ -2,7 +2,8 @@
 slug: child-cognitive-protection
 hub: beacon
 title: Child Cognitive Protection Systems
-summary: Safeguarding developing minds from manipulation.
+summary: Regulatory frameworks limiting manipulative design patterns in platforms
+  serving young users
 permalink: https://www.envisioning.com/beacon/child-cognitive-protection
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126115/beaco
 
 ## Summary
 
-Safeguarding developing minds from manipulation.
+Regulatory frameworks limiting manipulative design patterns in platforms serving young users
 
 ## Description
 

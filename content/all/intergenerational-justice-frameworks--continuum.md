@@ -2,7 +2,8 @@
 slug: intergenerational-justice-frameworks
 hub: continuum
 title: Intergenerational Justice Frameworks
-summary: Legal standing for future generations in policy and courts.
+summary: Legal and governance mechanisms that give future generations standing in
+  today's policy decisions
 permalink: https://www.envisioning.com/continuum/intergenerational-justice-frameworks
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126117/conti
 
 ## Summary
 
-Legal standing for future generations in policy and courts.
+Legal and governance mechanisms that give future generations standing in today's policy decisions
 
 ## Description
 

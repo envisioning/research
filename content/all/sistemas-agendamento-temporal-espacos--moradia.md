@@ -2,8 +2,8 @@
 slug: sistemas-agendamento-temporal-espacos
 hub: moradia
 title: Sistemas de Agendamento Temporal de Espaços
-summary: Plataformas e aplicativos para agendamento e coordenação de uso compartilhado
-  de espaços domésticos e comuns, criando gestão temporal de espaços através de tecnologia.
+summary: Plataformas digitais para agendar e coordenar o uso compartilhado de espaços
+  domésticos e áreas comuns
 permalink: https://www.envisioning.com/moradia/sistemas-agendamento-temporal-espacos
 collection: plataformas-dados
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668361/habit
 
 ## Summary
 
-Plataformas e aplicativos para agendamento e coordenação de uso compartilhado de espaços domésticos e comuns, criando gestão temporal de espaços através de tecnologia.
+Plataformas digitais para agendar e coordenar o uso compartilhado de espaços domésticos e áreas comuns
 
 ## Description
 

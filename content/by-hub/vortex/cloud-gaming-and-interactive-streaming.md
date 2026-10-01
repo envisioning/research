@@ -2,7 +2,8 @@
 slug: cloud-gaming-and-interactive-streaming
 hub: vortex
 title: Cloud Gaming & Interactive Streaming
-summary: Low-latency game and app streaming from the cloud.
+summary: Running games and apps on remote servers, streamed to any device with minimal
+  lag
 permalink: https://www.envisioning.com/vortex/cloud-gaming-and-interactive-streaming
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127149/vorte
 
 ## Summary
 
-Low-latency game and app streaming from the cloud.
+Running games and apps on remote servers, streamed to any device with minimal lag
 
 ## Description
 

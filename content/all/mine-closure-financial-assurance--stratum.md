@@ -2,7 +2,8 @@
 slug: mine-closure-financial-assurance
 hub: stratum
 title: Mine Closure Financial Assurance Systems
-summary: Blockchain and escrow mechanisms guaranteeing rehabilitation funding.
+summary: Blockchain-based escrow systems ensuring mining sites have guaranteed funds
+  for environmental cleanup
 permalink: https://www.envisioning.com/stratum/mine-closure-financial-assurance
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435191/strat
 
 ## Summary
 
-Blockchain and escrow mechanisms guaranteeing rehabilitation funding.
+Blockchain-based escrow systems ensuring mining sites have guaranteed funds for environmental cleanup
 
 ## Description
 

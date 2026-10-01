@@ -2,7 +2,8 @@
 slug: aging-simulation-apps
 hub: aura
 title: Aging Simulation Apps
-summary: Photorealistic projections showing decade-long skin trajectories.
+summary: Apps that project how your face will age based on lifestyle, genetics, and
+  skincare habits
 permalink: https://www.envisioning.com/aura/aging-simulation-apps
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060225/aura/
 
 ## Summary
 
-Photorealistic projections showing decade-long skin trajectories.
+Apps that project how your face will age based on lifestyle, genetics, and skincare habits
 
 ## Description
 

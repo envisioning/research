@@ -2,21 +2,21 @@
 slug: constant-acceleration-interstellar
 hub: xenotech
 title: Constant-Acceleration Drive
-summary: Proposed fusion-based drive maintaining continuous acceleration for weeks,
-  reaching 0.7c for rapid interstellar missions.
+summary: Fusion propulsion system designed to accelerate continuously for weeks, enabling
+  near-light-speed interstellar travel
 permalink: https://www.envisioning.com/xenotech/constant-acceleration-interstellar
 collection: energy-systems
 trl: 2
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760813892/xenotech/technologies/magnetic-reconnection-propulsion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897922/xenotech/technologies/constant-acceleration-interstellar-openrouter-google-gemini-3.1-flash-image-preview-8ayoo6.png
 ---
 
 # Constant-Acceleration Drive
 
 ## Summary
 
-Proposed fusion-based drive maintaining continuous acceleration for weeks, reaching 0.7c for rapid interstellar missions.
+Fusion propulsion system designed to accelerate continuously for weeks, enabling near-light-speed interstellar travel
 
 ## Description
 

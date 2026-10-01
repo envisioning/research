@@ -2,8 +2,8 @@
 slug: artisanal-mining-formalization
 hub: stratum
 title: Artisanal Mining Formalization Platforms
-summary: Digital systems supporting small-scale miners with traceability, safety,
-  and market access.
+summary: Digital systems that formalize small-scale mining through identity verification,
+  production tracking, and support servic
 permalink: https://www.envisioning.com/stratum/artisanal-mining-formalization
 collection: ethics-security
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435123/strat
 
 ## Summary
 
-Digital systems supporting small-scale miners with traceability, safety, and market access.
+Digital systems that formalize small-scale mining through identity verification, production tracking, and support servic
 
 ## Description
 

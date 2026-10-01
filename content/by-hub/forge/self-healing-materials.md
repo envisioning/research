@@ -2,7 +2,8 @@
 slug: self-healing-materials
 hub: forge
 title: Self-Healing Materials & Adaptive Structures
-summary: Materials that autonomously repair damage and extend component lifespan.
+summary: Materials that autonomously repair damage through embedded healing agents
+  or vascular networks
 permalink: https://www.envisioning.com/forge/self-healing-materials
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177651/forge
 
 ## Summary
 
-Materials that autonomously repair damage and extend component lifespan.
+Materials that autonomously repair damage through embedded healing agents or vascular networks
 
 ## Description
 

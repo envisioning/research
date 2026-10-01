@@ -2,21 +2,21 @@
 slug: scalar-wave-technologies
 hub: xenotech
 title: Scalar Waves
-summary: Proposed longitudinal electromagnetic waves for consciousness coupling, faster-than-light
-  communication, and biological interfacing.
+summary: Proposed longitudinal EM waves claimed to enable consciousness coupling and
+  superluminal communication
 permalink: https://www.envisioning.com/xenotech/scalar-wave-technologies
 collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760819620/xenotech/technologies/scalar-consciousness-coupling.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903018/xenotech/technologies/scalar-wave-technologies-openrouter-google-gemini-3.1-flash-image-preview-o9nv2d.png
 ---
 
 # Scalar Waves
 
 ## Summary
 
-Proposed longitudinal electromagnetic waves for consciousness coupling, faster-than-light communication, and biological interfacing.
+Proposed longitudinal EM waves claimed to enable consciousness coupling and superluminal communication
 
 ## Description
 

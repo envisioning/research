@@ -2,7 +2,7 @@
 slug: volumetric-video-streaming
 hub: vortex
 title: Volumetric Video Streaming
-summary: Streaming of true 3D captured performances.
+summary: Streaming 3D-captured performances viewable from any angle in real time
 permalink: https://www.envisioning.com/vortex/volumetric-video-streaming
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126897/vorte
 
 ## Summary
 
-Streaming of true 3D captured performances.
+Streaming 3D-captured performances viewable from any angle in real time
 
 ## Description
 

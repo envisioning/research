@@ -2,7 +2,8 @@
 slug: adaptive-camouflage-textiles
 hub: fabric
 title: Adaptive Camouflage Textiles
-summary: Photonic and pigment-shifting fabrics blending into changing backgrounds.
+summary: Fabrics that change color and pattern to match surroundings using photonic
+  crystals and responsive pigments
 permalink: https://www.envisioning.com/fabric/adaptive-camouflage-textiles
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062511/threa
 
 ## Summary
 
-Photonic and pigment-shifting fabrics blending into changing backgrounds.
+Fabrics that change color and pattern to match surroundings using photonic crystals and responsive pigments
 
 ## Description
 

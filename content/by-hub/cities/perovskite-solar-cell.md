@@ -2,14 +2,10 @@
 slug: perovskite-solar-cell
 hub: cities
 title: Perovskite Solar Cell
-summary: These solar cells utilize a unique hybrid organic-inorganic lead or tin halide
-  material that forms a perovskite crystal structure. This material can be applied
-  in thin layers using low-cost manufacturing techniques, making the production process
-  more economical and versatile. Perovskite solar cells have demonstrated remarkable
-  efficiency rates, capable of absorbing a broader spectrum of light, including low-intensity
-  and diffuse light, which makes them highly efficient even in suboptimal conditions.
+summary: Thin-film solar cells using perovskite crystals for higher efficiency at
+  lower manufacturing cost
 permalink: https://www.envisioning.com/cities/perovskite-solar-cell
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 8
 impact: 2
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719230544-perovskite-solar-cel
 
 ## Summary
 
-These solar cells utilize a unique hybrid organic-inorganic lead or tin halide material that forms a perovskite crystal structure. This material can be applied in thin layers using low-cost manufacturing techniques, making the production process more economical and versatile. Perovskite solar cells have demonstrated remarkable efficiency rates, capable of absorbing a broader spectrum of light, including low-intensity and diffuse light, which makes them highly efficient even in suboptimal conditions.
+Thin-film solar cells using perovskite crystals for higher efficiency at lower manufacturing cost
 
 ## Description
 

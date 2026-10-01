@@ -2,7 +2,7 @@
 slug: mobile-digital-identity
 hub: sentinel
 title: Mobile Digital Identity (mDL)
-summary: ISO 18013-5 compliant mobile driver's licenses and national ID credentials.
+summary: Government-issued driver's licenses and IDs stored securely on smartphones
 permalink: https://www.envisioning.com/sentinel/mobile-digital-identity
 collection: applications
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462030/senti
 
 ## Summary
 
-ISO 18013-5 compliant mobile driver's licenses and national ID credentials.
+Government-issued driver's licenses and IDs stored securely on smartphones
 
 ## Description
 

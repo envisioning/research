@@ -2,7 +2,8 @@
 slug: civic-reputation-credentials
 hub: polis
 title: Civic Reputation Credentials
-summary: Portable records of constructive civic contributions and public service.
+summary: Verifiable records of civic participation and public service that travel
+  across platforms
 permalink: https://www.envisioning.com/polis/civic-reputation-credentials
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126479/polis
 
 ## Summary
 
-Portable records of constructive civic contributions and public service.
+Verifiable records of civic participation and public service that travel across platforms
 
 ## Description
 

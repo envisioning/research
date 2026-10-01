@@ -2,7 +2,8 @@
 slug: ai-biodiversity-monitoring
 hub: continuum
 title: AI Biodiversity Monitoring
-summary: Real-time ecosystem health tracking via sensors and computer vision.
+summary: Automated ecosystem tracking using sensors, cameras, and AI to monitor species
+  and habitat health
 permalink: https://www.envisioning.com/continuum/ai-biodiversity-monitoring
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123948/conti
 
 ## Summary
 
-Real-time ecosystem health tracking via sensors and computer vision.
+Automated ecosystem tracking using sensors, cameras, and AI to monitor species and habitat health
 
 ## Description
 

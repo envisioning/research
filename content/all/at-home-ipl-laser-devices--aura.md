@@ -2,7 +2,8 @@
 slug: at-home-ipl-laser-devices
 hub: aura
 title: At-Home IPL/Laser Devices
-summary: Consumer IPL handsets and diode lasers for hair removal and pigmentation.
+summary: Handheld light-based devices for hair removal and skin pigmentation treatment
+  at home
 permalink: https://www.envisioning.com/aura/at-home-ipl-laser-devices
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764311860/aura/
 
 ## Summary
 
-Consumer IPL handsets and diode lasers for hair removal and pigmentation.
+Handheld light-based devices for hair removal and skin pigmentation treatment at home
 
 ## Description
 

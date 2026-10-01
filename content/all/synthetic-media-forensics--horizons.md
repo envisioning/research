@@ -2,9 +2,10 @@
 slug: synthetic-media-forensics
 hub: horizons
 title: Synthetic Media Forensics
-summary: Tools for detecting and analyzing AI-generated content.
+summary: Detection and analysis tools for identifying AI-generated images, video,
+  and audio
 permalink: https://www.envisioning.com/horizons/synthetic-media-forensics
-collection: society-culture
+collection: ethics-security
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521854/horiz
 
 ## Summary
 
-Tools for detecting and analyzing AI-generated content.
+Detection and analysis tools for identifying AI-generated images, video, and audio
 
 ## Description
 

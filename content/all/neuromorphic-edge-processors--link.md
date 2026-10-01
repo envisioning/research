@@ -2,7 +2,7 @@
 slug: neuromorphic-edge-processors
 hub: link
 title: Neuromorphic Edge Processors
-summary: Brain-inspired chips for ultra-efficient AI inference at the network edge.
+summary: Brain-inspired chips that run AI models locally with minimal power consumption
 permalink: https://www.envisioning.com/link/neuromorphic-edge-processors
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435185/link/
 
 ## Summary
 
-Brain-inspired chips for ultra-efficient AI inference at the network edge.
+Brain-inspired chips that run AI models locally with minimal power consumption
 
 ## Description
 

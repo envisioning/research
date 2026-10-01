@@ -2,8 +2,8 @@
 slug: longevity-access-compacts
 hub: epoch
 title: Longevity Access Compacts
-summary: Policy frameworks that guarantee equitable access to life-extending interventions
-  across populations.
+summary: Policy frameworks ensuring equitable distribution of life-extending therapies
+  across all populations
 permalink: https://www.envisioning.com/epoch/longevity-access-compacts
 collection: ethics-security
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477708/epoch
 
 ## Summary
 
-Policy frameworks that guarantee equitable access to life-extending interventions across populations.
+Policy frameworks ensuring equitable distribution of life-extending therapies across all populations
 
 ## Description
 

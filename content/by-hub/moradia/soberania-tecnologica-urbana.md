@@ -2,8 +2,8 @@
 slug: soberania-tecnologica-urbana
 hub: moradia
 title: Soberania Tecnológica Urbana
-summary: Dependência de tecnologias e plataformas estrangeiras em infraestrutura urbana
-  crítica.
+summary: Desenvolvimento local de tecnologias críticas para reduzir dependência de
+  plataformas estrangeiras em cidades
 permalink: https://www.envisioning.com/moradia/soberania-tecnologica-urbana
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766586071/habit
 
 ## Summary
 
-Dependência de tecnologias e plataformas estrangeiras em infraestrutura urbana crítica.
+Desenvolvimento local de tecnologias críticas para reduzir dependência de plataformas estrangeiras em cidades
 
 ## Description
 

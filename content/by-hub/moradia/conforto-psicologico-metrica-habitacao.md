@@ -2,9 +2,8 @@
 slug: conforto-psicologico-metrica-habitacao
 hub: moradia
 title: Conforto Psicológico como Métrica de Habitação
-summary: Priorização de conforto psicológico (calma, controle, alívio mental) sobre
-  métricas materiais na avaliação de qualidade habitacional, onde isolamento acústico,
-  minimalismo e espaços de retiro se tornam indicadores centrais de qualidade.
+summary: Avaliação de moradia baseada em bem-estar mental, não apenas em metragem
+  ou acabamentos
 permalink: https://www.envisioning.com/moradia/conforto-psicologico-metrica-habitacao
 collection: sistemas-prediais-automacao
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766784426/morad
 
 ## Summary
 
-Priorização de conforto psicológico (calma, controle, alívio mental) sobre métricas materiais na avaliação de qualidade habitacional, onde isolamento acústico, minimalismo e espaços de retiro se tornam indicadores centrais de qualidade.
+Avaliação de moradia baseada em bem-estar mental, não apenas em metragem ou acabamentos
 
 ## Description
 

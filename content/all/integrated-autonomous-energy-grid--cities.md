@@ -2,15 +2,10 @@
 slug: integrated-autonomous-energy-grid
 hub: cities
 title: Integrated Autonomous Energy Grid
-summary: To address the inefficiencies and sustainability challenges of traditional
-  urban energy systems, this technology integrates renewable energy sources such as
-  solar and wind power with existing energy infrastructures, managed by sophisticated
-  AI and machine learning algorithms. These systems monitor, predict, and optimise
-  energy flows in real-time, ensuring a stable and efficient energy supply. The IAEG
-  aims to reduce greenhouse gas emissions, enhance energy resilience, and improve
-  energy equity by providing reliable power distribution, even in disaster-prone areas.
+summary: AI-managed grid combining renewable sources with existing infrastructure
+  for real-time urban energy optimization
 permalink: https://www.envisioning.com/cities/integrated-autonomous-energy-grid
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: hardware
 trl: 7
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792451-integrated-autonomou
 
 ## Summary
 
-To address the inefficiencies and sustainability challenges of traditional urban energy systems, this technology integrates renewable energy sources such as solar and wind power with existing energy infrastructures, managed by sophisticated AI and machine learning algorithms. These systems monitor, predict, and optimise energy flows in real-time, ensuring a stable and efficient energy supply. The IAEG aims to reduce greenhouse gas emissions, enhance energy resilience, and improve energy equity by providing reliable power distribution, even in disaster-prone areas.
+AI-managed grid combining renewable sources with existing infrastructure for real-time urban energy optimization
 
 ## Description
 

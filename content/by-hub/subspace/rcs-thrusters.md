@@ -2,20 +2,20 @@
 slug: rcs-thrusters
 hub: subspace
 title: RCS Thrusters
-summary: Reaction-control thrusters for precision attitude and low-velocity translation.
+summary: Small thrusters for spacecraft rotation and fine positional adjustments
 permalink: https://www.envisioning.com/subspace/rcs-thrusters
 collection: propulsion
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760261988/subspaceindex/technologies/rcs-thrusters.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908826/subspace/technologies/rcs-thrusters-openrouter-google-gemini-3.1-flash-image-preview-b1f58b.png
 ---
 
 # RCS Thrusters
 
 ## Summary
 
-Reaction-control thrusters for precision attitude and low-velocity translation.
+Small thrusters for spacecraft rotation and fine positional adjustments
 
 ## Description
 

@@ -2,21 +2,20 @@
 slug: disruptor
 hub: subspace
 title: Disruptor
-summary: Klingon and Romulan directed energy weapon causing molecular disruption on
-  impact.
+summary: Directed energy weapon that disrupts molecular bonds on impact
 permalink: https://www.envisioning.com/subspace/disruptor
 collection: weapons
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208586/subspaceindex/technologies/disruptor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907856/subspace/technologies/disruptor-openrouter-google-gemini-3.1-flash-image-preview-vj3r43.png
 ---
 
 # Disruptor
 
 ## Summary
 
-Klingon and Romulan directed energy weapon causing molecular disruption on impact.
+Directed energy weapon that disrupts molecular bonds on impact
 
 ## Description
 

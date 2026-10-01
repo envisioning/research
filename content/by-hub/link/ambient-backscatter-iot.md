@@ -2,7 +2,8 @@
 slug: ambient-backscatter-iot
 hub: link
 title: Ambient Backscatter IoT
-summary: Battery-free devices powered by harvesting ambient RF energy.
+summary: Wireless devices that communicate by reflecting ambient RF signals without
+  batteries or transmitters
 permalink: https://www.envisioning.com/link/ambient-backscatter-iot
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435060/link/
 
 ## Summary
 
-Battery-free devices powered by harvesting ambient RF energy.
+Wireless devices that communicate by reflecting ambient RF signals without batteries or transmitters
 
 ## Description
 

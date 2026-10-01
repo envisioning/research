@@ -2,7 +2,7 @@
 slug: pqc
 hub: link
 title: Post-Quantum Cryptography (PQC)
-summary: Encryption methods resistant to quantum computer attacks.
+summary: Encryption algorithms designed to withstand attacks from quantum computers
 permalink: https://www.envisioning.com/link/pqc
 collection: ethics-security
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177774/link/
 
 ## Summary
 
-Encryption methods resistant to quantum computer attacks.
+Encryption algorithms designed to withstand attacks from quantum computers
 
 ## Description
 

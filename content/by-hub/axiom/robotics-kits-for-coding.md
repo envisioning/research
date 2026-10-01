@@ -2,7 +2,8 @@
 slug: robotics-kits-for-coding
 hub: axiom
 title: Robotics Kits for Coding
-summary: Modular kits (LEGO, VEX) teaching coding and electronics.
+summary: Modular hardware and software platforms for hands-on coding and robotics
+  education
 permalink: https://www.envisioning.com/axiom/robotics-kits-for-coding
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059776/axiom
 
 ## Summary
 
-Modular kits (LEGO, VEX) teaching coding and electronics.
+Modular hardware and software platforms for hands-on coding and robotics education
 
 ## Description
 

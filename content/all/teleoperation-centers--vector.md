@@ -2,7 +2,8 @@
 slug: teleoperation-centers
 hub: vector
 title: Teleoperation Control Centers
-summary: Remote human-in-the-loop oversight for autonomous vehicle fleets.
+summary: Remote hubs where human operators monitor and intervene in autonomous vehicle
+  fleets
 permalink: https://www.envisioning.com/vector/teleoperation-centers
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182275/vecto
 
 ## Summary
 
-Remote human-in-the-loop oversight for autonomous vehicle fleets.
+Remote hubs where human operators monitor and intervene in autonomous vehicle fleets
 
 ## Description
 

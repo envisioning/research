@@ -2,7 +2,8 @@
 slug: agency-preservation-protocols
 hub: cortex
 title: Agency Preservation Protocols
-summary: Ensuring user control in shared-control systems.
+summary: Design principles that keep users in control when AI assists with prosthetics
+  or medical devices
 permalink: https://www.envisioning.com/cortex/agency-preservation-protocols
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998489/corte
 
 ## Summary
 
-Ensuring user control in shared-control systems.
+Design principles that keep users in control when AI assists with prosthetics or medical devices
 
 ## Description
 

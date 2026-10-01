@@ -2,7 +2,8 @@
 slug: attention-manipulation-safeguards
 hub: liminal
 title: Attention Manipulation Safeguards
-summary: Limits on persuasive design in spatial interfaces.
+summary: Technical and regulatory constraints preventing exploitative persuasive design
+  in XR environments
 permalink: https://www.envisioning.com/liminal/attention-manipulation-safeguards
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123766/limin
 
 ## Summary
 
-Limits on persuasive design in spatial interfaces.
+Technical and regulatory constraints preventing exploitative persuasive design in XR environments
 
 ## Description
 

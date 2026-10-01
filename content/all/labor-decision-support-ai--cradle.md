@@ -2,7 +2,8 @@
 slug: labor-decision-support-ai
 hub: cradle
 title: Labor Decision Support AI
-summary: Predictive analytics for intrapartum care.
+summary: AI systems that analyze fetal heart rate and maternal vitals to guide labor
+  decisions in real time
 permalink: https://www.envisioning.com/cradle/labor-decision-support-ai
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129193/cradl
 
 ## Summary
 
-Predictive analytics for intrapartum care.
+AI systems that analyze fetal heart rate and maternal vitals to guide labor decisions in real time
 
 ## Description
 

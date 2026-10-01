@@ -2,9 +2,8 @@
 slug: gestao-carbono-esg-descarbonizacao
 hub: moradia
 title: Gestão de Carbono, ESG, Descarbonização e EPDs
-summary: Medição, redução e certificação de emissões (ACV), políticas de descarbonização,
-  EPDs, mercado de créditos de carbono e ferramentas para especificações de baixo
-  carbono.
+summary: Plataformas de ACV, EPDs e créditos de carbono para medir, reduzir e certificar
+  emissões na construção
 permalink: https://www.envisioning.com/moradia/gestao-carbono-esg-descarbonizacao
 collection: plataformas-dados
 trl: 3
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766536899/habit
 
 ## Summary
 
-Medição, redução e certificação de emissões (ACV), políticas de descarbonização, EPDs, mercado de créditos de carbono e ferramentas para especificações de baixo carbono.
+Plataformas de ACV, EPDs e créditos de carbono para medir, reduzir e certificar emissões na construção
 
 ## Description
 

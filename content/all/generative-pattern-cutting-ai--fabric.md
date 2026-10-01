@@ -2,7 +2,7 @@
 slug: generative-pattern-cutting-ai
 hub: fabric
 title: Generative Pattern-Cutting AI
-summary: Optimization engines generating zero-waste markers from design intent.
+summary: AI-driven pattern layout that minimizes fabric waste during garment cutting
 permalink: https://www.envisioning.com/fabric/generative-pattern-cutting-ai
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059676/threa
 
 ## Summary
 
-Optimization engines generating zero-waste markers from design intent.
+AI-driven pattern layout that minimizes fabric waste during garment cutting
 
 ## Description
 

@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 3
 impact: 3
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882718/wonen/technologies/1fe65219-839a-4dce-8433-8727530b3a45-google-gemini-3.1-flash-image-preview-k28iv4.jpg
 ---
 
 # Municipal Permitting Capacity (Planner Shortages)

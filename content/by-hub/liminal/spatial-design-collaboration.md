@@ -2,7 +2,7 @@
 slug: spatial-design-collaboration
 hub: liminal
 title: Spatial Design Collaboration
-summary: Co-located and remote co-creation of spaces in mixed reality.
+summary: Real-time co-creation of 3D environments using mixed reality workspaces
 permalink: https://www.envisioning.com/liminal/spatial-design-collaboration
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125034/limin
 
 ## Summary
 
-Co-located and remote co-creation of spaces in mixed reality.
+Real-time co-creation of 3D environments using mixed reality workspaces
 
 ## Description
 

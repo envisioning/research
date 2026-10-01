@@ -2,7 +2,8 @@
 slug: passthrough-ar-glasses
 hub: liminal
 title: Passthrough AR Glasses
-summary: Lightweight mixed-reality eyewear blending physical and digital views.
+summary: Camera-based AR eyewear that reconstructs your surroundings and layers digital
+  content into the view
 permalink: https://www.envisioning.com/liminal/passthrough-ar-glasses
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124817/limin
 
 ## Summary
 
-Lightweight mixed-reality eyewear blending physical and digital views.
+Camera-based AR eyewear that reconstructs your surroundings and layers digital content into the view
 
 ## Description
 

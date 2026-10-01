@@ -2,7 +2,8 @@
 slug: neuromorphic-edge-processors
 hub: quadrant
 title: Neuromorphic Edge Processors
-summary: Brain-inspired chips for ultra-low power, real-time AI at the edge.
+summary: Brain-inspired chips that process AI locally using spiking neural networks
+  for minimal power consumption
 permalink: https://www.envisioning.com/quadrant/neuromorphic-edge-processors
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126338/quadr
 
 ## Summary
 
-Brain-inspired chips for ultra-low power, real-time AI at the edge.
+Brain-inspired chips that process AI locally using spiking neural networks for minimal power consumption
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: soft-robotic-grippers
 hub: forge
 title: Soft Robotic Grippers
-summary: Flexible, compliant end-effectors for handling delicate or irregular objects.
+summary: Flexible grippers that conform to delicate or irregular objects without damage
 permalink: https://www.envisioning.com/forge/soft-robotic-grippers
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117882/forge
 
 ## Summary
 
-Flexible, compliant end-effectors for handling delicate or irregular objects.
+Flexible grippers that conform to delicate or irregular objects without damage
 
 ## Description
 

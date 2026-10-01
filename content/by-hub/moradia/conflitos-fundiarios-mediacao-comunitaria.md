@@ -2,8 +2,8 @@
 slug: conflitos-fundiarios-mediacao-comunitaria
 hub: moradia
 title: Conflitos Fundiários e Mediação Comunitária
-summary: Disputas de terra resolvidas através de mediação comunitária e instrumentos
-  jurídicos alternativos.
+summary: Resolução de disputas de terra por mediação comunitária fora do sistema judicial
+  formal
 permalink: https://www.envisioning.com/moradia/conflitos-fundiarios-mediacao-comunitaria
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584873/habit
 
 ## Summary
 
-Disputas de terra resolvidas através de mediação comunitária e instrumentos jurídicos alternativos.
+Resolução de disputas de terra por mediação comunitária fora do sistema judicial formal
 
 ## Description
 

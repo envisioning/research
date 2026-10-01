@@ -2,7 +2,7 @@
 slug: transcranial-ultrasound-stimulation
 hub: impulse
 title: Transcranial Ultrasound Stimulation (TUS)
-summary: Non-invasive neuromodulation using focused ultrasound.
+summary: Non-invasive brain stimulation using focused ultrasound to reach deep structures
 permalink: https://www.envisioning.com/impulse/transcranial-ultrasound-stimulation
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133410/impul
 
 ## Summary
 
-Non-invasive neuromodulation using focused ultrasound.
+Non-invasive brain stimulation using focused ultrasound to reach deep structures
 
 ## Description
 

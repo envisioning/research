@@ -2,8 +2,8 @@
 slug: cognitive-security
 hub: sentinel
 title: Cognitive Security Systems
-summary: Defense systems protecting against information manipulation and influence
-  operations.
+summary: Defense systems that detect and counter information manipulation targeting
+  human decision-making
 permalink: https://www.envisioning.com/sentinel/cognitive-security
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461554/senti
 
 ## Summary
 
-Defense systems protecting against information manipulation and influence operations.
+Defense systems that detect and counter information manipulation targeting human decision-making
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: diferenciação-estetica-habitacao-social
 hub: moradia
 title: Diferenciação Estética em Habitação Social
-summary: Design de qualidade como vantagem competitiva em projetos de habitação social,
-  elevando padrões de aspiração além da funcionalidade.
+summary: Design de qualidade como diferencial competitivo em habitação social, elevando
+  padrões além da funcionalidade
 permalink: https://www.envisioning.com/moradia/diferencia%C3%A7%C3%A3o-estetica-habitacao-social
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598973/habit
 
 ## Summary
 
-Design de qualidade como vantagem competitiva em projetos de habitação social, elevando padrões de aspiração além da funcionalidade.
+Design de qualidade como diferencial competitivo em habitação social, elevando padrões além da funcionalidade
 
 ## Description
 

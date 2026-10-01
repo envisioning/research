@@ -2,7 +2,8 @@
 slug: in-situ-resource-utilization
 hub: continuum
 title: In-Situ Resource Utilization (ISRU)
-summary: Extracting water, oxygen, and materials from extraterrestrial bodies.
+summary: Extracting water, oxygen, and building materials from the Moon, Mars, and
+  asteroids
 permalink: https://www.envisioning.com/continuum/in-situ-resource-utilization
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125408/conti
 
 ## Summary
 
-Extracting water, oxygen, and materials from extraterrestrial bodies.
+Extracting water, oxygen, and building materials from the Moon, Mars, and asteroids
 
 ## Description
 

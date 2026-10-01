@@ -2,21 +2,21 @@
 slug: electro-aerodynamic-gravity-amplifiers
 hub: xenotech
 title: Electro-aerodynamic Gravity Amplifiers
-summary: High-voltage asymmetrical capacitors producing lift beyond ion wind, based
-  on Thomas Townsend Brown research and Project Winterhaven applications.
+summary: High-voltage capacitors claimed to produce anomalous lift via electrical
+  field interactions with gravity
 permalink: https://www.envisioning.com/xenotech/electro-aerodynamic-gravity-amplifiers
 collection: energy-systems
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761403909/xenotech/technologies/electro-aerodynamic-gravity-amplifiers.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898137/xenotech/technologies/electro-aerodynamic-gravity-amplifiers-openrouter-google-gemini-3.1-flash-image-preview-y10bya.png
 ---
 
 # Electro-aerodynamic Gravity Amplifiers
 
 ## Summary
 
-High-voltage asymmetrical capacitors producing lift beyond ion wind, based on Thomas Townsend Brown research and Project Winterhaven applications.
+High-voltage capacitors claimed to produce anomalous lift via electrical field interactions with gravity
 
 ## Description
 

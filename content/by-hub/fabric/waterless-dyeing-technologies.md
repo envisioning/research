@@ -2,7 +2,8 @@
 slug: waterless-dyeing-technologies
 hub: fabric
 title: Waterless Dyeing Technologies
-summary: Processes using CO2 or other media to dye fabrics without water pollution.
+summary: Dyeing fabrics with CO2 or non-aqueous media instead of water to eliminate
+  wastewater
 permalink: https://www.envisioning.com/fabric/waterless-dyeing-technologies
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058324/threa
 
 ## Summary
 
-Processes using CO2 or other media to dye fabrics without water pollution.
+Dyeing fabrics with CO2 or non-aqueous media instead of water to eliminate wastewater
 
 ## Description
 

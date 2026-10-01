@@ -2,21 +2,21 @@
 slug: inertial-mass-reduction-device
 hub: xenotech
 title: Mass Reduction
-summary: Alters mass-inertia via high-energy EM fields to enable 'massless' motion,
-  based on Salvatore Pais US Navy patents and field-propulsion xenotech mimicry.
+summary: Altering mass-inertia through high-energy EM fields to enable near-massless
+  motion
 permalink: https://www.envisioning.com/xenotech/inertial-mass-reduction-device
 collection: energy-systems
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761387929/xenotech/technologies/inertial-mass-reduction-device.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898669/xenotech/technologies/inertial-mass-reduction-device-openrouter-google-gemini-3.1-flash-image-preview-695jj3.png
 ---
 
 # Mass Reduction
 
 ## Summary
 
-Alters mass-inertia via high-energy EM fields to enable 'massless' motion, based on Salvatore Pais US Navy patents and field-propulsion xenotech mimicry.
+Altering mass-inertia through high-energy EM fields to enable near-massless motion
 
 ## Description
 

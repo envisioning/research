@@ -2,8 +2,8 @@
 slug: marketplaces-b2b-materiais
 hub: moradia
 title: Marketplaces B2B de Materiais de Construção
-summary: Plataformas digitais que conectam construtoras diretamente a fabricantes
-  e fornecedores.
+summary: Plataformas que conectam construtoras a fornecedores de materiais, com cotação
+  e gestão de pedidos
 permalink: https://www.envisioning.com/moradia/marketplaces-b2b-materiais
 collection: plataformas-dados
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570491/habit
 
 ## Summary
 
-Plataformas digitais que conectam construtoras diretamente a fabricantes e fornecedores.
+Plataformas que conectam construtoras a fornecedores de materiais, com cotação e gestão de pedidos
 
 ## Description
 

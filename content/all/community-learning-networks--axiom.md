@@ -2,7 +2,8 @@
 slug: community-learning-networks
 hub: axiom
 title: Community-Based Learning Networks
-summary: Platforms matching learners with peers, mentors, and local experts.
+summary: Platforms connecting learners with peers, mentors, and local experts for
+  relationship-driven education
 permalink: https://www.envisioning.com/axiom/community-learning-networks
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998443/axiom
 
 ## Summary
 
-Platforms matching learners with peers, mentors, and local experts.
+Platforms connecting learners with peers, mentors, and local experts for relationship-driven education
 
 ## Description
 

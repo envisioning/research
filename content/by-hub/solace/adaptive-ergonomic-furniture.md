@@ -2,8 +2,8 @@
 slug: adaptive-ergonomic-furniture
 hub: solace
 title: Adaptive Ergonomic Furniture
-summary: Smart desks and chairs that sense posture and micro-movements to protect
-  long-term musculoskeletal health.
+summary: Sensor-embedded desks and chairs that monitor posture and movement to prevent
+  workplace musculoskeletal injury
 permalink: https://www.envisioning.com/solace/adaptive-ergonomic-furniture
 collection: hardware
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133841/solac
 
 ## Summary
 
-Smart desks and chairs that sense posture and micro-movements to protect long-term musculoskeletal health.
+Sensor-embedded desks and chairs that monitor posture and movement to prevent workplace musculoskeletal injury
 
 ## Description
 

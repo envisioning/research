@@ -2,7 +2,8 @@
 slug: tpm
 hub: sentinel
 title: Trusted Platform Modules
-summary: Discrete cryptographic chips anchoring device identity and secure boot.
+summary: Hardware chips that anchor device identity and protect cryptographic keys
+  from tampering
 permalink: https://www.envisioning.com/sentinel/tpm
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461763/senti
 
 ## Summary
 
-Discrete cryptographic chips anchoring device identity and secure boot.
+Hardware chips that anchor device identity and protect cryptographic keys from tampering
 
 ## Description
 

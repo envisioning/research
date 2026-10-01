@@ -2,22 +2,21 @@
 slug: surface-encoded-control
 hub: xenotech
 title: Surface-Encoded Control Systems
-summary: Craft surfaces encoded with functional micro-topologies that modulate electromagnetic
-  or gravitational fields, where geometric patterns act as physical control circuits—software
-  embodied as material structure.
+summary: Micro-patterned surfaces that act as physical control circuits by modulating
+  fields through geometry
 permalink: https://www.envisioning.com/xenotech/surface-encoded-control
 collection: materials-structures
 trl: 3
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761842968/xenotech/technologies/surface-encoded-control-openai-gpt-5-11mcia.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903205/xenotech/technologies/surface-encoded-control-openrouter-google-gemini-3.1-flash-image-preview-n9fiec.png
 ---
 
 # Surface-Encoded Control Systems
 
 ## Summary
 
-Craft surfaces encoded with functional micro-topologies that modulate electromagnetic or gravitational fields, where geometric patterns act as physical control circuits—software embodied as material structure.
+Micro-patterned surfaces that act as physical control circuits by modulating fields through geometry
 
 ## Description
 

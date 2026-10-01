@@ -2,7 +2,8 @@
 slug: empathy-building-vr
 hub: solace
 title: Empathy Building VR
-summary: Simulations allowing users to experience diverse perspectives.
+summary: Immersive simulations that let users experience life from another person's
+  perspective
 permalink: https://www.envisioning.com/solace/empathy-building-vr
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133052/solac
 
 ## Summary
 
-Simulations allowing users to experience diverse perspectives.
+Immersive simulations that let users experience life from another person's perspective
 
 ## Description
 

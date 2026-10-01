@@ -2,7 +2,7 @@
 slug: industrial-iot-middleware
 hub: quadrant
 title: Industrial IoT Middleware
-summary: Integration layers bridging OT and IT ecosystems.
+summary: Software layer connecting factory floor equipment with enterprise IT systems
 permalink: https://www.envisioning.com/quadrant/industrial-iot-middleware
 collection: software
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127081/quadr
 
 ## Summary
 
-Integration layers bridging OT and IT ecosystems.
+Software layer connecting factory floor equipment with enterprise IT systems
 
 ## Description
 

@@ -3,7 +3,7 @@ slug: adversarial-noise-cloaks
 hub: prism
 title: Adversarial Noise Cloaks
 summary: Imperceptible pattern overlays that prevent AI systems from scraping or recognizing
-  personal data.
+  personal data
 permalink: https://www.envisioning.com/prism/adversarial-noise-cloaks
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062764/pulse
 
 ## Summary
 
-Imperceptible pattern overlays that prevent AI systems from scraping or recognizing personal data.
+Imperceptible pattern overlays that prevent AI systems from scraping or recognizing personal data
 
 ## Description
 

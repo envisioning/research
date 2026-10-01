@@ -2,7 +2,8 @@
 slug: biodiversity-ai-monitoring
 hub: grid
 title: Biodiversity-Positive Infrastructure
-summary: AI and sensors to protect wildlife at renewable energy sites.
+summary: AI-driven systems that protect wildlife at wind and solar installations while
+  maintaining energy output
 permalink: https://www.envisioning.com/grid/biodiversity-ai-monitoring
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436300/grid/
 
 ## Summary
 
-AI and sensors to protect wildlife at renewable energy sites.
+AI-driven systems that protect wildlife at wind and solar installations while maintaining energy output
 
 ## Description
 

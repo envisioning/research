@@ -2,7 +2,8 @@
 slug: tenant-experience-platforms
 hub: habitat
 title: Tenant Experience Platforms
-summary: AI-driven mobile hubs integrating access, services, and community for occupants.
+summary: Digital platforms consolidating building access, services, and amenities
+  for commercial and residential occupants
 permalink: https://www.envisioning.com/habitat/tenant-experience-platforms
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117413/habit
 
 ## Summary
 
-AI-driven mobile hubs integrating access, services, and community for occupants.
+Digital platforms consolidating building access, services, and amenities for commercial and residential occupants
 
 ## Description
 

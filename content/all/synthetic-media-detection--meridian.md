@@ -2,7 +2,8 @@
 slug: synthetic-media-detection
 hub: meridian
 title: Synthetic Media Detection
-summary: Authenticating real content in the deepfake era.
+summary: Forensic tools that identify AI-generated images, video, and audio to verify
+  content authenticity
 permalink: https://www.envisioning.com/meridian/synthetic-media-detection
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435182/merid
 
 ## Summary
 
-Authenticating real content in the deepfake era.
+Forensic tools that identify AI-generated images, video, and audio to verify content authenticity
 
 ## Description
 

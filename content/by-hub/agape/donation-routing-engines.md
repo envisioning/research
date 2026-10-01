@@ -3,7 +3,6 @@ slug: donation-routing-engines
 hub: agape
 title: Donation Routing Engines
 summary: Intelligent systems that route donations to optimal recipients based on need,
-  impact potential, and donor preferences.
 permalink: https://www.envisioning.com/agape/donation-routing-engines
 collection: technology-infrastructure
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367929/agape
 
 ## Summary
 
-Intelligent systems that route donations to optimal recipients based on need, impact potential, and donor preferences.
+Intelligent systems that route donations to optimal recipients based on need,
 
 ## Description
 

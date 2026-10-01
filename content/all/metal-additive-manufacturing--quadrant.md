@@ -2,7 +2,8 @@
 slug: metal-additive-manufacturing
 hub: quadrant
 title: Metal Additive Manufacturing Systems
-summary: Industrial 3D printing for complex, high-performance parts.
+summary: Layer-by-layer metal fabrication for geometries impossible with traditional
+  machining
 permalink: https://www.envisioning.com/quadrant/metal-additive-manufacturing
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126426/quadr
 
 ## Summary
 
-Industrial 3D printing for complex, high-performance parts.
+Layer-by-layer metal fabrication for geometries impossible with traditional machining
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: industrializacao-habitacao-social
 hub: moradia
 title: Industrialização da Habitação Social
-summary: Produção em série de unidades habitacionais usando métodos industrializados.
+summary: Produção fabril de componentes habitacionais padronizados para moradia de
+  baixo custo
 permalink: https://www.envisioning.com/moradia/industrializacao-habitacao-social
 collection: materiais-componentes
 trl: null
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570577/habit
 
 ## Summary
 
-Produção em série de unidades habitacionais usando métodos industrializados.
+Produção fabril de componentes habitacionais padronizados para moradia de baixo custo
 
 ## Description
 

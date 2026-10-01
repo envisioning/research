@@ -2,7 +2,8 @@
 slug: uae-mars-programs
 hub: apogee
 title: UAE Mars Missions
-summary: Hope orbiter and follow-on missions building Middle East deep-space capacity.
+summary: UAE-led Mars orbiter and follow-on missions developing regional deep-space
+  expertise
 permalink: https://www.envisioning.com/apogee/uae-mars-programs
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145086/apoge
 
 ## Summary
 
-Hope orbiter and follow-on missions building Middle East deep-space capacity.
+UAE-led Mars orbiter and follow-on missions developing regional deep-space expertise
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: vitrification-biostasis-pods
 hub: epoch
 title: Vitrification Biostasis Pods
-summary: Advanced cryopreservation systems capable of reversibly preserving human
-  organs and potentially whole organisms.
+summary: Glass-state preservation systems that freeze organs and tissues without damaging
+  ice crystals
 permalink: https://www.envisioning.com/epoch/vitrification-biostasis-pods
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476930/epoch
 
 ## Summary
 
-Advanced cryopreservation systems capable of reversibly preserving human organs and potentially whole organisms.
+Glass-state preservation systems that freeze organs and tissues without damaging ice crystals
 
 ## Description
 

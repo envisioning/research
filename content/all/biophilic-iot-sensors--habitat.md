@@ -2,8 +2,8 @@
 slug: biophilic-iot-sensors
 hub: habitat
 title: Biophilic IoT Sensors
-summary: Environmental monitoring networks optimizing spaces for human health and
-  wellbeing.
+summary: Sensor networks that measure air quality, light, and acoustics to optimize
+  indoor spaces for wellbeing
 permalink: https://www.envisioning.com/habitat/biophilic-iot-sensors
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117170/habit
 
 ## Summary
 
-Environmental monitoring networks optimizing spaces for human health and wellbeing.
+Sensor networks that measure air quality, light, and acoustics to optimize indoor spaces for wellbeing
 
 ## Description
 

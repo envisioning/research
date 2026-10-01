@@ -2,8 +2,8 @@
 slug: indigenous-data-sovereignty
 hub: atlas
 title: Indigenous Data Sovereignty
-summary: Frameworks ensuring Indigenous communities control tourism data about their
-  territories.
+summary: Frameworks ensuring Indigenous communities control data about their lands
+  and cultural practices
 permalink: https://www.envisioning.com/atlas/indigenous-data-sovereignty
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221258/atlas
 
 ## Summary
 
-Frameworks ensuring Indigenous communities control tourism data about their territories.
+Frameworks ensuring Indigenous communities control data about their lands and cultural practices
 
 ## Description
 

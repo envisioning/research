@@ -2,13 +2,13 @@
 slug: wireless-home-polysomnography
 hub: interface
 title: Wireless Home Polysomnography
-summary: Soft, patch-based sleep monitoring systems offering clinical-grade diagnostics
-  at home.
+summary: Patch-based sensors that capture clinical-grade sleep data at home without
+  lab visits
 permalink: https://www.envisioning.com/interface/wireless-home-polysomnography
-collection: wearables-health-sensing
+collection: applications
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726923/interface/technologies/wireless-home-polysomnography-google-gemini-3-pro-image-preview-nyv4fp.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726923/inter
 
 ## Summary
 
-Soft, patch-based sleep monitoring systems offering clinical-grade diagnostics at home.
+Patch-based sensors that capture clinical-grade sleep data at home without lab visits
 
 ## Description
 

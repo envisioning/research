@@ -2,7 +2,8 @@
 slug: internal-talent-marketplaces
 hub: synapse
 title: Internal Talent Marketplaces
-summary: Gig-style platforms matching employees to projects across the enterprise.
+summary: Platforms matching employees to cross-departmental projects and assignments
+  within an organization
 permalink: https://www.envisioning.com/synapse/internal-talent-marketplaces
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126908/synap
 
 ## Summary
 
-Gig-style platforms matching employees to projects across the enterprise.
+Platforms matching employees to cross-departmental projects and assignments within an organization
 
 ## Description
 

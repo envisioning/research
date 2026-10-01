@@ -2,7 +2,8 @@
 slug: seizure-prediction-models
 hub: cortex
 title: Seizure Prediction Models
-summary: Deep learning models forecasting epileptic events minutes in advance.
+summary: Deep learning systems that forecast epileptic seizures minutes to hours before
+  onset
 permalink: https://www.envisioning.com/cortex/seizure-prediction-models
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062731/corte
 
 ## Summary
 
-Deep learning models forecasting epileptic events minutes in advance.
+Deep learning systems that forecast epileptic seizures minutes to hours before onset
 
 ## Description
 

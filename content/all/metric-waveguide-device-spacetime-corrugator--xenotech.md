@@ -2,21 +2,20 @@
 slug: metric-waveguide-device-spacetime-corrugator
 hub: xenotech
 title: Metric Waveguide
-summary: Device purported to modulate local curvature for communication or propulsion,
-  expanding on negative-energy field manipulation concepts.
+summary: Theoretical device that modulates spacetime curvature for propulsion or communication
 permalink: https://www.envisioning.com/xenotech/metric-waveguide-device-spacetime-corrugator
 collection: energy-systems
 trl: 1
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761396040/xenotech/technologies/metric-waveguide-device-spacetime-corrugator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898822/xenotech/technologies/metric-waveguide-device-spacetime-corrugator-openrouter-google-gemini-3.1-flash-image-preview-9rl8ds.png
 ---
 
 # Metric Waveguide
 
 ## Summary
 
-Device purported to modulate local curvature for communication or propulsion, expanding on negative-energy field manipulation concepts.
+Theoretical device that modulates spacetime curvature for propulsion or communication
 
 ## Description
 

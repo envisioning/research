@@ -2,7 +2,8 @@
 slug: industrial-bci-headsets
 hub: quadrant
 title: Industrial Brain-Computer Interfaces
-summary: Direct neural control for high-stakes teleoperation.
+summary: Neural signal control of industrial machinery and robotic systems through
+  EEG and EMG interfaces
 permalink: https://www.envisioning.com/quadrant/industrial-bci-headsets
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126574/quadr
 
 ## Summary
 
-Direct neural control for high-stakes teleoperation.
+Neural signal control of industrial machinery and robotic systems through EEG and EMG interfaces
 
 ## Description
 

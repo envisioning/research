@@ -2,7 +2,8 @@
 slug: climate-adaptive-infrastructure
 hub: atmos
 title: Climate-Adaptive Infrastructure
-summary: Self-cooling materials and flood-resilient floating architecture.
+summary: Buildings and streets that cool themselves and adapt to floods without external
+  power
 permalink: https://www.envisioning.com/atmos/climate-adaptive-infrastructure
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996183/atmos
 
 ## Summary
 
-Self-cooling materials and flood-resilient floating architecture.
+Buildings and streets that cool themselves and adapt to floods without external power
 
 ## Description
 

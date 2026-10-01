@@ -2,14 +2,10 @@
 slug: volumetric-modular-housing
 hub: cities
 title: Volumetric Modular Housing
-summary: This solution tackles housing shortages, high construction costs, and the
-  need for rapid deployment of disaster relief. Also known as prefabricated construction,
-  it involves the off-site manufacturing of building modules in a controlled factory
-  environment, ensuring high-quality construction and reduced material waste. These
-  modules, complete with all necessary fittings and systems, are then transported
-  and assembled on-site, significantly reducing construction time and on-site disruption.
+summary: Factory-built housing modules assembled on-site to reduce construction time
+  and costs
 permalink: https://www.envisioning.com/cities/volumetric-modular-housing
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: hardware
 trl: 9
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719478591-volumetric-modular-h
 
 ## Summary
 
-This solution tackles housing shortages, high construction costs, and the need for rapid deployment of disaster relief. Also known as prefabricated construction, it involves the off-site manufacturing of building modules in a controlled factory environment, ensuring high-quality construction and reduced material waste. These modules, complete with all necessary fittings and systems, are then transported and assembled on-site, significantly reducing construction time and on-site disruption.
+Factory-built housing modules assembled on-site to reduce construction time and costs
 
 ## Description
 

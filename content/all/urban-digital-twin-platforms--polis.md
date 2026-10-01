@@ -2,7 +2,8 @@
 slug: urban-digital-twin-platforms
 hub: polis
 title: Urban Digital Twin Platforms
-summary: High-fidelity, real-time models of city infrastructure and services.
+summary: Real-time virtual replicas of cities integrating IoT data for planning and
+  operations
 permalink: https://www.envisioning.com/polis/urban-digital-twin-platforms
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441780/polis
 
 ## Summary
 
-High-fidelity, real-time models of city infrastructure and services.
+Real-time virtual replicas of cities integrating IoT data for planning and operations
 
 ## Description
 

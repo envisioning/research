@@ -2,7 +2,8 @@
 slug: lifelong-learning-infrastructures
 hub: axiom
 title: Lifelong Learning Infrastructures
-summary: Personal clouds storing learning history and cognitive fingerprints.
+summary: Personal data ecosystems tracking education, skills, and cognitive development
+  across a lifetime
 permalink: https://www.envisioning.com/axiom/lifelong-learning-infrastructures
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996147/axiom
 
 ## Summary
 
-Personal clouds storing learning history and cognitive fingerprints.
+Personal data ecosystems tracking education, skills, and cognitive development across a lifetime
 
 ## Description
 

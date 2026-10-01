@@ -2,7 +2,8 @@
 slug: laminated-waterproof-breathable-membranes
 hub: fabric
 title: Laminated Waterproof–Breathable Membranes
-summary: Multi-layer laminates that keep water out while allowing vapor to escape.
+summary: Multi-layer fabrics that block liquid water while allowing body moisture
+  to escape as vapor
 permalink: https://www.envisioning.com/fabric/laminated-waterproof-breathable-membranes
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058617/threa
 
 ## Summary
 
-Multi-layer laminates that keep water out while allowing vapor to escape.
+Multi-layer fabrics that block liquid water while allowing body moisture to escape as vapor
 
 ## Description
 

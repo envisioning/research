@@ -2,21 +2,20 @@
 slug: klingon-painstik
 hub: subspace
 title: Painstik
-summary: Electrified rod used in rites of passage symbolizing endurance and warrior
-  will.
+summary: Electrified rod for ritualized pain tolerance testing in warrior cultures
 permalink: https://www.envisioning.com/subspace/klingon-painstik
 collection: weapons
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760262937/subspaceindex/technologies/klingon-painstik.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908601/subspace/technologies/klingon-painstik-openrouter-google-gemini-3.1-flash-image-preview-nyfx1p.png
 ---
 
 # Painstik
 
 ## Summary
 
-Electrified rod used in rites of passage symbolizing endurance and warrior will.
+Electrified rod for ritualized pain tolerance testing in warrior cultures
 
 ## Description
 

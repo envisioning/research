@@ -2,7 +2,8 @@
 slug: sovereign-cloud-stacks
 hub: polis
 title: Sovereign Cloud Stacks
-summary: Nationally controlled cloud infrastructure for critical data.
+summary: Open-source cloud platforms deployed within national borders to ensure data
+  sovereignty
 permalink: https://www.envisioning.com/polis/sovereign-cloud-stacks
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441676/polis
 
 ## Summary
 
-Nationally controlled cloud infrastructure for critical data.
+Open-source cloud platforms deployed within national borders to ensure data sovereignty
 
 ## Description
 

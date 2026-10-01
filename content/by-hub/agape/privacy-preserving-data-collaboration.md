@@ -3,7 +3,6 @@ slug: privacy-preserving-data-collaboration
 hub: agape
 title: Privacy-Preserving Data Collaboration
 summary: Privacy-preserving data collaboration across NGOs, enabling shared intelligence
-  while protecting sensitive information.
 permalink: https://www.envisioning.com/agape/privacy-preserving-data-collaboration
 collection: technology-infrastructure
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419556/phila
 
 ## Summary
 
-Privacy-preserving data collaboration across NGOs, enabling shared intelligence while protecting sensitive information.
+Privacy-preserving data collaboration across NGOs, enabling shared intelligence
 
 ## Description
 

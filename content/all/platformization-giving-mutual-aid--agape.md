@@ -3,7 +3,6 @@ slug: platformization-giving-mutual-aid
 hub: agape
 title: Platformization of Giving & Mutual Aid
 summary: Platformization of giving and mutual aid, as technology enables new forms
-  of resource sharing and coordination.
 permalink: https://www.envisioning.com/agape/platformization-giving-mutual-aid
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371927/agape
 
 ## Summary
 
-Platformization of giving and mutual aid, as technology enables new forms of resource sharing and coordination.
+Platformization of giving and mutual aid, as technology enables new forms
 
 ## Description
 

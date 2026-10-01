@@ -2,7 +2,8 @@
 slug: high-density-eeg-caps
 hub: cortex
 title: High-Density EEG Caps
-summary: 256+ channel dry/wet EEG systems for portable brain mapping.
+summary: EEG systems with 256+ electrodes for detailed, non-invasive brain activity
+  mapping
 permalink: https://www.envisioning.com/cortex/high-density-eeg-caps
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062660/corte
 
 ## Summary
 
-256+ channel dry/wet EEG systems for portable brain mapping.
+EEG systems with 256+ electrodes for detailed, non-invasive brain activity mapping
 
 ## Description
 

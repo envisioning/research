@@ -2,7 +2,8 @@
 slug: interactive-whiteboards
 hub: axiom
 title: Interactive Whiteboards
-summary: Touch-enabled boards integrating video, annotation, and remote learners.
+summary: Large touch displays combining traditional whiteboards with digital collaboration
+  tools
 permalink: https://www.envisioning.com/axiom/interactive-whiteboards
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059775/axiom
 
 ## Summary
 
-Touch-enabled boards integrating video, annotation, and remote learners.
+Large touch displays combining traditional whiteboards with digital collaboration tools
 
 ## Description
 

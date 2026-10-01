@@ -2,8 +2,8 @@
 slug: synthetic-travel-data-generation
 hub: atlas
 title: Synthetic Travel Data Generation
-summary: AI-generated datasets preserving statistical properties while protecting
-  privacy.
+summary: AI-generated travel datasets that preserve statistical patterns while protecting
+  passenger privacy
 permalink: https://www.envisioning.com/atlas/synthetic-travel-data-generation
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126240/atlas
 
 ## Summary
 
-AI-generated datasets preserving statistical properties while protecting privacy.
+AI-generated travel datasets that preserve statistical patterns while protecting passenger privacy
 
 ## Description
 

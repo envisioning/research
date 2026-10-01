@@ -2,7 +2,8 @@
 slug: autonomous-tutors
 hub: axiom
 title: Autonomous Tutors & Teaching Agents
-summary: Adaptive agents capable of socratic prompting and scaffolding.
+summary: AI systems that guide learners through Socratic questioning, adaptive scaffolding,
+  and personalized instruction
 permalink: https://www.envisioning.com/axiom/autonomous-tutors
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990764/axiom
 
 ## Summary
 
-Adaptive agents capable of socratic prompting and scaffolding.
+AI systems that guide learners through Socratic questioning, adaptive scaffolding, and personalized instruction
 
 ## Description
 

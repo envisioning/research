@@ -2,7 +2,8 @@
 slug: pufs
 hub: sentinel
 title: Physically Unclonable Functions
-summary: Hardware fingerprints derived from semiconductor manufacturing variations.
+summary: Hardware-based cryptographic keys derived from unique manufacturing variations
+  in semiconductor chips
 permalink: https://www.envisioning.com/sentinel/pufs
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462029/senti
 
 ## Summary
 
-Hardware fingerprints derived from semiconductor manufacturing variations.
+Hardware-based cryptographic keys derived from unique manufacturing variations in semiconductor chips
 
 ## Description
 

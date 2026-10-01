@@ -2,8 +2,8 @@
 slug: data-privacy-consent-orchestration
 hub: polis
 title: Data Privacy Consent Orchestration
-summary: Centralized consent and preference management aligned with data protection
-  laws.
+summary: Centralized systems managing citizen consent and data preferences across
+  government services
 permalink: https://www.envisioning.com/polis/data-privacy-consent-orchestration
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127258/polis
 
 ## Summary
 
-Centralized consent and preference management aligned with data protection laws.
+Centralized systems managing citizen consent and data preferences across government services
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: non-euclidean-craft-interior
 hub: xenotech
 title: Non-Euclidean Interior
-summary: Alleged spacecraft interiors appearing vastly larger than exterior dimensions
-  would allow.
+summary: Spacecraft interiors reported as vastly larger than their external dimensions
+  suggest
 permalink: https://www.envisioning.com/xenotech/non-euclidean-craft-interior
 collection: temporal-dimensional
 trl: 1
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760900891/xenotech/technologies/non-euclidean-craft-interior.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938710/xenotech/technologies/non-euclidean-craft-interior-imagegen-v1.png
 ---
 
 # Non-Euclidean Interior
 
 ## Summary
 
-Alleged spacecraft interiors appearing vastly larger than exterior dimensions would allow.
+Spacecraft interiors reported as vastly larger than their external dimensions suggest
 
 ## Description
 

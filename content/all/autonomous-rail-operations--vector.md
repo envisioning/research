@@ -2,8 +2,8 @@
 slug: autonomous-rail-operations
 hub: vector
 title: Autonomous Rail Operations (ATO)
-summary: Mainline trains operating at Grade of Automation 4 (GoA4) without onboard
-  staff.
+summary: Fully automated mainline trains operating without onboard staff or human
+  intervention
 permalink: https://www.envisioning.com/vector/autonomous-rail-operations
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177487/vecto
 
 ## Summary
 
-Mainline trains operating at Grade of Automation 4 (GoA4) without onboard staff.
+Fully automated mainline trains operating without onboard staff or human intervention
 
 ## Description
 

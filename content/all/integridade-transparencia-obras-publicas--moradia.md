@@ -2,8 +2,8 @@
 slug: integridade-transparencia-obras-publicas
 hub: moradia
 title: Integridade e Transparência em Obras Públicas
-summary: Uso de dados e rastreabilidade para reduzir fraudes, aditivos injustificados
-  e assimetrias de informação em contratos públicos.
+summary: Rastreabilidade digital de licitações, medições e pagamentos para reduzir
+  fraudes em infraestrutura pública
 permalink: https://www.envisioning.com/moradia/integridade-transparencia-obras-publicas
 collection: plataformas-dados
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582821/habit
 
 ## Summary
 
-Uso de dados e rastreabilidade para reduzir fraudes, aditivos injustificados e assimetrias de informação em contratos públicos.
+Rastreabilidade digital de licitações, medições e pagamentos para reduzir fraudes em infraestrutura pública
 
 ## Description
 

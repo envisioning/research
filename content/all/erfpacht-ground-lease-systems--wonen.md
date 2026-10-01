@@ -9,7 +9,7 @@ collection: development-models
 trl: 4
 impact: 3
 investment: 5
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882299/wonen/technologies/03163d6a-7b7f-490d-b3ce-e856820ed3fe-google-gemini-3.1-flash-image-preview-ktnjo6.jpg
 ---
 
 # Erfpacht (Ground Lease) Systems

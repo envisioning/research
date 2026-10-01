@@ -2,21 +2,21 @@
 slug: bio-resonant-healing-regenerative-chambers
 hub: xenotech
 title: Bio-Resonant Healing
-summary: Light-frequency or acoustic chambers that induce cellular repair, often described
-  as side-effect of 'craft field' technology.
+summary: Light or sound chambers claimed to trigger cellular repair through resonant
+  frequencies
 permalink: https://www.envisioning.com/xenotech/bio-resonant-healing-regenerative-chambers
 collection: biology-hybridization
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761395017/xenotech/technologies/bio-resonant-healing-regenerative-chambers.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897280/xenotech/technologies/bio-resonant-healing-regenerative-chambers-openrouter-google-gemini-3.1-flash-image-preview-occdsy.png
 ---
 
 # Bio-Resonant Healing
 
 ## Summary
 
-Light-frequency or acoustic chambers that induce cellular repair, often described as side-effect of 'craft field' technology.
+Light or sound chambers claimed to trigger cellular repair through resonant frequencies
 
 ## Description
 

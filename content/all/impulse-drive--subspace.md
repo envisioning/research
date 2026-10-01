@@ -2,21 +2,21 @@
 slug: impulse-drive
 hub: subspace
 title: Impulse Drive
-summary: Sublight propulsion system using fusion reactors to achieve high relativistic
-  speeds.
+summary: Sublight propulsion using fusion reactors to reach high fractions of light
+  speed
 permalink: https://www.envisioning.com/subspace/impulse-drive
 collection: propulsion
 trl: 5
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760207721/subspaceindex/technologies/impulse-drive.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908165/subspace/technologies/impulse-drive-openrouter-google-gemini-3.1-flash-image-preview-70to5t.png
 ---
 
 # Impulse Drive
 
 ## Summary
 
-Sublight propulsion system using fusion reactors to achieve high relativistic speeds.
+Sublight propulsion using fusion reactors to reach high fractions of light speed
 
 ## Description
 

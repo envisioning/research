@@ -2,7 +2,8 @@
 slug: esg-verification
 hub: vault
 title: ESG Data Verification & Scoring
-summary: Transparent sustainability and impact measurement.
+summary: Independent verification systems that validate corporate sustainability claims
+  using satellite data and IoT sensors
 permalink: https://www.envisioning.com/vault/esg-verification
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131049/vault
 
 ## Summary
 
-Transparent sustainability and impact measurement.
+Independent verification systems that validate corporate sustainability claims using satellite data and IoT sensors
 
 ## Description
 

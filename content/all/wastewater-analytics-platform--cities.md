@@ -2,13 +2,10 @@
 slug: wastewater-analytics-platform
 hub: cities
 title: Wastewater Analytics Platform
-summary: This technology helps cities tackle issues such as water pollution, inefficient
-  resource use, and the high costs associated with traditional wastewater treatment
-  methods. By integrating sensors, data analytics, and machine learning, these platforms
-  continuously monitor wastewater flows and quality, providing real-time data that
-  can detect anomalies, predict maintenance needs, and optimise treatment processes.
+summary: Real-time monitoring and optimization of urban wastewater systems using sensors
+  and data analytics
 permalink: https://www.envisioning.com/cities/wastewater-analytics-platform
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: software
 trl: 8
 impact: 3
 investment: 2
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719320517-wastewater-analytics
 
 ## Summary
 
-This technology helps cities tackle issues such as water pollution, inefficient resource use, and the high costs associated with traditional wastewater treatment methods. By integrating sensors, data analytics, and machine learning, these platforms continuously monitor wastewater flows and quality, providing real-time data that can detect anomalies, predict maintenance needs, and optimise treatment processes.
+Real-time monitoring and optimization of urban wastewater systems using sensors and data analytics
 
 ## Description
 

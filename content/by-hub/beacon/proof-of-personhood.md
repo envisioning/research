@@ -2,7 +2,8 @@
 slug: proof-of-personhood
 hub: beacon
 title: Proof-of-Personhood Oracles
-summary: Verifying humanity without revealing identity.
+summary: Cryptographic verification that confirms unique human participants without
+  exposing personal identity
 permalink: https://www.envisioning.com/beacon/proof-of-personhood
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126212/beaco
 
 ## Summary
 
-Verifying humanity without revealing identity.
+Cryptographic verification that confirms unique human participants without exposing personal identity
 
 ## Description
 

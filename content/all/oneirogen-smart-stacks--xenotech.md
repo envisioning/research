@@ -2,21 +2,21 @@
 slug: oneirogen-smart-stacks
 hub: xenotech
 title: Oneirogen Pharmacology
-summary: Evidence-guided supplements/meds (galantamine, huperzine A, melatonin timing)
-  combined with stage-aware delivery for dream enhancement.
+summary: Evidence-based compounds and sleep-stage delivery systems designed to enhance
+  dream lucidity and recall
 permalink: https://www.envisioning.com/xenotech/oneirogen-smart-stacks
 collection: consciousness-interface
 trl: 4
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760951661/xenotech/technologies/oneirogen-smart-stacks.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899122/xenotech/technologies/oneirogen-smart-stacks-openrouter-google-gemini-3.1-flash-image-preview-vjhz62.png
 ---
 
 # Oneirogen Pharmacology
 
 ## Summary
 
-Evidence-guided supplements/meds (galantamine, huperzine A, melatonin timing) combined with stage-aware delivery for dream enhancement.
+Evidence-based compounds and sleep-stage delivery systems designed to enhance dream lucidity and recall
 
 ## Description
 

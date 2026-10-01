@@ -2,7 +2,8 @@
 slug: virtual-production-volumes
 hub: prism
 title: Virtual Production Volumes
-summary: LED wall environments enabling real-time in-camera visual effects.
+summary: LED stage environments that render real-time backgrounds synchronized to
+  camera movement
 permalink: https://www.envisioning.com/prism/virtual-production-volumes
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062562/pulse
 
 ## Summary
 
-LED wall environments enabling real-time in-camera visual effects.
+LED stage environments that render real-time backgrounds synchronized to camera movement
 
 ## Description
 

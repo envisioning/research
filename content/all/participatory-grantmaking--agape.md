@@ -3,7 +3,6 @@ slug: participatory-grantmaking
 hub: agape
 title: Participatory Grantmaking
 summary: Shift from donor-led to community-led decision-making, with participatory
-  grantmaking becoming default rather than experimental.
 permalink: https://www.envisioning.com/agape/participatory-grantmaking
 collection: power-agency-governance
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419165/phila
 
 ## Summary
 
-Shift from donor-led to community-led decision-making, with participatory grantmaking becoming default rather than experimental.
+Shift from donor-led to community-led decision-making, with participatory
 
 ## Description
 

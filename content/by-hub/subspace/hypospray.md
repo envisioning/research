@@ -2,20 +2,21 @@
 slug: hypospray
 hub: subspace
 title: Hypospray
-summary: Needleless injection system delivering medications directly through the skin.
+summary: Needle-free injection using pressurized gas to deliver medication through
+  skin
 permalink: https://www.envisioning.com/subspace/hypospray
 collection: biotechnology
 trl: 6
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210045/subspaceindex/technologies/hypospray.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908149/subspace/technologies/hypospray-openrouter-google-gemini-3.1-flash-image-preview-lu5v29.png
 ---
 
 # Hypospray
 
 ## Summary
 
-Needleless injection system delivering medications directly through the skin.
+Needle-free injection using pressurized gas to deliver medication through skin
 
 ## Description
 

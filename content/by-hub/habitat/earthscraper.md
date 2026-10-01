@@ -2,19 +2,21 @@
 slug: earthscraper
 hub: habitat
 title: Earthscraper
-summary: Inverted skyscrapers built downward into the ground; demonstrated in Mexico City concept.
+summary: Inverted skyscrapers extending deep underground to bypass height restrictions
+  and preserve skylines
 permalink: https://www.envisioning.com/habitat/earthscraper
 collection: applications
 trl: 3
 impact: 3
 investment: 3
+image_url: null
 ---
 
 # Earthscraper
 
 ## Summary
 
-Inverted skyscrapers built downward into the ground; demonstrated in Mexico City concept.
+Inverted skyscrapers extending deep underground to bypass height restrictions and preserve skylines
 
 ## Description
 

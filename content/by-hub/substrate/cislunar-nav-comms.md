@@ -2,7 +2,8 @@
 slug: cislunar-nav-comms
 hub: substrate
 title: Cislunar Navigation & Communications Backbone
-summary: Positioning, navigation, and timing infrastructure for the Earth–Moon system.
+summary: Positioning, navigation, and timing infrastructure for spacecraft operating
+  between Earth and the Moon
 permalink: https://www.envisioning.com/substrate/cislunar-nav-comms
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117143/subst
 
 ## Summary
 
-Positioning, navigation, and timing infrastructure for the Earth–Moon system.
+Positioning, navigation, and timing infrastructure for spacecraft operating between Earth and the Moon
 
 ## Description
 

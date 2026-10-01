@@ -2,13 +2,13 @@
 slug: sixg-terahertz-communication
 hub: interface
 title: 6G & Terahertz Communication
-summary: Next-generation communication technologies including millimeter wave and
-  satellite communications.
+summary: Ultra-high-frequency wireless networks using terahertz spectrum for terabit-per-second
+  data speeds
 permalink: https://www.envisioning.com/interface/sixg-terahertz-communication
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726356/interface/technologies/6g-terahertz-communication-google-gemini-3-pro-image-preview-ht4e5p.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726356/inter
 
 ## Summary
 
-Next-generation communication technologies including millimeter wave and satellite communications.
+Ultra-high-frequency wireless networks using terahertz spectrum for terabit-per-second data speeds
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: financial-inclusion-infrastructure
 hub: vault
 title: Financial Inclusion Infrastructure
-summary: Technology for the unbanked and underbanked.
+summary: Digital systems extending banking services to unbanked and underbanked populations
 permalink: https://www.envisioning.com/vault/financial-inclusion-infrastructure
 collection: ethics-security
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131079/vault
 
 ## Summary
 
-Technology for the unbanked and underbanked.
+Digital systems extending banking services to unbanked and underbanked populations
 
 ## Description
 

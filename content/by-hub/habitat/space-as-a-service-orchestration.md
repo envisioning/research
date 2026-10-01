@@ -2,7 +2,8 @@
 slug: space-as-a-service-orchestration
 hub: habitat
 title: Space-as-a-Service Orchestration
-summary: Dynamic allocation and pricing of space across hybrid and flexible portfolios.
+summary: Dynamic allocation and pricing of physical real estate based on real-time
+  demand and usage patterns
 permalink: https://www.envisioning.com/habitat/space-as-a-service-orchestration
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117410/habit
 
 ## Summary
 
-Dynamic allocation and pricing of space across hybrid and flexible portfolios.
+Dynamic allocation and pricing of physical real estate based on real-time demand and usage patterns
 
 ## Description
 

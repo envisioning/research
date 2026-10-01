@@ -2,7 +2,8 @@
 slug: trusted-capture-attestation
 hub: beacon
 title: Trusted Capture Device Attestation
-summary: Hardware-backed proofs from cameras and recorders.
+summary: Cryptographic hardware in cameras that proves content authenticity at the
+  moment of capture
 permalink: https://www.envisioning.com/beacon/trusted-capture-attestation
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124991/beaco
 
 ## Summary
 
-Hardware-backed proofs from cameras and recorders.
+Cryptographic hardware in cameras that proves content authenticity at the moment of capture
 
 ## Description
 

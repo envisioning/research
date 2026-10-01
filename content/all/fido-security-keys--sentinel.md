@@ -2,7 +2,8 @@
 slug: fido-security-keys
 hub: sentinel
 title: FIDO Security Keys
-summary: Hardware authenticators providing phishing-resistant passwordless login.
+summary: Hardware authenticators using cryptographic keys for phishing-resistant passwordless
+  login
 permalink: https://www.envisioning.com/sentinel/fido-security-keys
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463145/senti
 
 ## Summary
 
-Hardware authenticators providing phishing-resistant passwordless login.
+Hardware authenticators using cryptographic keys for phishing-resistant passwordless login
 
 ## Description
 

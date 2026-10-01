@@ -2,7 +2,8 @@
 slug: tokenized-real-world-assets
 hub: lattice
 title: Tokenized Real-World Assets
-summary: Liquid markets for infrastructure, energy, and fractionalized physical assets.
+summary: Blockchain-based ownership of physical assets like real estate, bonds, and
+  commodities
 permalink: https://www.envisioning.com/lattice/tokenized-real-world-assets
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996200/flows
 
 ## Summary
 
-Liquid markets for infrastructure, energy, and fractionalized physical assets.
+Blockchain-based ownership of physical assets like real estate, bonds, and commodities
 
 ## Description
 

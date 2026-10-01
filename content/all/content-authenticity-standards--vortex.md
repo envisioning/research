@@ -2,7 +2,8 @@
 slug: content-authenticity-standards
 hub: vortex
 title: Content Authenticity Standards
-summary: Protocols to verify the origin of digital media.
+summary: Cryptographic metadata that tracks digital media from creation through every
+  edit
 permalink: https://www.envisioning.com/vortex/content-authenticity-standards
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127301/vorte
 
 ## Summary
 
-Protocols to verify the origin of digital media.
+Cryptographic metadata that tracks digital media from creation through every edit
 
 ## Description
 

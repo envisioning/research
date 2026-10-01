@@ -2,7 +2,8 @@
 slug: continuous-compliance-apis
 hub: polis
 title: Continuous Compliance APIs
-summary: Real-time regulatory reporting interfaces.
+summary: Automated interfaces that stream compliance data to regulators in real time
+  instead of periodic reports
 permalink: https://www.envisioning.com/polis/continuous-compliance-apis
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127132/polis
 
 ## Summary
 
-Real-time regulatory reporting interfaces.
+Automated interfaces that stream compliance data to regulators in real time instead of periodic reports
 
 ## Description
 

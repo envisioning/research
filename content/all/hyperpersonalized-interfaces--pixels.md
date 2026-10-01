@@ -2,7 +2,8 @@
 slug: hyperpersonalized-interfaces
 hub: pixels
 title: Hyperpersonalized Interfaces
-summary: Interfaces adapting to biometrics for flow-state optimization.
+summary: Game UIs that adjust visuals, pacing, and prompts based on real-time biometric
+  and cognitive data
 permalink: https://www.envisioning.com/pixels/hyperpersonalized-interfaces
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058966/pixel
 
 ## Summary
 
-Interfaces adapting to biometrics for flow-state optimization.
+Game UIs that adjust visuals, pacing, and prompts based on real-time biometric and cognitive data
 
 ## Description
 

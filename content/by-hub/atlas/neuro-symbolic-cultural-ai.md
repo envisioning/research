@@ -2,7 +2,8 @@
 slug: neuro-symbolic-cultural-ai
 hub: atlas
 title: Neuro-Symbolic Cultural AI
-summary: Hybrid AI combining neural networks with knowledge graphs for cultural understanding.
+summary: Hybrid AI combining neural networks with cultural knowledge graphs for contextual
+  understanding
 permalink: https://www.envisioning.com/atlas/neuro-symbolic-cultural-ai
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126271/atlas
 
 ## Summary
 
-Hybrid AI combining neural networks with knowledge graphs for cultural understanding.
+Hybrid AI combining neural networks with cultural knowledge graphs for contextual understanding
 
 ## Description
 

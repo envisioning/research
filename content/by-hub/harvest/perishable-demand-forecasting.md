@@ -2,7 +2,8 @@
 slug: perishable-demand-forecasting
 hub: harvest
 title: Perishable Demand Forecasting
-summary: AI models to match supply with volatile demand.
+summary: AI-driven demand prediction for short-shelf-life products using real-time
+  data streams
 permalink: https://www.envisioning.com/harvest/perishable-demand-forecasting
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128431/harve
 
 ## Summary
 
-AI models to match supply with volatile demand.
+AI-driven demand prediction for short-shelf-life products using real-time data streams
 
 ## Description
 

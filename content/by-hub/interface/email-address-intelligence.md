@@ -2,12 +2,13 @@
 slug: email-address-intelligence
 hub: interface
 title: Email Address Intelligence
-summary: AI-powered validation, enrichment, and protection for fraud prevention.
+summary: AI-powered email validation that detects fraud, verifies identity, and enriches
+  contact data
 permalink: https://www.envisioning.com/interface/email-address-intelligence
-collection: advanced-interaction-modalities
+collection: ethics-security
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737606/interface/technologies/email-address-intelligence-google-gemini-3-pro-image-preview-riqibc.png
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737606/inter
 
 ## Summary
 
-AI-powered validation, enrichment, and protection for fraud prevention.
+AI-powered email validation that detects fraud, verifies identity, and enriches contact data
 
 ## Description
 

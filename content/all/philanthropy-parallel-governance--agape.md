@@ -3,7 +3,6 @@ slug: philanthropy-parallel-governance
 hub: agape
 title: Philanthropy as Parallel Governance
 summary: Philanthropy acting as parallel governance where states fail, raising questions
-  about democratic legitimacy and accountability.
 permalink: https://www.envisioning.com/agape/philanthropy-parallel-governance
 collection: power-agency-governance
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371661/agape
 
 ## Summary
 
-Philanthropy acting as parallel governance where states fail, raising questions about democratic legitimacy and accountability.
+Philanthropy acting as parallel governance where states fail, raising questions
 
 ## Description
 

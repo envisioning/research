@@ -2,8 +2,8 @@
 slug: quantum-grid-optimization
 hub: substrate
 title: Quantum-Enhanced Grid Optimization
-summary: Using quantum and quantum-inspired algorithms to manage ultra-complex power
-  systems.
+summary: Quantum algorithms solving power flow, asset placement, and contingency planning
+  for modern grids
 permalink: https://www.envisioning.com/substrate/quantum-grid-optimization
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117914/subst
 
 ## Summary
 
-Using quantum and quantum-inspired algorithms to manage ultra-complex power systems.
+Quantum algorithms solving power flow, asset placement, and contingency planning for modern grids
 
 ## Description
 

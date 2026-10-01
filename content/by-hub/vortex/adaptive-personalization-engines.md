@@ -2,7 +2,8 @@
 slug: adaptive-personalization-engines
 hub: vortex
 title: Adaptive Personalization Engines
-summary: AI systems that tailor content using biometric and behavioral signals.
+summary: AI that adjusts streaming content in real-time using biometric and behavioral
+  feedback
 permalink: https://www.envisioning.com/vortex/adaptive-personalization-engines
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126729/vorte
 
 ## Summary
 
-AI systems that tailor content using biometric and behavioral signals.
+AI that adjusts streaming content in real-time using biometric and behavioral feedback
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: indigenous-energy-sovereignty
 hub: grid
 title: Indigenous Energy Sovereignty
-summary: Self-determined energy systems respecting Indigenous rights and governance.
+summary: Energy systems governed by Indigenous communities on their own lands and
+  terms
 permalink: https://www.envisioning.com/grid/indigenous-energy-sovereignty
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436069/grid/
 
 ## Summary
 
-Self-determined energy systems respecting Indigenous rights and governance.
+Energy systems governed by Indigenous communities on their own lands and terms
 
 ## Description
 

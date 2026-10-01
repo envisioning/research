@@ -2,8 +2,8 @@
 slug: reuso-adaptativo-edificios
 hub: moradia
 title: Reuso Adaptativo de Edifícios
-summary: Conversão de tipologias (comercial → residencial, industrial → uso misto)
-  para reocupar áreas centrais e reduzir carbono incorporado.
+summary: Conversão de edifícios existentes para novos usos, preservando estrutura
+  e reduzindo carbono incorporado
 permalink: https://www.envisioning.com/moradia/reuso-adaptativo-edificios
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766579969/habit
 
 ## Summary
 
-Conversão de tipologias (comercial → residencial, industrial → uso misto) para reocupar áreas centrais e reduzir carbono incorporado.
+Conversão de edifícios existentes para novos usos, preservando estrutura e reduzindo carbono incorporado
 
 ## Description
 

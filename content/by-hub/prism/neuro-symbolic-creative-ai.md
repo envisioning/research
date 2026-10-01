@@ -2,8 +2,8 @@
 slug: neuro-symbolic-creative-ai
 hub: prism
 title: Neuro-symbolic Creative AI
-summary: Hybrid AI systems combining neural networks with symbolic logic for consistent
-  storytelling.
+summary: Combines neural networks with symbolic logic to maintain consistency across
+  stories and franchises
 permalink: https://www.envisioning.com/prism/neuro-symbolic-creative-ai
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074567/pulse
 
 ## Summary
 
-Hybrid AI systems combining neural networks with symbolic logic for consistent storytelling.
+Combines neural networks with symbolic logic to maintain consistency across stories and franchises
 
 ## Description
 

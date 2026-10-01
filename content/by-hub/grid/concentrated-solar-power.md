@@ -2,7 +2,8 @@
 slug: concentrated-solar-power
 hub: grid
 title: Concentrated Solar Power (CSP) with Storage
-summary: Solar thermal plants using mirrors to generate dispatchable electricity.
+summary: Solar thermal plants using mirrors to concentrate heat, enabling electricity
+  generation after sunset
 permalink: https://www.envisioning.com/grid/concentrated-solar-power
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113958/grid/
 
 ## Summary
 
-Solar thermal plants using mirrors to generate dispatchable electricity.
+Solar thermal plants using mirrors to concentrate heat, enabling electricity generation after sunset
 
 ## Description
 

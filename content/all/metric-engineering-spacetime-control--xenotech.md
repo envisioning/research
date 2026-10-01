@@ -2,21 +2,21 @@
 slug: metric-engineering-spacetime-control
 hub: xenotech
 title: Metric Control
-summary: Local manipulation of the space-time metric for propulsion or shielding through
-  'warp bubble' generation, based on DIA DIRD papers and theoretical frameworks.
+summary: Controlled distortion of spacetime geometry to enable propulsion or protective
+  effects
 permalink: https://www.envisioning.com/xenotech/metric-engineering-spacetime-control
 collection: energy-systems
 trl: 1
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761387808/xenotech/technologies/metric-engineering-spacetime-control.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898806/xenotech/technologies/metric-engineering-spacetime-control-openrouter-google-gemini-3.1-flash-image-preview-uh3kli.png
 ---
 
 # Metric Control
 
 ## Summary
 
-Local manipulation of the space-time metric for propulsion or shielding through 'warp bubble' generation, based on DIA DIRD papers and theoretical frameworks.
+Controlled distortion of spacetime geometry to enable propulsion or protective effects
 
 ## Description
 

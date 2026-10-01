@@ -2,22 +2,21 @@
 slug: telemetry-visualization-spherical-consoles
 hub: xenotech
 title: Observation Consoles
-summary: Advanced observation and monitoring systems featuring round viewing screens
-  and data displays of Earth, reported in entity encounters alongside emerging spherical
-  display and telemetry visualization technologies.
+summary: Spherical monitoring systems combining 360-degree displays with integrated
+  telemetry data
 permalink: https://www.envisioning.com/xenotech/telemetry-visualization-spherical-consoles
 collection: defense-surveillance
 trl: 4
 impact: 2
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761386074/xenotech/technologies/telemetry-visualization-spherical-consoles.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899110/xenotech/technologies/telemetry-visualization-spherical-consoles-openrouter-google-gemini-3.1-flash-image-preview-gsuswp.png
 ---
 
 # Observation Consoles
 
 ## Summary
 
-Advanced observation and monitoring systems featuring round viewing screens and data displays of Earth, reported in entity encounters alongside emerging spherical display and telemetry visualization technologies.
+Spherical monitoring systems combining 360-degree displays with integrated telemetry data
 
 ## Description
 

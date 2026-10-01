@@ -2,7 +2,8 @@
 slug: palliative-prognostics
 hub: eclipse
 title: Palliative AI Prognostics
-summary: Predictive algorithms for end-of-life care and grief planning.
+summary: Machine learning models that predict palliative care needs and grief complications
+  from patient data
 permalink: https://www.envisioning.com/eclipse/palliative-prognostics
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126805/eclip
 
 ## Summary
 
-Predictive algorithms for end-of-life care and grief planning.
+Machine learning models that predict palliative care needs and grief complications from patient data
 
 ## Description
 

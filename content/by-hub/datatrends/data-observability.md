@@ -2,8 +2,8 @@
 slug: data-observability
 hub: datatrends
 title: Data Observability
-summary: Monitoring and understanding data health, quality, and lineage across systems
-  to ensure reliable analytics and prevent data incidents.
+summary: Continuous monitoring of data health, quality, and lineage to prevent pipeline
+  failures and ensure trustworthy analytics
 permalink: https://www.envisioning.com/datatrends/data-observability
 collection: agile-infrastructure
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730914/datat
 
 ## Summary
 
-Monitoring and understanding data health, quality, and lineage across systems to ensure reliable analytics and prevent data incidents.
+Continuous monitoring of data health, quality, and lineage to prevent pipeline failures and ensure trustworthy analytics
 
 ## Description
 

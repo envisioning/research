@@ -2,7 +2,8 @@
 slug: industrial-metaverse
 hub: link
 title: Industrial Metaverse
-summary: Immersive virtual environments for industrial control.
+summary: Persistent 3D digital twins of factories and infrastructure for real-time
+  monitoring and control
 permalink: https://www.envisioning.com/link/industrial-metaverse
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177746/link/
 
 ## Summary
 
-Immersive virtual environments for industrial control.
+Persistent 3D digital twins of factories and infrastructure for real-time monitoring and control
 
 ## Description
 

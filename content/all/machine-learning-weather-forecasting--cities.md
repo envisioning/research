@@ -2,15 +2,10 @@
 slug: machine-learning-weather-forecasting
 hub: cities
 title: Machine Learning Weather Forecasting
-summary: This solution provides precise and timely weather forecasts, which traditional
-  methods often struggle to achieve at a hyper-local level. This technology leverages
-  advanced machine learning algorithms to process vast amounts of meteorological data,
-  identifying complex patterns and relationships within the data that traditional
-  models might miss. By continuously learning from new data, MLWF improves its accuracy
-  over time, offering highly detailed weather predictions that are essential for modern
-  urban planning, management, and disaster prevention.
+summary: Machine learning algorithms that analyze meteorological data for hyper-local
+  urban weather predictions
 permalink: https://www.envisioning.com/cities/machine-learning-weather-forecasting
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: software
 trl: 7
 impact: 2
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792123-machine-learning-wea
 
 ## Summary
 
-This solution provides precise and timely weather forecasts, which traditional methods often struggle to achieve at a hyper-local level. This technology leverages advanced machine learning algorithms to process vast amounts of meteorological data, identifying complex patterns and relationships within the data that traditional models might miss. By continuously learning from new data, MLWF improves its accuracy over time, offering highly detailed weather predictions that are essential for modern urban planning, management, and disaster prevention.
+Machine learning algorithms that analyze meteorological data for hyper-local urban weather predictions
 
 ## Description
 

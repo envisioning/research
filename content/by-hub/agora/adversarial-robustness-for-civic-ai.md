@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 4
 impact: 4
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1773224789/agora/technologies/adversarial-robustness-for-civic-ai-khng7v.png
 ---
 
 # Adversarial Robustness for Civic AI

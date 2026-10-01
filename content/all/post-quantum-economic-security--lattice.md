@@ -2,7 +2,8 @@
 slug: post-quantum-economic-security
 hub: lattice
 title: Post-Quantum Economic Security
-summary: Ensuring security of digital economies during quantum transitions.
+summary: Protecting digital economies from quantum computing threats through cryptographic
+  transition strategies
 permalink: https://www.envisioning.com/lattice/post-quantum-economic-security
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010232/flows
 
 ## Summary
 
-Ensuring security of digital economies during quantum transitions.
+Protecting digital economies from quantum computing threats through cryptographic transition strategies
 
 ## Description
 

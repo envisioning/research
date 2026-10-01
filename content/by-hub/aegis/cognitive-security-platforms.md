@@ -2,7 +2,8 @@
 slug: cognitive-security-platforms
 hub: aegis
 title: Information Operations & Cognitive Security Platforms
-summary: Detection of coordinated influence and design of counter-messaging.
+summary: Detects coordinated influence campaigns and designs counter-messaging strategies
+  across media channels
 permalink: https://www.envisioning.com/aegis/cognitive-security-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010268/aegis
 
 ## Summary
 
-Detection of coordinated influence and design of counter-messaging.
+Detects coordinated influence campaigns and designs counter-messaging strategies across media channels
 
 ## Description
 

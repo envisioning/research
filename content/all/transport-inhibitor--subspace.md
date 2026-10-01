@@ -2,20 +2,21 @@
 slug: transport-inhibitor
 hub: subspace
 title: Transport Inhibitor
-summary: Field device preventing unauthorized transporter locks.
+summary: Defensive field that blocks unauthorized teleportation within a protected
+  area
 permalink: https://www.envisioning.com/subspace/transport-inhibitor
 collection: defense
 trl: 7
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760262327/subspaceindex/technologies/transport-inhibitor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909209/subspace/technologies/transport-inhibitor-openrouter-google-gemini-3.1-flash-image-preview-8eb7ke.png
 ---
 
 # Transport Inhibitor
 
 ## Summary
 
-Field device preventing unauthorized transporter locks.
+Defensive field that blocks unauthorized teleportation within a protected area
 
 ## Description
 

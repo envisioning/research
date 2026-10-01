@@ -2,7 +2,8 @@
 slug: ground-segment-automation
 hub: apogee
 title: Ground Segment Automation Platforms
-summary: Software automating passes, scheduling, and anomaly triage for constellations.
+summary: Software that automates satellite fleet operations, from pass scheduling
+  to anomaly detection
 permalink: https://www.envisioning.com/apogee/ground-segment-automation
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012364/apoge
 
 ## Summary
 
-Software automating passes, scheduling, and anomaly triage for constellations.
+Software that automates satellite fleet operations, from pass scheduling to anomaly detection
 
 ## Description
 

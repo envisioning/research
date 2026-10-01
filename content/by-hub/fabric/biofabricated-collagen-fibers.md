@@ -2,7 +2,8 @@
 slug: biofabricated-collagen-fibers
 hub: fabric
 title: Biofabricated Collagen Fibers for Textile Production
-summary: Lab-grown, animal-free collagen spun into yarns for sustainable textile production.
+summary: Lab-grown collagen produced via fermentation and spun into animal-free textile
+  fibers
 permalink: https://www.envisioning.com/fabric/biofabricated-collagen-fibers
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011090/threa
 
 ## Summary
 
-Lab-grown, animal-free collagen spun into yarns for sustainable textile production.
+Lab-grown collagen produced via fermentation and spun into animal-free textile fibers
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: addiction-architecture-detection
 hub: beacon
 title: Addiction Architecture Detection Systems
-summary: Identifying dopamine-hacking design patterns.
+summary: Scanning digital products for design patterns that exploit psychological
+  vulnerabilities and trigger compulsive use
 permalink: https://www.envisioning.com/beacon/addiction-architecture-detection
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126140/beaco
 
 ## Summary
 
-Identifying dopamine-hacking design patterns.
+Scanning digital products for design patterns that exploit psychological vulnerabilities and trigger compulsive use
 
 ## Description
 

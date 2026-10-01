@@ -2,13 +2,13 @@
 slug: 4d-imaging-radar
 hub: interface
 title: 4D Imaging Radar
-summary: Advanced radar sensors providing real-time 360° perception for autonomous
-  mobility.
+summary: Radar sensors that measure range, angle, elevation, and velocity for autonomous
+  vehicle perception
 permalink: https://www.envisioning.com/interface/4d-imaging-radar
-collection: spatial-computing-immersive
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726254/interface/technologies/4d-imaging-radar-google-gemini-3-pro-image-preview-vmmer3.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726254/inter
 
 ## Summary
 
-Advanced radar sensors providing real-time 360° perception for autonomous mobility.
+Radar sensors that measure range, angle, elevation, and velocity for autonomous vehicle perception
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: shared-spatial-synchronization
 hub: liminal
 title: Shared Spatial Synchronization
-summary: Networking engines for low-latency multi-user spatial alignment.
+summary: Networking engines that align virtual content across multiple users in the
+  same physical space
 permalink: https://www.envisioning.com/liminal/shared-spatial-synchronization
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124912/limin
 
 ## Summary
 
-Networking engines for low-latency multi-user spatial alignment.
+Networking engines that align virtual content across multiple users in the same physical space
 
 ## Description
 

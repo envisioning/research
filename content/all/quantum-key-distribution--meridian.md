@@ -2,7 +2,7 @@
 slug: quantum-key-distribution
 hub: meridian
 title: Quantum Key Distribution (QKD)
-summary: Hardware for theoretically unbreakable encryption.
+summary: Encryption key exchange using quantum mechanics to detect eavesdropping attempts
 permalink: https://www.envisioning.com/meridian/quantum-key-distribution
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128542/merid
 
 ## Summary
 
-Hardware for theoretically unbreakable encryption.
+Encryption key exchange using quantum mechanics to detect eavesdropping attempts
 
 ## Description
 

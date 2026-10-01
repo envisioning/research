@@ -2,21 +2,21 @@
 slug: robot-foundation-models-rfm
 hub: interface
 title: Robot Foundation Models (RFM)
-summary: Large-scale models enabling robots to autonomously learn and perform diverse
-  tasks with cross-embodiment capability.
+summary: AI models that let robots learn general skills and transfer knowledge across
+  different robot types
 permalink: https://www.envisioning.com/interface/robot-foundation-models-rfm
-collection: neuromorphic-edge-intelligence
+collection: software
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882239/interface/technologies/016108be-ac44-4b89-b900-453bf92fa49a-google-gemini-3.1-flash-image-preview-0wk7i2.jpg
 ---
 
 # Robot Foundation Models (RFM)
 
 ## Summary
 
-Large-scale models enabling robots to autonomously learn and perform diverse tasks with cross-embodiment capability.
+AI models that let robots learn general skills and transfer knowledge across different robot types
 
 ## Description
 

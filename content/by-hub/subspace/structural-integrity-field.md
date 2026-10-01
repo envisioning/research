@@ -2,21 +2,21 @@
 slug: structural-integrity-field
 hub: subspace
 title: Structural Integrity Field
-summary: Force field system reinforcing hull structure during high-stress maneuvers
-  and combat.
+summary: Force field lattice that reinforces spacecraft hulls beyond material limits
+  during extreme maneuvers
 permalink: https://www.envisioning.com/subspace/structural-integrity-field
 collection: engineering
 trl: 6
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210478/subspaceindex/technologies/structural-integrity-field.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909004/subspace/technologies/structural-integrity-field-openrouter-google-gemini-3.1-flash-image-preview-pwtvn0.png
 ---
 
 # Structural Integrity Field
 
 ## Summary
 
-Force field system reinforcing hull structure during high-stress maneuvers and combat.
+Force field lattice that reinforces spacecraft hulls beyond material limits during extreme maneuvers
 
 ## Description
 

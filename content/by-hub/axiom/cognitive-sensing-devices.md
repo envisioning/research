@@ -2,7 +2,8 @@
 slug: cognitive-sensing-devices
 hub: axiom
 title: Cognitive-Sensing Learning Devices
-summary: Headsets and wearables reading attention and cognitive state.
+summary: Wearables that monitor attention, cognitive load, and emotional state during
+  learning
 permalink: https://www.envisioning.com/axiom/cognitive-sensing-devices
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990351/axiom
 
 ## Summary
 
-Headsets and wearables reading attention and cognitive state.
+Wearables that monitor attention, cognitive load, and emotional state during learning
 
 ## Description
 

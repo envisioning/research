@@ -2,7 +2,7 @@
 slug: fast-streaming-tv
 hub: prism
 title: FAST (Free Ad-supported Streaming TV)
-summary: Linear streaming channels mimicking broadcast TV with targeted ad insertion.
+summary: 24/7 streaming channels with ad-supported content and targeted commercials
 permalink: https://www.envisioning.com/prism/fast-streaming-tv
 collection: applications
 trl: 9
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073971/pulse
 
 ## Summary
 
-Linear streaming channels mimicking broadcast TV with targeted ad insertion.
+24/7 streaming channels with ad-supported content and targeted commercials
 
 ## Description
 

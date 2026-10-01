@@ -2,22 +2,21 @@
 slug: mkultra-anomalous-consciousness-research
 hub: xenotech
 title: Anomalous Consciousness Research
-summary: Classified CIA research programs investigating dream telemetry, cross-species
-  neural conditioning, and interpersonal EEG synchronization—consciousness phenomena
-  with no surviving technical documentation.
+summary: Classified intelligence programs exploring dream manipulation, inter-species
+  neural coupling, and consciousness synchron
 permalink: https://www.envisioning.com/xenotech/mkultra-anomalous-consciousness-research
 collection: consciousness-interface
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762006900/xenotech/technologies/mkultra-anomalous-consciousness-research-openai-gpt-5-ra4mio.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897160/xenotech/technologies/mkultra-anomalous-consciousness-research-openrouter-google-gemini-3.1-flash-image-preview-dadska.png
 ---
 
 # Anomalous Consciousness Research
 
 ## Summary
 
-Classified CIA research programs investigating dream telemetry, cross-species neural conditioning, and interpersonal EEG synchronization—consciousness phenomena with no surviving technical documentation.
+Classified intelligence programs exploring dream manipulation, inter-species neural coupling, and consciousness synchron
 
 ## Description
 

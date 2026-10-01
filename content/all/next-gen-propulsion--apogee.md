@@ -2,7 +2,8 @@
 slug: next-gen-propulsion
 hub: apogee
 title: Next-Gen Propulsion
-summary: Advanced electric and nuclear propulsion for deep-space missions.
+summary: High-efficiency electric and nuclear engines enabling faster, farther deep-space
+  travel
 permalink: https://www.envisioning.com/apogee/next-gen-propulsion
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060615/apoge
 
 ## Summary
 
-Advanced electric and nuclear propulsion for deep-space missions.
+High-efficiency electric and nuclear engines enabling faster, farther deep-space travel
 
 ## Description
 

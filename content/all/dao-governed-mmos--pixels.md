@@ -2,7 +2,8 @@
 slug: dao-governed-mmos
 hub: pixels
 title: DAO-Governed MMOs
-summary: Game worlds where physics and economy rules are voted on by token holders.
+summary: MMOs where players vote on game rules, economies, and content through token-based
+  governance
 permalink: https://www.envisioning.com/pixels/dao-governed-mmos
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058965/pixel
 
 ## Summary
 
-Game worlds where physics and economy rules are voted on by token holders.
+MMOs where players vote on game rules, economies, and content through token-based governance
 
 ## Description
 

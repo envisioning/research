@@ -2,9 +2,10 @@
 slug: free-air-co2-enrichment
 hub: horizons
 title: Free Air CO2 Enrichment
-summary: Experimental systems studying ecosystem responses to elevated CO2.
+summary: Open-air CO₂ release systems that simulate future atmospheric conditions
+  to study ecosystem responses
 permalink: https://www.envisioning.com/horizons/free-air-co2-enrichment
-collection: energy-environment
+collection: applications
 trl: 6
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526950/horiz
 
 ## Summary
 
-Experimental systems studying ecosystem responses to elevated CO2.
+Open-air CO₂ release systems that simulate future atmospheric conditions to study ecosystem responses
 
 ## Description
 

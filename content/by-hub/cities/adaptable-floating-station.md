@@ -2,14 +2,10 @@
 slug: adaptable-floating-station
 hub: cities
 title: Adaptable Floating Station
-summary: Repurposed standard shipping containers are made into multifunctional, floating
-  units capable of providing essential services such as housing, healthcare, and education
-  during flood events. By leveraging advanced materials and engineering techniques,
-  these stations ensure buoyancy, durability, and stability in turbulent waters. They
-  integrate renewable energy sources like solar panels and rainwater harvesting and
-  filtering systems, making them self-sufficient and sustainable.
+summary: Repurposed shipping containers that float and deliver housing, healthcare,
+  or education during floods
 permalink: https://www.envisioning.com/cities/adaptable-floating-station
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: hardware
 trl: 6
 impact: 2
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719220280-adaptable-floating-s
 
 ## Summary
 
-Repurposed standard shipping containers are made into multifunctional, floating units capable of providing essential services such as housing, healthcare, and education during flood events. By leveraging advanced materials and engineering techniques, these stations ensure buoyancy, durability, and stability in turbulent waters. They integrate renewable energy sources like solar panels and rainwater harvesting and filtering systems, making them self-sufficient and sustainable.
+Repurposed shipping containers that float and deliver housing, healthcare, or education during floods
 
 ## Description
 

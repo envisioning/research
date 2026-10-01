@@ -2,7 +2,8 @@
 slug: wafer-scale-ai-systems
 hub: wintermute
 title: Wafer-Scale AI Systems
-summary: Monolithic wafer-scale accelerators hosting trillion-parameter-scale models.
+summary: Entire silicon wafers functioning as single AI chips to train trillion-parameter
+  models
 permalink: https://www.envisioning.com/wintermute/wafer-scale-ai-systems
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980842/winte
 
 ## Summary
 
-Monolithic wafer-scale accelerators hosting trillion-parameter-scale models.
+Entire silicon wafers functioning as single AI chips to train trillion-parameter models
 
 ## Description
 

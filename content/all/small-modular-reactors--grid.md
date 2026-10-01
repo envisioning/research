@@ -2,7 +2,8 @@
 slug: small-modular-reactors
 hub: grid
 title: Small Modular Reactors (SMRs)
-summary: Compact nuclear fission reactors designed for modular manufacturing.
+summary: Factory-built nuclear reactors with passive safety systems for flexible grid
+  deployment
 permalink: https://www.envisioning.com/grid/small-modular-reactors
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131791/grid/
 
 ## Summary
 
-Compact nuclear fission reactors designed for modular manufacturing.
+Factory-built nuclear reactors with passive safety systems for flexible grid deployment
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: decentralized-booking-markets
 hub: atlas
 title: Decentralized Booking Markets
-summary: Blockchain-based peer-to-peer travel booking platforms.
+summary: Blockchain platforms connecting travelers directly with service providers
+  without intermediaries
 permalink: https://www.envisioning.com/atlas/decentralized-booking-markets
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127089/atlas
 
 ## Summary
 
-Blockchain-based peer-to-peer travel booking platforms.
+Blockchain platforms connecting travelers directly with service providers without intermediaries
 
 ## Description
 

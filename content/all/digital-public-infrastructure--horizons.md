@@ -2,9 +2,10 @@
 slug: digital-public-infrastructure
 hub: horizons
 title: Digital Public Infrastructure
-summary: Shared, open digital systems for identity, payments, and data.
+summary: Foundational digital systems for identity, payments, and data exchange built
+  as public utilities
 permalink: https://www.envisioning.com/horizons/digital-public-infrastructure
-collection: cities-mobility
+collection: applications
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764527052/horiz
 
 ## Summary
 
-Shared, open digital systems for identity, payments, and data.
+Foundational digital systems for identity, payments, and data exchange built as public utilities
 
 ## Description
 

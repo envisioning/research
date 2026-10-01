@@ -2,7 +2,8 @@
 slug: virtual-fitting-room-avatars
 hub: fabric
 title: Virtual Fitting Room Avatars
-summary: Photogrammetry-based avatars enabling accurate remote fittings.
+summary: 3D body scanning that creates personalized avatars for trying on clothes
+  digitally
 permalink: https://www.envisioning.com/fabric/virtual-fitting-room-avatars
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059656/threa
 
 ## Summary
 
-Photogrammetry-based avatars enabling accurate remote fittings.
+3D body scanning that creates personalized avatars for trying on clothes digitally
 
 ## Description
 

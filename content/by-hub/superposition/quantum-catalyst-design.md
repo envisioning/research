@@ -2,7 +2,8 @@
 slug: quantum-catalyst-design
 hub: superposition
 title: Quantum Catalyst Design
-summary: Engineering catalysts for efficient nitrogen fixation and carbon capture.
+summary: Using quantum simulation to engineer energy-efficient catalysts for nitrogen
+  fixation and carbon capture
 permalink: https://www.envisioning.com/superposition/quantum-catalyst-design
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181150/super
 
 ## Summary
 
-Engineering catalysts for efficient nitrogen fixation and carbon capture.
+Using quantum simulation to engineer energy-efficient catalysts for nitrogen fixation and carbon capture
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: point-to-point-rocket-transport
 hub: apogee
 title: Point-to-Point Rocket Transport
-summary: Earth-to-Earth hypersonic cargo and passenger concepts.
+summary: Reusable rockets delivering cargo or passengers anywhere on Earth in under
+  an hour
 permalink: https://www.envisioning.com/apogee/point-to-point-rocket-transport
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180919/apoge
 
 ## Summary
 
-Earth-to-Earth hypersonic cargo and passenger concepts.
+Reusable rockets delivering cargo or passengers anywhere on Earth in under an hour
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: migracao-imigracao-demanda-habitacional
 hub: moradia
 title: Migração Interna e Imigração
-summary: Fluxos populacionais regionais e internacionais que alteram padrões de demanda,
-  densidade e tipologia de moradia.
+summary: Fluxos populacionais que reconfiguram demanda, densidade e tipologias habitacionais
+  urbanas
 permalink: https://www.envisioning.com/moradia/migracao-imigracao-demanda-habitacional
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582905/habit
 
 ## Summary
 
-Fluxos populacionais regionais e internacionais que alteram padrões de demanda, densidade e tipologia de moradia.
+Fluxos populacionais que reconfiguram demanda, densidade e tipologias habitacionais urbanas
 
 ## Description
 

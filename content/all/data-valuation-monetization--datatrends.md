@@ -2,8 +2,8 @@
 slug: data-valuation-monetization
 hub: datatrends
 title: Data Valuation & Monetization
-summary: Measuring and maximizing data's economic worth through services and data
-  ecosystems.
+summary: Quantifying data's financial value and creating revenue streams from information
+  assets
 permalink: https://www.envisioning.com/datatrends/data-valuation-monetization
 collection: valuation-productization
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373205/datat
 
 ## Summary
 
-Measuring and maximizing data's economic worth through services and data ecosystems.
+Quantifying data's financial value and creating revenue streams from information assets
 
 ## Description
 

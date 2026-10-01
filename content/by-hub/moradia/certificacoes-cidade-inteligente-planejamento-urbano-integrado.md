@@ -2,9 +2,8 @@
 slug: certificacoes-cidade-inteligente-planejamento-urbano-integrado
 hub: moradia
 title: Certificações de Cidade Inteligente
-summary: Certificações internacionais e frameworks de planejamento urbano que integram
-  sustentabilidade, resiliência e tecnologia digital em políticas urbanas, influenciando
-  como habitação é planejada e desenvolvida.
+summary: Frameworks que avaliam cidades por sustentabilidade, resiliência e integração
+  tecnológica no planejamento urbano
 permalink: https://www.envisioning.com/moradia/certificacoes-cidade-inteligente-planejamento-urbano-integrado
 collection: modelos-mercado-governanca
 trl: 3
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598463/habit
 
 ## Summary
 
-Certificações internacionais e frameworks de planejamento urbano que integram sustentabilidade, resiliência e tecnologia digital em políticas urbanas, influenciando como habitação é planejada e desenvolvida.
+Frameworks que avaliam cidades por sustentabilidade, resiliência e integração tecnológica no planejamento urbano
 
 ## Description
 

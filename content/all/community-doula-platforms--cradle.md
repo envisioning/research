@@ -2,7 +2,8 @@
 slug: community-doula-platforms
 hub: cradle
 title: Community Doula Platforms
-summary: Digitally coordinated perinatal support networks.
+summary: Digital networks connecting expectant parents with doulas and perinatal support
+  workers
 permalink: https://www.envisioning.com/cradle/community-doula-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131097/cradl
 
 ## Summary
 
-Digitally coordinated perinatal support networks.
+Digital networks connecting expectant parents with doulas and perinatal support workers
 
 ## Description
 

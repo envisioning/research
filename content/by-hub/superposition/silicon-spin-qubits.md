@@ -2,8 +2,8 @@
 slug: silicon-spin-qubits
 hub: superposition
 title: Silicon Spin Qubits
-summary: Qubits leveraging electron spins in silicon, compatible with existing semiconductor
-  manufacturing.
+summary: Qubits using electron spins in silicon quantum dots, compatible with chip
+  manufacturing
 permalink: https://www.envisioning.com/superposition/silicon-spin-qubits
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069269/super
 
 ## Summary
 
-Qubits leveraging electron spins in silicon, compatible with existing semiconductor manufacturing.
+Qubits using electron spins in silicon quantum dots, compatible with chip manufacturing
 
 ## Description
 

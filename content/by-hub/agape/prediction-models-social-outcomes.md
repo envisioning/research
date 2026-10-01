@@ -3,7 +3,6 @@ slug: prediction-models-social-outcomes
 hub: agape
 title: Prediction Models for Social Outcomes
 summary: AI and machine learning systems forecasting intervention effectiveness, enabling
-  predictive allocation of philanthropic resources.
 permalink: https://www.envisioning.com/agape/prediction-models-social-outcomes
 collection: technology-infrastructure
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367971/agape
 
 ## Summary
 
-AI and machine learning systems forecasting intervention effectiveness, enabling predictive allocation of philanthropic resources.
+AI and machine learning systems forecasting intervention effectiveness, enabling
 
 ## Description
 

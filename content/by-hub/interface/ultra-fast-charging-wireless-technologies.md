@@ -2,21 +2,21 @@
 slug: ultra-fast-charging-wireless-technologies
 hub: interface
 title: Ultra-Fast Charging Wireless Technologies
-summary: Wireless charging platforms achieving >90% efficiency enabling rapid 36-minute
-  full charges for 4500mAh Li-batteries.
+summary: Wireless charging systems delivering 90%+ efficiency for rapid battery replenishment
+  without cables
 permalink: https://www.envisioning.com/interface/ultra-fast-charging-wireless-technologies
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 9
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883126/interface/technologies/309b8d87-fe25-4376-a7bd-b09963bd311e-google-gemini-3.1-flash-image-preview-ojbb96.jpg
 ---
 
 # Ultra-Fast Charging Wireless Technologies
 
 ## Summary
 
-Wireless charging platforms achieving >90% efficiency enabling rapid 36-minute full charges for 4500mAh Li-batteries.
+Wireless charging systems delivering 90%+ efficiency for rapid battery replenishment without cables
 
 ## Description
 

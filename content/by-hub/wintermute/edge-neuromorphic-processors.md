@@ -2,7 +2,8 @@
 slug: edge-neuromorphic-processors
 hub: wintermute
 title: Edge Neuromorphic Processors
-summary: Ultra-low-power spiking chips for always-on embodied agents.
+summary: Brain-inspired chips running spiking neural networks at milliwatt power for
+  always-on edge AI
 permalink: https://www.envisioning.com/wintermute/edge-neuromorphic-processors
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980873/winte
 
 ## Summary
 
-Ultra-low-power spiking chips for always-on embodied agents.
+Brain-inspired chips running spiking neural networks at milliwatt power for always-on edge AI
 
 ## Description
 

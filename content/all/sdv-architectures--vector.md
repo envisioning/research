@@ -2,7 +2,8 @@
 slug: sdv-architectures
 hub: vector
 title: Software-Defined Vehicle Architectures
-summary: Vehicle platforms where features and performance are managed via software.
+summary: Centralized computing platforms that control vehicle functions through software
+  rather than fixed hardware
 permalink: https://www.envisioning.com/vector/sdv-architectures
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182251/vecto
 
 ## Summary
 
-Vehicle platforms where features and performance are managed via software.
+Centralized computing platforms that control vehicle functions through software rather than fixed hardware
 
 ## Description
 

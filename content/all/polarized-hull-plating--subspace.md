@@ -2,21 +2,21 @@
 slug: polarized-hull-plating
 hub: subspace
 title: Polarized Hull Plating
-summary: Pre-shield era defensive technology using electromagnetic polarization to
-  strengthen hull integrity.
+summary: Electromagnetic hull reinforcement that strengthens starship armor before
+  energy shields existed
 permalink: https://www.envisioning.com/subspace/polarized-hull-plating
 collection: defense
 trl: 5
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211871/subspaceindex/technologies/polarized-hull-plating.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908707/subspace/technologies/polarized-hull-plating-openrouter-google-gemini-3.1-flash-image-preview-y0lrp3.png
 ---
 
 # Polarized Hull Plating
 
 ## Summary
 
-Pre-shield era defensive technology using electromagnetic polarization to strengthen hull integrity.
+Electromagnetic hull reinforcement that strengthens starship armor before energy shields existed
 
 ## Description
 

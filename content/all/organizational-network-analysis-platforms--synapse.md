@@ -2,7 +2,7 @@
 slug: organizational-network-analysis-platforms
 hub: synapse
 title: Organizational Network Analysis Platforms
-summary: Software that reveals informal collaboration and influence networks.
+summary: Maps hidden collaboration patterns and influence flows within organizations
 permalink: https://www.envisioning.com/synapse/organizational-network-analysis-platforms
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126561/synap
 
 ## Summary
 
-Software that reveals informal collaboration and influence networks.
+Maps hidden collaboration patterns and influence flows within organizations
 
 ## Description
 

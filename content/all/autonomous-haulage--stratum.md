@@ -2,7 +2,8 @@
 slug: autonomous-haulage
 hub: stratum
 title: Autonomous Haulage Systems
-summary: Self-driving trucks and loaders navigating complex mine environments.
+summary: Self-driving trucks and loaders that transport materials in mining operations
+  without human operators
 permalink: https://www.envisioning.com/stratum/autonomous-haulage
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132914/strat
 
 ## Summary
 
-Self-driving trucks and loaders navigating complex mine environments.
+Self-driving trucks and loaders that transport materials in mining operations without human operators
 
 ## Description
 

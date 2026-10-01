@@ -2,13 +2,13 @@
 slug: ai-driven-true-smell-recognition-sensors
 hub: interface
 title: AI-Driven True Smell Recognition Sensors
-summary: MEMS technology combined with AI learning to bring smell recognition into
-  everyday applications.
+summary: Electronic sensors that detect and identify odors using MEMS arrays and machine
+  learning
 permalink: https://www.envisioning.com/interface/ai-driven-true-smell-recognition-sensors
-collection: advanced-interaction-modalities
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739170/interface/technologies/ai-driven-true-smell-recognition-sensors-google-gemini-3-pro-image-preview-e9sun6.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739170/inter
 
 ## Summary
 
-MEMS technology combined with AI learning to bring smell recognition into everyday applications.
+Electronic sensors that detect and identify odors using MEMS arrays and machine learning
 
 ## Description
 

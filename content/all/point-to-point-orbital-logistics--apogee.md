@@ -2,7 +2,7 @@
 slug: point-to-point-orbital-logistics
 hub: apogee
 title: Point-to-Point Orbital Logistics
-summary: Ballistic delivery for rapid global cargo transport.
+summary: Suborbital rocket delivery enabling global cargo transport in under an hour
 permalink: https://www.envisioning.com/apogee/point-to-point-orbital-logistics
 collection: applications
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145074/apoge
 
 ## Summary
 
-Ballistic delivery for rapid global cargo transport.
+Suborbital rocket delivery enabling global cargo transport in under an hour
 
 ## Description
 

@@ -2,19 +2,21 @@
 slug: agricultural-robotics
 hub: spore
 title: Agricultural Robotics
-summary: Autonomous field and greenhouse robots for planting, weeding, harvesting, and monitoring.
+summary: Autonomous machines for planting, weeding, harvesting, and crop monitoring
+  in fields and greenhouses
 permalink: https://www.envisioning.com/spore/agricultural-robotics
 collection: applications
 trl: 5
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889517/spore/technologies/8540fad6-15dd-4ee6-985a-c66b35cd08fa-google-gemini-3.1-flash-image-preview-2vrb6r.png
 ---
 
 # Agricultural Robotics
 
 ## Summary
 
-Autonomous field and greenhouse robots for planting, weeding, harvesting, and monitoring.
+Autonomous machines for planting, weeding, harvesting, and crop monitoring in fields and greenhouses
 
 ## Description
 

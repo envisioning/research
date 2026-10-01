@@ -2,7 +2,8 @@
 slug: injury-risk-engines
 hub: stride
 title: Injury Risk Prediction Engines
-summary: Machine learning models forecasting soft-tissue and overuse injuries.
+summary: Machine learning models that forecast soft-tissue and overuse injuries from
+  training load and biomechanics data
 permalink: https://www.envisioning.com/stride/injury-risk-engines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128332/strid
 
 ## Summary
 
-Machine learning models forecasting soft-tissue and overuse injuries.
+Machine learning models that forecast soft-tissue and overuse injuries from training load and biomechanics data
 
 ## Description
 

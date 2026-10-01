@@ -2,21 +2,21 @@
 slug: uap-swarm-behavior
 hub: xenotech
 title: Swarm Deployment & Orchestrated Behavior
-summary: Release, coordination, and re-docking of sub-units—orb probes, dronelets,
-  and parent–child craft exhibiting precise formation and hive-like maneuvering.
+summary: Coordinated deployment of sub-craft that detach, maneuver independently,
+  and re-dock in precise formation
 permalink: https://www.envisioning.com/xenotech/uap-swarm-behavior
 collection: defense-surveillance
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761768289/xenotech/technologies/uap-swarm-behavior.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939884/xenotech/technologies/uap-swarm-behavior-imagegen-v1.png
 ---
 
 # Swarm Deployment & Orchestrated Behavior
 
 ## Summary
 
-Release, coordination, and re-docking of sub-units—orb probes, dronelets, and parent–child craft exhibiting precise formation and hive-like maneuvering.
+Coordinated deployment of sub-craft that detach, maneuver independently, and re-dock in precise formation
 
 ## Description
 

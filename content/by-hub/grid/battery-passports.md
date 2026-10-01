@@ -2,7 +2,8 @@
 slug: battery-passports
 hub: grid
 title: Digital Battery Passports
-summary: Traceability systems for battery lifecycle and material provenance.
+summary: Standardized digital records tracking battery materials, performance, and
+  lifecycle from production to recycling
 permalink: https://www.envisioning.com/grid/battery-passports
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436279/grid/
 
 ## Summary
 
-Traceability systems for battery lifecycle and material provenance.
+Standardized digital records tracking battery materials, performance, and lifecycle from production to recycling
 
 ## Description
 

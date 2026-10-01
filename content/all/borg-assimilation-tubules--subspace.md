@@ -2,20 +2,21 @@
 slug: borg-assimilation-tubules
 hub: subspace
 title: Assimilation Tubules
-summary: Extendable injectors delivering nanoprobes directly into targets' bloodstream.
+summary: Retractable biological injectors that deliver transformative nanoprobes into
+  a target's bloodstream
 permalink: https://www.envisioning.com/subspace/borg-assimilation-tubules
 collection: biotechnology
 trl: 8
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760273108/subspaceindex/technologies/borg-assimilation-tubules.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907425/subspace/technologies/borg-assimilation-tubules-openrouter-google-gemini-3.1-flash-image-preview-kxbnez.png
 ---
 
 # Assimilation Tubules
 
 ## Summary
 
-Extendable injectors delivering nanoprobes directly into targets' bloodstream.
+Retractable biological injectors that deliver transformative nanoprobes into a target's bloodstream
 
 ## Description
 

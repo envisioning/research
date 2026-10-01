@@ -2,8 +2,8 @@
 slug: computer-vision-retail
 hub: datatrends
 title: Computer Vision in Retail Analytics
-summary: Using computer vision and image analysis to understand customer behavior,
-  optimize store operations, and enhance retail experiences.
+summary: Cameras and image analysis that track shopper behavior, product engagement,
+  and store flow
 permalink: https://www.envisioning.com/datatrends/computer-vision-retail
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769430/datat
 
 ## Summary
 
-Using computer vision and image analysis to understand customer behavior, optimize store operations, and enhance retail experiences.
+Cameras and image analysis that track shopper behavior, product engagement, and store flow
 
 ## Description
 

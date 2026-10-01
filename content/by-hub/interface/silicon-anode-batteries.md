@@ -2,21 +2,21 @@
 slug: silicon-anode-batteries
 hub: interface
 title: Silicon Anode Batteries
-summary: Advanced silicon anode technology delivering 20% more energy density, <10-minute
-  fast charge, and >2,000 cycles.
+summary: Lithium-ion batteries using silicon anodes for 20% higher energy density
+  and faster charging
 permalink: https://www.envisioning.com/interface/silicon-anode-batteries
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889304/interface/technologies/78f71730-ebf4-4bd3-b7cb-740d2f7423d4-google-gemini-3.1-flash-image-preview-dffy14.jpg
 ---
 
 # Silicon Anode Batteries
 
 ## Summary
 
-Advanced silicon anode technology delivering 20% more energy density, <10-minute fast charge, and >2,000 cycles.
+Lithium-ion batteries using silicon anodes for 20% higher energy density and faster charging
 
 ## Description
 

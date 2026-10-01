@@ -2,7 +2,8 @@
 slug: deepsea-mining-robotics
 hub: stratum
 title: Deep-Sea Mining Robotics
-summary: Remotely operated and autonomous systems for seabed mineral extraction.
+summary: Autonomous underwater systems that extract minerals from the ocean floor
+  at extreme depths
 permalink: https://www.envisioning.com/stratum/deepsea-mining-robotics
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133061/strat
 
 ## Summary
 
-Remotely operated and autonomous systems for seabed mineral extraction.
+Autonomous underwater systems that extract minerals from the ocean floor at extreme depths
 
 ## Description
 

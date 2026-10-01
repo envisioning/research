@@ -2,7 +2,8 @@
 slug: bias-auditing-tools
 hub: soma
 title: Bias Auditing Tools
-summary: Tools to detect cultural and behavioral biases in AI.
+summary: Software that examines AI systems for unfair treatment and discriminatory
+  patterns across demographics
 permalink: https://www.envisioning.com/soma/bias-auditing-tools
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133792/soma/
 
 ## Summary
 
-Tools to detect cultural and behavioral biases in AI.
+Software that examines AI systems for unfair treatment and discriminatory patterns across demographics
 
 ## Description
 

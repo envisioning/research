@@ -2,8 +2,8 @@
 slug: edge-analytics-iot
 hub: datatrends
 title: Edge Analytics for IoT
-summary: Real-time analytics at the edge enabling smart agriculture, industrial IoT,
-  and smart city applications.
+summary: Processing IoT sensor data locally for faster decisions in agriculture, manufacturing,
+  and cities
 permalink: https://www.envisioning.com/datatrends/edge-analytics-iot
 collection: agile-infrastructure
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766954320/datat
 
 ## Summary
 
-Real-time analytics at the edge enabling smart agriculture, industrial IoT, and smart city applications.
+Processing IoT sensor data locally for faster decisions in agriculture, manufacturing, and cities
 
 ## Description
 

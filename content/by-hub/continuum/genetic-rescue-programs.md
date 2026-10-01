@@ -2,7 +2,8 @@
 slug: genetic-rescue-programs
 hub: continuum
 title: Genetic Rescue & De-Extinction
-summary: Restoring extinct species and genetic diversity via biotechnology.
+summary: Reviving extinct species and restoring genetic diversity through cloning,
+  gene editing, and synthetic biology
 permalink: https://www.envisioning.com/continuum/genetic-rescue-programs
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125036/conti
 
 ## Summary
 
-Restoring extinct species and genetic diversity via biotechnology.
+Reviving extinct species and restoring genetic diversity through cloning, gene editing, and synthetic biology
 
 ## Description
 

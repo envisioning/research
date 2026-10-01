@@ -2,8 +2,8 @@
 slug: algorithmic-triage-fairness
 hub: epoch
 title: Algorithmic Triage Fairness
-summary: Ensuring AI-driven longevity resource allocation does not encode historical
-  biases.
+summary: Preventing bias in AI systems that decide who receives scarce life-extension
+  treatments
 permalink: https://www.envisioning.com/epoch/algorithmic-triage-fairness
 collection: ethics-security
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476413/epoch
 
 ## Summary
 
-Ensuring AI-driven longevity resource allocation does not encode historical biases.
+Preventing bias in AI systems that decide who receives scarce life-extension treatments
 
 ## Description
 

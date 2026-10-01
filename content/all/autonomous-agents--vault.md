@@ -2,7 +2,7 @@
 slug: autonomous-agents
 hub: vault
 title: Autonomous Financial Agents
-summary: AI agents for autonomous wealth and treasury management.
+summary: AI agents that independently execute wealth and treasury management strategies
 permalink: https://www.envisioning.com/vault/autonomous-agents
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128114/vault
 
 ## Summary
 
-AI agents for autonomous wealth and treasury management.
+AI agents that independently execute wealth and treasury management strategies
 
 ## Description
 

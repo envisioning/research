@@ -2,7 +2,8 @@
 slug: evtol-aircraft
 hub: atlas
 title: eVTOL Aircraft
-summary: Electric Vertical Take-off and Landing vehicles for urban air mobility.
+summary: Electric aircraft combining vertical takeoff with distributed propulsion
+  for urban air travel
 permalink: https://www.envisioning.com/atlas/evtol-aircraft
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125406/atlas
 
 ## Summary
 
-Electric Vertical Take-off and Landing vehicles for urban air mobility.
+Electric aircraft combining vertical takeoff with distributed propulsion for urban air travel
 
 ## Description
 

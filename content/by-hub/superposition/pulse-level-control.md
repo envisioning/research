@@ -2,7 +2,8 @@
 slug: pulse-level-control
 hub: superposition
 title: Pulse-Level Control Software
-summary: Low-level interfaces allowing direct manipulation of microwave or laser pulses.
+summary: Direct manipulation of microwave or laser pulses to control quantum hardware
+  below the gate level
 permalink: https://www.envisioning.com/superposition/pulse-level-control
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181252/super
 
 ## Summary
 
-Low-level interfaces allowing direct manipulation of microwave or laser pulses.
+Direct manipulation of microwave or laser pulses to control quantum hardware below the gate level
 
 ## Description
 

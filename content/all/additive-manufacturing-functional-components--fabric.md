@@ -2,7 +2,7 @@
 slug: additive-manufacturing-functional-components
 hub: fabric
 title: Additive Manufacturing for Functional Components
-summary: 3D printing of complex, breathable, or flexible garment parts.
+summary: Layer-by-layer printing of complex structural elements directly into garments
 permalink: https://www.envisioning.com/fabric/additive-manufacturing-functional-components
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059759/threa
 
 ## Summary
 
-3D printing of complex, breathable, or flexible garment parts.
+Layer-by-layer printing of complex structural elements directly into garments
 
 ## Description
 

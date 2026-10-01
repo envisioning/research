@@ -2,8 +2,8 @@
 slug: neural-interface-healthcare
 hub: datatrends
 title: Neural Interface Healthcare Analytics
-summary: Using brain-computer interfaces and neural implants for healthcare applications,
-  including restoring communication and motor function.
+summary: Brain-computer interfaces that decode neural signals to restore speech, movement,
+  and sensory function
 permalink: https://www.envisioning.com/datatrends/neural-interface-healthcare
 collection: analytics-in-action
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769333/datat
 
 ## Summary
 
-Using brain-computer interfaces and neural implants for healthcare applications, including restoring communication and motor function.
+Brain-computer interfaces that decode neural signals to restore speech, movement, and sensory function
 
 ## Description
 

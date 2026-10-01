@@ -2,7 +2,8 @@
 slug: precision-agriculture-livestock-monitoring
 hub: link
 title: Precision Agriculture & Livestock Monitoring
-summary: IoT-enabled farm optimization for yield, water, and animal welfare.
+summary: IoT sensors and data analytics for optimizing crop yields, resource use,
+  and animal health on farms
 permalink: https://www.envisioning.com/link/precision-agriculture-livestock-monitoring
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461954/link/
 
 ## Summary
 
-IoT-enabled farm optimization for yield, water, and animal welfare.
+IoT sensors and data analytics for optimizing crop yields, resource use, and animal health on farms
 
 ## Description
 

@@ -2,9 +2,8 @@
 slug: stone-paper-innovation-china
 hub: atmos
 title: Stone Paper Innovation from Desert Sand in China
-summary: China's stone paper, made from calcium carbonate-rich desert sand, offers
-  a sustainable, tree-free alternative to traditional paper, significantly reducing
-  water usage and carbon emissions.
+summary: Paper made from calcium carbonate and desert sand, eliminating trees and
+  water from production
 permalink: https://www.envisioning.com/atmos/stone-paper-innovation-china
 collection: hardware
 trl: 5
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765548455/atmos
 
 ## Summary
 
-China's stone paper, made from calcium carbonate-rich desert sand, offers a sustainable, tree-free alternative to traditional paper, significantly reducing water usage and carbon emissions.
+Paper made from calcium carbonate and desert sand, eliminating trees and water from production
 
 ## Description
 

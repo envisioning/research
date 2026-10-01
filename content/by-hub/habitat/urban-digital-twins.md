@@ -2,7 +2,8 @@
 slug: urban-digital-twins
 hub: habitat
 title: Urban Digital Twins
-summary: City-scale virtual replicas for real-time simulation and scenario planning.
+summary: Real-time virtual city models that simulate infrastructure, traffic, and
+  environmental conditions
 permalink: https://www.envisioning.com/habitat/urban-digital-twins
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117394/habit
 
 ## Summary
 
-City-scale virtual replicas for real-time simulation and scenario planning.
+Real-time virtual city models that simulate infrastructure, traffic, and environmental conditions
 
 ## Description
 

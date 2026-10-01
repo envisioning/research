@@ -2,7 +2,8 @@
 slug: world-graph-indexing
 hub: liminal
 title: World Graph Indexing
-summary: Graph-based indexing of spatial anchors, objects, and relationships.
+summary: Maps physical spaces as networks of connected anchors, objects, and spatial
+  relationships
 permalink: https://www.envisioning.com/liminal/world-graph-indexing
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124136/limin
 
 ## Summary
 
-Graph-based indexing of spatial anchors, objects, and relationships.
+Maps physical spaces as networks of connected anchors, objects, and spatial relationships
 
 ## Description
 

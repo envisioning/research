@@ -2,15 +2,10 @@
 slug: uv-led-water-treatment
 hub: cities
 title: UV-LED Water Treatment
-summary: 'This solution provides safe, potable water in urban environments by offering
-  an effective and sustainable disinfection solution. This technology uses ultraviolet
-  light-emitting diodes (UV-LEDs) to emit UV light at specific wavelengths, disrupting
-  the DNA of harmful microorganisms in water, thereby rendering them inactive and
-  preventing the spread of waterborne diseases. They are also more compact and durable,
-  allowing for versatile applications ranging from municipal water treatment plants
-  to portable purification devices. '
+summary: Compact UV-LED systems that disinfect urban water supplies by disrupting
+  pathogen DNA
 permalink: https://www.envisioning.com/cities/uv-led-water-treatment
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792076-uv-led-water-treatme
 
 ## Summary
 
-This solution provides safe, potable water in urban environments by offering an effective and sustainable disinfection solution. This technology uses ultraviolet light-emitting diodes (UV-LEDs) to emit UV light at specific wavelengths, disrupting the DNA of harmful microorganisms in water, thereby rendering them inactive and preventing the spread of waterborne diseases. They are also more compact and durable, allowing for versatile applications ranging from municipal water treatment plants to portable purification devices.
+Compact UV-LED systems that disinfect urban water supplies by disrupting pathogen DNA
 
 ## Description
 

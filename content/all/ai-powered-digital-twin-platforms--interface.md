@@ -2,13 +2,13 @@
 slug: ai-powered-digital-twin-platforms
 hub: interface
 title: AI-Powered Digital Twin Platforms
-summary: Platforms optimizing building operations and reducing energy consumption,
-  improving ESG performance through AI-driven smart building management solutions.
+summary: Virtual replicas of buildings that optimize energy use and operations through
+  real-time sensor data and AI
 permalink: https://www.envisioning.com/interface/ai-powered-digital-twin-platforms
-collection: ambient-contextual-systems
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730948/interface/technologies/ai-powered-digital-twin-platforms-google-gemini-3-pro-image-preview-genf6n.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730948/inter
 
 ## Summary
 
-Platforms optimizing building operations and reducing energy consumption, improving ESG performance through AI-driven smart building management solutions.
+Virtual replicas of buildings that optimize energy use and operations through real-time sensor data and AI
 
 ## Description
 

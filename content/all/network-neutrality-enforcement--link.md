@@ -2,7 +2,8 @@
 slug: network-neutrality-enforcement
 hub: link
 title: Network Neutrality & Traffic Shaping Transparency
-summary: Technical and regulatory systems to prevent discriminatory traffic treatment.
+summary: Systems that monitor and prevent ISPs from discriminating against specific
+  types of internet traffic
 permalink: https://www.envisioning.com/link/network-neutrality-enforcement
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182278/link/
 
 ## Summary
 
-Technical and regulatory systems to prevent discriminatory traffic treatment.
+Systems that monitor and prevent ISPs from discriminating against specific types of internet traffic
 
 ## Description
 

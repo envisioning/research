@@ -2,22 +2,21 @@
 slug: reflective-geometric-waveguides
 hub: interface
 title: Reflective Geometric Waveguides
-summary: Reflective waveguides utilizing total internal reflection with up to 10X
-  better luminance efficiency than competing waveguides, highest brightness in industry,
-  and ability to directly bond prescription lenses.
+summary: AR waveguides using mirrors to deliver 10× brighter displays than standard
+  optical guides
 permalink: https://www.envisioning.com/interface/reflective-geometric-waveguides
-collection: spatial-computing-immersive
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886886/interface/technologies/42a587a1-d65a-47fb-8b1d-2654173b5100-google-gemini-3.1-flash-image-preview-a3uqhy.jpg
 ---
 
 # Reflective Geometric Waveguides
 
 ## Summary
 
-Reflective waveguides utilizing total internal reflection with up to 10X better luminance efficiency than competing waveguides, highest brightness in industry, and ability to directly bond prescription lenses.
+AR waveguides using mirrors to deliver 10× brighter displays than standard optical guides
 
 ## Description
 

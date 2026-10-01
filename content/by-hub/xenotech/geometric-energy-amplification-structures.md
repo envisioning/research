@@ -2,21 +2,21 @@
 slug: geometric-energy-amplification-structures
 hub: xenotech
 title: Energy Amplification
-summary: Architectural forms engineered to focus or transduce cosmic energy for healing,
-  initiation, or planetary balance through geometric field modulation and energy concentration.
+summary: Structures using geometric forms to concentrate and amplify ambient energy
+  fields for healing or consciousness work
 permalink: https://www.envisioning.com/xenotech/geometric-energy-amplification-structures
 collection: materials-structures
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761405198/xenotech/technologies/geometric-energy-amplification-structures.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898247/xenotech/technologies/geometric-energy-amplification-structures-openrouter-google-gemini-3.1-flash-image-preview-3oiqmg.png
 ---
 
 # Energy Amplification
 
 ## Summary
 
-Architectural forms engineered to focus or transduce cosmic energy for healing, initiation, or planetary balance through geometric field modulation and energy concentration.
+Structures using geometric forms to concentrate and amplify ambient energy fields for healing or consciousness work
 
 ## Description
 

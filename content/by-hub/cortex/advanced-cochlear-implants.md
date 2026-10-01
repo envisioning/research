@@ -2,7 +2,8 @@
 slug: advanced-cochlear-implants
 hub: cortex
 title: Cochlear Implant Advances
-summary: Fully implanted hearing systems with AI sound processing.
+summary: AI-powered cochlear implants with fully internalized hardware for natural
+  hearing restoration
 permalink: https://www.envisioning.com/cortex/advanced-cochlear-implants
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073989/corte
 
 ## Summary
 
-Fully implanted hearing systems with AI sound processing.
+AI-powered cochlear implants with fully internalized hardware for natural hearing restoration
 
 ## Description
 

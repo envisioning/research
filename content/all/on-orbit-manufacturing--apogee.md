@@ -2,7 +2,8 @@
 slug: on-orbit-manufacturing
 hub: apogee
 title: On-Orbit Manufacturing & Assembly
-summary: Robotic systems building large structures in microgravity.
+summary: Robotic systems constructing satellites, antennas, and telescopes directly
+  in orbit
 permalink: https://www.envisioning.com/apogee/on-orbit-manufacturing
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060610/apoge
 
 ## Summary
 
-Robotic systems building large structures in microgravity.
+Robotic systems constructing satellites, antennas, and telescopes directly in orbit
 
 ## Description
 

@@ -2,15 +2,10 @@
 slug: micromobility
 hub: cities
 title: Micromobility
-summary: This transportation solution designed to address critical urban challenges
-  such as traffic congestion, pollution, and the need for efficient last-mile delivery.
-  These technologies encompass small, lightweight vehicles like e-scooters, e-bikes,
-  and mini trolleys, which operate at low speeds and are typically electric-powered.
-  By providing flexible, environmentally friendly alternatives to traditional vehicles,
-  micro-mobility solutions reduce reliance on cars, lower carbon emissions, and ease
-  traffic congestion in crowded urban areas.
+summary: Small electric vehicles like e-scooters and e-bikes for short urban trips
+  and last-mile delivery
 permalink: https://www.envisioning.com/cities/micromobility
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: applications
 trl: 9
 impact: 3
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724870533-micromobility.png
 
 ## Summary
 
-This transportation solution designed to address critical urban challenges such as traffic congestion, pollution, and the need for efficient last-mile delivery. These technologies encompass small, lightweight vehicles like e-scooters, e-bikes, and mini trolleys, which operate at low speeds and are typically electric-powered. By providing flexible, environmentally friendly alternatives to traditional vehicles, micro-mobility solutions reduce reliance on cars, lower carbon emissions, and ease traffic congestion in crowded urban areas.
+Small electric vehicles like e-scooters and e-bikes for short urban trips and last-mile delivery
 
 ## Description
 

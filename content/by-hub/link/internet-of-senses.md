@@ -2,7 +2,8 @@
 slug: internet-of-senses
 hub: link
 title: Internet of Senses
-summary: Transmitting touch, smell, and taste over networks.
+summary: Networks that transmit touch, smell, and taste sensations alongside audio
+  and video
 permalink: https://www.envisioning.com/link/internet-of-senses
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177725/link/
 
 ## Summary
 
-Transmitting touch, smell, and taste over networks.
+Networks that transmit touch, smell, and taste sensations alongside audio and video
 
 ## Description
 

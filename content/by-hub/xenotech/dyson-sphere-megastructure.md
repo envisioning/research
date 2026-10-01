@@ -2,21 +2,21 @@
 slug: dyson-sphere-megastructure
 hub: xenotech
 title: Dyson Sphere Megastructure
-summary: Hypothetical stellar-scale megastructure surrounding a star to capture its
-  entire energy output for advanced civilization power requirements.
+summary: Stellar-scale structure designed to capture a star's entire energy output
+  for civilization-level power
 permalink: https://www.envisioning.com/xenotech/dyson-sphere-megastructure
 collection: energy-systems
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760953202/xenotech/technologies/dyson-sphere-megastructure.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938708/xenotech/technologies/dyson-sphere-megastructure-imagegen-v1.png
 ---
 
 # Dyson Sphere Megastructure
 
 ## Summary
 
-Hypothetical stellar-scale megastructure surrounding a star to capture its entire energy output for advanced civilization power requirements.
+Stellar-scale structure designed to capture a star's entire energy output for civilization-level power
 
 ## Description
 

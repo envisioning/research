@@ -2,7 +2,8 @@
 slug: biosynthetic-bonding-devices
 hub: eros
 title: Biosynthetic Bonding Devices
-summary: Wearables that release oxytocin, pheromones, or other bonding biochemicals.
+summary: Wearables that release oxytocin or pheromones to influence emotional bonding
+  and social connection
 permalink: https://www.envisioning.com/eros/biosynthetic-bonding-devices
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124847/eros/
 
 ## Summary
 
-Wearables that release oxytocin, pheromones, or other bonding biochemicals.
+Wearables that release oxytocin or pheromones to influence emotional bonding and social connection
 
 ## Description
 

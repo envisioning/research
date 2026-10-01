@@ -2,19 +2,21 @@
 slug: magnonics
 hub: horizons
 title: Magnonics
-summary: Data storage and processing using magnons—spin waves—instead of electrons.
+summary: Data processing using spin waves in magnetic materials instead of electron
+  flow
 permalink: https://www.envisioning.com/horizons/magnonics
 collection: hardware
 trl: 3
 impact: 4
 investment: 3
+image_url: null
 ---
 
 # Magnonics
 
 ## Summary
 
-Data storage and processing using magnons—spin waves—instead of electrons.
+Data processing using spin waves in magnetic materials instead of electron flow
 
 ## Description
 

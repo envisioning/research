@@ -2,7 +2,8 @@
 slug: real-time-motion-graphics-engines
 hub: prism
 title: Real-Time Motion Graphics Engines
-summary: GPU-native toolchains rendering broadcast graphics with zero latency.
+summary: GPU-powered systems that render broadcast graphics instantly without pre-rendering
+  delays
 permalink: https://www.envisioning.com/prism/real-time-motion-graphics-engines
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062619/pulse
 
 ## Summary
 
-GPU-native toolchains rendering broadcast graphics with zero latency.
+GPU-powered systems that render broadcast graphics instantly without pre-rendering delays
 
 ## Description
 

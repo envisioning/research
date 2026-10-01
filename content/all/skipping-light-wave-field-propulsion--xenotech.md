@@ -2,22 +2,21 @@
 slug: skipping-light-wave-field-propulsion
 hub: xenotech
 title: Skipping Light-Wave Propulsion
-summary: Witness-derived photonic-gravitic drive where craft 'skip on light waves'
-  via coherent electromagnetic resonance that decouples inertia and re-inserts the
-  vehicle along new vectors.
+summary: Field propulsion that decouples inertia by resonating with light and gravity
+  to skip across trajectories
 permalink: https://www.envisioning.com/xenotech/skipping-light-wave-field-propulsion
 collection: propulsion-physics
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762698323/xenotech/technologies/skipping-light-wave-field-propulsion-openai-gpt-5-osxdr0.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903125/xenotech/technologies/skipping-light-wave-field-propulsion-openrouter-google-gemini-3.1-flash-image-preview-dorcr4.png
 ---
 
 # Skipping Light-Wave Propulsion
 
 ## Summary
 
-Witness-derived photonic-gravitic drive where craft 'skip on light waves' via coherent electromagnetic resonance that decouples inertia and re-inserts the vehicle along new vectors.
+Field propulsion that decouples inertia by resonating with light and gravity to skip across trajectories
 
 ## Description
 

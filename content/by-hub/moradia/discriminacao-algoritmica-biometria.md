@@ -2,8 +2,8 @@
 slug: discriminacao-algoritmica-biometria
 hub: moradia
 title: Discriminação Algorítmica e Viés em Biometria
-summary: Erros e vieses em reconhecimento facial e algoritmos de aprovação que produzem
-  exclusões e discriminações baseadas em raça, classe e origem.
+summary: Vieses em reconhecimento facial e algoritmos de aprovação que reproduzem
+  discriminação racial e social
 permalink: https://www.envisioning.com/moradia/discriminacao-algoritmica-biometria
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360256/habit
 
 ## Summary
 
-Erros e vieses em reconhecimento facial e algoritmos de aprovação que produzem exclusões e discriminações baseadas em raça, classe e origem.
+Vieses em reconhecimento facial e algoritmos de aprovação que reproduzem discriminação racial e social
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: temporal-shielding
 hub: subspace
 title: Temporal Shielding
-summary: Protects vessels from chronometric weapons and time distortions.
+summary: Defensive field stabilizing time flow against chronometric weapons and temporal
+  anomalies
 permalink: https://www.envisioning.com/subspace/temporal-shielding
 collection: defense
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760262444/subspaceindex/technologies/temporal-shielding.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909140/subspace/technologies/temporal-shielding-openrouter-google-gemini-3.1-flash-image-preview-4vuag3.png
 ---
 
 # Temporal Shielding
 
 ## Summary
 
-Protects vessels from chronometric weapons and time distortions.
+Defensive field stabilizing time flow against chronometric weapons and temporal anomalies
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: spacetime-topology-sensors-field-cameras
 hub: xenotech
 title: Field Cameras
-summary: Devices measuring minute metric distortions around craft for warp-field signature
-  detection, based on DIA/AATIP technical outlines.
+summary: Sensors designed to detect spacetime metric distortions around craft using
+  exotic propulsion
 permalink: https://www.envisioning.com/xenotech/spacetime-topology-sensors-field-cameras
 collection: defense-surveillance
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761404264/xenotech/technologies/spacetime-topology-sensors-field-cameras.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898342/xenotech/technologies/spacetime-topology-sensors-field-cameras-openrouter-google-gemini-3.1-flash-image-preview-45ofxc.png
 ---
 
 # Field Cameras
 
 ## Summary
 
-Devices measuring minute metric distortions around craft for warp-field signature detection, based on DIA/AATIP technical outlines.
+Sensors designed to detect spacetime metric distortions around craft using exotic propulsion
 
 ## Description
 

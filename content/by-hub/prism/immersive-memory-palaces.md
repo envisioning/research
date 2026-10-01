@@ -2,8 +2,8 @@
 slug: immersive-memory-palaces
 hub: prism
 title: Immersive Memory Palaces
-summary: Spatial computing applications for archiving and revisiting personal memories
-  in 3D.
+summary: 3D environments that anchor personal memories to navigable spaces using spatial
+  computing
 permalink: https://www.envisioning.com/prism/immersive-memory-palaces
 collection: applications
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074499/pulse
 
 ## Summary
 
-Spatial computing applications for archiving and revisiting personal memories in 3D.
+3D environments that anchor personal memories to navigable spaces using spatial computing
 
 ## Description
 

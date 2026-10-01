@@ -2,21 +2,21 @@
 slug: lcars
 hub: subspace
 title: LCARS
-summary: Library Computer Access and Retrieval System providing intuitive interface
-  for all ship systems.
+summary: Unified spacecraft interface consolidating navigation, environmental, and
+  tactical systems through color-coded displays
 permalink: https://www.envisioning.com/subspace/lcars
 collection: computing
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208720/subspaceindex/technologies/lcars.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908283/subspace/technologies/lcars-openrouter-google-gemini-3.1-flash-image-preview-udgqej.png
 ---
 
 # LCARS
 
 ## Summary
 
-Library Computer Access and Retrieval System providing intuitive interface for all ship systems.
+Unified spacecraft interface consolidating navigation, environmental, and tactical systems through color-coded displays
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: positron-aerospace-propulsion
 hub: xenotech
 title: Antimatter Propulsion
-summary: Positron-based aerospace propulsion using antimatter-matter annihilation
-  for ultra-high specific impulse and energy density.
+summary: Spacecraft propulsion using matter-antimatter annihilation for extreme energy
+  density
 permalink: https://www.envisioning.com/xenotech/positron-aerospace-propulsion
 collection: propulsion-physics
 trl: 2
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761154530/xenotech/technologies/positron-aerospace-propulsion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897193/xenotech/technologies/positron-aerospace-propulsion-openrouter-google-gemini-3.1-flash-image-preview-pecy9i.png
 ---
 
 # Antimatter Propulsion
 
 ## Summary
 
-Positron-based aerospace propulsion using antimatter-matter annihilation for ultra-high specific impulse and energy density.
+Spacecraft propulsion using matter-antimatter annihilation for extreme energy density
 
 ## Description
 

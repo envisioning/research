@@ -2,21 +2,20 @@
 slug: consciousness-induced-vacuum-energy-extraction
 hub: xenotech
 title: Consciousness Energy
-summary: Mind-state modulation allegedly affects local zero-point field for energy
-  extraction, bridging psychophysics and energy technology.
+summary: Using focused mental states to extract energy from quantum vacuum fluctuations
 permalink: https://www.envisioning.com/xenotech/consciousness-induced-vacuum-energy-extraction
 collection: consciousness-interface
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761395832/xenotech/technologies/consciousness-induced-vacuum-energy-extraction.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897833/xenotech/technologies/consciousness-induced-vacuum-energy-extraction-openrouter-google-gemini-3.1-flash-image-preview-5z79f7.png
 ---
 
 # Consciousness Energy
 
 ## Summary
 
-Mind-state modulation allegedly affects local zero-point field for energy extraction, bridging psychophysics and energy technology.
+Using focused mental states to extract energy from quantum vacuum fluctuations
 
 ## Description
 

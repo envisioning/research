@@ -2,7 +2,8 @@
 slug: neural-sensors
 hub: stride
 title: Neural Performance Sensors
-summary: Wearables tracking brain signals to assess cognitive state and reaction time.
+summary: Wearable EEG sensors that track brain activity to monitor focus, fatigue,
+  and reaction time during training
 permalink: https://www.envisioning.com/stride/neural-sensors
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128005/strid
 
 ## Summary
 
-Wearables tracking brain signals to assess cognitive state and reaction time.
+Wearable EEG sensors that track brain activity to monitor focus, fatigue, and reaction time during training
 
 ## Description
 

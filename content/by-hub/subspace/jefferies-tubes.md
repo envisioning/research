@@ -2,20 +2,21 @@
 slug: jefferies-tubes
 hub: subspace
 title: Jefferies Tubes
-summary: Maintenance crawlspaces providing access to critical systems.
+summary: Narrow maintenance conduits enabling direct access to spacecraft systems
+  behind bulkheads
 permalink: https://www.envisioning.com/subspace/jefferies-tubes
 collection: engineering
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760265068/subspaceindex/technologies/jefferies-tubes.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908233/subspace/technologies/jefferies-tubes-openrouter-google-gemini-3.1-flash-image-preview-8mobxx.png
 ---
 
 # Jefferies Tubes
 
 ## Summary
 
-Maintenance crawlspaces providing access to critical systems.
+Narrow maintenance conduits enabling direct access to spacecraft systems behind bulkheads
 
 ## Description
 

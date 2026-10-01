@@ -2,7 +2,8 @@
 slug: yield-aggregator-dao-networks
 hub: lattice
 title: Yield Aggregators
-summary: Smart vaults routing deposits to best-performing strategies.
+summary: Automated vaults that optimize DeFi yields by routing deposits across lending,
+  liquidity, and structured products
 permalink: https://www.envisioning.com/lattice/yield-aggregator-dao-networks
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179940/latti
 
 ## Summary
 
-Smart vaults routing deposits to best-performing strategies.
+Automated vaults that optimize DeFi yields by routing deposits across lending, liquidity, and structured products
 
 ## Description
 

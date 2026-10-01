@@ -2,8 +2,8 @@
 slug: partial-cellular-reprogramming
 hub: epoch
 title: Partial Cellular Reprogramming
-summary: Controlled expression of Yamanaka factors to rejuvenate tissues without losing
-  cellular identity.
+summary: Controlled Yamanaka factor expression to reverse cellular aging while preserving
+  cell type
 permalink: https://www.envisioning.com/epoch/partial-cellular-reprogramming
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477553/epoch
 
 ## Summary
 
-Controlled expression of Yamanaka factors to rejuvenate tissues without losing cellular identity.
+Controlled Yamanaka factor expression to reverse cellular aging while preserving cell type
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: self-sovereign-identity
 hub: atlas
 title: Self-Sovereign Identity (SSI)
-summary: User-controlled digital identity wallets for secure travel.
+summary: Decentralized digital identity system giving travelers control over their
+  verified credentials
 permalink: https://www.envisioning.com/atlas/self-sovereign-identity
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127289/atlas
 
 ## Summary
 
-User-controlled digital identity wallets for secure travel.
+Decentralized digital identity system giving travelers control over their verified credentials
 
 ## Description
 

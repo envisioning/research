@@ -2,7 +2,8 @@
 slug: olfactory-and-gustatory-interfaces
 hub: soma
 title: Olfactory and Gustatory Interfaces
-summary: Devices that synthesize smell and taste in XR experiences.
+summary: Devices that synthesize smell and taste sensations for immersive digital
+  experiences
 permalink: https://www.envisioning.com/soma/olfactory-and-gustatory-interfaces
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133833/soma/
 
 ## Summary
 
-Devices that synthesize smell and taste in XR experiences.
+Devices that synthesize smell and taste sensations for immersive digital experiences
 
 ## Description
 

@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 3
 impact: 4
 investment: 5
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897849/wonen/technologies/9d4221b1-3258-4b1d-8df6-488dfe90e642-google-gemini-3.1-flash-image-preview-9yujx9.png
 ---
 
 # Verhuurderheffing (Landlord Levy) Abolition

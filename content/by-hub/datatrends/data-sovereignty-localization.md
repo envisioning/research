@@ -2,8 +2,8 @@
 slug: data-sovereignty-localization
 hub: datatrends
 title: Data Sovereignty and Localization Requirements
-summary: Regulatory requirements for data storage and processing within national borders,
-  impacting cloud analytics strategies globally.
+summary: Regulatory mandates requiring data storage and processing within specific
+  national borders
 permalink: https://www.envisioning.com/datatrends/data-sovereignty-localization
 collection: management-foundations
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958478/datat
 
 ## Summary
 
-Regulatory requirements for data storage and processing within national borders, impacting cloud analytics strategies globally.
+Regulatory mandates requiring data storage and processing within specific national borders
 
 ## Description
 

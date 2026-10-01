@@ -2,7 +2,8 @@
 slug: closed-loop-microfactory-retail
 hub: fabric
 title: Closed-Loop Microfactory Retail Units
-summary: In-store fabrication pods that produce customized garments on demand.
+summary: Compact in-store systems that fabricate custom garments on demand from digital
+  designs
 permalink: https://www.envisioning.com/fabric/closed-loop-microfactory-retail
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062516/threa
 
 ## Summary
 
-In-store fabrication pods that produce customized garments on demand.
+Compact in-store systems that fabricate custom garments on demand from digital designs
 
 ## Description
 

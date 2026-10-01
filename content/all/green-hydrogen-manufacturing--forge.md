@@ -2,7 +2,8 @@
 slug: green-hydrogen-manufacturing
 hub: forge
 title: Green Hydrogen for Industrial Processes
-summary: Using renewable-powered hydrogen to decarbonize high-temperature manufacturing.
+summary: Renewable-powered hydrogen replacing fossil fuels in steel, cement, and chemical
+  production
 permalink: https://www.envisioning.com/forge/green-hydrogen-manufacturing
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177862/forge
 
 ## Summary
 
-Using renewable-powered hydrogen to decarbonize high-temperature manufacturing.
+Renewable-powered hydrogen replacing fossil fuels in steel, cement, and chemical production
 
 ## Description
 

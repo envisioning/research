@@ -2,7 +2,7 @@
 slug: joint-communication-and-sensing
 hub: link
 title: Joint Communication & Sensing (JCAS)
-summary: Waveforms and protocols that combine connectivity with environmental sensing.
+summary: Radio systems that transmit data and detect objects using the same waveforms
 permalink: https://www.envisioning.com/link/joint-communication-and-sensing
 collection: software
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436023/link/
 
 ## Summary
 
-Waveforms and protocols that combine connectivity with environmental sensing.
+Radio systems that transmit data and detect objects using the same waveforms
 
 ## Description
 

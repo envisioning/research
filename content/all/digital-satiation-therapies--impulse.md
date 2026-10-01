@@ -2,7 +2,7 @@
 slug: digital-satiation-therapies
 hub: impulse
 title: Digital Satiation Therapies
-summary: VR/AR simulating consumption to manage cravings.
+summary: Immersive simulations that reduce cravings by mimicking consumption experiences
 permalink: https://www.envisioning.com/impulse/digital-satiation-therapies
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133829/impul
 
 ## Summary
 
-VR/AR simulating consumption to manage cravings.
+Immersive simulations that reduce cravings by mimicking consumption experiences
 
 ## Description
 

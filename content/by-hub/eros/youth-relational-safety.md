@@ -2,8 +2,7 @@
 slug: youth-relational-safety
 hub: eros
 title: Youth Relational Safety Protocols
-summary: Safety-by-design frameworks for children's and teens' social and romantic
-  tools.
+summary: Age-appropriate safeguards for minors using digital social and dating platforms
 permalink: https://www.envisioning.com/eros/youth-relational-safety
 collection: ethics-security
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126038/eros/
 
 ## Summary
 
-Safety-by-design frameworks for children's and teens' social and romantic tools.
+Age-appropriate safeguards for minors using digital social and dating platforms
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: ekyc-orchestration
 hub: sentinel
 title: eKYC Orchestration Platforms
-summary: Platforms that combine signals and providers into unified identity proofing
-  flows.
+summary: Platforms that route and combine multiple identity verification services
+  into unified onboarding workflows
 permalink: https://www.envisioning.com/sentinel/ekyc-orchestration
 collection: applications
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463182/senti
 
 ## Summary
 
-Platforms that combine signals and providers into unified identity proofing flows.
+Platforms that route and combine multiple identity verification services into unified onboarding workflows
 
 ## Description
 

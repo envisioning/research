@@ -2,7 +2,8 @@
 slug: quantum-gravity-sensors
 hub: stratum
 title: Quantum Gravity Gradiometers
-summary: Ultra-sensitive sensors detecting subsurface density contrasts for exploration.
+summary: Ultra-sensitive quantum sensors detecting subsurface density variations for
+  mineral and resource exploration
 permalink: https://www.envisioning.com/stratum/quantum-gravity-sensors
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133129/strat
 
 ## Summary
 
-Ultra-sensitive sensors detecting subsurface density contrasts for exploration.
+Ultra-sensitive quantum sensors detecting subsurface density variations for mineral and resource exploration
 
 ## Description
 

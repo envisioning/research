@@ -2,8 +2,8 @@
 slug: neurofeedback-headbands
 hub: solace
 title: Closed-Loop Neurofeedback Headbands
-summary: Wearable EEG headbands that provide real-time feedback for self-regulation
-  and focus training.
+summary: Wearable EEG sensors that deliver real-time brainwave feedback to improve
+  focus and self-regulation
 permalink: https://www.envisioning.com/solace/neurofeedback-headbands
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133823/solac
 
 ## Summary
 
-Wearable EEG headbands that provide real-time feedback for self-regulation and focus training.
+Wearable EEG sensors that deliver real-time brainwave feedback to improve focus and self-regulation
 
 ## Description
 

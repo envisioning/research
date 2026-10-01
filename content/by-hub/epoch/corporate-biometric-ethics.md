@@ -2,8 +2,8 @@
 slug: corporate-biometric-ethics
 hub: epoch
 title: Corporate Longevity Protocols
-summary: Ethical boundaries around employers using aging data for performance or insurance
-  decisions.
+summary: Ethical frameworks governing employer use of biological age data in workforce
+  decisions
 permalink: https://www.envisioning.com/epoch/corporate-biometric-ethics
 collection: ethics-security
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620036/epoch
 
 ## Summary
 
-Ethical boundaries around employers using aging data for performance or insurance decisions.
+Ethical frameworks governing employer use of biological age data in workforce decisions
 
 ## Description
 

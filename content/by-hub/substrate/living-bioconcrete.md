@@ -2,7 +2,7 @@
 slug: living-bioconcrete
 hub: substrate
 title: Living Self-Healing Concrete
-summary: Infrastructure materials embedded with bacteria to autonomously repair cracks.
+summary: Bacteria-embedded concrete that repairs its own cracks without human intervention
 permalink: https://www.envisioning.com/substrate/living-bioconcrete
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120054/subst
 
 ## Summary
 
-Infrastructure materials embedded with bacteria to autonomously repair cracks.
+Bacteria-embedded concrete that repairs its own cracks without human intervention
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: reality-anchoring
 hub: beacon
 title: Reality Anchoring Protocols
-summary: Binding digital media to physical events.
+summary: Cryptographically linking digital media to verifiable physical events and
+  locations
 permalink: https://www.envisioning.com/beacon/reality-anchoring
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124896/beaco
 
 ## Summary
 
-Binding digital media to physical events.
+Cryptographically linking digital media to verifiable physical events and locations
 
 ## Description
 

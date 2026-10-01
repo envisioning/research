@@ -2,7 +2,8 @@
 slug: militarization-dual-use-systems
 hub: apogee
 title: Militarization & Dual-Use Systems
-summary: Transparency and regulation of potential space weapons.
+summary: Governance frameworks for space technologies with both civilian and military
+  applications
 permalink: https://www.envisioning.com/apogee/militarization-dual-use-systems
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060885/apoge
 
 ## Summary
 
-Transparency and regulation of potential space weapons.
+Governance frameworks for space technologies with both civilian and military applications
 
 ## Description
 

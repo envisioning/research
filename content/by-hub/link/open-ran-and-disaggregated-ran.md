@@ -2,7 +2,8 @@
 slug: open-ran-and-disaggregated-ran
 hub: link
 title: Open RAN & Disaggregated RAN
-summary: Virtualized and vendor-neutral radio access network architectures.
+summary: Radio access networks split into modular, vendor-neutral components for flexible
+  deployment
 permalink: https://www.envisioning.com/link/open-ran-and-disaggregated-ran
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435958/link/
 
 ## Summary
 
-Virtualized and vendor-neutral radio access network architectures.
+Radio access networks split into modular, vendor-neutral components for flexible deployment
 
 ## Description
 

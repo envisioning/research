@@ -2,7 +2,8 @@
 slug: remote-performance-clinics
 hub: stride
 title: Remote Performance Clinics
-summary: Tele-assessment and coaching pipelines connecting athletes to global experts.
+summary: Virtual coaching platforms connecting athletes to expert analysis via video
+  and sensor data
 permalink: https://www.envisioning.com/stride/remote-performance-clinics
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128533/strid
 
 ## Summary
 
-Tele-assessment and coaching pipelines connecting athletes to global experts.
+Virtual coaching platforms connecting athletes to expert analysis via video and sensor data
 
 ## Description
 

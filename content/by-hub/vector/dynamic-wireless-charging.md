@@ -2,7 +2,7 @@
 slug: dynamic-wireless-charging
 hub: vector
 title: Dynamic Wireless Charging
-summary: Inductive charging infrastructure embedded in roads for charging while driving.
+summary: Road-embedded inductive coils that charge electric vehicles while driving
 permalink: https://www.envisioning.com/vector/dynamic-wireless-charging
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177585/vecto
 
 ## Summary
 
-Inductive charging infrastructure embedded in roads for charging while driving.
+Road-embedded inductive coils that charge electric vehicles while driving
 
 ## Description
 

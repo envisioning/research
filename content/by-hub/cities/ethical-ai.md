@@ -2,16 +2,10 @@
 slug: ethical-ai
 hub: cities
 title: Ethical AI
-summary: Foster trust and credibility in AI-driven systems, aligning with evolving
-  regulatory requirements and societal expectations. This technology uses transparent
-  and explainable AI models to ensure that the reasoning behind AI-driven choices
-  can be understood and audited. It also integrates ethical guidelines into the AI
-  algorithms and decision-making processes, prioritising principles like human rights,
-  privacy, non-discrimination, and environmental sustainability. Ethical AI can be
-  employed in urban applications such as disaster response, public safety, transportation
-  optimisation, and environmental monitoring. 
+summary: AI systems designed with transparency, accountability, and fairness to align
+  with ethical standards and regulations
 permalink: https://www.envisioning.com/cities/ethical-ai
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: ethics-security
 trl: 5
 impact: 2
 investment: 1
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792311-ethical-ai.png
 
 ## Summary
 
-Foster trust and credibility in AI-driven systems, aligning with evolving regulatory requirements and societal expectations. This technology uses transparent and explainable AI models to ensure that the reasoning behind AI-driven choices can be understood and audited. It also integrates ethical guidelines into the AI algorithms and decision-making processes, prioritising principles like human rights, privacy, non-discrimination, and environmental sustainability. Ethical AI can be employed in urban applications such as disaster response, public safety, transportation optimisation, and environmental monitoring.
+AI systems designed with transparency, accountability, and fairness to align with ethical standards and regulations
 
 ## Description
 

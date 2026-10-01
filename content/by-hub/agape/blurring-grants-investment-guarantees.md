@@ -3,7 +3,6 @@ slug: blurring-grants-investment-guarantees
 hub: agape
 title: Blurring Lines Between Grants, Investment & Guarantees
 summary: Blurring lines between grants, investment, and guarantees, as philanthropy
-  experiments with hybrid capital instruments.
 permalink: https://www.envisioning.com/agape/blurring-grants-investment-guarantees
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419350/phila
 
 ## Summary
 
-Blurring lines between grants, investment, and guarantees, as philanthropy experiments with hybrid capital instruments.
+Blurring lines between grants, investment, and guarantees, as philanthropy
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: algorithmic-fairness-audits
 hub: atlas
 title: Algorithmic Fairness Audits
-summary: Frameworks to prevent bias in travel security and pricing.
+summary: Systematic testing to detect and reduce bias in automated travel systems
 permalink: https://www.envisioning.com/atlas/algorithmic-fairness-audits
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123813/atlas
 
 ## Summary
 
-Frameworks to prevent bias in travel security and pricing.
+Systematic testing to detect and reduce bias in automated travel systems
 
 ## Description
 

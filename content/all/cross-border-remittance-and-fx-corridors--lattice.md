@@ -2,7 +2,8 @@
 slug: cross-border-remittance-and-fx-corridors
 hub: lattice
 title: Cross-Border Remittance & FX Corridors
-summary: Stablecoin and digital rails replacing correspondent banking flows.
+summary: Blockchain-based payment networks that bypass traditional banks for faster,
+  cheaper international transfers
 permalink: https://www.envisioning.com/lattice/cross-border-remittance-and-fx-corridors
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998645/flows
 
 ## Summary
 
-Stablecoin and digital rails replacing correspondent banking flows.
+Blockchain-based payment networks that bypass traditional banks for faster, cheaper international transfers
 
 ## Description
 

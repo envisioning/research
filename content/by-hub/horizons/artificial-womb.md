@@ -2,9 +2,9 @@
 slug: artificial-womb
 hub: horizons
 title: Artificial Womb
-summary: Extracorporeal systems supporting embryo and fetal development.
+summary: External systems that sustain fetal development outside the human body
 permalink: https://www.envisioning.com/horizons/artificial-womb
-collection: life-health
+collection: hardware
 trl: 3
 impact: 3
 investment: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521641/horiz
 
 ## Summary
 
-Extracorporeal systems supporting embryo and fetal development.
+External systems that sustain fetal development outside the human body
 
 ## Description
 

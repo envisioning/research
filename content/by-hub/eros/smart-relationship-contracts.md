@@ -2,7 +2,8 @@
 slug: smart-relationship-contracts
 hub: eros
 title: Smart Relationship Contracts
-summary: Blockchain-based agreements for multi-partner assets and custody.
+summary: Blockchain agreements formalizing shared assets, custody, and responsibilities
+  in non-traditional relationships
 permalink: https://www.envisioning.com/eros/smart-relationship-contracts
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124951/eros/
 
 ## Summary
 
-Blockchain-based agreements for multi-partner assets and custody.
+Blockchain agreements formalizing shared assets, custody, and responsibilities in non-traditional relationships
 
 ## Description
 

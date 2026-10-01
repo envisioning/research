@@ -2,7 +2,8 @@
 slug: neuro-symbolic-ai
 hub: quadrant
 title: Neuro-Symbolic AI
-summary: Hybrid AI combining deep learning with logical reasoning.
+summary: AI systems that combine neural network pattern recognition with rule-based
+  logical reasoning
 permalink: https://www.envisioning.com/quadrant/neuro-symbolic-ai
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126731/quadr
 
 ## Summary
 
-Hybrid AI combining deep learning with logical reasoning.
+AI systems that combine neural network pattern recognition with rule-based logical reasoning
 
 ## Description
 

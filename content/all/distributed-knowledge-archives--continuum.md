@@ -2,7 +2,8 @@
 slug: distributed-knowledge-archives
 hub: continuum
 title: Distributed Knowledge Archives
-summary: Decentralized, redundant networks preserving human knowledge.
+summary: Peer-to-peer networks fragmenting and replicating knowledge across global
+  nodes
 permalink: https://www.envisioning.com/continuum/distributed-knowledge-archives
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124857/conti
 
 ## Summary
 
-Decentralized, redundant networks preserving human knowledge.
+Peer-to-peer networks fragmenting and replicating knowledge across global nodes
 
 ## Description
 

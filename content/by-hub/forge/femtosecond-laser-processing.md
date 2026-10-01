@@ -2,7 +2,8 @@
 slug: femtosecond-laser-processing
 hub: forge
 title: Femtosecond Laser Micro-Processing
-summary: Ultra-short pulse lasers for 'cold' micromachining without heat damage.
+summary: Ultra-short pulse lasers that remove material without heat damage through
+  cold ablation
 permalink: https://www.envisioning.com/forge/femtosecond-laser-processing
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177834/forge
 
 ## Summary
 
-Ultra-short pulse lasers for 'cold' micromachining without heat damage.
+Ultra-short pulse lasers that remove material without heat damage through cold ablation
 
 ## Description
 

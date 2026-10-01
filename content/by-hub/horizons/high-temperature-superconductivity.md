@@ -2,19 +2,21 @@
 slug: high-temperature-superconductivity
 hub: horizons
 title: High-Temperature Superconductivity
-summary: Superconductors above liquid nitrogen; CRFE filters, experiments for lower temperatures.
+summary: Materials conducting electricity with zero resistance above liquid nitrogen
+  temperatures
 permalink: https://www.envisioning.com/horizons/high-temperature-superconductivity
-collection: materials
+collection: hardware
 trl: 6
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887367/horizons/technologies/5aabf943-14ad-4e68-a69d-3660c9d2565c-google-gemini-3.1-flash-image-preview-qqj3wt.jpg
 ---
 
 # High-Temperature Superconductivity
 
 ## Summary
 
-Superconductors above liquid nitrogen; CRFE filters, experiments for lower temperatures.
+Materials conducting electricity with zero resistance above liquid nitrogen temperatures
 
 ## Description
 

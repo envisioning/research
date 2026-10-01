@@ -2,8 +2,8 @@
 slug: real-time-neural-dubbing
 hub: prism
 title: Real-time Neural Dubbing
-summary: AI systems that translate speech and synchronize lip movements while preserving
-  the original voice.
+summary: AI pipeline that translates speech, clones voices, and syncs lip movements
+  in real time
 permalink: https://www.envisioning.com/prism/real-time-neural-dubbing
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074565/pulse
 
 ## Summary
 
-AI systems that translate speech and synchronize lip movements while preserving the original voice.
+AI pipeline that translates speech, clones voices, and syncs lip movements in real time
 
 ## Description
 

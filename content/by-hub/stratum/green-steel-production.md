@@ -2,7 +2,7 @@
 slug: green-steel-production
 hub: stratum
 title: Green Steel Production (H2-DRI)
-summary: Hydrogen-based direct reduction replacing coking coal in steelmaking.
+summary: Hydrogen replaces coal to reduce iron ore, eliminating CO2 emissions in steelmaking
 permalink: https://www.envisioning.com/stratum/green-steel-production
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179107/strat
 
 ## Summary
 
-Hydrogen-based direct reduction replacing coking coal in steelmaking.
+Hydrogen replaces coal to reduce iron ore, eliminating CO2 emissions in steelmaking
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: climate-justice-aviation-frameworks
 hub: atlas
 title: Climate Justice Aviation Frameworks
-summary: Equity-based carbon budgets and compensation for high-emission travel.
+summary: Policy frameworks allocating aviation carbon budgets based on equity rather
+  than market access alone
 permalink: https://www.envisioning.com/atlas/climate-justice-aviation-frameworks
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221302/atlas
 
 ## Summary
 
-Equity-based carbon budgets and compensation for high-emission travel.
+Policy frameworks allocating aviation carbon budgets based on equity rather than market access alone
 
 ## Description
 

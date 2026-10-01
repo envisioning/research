@@ -2,7 +2,8 @@
 slug: performance-linked-aesthetic-protocols
 hub: aura
 title: Performance-Linked Aesthetic Protocols
-summary: Interventions optimizing appearance and function.
+summary: Interventions that simultaneously enhance physical appearance and functional
+  performance
 permalink: https://www.envisioning.com/aura/performance-linked-aesthetic-protocols
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998485/aura/
 
 ## Summary
 
-Interventions optimizing appearance and function.
+Interventions that simultaneously enhance physical appearance and functional performance
 
 ## Description
 

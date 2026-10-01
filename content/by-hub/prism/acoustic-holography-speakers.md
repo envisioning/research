@@ -2,7 +2,8 @@
 slug: acoustic-holography-speakers
 hub: prism
 title: Acoustic Holography Speakers
-summary: Phased-array speakers steering audio as precise beams and volumetric shapes.
+summary: Phased-array transducers that sculpt focused audio beams and 3D sound shapes
+  in mid-air
 permalink: https://www.envisioning.com/prism/acoustic-holography-speakers
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062564/pulse
 
 ## Summary
 
-Phased-array speakers steering audio as precise beams and volumetric shapes.
+Phased-array transducers that sculpt focused audio beams and 3D sound shapes in mid-air
 
 ## Description
 

@@ -2,13 +2,13 @@
 slug: active-noise-cancellation-for-buildings
 hub: interface
 title: Active Noise Cancellation for Buildings
-summary: Window-mounted ANC systems that block outdoor noise (traffic, aircraft) before
-  it enters the home.
+summary: Window-mounted systems that cancel traffic and aircraft noise before it enters
+  indoor spaces
 permalink: https://www.envisioning.com/interface/active-noise-cancellation-for-buildings
-collection: ambient-contextual-systems
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726367/interface/technologies/active-noise-cancellation-for-buildings-google-gemini-3-pro-image-preview-7m7d6w.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726367/inter
 
 ## Summary
 
-Window-mounted ANC systems that block outdoor noise (traffic, aircraft) before it enters the home.
+Window-mounted systems that cancel traffic and aircraft noise before it enters indoor spaces
 
 ## Description
 

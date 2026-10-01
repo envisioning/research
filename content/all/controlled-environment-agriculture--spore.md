@@ -2,7 +2,8 @@
 slug: controlled-environment-agriculture
 hub: spore
 title: Controlled Environment Agriculture
-summary: Greenhouses with AI climate control and CO₂ enrichment.
+summary: Indoor farming systems that use sensors and automation to optimize growing
+  conditions
 permalink: https://www.envisioning.com/spore/controlled-environment-agriculture
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096087/spore
 
 ## Summary
 
-Greenhouses with AI climate control and CO₂ enrichment.
+Indoor farming systems that use sensors and automation to optimize growing conditions
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: enhanced-geothermal-systems
 hub: atmos
 title: Geothermal Enhanced Systems
-summary: Hydraulically stimulated reservoirs unlocking heat anywhere.
+summary: Engineered fractures in hot rock to extract geothermal energy anywhere
 permalink: https://www.envisioning.com/atmos/enhanced-geothermal-systems
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764140582/atmos
 
 ## Summary
 
-Hydraulically stimulated reservoirs unlocking heat anywhere.
+Engineered fractures in hot rock to extract geothermal energy anywhere
 
 ## Description
 

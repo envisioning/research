@@ -2,7 +2,8 @@
 slug: green-hydrogen-production
 hub: atmos
 title: Green Hydrogen Production
-summary: Electrolyzer clusters powered by renewables for H₂ fuel.
+summary: Gigawatt-scale electrolyzers powered by renewables to produce zero-carbon
+  hydrogen fuel
 permalink: https://www.envisioning.com/atmos/green-hydrogen-production
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764176758/atmos
 
 ## Summary
 
-Electrolyzer clusters powered by renewables for H₂ fuel.
+Gigawatt-scale electrolyzers powered by renewables to produce zero-carbon hydrogen fuel
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: single-pilot-operations-frameworks
 hub: altitude
 title: Single-Pilot Operations (SPO) Frameworks
-summary: Human-machine teaming to enable safe cargo/commercial flights with reduced
-  crew.
+summary: Human-machine teaming enabling safe commercial flights with one pilot instead
+  of two
 permalink: https://www.envisioning.com/altitude/single-pilot-operations-frameworks
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649463/altit
 
 ## Summary
 
-Human-machine teaming to enable safe cargo/commercial flights with reduced crew.
+Human-machine teaming enabling safe commercial flights with one pilot instead of two
 
 ## Description
 

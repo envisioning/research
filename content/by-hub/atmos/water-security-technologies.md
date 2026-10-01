@@ -2,7 +2,8 @@
 slug: water-security-technologies
 hub: atmos
 title: Water Security Technologies
-summary: Atmospheric water generators and solar-thermal desalination.
+summary: Systems that harvest humidity and desalinate seawater using solar energy
+  and advanced membranes
 permalink: https://www.envisioning.com/atmos/water-security-technologies
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998523/atmos
 
 ## Summary
 
-Atmospheric water generators and solar-thermal desalination.
+Systems that harvest humidity and desalinate seawater using solar energy and advanced membranes
 
 ## Description
 

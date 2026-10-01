@@ -2,8 +2,8 @@
 slug: humane-recommender-systems
 hub: solace
 title: Humane Recommender Systems
-summary: Recommendation engines optimized for long-term wellbeing rather than short-term
-  engagement.
+summary: Recommendation engines designed to support long-term wellbeing instead of
+  maximizing engagement
 permalink: https://www.envisioning.com/solace/humane-recommender-systems
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133930/solac
 
 ## Summary
 
-Recommendation engines optimized for long-term wellbeing rather than short-term engagement.
+Recommendation engines designed to support long-term wellbeing instead of maximizing engagement
 
 ## Description
 

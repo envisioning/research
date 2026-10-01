@@ -2,7 +2,8 @@
 slug: ml-weather-turbulence-nowcasting
 hub: altitude
 title: ML Weather & Turbulence Nowcasting
-summary: Near-real-time hazard prediction using radar, satellite, and aircraft data.
+summary: Machine learning models that predict turbulence and weather hazards minutes
+  before they occur
 permalink: https://www.envisioning.com/altitude/ml-weather-turbulence-nowcasting
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642526/altit
 
 ## Summary
 
-Near-real-time hazard prediction using radar, satellite, and aircraft data.
+Machine learning models that predict turbulence and weather hazards minutes before they occur
 
 ## Description
 

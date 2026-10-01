@@ -2,21 +2,21 @@
 slug: holodeck
 hub: subspace
 title: Holodeck
-summary: Sophisticated recreation facility using holography and force fields to create
-  immersive environments.
+summary: Immersive simulation environment combining holography, force fields, and
+  matter replication
 permalink: https://www.envisioning.com/subspace/holodeck
 collection: engineering
 trl: 5
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210370/subspaceindex/technologies/holodeck.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908113/subspace/technologies/holodeck-openrouter-google-gemini-3.1-flash-image-preview-0s1esm.png
 ---
 
 # Holodeck
 
 ## Summary
 
-Sophisticated recreation facility using holography and force fields to create immersive environments.
+Immersive simulation environment combining holography, force fields, and matter replication
 
 ## Description
 

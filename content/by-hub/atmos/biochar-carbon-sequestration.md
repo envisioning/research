@@ -2,7 +2,7 @@
 slug: biochar-carbon-sequestration
 hub: atmos
 title: Biochar Carbon Sequestration
-summary: Converting agricultural waste into long-lived soil amendments.
+summary: Converts organic waste into stable carbon that stores CO₂ in soil for centuries
 permalink: https://www.envisioning.com/atmos/biochar-carbon-sequestration
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764178775/atmos
 
 ## Summary
 
-Converting agricultural waste into long-lived soil amendments.
+Converts organic waste into stable carbon that stores CO₂ in soil for centuries
 
 ## Description
 

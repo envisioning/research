@@ -2,9 +2,10 @@
 slug: genetic-reprogramming
 hub: horizons
 title: Genetic Reprogramming
-summary: Precise modification of gene expression to treat disease and enhance traits.
+summary: Modifying gene expression to correct defects, silence genes, or transform
+  cell types
 permalink: https://www.envisioning.com/horizons/genetic-reprogramming
-collection: life-health
+collection: hardware
 trl: 4
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526569/horiz
 
 ## Summary
 
-Precise modification of gene expression to treat disease and enhance traits.
+Modifying gene expression to correct defects, silence genes, or transform cell types
 
 ## Description
 

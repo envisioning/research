@@ -2,7 +2,8 @@
 slug: sistemas-otimizacao-reabilitacao-redes
 hub: moradia
 title: Sistemas de Otimização para Reabilitação de Redes
-summary: Analytics para priorizar retrofit e substituição de infraestrutura envelhecida.
+summary: Algoritmos que priorizam quais trechos de infraestrutura urbana reformar
+  ou substituir primeiro
 permalink: https://www.envisioning.com/moradia/sistemas-otimizacao-reabilitacao-redes
 collection: plataformas-dados
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584287/habit
 
 ## Summary
 
-Analytics para priorizar retrofit e substituição de infraestrutura envelhecida.
+Algoritmos que priorizam quais trechos de infraestrutura urbana reformar ou substituir primeiro
 
 ## Description
 

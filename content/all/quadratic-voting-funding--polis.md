@@ -2,8 +2,8 @@
 slug: quadratic-voting-funding
 hub: polis
 title: Quadratic Voting & Funding
-summary: Preference-intensity mechanisms that balance minority voices with majority
-  will.
+summary: Voting and funding systems that let participants signal how strongly they
+  care about each issue
 permalink: https://www.envisioning.com/polis/quadratic-voting-funding
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126460/polis
 
 ## Summary
 
-Preference-intensity mechanisms that balance minority voices with majority will.
+Voting and funding systems that let participants signal how strongly they care about each issue
 
 ## Description
 

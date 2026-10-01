@@ -2,7 +2,8 @@
 slug: overtourism-mitigation-systems
 hub: atlas
 title: Overtourism Mitigation Systems
-summary: Dynamic visitor caps, pricing, and dispersion mechanisms to combat crowding.
+summary: Real-time monitoring and dynamic controls to manage visitor density at popular
+  destinations
 permalink: https://www.envisioning.com/atlas/overtourism-mitigation-systems
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221277/atlas
 
 ## Summary
 
-Dynamic visitor caps, pricing, and dispersion mechanisms to combat crowding.
+Real-time monitoring and dynamic controls to manage visitor density at popular destinations
 
 ## Description
 

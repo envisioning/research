@@ -2,7 +2,7 @@
 slug: assessment-without-tests
 hub: axiom
 title: Assessment Without Tests
-summary: Continuous mastery detection via behavioral traces and signals.
+summary: Measures learner competence through behavioral data instead of formal exams
 permalink: https://www.envisioning.com/axiom/assessment-without-tests
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990966/axiom
 
 ## Summary
 
-Continuous mastery detection via behavioral traces and signals.
+Measures learner competence through behavioral data instead of formal exams
 
 ## Description
 

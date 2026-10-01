@@ -2,7 +2,8 @@
 slug: labor-impacts-ai-tutors
 hub: axiom
 title: Labor & Institutional Impacts of AI Tutors
-summary: How AI reshapes teacher roles, workload, and bargaining power.
+summary: Research on how AI tutors affect teacher roles, workload, job security, and
+  institutional power
 permalink: https://www.envisioning.com/axiom/labor-impacts-ai-tutors
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010187/axiom
 
 ## Summary
 
-How AI reshapes teacher roles, workload, and bargaining power.
+Research on how AI tutors affect teacher roles, workload, job security, and institutional power
 
 ## Description
 

@@ -2,22 +2,21 @@
 slug: ultracapacitor-energy-storage
 hub: xenotech
 title: Ultracapacitors
-summary: Ultracapacitors and supercapacitors providing extremely high-power density
-  energy storage for pulsed-power aerospace applications and rapid charge/discharge
-  cycles.
+summary: High-power energy storage bridging batteries and capacitors for rapid charge/discharge
+  in aerospace systems
 permalink: https://www.envisioning.com/xenotech/ultracapacitor-energy-storage
 collection: materials-structures
 trl: 5
 impact: 2
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761154710/xenotech/technologies/ultracapacitor-energy-storage.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903412/xenotech/technologies/ultracapacitor-energy-storage-openrouter-google-gemini-3.1-flash-image-preview-tawdpn.png
 ---
 
 # Ultracapacitors
 
 ## Summary
 
-Ultracapacitors and supercapacitors providing extremely high-power density energy storage for pulsed-power aerospace applications and rapid charge/discharge cycles.
+High-power energy storage bridging batteries and capacitors for rapid charge/discharge in aerospace systems
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: identity-linked-apparel-ecosystems
 hub: fabric
 title: Identity-Linked Apparel Ecosystems
-summary: Garments tied to user profiles for access control, event entry, loyalty,
-  or digital affiliation.
+summary: Garments with embedded credentials for access control, loyalty tracking,
+  and digital identity
 permalink: https://www.envisioning.com/fabric/identity-linked-apparel-ecosystems
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062520/threa
 
 ## Summary
 
-Garments tied to user profiles for access control, event entry, loyalty, or digital affiliation.
+Garments with embedded credentials for access control, loyalty tracking, and digital identity
 
 ## Description
 

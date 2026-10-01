@@ -3,7 +3,6 @@ slug: ai-grant-triage-bias-auditing
 hub: agape
 title: AI for Grant Triage & Bias Auditing
 summary: AI used for grant triage, pattern detection, and bias auditing, as technology
-  shapes decision-making processes.
 permalink: https://www.envisioning.com/agape/ai-grant-triage-bias-auditing
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371909/agape
 
 ## Summary
 
-AI used for grant triage, pattern detection, and bias auditing, as technology shapes decision-making processes.
+AI used for grant triage, pattern detection, and bias auditing, as technology
 
 ## Description
 

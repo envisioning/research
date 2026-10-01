@@ -2,7 +2,8 @@
 slug: digital-afterlife
 hub: eros
 title: Digital Afterlife Presences
-summary: Interactive AI avatars based on the data of deceased individuals.
+summary: AI avatars trained on deceased individuals' digital data to enable ongoing
+  interaction
 permalink: https://www.envisioning.com/eros/digital-afterlife
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124198/eros/
 
 ## Summary
 
-Interactive AI avatars based on the data of deceased individuals.
+AI avatars trained on deceased individuals' digital data to enable ongoing interaction
 
 ## Description
 

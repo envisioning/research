@@ -2,7 +2,8 @@
 slug: algorithmic-bias-care
 hub: eclipse
 title: Algorithmic Bias in Care
-summary: Ensuring fairness in AI-driven end-of-life decision support.
+summary: Addressing systematic errors in AI models that predict mortality risk and
+  guide end-of-life decisions
 permalink: https://www.envisioning.com/eclipse/algorithmic-bias-care
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435177/eclip
 
 ## Summary
 
-Ensuring fairness in AI-driven end-of-life decision support.
+Addressing systematic errors in AI models that predict mortality risk and guide end-of-life decisions
 
 ## Description
 

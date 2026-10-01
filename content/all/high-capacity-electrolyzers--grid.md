@@ -2,8 +2,8 @@
 slug: high-capacity-electrolyzers
 hub: grid
 title: High-Capacity Electrolyzers
-summary: Next-generation PEM and solid oxide electrolyzers for large-scale hydrogen
-  production.
+summary: Industrial-scale systems that convert electricity into hydrogen fuel through
+  water electrolysis
 permalink: https://www.envisioning.com/grid/high-capacity-electrolyzers
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131921/grid/
 
 ## Summary
 
-Next-generation PEM and solid oxide electrolyzers for large-scale hydrogen production.
+Industrial-scale systems that convert electricity into hydrogen fuel through water electrolysis
 
 ## Description
 

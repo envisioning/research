@@ -2,9 +2,10 @@
 slug: physical-ai
 hub: horizons
 title: Physical AI
-summary: Intelligent systems interacting physically with the real world.
+summary: AI systems that perceive, reason about, and manipulate objects in real-world
+  environments
 permalink: https://www.envisioning.com/horizons/physical-ai
-collection: intelligence-computation
+collection: hardware
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526610/horiz
 
 ## Summary
 
-Intelligent systems interacting physically with the real world.
+AI systems that perceive, reason about, and manipulate objects in real-world environments
 
 ## Description
 

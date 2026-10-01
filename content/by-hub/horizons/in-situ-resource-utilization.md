@@ -2,9 +2,10 @@
 slug: in-situ-resource-utilization
 hub: horizons
 title: In-Situ Resource Utilization
-summary: Extracting and using resources from celestial bodies.
+summary: Extracting and processing materials from the Moon, Mars, or asteroids to
+  support space missions
 permalink: https://www.envisioning.com/horizons/in-situ-resource-utilization
-collection: space-extreme
+collection: hardware
 trl: 4
 impact: 5
 investment: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764527146/horiz
 
 ## Summary
 
-Extracting and using resources from celestial bodies.
+Extracting and processing materials from the Moon, Mars, or asteroids to support space missions
 
 ## Description
 

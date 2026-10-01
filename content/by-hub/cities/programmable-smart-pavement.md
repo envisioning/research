@@ -2,14 +2,10 @@
 slug: programmable-smart-pavement
 hub: cities
 title: Programmable Smart Pavement
-summary: This solution addresses pressing urban challenges such as flooding, traffic
-  congestion, road deterioration, and inefficient maintenance by embedding sensors,
-  actuators, and responsive materials directly into the pavement. These elements allow
-  the surface to monitor and react to environmental conditions, adjusting permeability
-  during storms to reduce flooding, changing friction in icy conditions to improve
-  safety, and collecting data on load, vibration, and temperature for predictive maintenance.
+summary: Road surfaces with embedded sensors and materials that adapt to weather,
+  traffic, and wear in real time
 permalink: https://www.envisioning.com/cities/programmable-smart-pavement
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: hardware
 trl: 3
 impact: 1
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1759841805-programmable-smart-p
 
 ## Summary
 
-This solution addresses pressing urban challenges such as flooding, traffic congestion, road deterioration, and inefficient maintenance by embedding sensors, actuators, and responsive materials directly into the pavement. These elements allow the surface to monitor and react to environmental conditions, adjusting permeability during storms to reduce flooding, changing friction in icy conditions to improve safety, and collecting data on load, vibration, and temperature for predictive maintenance.
+Road surfaces with embedded sensors and materials that adapt to weather, traffic, and wear in real time
 
 ## Description
 

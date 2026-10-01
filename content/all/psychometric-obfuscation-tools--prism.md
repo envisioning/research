@@ -2,7 +2,8 @@
 slug: psychometric-obfuscation-tools
 hub: prism
 title: Psychometric Obfuscation Tools
-summary: Software that injects noise into user behavior to prevent personality profiling.
+summary: Software that injects false behavioral signals to prevent personality profiling
+  from digital activity
 permalink: https://www.envisioning.com/prism/psychometric-obfuscation-tools
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062715/pulse
 
 ## Summary
 
-Software that injects noise into user behavior to prevent personality profiling.
+Software that injects false behavioral signals to prevent personality profiling from digital activity
 
 ## Description
 

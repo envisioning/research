@@ -2,7 +2,8 @@
 slug: more-than-human-governance
 hub: polis
 title: More-than-Human Governance Protocols
-summary: Legal and technical frameworks for non-human representation in decision-making.
+summary: Formal mechanisms for representing ecosystems, future generations, and AI
+  in governance
 permalink: https://www.envisioning.com/polis/more-than-human-governance
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126525/polis
 
 ## Summary
 
-Legal and technical frameworks for non-human representation in decision-making.
+Formal mechanisms for representing ecosystems, future generations, and AI in governance
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: edna-biodiversity-monitoring
 hub: stratum
 title: eDNA Biodiversity Monitoring
-summary: Environmental DNA sampling to track ecosystem impacts around industrial sites.
+summary: Detecting genetic traces in water, soil, or air to monitor biodiversity near
+  extraction sites
 permalink: https://www.envisioning.com/stratum/edna-biodiversity-monitoring
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435073/strat
 
 ## Summary
 
-Environmental DNA sampling to track ecosystem impacts around industrial sites.
+Detecting genetic traces in water, soil, or air to monitor biodiversity near extraction sites
 
 ## Description
 

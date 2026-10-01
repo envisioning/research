@@ -2,7 +2,8 @@
 slug: adaptive-retail-atmospherics
 hub: impulse
 title: Adaptive Retail Atmospherics
-summary: Stores modulating scent, light, and sound in real time.
+summary: Real-time modulation of store scent, lighting, and sound based on shopper
+  behavior and crowd data
 permalink: https://www.envisioning.com/impulse/adaptive-retail-atmospherics
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133917/impul
 
 ## Summary
 
-Stores modulating scent, light, and sound in real time.
+Real-time modulation of store scent, lighting, and sound based on shopper behavior and crowd data
 
 ## Description
 

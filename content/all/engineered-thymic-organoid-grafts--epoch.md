@@ -2,8 +2,8 @@
 slug: engineered-thymic-organoid-grafts
 hub: epoch
 title: Engineered Thymic Organoid Grafts
-summary: Lab-grown thymus tissue implants designed to regenerate immune function lost
-  with age.
+summary: Lab-grown thymus tissue that restores T-cell production and reverses age-related
+  immune decline
 permalink: https://www.envisioning.com/epoch/engineered-thymic-organoid-grafts
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620889/epoch
 
 ## Summary
 
-Lab-grown thymus tissue implants designed to regenerate immune function lost with age.
+Lab-grown thymus tissue that restores T-cell production and reverses age-related immune decline
 
 ## Description
 

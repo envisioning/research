@@ -2,7 +2,8 @@
 slug: algorithmic-management-systems
 hub: synapse
 title: Algorithmic Management Systems
-summary: Platforms for automated task allocation and performance evaluation.
+summary: Software that assigns tasks and evaluates worker performance through automated
+  algorithms
 permalink: https://www.envisioning.com/synapse/algorithmic-management-systems
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111095/synap
 
 ## Summary
 
-Platforms for automated task allocation and performance evaluation.
+Software that assigns tasks and evaluates worker performance through automated algorithms
 
 ## Description
 

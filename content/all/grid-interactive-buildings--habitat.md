@@ -2,7 +2,7 @@
 slug: grid-interactive-buildings
 hub: habitat
 title: Grid-Interactive Efficient Buildings
-summary: Buildings that flex electricity demand and storage in response to grid signals.
+summary: Buildings that adjust energy use and storage in real time based on grid conditions
 permalink: https://www.envisioning.com/habitat/grid-interactive-buildings
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117668/habit
 
 ## Summary
 
-Buildings that flex electricity demand and storage in response to grid signals.
+Buildings that adjust energy use and storage in real time based on grid conditions
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: mhd-propulsion
 hub: xenotech
 title: MHD Propulsion
-summary: Electromagnetic acceleration of ionized gases for propulsion including conventional
-  MHD thrusters, magnetic reconnection concepts, and VLEO atmospheric harvesting systems.
+summary: Using electromagnetic fields to accelerate ionized gases for spacecraft and
+  hypersonic vehicle thrust
 permalink: https://www.envisioning.com/xenotech/mhd-propulsion
 collection: propulsion-physics
 trl: 4
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655257/xenotech/technologies/mhd-plasma-propulsion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898838/xenotech/technologies/mhd-propulsion-openrouter-google-gemini-3.1-flash-image-preview-kr7ivh.png
 ---
 
 # MHD Propulsion
 
 ## Summary
 
-Electromagnetic acceleration of ionized gases for propulsion including conventional MHD thrusters, magnetic reconnection concepts, and VLEO atmospheric harvesting systems.
+Using electromagnetic fields to accelerate ionized gases for spacecraft and hypersonic vehicle thrust
 
 ## Description
 

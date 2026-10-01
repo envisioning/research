@@ -3,7 +3,6 @@ slug: direct-cash-transfers-movement
 hub: agape
 title: Direct Cash Transfers & Give Directly Movement
 summary: Growing movement toward unconditional direct cash transfers as the most efficient
-  and dignified form of aid.
 permalink: https://www.envisioning.com/agape/direct-cash-transfers-movement
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367726/agape
 
 ## Summary
 
-Growing movement toward unconditional direct cash transfers as the most efficient and dignified form of aid.
+Growing movement toward unconditional direct cash transfers as the most efficient
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: adaptive-para-sports-systems
 hub: stride
 title: Advanced Adaptive & Para-Sports Systems
-summary: Customized prosthetics, wheelchairs, and assistive tech for elite para-athletes.
+summary: Engineered prosthetics, wheelchairs, and equipment optimized for para-athlete
+  performance
 permalink: https://www.envisioning.com/stride/adaptive-para-sports-systems
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128598/strid
 
 ## Summary
 
-Customized prosthetics, wheelchairs, and assistive tech for elite para-athletes.
+Engineered prosthetics, wheelchairs, and equipment optimized for para-athlete performance
 
 ## Description
 

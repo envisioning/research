@@ -2,7 +2,7 @@
 slug: volumetric-capture-rigs
 hub: liminal
 title: Volumetric Capture Rigs
-summary: Multi-sensor arrays capturing people and places as dynamic 3D assets.
+summary: Multi-camera arrays that record people and spaces as navigable 3D video
 permalink: https://www.envisioning.com/liminal/volumetric-capture-rigs
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124139/limin
 
 ## Summary
 
-Multi-sensor arrays capturing people and places as dynamic 3D assets.
+Multi-camera arrays that record people and spaces as navigable 3D video
 
 ## Description
 

@@ -2,22 +2,21 @@
 slug: semantic-caching-for-llms
 hub: interface
 title: Semantic Caching for LLMs
-summary: Patented semantic caching speeding up LLM responses by 10× and reducing GPU
-  costs by 90% by storing and matching hidden-layer representations in a Cache DB
-  to reuse saved outputs.
+summary: Stores LLM query embeddings to reuse responses for semantically similar prompts,
+  cutting latency and GPU costs
 permalink: https://www.envisioning.com/interface/semantic-caching-for-llms
-collection: neuromorphic-edge-intelligence
+collection: software
 trl: 7
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882779/interface/technologies/231ea6c8-0e9f-42a1-9286-26787dd65b37-google-gemini-3.1-flash-image-preview-16ghop.jpg
 ---
 
 # Semantic Caching for LLMs
 
 ## Summary
 
-Patented semantic caching speeding up LLM responses by 10× and reducing GPU costs by 90% by storing and matching hidden-layer representations in a Cache DB to reuse saved outputs.
+Stores LLM query embeddings to reuse responses for semantically similar prompts, cutting latency and GPU costs
 
 ## Description
 

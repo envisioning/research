@@ -2,7 +2,8 @@
 slug: normatizacao-novos-materiais
 hub: moradia
 title: Normatização de Novos Materiais
-summary: Desafios e processos para normatizar materiais inovadores na construção.
+summary: Processos técnicos e regulatórios para validar materiais inovadores na construção
+  civil
 permalink: https://www.envisioning.com/moradia/normatizacao-novos-materiais
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582711/habit
 
 ## Summary
 
-Desafios e processos para normatizar materiais inovadores na construção.
+Processos técnicos e regulatórios para validar materiais inovadores na construção civil
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: volumetric-capture-stages
 hub: vortex
 title: Volumetric Capture Stages
-summary: Studios that record performers as full 3D assets.
+summary: Multi-camera studios that record performers as 3D digital assets instead
+  of flat video
 permalink: https://www.envisioning.com/vortex/volumetric-capture-stages
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126492/vorte
 
 ## Summary
 
-Studios that record performers as full 3D assets.
+Multi-camera studios that record performers as 3D digital assets instead of flat video
 
 ## Description
 

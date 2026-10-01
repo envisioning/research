@@ -2,7 +2,8 @@
 slug: ocean-alkalinity-enhancement
 hub: continuum
 title: Ocean Alkalinity Enhancement
-summary: Mineral dispersal systems for marine carbon sequestration.
+summary: Dispersing alkaline minerals in seawater to capture and store atmospheric
+  CO₂
 permalink: https://www.envisioning.com/continuum/ocean-alkalinity-enhancement
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124178/conti
 
 ## Summary
 
-Mineral dispersal systems for marine carbon sequestration.
+Dispersing alkaline minerals in seawater to capture and store atmospheric CO₂
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: ai-powered-protein-design
 hub: horizons
 title: AI-Powered Protein Design
-summary: Machine learning algorithms creating novel proteins for medicine and industry.
+summary: Machine learning algorithms creating novel proteins with specific functions
+  for medicine and industry
 permalink: https://www.envisioning.com/horizons/ai-powered-protein-design
-collection: life-health
+collection: software
 trl: 4
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521453/horiz
 
 ## Summary
 
-Machine learning algorithms creating novel proteins for medicine and industry.
+Machine learning algorithms creating novel proteins with specific functions for medicine and industry
 
 ## Description
 

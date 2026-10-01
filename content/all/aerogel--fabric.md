@@ -2,19 +2,21 @@
 slug: aerogel
 hub: fabric
 title: Aerogel
-summary: Ultra-light porous materials with exceptional thermal insulation.
+summary: Ultra-light porous solids with exceptional thermal insulation for apparel
+  and technical textiles
 permalink: https://www.envisioning.com/fabric/aerogel
 collection: materials
 trl: 6
 impact: 5
 investment: 4
+image_url: null
 ---
 
 # Aerogel
 
 ## Summary
 
-Ultra-light porous materials with exceptional thermal insulation.
+Ultra-light porous solids with exceptional thermal insulation for apparel and technical textiles
 
 ## Description
 

@@ -2,16 +2,10 @@
 slug: modular-nuclear-reactor
 hub: cities
 title: Modular Nuclear Reactor
-summary: 'This technology supports the reduction of greenhouse gas emissions, improvement
-  of energy security, and enhancement of disaster resilience. MNRs are small-scale
-  nuclear reactors designed for modular construction, allowing them to be built in
-  factories and transported to their operational sites. This modular approach reduces
-  construction times and costs compared to traditional large-scale nuclear reactors,
-  making them a cost-effective and flexible energy solution. Their advanced safety
-  features, including "walk-away safe" designs, significantly mitigate the risks associated
-  with nuclear energy. '
+summary: Factory-built small nuclear reactors that can be transported and installed
+  on-site for flexible, low-carbon urban energy
 permalink: https://www.envisioning.com/cities/modular-nuclear-reactor
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 7
 impact: 2
 investment: 1
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792794-modular-nuclear-reac
 
 ## Summary
 
-This technology supports the reduction of greenhouse gas emissions, improvement of energy security, and enhancement of disaster resilience. MNRs are small-scale nuclear reactors designed for modular construction, allowing them to be built in factories and transported to their operational sites. This modular approach reduces construction times and costs compared to traditional large-scale nuclear reactors, making them a cost-effective and flexible energy solution. Their advanced safety features, including "walk-away safe" designs, significantly mitigate the risks associated with nuclear energy.
+Factory-built small nuclear reactors that can be transported and installed on-site for flexible, low-carbon urban energy
 
 ## Description
 

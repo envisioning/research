@@ -2,7 +2,8 @@
 slug: choice-architecture-orchestration-engines
 hub: impulse
 title: Choice Architecture Orchestration Engines
-summary: Systems designing and optimizing digital nudges.
+summary: Automated systems that design, test, and optimize digital nudges to guide
+  user decisions at scale
 permalink: https://www.envisioning.com/impulse/choice-architecture-orchestration-engines
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133617/impul
 
 ## Summary
 
-Systems designing and optimizing digital nudges.
+Automated systems that design, test, and optimize digital nudges to guide user decisions at scale
 
 ## Description
 

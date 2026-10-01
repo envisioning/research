@@ -2,21 +2,21 @@
 slug: medical-scanners
 hub: xenotech
 title: Medical Scanners
-summary: Handheld and ceiling-mounted scanning devices that examine bodies without
-  physical contact, featuring the iconic 'eye' device.
+summary: Non-contact body scanning devices reported in abduction accounts, including
+  the iconic hovering 'eye' device
 permalink: https://www.envisioning.com/xenotech/medical-scanners
 collection: biology-hybridization
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761470839/xenotech/technologies/medical-scanners.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898733/xenotech/technologies/medical-scanners-openrouter-google-gemini-3.1-flash-image-preview-hdq9cw.png
 ---
 
 # Medical Scanners
 
 ## Summary
 
-Handheld and ceiling-mounted scanning devices that examine bodies without physical contact, featuring the iconic 'eye' device.
+Non-contact body scanning devices reported in abduction accounts, including the iconic hovering 'eye' device
 
 ## Description
 

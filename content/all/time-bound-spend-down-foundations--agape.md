@@ -3,7 +3,6 @@ slug: time-bound-spend-down-foundations
 hub: agape
 title: Time-Bound & Spend-Down Foundations
 summary: Time-bound or spend-down foundations replacing perpetuity, as new donors
-  choose finite time horizons for their giving.
 permalink: https://www.envisioning.com/agape/time-bound-spend-down-foundations
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419502/phila
 
 ## Summary
 
-Time-bound or spend-down foundations replacing perpetuity, as new donors choose finite time horizons for their giving.
+Time-bound or spend-down foundations replacing perpetuity, as new donors
 
 ## Description
 

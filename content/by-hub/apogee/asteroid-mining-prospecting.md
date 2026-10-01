@@ -2,7 +2,8 @@
 slug: asteroid-mining-prospecting
 hub: apogee
 title: Asteroid Mining Prospecting
-summary: Robotic scouts surveying near-Earth asteroids for volatiles and metals.
+summary: Robotic spacecraft surveying asteroids to map water, metals, and rare earth
+  deposits
 permalink: https://www.envisioning.com/apogee/asteroid-mining-prospecting
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180794/apoge
 
 ## Summary
 
-Robotic scouts surveying near-Earth asteroids for volatiles and metals.
+Robotic spacecraft surveying asteroids to map water, metals, and rare earth deposits
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: electromagnetic-haptic-arrays
 hub: prism
 title: Electromagnetic Haptic Arrays
-summary: Mid-air haptic tiles sculpting electromagnetic forces into touch sensations.
+summary: Tiled coils and magnets that create touchable textures in mid-air above flat
+  surfaces
 permalink: https://www.envisioning.com/prism/electromagnetic-haptic-arrays
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062624/pulse
 
 ## Summary
 
-Mid-air haptic tiles sculpting electromagnetic forces into touch sensations.
+Tiled coils and magnets that create touchable textures in mid-air above flat surfaces
 
 ## Description
 

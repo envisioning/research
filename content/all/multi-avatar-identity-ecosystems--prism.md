@@ -2,7 +2,8 @@
 slug: multi-avatar-identity-ecosystems
 hub: prism
 title: Multi-avatar identity ecosystems
-summary: Portable digital personas spanning social, gaming, and professional contexts.
+summary: Interoperable digital personas that move across social, gaming, and work
+  platforms with portable credentials
 permalink: https://www.envisioning.com/prism/multi-avatar-identity-ecosystems
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074856/pulse
 
 ## Summary
 
-Portable digital personas spanning social, gaming, and professional contexts.
+Interoperable digital personas that move across social, gaming, and work platforms with portable credentials
 
 ## Description
 

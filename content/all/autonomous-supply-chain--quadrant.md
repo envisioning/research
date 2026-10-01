@@ -2,7 +2,8 @@
 slug: autonomous-supply-chain
 hub: quadrant
 title: Autonomous Supply Chain
-summary: Self-orchestrating logistics networks reacting in real-time.
+summary: Self-managing logistics networks using AI and IoT to coordinate production
+  to delivery in real-time
 permalink: https://www.envisioning.com/quadrant/autonomous-supply-chain
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127130/quadr
 
 ## Summary
 
-Self-orchestrating logistics networks reacting in real-time.
+Self-managing logistics networks using AI and IoT to coordinate production to delivery in real-time
 
 ## Description
 

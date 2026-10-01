@@ -2,15 +2,10 @@
 slug: urban-mining
 hub: cities
 title: Urban Mining
-summary: To address resource depletion and waste management in urban environments,
-  this approach focuses on the recovery of valuable materials from waste streams,
-  including electronic waste (e-waste), construction and demolition debris, and end-of-life
-  vehicles, among others. By treating cities as "mines," urban mining taps into the
-  vast reserves of precious metals, rare earth elements, and other valuable materials
-  that are embedded in urban waste, offering a sustainable alternative to traditional
-  mining practices.
+summary: Recovering valuable materials from urban waste streams like e-waste and construction
+  debris
 permalink: https://www.envisioning.com/cities/urban-mining
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792759-urban-mining.png
 
 ## Summary
 
-To address resource depletion and waste management in urban environments, this approach focuses on the recovery of valuable materials from waste streams, including electronic waste (e-waste), construction and demolition debris, and end-of-life vehicles, among others. By treating cities as "mines," urban mining taps into the vast reserves of precious metals, rare earth elements, and other valuable materials that are embedded in urban waste, offering a sustainable alternative to traditional mining practices.
+Recovering valuable materials from urban waste streams like e-waste and construction debris
 
 ## Description
 

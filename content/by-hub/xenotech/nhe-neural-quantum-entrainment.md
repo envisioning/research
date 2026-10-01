@@ -2,21 +2,21 @@
 slug: nhe-neural-quantum-entrainment
 hub: xenotech
 title: Quantum Entrainment
-summary: Alleged non-human entity communication via phase-locked neural-quantum resonance
-  inducing sensory experiences and thought transfer.
+summary: Claimed neural-quantum field synchronization enabling direct communication
+  with non-human entities
 permalink: https://www.envisioning.com/xenotech/nhe-neural-quantum-entrainment
 collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760875647/xenotech/technologies/nhe-neural-quantum-entrainment.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902229/xenotech/technologies/nhe-neural-quantum-entrainment-openrouter-google-gemini-3.1-flash-image-preview-q1d55o.png
 ---
 
 # Quantum Entrainment
 
 ## Summary
 
-Alleged non-human entity communication via phase-locked neural-quantum resonance inducing sensory experiences and thought transfer.
+Claimed neural-quantum field synchronization enabling direct communication with non-human entities
 
 ## Description
 

@@ -2,19 +2,20 @@
 slug: translucent-concrete
 hub: habitat
 title: Translucent Concrete
-summary: Light-transmitting concrete for buildings and sculptures.
+summary: Concrete embedded with optical fibers to transmit light through solid walls
 permalink: https://www.envisioning.com/habitat/translucent-concrete
 collection: materials
 trl: 7
 impact: 3
 investment: 3
+image_url: null
 ---
 
 # Translucent Concrete
 
 ## Summary
 
-Light-transmitting concrete for buildings and sculptures.
+Concrete embedded with optical fibers to transmit light through solid walls
 
 ## Description
 

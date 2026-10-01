@@ -2,7 +2,8 @@
 slug: simulated-synthetic-life
 hub: wintermute
 title: Simulated Worlds With Synthetic Life
-summary: Persistent virtual ecologies populated by evolving artificial species.
+summary: Virtual ecosystems where AI agents evolve behaviors and social structures
+  over time
 permalink: https://www.envisioning.com/wintermute/simulated-synthetic-life
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985649/winte
 
 ## Summary
 
-Persistent virtual ecologies populated by evolving artificial species.
+Virtual ecosystems where AI agents evolve behaviors and social structures over time
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: nutrition-impact-scoring
 hub: harvest
 title: Nutrition & Health Impact Scoring
-summary: Retail-facing metrics for nutritional externalities.
+summary: Standardized metrics that rate food products on nutritional quality and health
+  outcomes
 permalink: https://www.envisioning.com/harvest/nutrition-impact-scoring
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128622/harve
 
 ## Summary
 
-Retail-facing metrics for nutritional externalities.
+Standardized metrics that rate food products on nutritional quality and health outcomes
 
 ## Description
 

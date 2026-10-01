@@ -2,8 +2,8 @@
 slug: ai-romance-disclosure
 hub: eros
 title: AI Romance Disclosure Standards
-summary: Policies requiring clear disclosure when intimacy is mediated or simulated
-  by AI.
+summary: Regulatory frameworks requiring transparency when AI mediates romantic or
+  intimate interactions
 permalink: https://www.envisioning.com/eros/ai-romance-disclosure
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123956/eros/
 
 ## Summary
 
-Policies requiring clear disclosure when intimacy is mediated or simulated by AI.
+Regulatory frameworks requiring transparency when AI mediates romantic or intimate interactions
 
 ## Description
 

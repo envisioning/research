@@ -2,8 +2,8 @@
 slug: gestao-logistica-entregas-condominiais
 hub: moradia
 title: Gestão Logística de Entregas Condominiais
-summary: Sistemas digitais para controle de acesso de entregadores e prestadores,
-  incluindo lockers inteligentes e hubs logísticos condominiais.
+summary: Controle digital de acesso e lockers inteligentes para entregas e serviços
+  em condomínios
 permalink: https://www.envisioning.com/moradia/gestao-logistica-entregas-condominiais
 collection: sistemas-prediais-automacao
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533597/habit
 
 ## Summary
 
-Sistemas digitais para controle de acesso de entregadores e prestadores, incluindo lockers inteligentes e hubs logísticos condominiais.
+Controle digital de acesso e lockers inteligentes para entregas e serviços em condomínios
 
 ## Description
 

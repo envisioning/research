@@ -2,21 +2,21 @@
 slug: solid-state-batteries
 hub: interface
 title: Solid-State Batteries
-summary: High-energy-density (430+ Wh/kg) anode-less architectures and roll-to-roll
-  manufacturing for safer, longer-lasting power.
+summary: Batteries using solid electrolytes instead of liquid for safer, higher-capacity
+  energy storage
 permalink: https://www.envisioning.com/interface/solid-state-batteries
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882463/interface/technologies/0f476923-17bc-44ef-b5b1-880ab3dd6404-google-gemini-3.1-flash-image-preview-ozrkyv.jpg
 ---
 
 # Solid-State Batteries
 
 ## Summary
 
-High-energy-density (430+ Wh/kg) anode-less architectures and roll-to-roll manufacturing for safer, longer-lasting power.
+Batteries using solid electrolytes instead of liquid for safer, higher-capacity energy storage
 
 ## Description
 

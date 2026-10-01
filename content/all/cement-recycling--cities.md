@@ -2,16 +2,10 @@
 slug: cement-recycling
 hub: cities
 title: Cement Recycling
-summary: 'This solution addresses the significant environmental challenge posed by
-  the cement production industry''s high carbon emissions. The innovative method utilises
-  electric arc furnaces (EAFs), typically used in steel recycling, to recycle used
-  cement. By substituting lime flux with used cement in the process, the technology
-  produces recycled cement, significantly reducing the carbon footprint of both steel
-  and cement production. This process not only conserves natural resources by reusing
-  materials but also cuts down on waste sent to landfills, supporting a circular economy
-  in construction. '
+summary: Reprocessing used cement in electric arc furnaces to cut carbon emissions
+  in construction
 permalink: https://www.envisioning.com/cities/cement-recycling
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 6
 impact: 2
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719328973-cement-recycling.png
 
 ## Summary
 
-This solution addresses the significant environmental challenge posed by the cement production industry's high carbon emissions. The innovative method utilises electric arc furnaces (EAFs), typically used in steel recycling, to recycle used cement. By substituting lime flux with used cement in the process, the technology produces recycled cement, significantly reducing the carbon footprint of both steel and cement production. This process not only conserves natural resources by reusing materials but also cuts down on waste sent to landfills, supporting a circular economy in construction.
+Reprocessing used cement in electric arc furnaces to cut carbon emissions in construction
 
 ## Description
 

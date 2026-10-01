@@ -2,19 +2,20 @@
 slug: electric-armour
 hub: aegis
 title: Electric Armour
-summary: Active protection for ships and vehicles against shaped charges.
+summary: High-voltage discharge that disrupts shaped-charge jets before penetration
 permalink: https://www.envisioning.com/aegis/electric-armour
 collection: hardware
 trl: 5
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962710/aegis/technologies/electric-armour-w2g1ka.png
 ---
 
 # Electric Armour
 
 ## Summary
 
-Active protection for ships and vehicles against shaped charges.
+High-voltage discharge that disrupts shaped-charge jets before penetration
 
 ## Description
 

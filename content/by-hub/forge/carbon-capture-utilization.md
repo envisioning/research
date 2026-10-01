@@ -2,7 +2,8 @@
 slug: carbon-capture-utilization
 hub: forge
 title: Carbon Capture & Utilization (CCU) Manufacturing
-summary: Processes that convert industrial CO2 emissions directly into raw materials.
+summary: Converting industrial CO₂ emissions into commercially viable raw materials
+  and products
 permalink: https://www.envisioning.com/forge/carbon-capture-utilization
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177841/forge
 
 ## Summary
 
-Processes that convert industrial CO2 emissions directly into raw materials.
+Converting industrial CO₂ emissions into commercially viable raw materials and products
 
 ## Description
 

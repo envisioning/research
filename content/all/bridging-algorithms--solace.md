@@ -2,7 +2,8 @@
 slug: bridging-algorithms
 hub: solace
 title: Pro-Social 'Bridging' Algorithms
-summary: Content ranking systems optimized to connect diverse social groups.
+summary: Recommendation systems designed to connect users across different viewpoints
+  and communities
 permalink: https://www.envisioning.com/solace/bridging-algorithms
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436425/solac
 
 ## Summary
 
-Content ranking systems optimized to connect diverse social groups.
+Recommendation systems designed to connect users across different viewpoints and communities
 
 ## Description
 

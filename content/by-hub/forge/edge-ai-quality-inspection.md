@@ -2,8 +2,8 @@
 slug: edge-ai-quality-inspection
 hub: forge
 title: Edge AI Quality Inspection
-summary: On-line computer vision systems running at the edge for real-time defect
-  detection.
+summary: Computer vision systems at the production line that detect defects in real
+  time using local AI processing
 permalink: https://www.envisioning.com/forge/edge-ai-quality-inspection
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120053/forge
 
 ## Summary
 
-On-line computer vision systems running at the edge for real-time defect detection.
+Computer vision systems at the production line that detect defects in real time using local AI processing
 
 ## Description
 

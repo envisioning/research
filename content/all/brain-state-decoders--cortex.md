@@ -2,7 +2,8 @@
 slug: brain-state-decoders
 hub: cortex
 title: Brain-State Decoders
-summary: Models inferring attention, fatigue, and workload from neural signals.
+summary: Machine learning models that classify cognitive states like attention or
+  fatigue from neural signals
 permalink: https://www.envisioning.com/cortex/brain-state-decoders
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062747/corte
 
 ## Summary
 
-Models inferring attention, fatigue, and workload from neural signals.
+Machine learning models that classify cognitive states like attention or fatigue from neural signals
 
 ## Description
 

@@ -2,22 +2,21 @@
 slug: aneutronic-fusion
 hub: xenotech
 title: Aneutronic Fusion
-summary: Nuclear fusion reactions producing minimal neutrons through aneutronic fuel
-  cycles, enabling direct energy conversion and compact reactor designs for aerospace
-  applications.
+summary: Nuclear fusion using fuel cycles that produce charged particles instead of
+  neutrons
 permalink: https://www.envisioning.com/xenotech/aneutronic-fusion
 collection: propulsion-physics
 trl: 4
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655134/xenotech/technologies/aneutronic-fusion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939874/xenotech/technologies/aneutronic-fusion-imagegen-v1.png
 ---
 
 # Aneutronic Fusion
 
 ## Summary
 
-Nuclear fusion reactions producing minimal neutrons through aneutronic fuel cycles, enabling direct energy conversion and compact reactor designs for aerospace applications.
+Nuclear fusion using fuel cycles that produce charged particles instead of neutrons
 
 ## Description
 

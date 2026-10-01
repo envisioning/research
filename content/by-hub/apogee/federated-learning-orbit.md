@@ -2,7 +2,8 @@
 slug: federated-learning-orbit
 hub: apogee
 title: Federated Learning on Orbit
-summary: Collaborative AI training across satellite swarms without downlink.
+summary: Satellite constellations train shared AI models by exchanging updates instead
+  of raw data
 permalink: https://www.envisioning.com/apogee/federated-learning-orbit
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011606/apoge
 
 ## Summary
 
-Collaborative AI training across satellite swarms without downlink.
+Satellite constellations train shared AI models by exchanging updates instead of raw data
 
 ## Description
 

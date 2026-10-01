@@ -2,7 +2,8 @@
 slug: edge-ai-accelerator-consoles
 hub: pixels
 title: Edge AI Accelerator Consoles
-summary: Consoles and handhelds with NPUs dedicated to in-game AI inference.
+summary: Gaming hardware with built-in neural processors for local AI-driven NPCs,
+  graphics, and adaptive gameplay
 permalink: https://www.envisioning.com/pixels/edge-ai-accelerator-consoles
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062009/pixel
 
 ## Summary
 
-Consoles and handhelds with NPUs dedicated to in-game AI inference.
+Gaming hardware with built-in neural processors for local AI-driven NPCs, graphics, and adaptive gameplay
 
 ## Description
 

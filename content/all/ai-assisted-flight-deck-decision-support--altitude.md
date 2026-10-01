@@ -2,7 +2,7 @@
 slug: ai-assisted-flight-deck-decision-support
 hub: altitude
 title: AI-Assisted Flight Deck Decision Support
-summary: Onboard/connected decision aids for checklists, energy, and abnormal handling.
+summary: Real-time AI guidance for pilots during normal and emergency flight operations
 permalink: https://www.envisioning.com/altitude/ai-assisted-flight-deck-decision-support
 collection: software
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642639/altit
 
 ## Summary
 
-Onboard/connected decision aids for checklists, energy, and abnormal handling.
+Real-time AI guidance for pilots during normal and emergency flight operations
 
 ## Description
 

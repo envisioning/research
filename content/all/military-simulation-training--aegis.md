@@ -2,7 +2,8 @@
 slug: military-simulation-training
 hub: aegis
 title: Military Simulation Training
-summary: VR/AR and constructive simulators for combined-arms rehearsal.
+summary: Immersive VR/AR environments for rehearsing combat scenarios without live-fire
+  costs or risks
 permalink: https://www.envisioning.com/aegis/military-simulation-training
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764161854/aegis
 
 ## Summary
 
-VR/AR and constructive simulators for combined-arms rehearsal.
+Immersive VR/AR environments for rehearsing combat scenarios without live-fire costs or risks
 
 ## Description
 

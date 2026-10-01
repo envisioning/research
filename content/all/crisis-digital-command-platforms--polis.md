@@ -2,7 +2,8 @@
 slug: crisis-digital-command-platforms
 hub: polis
 title: Crisis Digital Command Platforms
-summary: Integrated operating pictures for multi-agency emergency coordination.
+summary: Centralized digital hubs that unify real-time data streams for coordinated
+  emergency response
 permalink: https://www.envisioning.com/polis/crisis-digital-command-platforms
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127080/polis
 
 ## Summary
 
-Integrated operating pictures for multi-agency emergency coordination.
+Centralized digital hubs that unify real-time data streams for coordinated emergency response
 
 ## Description
 

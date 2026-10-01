@@ -2,7 +2,8 @@
 slug: causal-inference-engines
 hub: wintermute
 title: Causal Inference Engines
-summary: AI platforms modeling cause-effect relationships for decision support.
+summary: AI systems that identify cause-and-effect relationships to predict intervention
+  outcomes
 permalink: https://www.envisioning.com/wintermute/causal-inference-engines
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080448/winte
 
 ## Summary
 
-AI platforms modeling cause-effect relationships for decision support.
+AI systems that identify cause-and-effect relationships to predict intervention outcomes
 
 ## Description
 

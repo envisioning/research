@@ -2,8 +2,7 @@
 slug: data-ai-governance
 hub: datatrends
 title: Integrated Data & AI Governance
-summary: Federated frameworks ensuring transparency and accountability for automated
-  AI agents.
+summary: Unified oversight framework for data management and AI system accountability
 permalink: https://www.envisioning.com/datatrends/data-ai-governance
 collection: management-foundations
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373246/datat
 
 ## Summary
 
-Federated frameworks ensuring transparency and accountability for automated AI agents.
+Unified oversight framework for data management and AI system accountability
 
 ## Description
 

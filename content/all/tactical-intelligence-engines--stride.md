@@ -2,7 +2,8 @@
 slug: tactical-intelligence-engines
 hub: stride
 title: Tactical Intelligence Engines
-summary: Multi-agent analytics extracting team tactics and spatial patterns.
+summary: Multi-agent systems that decode team tactics and spatial patterns from tracking
+  data and video
 permalink: https://www.envisioning.com/stride/tactical-intelligence-engines
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128309/strid
 
 ## Summary
 
-Multi-agent analytics extracting team tactics and spatial patterns.
+Multi-agent systems that decode team tactics and spatial patterns from tracking data and video
 
 ## Description
 

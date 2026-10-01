@@ -2,20 +2,21 @@
 slug: klingon-batleth
 hub: subspace
 title: Bat'leth (Sword of Honor)
-summary: Crescent-shaped melee weapon used in ritual combat and warrior tradition.
+summary: Crescent-shaped blade with dual grips designed for sweeping strikes and ritual
+  combat
 permalink: https://www.envisioning.com/subspace/klingon-batleth
 collection: weapons
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760262764/subspaceindex/technologies/klingon-batleth.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907471/subspace/technologies/klingon-batleth-openrouter-google-gemini-3.1-flash-image-preview-gaiyao.png
 ---
 
 # Bat'leth (Sword of Honor)
 
 ## Summary
 
-Crescent-shaped melee weapon used in ritual combat and warrior tradition.
+Crescent-shaped blade with dual grips designed for sweeping strikes and ritual combat
 
 ## Description
 

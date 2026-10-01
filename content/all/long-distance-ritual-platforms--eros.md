@@ -2,7 +2,7 @@
 slug: long-distance-ritual-platforms
 hub: eros
 title: Long-Distance Ritual Platforms
-summary: Apps that structure recurring micro-rituals for remote relationships.
+summary: Apps that structure recurring micro-rituals for remote relationships
 permalink: https://www.envisioning.com/eros/long-distance-ritual-platforms
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125410/eros/
 
 ## Summary
 
-Apps that structure recurring micro-rituals for remote relationships.
+Apps that structure recurring micro-rituals for remote relationships
 
 ## Description
 

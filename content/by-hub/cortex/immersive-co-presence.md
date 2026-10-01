@@ -2,7 +2,7 @@
 slug: immersive-co-presence
 hub: cortex
 title: Immersive Human-Machine Co-Presence
-summary: XR systems governed by neural intent.
+summary: XR environments controlled directly by brain signals for hands-free interaction
 permalink: https://www.envisioning.com/cortex/immersive-co-presence
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996013/corte
 
 ## Summary
 
-XR systems governed by neural intent.
+XR environments controlled directly by brain signals for hands-free interaction
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: esports-performance-analytics
 hub: pixels
 title: Esports Performance Analytics
-summary: Biomechanics, biometrics, and telemetry analytics for pro teams.
+summary: Biometric and telemetry tracking to optimize professional gaming performance
 permalink: https://www.envisioning.com/pixels/esports-performance-analytics
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062273/pixel
 
 ## Summary
 
-Biomechanics, biometrics, and telemetry analytics for pro teams.
+Biometric and telemetry tracking to optimize professional gaming performance
 
 ## Description
 

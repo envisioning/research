@@ -2,8 +2,8 @@
 slug: biodegradable-microsensors
 hub: spore
 title: Biodegradable Field Microsensors
-summary: Transient electronic 'dust' sensors that monitor conditions and compost after
-  use.
+summary: Dissolving electronic sensors that monitor soil and microclimate, then biodegrade
+  in place
 permalink: https://www.envisioning.com/spore/biodegradable-microsensors
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095887/spore
 
 ## Summary
 
-Transient electronic 'dust' sensors that monitor conditions and compost after use.
+Dissolving electronic sensors that monitor soil and microclimate, then biodegrade in place
 
 ## Description
 

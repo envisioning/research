@@ -2,19 +2,21 @@
 slug: cloud-gaming
 hub: pixels
 title: Cloud Gaming
-summary: Streaming games from remote servers to thin clients; no local GPU required.
+summary: Streaming games from remote servers to any device without local hardware
+  requirements
 permalink: https://www.envisioning.com/pixels/cloud-gaming
 collection: applications
 trl: 8
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897794/pixels/technologies/9b6d0184-b342-4f97-b45e-cd87120241de-google-gemini-3.1-flash-image-preview-sfn9w3.png
 ---
 
 # Cloud Gaming
 
 ## Summary
 
-Streaming games from remote servers to thin clients; no local GPU required.
+Streaming games from remote servers to any device without local hardware requirements
 
 ## Description
 

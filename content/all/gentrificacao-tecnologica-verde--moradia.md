@@ -2,8 +2,8 @@
 slug: gentrificacao-tecnologica-verde
 hub: moradia
 title: Gentrificação Tecnológica e Verde
-summary: Aumento do custo de moradia devido à implementação de tecnologias de alto
-  padrão e melhorias ambientais que valorizam áreas urbanas.
+summary: Valorização imobiliária por tecnologia e infraestrutura verde que desloca
+  moradores de baixa renda
 permalink: https://www.envisioning.com/moradia/gentrificacao-tecnologica-verde
 collection: modelos-mercado-governanca
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592477/habit
 
 ## Summary
 
-Aumento do custo de moradia devido à implementação de tecnologias de alto padrão e melhorias ambientais que valorizam áreas urbanas.
+Valorização imobiliária por tecnologia e infraestrutura verde que desloca moradores de baixa renda
 
 ## Description
 

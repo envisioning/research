@@ -2,8 +2,8 @@
 slug: noise-pollution-community-health
 hub: altitude
 title: Noise Pollution & Community Health Studies
-summary: Epidemiological research linking aviation noise to cardiovascular and mental
-  health outcomes.
+summary: Research linking aircraft noise exposure to cardiovascular disease and mental
+  health outcomes
 permalink: https://www.envisioning.com/altitude/noise-pollution-community-health
 collection: ethics-security
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649129/altit
 
 ## Summary
 
-Epidemiological research linking aviation noise to cardiovascular and mental health outcomes.
+Research linking aircraft noise exposure to cardiovascular disease and mental health outcomes
 
 ## Description
 

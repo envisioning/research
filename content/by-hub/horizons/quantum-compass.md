@@ -2,9 +2,10 @@
 slug: quantum-compass
 hub: horizons
 title: Quantum Compass
-summary: GPS-free navigation using ultra-precise quantum sensors.
+summary: Navigation using quantum sensors to measure position and motion without satellite
+  signals
 permalink: https://www.envisioning.com/horizons/quantum-compass
-collection: intelligence-computation
+collection: hardware
 trl: 6
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526628/horiz
 
 ## Summary
 
-GPS-free navigation using ultra-precise quantum sensors.
+Navigation using quantum sensors to measure position and motion without satellite signals
 
 ## Description
 

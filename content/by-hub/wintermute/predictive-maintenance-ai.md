@@ -2,7 +2,8 @@
 slug: predictive-maintenance-ai
 hub: wintermute
 title: Predictive Maintenance AI
-summary: Industrial AI monitoring equipment health across plants and fleets.
+summary: AI systems that predict equipment failures by analyzing sensor data to enable
+  proactive maintenance
 permalink: https://www.envisioning.com/wintermute/predictive-maintenance-ai
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079854/winte
 
 ## Summary
 
-Industrial AI monitoring equipment health across plants and fleets.
+AI systems that predict equipment failures by analyzing sensor data to enable proactive maintenance
 
 ## Description
 

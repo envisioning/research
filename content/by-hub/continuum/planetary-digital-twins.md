@@ -2,7 +2,8 @@
 slug: planetary-digital-twins
 hub: continuum
 title: Planetary Digital Twins
-summary: High-fidelity simulations of Earth's systems for climate prediction.
+summary: Virtual replicas of Earth's interconnected systems for climate forecasting
+  and scenario planning
 permalink: https://www.envisioning.com/continuum/planetary-digital-twins
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124556/conti
 
 ## Summary
 
-High-fidelity simulations of Earth's systems for climate prediction.
+Virtual replicas of Earth's interconnected systems for climate forecasting and scenario planning
 
 ## Description
 

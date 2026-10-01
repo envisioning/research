@@ -2,7 +2,8 @@
 slug: hvdc-supergrids
 hub: substrate
 title: HVDC Supergrids
-summary: Continental-scale high-voltage direct current backbones for bulk power transfer.
+summary: Continental-scale high-voltage direct current networks for long-distance
+  bulk power transfer
 permalink: https://www.envisioning.com/substrate/hvdc-supergrids
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177921/subst
 
 ## Summary
 
-Continental-scale high-voltage direct current backbones for bulk power transfer.
+Continental-scale high-voltage direct current networks for long-distance bulk power transfer
 
 ## Description
 

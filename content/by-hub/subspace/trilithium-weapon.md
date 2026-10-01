@@ -2,21 +2,21 @@
 slug: trilithium-weapon
 hub: subspace
 title: Trilithium Weapon
-summary: Banned weapon of mass destruction capable of initiating stellar collapse
-  and supernova detonation.
+summary: Hypothetical exotic matter designed to disrupt stellar fusion and trigger
+  star collapse
 permalink: https://www.envisioning.com/subspace/trilithium-weapon
 collection: weapons
 trl: 4
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760212473/subspaceindex/technologies/trilithium-weapon.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909368/subspace/technologies/trilithium-weapon-openrouter-google-gemini-3.1-flash-image-preview-dumeaw.png
 ---
 
 # Trilithium Weapon
 
 ## Summary
 
-Banned weapon of mass destruction capable of initiating stellar collapse and supernova detonation.
+Hypothetical exotic matter designed to disrupt stellar fusion and trigger star collapse
 
 ## Description
 

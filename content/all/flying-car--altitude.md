@@ -2,19 +2,21 @@
 slug: flying-car
 hub: altitude
 title: Flying Car
-summary: Roadable aircraft; early commercialization, prototypes.
+summary: Vehicles designed to drive on roads and fly, bridging personal transport
+  and aviation
 permalink: https://www.envisioning.com/altitude/flying-car
 collection: applications
 trl: 6
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886781/altitude/technologies/40064fe0-9230-426d-9a3a-b7d403bf756e-google-gemini-3.1-flash-image-preview-50rsuz.png
 ---
 
 # Flying Car
 
 ## Summary
 
-Roadable aircraft; early commercialization, prototypes.
+Vehicles designed to drive on roads and fly, bridging personal transport and aviation
 
 ## Description
 

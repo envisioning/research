@@ -2,13 +2,10 @@
 slug: gender-mainstreaming
 hub: cities
 title: Gender Mainstreaming
-summary: 'This strategic approach aims to solve the problem of gender biases in urban
-  environments, where traditional planning often overlooks the specific needs and
-  experiences of women and other marginalised genders. This approach involves systematically
-  incorporating gender perspectives into all stages of urban development, from policy-making
-  to the design and management of public spaces, transportation, and infrastructure. '
+summary: Integrating gender perspectives into urban planning, policy, and infrastructure
+  design
 permalink: https://www.envisioning.com/cities/gender-mainstreaming
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: ethics-security
 trl: 6
 impact: 3
 investment: 2
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869534-gender-mainstreaming
 
 ## Summary
 
-This strategic approach aims to solve the problem of gender biases in urban environments, where traditional planning often overlooks the specific needs and experiences of women and other marginalised genders. This approach involves systematically incorporating gender perspectives into all stages of urban development, from policy-making to the design and management of public spaces, transportation, and infrastructure.
+Integrating gender perspectives into urban planning, policy, and infrastructure design
 
 ## Description
 

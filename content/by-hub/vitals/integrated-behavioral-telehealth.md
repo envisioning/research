@@ -2,7 +2,8 @@
 slug: integrated-behavioral-telehealth
 hub: vitals
 title: Integrated Behavioral Telehealth in Primary Care
-summary: Embedding virtual mental health services into primary and chronic care pathways.
+summary: Virtual mental health specialists embedded directly into primary care appointments
+  and workflows
 permalink: https://www.envisioning.com/vitals/integrated-behavioral-telehealth
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462086/vital
 
 ## Summary
 
-Embedding virtual mental health services into primary and chronic care pathways.
+Virtual mental health specialists embedded directly into primary care appointments and workflows
 
 ## Description
 

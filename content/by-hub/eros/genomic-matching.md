@@ -2,7 +2,8 @@
 slug: genomic-matching
 hub: eros
 title: Genomic Compatibility Algorithms
-summary: Matchmaking systems utilizing biological data for partner prediction.
+summary: Partner matching systems that analyze DNA markers like MHC genes to predict
+  biological compatibility
 permalink: https://www.envisioning.com/eros/genomic-matching
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124475/eros/
 
 ## Summary
 
-Matchmaking systems utilizing biological data for partner prediction.
+Partner matching systems that analyze DNA markers like MHC genes to predict biological compatibility
 
 ## Description
 

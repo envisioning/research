@@ -2,8 +2,7 @@
 slug: casas-sem-condominio-habitacao-individual
 hub: moradia
 title: Casas sem Condomínio
-summary: Moradia individual ou em lotes sem gestão condominial, predominante em periferias
-  e áreas rurais.
+summary: Moradias individuais em lotes próprios, sem gestão coletiva ou áreas compartilhadas
 permalink: https://www.envisioning.com/moradia/casas-sem-condominio-habitacao-individual
 collection: modelos-mercado-governanca
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584882/habit
 
 ## Summary
 
-Moradia individual ou em lotes sem gestão condominial, predominante em periferias e áreas rurais.
+Moradias individuais em lotes próprios, sem gestão coletiva ou áreas compartilhadas
 
 ## Description
 

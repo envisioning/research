@@ -2,8 +2,8 @@
 slug: fluxonium-qubits
 hub: superposition
 title: Fluxonium Qubits
-summary: Superconducting qubits with high anharmonicity operating at lower frequencies
-  for enhanced error protection.
+summary: Superconducting qubits engineered for lower error rates through high anharmonicity
+  and reduced noise
 permalink: https://www.envisioning.com/superposition/fluxonium-qubits
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069391/super
 
 ## Summary
 
-Superconducting qubits with high anharmonicity operating at lower frequencies for enhanced error protection.
+Superconducting qubits engineered for lower error rates through high anharmonicity and reduced noise
 
 ## Description
 

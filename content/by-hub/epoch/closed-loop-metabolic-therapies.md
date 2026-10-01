@@ -2,8 +2,8 @@
 slug: closed-loop-metabolic-therapies
 hub: epoch
 title: Closed-Loop Metabolic Therapies
-summary: Automated systems that combine sensors, algorithms, and drug delivery to
-  maintain youthful metabolic profiles.
+summary: Real-time biosensing and automated drug delivery to maintain optimal metabolic
+  states
 permalink: https://www.envisioning.com/epoch/closed-loop-metabolic-therapies
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477655/epoch
 
 ## Summary
 
-Automated systems that combine sensors, algorithms, and drug delivery to maintain youthful metabolic profiles.
+Real-time biosensing and automated drug delivery to maintain optimal metabolic states
 
 ## Description
 

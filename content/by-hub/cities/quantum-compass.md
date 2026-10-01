@@ -2,15 +2,10 @@
 slug: quantum-compass
 hub: cities
 title: Quantum Compass
-summary: This technology operates on the principles of quantum mechanics, using the
-  precise measurement of atomic states to determine orientation and position without
-  relying on external signals. This makes it especially useful in dense urban areas,
-  underground spaces, or disaster-stricken regions where GPS may fail. The quantum
-  compass has potential applications across various urban contexts, from improving
-  the accuracy of autonomous vehicles and public transportation systems to enhancing
-  emergency response and infrastructure maintenance.
+summary: Navigation system using quantum mechanics to determine position without GPS
+  signals
 permalink: https://www.envisioning.com/cities/quantum-compass
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: hardware
 trl: 7
 impact: 2
 investment: 1
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724867572-quantum-compass.png
 
 ## Summary
 
-This technology operates on the principles of quantum mechanics, using the precise measurement of atomic states to determine orientation and position without relying on external signals. This makes it especially useful in dense urban areas, underground spaces, or disaster-stricken regions where GPS may fail. The quantum compass has potential applications across various urban contexts, from improving the accuracy of autonomous vehicles and public transportation systems to enhancing emergency response and infrastructure maintenance.
+Navigation system using quantum mechanics to determine position without GPS signals
 
 ## Description
 

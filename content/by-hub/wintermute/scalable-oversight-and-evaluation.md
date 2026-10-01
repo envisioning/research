@@ -2,7 +2,8 @@
 slug: scalable-oversight-and-evaluation
 hub: wintermute
 title: Scalable Oversight & Evaluation Systems
-summary: Automated evals and oversight loops for frontier models and agents.
+summary: Automated monitoring and testing infrastructure for AI safety and capability
+  assessment
 permalink: https://www.envisioning.com/wintermute/scalable-oversight-and-evaluation
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079501/winte
 
 ## Summary
 
-Automated evals and oversight loops for frontier models and agents.
+Automated monitoring and testing infrastructure for AI safety and capability assessment
 
 ## Description
 

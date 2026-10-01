@@ -2,8 +2,8 @@
 slug: participatory-planning-platforms
 hub: habitat
 title: Participatory Planning Platforms
-summary: Digital engagement tools bringing residents into spatial planning decisions
-  at scale.
+summary: Digital tools enabling residents to contribute to urban planning and development
+  decisions
 permalink: https://www.envisioning.com/habitat/participatory-planning-platforms
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221482/habit
 
 ## Summary
 
-Digital engagement tools bringing residents into spatial planning decisions at scale.
+Digital tools enabling residents to contribute to urban planning and development decisions
 
 ## Description
 

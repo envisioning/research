@@ -2,7 +2,8 @@
 slug: explosive-ordnance-disposal-robots
 hub: aegis
 title: Explosive Ordnance Disposal Robots
-summary: Tracked, teleoperated systems neutralizing IEDs and UXO.
+summary: Remote-controlled robots that neutralize bombs and hazardous ordnance from
+  safe distances
 permalink: https://www.envisioning.com/aegis/explosive-ordnance-disposal-robots
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764161830/aegis
 
 ## Summary
 
-Tracked, teleoperated systems neutralizing IEDs and UXO.
+Remote-controlled robots that neutralize bombs and hazardous ordnance from safe distances
 
 ## Description
 

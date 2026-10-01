@@ -2,8 +2,8 @@
 slug: adaptive-metabolic-orchestration-engines
 hub: epoch
 title: Adaptive Metabolic Orchestration Engines
-summary: AI systems that continuously adjust diet, activity, sleep, and therapeutics
-  to keep metabolism in a youthful state.
+summary: AI systems that adjust diet, activity, sleep, and treatments to maintain
+  youthful metabolic function
 permalink: https://www.envisioning.com/epoch/adaptive-metabolic-orchestration-engines
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476412/epoch
 
 ## Summary
 
-AI systems that continuously adjust diet, activity, sleep, and therapeutics to keep metabolism in a youthful state.
+AI systems that adjust diet, activity, sleep, and treatments to maintain youthful metabolic function
 
 ## Description
 

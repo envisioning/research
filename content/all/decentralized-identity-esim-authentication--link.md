@@ -2,7 +2,8 @@
 slug: decentralized-identity-esim-authentication
 hub: link
 title: Decentralized Identity & eSIM Authentication
-summary: Self-sovereign digital identities and programmable SIM provisioning.
+summary: Blockchain-based identity verification integrated with programmable eSIM
+  provisioning for secure network access
 permalink: https://www.envisioning.com/link/decentralized-identity-esim-authentication
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179433/link/
 
 ## Summary
 
-Self-sovereign digital identities and programmable SIM provisioning.
+Blockchain-based identity verification integrated with programmable eSIM provisioning for secure network access
 
 ## Description
 

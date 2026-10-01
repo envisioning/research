@@ -2,8 +2,8 @@
 slug: biometric-fabric-sensors
 hub: fabric
 title: Biometric Fabric Sensors for Identity Verification
-summary: Textiles that authenticate the wearer through gait, heat signature, or muscle
-  patterning.
+summary: Textiles that authenticate wearers through gait, heat signature, or muscle
+  patterns
 permalink: https://www.envisioning.com/fabric/biometric-fabric-sensors
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060794/threa
 
 ## Summary
 
-Textiles that authenticate the wearer through gait, heat signature, or muscle patterning.
+Textiles that authenticate wearers through gait, heat signature, or muscle patterns
 
 ## Description
 

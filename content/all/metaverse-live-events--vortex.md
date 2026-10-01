@@ -2,7 +2,8 @@
 slug: metaverse-live-events
 hub: vortex
 title: Metaverse Live Events
-summary: Massive virtual concerts and gatherings.
+summary: Interactive 3D concerts and gatherings where participants attend as avatars
+  in shared virtual spaces
 permalink: https://www.envisioning.com/vortex/metaverse-live-events
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126926/vorte
 
 ## Summary
 
-Massive virtual concerts and gatherings.
+Interactive 3D concerts and gatherings where participants attend as avatars in shared virtual spaces
 
 ## Description
 

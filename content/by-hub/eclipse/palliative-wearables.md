@@ -2,7 +2,8 @@
 slug: palliative-wearables
 hub: eclipse
 title: Palliative Wearables
-summary: IoT sensors for continuous end-of-life symptom monitoring.
+summary: Medical-grade sensors that continuously monitor symptoms in end-of-life care
+  patients
 permalink: https://www.envisioning.com/eclipse/palliative-wearables
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126562/eclip
 
 ## Summary
 
-IoT sensors for continuous end-of-life symptom monitoring.
+Medical-grade sensors that continuously monitor symptoms in end-of-life care patients
 
 ## Description
 

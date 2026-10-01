@@ -2,7 +2,8 @@
 slug: real-time-fraud-and-anomaly-detection
 hub: lattice
 title: Real-Time Fraud & Anomaly Detection Pipelines
-summary: ML and graph analytics tuned for on-chain financial abuse patterns.
+summary: Automated systems that spot wash trading, sandwich attacks, and cross-chain
+  exploits as they happen
 permalink: https://www.envisioning.com/lattice/real-time-fraud-and-anomaly-detection
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995681/flows
 
 ## Summary
 
-ML and graph analytics tuned for on-chain financial abuse patterns.
+Automated systems that spot wash trading, sandwich attacks, and cross-chain exploits as they happen
 
 ## Description
 

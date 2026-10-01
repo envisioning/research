@@ -2,8 +2,7 @@
 slug: biodegradable-athletic-wear
 hub: fabric
 title: Biodegradable Athletic Wear
-summary: Performance gear engineered to compost at end-of-life without microplastic
-  shed.
+summary: Performance sportswear designed to fully decompose without releasing microplastics
 permalink: https://www.envisioning.com/fabric/biodegradable-athletic-wear
 collection: applications
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059806/threa
 
 ## Summary
 
-Performance gear engineered to compost at end-of-life without microplastic shed.
+Performance sportswear designed to fully decompose without releasing microplastics
 
 ## Description
 

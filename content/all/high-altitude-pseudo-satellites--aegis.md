@@ -2,7 +2,8 @@
 slug: high-altitude-pseudo-satellites
 hub: aegis
 title: High-Altitude Pseudo-Satellites (HAPS)
-summary: Solar-powered stratospheric platforms providing ISR and comms relay.
+summary: Solar-powered stratospheric aircraft for persistent surveillance and communications
+  relay
 permalink: https://www.envisioning.com/aegis/high-altitude-pseudo-satellites
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990870/aegis
 
 ## Summary
 
-Solar-powered stratospheric platforms providing ISR and comms relay.
+Solar-powered stratospheric aircraft for persistent surveillance and communications relay
 
 ## Description
 

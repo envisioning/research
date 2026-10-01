@@ -2,7 +2,8 @@
 slug: electric-pulse-fragmentation
 hub: stratum
 title: Electric Pulse Fragmentation Systems
-summary: High-voltage pulses disintegrating rock along grain boundaries.
+summary: High-voltage electrical pulses that fracture ore along mineral boundaries
+  instead of crushing
 permalink: https://www.envisioning.com/stratum/electric-pulse-fragmentation
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135046/strat
 
 ## Summary
 
-High-voltage pulses disintegrating rock along grain boundaries.
+High-voltage electrical pulses that fracture ore along mineral boundaries instead of crushing
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: reality-filter-auditing
 hub: liminal
 title: Reality Filter Auditing
-summary: Transparency tools showing how a user's reality is being edited.
+summary: Logs and discloses every digital overlay modifying a user's augmented visual
+  field
 permalink: https://www.envisioning.com/liminal/reality-filter-auditing
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125501/limin
 
 ## Summary
 
-Transparency tools showing how a user's reality is being edited.
+Logs and discloses every digital overlay modifying a user's augmented visual field
 
 ## Description
 

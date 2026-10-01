@@ -2,7 +2,8 @@
 slug: obras-subterraneas-mecanizadas-tbm
 hub: moradia
 title: Obras Subterrâneas Mecanizadas
-summary: Túneis e galerias escavados por máquinas tuneleadoras para grandes infraestruturas.
+summary: Escavação mecanizada de túneis urbanos com precisão milimétrica usando máquinas
+  tuneleadoras
 permalink: https://www.envisioning.com/moradia/obras-subterraneas-mecanizadas-tbm
 collection: metodos-execucao-obra
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766585882/habit
 
 ## Summary
 
-Túneis e galerias escavados por máquinas tuneleadoras para grandes infraestruturas.
+Escavação mecanizada de túneis urbanos com precisão milimétrica usando máquinas tuneleadoras
 
 ## Description
 

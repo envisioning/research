@@ -2,8 +2,8 @@
 slug: induced-torpor-stasis
 hub: epoch
 title: Induced Torpor Stasis
-summary: Controlled metabolic suppression to reduce aging rates during critical periods
-  or long-duration travel.
+summary: Controlled metabolic suppression to slow aging and preserve tissue during
+  extended stasis
 permalink: https://www.envisioning.com/epoch/induced-torpor-stasis
 collection: applications
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620944/epoch
 
 ## Summary
 
-Controlled metabolic suppression to reduce aging rates during critical periods or long-duration travel.
+Controlled metabolic suppression to slow aging and preserve tissue during extended stasis
 
 ## Description
 

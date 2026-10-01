@@ -2,7 +2,8 @@
 slug: non-terrestrial-networks
 hub: substrate
 title: Non-Terrestrial Networks (NTN)
-summary: Integrated satellite, aerial, and terrestrial networks for truly global coverage.
+summary: Satellite, aerial, and ground infrastructure unified into seamless global
+  connectivity layers
 permalink: https://www.envisioning.com/substrate/non-terrestrial-networks
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120038/subst
 
 ## Summary
 
-Integrated satellite, aerial, and terrestrial networks for truly global coverage.
+Satellite, aerial, and ground infrastructure unified into seamless global connectivity layers
 
 ## Description
 

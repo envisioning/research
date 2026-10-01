@@ -2,15 +2,10 @@
 slug: ai-mentor
 hub: cities
 title: AI Mentor
-summary: These digital mentors provide personalised guidance and support across multiple
-  domains, including education, professional development, mental health, and public
-  services. By analysing vast amounts of data, AI mentors can tailor their advice
-  to individual needs, offering real-time feedback and recommendations that help users
-  achieve their goals. AI mentors facilitate workforce reskilling and upskilling,
-  support small business recovery, and enhance community engagement in urban planning
-  processes.
+summary: Personalized AI-driven guidance for education, career development, and public
+  services in urban contexts
 permalink: https://www.envisioning.com/cities/ai-mentor
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: software
 trl: 7
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792603-ai-mentor.png
 
 ## Summary
 
-These digital mentors provide personalised guidance and support across multiple domains, including education, professional development, mental health, and public services. By analysing vast amounts of data, AI mentors can tailor their advice to individual needs, offering real-time feedback and recommendations that help users achieve their goals. AI mentors facilitate workforce reskilling and upskilling, support small business recovery, and enhance community engagement in urban planning processes.
+Personalized AI-driven guidance for education, career development, and public services in urban contexts
 
 ## Description
 

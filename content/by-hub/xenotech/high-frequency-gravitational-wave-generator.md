@@ -2,21 +2,21 @@
 slug: high-frequency-gravitational-wave-generator
 hub: xenotech
 title: Wave Generators
-summary: Controversial US Navy patents claiming electromagnetic generation of high-frequency
-  gravitational waves for propulsion and communication.
+summary: Electromagnetic systems claimed to generate high-frequency gravitational
+  waves for propulsion
 permalink: https://www.envisioning.com/xenotech/high-frequency-gravitational-wave-generator
 collection: propulsion-physics
 trl: 3
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760901908/xenotech/technologies/high-frequency-gravitational-wave-generator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903532/xenotech/technologies/high-frequency-gravitational-wave-generator-openrouter-google-gemini-3.1-flash-image-preview-esuueb.png
 ---
 
 # Wave Generators
 
 ## Summary
 
-Controversial US Navy patents claiming electromagnetic generation of high-frequency gravitational waves for propulsion and communication.
+Electromagnetic systems claimed to generate high-frequency gravitational waves for propulsion
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: defense-supply-chain-security
 hub: aegis
 title: Supply Chain Security & Sanctions Resilience
-summary: Monitoring and rerouting critical material flows under disruption.
+summary: Real-time monitoring and rerouting of defense supply chains under sanctions
+  or disruption
 permalink: https://www.envisioning.com/aegis/defense-supply-chain-security
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010225/aegis
 
 ## Summary
 
-Monitoring and rerouting critical material flows under disruption.
+Real-time monitoring and rerouting of defense supply chains under sanctions or disruption
 
 ## Description
 

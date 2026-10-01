@@ -2,8 +2,8 @@
 slug: community-noise-monitoring-engagement
 hub: altitude
 title: Community Noise Monitoring & Engagement Technologies
-summary: Real-time noise mapping, complaint resolution, and transparent operations
-  data.
+summary: Real-time acoustic tracking and public dashboards to measure and address
+  aircraft noise impact
 permalink: https://www.envisioning.com/altitude/community-noise-monitoring-engagement
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644326/altit
 
 ## Summary
 
-Real-time noise mapping, complaint resolution, and transparent operations data.
+Real-time acoustic tracking and public dashboards to measure and address aircraft noise impact
 
 ## Description
 

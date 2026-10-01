@@ -2,7 +2,8 @@
 slug: opinion-clustering-algorithms
 hub: polis
 title: Opinion Clustering Algorithms
-summary: AI systems that map ideological landscapes and surface bridging proposals.
+summary: Algorithms that map shared viewpoints across populations to reveal consensus
+  and division
 permalink: https://www.envisioning.com/polis/opinion-clustering-algorithms
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126504/polis
 
 ## Summary
 
-AI systems that map ideological landscapes and surface bridging proposals.
+Algorithms that map shared viewpoints across populations to reveal consensus and division
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cross-border-emotion-sovereignty
 hub: beacon
 title: Cross-Border Emotional Data Sovereignty
-summary: Jurisdictional frameworks for emotional data flows.
+summary: Legal frameworks governing how emotional and neural data crosses international
+  borders
 permalink: https://www.envisioning.com/beacon/cross-border-emotion-sovereignty
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124547/beaco
 
 ## Summary
 
-Jurisdictional frameworks for emotional data flows.
+Legal frameworks governing how emotional and neural data crosses international borders
 
 ## Description
 

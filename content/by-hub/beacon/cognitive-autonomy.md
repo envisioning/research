@@ -2,7 +2,8 @@
 slug: cognitive-autonomy
 hub: beacon
 title: Cognitive Autonomy Interfaces
-summary: Dashboards for controlling algorithmic influence.
+summary: User controls for managing how algorithms influence personal decisions and
+  behavior
 permalink: https://www.envisioning.com/beacon/cognitive-autonomy
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125549/beaco
 
 ## Summary
 
-Dashboards for controlling algorithmic influence.
+User controls for managing how algorithms influence personal decisions and behavior
 
 ## Description
 

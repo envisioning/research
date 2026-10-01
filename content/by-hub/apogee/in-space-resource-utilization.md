@@ -2,7 +2,8 @@
 slug: in-space-resource-utilization
 hub: apogee
 title: In-Space Resource Utilization (ISRU)
-summary: Extracting and processing resources from the Moon and asteroids.
+summary: Extracting oxygen, water, and metals from lunar regolith and asteroids for
+  in-space use
 permalink: https://www.envisioning.com/apogee/in-space-resource-utilization
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145074/apoge
 
 ## Summary
 
-Extracting and processing resources from the Moon and asteroids.
+Extracting oxygen, water, and metals from lunar regolith and asteroids for in-space use
 
 ## Description
 

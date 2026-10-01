@@ -2,21 +2,21 @@
 slug: theoretical-time-travel
 hub: xenotech
 title: Time Travel
-summary: Theoretical physics approaches to time travel including Tipler cylinders,
-  traversable wormholes, and closed timelike curves based on general relativity solutions.
+summary: Theoretical methods for backward or forward time displacement using relativistic
+  physics
 permalink: https://www.envisioning.com/xenotech/theoretical-time-travel
 collection: temporal-dimensional
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760815790/xenotech/technologies/wormhole-stabilization.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903335/xenotech/technologies/theoretical-time-travel-openrouter-google-gemini-3.1-flash-image-preview-ccxq22.png
 ---
 
 # Time Travel
 
 ## Summary
 
-Theoretical physics approaches to time travel including Tipler cylinders, traversable wormholes, and closed timelike curves based on general relativity solutions.
+Theoretical methods for backward or forward time displacement using relativistic physics
 
 ## Description
 

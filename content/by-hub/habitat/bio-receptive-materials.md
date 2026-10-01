@@ -2,8 +2,8 @@
 slug: bio-receptive-materials
 hub: habitat
 title: Bio-Receptive Materials
-summary: Architectural surfaces designed to host living organisms for air quality
-  and biodiversity.
+summary: Building surfaces engineered to support mosses, algae, and lichens for cleaner
+  air and urban biodiversity
 permalink: https://www.envisioning.com/habitat/bio-receptive-materials
 collection: hardware
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117173/habit
 
 ## Summary
 
-Architectural surfaces designed to host living organisms for air quality and biodiversity.
+Building surfaces engineered to support mosses, algae, and lichens for cleaner air and urban biodiversity
 
 ## Description
 

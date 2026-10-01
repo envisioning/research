@@ -2,8 +2,8 @@
 slug: financeirizacao-habitacao-industrializada
 hub: moradia
 title: Financeirização da Habitação Industrializada
-summary: Estruturas financeiras inovadoras (securitização, fundos) acopladas à construção
-  industrializada para acelerar ciclos de construção e rotação de capital.
+summary: Instrumentos financeiros que transformam habitação industrializada em ativos
+  líquidos no mercado brasileiro
 permalink: https://www.envisioning.com/moradia/financeirizacao-habitacao-industrializada
 collection: modelos-mercado-governanca
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598995/habit
 
 ## Summary
 
-Estruturas financeiras inovadoras (securitização, fundos) acopladas à construção industrializada para acelerar ciclos de construção e rotação de capital.
+Instrumentos financeiros que transformam habitação industrializada em ativos líquidos no mercado brasileiro
 
 ## Description
 

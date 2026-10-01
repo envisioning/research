@@ -2,7 +2,8 @@
 slug: smart-active-packaging
 hub: harvest
 title: Smart Active Packaging
-summary: Packaging with embedded sensors and preservatives.
+summary: Packaging that monitors freshness and actively extends shelf life of perishable
+  foods
 permalink: https://www.envisioning.com/harvest/smart-active-packaging
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128008/harve
 
 ## Summary
 
-Packaging with embedded sensors and preservatives.
+Packaging that monitors freshness and actively extends shelf life of perishable foods
 
 ## Description
 

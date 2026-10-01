@@ -2,22 +2,21 @@
 slug: nolan-honeycomb-materials
 hub: xenotech
 title: Metamaterial Honeycomb Structures
-summary: Alleged UAP materials analyzed by Dr. Garry Nolan showing microscopic layered
-  honeycomb architectures with unusual isotopic ratios, suggesting advanced nanoscale
-  manufacturing beyond conventional capabilities.
+summary: Microscopic layered lattices with unusual isotopic ratios recovered from
+  alleged UAP events
 permalink: https://www.envisioning.com/xenotech/nolan-honeycomb-materials
 collection: materials-structures
 trl: 3
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762002392/xenotech/technologies/nolan-honeycomb-materials-openai-gpt-5-hlyvan.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898765/xenotech/technologies/nolan-honeycomb-materials-openrouter-google-gemini-3.1-flash-image-preview-zhsrh0.png
 ---
 
 # Metamaterial Honeycomb Structures
 
 ## Summary
 
-Alleged UAP materials analyzed by Dr. Garry Nolan showing microscopic layered honeycomb architectures with unusual isotopic ratios, suggesting advanced nanoscale manufacturing beyond conventional capabilities.
+Microscopic layered lattices with unusual isotopic ratios recovered from alleged UAP events
 
 ## Description
 

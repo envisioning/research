@@ -2,7 +2,8 @@
 slug: biostimulant-platforms
 hub: spore
 title: Biostimulants
-summary: Microbial consortia and seaweed extracts boosting plant resilience.
+summary: Biological inputs that strengthen plant defenses and nutrient uptake without
+  adding fertilizer
 permalink: https://www.envisioning.com/spore/biostimulant-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096086/spore
 
 ## Summary
 
-Microbial consortia and seaweed extracts boosting plant resilience.
+Biological inputs that strengthen plant defenses and nutrient uptake without adding fertilizer
 
 ## Description
 

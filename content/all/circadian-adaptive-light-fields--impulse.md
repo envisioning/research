@@ -2,7 +2,8 @@
 slug: circadian-adaptive-light-fields
 hub: impulse
 title: Circadian-Adaptive Light Fields
-summary: Lighting systems steering mood and alertness.
+summary: Lighting systems that adjust spectrum, intensity, and timing to align with
+  human circadian rhythms
 permalink: https://www.envisioning.com/impulse/circadian-adaptive-light-fields
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133524/impul
 
 ## Summary
 
-Lighting systems steering mood and alertness.
+Lighting systems that adjust spectrum, intensity, and timing to align with human circadian rhythms
 
 ## Description
 

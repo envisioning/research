@@ -2,8 +2,8 @@
 slug: neuro-feedback-training-suites
 hub: synapse
 title: Neuro-Feedback Training Suites
-summary: Immersive environments for accelerating skill acquisition via brain-state
-  modulation.
+summary: Real-time brain monitoring systems that accelerate learning through biofeedback-driven
+  skill training
 permalink: https://www.envisioning.com/synapse/neuro-feedback-training-suites
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126888/synap
 
 ## Summary
 
-Immersive environments for accelerating skill acquisition via brain-state modulation.
+Real-time brain monitoring systems that accelerate learning through biofeedback-driven skill training
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: multi-orbit-satcom-air-to-ground-connectivity
 hub: altitude
 title: Multi-Orbit Satcom & Air-to-Ground Connectivity
-summary: LEO/MEO/GEO connectivity and A2G links for resilient flight operations.
+summary: Combining LEO, MEO, and GEO satellites with ground networks for continuous
+  aircraft connectivity
 permalink: https://www.envisioning.com/altitude/multi-orbit-satcom-air-to-ground-connectivity
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642011/altit
 
 ## Summary
 
-LEO/MEO/GEO connectivity and A2G links for resilient flight operations.
+Combining LEO, MEO, and GEO satellites with ground networks for continuous aircraft connectivity
 
 ## Description
 

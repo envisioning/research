@@ -2,7 +2,8 @@
 slug: cross-reality-game-worlds
 hub: pixels
 title: Cross-Reality Game Worlds
-summary: Games blending digital with physical using spatial anchors.
+summary: Persistent game layers anchored to real-world locations, blending phones,
+  AR glasses, and live city data
 permalink: https://www.envisioning.com/pixels/cross-reality-game-worlds
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058970/pixel
 
 ## Summary
 
-Games blending digital with physical using spatial anchors.
+Persistent game layers anchored to real-world locations, blending phones, AR glasses, and live city data
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-powered-network-security
 hub: link
 title: AI-Powered Network Security & Threat Detection
-summary: Machine learning systems for real-time anomaly detection and response.
+summary: Machine learning systems that detect and respond to network threats in real
+  time
 permalink: https://www.envisioning.com/link/ai-powered-network-security
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436320/link/
 
 ## Summary
 
-Machine learning systems for real-time anomaly detection and response.
+Machine learning systems that detect and respond to network threats in real time
 
 ## Description
 

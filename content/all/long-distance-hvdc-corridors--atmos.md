@@ -2,7 +2,8 @@
 slug: long-distance-hvdc-corridors
 hub: atmos
 title: Long-Distance HVDC Corridors
-summary: High-voltage direct current backbones linking renewables to demand centers.
+summary: High-voltage DC transmission lines moving renewable power across continents
+  with minimal loss
 permalink: https://www.envisioning.com/atmos/long-distance-hvdc-corridors
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990980/atmos
 
 ## Summary
 
-High-voltage direct current backbones linking renewables to demand centers.
+High-voltage DC transmission lines moving renewable power across continents with minimal loss
 
 ## Description
 

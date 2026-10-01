@@ -9,7 +9,7 @@ collection: barriers-opposition
 trl: 3
 impact: 2
 investment: 2
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886941/wonen/technologies/4335931d-9cc9-4233-9b17-b0e3821b6077-google-gemini-3.1-flash-image-preview-1kcl89.png
 ---
 
 # Construction Cost Inflation

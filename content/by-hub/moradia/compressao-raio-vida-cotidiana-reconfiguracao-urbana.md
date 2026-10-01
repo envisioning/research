@@ -2,9 +2,8 @@
 slug: compressao-raio-vida-cotidiana-reconfiguracao-urbana
 hub: moradia
 title: Compressão do Raio de Vida Cotidiana e Reconfiguração Urbana
-summary: Redução da distância funcional entre moradia, serviços e trabalho, pressionando
-  tipologias habitacionais e uso do térreo para criar proximidade e acessibilidade
-  a pé ou por transporte de curta distância.
+summary: Redução das distâncias entre moradia, trabalho e serviços para criar bairros
+  acessíveis a pé
 permalink: https://www.envisioning.com/moradia/compressao-raio-vida-cotidiana-reconfiguracao-urbana
 collection: cidade-infraestrutura-urbana
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766663572/habit
 
 ## Summary
 
-Redução da distância funcional entre moradia, serviços e trabalho, pressionando tipologias habitacionais e uso do térreo para criar proximidade e acessibilidade a pé ou por transporte de curta distância.
+Redução das distâncias entre moradia, trabalho e serviços para criar bairros acessíveis a pé
 
 ## Description
 

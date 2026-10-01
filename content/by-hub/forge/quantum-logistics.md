@@ -2,7 +2,8 @@
 slug: quantum-logistics
 hub: forge
 title: Quantum Logistics Optimization
-summary: Using quantum computing to solve intractable routing and inventory problems.
+summary: Applying quantum computing to solve complex routing, inventory, and supply
+  chain coordination problems
 permalink: https://www.envisioning.com/forge/quantum-logistics
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117890/forge
 
 ## Summary
 
-Using quantum computing to solve intractable routing and inventory problems.
+Applying quantum computing to solve complex routing, inventory, and supply chain coordination problems
 
 ## Description
 

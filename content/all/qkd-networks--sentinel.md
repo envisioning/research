@@ -2,7 +2,8 @@
 slug: qkd-networks
 hub: sentinel
 title: Quantum Key Distribution Networks
-summary: Physics-based secure communication channels for unhackable key exchange.
+summary: Encryption key exchange secured by quantum physics rather than mathematical
+  algorithms
 permalink: https://www.envisioning.com/sentinel/qkd-networks
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461919/senti
 
 ## Summary
 
-Physics-based secure communication channels for unhackable key exchange.
+Encryption key exchange secured by quantum physics rather than mathematical algorithms
 
 ## Description
 

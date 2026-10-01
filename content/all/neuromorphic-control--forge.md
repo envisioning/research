@@ -2,7 +2,8 @@
 slug: neuromorphic-control
 hub: forge
 title: Neuromorphic Control Systems
-summary: Brain-inspired computing architectures for adaptive industrial control.
+summary: Brain-inspired processors that adapt to changing conditions in real-time
+  industrial control
 permalink: https://www.envisioning.com/forge/neuromorphic-control
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177643/forge
 
 ## Summary
 
-Brain-inspired computing architectures for adaptive industrial control.
+Brain-inspired processors that adapt to changing conditions in real-time industrial control
 
 ## Description
 

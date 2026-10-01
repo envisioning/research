@@ -2,15 +2,10 @@
 slug: autonomous-sustainability-monitoring
 hub: cities
 title: Autonomous Sustainability Monitoring
-summary: This solution addresses urban challenges such as pollution, resource inefficiency,
-  and disaster management. It integrates a network of sensors, artificial intelligence
-  (AI), and data analytics to continuously track and manage environmental parameters
-  like air and water quality, energy consumption, and waste management in real-time.
-  By providing accurate, actionable data, these systems help city planners and policymakers
-  design better sustainability strategies, enhancing urban living conditions and reducing
-  environmental impacts.
+summary: Real-time sensor networks and AI tracking air quality, energy use, and waste
+  across cities
 permalink: https://www.envisioning.com/cities/autonomous-sustainability-monitoring
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: software
 trl: 6
 impact: 2
 investment: 1
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792897-autonomous-sustainab
 
 ## Summary
 
-This solution addresses urban challenges such as pollution, resource inefficiency, and disaster management. It integrates a network of sensors, artificial intelligence (AI), and data analytics to continuously track and manage environmental parameters like air and water quality, energy consumption, and waste management in real-time. By providing accurate, actionable data, these systems help city planners and policymakers design better sustainability strategies, enhancing urban living conditions and reducing environmental impacts.
+Real-time sensor networks and AI tracking air quality, energy use, and waste across cities
 
 ## Description
 

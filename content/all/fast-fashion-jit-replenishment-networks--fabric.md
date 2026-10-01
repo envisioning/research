@@ -2,7 +2,7 @@
 slug: fast-fashion-jit-replenishment-networks
 hub: fabric
 title: Fast-Fashion Just-in-Time Replenishment Networks
-summary: High-speed supply chains tightly coupling stores with factories.
+summary: Supply chains that auto-trigger production based on real-time sales data
 permalink: https://www.envisioning.com/fabric/fast-fashion-jit-replenishment-networks
 collection: applications
 trl: 9
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060798/threa
 
 ## Summary
 
-High-speed supply chains tightly coupling stores with factories.
+Supply chains that auto-trigger production based on real-time sales data
 
 ## Description
 

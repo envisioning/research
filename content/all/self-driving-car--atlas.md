@@ -2,19 +2,20 @@
 slug: self-driving-car
 hub: atlas
 title: Self-Driving Car
-summary: Autonomous vehicles; research, development, early commercialization.
+summary: Vehicles using sensors and AI to navigate without human drivers
 permalink: https://www.envisioning.com/atlas/self-driving-car
 collection: applications
 trl: 6
 impact: 5
 investment: 5
+image_url: null
 ---
 
 # Self-Driving Car
 
 ## Summary
 
-Autonomous vehicles; research, development, early commercialization.
+Vehicles using sensors and AI to navigate without human drivers
 
 ## Description
 

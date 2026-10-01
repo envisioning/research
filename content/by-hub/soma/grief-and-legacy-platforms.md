@@ -2,7 +2,8 @@
 slug: grief-and-legacy-platforms
 hub: soma
 title: Grief and Digital Legacy Platforms
-summary: Tools for bereavement support, memorialization, and posthumous presence.
+summary: Platforms combining bereavement support with digital memorialization and
+  posthumous data management
 permalink: https://www.envisioning.com/soma/grief-and-legacy-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178059/soma/
 
 ## Summary
 
-Tools for bereavement support, memorialization, and posthumous presence.
+Platforms combining bereavement support with digital memorialization and posthumous data management
 
 ## Description
 

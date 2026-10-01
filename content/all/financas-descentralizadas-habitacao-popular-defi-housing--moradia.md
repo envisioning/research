@@ -2,10 +2,8 @@
 slug: financas-descentralizadas-habitacao-popular-defi-housing
 hub: moradia
 title: Finanças Descentralizadas para Habitação Popular (DeFi-Housing)
-summary: Sistemas alternativos de financiamento habitacional que bypassam bancos tradicionais,
-  incluindo financiamento verde, plataformas digitais de financiamento comunitário,
-  pagamento por etapas sem contratos formais e modelos descentralizados baseados em
-  organização comunitária e tecnologias digitais.
+summary: Alternativas ao financiamento bancário tradicional para moradia de baixa
+  renda
 permalink: https://www.envisioning.com/moradia/financas-descentralizadas-habitacao-popular-defi-housing
 collection: modelos-mercado-governanca
 trl: 3
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592340/habit
 
 ## Summary
 
-Sistemas alternativos de financiamento habitacional que bypassam bancos tradicionais, incluindo financiamento verde, plataformas digitais de financiamento comunitário, pagamento por etapas sem contratos formais e modelos descentralizados baseados em organização comunitária e tecnologias digitais.
+Alternativas ao financiamento bancário tradicional para moradia de baixa renda
 
 ## Description
 

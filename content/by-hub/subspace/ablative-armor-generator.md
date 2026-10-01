@@ -2,20 +2,21 @@
 slug: ablative-armor-generator
 hub: subspace
 title: Deployable Ablative Armor Generator
-summary: Projected hull plating that materializes on demand during combat.
+summary: On-demand protective plating that materializes during combat and vaporizes
+  to absorb damage
 permalink: https://www.envisioning.com/subspace/ablative-armor-generator
 collection: defense
 trl: 4
 impact: 1
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760262537/subspaceindex/technologies/ablative-armor-generator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907785/subspace/technologies/ablative-armor-generator-openrouter-google-gemini-3.1-flash-image-preview-8s5enp.png
 ---
 
 # Deployable Ablative Armor Generator
 
 ## Summary
 
-Projected hull plating that materializes on demand during combat.
+On-demand protective plating that materializes during combat and vaporizes to absorb damage
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: flexible-electrode-arrays
 hub: cortex
 title: Flexible Electrode Arrays
-summary: Stretchable, biocompatible electrodes that conform to neural tissue.
+summary: Polymer-based neural electrodes that flex with brain tissue to maintain stable
+  contact
 permalink: https://www.envisioning.com/cortex/flexible-electrode-arrays
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062661/corte
 
 ## Summary
 
-Stretchable, biocompatible electrodes that conform to neural tissue.
+Polymer-based neural electrodes that flex with brain tissue to maintain stable contact
 
 ## Description
 

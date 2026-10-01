@@ -2,7 +2,8 @@
 slug: human-agency-vs-ai
 hub: axiom
 title: Human Agency vs. AI Instruction
-summary: Defining the role of educators and preventing over-reliance.
+summary: Balancing AI tutoring with human mentorship to preserve educator roles and
+  student agency
 permalink: https://www.envisioning.com/axiom/human-agency-vs-ai
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998555/axiom
 
 ## Summary
 
-Defining the role of educators and preventing over-reliance.
+Balancing AI tutoring with human mentorship to preserve educator roles and student agency
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: environmental-impact-accounting
 hub: liminal
 title: Environmental Impact Accounting
-summary: Lifecycle assessment of spatial computing infrastructure.
+summary: Measuring the ecological footprint of immersive tech from production to disposal
 permalink: https://www.envisioning.com/liminal/environmental-impact-accounting
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125592/limin
 
 ## Summary
 
-Lifecycle assessment of spatial computing infrastructure.
+Measuring the ecological footprint of immersive tech from production to disposal
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: dynamic-difficulty-orchestration
 hub: pixels
 title: Dynamic Difficulty Orchestration
-summary: Real-time adaptation of challenge using granular player telemetry.
+summary: Adjusts game difficulty in real time based on player behavior and performance
+  signals
 permalink: https://www.envisioning.com/pixels/dynamic-difficulty-orchestration
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062303/pixel
 
 ## Summary
 
-Real-time adaptation of challenge using granular player telemetry.
+Adjusts game difficulty in real time based on player behavior and performance signals
 
 ## Description
 

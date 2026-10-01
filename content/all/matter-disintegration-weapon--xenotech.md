@@ -2,21 +2,21 @@
 slug: matter-disintegration-weapon
 hub: xenotech
 title: Matter Disintegration Weapon
-summary: Directed-energy weapon system capable of total molecular disintegration,
-  converting matter into energy or plasma instantaneously upon contact.
+summary: Directed-energy system that destabilizes atomic bonds to convert solid matter
+  into energy or plasma
 permalink: https://www.envisioning.com/xenotech/matter-disintegration-weapon
 collection: defense-surveillance
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762026178/xenotech/technologies/matter-disintegration-weapon-openai-gpt-5-b5rpae.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898686/xenotech/technologies/matter-disintegration-weapon-openrouter-google-gemini-3.1-flash-image-preview-4ks7d7.png
 ---
 
 # Matter Disintegration Weapon
 
 ## Summary
 
-Directed-energy weapon system capable of total molecular disintegration, converting matter into energy or plasma instantaneously upon contact.
+Directed-energy system that destabilizes atomic bonds to convert solid matter into energy or plasma
 
 ## Description
 

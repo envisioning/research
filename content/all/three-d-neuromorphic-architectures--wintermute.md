@@ -2,7 +2,8 @@
 slug: three-d-neuromorphic-architectures
 hub: wintermute
 title: 3D-Stacked Neuromorphic Architectures
-summary: Hardware supporting sparse, recurrent, and spiking behavior.
+summary: Vertically stacked chips mimicking brain connectivity for spiking neural
+  networks
 permalink: https://www.envisioning.com/wintermute/three-d-neuromorphic-architectures
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980681/winte
 
 ## Summary
 
-Hardware supporting sparse, recurrent, and spiking behavior.
+Vertically stacked chips mimicking brain connectivity for spiking neural networks
 
 ## Description
 

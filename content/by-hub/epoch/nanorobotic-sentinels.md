@@ -2,8 +2,8 @@
 slug: nanorobotic-sentinels
 hub: epoch
 title: Nanorobotic Bloodstream Sentinels
-summary: Microscopic autonomous robots designed to patrol the bloodstream, detecting
-  pathogens and clearing vascular plaque.
+summary: Autonomous microscopic robots that navigate blood vessels to detect disease
+  and remove arterial plaque
 permalink: https://www.envisioning.com/epoch/nanorobotic-sentinels
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477247/epoch
 
 ## Summary
 
-Microscopic autonomous robots designed to patrol the bloodstream, detecting pathogens and clearing vascular plaque.
+Autonomous microscopic robots that navigate blood vessels to detect disease and remove arterial plaque
 
 ## Description
 

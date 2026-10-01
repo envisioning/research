@@ -2,8 +2,8 @@
 slug: longevity-gene-augmentation
 hub: epoch
 title: Longevity Gene Augmentation
-summary: Gene therapy delivering variants of FOXO3, SIRT6, Klotho, and other longevity-associated
-  genes.
+summary: Gene therapy introducing longevity-associated variants like FOXO3, SIRT6,
+  and Klotho to extend healthspan
 permalink: https://www.envisioning.com/epoch/longevity-gene-augmentation
 collection: applications
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772621000/epoch
 
 ## Summary
 
-Gene therapy delivering variants of FOXO3, SIRT6, Klotho, and other longevity-associated genes.
+Gene therapy introducing longevity-associated variants like FOXO3, SIRT6, and Klotho to extend healthspan
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: atmospheric-water-harvesting-textiles
 hub: fabric
 title: Atmospheric Water-Harvesting Textiles
-summary: Textile meshes pulling potable water from humidity using hydrophilic coatings.
+summary: Fabric surfaces that capture drinking water from humid air using bio-inspired
+  coatings
 permalink: https://www.envisioning.com/fabric/atmospheric-water-harvesting-textiles
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060243/threa
 
 ## Summary
 
-Textile meshes pulling potable water from humidity using hydrophilic coatings.
+Fabric surfaces that capture drinking water from humid air using bio-inspired coatings
 
 ## Description
 

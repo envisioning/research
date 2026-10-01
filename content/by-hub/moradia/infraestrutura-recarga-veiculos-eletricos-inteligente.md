@@ -2,8 +2,8 @@
 slug: infraestrutura-recarga-veiculos-eletricos-inteligente
 hub: moradia
 title: Infraestrutura de Recarga de Veículos Elétricos
-summary: Sistemas de recarga para veículos elétricos em edifícios e espaços urbanos,
-  com balanceamento de carga e gestão condominial.
+summary: Sistemas de recarga para veículos elétricos com balanceamento de carga em
+  edifícios residenciais e comerciais
 permalink: https://www.envisioning.com/moradia/infraestrutura-recarga-veiculos-eletricos-inteligente
 collection: sistemas-prediais-automacao
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360162/habit
 
 ## Summary
 
-Sistemas de recarga para veículos elétricos em edifícios e espaços urbanos, com balanceamento de carga e gestão condominial.
+Sistemas de recarga para veículos elétricos com balanceamento de carga em edifícios residenciais e comerciais
 
 ## Description
 

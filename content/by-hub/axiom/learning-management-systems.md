@@ -2,7 +2,8 @@
 slug: learning-management-systems
 hub: axiom
 title: Learning Management Systems
-summary: Core platforms (Canvas, Blackboard) organizing courses and analytics.
+summary: Software platforms managing course delivery, assignments, grades, and student
+  progress tracking
 permalink: https://www.envisioning.com/axiom/learning-management-systems
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074642/axiom
 
 ## Summary
 
-Core platforms (Canvas, Blackboard) organizing courses and analytics.
+Software platforms managing course delivery, assignments, grades, and student progress tracking
 
 ## Description
 

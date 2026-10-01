@@ -2,8 +2,8 @@
 slug: zero-knowledge-identity-wallets
 hub: prism
 title: Zero-Knowledge Identity Wallets
-summary: Cryptographic tools proving attributes like age or humanity without revealing
-  underlying data.
+summary: Cryptographic wallets that prove identity attributes without exposing personal
+  data
 permalink: https://www.envisioning.com/prism/zero-knowledge-identity-wallets
 collection: ethics-security
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062762/pulse
 
 ## Summary
 
-Cryptographic tools proving attributes like age or humanity without revealing underlying data.
+Cryptographic wallets that prove identity attributes without exposing personal data
 
 ## Description
 

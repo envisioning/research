@@ -2,7 +2,8 @@
 slug: neural-architecture-search-services
 hub: wintermute
 title: Neural Architecture Search Services
-summary: Automated model design pipelines optimizing accuracy-cost tradeoffs.
+summary: Automated systems that design optimal neural network architectures for specific
+  tasks and deployment constraints
 permalink: https://www.envisioning.com/wintermute/neural-architecture-search-services
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080469/winte
 
 ## Summary
 
-Automated model design pipelines optimizing accuracy-cost tradeoffs.
+Automated systems that design optimal neural network architectures for specific tasks and deployment constraints
 
 ## Description
 

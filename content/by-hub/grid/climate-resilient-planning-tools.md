@@ -2,7 +2,8 @@
 slug: climate-resilient-planning-tools
 hub: grid
 title: Climate-Resilient Infrastructure Planning Tools
-summary: Decision-support systems embedding climate and equity metrics into planning.
+summary: Decision-support platforms that integrate climate projections and vulnerability
+  data for grid planning
 permalink: https://www.envisioning.com/grid/climate-resilient-planning-tools
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113963/grid/
 
 ## Summary
 
-Decision-support systems embedding climate and equity metrics into planning.
+Decision-support platforms that integrate climate projections and vulnerability data for grid planning
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: cyber-kill-chain-automation
 hub: aegis
 title: Cyber Kill Chain Automation
-summary: AI-driven orchestration of reconnaissance through response.
+summary: AI-driven orchestration of defensive responses across all stages of a cyberattack
 permalink: https://www.envisioning.com/aegis/cyber-kill-chain-automation
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075659/aegis
 
 ## Summary
 
-AI-driven orchestration of reconnaissance through response.
+AI-driven orchestration of defensive responses across all stages of a cyberattack
 
 ## Description
 

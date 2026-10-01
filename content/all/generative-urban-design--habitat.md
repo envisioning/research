@@ -2,7 +2,8 @@
 slug: generative-urban-design
 hub: habitat
 title: Generative Urban Design
-summary: AI models creating optimized neighborhood layouts based on complex constraints.
+summary: AI-driven tools that generate and optimize neighborhood layouts from planning
+  constraints
 permalink: https://www.envisioning.com/habitat/generative-urban-design
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117663/habit
 
 ## Summary
 
-AI models creating optimized neighborhood layouts based on complex constraints.
+AI-driven tools that generate and optimize neighborhood layouts from planning constraints
 
 ## Description
 

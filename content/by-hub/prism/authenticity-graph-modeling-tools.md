@@ -2,8 +2,8 @@
 slug: authenticity-graph-modeling-tools
 hub: prism
 title: Authenticity graph modeling tools
-summary: Software that maps credibility, trust chains, and reputational flows across
-  platforms.
+summary: Software that maps trust networks and tracks how information spreads across
+  platforms
 permalink: https://www.envisioning.com/prism/authenticity-graph-modeling-tools
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062640/pulse
 
 ## Summary
 
-Software that maps credibility, trust chains, and reputational flows across platforms.
+Software that maps trust networks and tracks how information spreads across platforms
 
 ## Description
 

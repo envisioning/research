@@ -3,7 +3,6 @@ slug: civic-redistribution-dashboards
 hub: agape
 title: Civic Redistribution Dashboards
 summary: Public-facing transparency tools showing resource flows, enabling accountability
-  and public oversight of philanthropic and public spending.
 permalink: https://www.envisioning.com/agape/civic-redistribution-dashboards
 collection: technology-infrastructure
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368285/agape
 
 ## Summary
 
-Public-facing transparency tools showing resource flows, enabling accountability and public oversight of philanthropic and public spending.
+Public-facing transparency tools showing resource flows, enabling accountability
 
 ## Description
 

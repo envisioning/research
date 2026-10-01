@@ -2,20 +2,21 @@
 slug: core-body-temperature-sensing
 hub: interface
 title: Core Body Temperature Sensing
-summary: Wearable sensors for continuous, non-invasive core temperature tracking.
+summary: Wearables that track internal body temperature continuously without invasive
+  probes
 permalink: https://www.envisioning.com/interface/core-body-temperature-sensing
-collection: wearables-health-sensing
+collection: hardware
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887065/interface/technologies/4a0cd227-3ab9-4f03-a0af-6822ba30f031-google-gemini-3.1-flash-image-preview-kjbdk9.png
 ---
 
 # Core Body Temperature Sensing
 
 ## Summary
 
-Wearable sensors for continuous, non-invasive core temperature tracking.
+Wearables that track internal body temperature continuously without invasive probes
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: neutrino-detector
 hub: subspace
 title: Neutrino Detector
-summary: High-sensitivity array tracking reactor and wormhole signatures.
+summary: Instrumentation for detecting neutrino emissions from reactors and exotic
+  energy phenomena
 permalink: https://www.envisioning.com/subspace/neutrino-detector
 collection: sensors
 trl: 8
 impact: 1
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760270139/subspaceindex/technologies/neutrino-detector.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908567/subspace/technologies/neutrino-detector-openrouter-google-gemini-3.1-flash-image-preview-lpmogo.png
 ---
 
 # Neutrino Detector
 
 ## Summary
 
-High-sensitivity array tracking reactor and wormhole signatures.
+Instrumentation for detecting neutrino emissions from reactors and exotic energy phenomena
 
 ## Description
 

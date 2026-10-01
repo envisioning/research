@@ -2,21 +2,21 @@
 slug: vulcan-neuropressure-system
 hub: subspace
 title: Vulcan Neuropressure
-summary: Therapeutic technique combining targeted pressure points with neurofeedback
-  for stress relief and healing.
+summary: Pressure-point therapy guided by real-time neural monitoring for stress and
+  pain management
 permalink: https://www.envisioning.com/subspace/vulcan-neuropressure-system
 collection: biotechnology
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760268476/subspaceindex/technologies/vulcan-neuropressure-system.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772910124/subspace/technologies/vulcan-neuropressure-system-openrouter-google-gemini-3.1-flash-image-preview-elqioc.png
 ---
 
 # Vulcan Neuropressure
 
 ## Summary
 
-Therapeutic technique combining targeted pressure points with neurofeedback for stress relief and healing.
+Pressure-point therapy guided by real-time neural monitoring for stress and pain management
 
 ## Description
 

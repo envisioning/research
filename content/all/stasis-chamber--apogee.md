@@ -2,19 +2,20 @@
 slug: stasis-chamber
 hub: apogee
 title: Stasis Chamber
-summary: Induced torpor for interplanetary and interstellar space travel.
+summary: Suspended animation systems for crew during long-duration space missions
 permalink: https://www.envisioning.com/apogee/stasis-chamber
 collection: applications
 trl: 4
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897739/apogee/technologies/97cf3b65-f59c-4c2f-aa76-8c1906253bcd-google-gemini-3.1-flash-image-preview-lq4la9.jpg
 ---
 
 # Stasis Chamber
 
 ## Summary
 
-Induced torpor for interplanetary and interstellar space travel.
+Suspended animation systems for crew during long-duration space missions
 
 ## Description
 

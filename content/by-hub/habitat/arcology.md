@@ -2,19 +2,21 @@
 slug: arcology
 hub: habitat
 title: Arcology
-summary: Hyper-dense, self-contained urban megastructures combining architecture and ecology.
+summary: Vertical mega-cities integrating housing, work, and food production in self-sustaining
+  towers
 permalink: https://www.envisioning.com/habitat/arcology
 collection: applications
 trl: 3
 impact: 5
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882544/habitat/technologies/1490bdfa-3b61-4205-a5f0-b43ad28d7daf-google-gemini-3.1-flash-image-preview-lpqai1.jpg
 ---
 
 # Arcology
 
 ## Summary
 
-Hyper-dense, self-contained urban megastructures combining architecture and ecology.
+Vertical mega-cities integrating housing, work, and food production in self-sustaining towers
 
 ## Description
 

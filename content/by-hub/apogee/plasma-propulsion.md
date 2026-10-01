@@ -2,19 +2,21 @@
 slug: plasma-propulsion
 hub: apogee
 title: Plasma Propulsion
-summary: Electric propulsion using plasma for spacecraft; research and development.
+summary: Electric propulsion systems that accelerate ionized gas to maneuver satellites
+  and spacecraft
 permalink: https://www.envisioning.com/apogee/plasma-propulsion
 collection: hardware
 trl: 7
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882853/apogee/technologies/25d17b1c-ccae-4b5f-acf2-fab7f5a3f01a-google-gemini-3.1-flash-image-preview-u88fur.jpg
 ---
 
 # Plasma Propulsion
 
 ## Summary
 
-Electric propulsion using plasma for spacecraft; research and development.
+Electric propulsion systems that accelerate ionized gas to maneuver satellites and spacecraft
 
 ## Description
 

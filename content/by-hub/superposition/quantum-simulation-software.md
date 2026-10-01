@@ -2,7 +2,8 @@
 slug: quantum-simulation-software
 hub: superposition
 title: Quantum Simulation Software
-summary: High-performance tools for simulating quantum dynamics on classical clusters.
+summary: Software that models quantum system behavior on classical computers for algorithm
+  validation
 permalink: https://www.envisioning.com/superposition/quantum-simulation-software
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181240/super
 
 ## Summary
 
-High-performance tools for simulating quantum dynamics on classical clusters.
+Software that models quantum system behavior on classical computers for algorithm validation
 
 ## Description
 

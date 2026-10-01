@@ -2,21 +2,21 @@
 slug: hessdalen-plasma-constructs
 hub: xenotech
 title: Self-Assembling Plasma
-summary: Documented recurring luminous plasma formations in Hessdalen Valley exhibiting
-  structured behavior and electromagnetic anomalies.
+summary: Recurring luminous plasma formations in Norway's Hessdalen Valley studied
+  for electromagnetic anomalies
 permalink: https://www.envisioning.com/xenotech/hessdalen-plasma-constructs
 collection: propulsion-physics
 trl: 5
 impact: 2
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760985778/xenotech/technologies/hessdalen-plasma-constructs.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772905139/xenotech/technologies/hessdalen-plasma-constructs-openrouter-google-gemini-3.1-flash-image-preview-zxam5k.png
 ---
 
 # Self-Assembling Plasma
 
 ## Summary
 
-Documented recurring luminous plasma formations in Hessdalen Valley exhibiting structured behavior and electromagnetic anomalies.
+Recurring luminous plasma formations in Norway's Hessdalen Valley studied for electromagnetic anomalies
 
 ## Description
 

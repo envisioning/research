@@ -2,8 +2,8 @@
 slug: content-provenance-watermarking-multimodal
 hub: prism
 title: Content provenance watermarking for multimodal media
-summary: Cryptographically verifiable "supply chains" for text, audio, image, and
-  video.
+summary: Invisible watermarks and signed manifests that track edits and verify the
+  origin of media files
 permalink: https://www.envisioning.com/prism/content-provenance-watermarking-multimodal
 collection: ethics-security
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062787/pulse
 
 ## Summary
 
-Cryptographically verifiable "supply chains" for text, audio, image, and video.
+Invisible watermarks and signed manifests that track edits and verify the origin of media files
 
 ## Description
 

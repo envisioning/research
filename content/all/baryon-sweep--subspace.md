@@ -2,21 +2,21 @@
 slug: baryon-sweep
 hub: subspace
 title: Baryon Sweep
-summary: Maintenance procedure using baryon radiation to remove accumulated particles,
-  lethal to organic life.
+summary: Maintenance procedure using baryon radiation to clear particle buildup, lethal
+  to organic matter
 permalink: https://www.envisioning.com/subspace/baryon-sweep
 collection: sensors
 trl: 5
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760215712/subspaceindex/technologies/baryon-sweep.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907455/subspace/technologies/baryon-sweep-openrouter-google-gemini-3.1-flash-image-preview-qpa9ve.png
 ---
 
 # Baryon Sweep
 
 ## Summary
 
-Maintenance procedure using baryon radiation to remove accumulated particles, lethal to organic life.
+Maintenance procedure using baryon radiation to clear particle buildup, lethal to organic matter
 
 ## Description
 

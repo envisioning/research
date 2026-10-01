@@ -2,7 +2,8 @@
 slug: magnetoencephalography-arrays
 hub: cortex
 title: Magnetoencephalography Arrays
-summary: High-resolution MEG sensor suites for real-time brain mapping.
+summary: Dense sensor arrays that map brain activity through magnetic field detection
+  in real time
 permalink: https://www.envisioning.com/cortex/magnetoencephalography-arrays
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062662/corte
 
 ## Summary
 
-High-resolution MEG sensor suites for real-time brain mapping.
+Dense sensor arrays that map brain activity through magnetic field detection in real time
 
 ## Description
 

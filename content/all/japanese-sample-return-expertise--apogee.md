@@ -2,7 +2,7 @@
 slug: japanese-sample-return-expertise
 hub: apogee
 title: Japanese Sample Return Missions
-summary: Hayabusa-class sample return leading asteroid science.
+summary: Spacecraft that collect and return asteroid samples to Earth for analysis
 permalink: https://www.envisioning.com/apogee/japanese-sample-return-expertise
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145090/apoge
 
 ## Summary
 
-Hayabusa-class sample return leading asteroid science.
+Spacecraft that collect and return asteroid samples to Earth for analysis
 
 ## Description
 

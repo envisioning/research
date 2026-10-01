@@ -2,7 +2,8 @@
 slug: algorithmic-fairness-education
 hub: axiom
 title: Algorithmic Fairness in Education
-summary: Preventing bias in personalization and tracking.
+summary: Frameworks to detect and prevent bias in AI-powered learning systems and
+  assessments
 permalink: https://www.envisioning.com/axiom/algorithmic-fairness-education
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998531/axiom
 
 ## Summary
 
-Preventing bias in personalization and tracking.
+Frameworks to detect and prevent bias in AI-powered learning systems and assessments
 
 ## Description
 

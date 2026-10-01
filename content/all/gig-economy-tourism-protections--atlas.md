@@ -2,7 +2,7 @@
 slug: gig-economy-tourism-protections
 hub: atlas
 title: Gig Economy Tourism Protections
-summary: Labour standards and social safety nets for platform-based tourism workers.
+summary: Labour standards and social safety nets for platform-based tourism workers
 permalink: https://www.envisioning.com/atlas/gig-economy-tourism-protections
 collection: ethics-security
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221322/atlas
 
 ## Summary
 
-Labour standards and social safety nets for platform-based tourism workers.
+Labour standards and social safety nets for platform-based tourism workers
 
 ## Description
 

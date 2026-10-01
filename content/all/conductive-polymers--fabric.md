@@ -2,19 +2,21 @@
 slug: conductive-polymers
 hub: fabric
 title: Conductive Polymers
-summary: Polymers with electrical conductivity; lighter wires, organic solar cells.
+summary: Polymers that conduct electricity for flexible electronics, sensors, and
+  lightweight wiring
 permalink: https://www.envisioning.com/fabric/conductive-polymers
 collection: materials
 trl: 5
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897887/fabric/technologies/9d5f85d3-60b6-41b7-9bcb-069182ded7c8-google-gemini-3.1-flash-image-preview-ykbaf6.jpg
 ---
 
 # Conductive Polymers
 
 ## Summary
 
-Polymers with electrical conductivity; lighter wires, organic solar cells.
+Polymers that conduct electricity for flexible electronics, sensors, and lightweight wiring
 
 ## Description
 

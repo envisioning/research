@@ -2,7 +2,8 @@
 slug: inflatable-heat-shields
 hub: apogee
 title: Inflatable Heat Shields
-summary: Deployable aeroshells increasing drag area for planetary entry.
+summary: Expandable aeroshells that deploy before atmospheric entry to slow heavier
+  spacecraft
 permalink: https://www.envisioning.com/apogee/inflatable-heat-shields
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060724/apoge
 
 ## Summary
 
-Deployable aeroshells increasing drag area for planetary entry.
+Expandable aeroshells that deploy before atmospheric entry to slow heavier spacecraft
 
 ## Description
 

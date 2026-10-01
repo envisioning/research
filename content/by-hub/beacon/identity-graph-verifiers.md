@@ -2,7 +2,8 @@
 slug: identity-graph-verifiers
 hub: beacon
 title: Identity Graph Verifiers
-summary: Cross-platform verification of creator authenticity.
+summary: Maps cross-platform digital footprints to verify creator authenticity and
+  detect impersonation
 permalink: https://www.envisioning.com/beacon/identity-graph-verifiers
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124967/beaco
 
 ## Summary
 
-Cross-platform verification of creator authenticity.
+Maps cross-platform digital footprints to verify creator authenticity and detect impersonation
 
 ## Description
 

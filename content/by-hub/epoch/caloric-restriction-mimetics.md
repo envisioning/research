@@ -2,8 +2,8 @@
 slug: caloric-restriction-mimetics
 hub: epoch
 title: Caloric Restriction Mimetics
-summary: Compounds that reproduce the longevity benefits of caloric restriction without
-  dietary limitation.
+summary: Compounds that activate longevity pathways triggered by reduced calorie intake
+  without dietary restriction
 permalink: https://www.envisioning.com/epoch/caloric-restriction-mimetics
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772619961/epoch
 
 ## Summary
 
-Compounds that reproduce the longevity benefits of caloric restriction without dietary limitation.
+Compounds that activate longevity pathways triggered by reduced calorie intake without dietary restriction
 
 ## Description
 

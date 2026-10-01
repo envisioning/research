@@ -2,7 +2,7 @@
 slug: climate-risk-analytics
 hub: habitat
 title: Climate Risk Analytics
-summary: Asset-level climate risk scoring for resilient real estate portfolios.
+summary: Asset-level climate risk scoring for buildings and real estate portfolios
 permalink: https://www.envisioning.com/habitat/climate-risk-analytics
 collection: software
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117528/habit
 
 ## Summary
 
-Asset-level climate risk scoring for resilient real estate portfolios.
+Asset-level climate risk scoring for buildings and real estate portfolios
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: network-api-exposure-programmability
 hub: link
 title: Network API Exposure & Programmability
-summary: Open APIs that let developers access and control network capabilities.
+summary: Standardized APIs that expose telecom network functions to external developers
+  and applications
 permalink: https://www.envisioning.com/link/network-api-exposure-programmability
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436299/link/
 
 ## Summary
 
-Open APIs that let developers access and control network capabilities.
+Standardized APIs that expose telecom network functions to external developers and applications
 
 ## Description
 

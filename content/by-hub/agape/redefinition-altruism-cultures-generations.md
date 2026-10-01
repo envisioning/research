@@ -3,7 +3,6 @@ slug: redefinition-altruism-cultures-generations
 hub: agape
 title: Redefinition of Altruism Across Cultures & Generations
 summary: Redefinition of altruism across cultures and generations, as diverse understandings
-  of giving reshape philanthropy.
 permalink: https://www.envisioning.com/agape/redefinition-altruism-cultures-generations
 collection: culture-values-narratives
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372138/agape
 
 ## Summary
 
-Redefinition of altruism across cultures and generations, as diverse understandings of giving reshape philanthropy.
+Redefinition of altruism across cultures and generations, as diverse understandings
 
 ## Description
 

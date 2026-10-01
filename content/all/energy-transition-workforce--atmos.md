@@ -2,7 +2,8 @@
 slug: energy-transition-workforce
 hub: atmos
 title: Energy Transition Workforce Impact
-summary: Strategies for labor displacement and reskilling from fossil industries.
+summary: Labor transition planning and reskilling programs for workers moving from
+  fossil fuel to clean energy jobs
 permalink: https://www.envisioning.com/atmos/energy-transition-workforce
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010212/atmos
 
 ## Summary
 
-Strategies for labor displacement and reskilling from fossil industries.
+Labor transition planning and reskilling programs for workers moving from fossil fuel to clean energy jobs
 
 ## Description
 

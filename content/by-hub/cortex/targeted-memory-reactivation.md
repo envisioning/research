@@ -2,7 +2,8 @@
 slug: targeted-memory-reactivation
 hub: cortex
 title: Targeted Memory Reactivation (TMR)
-summary: Enhancing learning and consolidation during sleep.
+summary: Delivering sensory cues during sleep to strengthen memory consolidation and
+  learning
 permalink: https://www.envisioning.com/cortex/targeted-memory-reactivation
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995705/corte
 
 ## Summary
 
-Enhancing learning and consolidation during sleep.
+Delivering sensory cues during sleep to strengthen memory consolidation and learning
 
 ## Description
 

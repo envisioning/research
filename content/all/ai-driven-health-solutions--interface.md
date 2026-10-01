@@ -2,13 +2,13 @@
 slug: ai-driven-health-solutions
 hub: interface
 title: AI-Driven Health Solutions
-summary: 24x7 monitoring of vitals like heart rate, HRV, sleep, stress, and ECG with
-  personalized predictive insights, backed by advanced AI algorithms.
+summary: Wearable sensors that continuously track vitals and deliver personalized
+  health predictions using AI
 permalink: https://www.envisioning.com/interface/ai-driven-health-solutions
-collection: wearables-health-sensing
+collection: applications
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739178/interface/technologies/ai-driven-health-solutions-google-gemini-3-pro-image-preview-exq4ye.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739178/inter
 
 ## Summary
 
-24x7 monitoring of vitals like heart rate, HRV, sleep, stress, and ECG with personalized predictive insights, backed by advanced AI algorithms.
+Wearable sensors that continuously track vitals and deliver personalized health predictions using AI
 
 ## Description
 

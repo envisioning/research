@@ -2,7 +2,8 @@
 slug: consent-architecture-for-biometric-beauty
 hub: aura
 title: Consent Architecture for Biometric Beauty
-summary: Granular consent for biometric and longitudinal data use.
+summary: Dynamic user control over biometric and health data sharing in beauty and
+  wellness contexts
 permalink: https://www.envisioning.com/aura/consent-architecture-for-biometric-beauty
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010238/aura/
 
 ## Summary
 
-Granular consent for biometric and longitudinal data use.
+Dynamic user control over biometric and health data sharing in beauty and wellness contexts
 
 ## Description
 

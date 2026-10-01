@@ -2,7 +2,7 @@
 slug: ectogenesis-ethics
 hub: cradle
 title: Ectogenesis Ethics
-summary: Moral frameworks for artificial wombs.
+summary: Ethical frameworks for artificial womb technology and extracorporeal gestation
 permalink: https://www.envisioning.com/cradle/ectogenesis-ethics
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131138/cradl
 
 ## Summary
 
-Moral frameworks for artificial wombs.
+Ethical frameworks for artificial womb technology and extracorporeal gestation
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: space-traffic-governance
 hub: apogee
 title: Space Traffic Management Governance
-summary: International rules and norms for coordinating spacecraft maneuvers.
+summary: Policy frameworks coordinating satellite movements and collision avoidance
+  in crowded orbits
 permalink: https://www.envisioning.com/apogee/space-traffic-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012477/apoge
 
 ## Summary
 
-International rules and norms for coordinating spacecraft maneuvers.
+Policy frameworks coordinating satellite movements and collision avoidance in crowded orbits
 
 ## Description
 

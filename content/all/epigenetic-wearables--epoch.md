@@ -2,8 +2,8 @@
 slug: epigenetic-wearables
 hub: epoch
 title: Epigenetic Wearables
-summary: Noninvasive devices that track methylation drift, inflammation signatures,
-  and mitochondrial output in real time.
+summary: Wearable biosensors that track DNA methylation, inflammation, and mitochondrial
+  health to measure biological aging
 permalink: https://www.envisioning.com/epoch/epigenetic-wearables
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765478834/epoch
 
 ## Summary
 
-Noninvasive devices that track methylation drift, inflammation signatures, and mitochondrial output in real time.
+Wearable biosensors that track DNA methylation, inflammation, and mitochondrial health to measure biological aging
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: athlete-consent-wallets
 hub: stride
 title: Athlete Consent & Data Wallets
-summary: Self-sovereign tools for managing permissions across teams and vendors.
+summary: Personal data vaults giving athletes control over who accesses their performance
+  metrics
 permalink: https://www.envisioning.com/stride/athlete-consent-wallets
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128712/strid
 
 ## Summary
 
-Self-sovereign tools for managing permissions across teams and vendors.
+Personal data vaults giving athletes control over who accesses their performance metrics
 
 ## Description
 

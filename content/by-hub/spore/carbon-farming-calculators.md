@@ -2,7 +2,8 @@
 slug: carbon-farming-calculators
 hub: spore
 title: Carbon Farming Calculators
-summary: Tools quantifying soil carbon gains for crediting.
+summary: Platforms that model soil carbon sequestration to generate credit-eligible
+  reports
 permalink: https://www.envisioning.com/spore/carbon-farming-calculators
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095848/spore
 
 ## Summary
 
-Tools quantifying soil carbon gains for crediting.
+Platforms that model soil carbon sequestration to generate credit-eligible reports
 
 ## Description
 

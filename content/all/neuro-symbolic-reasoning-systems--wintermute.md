@@ -2,7 +2,8 @@
 slug: neuro-symbolic-reasoning-systems
 hub: wintermute
 title: Neuro-Symbolic Reasoning Systems
-summary: Hybrid architectures combining neural perception with symbolic logic.
+summary: Combines neural networks for perception with symbolic logic engines for reasoning
+  and planning
 permalink: https://www.envisioning.com/wintermute/neuro-symbolic-reasoning-systems
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985465/winte
 
 ## Summary
 
-Hybrid architectures combining neural perception with symbolic logic.
+Combines neural networks for perception with symbolic logic engines for reasoning and planning
 
 ## Description
 

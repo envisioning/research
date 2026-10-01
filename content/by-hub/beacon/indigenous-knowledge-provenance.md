@@ -2,7 +2,8 @@
 slug: indigenous-knowledge-provenance
 hub: beacon
 title: Indigenous Knowledge Provenance Systems
-summary: Protecting cultural heritage from misappropriation.
+summary: Tracking and protecting the origin and proper use of traditional indigenous
+  knowledge
 permalink: https://www.envisioning.com/beacon/indigenous-knowledge-provenance
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125038/beaco
 
 ## Summary
 
-Protecting cultural heritage from misappropriation.
+Tracking and protecting the origin and proper use of traditional indigenous knowledge
 
 ## Description
 

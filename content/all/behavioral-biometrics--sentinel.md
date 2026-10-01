@@ -2,7 +2,8 @@
 slug: behavioral-biometrics
 hub: sentinel
 title: Behavioral Biometrics Engines
-summary: Continuous authentication via keystroke dynamics, gait, and interaction patterns.
+summary: Authenticates users by analyzing typing rhythm, mouse patterns, gait, and
+  device interaction habits
 permalink: https://www.envisioning.com/sentinel/behavioral-biometrics
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461555/senti
 
 ## Summary
 
-Continuous authentication via keystroke dynamics, gait, and interaction patterns.
+Authenticates users by analyzing typing rhythm, mouse patterns, gait, and device interaction habits
 
 ## Description
 

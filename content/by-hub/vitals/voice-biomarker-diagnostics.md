@@ -2,8 +2,8 @@
 slug: voice-biomarker-diagnostics
 hub: vitals
 title: Voice Biomarker Diagnostics
-summary: AI models that analyze vocal features to detect respiratory, neurological,
-  and cardiovascular conditions.
+summary: AI analysis of vocal patterns to detect respiratory, neurological, and cardiovascular
+  diseases
 permalink: https://www.envisioning.com/vitals/voice-biomarker-diagnostics
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462077/vital
 
 ## Summary
 
-AI models that analyze vocal features to detect respiratory, neurological, and cardiovascular conditions.
+AI analysis of vocal patterns to detect respiratory, neurological, and cardiovascular diseases
 
 ## Description
 

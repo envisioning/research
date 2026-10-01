@@ -2,7 +2,8 @@
 slug: indigenous-spatial-protocols
 hub: liminal
 title: Indigenous Spatial Protocols
-summary: Frameworks respecting indigenous knowledge and sacred sites.
+summary: Frameworks ensuring spatial computing respects indigenous sovereignty over
+  cultural heritage and sacred sites
 permalink: https://www.envisioning.com/liminal/indigenous-spatial-protocols
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125619/limin
 
 ## Summary
 
-Frameworks respecting indigenous knowledge and sacred sites.
+Frameworks ensuring spatial computing respects indigenous sovereignty over cultural heritage and sacred sites
 
 ## Description
 

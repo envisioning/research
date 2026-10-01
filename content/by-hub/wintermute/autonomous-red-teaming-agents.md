@@ -2,7 +2,8 @@
 slug: autonomous-red-teaming-agents
 hub: wintermute
 title: Autonomous Red-Teaming Agents
-summary: Adversarial agents probing systems for vulnerabilities and misalignment.
+summary: AI systems that probe other AI for vulnerabilities, misalignment, and failure
+  modes
 permalink: https://www.envisioning.com/wintermute/autonomous-red-teaming-agents
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079493/winte
 
 ## Summary
 
-Adversarial agents probing systems for vulnerabilities and misalignment.
+AI systems that probe other AI for vulnerabilities, misalignment, and failure modes
 
 ## Description
 

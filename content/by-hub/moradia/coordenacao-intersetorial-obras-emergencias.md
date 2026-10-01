@@ -2,8 +2,8 @@
 slug: coordenacao-intersetorial-obras-emergencias
 hub: moradia
 title: Coordenação Intersetorial
-summary: Governança entre operadores para evitar danos a redes e acelerar resposta
-  a crises.
+summary: Governança integrada de infraestruturas urbanas para reduzir danos e acelerar
+  respostas a crises
 permalink: https://www.envisioning.com/moradia/coordenacao-intersetorial-obras-emergencias
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584903/habit
 
 ## Summary
 
-Governança entre operadores para evitar danos a redes e acelerar resposta a crises.
+Governança integrada de infraestruturas urbanas para reduzir danos e acelerar respostas a crises
 
 ## Description
 

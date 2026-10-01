@@ -2,8 +2,8 @@
 slug: continuous-monitoring-wearables
 hub: vitals
 title: Continuous Monitoring Wearables
-summary: Networked biosensor patches and wearables for real-time patient monitoring
-  inside and outside the hospital.
+summary: Biosensor patches and wearables that track vital signs continuously in real
+  time
 permalink: https://www.envisioning.com/vitals/continuous-monitoring-wearables
 collection: hardware
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463945/vital
 
 ## Summary
 
-Networked biosensor patches and wearables for real-time patient monitoring inside and outside the hospital.
+Biosensor patches and wearables that track vital signs continuously in real time
 
 ## Description
 

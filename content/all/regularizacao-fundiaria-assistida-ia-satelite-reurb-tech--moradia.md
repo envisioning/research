@@ -2,10 +2,8 @@
 slug: regularizacao-fundiaria-assistida-ia-satelite-reurb-tech
 hub: moradia
 title: Regularização Fundiária Assistida por IA e Satélite (Reurb-Tech)
-summary: Uso de inteligência artificial e imagens de satélite para acelerar processos
-  de REURB (Regularização Fundiária Urbana), reduzindo tempo de titulação de décadas
-  para meses através de análise automatizada de ocupação, mapeamento de lotes e geração
-  de documentação.
+summary: Acelera titulação de terras urbanas usando IA e satélite para mapear ocupações
+  e gerar documentação
 permalink: https://www.envisioning.com/moradia/regularizacao-fundiaria-assistida-ia-satelite-reurb-tech
 collection: plataformas-dados
 trl: 2
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766784013/morad
 
 ## Summary
 
-Uso de inteligência artificial e imagens de satélite para acelerar processos de REURB (Regularização Fundiária Urbana), reduzindo tempo de titulação de décadas para meses através de análise automatizada de ocupação, mapeamento de lotes e geração de documentação.
+Acelera titulação de terras urbanas usando IA e satélite para mapear ocupações e gerar documentação
 
 ## Description
 

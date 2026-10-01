@@ -2,9 +2,10 @@
 slug: microbiome-engineering
 hub: horizons
 title: Microbiome Engineering
-summary: Designing microbial communities for health and environmental benefits.
+summary: Designing and manipulating microbial communities to improve health, agriculture,
+  and ecosystems
 permalink: https://www.envisioning.com/horizons/microbiome-engineering
-collection: life-health
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526973/horiz
 
 ## Summary
 
-Designing microbial communities for health and environmental benefits.
+Designing and manipulating microbial communities to improve health, agriculture, and ecosystems
 
 ## Description
 

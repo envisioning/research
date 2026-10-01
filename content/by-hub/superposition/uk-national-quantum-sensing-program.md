@@ -2,7 +2,8 @@
 slug: uk-national-quantum-sensing-program
 hub: superposition
 title: UK Quantum Sensing Program
-summary: Nationwide initiative deploying quantum sensors for infrastructure and defense.
+summary: Nationwide deployment of quantum gravimeters, magnetometers, and atomic clocks
+  for UK infrastructure and defense
 permalink: https://www.envisioning.com/superposition/uk-national-quantum-sensing-program
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181201/super
 
 ## Summary
 
-Nationwide initiative deploying quantum sensors for infrastructure and defense.
+Nationwide deployment of quantum gravimeters, magnetometers, and atomic clocks for UK infrastructure and defense
 
 ## Description
 

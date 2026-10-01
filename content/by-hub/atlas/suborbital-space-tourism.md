@@ -2,7 +2,7 @@
 slug: suborbital-space-tourism
 hub: atlas
 title: Suborbital Space Tourism
-summary: Commercial spacecraft offering edge-of-space experiences.
+summary: Commercial flights reaching the edge of space for brief microgravity experiences
 permalink: https://www.envisioning.com/atlas/suborbital-space-tourism
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125494/atlas
 
 ## Summary
 
-Commercial spacecraft offering edge-of-space experiences.
+Commercial flights reaching the edge of space for brief microgravity experiences
 
 ## Description
 

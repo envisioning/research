@@ -2,7 +2,7 @@
 slug: telepresence-robotic-colleagues
 hub: synapse
 title: Telepresence Robotic Colleagues
-summary: Mobile robots that embody remote workers in physical workplaces.
+summary: Mobile robots that give remote workers a physical presence in the office
 permalink: https://www.envisioning.com/synapse/telepresence-robotic-colleagues
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126448/synap
 
 ## Summary
 
-Mobile robots that embody remote workers in physical workplaces.
+Mobile robots that give remote workers a physical presence in the office
 
 ## Description
 

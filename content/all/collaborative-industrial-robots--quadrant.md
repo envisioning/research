@@ -2,7 +2,8 @@
 slug: collaborative-industrial-robots
 hub: quadrant
 title: Collaborative Industrial Robots
-summary: Force-limited robots designed to safely share space with humans.
+summary: Force-sensing robots that work safely alongside human operators without safety
+  cages
 permalink: https://www.envisioning.com/quadrant/collaborative-industrial-robots
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126398/quadr
 
 ## Summary
 
-Force-limited robots designed to safely share space with humans.
+Force-sensing robots that work safely alongside human operators without safety cages
 
 ## Description
 

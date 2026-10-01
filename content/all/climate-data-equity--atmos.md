@@ -2,7 +2,8 @@
 slug: climate-data-equity
 hub: atmos
 title: Climate Data Equity
-summary: Open access to risk datasets for vulnerable communities.
+summary: Open climate risk data and tools for frontline communities to plan adaptation
+  and hold polluters accountable
 permalink: https://www.envisioning.com/atmos/climate-data-equity
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010142/atmos
 
 ## Summary
 
-Open access to risk datasets for vulnerable communities.
+Open climate risk data and tools for frontline communities to plan adaptation and hold polluters accountable
 
 ## Description
 

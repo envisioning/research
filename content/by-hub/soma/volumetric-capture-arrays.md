@@ -2,7 +2,8 @@
 slug: volumetric-capture-arrays
 hub: soma
 title: Volumetric Capture Arrays
-summary: Multi-camera depth rigs for real-time capture of full-body motion and expression.
+summary: Synchronized camera rigs that capture full 3D human performance from all
+  angles
 permalink: https://www.envisioning.com/soma/volumetric-capture-arrays
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133813/soma/
 
 ## Summary
 
-Multi-camera depth rigs for real-time capture of full-body motion and expression.
+Synchronized camera rigs that capture full 3D human performance from all angles
 
 ## Description
 

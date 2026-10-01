@@ -2,7 +2,7 @@
 slug: silent-speech-interfaces
 hub: cortex
 title: Silent Speech Interfaces
-summary: Decoding internal monologue for voiceless communication.
+summary: Translates imagined speech into text or audio without vocalization
 permalink: https://www.envisioning.com/cortex/silent-speech-interfaces
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995583/corte
 
 ## Summary
 
-Decoding internal monologue for voiceless communication.
+Translates imagined speech into text or audio without vocalization
 
 ## Description
 

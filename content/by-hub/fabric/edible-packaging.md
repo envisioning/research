@@ -2,19 +2,21 @@
 slug: edible-packaging
 hub: fabric
 title: Edible Packaging
-summary: Biodegradable packaging materials that can be consumed or composted.
+summary: Consumable or compostable packaging made from food-safe biopolymers to reduce
+  plastic waste
 permalink: https://www.envisioning.com/fabric/edible-packaging
 collection: applications
 trl: 7
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897952/fabric/technologies/9e9c8489-5566-4264-8aa1-1546db088200-google-gemini-3.1-flash-image-preview-65otj8.png
 ---
 
 # Edible Packaging
 
 ## Summary
 
-Biodegradable packaging materials that can be consumed or composted.
+Consumable or compostable packaging made from food-safe biopolymers to reduce plastic waste
 
 ## Description
 

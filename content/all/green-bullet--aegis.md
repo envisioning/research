@@ -2,19 +2,21 @@
 slug: green-bullet
 hub: aegis
 title: Green Bullet
-summary: Environment-friendly ammunition; reduced lead and toxins.
+summary: Lead-free ammunition designed to reduce environmental contamination and health
+  risks
 permalink: https://www.envisioning.com/aegis/green-bullet
 collection: applications
 trl: 6
 impact: 3
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962803/aegis/technologies/green-bullet-z4i9uu.png
 ---
 
 # Green Bullet
 
 ## Summary
 
-Environment-friendly ammunition; reduced lead and toxins.
+Lead-free ammunition designed to reduce environmental contamination and health risks
 
 ## Description
 

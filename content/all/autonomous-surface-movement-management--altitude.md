@@ -2,7 +2,8 @@
 slug: autonomous-surface-movement-management
 hub: altitude
 title: Autonomous Surface Movement & A-SMGCS
-summary: Advanced surface surveillance and guidance to reduce incursions and delays.
+summary: Automated systems that guide aircraft and vehicles on airport surfaces to
+  prevent runway incursions
 permalink: https://www.envisioning.com/altitude/autonomous-surface-movement-management
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643170/altit
 
 ## Summary
 
-Advanced surface surveillance and guidance to reduce incursions and delays.
+Automated systems that guide aircraft and vehicles on airport surfaces to prevent runway incursions
 
 ## Description
 

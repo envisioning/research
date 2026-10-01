@@ -2,8 +2,8 @@
 slug: ai-medical-imaging-diagnostics
 hub: datatrends
 title: AI Medical Imaging Diagnostics
-summary: Using AI to analyze medical images for disease detection, diagnosis, and
-  treatment planning, improving accuracy and efficiency in healthcare.
+summary: Machine learning systems that analyze medical scans to detect diseases and
+  assist radiologists
 permalink: https://www.envisioning.com/datatrends/ai-medical-imaging-diagnostics
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769412/datat
 
 ## Summary
 
-Using AI to analyze medical images for disease detection, diagnosis, and treatment planning, improving accuracy and efficiency in healthcare.
+Machine learning systems that analyze medical scans to detect diseases and assist radiologists
 
 ## Description
 

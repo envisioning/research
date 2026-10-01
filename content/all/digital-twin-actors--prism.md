@@ -2,8 +2,7 @@
 slug: digital-twin-actors
 hub: prism
 title: Digital Twin Actors
-summary: Licensed, high-fidelity digital replicas of performers for infinite content
-  production.
+summary: Photoreal performer avatars licensed for film, games, and virtual productions
 permalink: https://www.envisioning.com/prism/digital-twin-actors
 collection: applications
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074501/pulse
 
 ## Summary
 
-Licensed, high-fidelity digital replicas of performers for infinite content production.
+Photoreal performer avatars licensed for film, games, and virtual productions
 
 ## Description
 

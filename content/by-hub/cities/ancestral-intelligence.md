@@ -2,14 +2,10 @@
 slug: ancestral-intelligence
 hub: cities
 title: Ancestral Intelligence
-summary: 'This solution requires collaborative efforts with Indigenous communities
-  and integrate ancestral knowledge, insights, and lived experiences into modern living.
-  By leveraging centuries-old practices and ecological knowledge, this solution offers
-  sustainable resource management techniques, disaster resilience strategies, and
-  inclusive community planning. These methods are combined with modern technologies
-  like AI and GIS to enhance their applicability and efficiency in urban settings. '
+summary: Integrating Indigenous knowledge and traditional practices with modern urban
+  planning tools
 permalink: https://www.envisioning.com/cities/ancestral-intelligence
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: applications
 trl: 8
 impact: 2
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719309230-ancestral-intelligen
 
 ## Summary
 
-This solution requires collaborative efforts with Indigenous communities and integrate ancestral knowledge, insights, and lived experiences into modern living. By leveraging centuries-old practices and ecological knowledge, this solution offers sustainable resource management techniques, disaster resilience strategies, and inclusive community planning. These methods are combined with modern technologies like AI and GIS to enhance their applicability and efficiency in urban settings.
+Integrating Indigenous knowledge and traditional practices with modern urban planning tools
 
 ## Description
 

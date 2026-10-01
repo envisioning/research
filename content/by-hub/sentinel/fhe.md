@@ -2,7 +2,7 @@
 slug: fhe
 hub: sentinel
 title: Fully Homomorphic Encryption
-summary: Computation on encrypted data yielding encrypted results.
+summary: Performs computations on encrypted data without ever decrypting it
 permalink: https://www.envisioning.com/sentinel/fhe
 collection: software
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463129/senti
 
 ## Summary
 
-Computation on encrypted data yielding encrypted results.
+Performs computations on encrypted data without ever decrypting it
 
 ## Description
 

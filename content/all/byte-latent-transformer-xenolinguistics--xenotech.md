@@ -2,21 +2,21 @@
 slug: byte-latent-transformer-xenolinguistics
 hub: xenotech
 title: Symbol Decoding
-summary: Claimed AI/ML systems using byte-latent transformers to decode exotic non-human
-  symbolic languages and craft inscriptions.
+summary: Machine learning applied to decode alleged non-human symbolic systems from
+  recovered artifacts
 permalink: https://www.envisioning.com/xenotech/byte-latent-transformer-xenolinguistics
 collection: defense-surveillance
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760874046/xenotech/technologies/byte-latent-transformer-xenolinguistics.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903237/xenotech/technologies/byte-latent-transformer-xenolinguistics-openrouter-google-gemini-3.1-flash-image-preview-ol0una.png
 ---
 
 # Symbol Decoding
 
 ## Summary
 
-Claimed AI/ML systems using byte-latent transformers to decode exotic non-human symbolic languages and craft inscriptions.
+Machine learning applied to decode alleged non-human symbolic systems from recovered artifacts
 
 ## Description
 

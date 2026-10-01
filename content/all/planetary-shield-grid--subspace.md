@@ -2,20 +2,21 @@
 slug: planetary-shield-grid
 hub: subspace
 title: Planetary Shield Grid
-summary: Surface and orbital emitters generate a global defensive envelope.
+summary: Networked emitters create an integrated energy barrier to protect entire
+  planets from attack
 permalink: https://www.envisioning.com/subspace/planetary-shield-grid
 collection: defense
 trl: 4
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760262212/subspaceindex/technologies/planetary-shield-grid.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908677/subspace/technologies/planetary-shield-grid-openrouter-google-gemini-3.1-flash-image-preview-zn2ahr.png
 ---
 
 # Planetary Shield Grid
 
 ## Summary
 
-Surface and orbital emitters generate a global defensive envelope.
+Networked emitters create an integrated energy barrier to protect entire planets from attack
 
 ## Description
 

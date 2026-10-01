@@ -2,7 +2,8 @@
 slug: zk-identity
 hub: vault
 title: Zero-Knowledge Identity & Credentials
-summary: Privacy-preserving verification without data exposure.
+summary: Cryptographic verification of identity attributes without revealing underlying
+  personal data
 permalink: https://www.envisioning.com/vault/zk-identity
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129236/vault
 
 ## Summary
 
-Privacy-preserving verification without data exposure.
+Cryptographic verification of identity attributes without revealing underlying personal data
 
 ## Description
 

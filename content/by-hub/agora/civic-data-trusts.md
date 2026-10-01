@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 5
 impact: 4
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889422/agora/technologies/7e5d8b53-2d2c-4d05-ae65-cd3f6387a300-google-gemini-3.1-flash-image-preview-hx8abr.jpg
 ---
 
 # Civic Data Trusts

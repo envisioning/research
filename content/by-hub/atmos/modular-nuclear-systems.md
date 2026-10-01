@@ -2,7 +2,7 @@
 slug: modular-nuclear-systems
 hub: atmos
 title: Modular Nuclear Systems
-summary: Factory-built SMRs and microreactors for resilient baseload power.
+summary: Factory-built reactors in 1–300 MW modules for baseload and remote power
 permalink: https://www.envisioning.com/atmos/modular-nuclear-systems
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990513/atmos
 
 ## Summary
 
-Factory-built SMRs and microreactors for resilient baseload power.
+Factory-built reactors in 1–300 MW modules for baseload and remote power
 
 ## Description
 

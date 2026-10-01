@@ -3,7 +3,6 @@ slug: philanthropy-underwriting-public-infrastructure
 hub: agape
 title: Philanthropy Underwriting Public Infrastructure
 summary: Philanthropy underwriting public infrastructure and risk, as private capital
-  steps in where public resources fall short.
 permalink: https://www.envisioning.com/agape/philanthropy-underwriting-public-infrastructure
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371729/agape
 
 ## Summary
 
-Philanthropy underwriting public infrastructure and risk, as private capital steps in where public resources fall short.
+Philanthropy underwriting public infrastructure and risk, as private capital
 
 ## Description
 

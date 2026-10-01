@@ -2,20 +2,20 @@
 slug: sonic-shower
 hub: subspace
 title: Sonic Shower
-summary: Hygiene system using focused sonic waves for cleaning instead of water.
+summary: Hygiene system using ultrasonic frequencies to clean skin without water
 permalink: https://www.envisioning.com/subspace/sonic-shower
 collection: engineering
 trl: 5
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760217415/subspaceindex/technologies/sonic-shower.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908953/subspace/technologies/sonic-shower-openrouter-google-gemini-3.1-flash-image-preview-sik1yp.png
 ---
 
 # Sonic Shower
 
 ## Summary
 
-Hygiene system using focused sonic waves for cleaning instead of water.
+Hygiene system using ultrasonic frequencies to clean skin without water
 
 ## Description
 

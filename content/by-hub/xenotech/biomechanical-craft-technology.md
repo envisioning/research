@@ -2,21 +2,21 @@
 slug: biomechanical-craft-technology
 hub: xenotech
 title: Living Craft
-summary: Alleged spacecraft integrating biological and technological components—semi-organic,
-  self-repairing, or consciousness-interfaced vehicles.
+summary: Vehicles blending biological and technological systems with self-repair and
+  consciousness interfaces
 permalink: https://www.envisioning.com/xenotech/biomechanical-craft-technology
 collection: materials-structures
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760876684/xenotech/technologies/gray-entity-biotech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898586/xenotech/technologies/biomechanical-craft-technology-openrouter-google-gemini-3.1-flash-image-preview-a4o1nq.png
 ---
 
 # Living Craft
 
 ## Summary
 
-Alleged spacecraft integrating biological and technological components—semi-organic, self-repairing, or consciousness-interfaced vehicles.
+Vehicles blending biological and technological systems with self-repair and consciousness interfaces
 
 ## Description
 

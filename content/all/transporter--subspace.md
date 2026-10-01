@@ -2,21 +2,21 @@
 slug: transporter
 hub: subspace
 title: Transporter
-summary: Matter-energy conversion system capable of dematerializing and rematerializing
-  objects across distances.
+summary: Quantum-level scanning and matter-energy conversion for instantaneous object
+  relocation
 permalink: https://www.envisioning.com/subspace/transporter
 collection: propulsion
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760258382/subspaceindex/technologies/transporter.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909246/subspace/technologies/transporter-openrouter-google-gemini-3.1-flash-image-preview-nvt9tq.png
 ---
 
 # Transporter
 
 ## Summary
 
-Matter-energy conversion system capable of dematerializing and rematerializing objects across distances.
+Quantum-level scanning and matter-energy conversion for instantaneous object relocation
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: surveillance-privacy-liberties
 hub: aegis
 title: Surveillance, Privacy, and Civil Liberties
-summary: Constraints on persistent monitoring to prevent misuse.
+summary: Frameworks balancing advanced monitoring capabilities with privacy rights
+  and civil protections
 permalink: https://www.envisioning.com/aegis/surveillance-privacy-liberties
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179887/aegis
 
 ## Summary
 
-Constraints on persistent monitoring to prevent misuse.
+Frameworks balancing advanced monitoring capabilities with privacy rights and civil protections
 
 ## Description
 

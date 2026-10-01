@@ -2,21 +2,21 @@
 slug: tachyon-detection-grid
 hub: subspace
 title: Tachyon Detection Grid
-summary: Network of sensors detecting faster-than-light tachyon particles to reveal
-  cloaked vessels.
+summary: Sensor network using hypothetical faster-than-light particles to detect cloaked
+  spacecraft
 permalink: https://www.envisioning.com/subspace/tachyon-detection-grid
 collection: sensors
 trl: 4
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216042/subspaceindex/technologies/tachyon-detection-grid.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909125/subspace/technologies/tachyon-detection-grid-openrouter-google-gemini-3.1-flash-image-preview-55dtdr.png
 ---
 
 # Tachyon Detection Grid
 
 ## Summary
 
-Network of sensors detecting faster-than-light tachyon particles to reveal cloaked vessels.
+Sensor network using hypothetical faster-than-light particles to detect cloaked spacecraft
 
 ## Description
 

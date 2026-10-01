@@ -2,23 +2,21 @@
 slug: uap-metallic-skin
 hub: xenotech
 title: Adaptive Metallic Hull Systems
-summary: Advanced metallic skin technologies observed on UAP craft exhibiting extraordinary
-  material properties—ultra-high strength, electromagnetic manipulation, self-repair,
-  and active field integration—representing convergence of metallurgy, metamaterials,
-  and field physics.
+summary: Metallic surfaces with seamless construction, electromagnetic properties,
+  and self-repair observed on unidentified craft
 permalink: https://www.envisioning.com/xenotech/uap-metallic-skin
 collection: materials-structures
 trl: 4
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761920190/xenotech/technologies/uap-metallic-skin-openai-gpt-5-kwk2us.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772894688/xenotech/technologies/uap-metallic-skin-openrouter-google-gemini-3.1-flash-image-preview-yg59m2.png
 ---
 
 # Adaptive Metallic Hull Systems
 
 ## Summary
 
-Advanced metallic skin technologies observed on UAP craft exhibiting extraordinary material properties—ultra-high strength, electromagnetic manipulation, self-repair, and active field integration—representing convergence of metallurgy, metamaterials, and field physics.
+Metallic surfaces with seamless construction, electromagnetic properties, and self-repair observed on unidentified craft
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: affective-field-modulation-arrays
 hub: xenotech
 title: Emotion Modulation
-summary: Alleged environmental systems for instantaneous emotional state manipulation
-  through bioelectromagnetic, acoustic, and spectral field modulation.
+summary: Environmental systems claimed to shift emotional states through bioelectromagnetic
+  and acoustic fields
 permalink: https://www.envisioning.com/xenotech/affective-field-modulation-arrays
 collection: consciousness-interface
 trl: 3
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760946929/xenotech/technologies/affective-field-modulation-arrays.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898233/xenotech/technologies/affective-field-modulation-arrays-openrouter-google-gemini-3.1-flash-image-preview-l24hle.png
 ---
 
 # Emotion Modulation
 
 ## Summary
 
-Alleged environmental systems for instantaneous emotional state manipulation through bioelectromagnetic, acoustic, and spectral field modulation.
+Environmental systems claimed to shift emotional states through bioelectromagnetic and acoustic fields
 
 ## Description
 

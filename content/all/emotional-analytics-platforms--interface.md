@@ -2,16 +2,13 @@
 slug: emotional-analytics-platforms
 hub: interface
 title: Emotional Analytics Platforms
-summary: Europe's leader in emotional and predictive analytics, ethical AI certified,
-  uncovering weak signals and behaviors to empower smarter, human-centered decisions.
-  Includes camera-based in-cabin analysis software for vehicles analyzing human characteristics
-  and actions in real-time, enabling driver monitoring, occupant safety, and user
-  experience capabilities.
+summary: AI systems that detect human emotions and behaviors from facial expressions,
+  voice, and body language
 permalink: https://www.envisioning.com/interface/emotional-analytics-platforms
-collection: spatial-computing-immersive
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730750/interface/technologies/emotional-analytics-platforms-google-gemini-3-pro-image-preview-9qge7u.png
 ---
 
@@ -19,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730750/inter
 
 ## Summary
 
-Europe's leader in emotional and predictive analytics, ethical AI certified, uncovering weak signals and behaviors to empower smarter, human-centered decisions. Includes camera-based in-cabin analysis software for vehicles analyzing human characteristics and actions in real-time, enabling driver monitoring, occupant safety, and user experience capabilities.
+AI systems that detect human emotions and behaviors from facial expressions, voice, and body language
 
 ## Description
 

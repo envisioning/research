@@ -2,7 +2,8 @@
 slug: supply-chain-blockchain
 hub: stratum
 title: Supply Chain Blockchain
-summary: Immutable ledgers for ethical sourcing and compliance.
+summary: Distributed ledgers tracking materials from extraction to end use, ensuring
+  transparency and compliance
 permalink: https://www.envisioning.com/stratum/supply-chain-blockchain
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435027/strat
 
 ## Summary
 
-Immutable ledgers for ethical sourcing and compliance.
+Distributed ledgers tracking materials from extraction to end use, ensuring transparency and compliance
 
 ## Description
 

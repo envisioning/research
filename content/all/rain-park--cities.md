@@ -2,14 +2,10 @@
 slug: rain-park
 hub: cities
 title: Rain Park
-summary: This green infrastructure solution is designed to address urban stormwater
-  management challenges. It offers a green space for the community while also mitigating
-  flooding, reducing water pollution, and enhancing urban resilience by capturing,
-  managing, and utilising stormwater runoff. This landscaped area consists of permeable
-  soil layers and native vegetation that filter pollutants, promote groundwater recharge,
-  and slow down water flow during heavy rainfall.
+summary: Landscaped urban spaces that capture and filter stormwater to prevent flooding
+  and recharge groundwater
 permalink: https://www.envisioning.com/cities/rain-park
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719231163-rain-park.png
 
 ## Summary
 
-This green infrastructure solution is designed to address urban stormwater management challenges. It offers a green space for the community while also mitigating flooding, reducing water pollution, and enhancing urban resilience by capturing, managing, and utilising stormwater runoff. This landscaped area consists of permeable soil layers and native vegetation that filter pollutants, promote groundwater recharge, and slow down water flow during heavy rainfall.
+Landscaped urban spaces that capture and filter stormwater to prevent flooding and recharge groundwater
 
 ## Description
 

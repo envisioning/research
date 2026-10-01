@@ -2,8 +2,8 @@
 slug: bms-iot-predial-integrado
 hub: moradia
 title: BMS/IoT Predial Integrado
-summary: Sistemas de automação predial e IoT para monitoramento de ocupação, ambiente,
-  energia e manutenção preditiva, desde soluções acessíveis até plataformas integradas.
+summary: Automação predial com sensores IoT para monitorar ocupação, energia e manutenção
+  em edifícios
 permalink: https://www.envisioning.com/moradia/bms-iot-predial-integrado
 collection: sistemas-prediais-automacao
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328536/habit
 
 ## Summary
 
-Sistemas de automação predial e IoT para monitoramento de ocupação, ambiente, energia e manutenção preditiva, desde soluções acessíveis até plataformas integradas.
+Automação predial com sensores IoT para monitorar ocupação, energia e manutenção em edifícios
 
 ## Description
 

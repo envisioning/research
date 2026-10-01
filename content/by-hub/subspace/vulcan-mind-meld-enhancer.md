@@ -2,21 +2,21 @@
 slug: vulcan-mind-meld-enhancer
 hub: subspace
 title: Mind Meld Enhancers
-summary: Devices amplifying or stabilizing telepathic connections for long-distance
-  or high-risk melds.
+summary: Devices that amplify or stabilize telepathic connections across distance
+  or during high-risk mental fusion
 permalink: https://www.envisioning.com/subspace/vulcan-mind-meld-enhancer
 collection: biotechnology
 trl: 6
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760268724/subspaceindex/technologies/vulcan-mind-meld-enhancer.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908421/subspace/technologies/vulcan-mind-meld-enhancer-openrouter-google-gemini-3.1-flash-image-preview-w9yt91.png
 ---
 
 # Mind Meld Enhancers
 
 ## Summary
 
-Devices amplifying or stabilizing telepathic connections for long-distance or high-risk melds.
+Devices that amplify or stabilize telepathic connections across distance or during high-risk mental fusion
 
 ## Description
 

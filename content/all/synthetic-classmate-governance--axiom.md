@@ -2,7 +2,7 @@
 slug: synthetic-classmate-governance
 hub: axiom
 title: Governance of Synthetic Classmates
-summary: Norms and rules for AI peers in classrooms and cohorts.
+summary: Rules and norms for AI-powered virtual peers in educational settings
 permalink: https://www.envisioning.com/axiom/synthetic-classmate-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010166/axiom
 
 ## Summary
 
-Norms and rules for AI peers in classrooms and cohorts.
+Rules and norms for AI-powered virtual peers in educational settings
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: culture-sensing-dashboards
 hub: synapse
 title: Culture Sensing Dashboards
-summary: Real-time views into sentiment, norms, and emerging cultural fractures.
+summary: Real-time monitoring of workplace sentiment, communication patterns, and
+  cultural shifts
 permalink: https://www.envisioning.com/synapse/culture-sensing-dashboards
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127135/synap
 
 ## Summary
 
-Real-time views into sentiment, norms, and emerging cultural fractures.
+Real-time monitoring of workplace sentiment, communication patterns, and cultural shifts
 
 ## Description
 

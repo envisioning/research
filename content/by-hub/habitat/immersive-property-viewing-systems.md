@@ -2,8 +2,8 @@
 slug: immersive-property-viewing-systems
 hub: habitat
 title: Immersive Property Viewing Systems
-summary: 360° virtual tours and AR/VR platforms for remote property exploration and
-  interactive room selection.
+summary: 360° virtual tours and AR/VR platforms enabling remote property exploration
+  before lease commitment
 permalink: https://www.envisioning.com/habitat/immersive-property-viewing-systems
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768310228/habit
 
 ## Summary
 
-360° virtual tours and AR/VR platforms for remote property exploration and interactive room selection.
+360° virtual tours and AR/VR platforms enabling remote property exploration before lease commitment
 
 ## Description
 

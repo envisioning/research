@@ -2,7 +2,8 @@
 slug: behavioral-sandbox-simulators
 hub: beacon
 title: Behavioral Sandbox Simulators
-summary: Testbeds for population-level impact of nudges.
+summary: Virtual environments testing how nudges and choice design affect population
+  behavior at scale
 permalink: https://www.envisioning.com/beacon/behavioral-sandbox-simulators
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125667/beaco
 
 ## Summary
 
-Testbeds for population-level impact of nudges.
+Virtual environments testing how nudges and choice design affect population behavior at scale
 
 ## Description
 

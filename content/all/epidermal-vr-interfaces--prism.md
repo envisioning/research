@@ -2,7 +2,8 @@
 slug: epidermal-vr-interfaces
 hub: prism
 title: Epidermal VR Interfaces
-summary: Ultra-thin, stretchable electronic skins providing haptic and thermal feedback.
+summary: Skin-worn electronic patches delivering haptic and thermal feedback for VR
+  experiences
 permalink: https://www.envisioning.com/prism/epidermal-vr-interfaces
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062483/pulse
 
 ## Summary
 
-Ultra-thin, stretchable electronic skins providing haptic and thermal feedback.
+Skin-worn electronic patches delivering haptic and thermal feedback for VR experiences
 
 ## Description
 

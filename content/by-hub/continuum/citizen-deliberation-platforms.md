@@ -2,7 +2,8 @@
 slug: citizen-deliberation-platforms
 hub: continuum
 title: Citizen Deliberation Platforms
-summary: Sortition-based digital assemblies for long-horizon decision-making.
+summary: Random-selection digital assemblies that convene demographically representative
+  citizens for complex policy decisions
 permalink: https://www.envisioning.com/continuum/citizen-deliberation-platforms
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125594/conti
 
 ## Summary
 
-Sortition-based digital assemblies for long-horizon decision-making.
+Random-selection digital assemblies that convene demographically representative citizens for complex policy decisions
 
 ## Description
 

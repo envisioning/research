@@ -2,7 +2,7 @@
 slug: memory-enhancement-protocols
 hub: cortex
 title: Memory Enhancement Protocols
-summary: Electrical stimulation sequences boosting hippocampal encoding.
+summary: Electrical stimulation timed to brain rhythms to strengthen memory formation
 permalink: https://www.envisioning.com/cortex/memory-enhancement-protocols
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073997/corte
 
 ## Summary
 
-Electrical stimulation sequences boosting hippocampal encoding.
+Electrical stimulation timed to brain rhythms to strengthen memory formation
 
 ## Description
 

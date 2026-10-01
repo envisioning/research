@@ -2,7 +2,8 @@
 slug: digital-twin-identity
 hub: sentinel
 title: Digital Twin Identity Frameworks
-summary: Secure identity binding for digital replicas of physical assets.
+summary: Cryptographic binding systems that link physical assets to their virtual
+  replicas
 permalink: https://www.envisioning.com/sentinel/digital-twin-identity
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463908/senti
 
 ## Summary
 
-Secure identity binding for digital replicas of physical assets.
+Cryptographic binding systems that link physical assets to their virtual replicas
 
 ## Description
 

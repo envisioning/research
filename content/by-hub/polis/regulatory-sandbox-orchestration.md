@@ -2,8 +2,8 @@
 slug: regulatory-sandbox-orchestration
 hub: polis
 title: Regulatory Sandbox Orchestration
-summary: Platforms that manage experimentation with new business models under relaxed
-  rules.
+summary: Platforms coordinating controlled tests of new business models under modified
+  regulatory frameworks
 permalink: https://www.envisioning.com/polis/regulatory-sandbox-orchestration
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127181/polis
 
 ## Summary
 
-Platforms that manage experimentation with new business models under relaxed rules.
+Platforms coordinating controlled tests of new business models under modified regulatory frameworks
 
 ## Description
 

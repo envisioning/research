@@ -2,7 +2,8 @@
 slug: uk-ai-ethics-frameworks
 hub: wintermute
 title: UK AI Ethics Frameworks
-summary: Regulatory toolkits emphasizing accountability, transparency, and auditability.
+summary: Regulatory frameworks balancing AI accountability with innovation across
+  UK sectors
 permalink: https://www.envisioning.com/wintermute/uk-ai-ethics-frameworks
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079769/winte
 
 ## Summary
 
-Regulatory toolkits emphasizing accountability, transparency, and auditability.
+Regulatory frameworks balancing AI accountability with innovation across UK sectors
 
 ## Description
 

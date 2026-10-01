@@ -2,8 +2,8 @@
 slug: planetary-observation-constellations
 hub: substrate
 title: Planetary Observation & Climate Constellations
-summary: Dense networks of Earth-observing satellites for infrastructure-aware climate
-  intelligence.
+summary: Coordinated satellite networks monitoring infrastructure and climate systems
+  in near real-time
 permalink: https://www.envisioning.com/substrate/planetary-observation-constellations
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117919/subst
 
 ## Summary
 
-Dense networks of Earth-observing satellites for infrastructure-aware climate intelligence.
+Coordinated satellite networks monitoring infrastructure and climate systems in near real-time
 
 ## Description
 

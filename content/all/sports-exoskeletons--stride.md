@@ -2,7 +2,8 @@
 slug: sports-exoskeletons
 hub: stride
 title: Sports Training Exoskeletons
-summary: Wearable robotic assistance for resisted and assisted movement training.
+summary: Wearable robotic systems that apply variable resistance or assistance during
+  athletic movements
 permalink: https://www.envisioning.com/stride/sports-exoskeletons
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128071/strid
 
 ## Summary
 
-Wearable robotic assistance for resisted and assisted movement training.
+Wearable robotic systems that apply variable resistance or assistance during athletic movements
 
 ## Description
 

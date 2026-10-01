@@ -2,7 +2,8 @@
 slug: regenerative-agriculture-at-scale
 hub: spore
 title: Regenerative Agriculture at Scale
-summary: Perennial crop systems supported by predictive analytics and carbon baselines.
+summary: Farming systems that restore soil health and sequester carbon while maintaining
+  yields
 permalink: https://www.envisioning.com/spore/regenerative-agriculture-at-scale
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179704/spore
 
 ## Summary
 
-Perennial crop systems supported by predictive analytics and carbon baselines.
+Farming systems that restore soil health and sequester carbon while maintaining yields
 
 ## Description
 

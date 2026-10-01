@@ -2,10 +2,8 @@
 slug: retrofit-modernizacao-integrada-edificios-infraestrutura
 hub: moradia
 title: Retrofit e Modernização Integrada de Edifícios e Infraestrutura
-summary: Sistemas integrados de modernização de edifícios e infraestrutura existentes,
-  combinando retrofit energético, adequação estrutural, acessibilidade, envelhecimento
-  populacional e modernização de redes urbanas através de soluções híbridas que estendem
-  vida útil e melhoram desempenho.
+summary: Modernização integrada de edifícios antigos com eficiência energética, segurança
+  estrutural e acessibilidade
 permalink: https://www.envisioning.com/moradia/retrofit-modernizacao-integrada-edificios-infraestrutura
 collection: metodos-execucao-obra
 trl: 4
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359922/habit
 
 ## Summary
 
-Sistemas integrados de modernização de edifícios e infraestrutura existentes, combinando retrofit energético, adequação estrutural, acessibilidade, envelhecimento populacional e modernização de redes urbanas através de soluções híbridas que estendem vida útil e melhoram desempenho.
+Modernização integrada de edifícios antigos com eficiência energética, segurança estrutural e acessibilidade
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cognitive-liberty
 hub: soma
 title: Cognitive Liberty Frameworks
-summary: Standards protecting mental privacy and freedom of thought.
+summary: Legal and technical standards protecting mental privacy and freedom of thought
+  from neural technologies
 permalink: https://www.envisioning.com/soma/cognitive-liberty
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133077/soma/
 
 ## Summary
 
-Standards protecting mental privacy and freedom of thought.
+Legal and technical standards protecting mental privacy and freedom of thought from neural technologies
 
 ## Description
 

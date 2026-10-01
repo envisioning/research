@@ -2,7 +2,7 @@
 slug: spatial-computing-interfaces
 hub: synapse
 title: Spatial Computing Interfaces
-summary: Immersive 3D environments for remote collaboration and data visualization.
+summary: 3D digital environments for manipulating data and collaborating remotely
 permalink: https://www.envisioning.com/synapse/spatial-computing-interfaces
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126353/synap
 
 ## Summary
 
-Immersive 3D environments for remote collaboration and data visualization.
+3D digital environments for manipulating data and collaborating remotely
 
 ## Description
 

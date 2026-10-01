@@ -2,8 +2,8 @@
 slug: data-warehouse-modernization
 hub: datatrends
 title: Data Warehouse Modernization
-summary: Transforming legacy data warehouse architectures to support modern analytics
-  and cloud-native operations.
+summary: Migrating legacy data warehouses to cloud-native architectures for scalable
+  analytics
 permalink: https://www.envisioning.com/datatrends/data-warehouse-modernization
 collection: agile-infrastructure
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373218/datat
 
 ## Summary
 
-Transforming legacy data warehouse architectures to support modern analytics and cloud-native operations.
+Migrating legacy data warehouses to cloud-native architectures for scalable analytics
 
 ## Description
 

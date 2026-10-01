@@ -2,7 +2,8 @@
 slug: high-altitude-pseudo-satellites
 hub: meridian
 title: High-Altitude Pseudo-Satellites (HAPS)
-summary: Stratospheric platforms for persistent coverage.
+summary: Stratospheric platforms providing persistent telecom and surveillance coverage
+  between aircraft and satellites
 permalink: https://www.envisioning.com/meridian/high-altitude-pseudo-satellites
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129128/merid
 
 ## Summary
 
-Stratospheric platforms for persistent coverage.
+Stratospheric platforms providing persistent telecom and surveillance coverage between aircraft and satellites
 
 ## Description
 

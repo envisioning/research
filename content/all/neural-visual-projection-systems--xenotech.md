@@ -2,22 +2,20 @@
 slug: neural-visual-projection-systems
 hub: xenotech
 title: Visual Projection
-summary: Alleged technologies for direct neural visual projection, delivering images
-  and information directly to the mind's eye without external displays, reported in
-  entity encounters alongside emerging neural interface technologies.
+summary: Direct neural projection of images to the mind without external screens
 permalink: https://www.envisioning.com/xenotech/neural-visual-projection-systems
 collection: consciousness-interface
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761403649/xenotech/technologies/neural-visual-projection-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903481/xenotech/technologies/neural-visual-projection-systems-openrouter-google-gemini-3.1-flash-image-preview-c2o969.png
 ---
 
 # Visual Projection
 
 ## Summary
 
-Alleged technologies for direct neural visual projection, delivering images and information directly to the mind's eye without external displays, reported in entity encounters alongside emerging neural interface technologies.
+Direct neural projection of images to the mind without external screens
 
 ## Description
 

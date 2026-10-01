@@ -2,7 +2,8 @@
 slug: collective-memory-protocols
 hub: beacon
 title: Collective Memory Protocols
-summary: Community-based truth and historical record keeping.
+summary: Distributed systems for communities to preserve and verify their own historical
+  records
 permalink: https://www.envisioning.com/beacon/collective-memory-protocols
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125431/beaco
 
 ## Summary
 
-Community-based truth and historical record keeping.
+Distributed systems for communities to preserve and verify their own historical records
 
 ## Description
 

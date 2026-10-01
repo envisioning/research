@@ -2,7 +2,8 @@
 slug: zkps
 hub: sentinel
 title: Zero-Knowledge Proofs
-summary: Cryptographic protocols proving knowledge without revealing underlying data.
+summary: Cryptographic protocols that verify claims without exposing the underlying
+  data
 permalink: https://www.envisioning.com/sentinel/zkps
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461769/senti
 
 ## Summary
 
-Cryptographic protocols proving knowledge without revealing underlying data.
+Cryptographic protocols that verify claims without exposing the underlying data
 
 ## Description
 

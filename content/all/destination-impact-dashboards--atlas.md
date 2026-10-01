@@ -2,8 +2,8 @@
 slug: destination-impact-dashboards
 hub: atlas
 title: Destination Impact Dashboards
-summary: Public dashboards visualizing tourism’s social, economic, and ecological
-  footprints.
+summary: Public dashboards visualizing tourism's social, economic, and environmental
+  effects on destinations
 permalink: https://www.envisioning.com/atlas/destination-impact-dashboards
 collection: ethics-security
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221233/atlas
 
 ## Summary
 
-Public dashboards visualizing tourism’s social, economic, and ecological footprints.
+Public dashboards visualizing tourism's social, economic, and environmental effects on destinations
 
 ## Description
 

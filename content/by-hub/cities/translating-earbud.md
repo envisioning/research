@@ -2,16 +2,9 @@
 slug: translating-earbud
 hub: cities
 title: Translating Earbud
-summary: Help bridge the linguistic divide that can hinder effective interaction in
-  multicultural urban settings. These earbuds function by providing real-time translation
-  of spoken language, enabling seamless communication between individuals who speak
-  different languages. By facilitating better communication, translating earbuds promote
-  inclusivity and social integration, allowing diverse populations to engage more
-  fully in their communities. This is particularly important in urban contexts where
-  diverse linguistic backgrounds are common and can often lead to social and economic
-  barriers.
+summary: Real-time language translation via wireless earbuds for multilingual communication
 permalink: https://www.envisioning.com/cities/translating-earbud
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 9
 impact: 3
 investment: 2
@@ -22,7 +15,7 @@ image_url: https://www.datocms-assets.com/134194/1718792949-translating-earbud.p
 
 ## Summary
 
-Help bridge the linguistic divide that can hinder effective interaction in multicultural urban settings. These earbuds function by providing real-time translation of spoken language, enabling seamless communication between individuals who speak different languages. By facilitating better communication, translating earbuds promote inclusivity and social integration, allowing diverse populations to engage more fully in their communities. This is particularly important in urban contexts where diverse linguistic backgrounds are common and can often lead to social and economic barriers.
+Real-time language translation via wireless earbuds for multilingual communication
 
 ## Description
 

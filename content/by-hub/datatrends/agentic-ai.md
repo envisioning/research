@@ -2,7 +2,8 @@
 slug: agentic-ai
 hub: datatrends
 title: Agentic AI
-summary: Autonomous systems capable of planning and coordinating multi-step goals.
+summary: AI systems that autonomously plan, reason, and execute multi-step tasks with
+  minimal human input
 permalink: https://www.envisioning.com/datatrends/agentic-ai
 collection: decision-intelligence-ai
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373556/datat
 
 ## Summary
 
-Autonomous systems capable of planning and coordinating multi-step goals.
+AI systems that autonomously plan, reason, and execute multi-step tasks with minimal human input
 
 ## Description
 

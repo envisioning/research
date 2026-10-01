@@ -2,7 +2,8 @@
 slug: biometric-access-control
 hub: aegis
 title: Biometric Access Control
-summary: Multi-factor base access using iris, gait, and behavioral biometrics.
+summary: Multi-layered identity verification using iris, fingerprint, gait, and behavioral
+  patterns
 permalink: https://www.envisioning.com/aegis/biometric-access-control
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764161894/aegis
 
 ## Summary
 
-Multi-factor base access using iris, gait, and behavioral biometrics.
+Multi-layered identity verification using iris, fingerprint, gait, and behavioral patterns
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: poly-network-managers
 hub: eros
 title: Polyamory & Networked Relationship Managers
-summary: Coordination tools for people maintaining multiple romantic relationships.
+summary: Digital platforms coordinating schedules, boundaries, and communication across
+  multiple romantic partners
 permalink: https://www.envisioning.com/eros/poly-network-managers
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125431/eros/
 
 ## Summary
 
-Coordination tools for people maintaining multiple romantic relationships.
+Digital platforms coordinating schedules, boundaries, and communication across multiple romantic partners
 
 ## Description
 

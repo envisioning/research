@@ -2,7 +2,7 @@
 slug: free-space-optical-backhaul
 hub: link
 title: Free-Space Optical Backhaul
-summary: Laser-based wireless links for high-capacity backhaul without fiber.
+summary: Laser beams transmitting multi-gigabit data through air between fixed points
 permalink: https://www.envisioning.com/link/free-space-optical-backhaul
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182512/link/
 
 ## Summary
 
-Laser-based wireless links for high-capacity backhaul without fiber.
+Laser beams transmitting multi-gigabit data through air between fixed points
 
 ## Description
 

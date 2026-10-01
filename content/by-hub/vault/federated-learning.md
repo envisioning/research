@@ -2,7 +2,8 @@
 slug: federated-learning
 hub: vault
 title: Federated Learning for Financial Risk
-summary: Privacy-preserving collaborative AI training.
+summary: Training AI risk models across institutions without sharing raw customer
+  data
 permalink: https://www.envisioning.com/vault/federated-learning
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765130998/vault
 
 ## Summary
 
-Privacy-preserving collaborative AI training.
+Training AI risk models across institutions without sharing raw customer data
 
 ## Description
 

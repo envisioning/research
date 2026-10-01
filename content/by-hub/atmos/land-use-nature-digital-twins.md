@@ -2,7 +2,8 @@
 slug: land-use-nature-digital-twins
 hub: atmos
 title: Land-Use, Soil Carbon, and Nature Digital Twins
-summary: High-resolution twins for soil carbon, land-use change, and biodiversity.
+summary: Virtual replicas of ecosystems tracking soil carbon, land use, and biodiversity
+  at parcel scale
 permalink: https://www.envisioning.com/atmos/land-use-nature-digital-twins
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996017/atmos
 
 ## Summary
 
-High-resolution twins for soil carbon, land-use change, and biodiversity.
+Virtual replicas of ecosystems tracking soil carbon, land use, and biodiversity at parcel scale
 
 ## Description
 

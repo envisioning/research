@@ -2,7 +2,8 @@
 slug: haptic-feedback-suits
 hub: fabric
 title: Haptic Feedback Suits for VR/AR
-summary: Full-body suits providing tactile sensations for immersive digital experiences.
+summary: Full-body garments with actuators that simulate touch, pressure, and temperature
+  in VR/AR
 permalink: https://www.envisioning.com/fabric/haptic-feedback-suits
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062590/threa
 
 ## Summary
 
-Full-body suits providing tactile sensations for immersive digital experiences.
+Full-body garments with actuators that simulate touch, pressure, and temperature in VR/AR
 
 ## Description
 

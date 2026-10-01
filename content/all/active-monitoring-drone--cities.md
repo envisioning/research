@@ -2,15 +2,10 @@
 slug: active-monitoring-drone
 hub: cities
 title: Active Monitoring Drone
-summary: This innovative solution tackles the challenges of infrastructure maintenance,
-  environmental monitoring, disaster response, and urban planning. These cutting-edge
-  drones, brimming with advanced sensors, cameras, and communication systems, offer
-  unparalleled real-time data collection and analysis capabilities. By soaring over
-  cities, they can monitor traffic flow, scrutinise infrastructure for potential issues,
-  evaluate environmental conditions such as air and water quality, and provide crucial
-  situational awareness during emergencies.
+summary: Autonomous drones that collect real-time data on urban infrastructure, traffic,
+  and environmental conditions
 permalink: https://www.envisioning.com/cities/active-monitoring-drone
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792661-active-monitoring-dr
 
 ## Summary
 
-This innovative solution tackles the challenges of infrastructure maintenance, environmental monitoring, disaster response, and urban planning. These cutting-edge drones, brimming with advanced sensors, cameras, and communication systems, offer unparalleled real-time data collection and analysis capabilities. By soaring over cities, they can monitor traffic flow, scrutinise infrastructure for potential issues, evaluate environmental conditions such as air and water quality, and provide crucial situational awareness during emergencies.
+Autonomous drones that collect real-time data on urban infrastructure, traffic, and environmental conditions
 
 ## Description
 

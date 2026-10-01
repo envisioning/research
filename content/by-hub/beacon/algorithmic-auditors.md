@@ -2,7 +2,8 @@
 slug: algorithmic-auditors
 hub: beacon
 title: Algorithmic Impact Auditors
-summary: Simulating users to detect behavioral modification.
+summary: Automated testing frameworks that deploy synthetic users to measure how platform
+  algorithms influence behavior
 permalink: https://www.envisioning.com/beacon/algorithmic-auditors
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125519/beaco
 
 ## Summary
 
-Simulating users to detect behavioral modification.
+Automated testing frameworks that deploy synthetic users to measure how platform algorithms influence behavior
 
 ## Description
 

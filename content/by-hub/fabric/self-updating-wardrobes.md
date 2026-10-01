@@ -2,7 +2,8 @@
 slug: self-updating-wardrobes
 hub: fabric
 title: Self-Updating Wardrobes Using Predictive Consumption Models
-summary: Systems that anticipate replacement cycles and auto-order essentials.
+summary: Automated wardrobe management that tracks wear patterns and reorders clothing
+  before items wear out
 permalink: https://www.envisioning.com/fabric/self-updating-wardrobes
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062513/threa
 
 ## Summary
 
-Systems that anticipate replacement cycles and auto-order essentials.
+Automated wardrobe management that tracks wear patterns and reorders clothing before items wear out
 
 ## Description
 

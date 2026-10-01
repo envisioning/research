@@ -2,7 +2,8 @@
 slug: data-ownership-protocols
 hub: fabric
 title: Data Ownership Protocols for Wearables
-summary: Blockchain frameworks giving users control over their biometric data.
+summary: Blockchain frameworks letting wearable users control who accesses their biometric
+  and health data
 permalink: https://www.envisioning.com/fabric/data-ownership-protocols
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058384/threa
 
 ## Summary
 
-Blockchain frameworks giving users control over their biometric data.
+Blockchain frameworks letting wearable users control who accesses their biometric and health data
 
 ## Description
 

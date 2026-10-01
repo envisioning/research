@@ -2,7 +2,8 @@
 slug: direct-lithium-extraction
 hub: stratum
 title: Direct Lithium Extraction (DLE)
-summary: Selective extraction of lithium from brines and geothermal fluids.
+summary: Rapid lithium recovery from brines using selective separation instead of
+  evaporation ponds
 permalink: https://www.envisioning.com/stratum/direct-lithium-extraction
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179078/strat
 
 ## Summary
 
-Selective extraction of lithium from brines and geothermal fluids.
+Rapid lithium recovery from brines using selective separation instead of evaporation ponds
 
 ## Description
 

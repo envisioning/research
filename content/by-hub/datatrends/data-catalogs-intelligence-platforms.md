@@ -2,8 +2,8 @@
 slug: data-catalogs-intelligence-platforms
 hub: datatrends
 title: Data Catalogs and Data Intelligence Platforms
-summary: Active metadata management enabling data discovery, lineage tracking, and
-  intelligent data asset organization.
+summary: Centralized platforms that discover, classify, and organize enterprise data
+  assets across systems
 permalink: https://www.envisioning.com/datatrends/data-catalogs-intelligence-platforms
 collection: management-foundations
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372204/datat
 
 ## Summary
 
-Active metadata management enabling data discovery, lineage tracking, and intelligent data asset organization.
+Centralized platforms that discover, classify, and organize enterprise data assets across systems
 
 ## Description
 

@@ -2,14 +2,10 @@
 slug: urban-irrigation
 hub: cities
 title: Urban Irrigation
-summary: This solution tackles the urban heat island effect, air quality deterioration,
-  and flood risks. Urban irrigation involves the use of advanced irrigation systems,
-  such as smart and remotely controlled sprinklers, deployed not only in green spaces
-  but also on rooftops and roads. By cooling surfaces and reducing dust, these systems
-  lower local temperatures and improve air quality. Additionally, they enhance soil
-  permeability, which helps manage heavy rainfall and reduce flood risks.
+summary: Smart sprinkler networks for streets, roofs, and parks that cool surfaces,
+  reduce dust, and manage stormwater
 permalink: https://www.envisioning.com/cities/urban-irrigation
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: hardware
 trl: 8
 impact: 2
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719325789-urban-irrigation.png
 
 ## Summary
 
-This solution tackles the urban heat island effect, air quality deterioration, and flood risks. Urban irrigation involves the use of advanced irrigation systems, such as smart and remotely controlled sprinklers, deployed not only in green spaces but also on rooftops and roads. By cooling surfaces and reducing dust, these systems lower local temperatures and improve air quality. Additionally, they enhance soil permeability, which helps manage heavy rainfall and reduce flood risks.
+Smart sprinkler networks for streets, roofs, and parks that cool surfaces, reduce dust, and manage stormwater
 
 ## Description
 

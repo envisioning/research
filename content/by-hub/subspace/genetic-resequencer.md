@@ -2,21 +2,20 @@
 slug: genetic-resequencer
 hub: subspace
 title: Genetic Resequencer
-summary: Medical technology for precise DNA modification and repair at the molecular
-  level.
+summary: Direct DNA rewriting in living cells without cutting genetic sequences
 permalink: https://www.envisioning.com/subspace/genetic-resequencer
 collection: biotechnology
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216451/subspaceindex/technologies/genetic-resequencer.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908059/subspace/technologies/genetic-resequencer-openrouter-google-gemini-3.1-flash-image-preview-el4l7z.png
 ---
 
 # Genetic Resequencer
 
 ## Summary
 
-Medical technology for precise DNA modification and repair at the molecular level.
+Direct DNA rewriting in living cells without cutting genetic sequences
 
 ## Description
 

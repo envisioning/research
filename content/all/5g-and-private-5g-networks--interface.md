@@ -2,20 +2,21 @@
 slug: 5g-and-private-5g-networks
 hub: interface
 title: 5G and Private 5G Networks
-summary: Advanced 5G network solutions for various applications.
+summary: High-speed wireless networks with dedicated slices for enterprise, IoT, and
+  mobile applications
 permalink: https://www.envisioning.com/interface/5g-and-private-5g-networks
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882485/interface/technologies/0fdc6002-3028-430c-9c7b-8911b1a8e55a-google-gemini-3.1-flash-image-preview-xxbtn4.jpg
 ---
 
 # 5G and Private 5G Networks
 
 ## Summary
 
-Advanced 5G network solutions for various applications.
+High-speed wireless networks with dedicated slices for enterprise, IoT, and mobile applications
 
 ## Description
 

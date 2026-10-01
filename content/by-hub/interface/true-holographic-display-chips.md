@@ -2,21 +2,20 @@
 slug: true-holographic-display-chips
 hub: interface
 title: True Holographic Display Chips
-summary: Spatial Light Modulators (SLM) with sub-300nm pixels enabling real holographic
-  AR in glasses.
+summary: Nanoscale light modulators that generate true 3D holograms for AR glasses
 permalink: https://www.envisioning.com/interface/true-holographic-display-chips
-collection: spatial-computing-immersive
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883106/interface/technologies/308a25bb-80b5-4b99-a36d-2ba0358edbe7-google-gemini-3.1-flash-image-preview-n5hfga.jpg
 ---
 
 # True Holographic Display Chips
 
 ## Summary
 
-Spatial Light Modulators (SLM) with sub-300nm pixels enabling real holographic AR in glasses.
+Nanoscale light modulators that generate true 3D holograms for AR glasses
 
 ## Description
 

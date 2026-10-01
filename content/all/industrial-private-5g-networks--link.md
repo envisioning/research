@@ -2,7 +2,8 @@
 slug: industrial-private-5g-networks
 hub: link
 title: Industrial Private 5G Networks
-summary: Dedicated cellular networks for factories, ports, and logistics hubs.
+summary: Dedicated 5G infrastructure for factories, ports, and warehouses requiring
+  ultra-low latency
 permalink: https://www.envisioning.com/link/industrial-private-5g-networks
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441702/link/
 
 ## Summary
 
-Dedicated cellular networks for factories, ports, and logistics hubs.
+Dedicated 5G infrastructure for factories, ports, and warehouses requiring ultra-low latency
 
 ## Description
 

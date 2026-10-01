@@ -2,7 +2,8 @@
 slug: ultra-low-orbit-platforms
 hub: apogee
 title: Ultra-Low-Orbit Platforms
-summary: Satellites operating close to the atmosphere for high-res imaging.
+summary: Satellites operating at 150–300 km altitude for superior imaging resolution
+  and atmospheric sensing
 permalink: https://www.envisioning.com/apogee/ultra-low-orbit-platforms
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145067/apoge
 
 ## Summary
 
-Satellites operating close to the atmosphere for high-res imaging.
+Satellites operating at 150–300 km altitude for superior imaging resolution and atmospheric sensing
 
 ## Description
 

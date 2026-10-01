@@ -2,8 +2,7 @@
 slug: redes-comunitarias-financiamento
 hub: moradia
 title: Redes Comunitárias de Financiamento
-summary: Sistemas de empréstimo e poupança organizados dentro de comunidades, sem
-  instituições formais.
+summary: Empréstimo e poupança baseados em confiança comunitária, sem bancos formais
 permalink: https://www.envisioning.com/moradia/redes-comunitarias-financiamento
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592298/habit
 
 ## Summary
 
-Sistemas de empréstimo e poupança organizados dentro de comunidades, sem instituições formais.
+Empréstimo e poupança baseados em confiança comunitária, sem bancos formais
 
 ## Description
 

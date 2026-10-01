@@ -2,7 +2,8 @@
 slug: algorithmic-cbdc-engines
 hub: lattice
 title: Algorithmic CBDC Platforms
-summary: Smart contracts governing programmable central bank money.
+summary: Smart contract systems that encode monetary policy and spending rules into
+  central bank digital currencies
 permalink: https://www.envisioning.com/lattice/algorithmic-cbdc-engines
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075379/flows
 
 ## Summary
 
-Smart contracts governing programmable central bank money.
+Smart contract systems that encode monetary policy and spending rules into central bank digital currencies
 
 ## Description
 

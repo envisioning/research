@@ -2,7 +2,8 @@
 slug: molecular-farming-biopharma
 hub: spore
 title: Molecular Farming (Biopharming)
-summary: Crops engineered to produce high-value vaccines, antibodies, or enzymes.
+summary: Using plants as living bioreactors to produce vaccines, antibodies, and therapeutic
+  proteins
 permalink: https://www.envisioning.com/spore/molecular-farming-biopharma
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179623/spore
 
 ## Summary
 
-Crops engineered to produce high-value vaccines, antibodies, or enzymes.
+Using plants as living bioreactors to produce vaccines, antibodies, and therapeutic proteins
 
 ## Description
 

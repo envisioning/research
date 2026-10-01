@@ -2,7 +2,8 @@
 slug: automatic-lod-generation
 hub: pixels
 title: Automatic LOD Generation
-summary: ML mesh simplification creating level-of-detail assets without manual labor.
+summary: ML-driven mesh simplification that generates optimized level-of-detail assets
+  for game engines
 permalink: https://www.envisioning.com/pixels/automatic-lod-generation
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062435/pixel
 
 ## Summary
 
-ML mesh simplification creating level-of-detail assets without manual labor.
+ML-driven mesh simplification that generates optimized level-of-detail assets for game engines
 
 ## Description
 

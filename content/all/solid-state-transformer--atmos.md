@@ -2,19 +2,21 @@
 slug: solid-state-transformer
 hub: atmos
 title: Solid-State Transformer
-summary: Power conversion using semiconductor switches instead of magnetic cores.
+summary: Power conversion using semiconductor switches for voltage control and bidirectional
+  energy flow
 permalink: https://www.envisioning.com/atmos/solid-state-transformer
 collection: hardware
 trl: 5
 impact: 4
 investment: 4
+image_url: null
 ---
 
 # Solid-State Transformer
 
 ## Summary
 
-Power conversion using semiconductor switches instead of magnetic cores.
+Power conversion using semiconductor switches for voltage control and bidirectional energy flow
 
 ## Description
 

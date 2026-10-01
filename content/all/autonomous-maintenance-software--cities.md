@@ -2,13 +2,10 @@
 slug: autonomous-maintenance-software
 hub: cities
 title: Autonomous Maintenance Software
-summary: 'AMS integrates advanced sensors, artificial intelligence (AI), and the Internet
-  of Things (IoT) to automate the monitoring, diagnosis, and repair of essential urban
-  infrastructure such as water systems, transportation networks, and energy grids.
-  By continuously collecting and analysing data, AMS detects anomalies, predicts potential
-  failures, and initiates maintenance actions without human intervention. '
+summary: AI-driven software that monitors, diagnoses, and repairs urban infrastructure
+  autonomously
 permalink: https://www.envisioning.com/cities/autonomous-maintenance-software
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: software
 trl: 7
 impact: 2
 investment: 2
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792250-autonomous-maintenan
 
 ## Summary
 
-AMS integrates advanced sensors, artificial intelligence (AI), and the Internet of Things (IoT) to automate the monitoring, diagnosis, and repair of essential urban infrastructure such as water systems, transportation networks, and energy grids. By continuously collecting and analysing data, AMS detects anomalies, predicts potential failures, and initiates maintenance actions without human intervention.
+AI-driven software that monitors, diagnoses, and repairs urban infrastructure autonomously
 
 ## Description
 

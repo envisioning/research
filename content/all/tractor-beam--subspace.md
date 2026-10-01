@@ -2,20 +2,21 @@
 slug: tractor-beam
 hub: subspace
 title: Tractor Beam
-summary: Projected force field for manipulating and towing objects in space.
+summary: Projected force fields that remotely capture, tow, or position objects using
+  directed energy
 permalink: https://www.envisioning.com/subspace/tractor-beam
 collection: engineering
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210581/subspaceindex/technologies/tractor-beam.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909189/subspace/technologies/tractor-beam-openrouter-google-gemini-3.1-flash-image-preview-rwo35b.png
 ---
 
 # Tractor Beam
 
 ## Summary
 
-Projected force field for manipulating and towing objects in space.
+Projected force fields that remotely capture, tow, or position objects using directed energy
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: generative-game-narratives
 hub: pixels
 title: Generative Game Narratives
-summary: LLM-driven quest designers producing branching stories on demand.
+summary: AI systems that generate quests, dialogue, and story branches tailored to
+  each player
 permalink: https://www.envisioning.com/pixels/generative-game-narratives
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062178/pixel
 
 ## Summary
 
-LLM-driven quest designers producing branching stories on demand.
+AI systems that generate quests, dialogue, and story branches tailored to each player
 
 ## Description
 

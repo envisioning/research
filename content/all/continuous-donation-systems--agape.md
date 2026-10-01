@@ -3,7 +3,6 @@ slug: continuous-donation-systems
 hub: agape
 title: Continuous Donation Systems
 summary: Micro-donation platforms with recurring automated flows, enabling sustained
-  giving through small, frequent contributions.
 permalink: https://www.envisioning.com/agape/continuous-donation-systems
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368221/agape
 
 ## Summary
 
-Micro-donation platforms with recurring automated flows, enabling sustained giving through small, frequent contributions.
+Micro-donation platforms with recurring automated flows, enabling sustained
 
 ## Description
 

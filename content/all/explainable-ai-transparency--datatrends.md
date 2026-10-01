@@ -2,8 +2,8 @@
 slug: explainable-ai-transparency
 hub: datatrends
 title: Explainable AI and Algorithmic Transparency
-summary: Techniques and requirements for making AI and analytics models interpretable,
-  enabling understanding of how decisions are made.
+summary: Methods that reveal how AI models make decisions, enabling human understanding
+  and oversight
 permalink: https://www.envisioning.com/datatrends/explainable-ai-transparency
 collection: management-foundations
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958496/datat
 
 ## Summary
 
-Techniques and requirements for making AI and analytics models interpretable, enabling understanding of how decisions are made.
+Methods that reveal how AI models make decisions, enabling human understanding and oversight
 
 ## Description
 

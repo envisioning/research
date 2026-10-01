@@ -2,7 +2,8 @@
 slug: quantum-communication-backbones
 hub: link
 title: Quantum Communication Backbones
-summary: Fiber and satellite links for distributing quantum keys at scale.
+summary: Fiber and satellite networks that distribute quantum encryption keys using
+  quantum mechanics
 permalink: https://www.envisioning.com/link/quantum-communication-backbones
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435019/link/
 
 ## Summary
 
-Fiber and satellite links for distributing quantum keys at scale.
+Fiber and satellite networks that distribute quantum encryption keys using quantum mechanics
 
 ## Description
 

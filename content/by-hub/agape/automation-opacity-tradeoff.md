@@ -3,7 +3,6 @@ slug: automation-opacity-tradeoff
 hub: agape
 title: Automation Reducing Overhead, Increasing Opacity
 summary: Automation reducing overhead but increasing opacity, as efficiency gains
-  come with transparency costs.
 permalink: https://www.envisioning.com/agape/automation-opacity-tradeoff
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371990/agape
 
 ## Summary
 
-Automation reducing overhead but increasing opacity, as efficiency gains come with transparency costs.
+Automation reducing overhead but increasing opacity, as efficiency gains
 
 ## Description
 

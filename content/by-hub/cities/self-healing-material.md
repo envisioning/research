@@ -2,13 +2,10 @@
 slug: self-healing-material
 hub: cities
 title: Self-healing Material
-summary: Designed to extend the lifespan of various products and infrastructure, this
-  class of materials autonomously repair themselves without human intervention. This
-  solution addresses problems like high costs and logistical challenges associated
-  with the maintenance and repair of infrastructure such as roads, bridges, buildings,
-  and housing which deteriorate over time due to environmental and mechanical stresses.
+summary: Materials that autonomously repair damage to extend infrastructure lifespan
+  and reduce maintenance costs
 permalink: https://www.envisioning.com/cities/self-healing-material
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: hardware
 trl: 6
 impact: 2
 investment: 2
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792627-self-healing-materia
 
 ## Summary
 
-Designed to extend the lifespan of various products and infrastructure, this class of materials autonomously repair themselves without human intervention. This solution addresses problems like high costs and logistical challenges associated with the maintenance and repair of infrastructure such as roads, bridges, buildings, and housing which deteriorate over time due to environmental and mechanical stresses.
+Materials that autonomously repair damage to extend infrastructure lifespan and reduce maintenance costs
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: variable-geometry-craft
 hub: xenotech
 title: Variable Geometry Craft
-summary: Apparent in-flight shape reconfiguration—disc↔sphere↔triangle transitions,
-  liquid/gelatinous outlines, and pulsing edges consistent with morphic topology control.
+summary: Craft reportedly shifting shape mid-flight between disc, sphere, and triangle
+  configurations
 permalink: https://www.envisioning.com/xenotech/variable-geometry-craft
 collection: materials-structures
 trl: 3
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761768356/xenotech/technologies/variable-geometry-craft.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903466/xenotech/technologies/variable-geometry-craft-openrouter-google-gemini-3.1-flash-image-preview-os02dx.png
 ---
 
 # Variable Geometry Craft
 
 ## Summary
 
-Apparent in-flight shape reconfiguration—disc↔sphere↔triangle transitions, liquid/gelatinous outlines, and pulsing edges consistent with morphic topology control.
+Craft reportedly shifting shape mid-flight between disc, sphere, and triangle configurations
 
 ## Description
 

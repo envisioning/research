@@ -2,22 +2,21 @@
 slug: chronovisor-temporal-viewing
 hub: xenotech
 title: Temporal Viewing Device
-summary: Chronovisor - Alleged Vatican-developed device capable of viewing past events
-  through residual electromagnetic radiation detection and reconstruction, claimed
-  to have witnessed historical events including the crucifixion of Christ.
+summary: Alleged device for viewing past events by detecting residual electromagnetic
+  radiation
 permalink: https://www.envisioning.com/xenotech/chronovisor-temporal-viewing
 collection: consciousness-interface
 trl: 2
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761679215/xenotech/technologies/chronovisor-temporal-viewing.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903294/xenotech/technologies/chronovisor-temporal-viewing-openrouter-google-gemini-3.1-flash-image-preview-366yaw.png
 ---
 
 # Temporal Viewing Device
 
 ## Summary
 
-Chronovisor - Alleged Vatican-developed device capable of viewing past events through residual electromagnetic radiation detection and reconstruction, claimed to have witnessed historical events including the crucifixion of Christ.
+Alleged device for viewing past events by detecting residual electromagnetic radiation
 
 ## Description
 

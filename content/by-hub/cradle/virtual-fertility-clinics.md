@@ -2,7 +2,8 @@
 slug: virtual-fertility-clinics
 hub: cradle
 title: Virtual Fertility Clinics
-summary: End-to-end digital pathways for conception.
+summary: Remote conception support combining at-home diagnostics, telehealth, and
+  AI-driven treatment planning
 permalink: https://www.envisioning.com/cradle/virtual-fertility-clinics
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129329/cradl
 
 ## Summary
 
-End-to-end digital pathways for conception.
+Remote conception support combining at-home diagnostics, telehealth, and AI-driven treatment planning
 
 ## Description
 

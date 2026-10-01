@@ -2,22 +2,21 @@
 slug: reconfigurable-npu-neural-processing-unit
 hub: interface
 title: Reconfigurable NPU (Neural Processing Unit)
-summary: Reconfigurable NPUs with dynamic memory (DMA) to enhance memory access efficiency,
-  supporting CNN and Transformer networks simultaneously for both machine vision and
-  semantic analysis.
+summary: AI chips that adapt their architecture on-the-fly to run vision and language
+  models efficiently
 permalink: https://www.envisioning.com/interface/reconfigurable-npu-neural-processing-unit
-collection: neuromorphic-edge-intelligence
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886707/interface/technologies/3b9ed11b-83c8-4f58-9c1f-8c5746cdbf24-google-gemini-3.1-flash-image-preview-x3g2pc.jpg
 ---
 
 # Reconfigurable NPU (Neural Processing Unit)
 
 ## Summary
 
-Reconfigurable NPUs with dynamic memory (DMA) to enhance memory access efficiency, supporting CNN and Transformer networks simultaneously for both machine vision and semantic analysis.
+AI chips that adapt their architecture on-the-fly to run vision and language models efficiently
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: nanobot
 hub: horizons
 title: Nanobot
-summary: Microscopic robots performing targeted medical and environmental tasks.
+summary: Microscopic robots operating at cellular scale for medicine, diagnostics,
+  and environmental cleanup
 permalink: https://www.envisioning.com/horizons/nanobot
-collection: materials-making
+collection: hardware
 trl: 4
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526529/horiz
 
 ## Summary
 
-Microscopic robots performing targeted medical and environmental tasks.
+Microscopic robots operating at cellular scale for medicine, diagnostics, and environmental cleanup
 
 ## Description
 

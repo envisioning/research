@@ -2,20 +2,21 @@
 slug: vital-signs-monitoring-radar
 hub: interface
 title: Vital Signs Monitoring Radar
-summary: Radar sensors for continuous, contactless vital sign monitoring.
+summary: Contactless monitoring of heart rate and breathing using low-power radio
+  waves
 permalink: https://www.envisioning.com/interface/vital-signs-monitoring-radar
-collection: wearables-health-sensing
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883028/interface/technologies/2a326898-82f4-4e6e-ad35-a4cd14d2da0b-google-gemini-3.1-flash-image-preview-0ivt46.jpg
 ---
 
 # Vital Signs Monitoring Radar
 
 ## Summary
 
-Radar sensors for continuous, contactless vital sign monitoring.
+Contactless monitoring of heart rate and breathing using low-power radio waves
 
 ## Description
 

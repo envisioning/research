@@ -2,7 +2,8 @@
 slug: mobile-resilience-networks
 hub: continuum
 title: Mobile Resilience Networks
-summary: SMS and feature-phone infrastructure for crisis coordination.
+summary: Crisis coordination using SMS, USSD, and basic cellular networks when internet
+  fails
 permalink: https://www.envisioning.com/continuum/mobile-resilience-networks
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125458/conti
 
 ## Summary
 
-SMS and feature-phone infrastructure for crisis coordination.
+Crisis coordination using SMS, USSD, and basic cellular networks when internet fails
 
 ## Description
 

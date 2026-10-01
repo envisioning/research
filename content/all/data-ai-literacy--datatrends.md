@@ -2,8 +2,8 @@
 slug: data-ai-literacy
 hub: datatrends
 title: Strategic Data & AI Literacy
-summary: Equipping employees with the skills to leverage data and AI responsibly in
-  daily work.
+summary: Building workforce capability to use data and AI tools effectively and ethically
+  in business decisions
 permalink: https://www.envisioning.com/datatrends/data-ai-literacy
 collection: strategic-culture-literacy
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372364/datat
 
 ## Summary
 
-Equipping employees with the skills to leverage data and AI responsibly in daily work.
+Building workforce capability to use data and AI tools effectively and ethically in business decisions
 
 ## Description
 

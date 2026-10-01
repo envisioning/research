@@ -2,23 +2,21 @@
 slug: angular-cloaking
 hub: xenotech
 title: Angular Cloaking & Directional Stealth
-summary: Metamaterial and transformation optics technologies enabling objects to become
-  invisible or low-observable from specific viewing angles while remaining detectable
-  from others—bridging laboratory demonstrations with UAP observational patterns of
-  angle-dependent visibility.
+summary: Metamaterial systems that hide objects from specific viewing angles while
+  remaining visible from others
 permalink: https://www.envisioning.com/xenotech/angular-cloaking
 collection: defense-surveillance
 trl: 3
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761929370/xenotech/technologies/angular-cloaking-openai-gpt-5-slmmje.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939873/xenotech/technologies/angular-cloaking-imagegen-v1.png
 ---
 
 # Angular Cloaking & Directional Stealth
 
 ## Summary
 
-Metamaterial and transformation optics technologies enabling objects to become invisible or low-observable from specific viewing angles while remaining detectable from others—bridging laboratory demonstrations with UAP observational patterns of angle-dependent visibility.
+Metamaterial systems that hide objects from specific viewing angles while remaining visible from others
 
 ## Description
 

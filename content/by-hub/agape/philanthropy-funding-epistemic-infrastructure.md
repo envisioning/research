@@ -3,7 +3,6 @@ slug: philanthropy-funding-epistemic-infrastructure
 hub: agape
 title: Philanthropy Funding Epistemic Infrastructure
 summary: Philanthropy funding epistemic infrastructure (labs, observatories), investing
-  in knowledge production and sense-making capacity.
 permalink: https://www.envisioning.com/agape/philanthropy-funding-epistemic-infrastructure
 collection: knowledge-evidence-sensemaking
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371872/agape
 
 ## Summary
 
-Philanthropy funding epistemic infrastructure (labs, observatories), investing in knowledge production and sense-making capacity.
+Philanthropy funding epistemic infrastructure (labs, observatories), investing
 
 ## Description
 

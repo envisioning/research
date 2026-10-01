@@ -2,7 +2,8 @@
 slug: adaptive-deep-brain-stimulation
 hub: cortex
 title: Deep Brain Stimulation for Parkinson's
-summary: Closed-loop DBS targeting basal ganglia circuits.
+summary: Adaptive brain stimulation that adjusts in real-time to reduce Parkinson's
+  motor symptoms
 permalink: https://www.envisioning.com/cortex/adaptive-deep-brain-stimulation
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073989/corte
 
 ## Summary
 
-Closed-loop DBS targeting basal ganglia circuits.
+Adaptive brain stimulation that adjusts in real-time to reduce Parkinson's motor symptoms
 
 ## Description
 

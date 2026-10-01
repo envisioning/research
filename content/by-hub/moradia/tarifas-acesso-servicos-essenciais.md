@@ -2,7 +2,8 @@
 slug: tarifas-acesso-servicos-essenciais
 hub: moradia
 title: Tarifas e Acesso a Serviços Essenciais
-summary: Impacto de tecnologias de utilities no acesso e custo de serviços essenciais.
+summary: Tecnologias de gestão de utilities que afetam custos e acesso a energia,
+  água e saneamento
 permalink: https://www.envisioning.com/moradia/tarifas-acesso-servicos-essenciais
 collection: modelos-mercado-governanca
 trl: null
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766586048/habit
 
 ## Summary
 
-Impacto de tecnologias de utilities no acesso e custo de serviços essenciais.
+Tecnologias de gestão de utilities que afetam custos e acesso a energia, água e saneamento
 
 ## Description
 

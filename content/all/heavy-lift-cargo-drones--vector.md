@@ -2,7 +2,8 @@
 slug: heavy-lift-cargo-drones
 hub: vector
 title: Heavy-Lift Cargo Drones
-summary: Autonomous aerial vehicles for middle-mile and remote logistics.
+summary: Autonomous aerial vehicles transporting 100+ kg payloads for middle-mile
+  and remote logistics
 permalink: https://www.envisioning.com/vector/heavy-lift-cargo-drones
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179040/vecto
 
 ## Summary
 
-Autonomous aerial vehicles for middle-mile and remote logistics.
+Autonomous aerial vehicles transporting 100+ kg payloads for middle-mile and remote logistics
 
 ## Description
 

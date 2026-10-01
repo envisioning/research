@@ -2,7 +2,8 @@
 slug: vr-training
 hub: stride
 title: Immersive VR/AR Training
-summary: Virtual environments for tactical cognitive training and decision making.
+summary: Virtual environments that simulate game scenarios for tactical training and
+  decision-making practice
 permalink: https://www.envisioning.com/stride/vr-training
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128426/strid
 
 ## Summary
 
-Virtual environments for tactical cognitive training and decision making.
+Virtual environments that simulate game scenarios for tactical training and decision-making practice
 
 ## Description
 

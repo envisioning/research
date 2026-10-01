@@ -2,7 +2,8 @@
 slug: cross-sport-talent-id
 hub: stride
 title: Cross-Sport Talent Identification
-summary: Systems mapping physical and cognitive profiles to optimal sports pathways.
+summary: Analytics matching athlete profiles to sports where their physical and cognitive
+  traits excel
 permalink: https://www.envisioning.com/stride/cross-sport-talent-id
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128578/strid
 
 ## Summary
 
-Systems mapping physical and cognitive profiles to optimal sports pathways.
+Analytics matching athlete profiles to sports where their physical and cognitive traits excel
 
 ## Description
 

@@ -2,22 +2,21 @@
 slug: autonomous-plasmoid-interceptors
 hub: xenotech
 title: Plasmoid Interceptors
-summary: Alleged autonomous plasma-based craft claimed to encircle and teleport aircraft,
-  combining MHD propulsion with wormhole generation capabilities in MH370 conspiracy
-  narrative.
+summary: Alleged plasma orbs that encircle and teleport aircraft via wormholes in
+  MH370 conspiracy theories
 permalink: https://www.envisioning.com/xenotech/autonomous-plasmoid-interceptors
 collection: energy-systems
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761030515/xenotech/technologies/autonomous-plasmoid-interceptors.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899254/xenotech/technologies/autonomous-plasmoid-interceptors-openrouter-google-gemini-3.1-flash-image-preview-ese2h3.png
 ---
 
 # Plasmoid Interceptors
 
 ## Summary
 
-Alleged autonomous plasma-based craft claimed to encircle and teleport aircraft, combining MHD propulsion with wormhole generation capabilities in MH370 conspiracy narrative.
+Alleged plasma orbs that encircle and teleport aircraft via wormholes in MH370 conspiracy theories
 
 ## Description
 

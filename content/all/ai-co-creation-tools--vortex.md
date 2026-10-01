@@ -2,7 +2,8 @@
 slug: ai-co-creation-tools
 hub: vortex
 title: AI Co-Creation Tools
-summary: Collaborative interfaces where creators work alongside AI.
+summary: Collaborative platforms where human creators and AI systems work together
+  to produce content
 permalink: https://www.envisioning.com/vortex/ai-co-creation-tools
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127270/vorte
 
 ## Summary
 
-Collaborative interfaces where creators work alongside AI.
+Collaborative platforms where human creators and AI systems work together to produce content
 
 ## Description
 

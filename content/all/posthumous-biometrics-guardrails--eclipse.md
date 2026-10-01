@@ -2,7 +2,7 @@
 slug: posthumous-biometrics-guardrails
 hub: eclipse
 title: Posthumous Biometrics Guardrails
-summary: Protocols governing the reuse of voice, face, and DNA data after death.
+summary: Protocols governing the use of voice, face, and DNA data after death
 permalink: https://www.envisioning.com/eclipse/posthumous-biometrics-guardrails
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435266/eclip
 
 ## Summary
 
-Protocols governing the reuse of voice, face, and DNA data after death.
+Protocols governing the use of voice, face, and DNA data after death
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: zero-trust-edge
 hub: link
 title: Zero-Trust Edge Security
-summary: Security model that never trusts, always verifies at the edge.
+summary: Continuous verification architecture for distributed edge devices and networks
 permalink: https://www.envisioning.com/link/zero-trust-edge
 collection: ethics-security
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179236/link/
 
 ## Summary
 
-Security model that never trusts, always verifies at the edge.
+Continuous verification architecture for distributed edge devices and networks
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cyber-anomaly-detection
 hub: grid
 title: Cyber-Physical Anomaly Detection
-summary: AI-driven monitoring of OT networks and grid behavior for cyber threats.
+summary: AI monitoring of power grid control systems to detect cyber threats before
+  they cause outages
 permalink: https://www.envisioning.com/grid/cyber-anomaly-detection
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113951/grid/
 
 ## Summary
 
-AI-driven monitoring of OT networks and grid behavior for cyber threats.
+AI monitoring of power grid control systems to detect cyber threats before they cause outages
 
 ## Description
 

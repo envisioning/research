@@ -2,7 +2,8 @@
 slug: in-space-manufacturing
 hub: forge
 title: In-Space Manufacturing (ISM)
-summary: Producing high-value materials in microgravity environments.
+summary: Manufacturing materials and components in microgravity to achieve purity
+  impossible on Earth
 permalink: https://www.envisioning.com/forge/in-space-manufacturing
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765550271/forge
 
 ## Summary
 
-Producing high-value materials in microgravity environments.
+Manufacturing materials and components in microgravity to achieve purity impossible on Earth
 
 ## Description
 

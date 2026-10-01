@@ -2,14 +2,9 @@
 slug: aerial-urban-gondola
 hub: cities
 title: Aerial Urban Gondola
-summary: Also known as cable cars or aerial trams, this solution provides an innovative
-  solution to urban congestion and limited space for road expansion. These systems
-  consist of a network of electric-powered cabins suspended by cables and supported
-  by towers, transporting passengers above city traffic. By utilising underused airspace,
-  gondolas offer a sustainable, efficient, and cost-effective mode of transportation,
-  significantly reducing travel time and environmental impact.
+summary: Cable-suspended transit system that moves passengers above street-level traffic
 permalink: https://www.envisioning.com/cities/aerial-urban-gondola
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: hardware
 trl: 9
 impact: 2
 investment: 2
@@ -20,7 +15,7 @@ image_url: https://www.datocms-assets.com/134194/1718791974-aerial-urban-gondola
 
 ## Summary
 
-Also known as cable cars or aerial trams, this solution provides an innovative solution to urban congestion and limited space for road expansion. These systems consist of a network of electric-powered cabins suspended by cables and supported by towers, transporting passengers above city traffic. By utilising underused airspace, gondolas offer a sustainable, efficient, and cost-effective mode of transportation, significantly reducing travel time and environmental impact.
+Cable-suspended transit system that moves passengers above street-level traffic
 
 ## Description
 

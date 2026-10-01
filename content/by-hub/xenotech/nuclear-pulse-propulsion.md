@@ -2,22 +2,21 @@
 slug: nuclear-pulse-propulsion
 hub: xenotech
 title: Nuclear Pulse Propulsion
-summary: Project Orion/Daedalus-style vehicles that detonate sequenced fission or
-  fusion charges behind a pusher plate to achieve deep-space range, repeatedly invoked
-  in COMETA as a plausible—but never fielded—explanation for long-duration UAP travel.
+summary: Spacecraft propelled by sequenced nuclear detonations against a shock-absorbing
+  pusher plate
 permalink: https://www.envisioning.com/xenotech/nuclear-pulse-propulsion
 collection: propulsion-physics
 trl: 3
 impact: 3
 investment: 2
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899075/xenotech/technologies/nuclear-pulse-propulsion-openrouter-google-gemini-3.1-flash-image-preview-2luz7s.png
 ---
 
 # Nuclear Pulse Propulsion
 
 ## Summary
 
-Project Orion/Daedalus-style vehicles that detonate sequenced fission or fusion charges behind a pusher plate to achieve deep-space range, repeatedly invoked in COMETA as a plausible—but never fielded—explanation for long-duration UAP travel.
+Spacecraft propelled by sequenced nuclear detonations against a shock-absorbing pusher plate
 
 ## Description
 

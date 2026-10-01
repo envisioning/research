@@ -2,21 +2,21 @@
 slug: rem-pgo-wave-modulation
 hub: xenotech
 title: PGO-Wave Modulation
-summary: Noninvasive proxies to enhance/entrain PGO-like activity for richer dream
-  imagery through targeted neurostimulation.
+summary: Neurostimulation techniques designed to amplify dream vividness by targeting
+  REM sleep brain waves
 permalink: https://www.envisioning.com/xenotech/rem-pgo-wave-modulation
 collection: consciousness-interface
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760951375/xenotech/technologies/rem-pgo-wave-modulation.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899153/xenotech/technologies/rem-pgo-wave-modulation-openrouter-google-gemini-3.1-flash-image-preview-pjnaxq.png
 ---
 
 # PGO-Wave Modulation
 
 ## Summary
 
-Noninvasive proxies to enhance/entrain PGO-like activity for richer dream imagery through targeted neurostimulation.
+Neurostimulation techniques designed to amplify dream vividness by targeting REM sleep brain waves
 
 ## Description
 

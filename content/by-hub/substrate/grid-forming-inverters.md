@@ -2,8 +2,8 @@
 slug: grid-forming-inverters
 hub: substrate
 title: Grid-Forming Inverters
-summary: Inverters that establish voltage and frequency independently, mimicking synchronous
-  generators.
+summary: Inverters that stabilize grids by mimicking the inertia of traditional power
+  plants
 permalink: https://www.envisioning.com/substrate/grid-forming-inverters
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118428/subst
 
 ## Summary
 
-Inverters that establish voltage and frequency independently, mimicking synchronous generators.
+Inverters that stabilize grids by mimicking the inertia of traditional power plants
 
 ## Description
 

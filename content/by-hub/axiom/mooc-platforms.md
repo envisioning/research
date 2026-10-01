@@ -2,7 +2,8 @@
 slug: mooc-platforms
 hub: axiom
 title: MOOC Platforms
-summary: Global-scale course marketplaces with certificates.
+summary: Online course marketplaces offering university-level classes and certificates
+  to millions globally
 permalink: https://www.envisioning.com/axiom/mooc-platforms
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074644/axiom
 
 ## Summary
 
-Global-scale course marketplaces with certificates.
+Online course marketplaces offering university-level classes and certificates to millions globally
 
 ## Description
 

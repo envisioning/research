@@ -2,22 +2,21 @@
 slug: resonant-information-matrices
 hub: xenotech
 title: Resonant Information Matrices
-summary: Symbol-frequency coupling systems where inscribed patterns serve as resonant
-  codes aligning energy fields for propulsion, stabilization, or communication through
-  harmonic phase coherence.
+summary: Inscribed symbols functioning as frequency resonators to couple energy fields
+  for propulsion or communication
 permalink: https://www.envisioning.com/xenotech/resonant-information-matrices
 collection: propulsion-physics
 trl: 3
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761843048/xenotech/technologies/resonant-information-matrices-openai-gpt-5-1kcymx.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902967/xenotech/technologies/resonant-information-matrices-openrouter-google-gemini-3.1-flash-image-preview-jqz1az.png
 ---
 
 # Resonant Information Matrices
 
 ## Summary
 
-Symbol-frequency coupling systems where inscribed patterns serve as resonant codes aligning energy fields for propulsion, stabilization, or communication through harmonic phase coherence.
+Inscribed symbols functioning as frequency resonators to couple energy fields for propulsion or communication
 
 ## Description
 

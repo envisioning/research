@@ -2,7 +2,8 @@
 slug: brain-computer-interface-cockpits
 hub: altitude
 title: Brain-Computer Interface (BCI) Cockpits
-summary: Direct neural control and cognitive monitoring for next-gen pilots.
+summary: Neural interfaces that read pilot brain activity to control aircraft and
+  monitor cognitive state
 permalink: https://www.envisioning.com/altitude/brain-computer-interface-cockpits
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649235/altit
 
 ## Summary
 
-Direct neural control and cognitive monitoring for next-gen pilots.
+Neural interfaces that read pilot brain activity to control aircraft and monitor cognitive state
 
 ## Description
 

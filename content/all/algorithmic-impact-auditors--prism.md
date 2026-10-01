@@ -2,8 +2,8 @@
 slug: algorithmic-impact-auditors
 hub: prism
 title: Algorithmic Impact Auditors
-summary: Automated testing suites for detecting bias and harm in media recommendation
-  algorithms.
+summary: Automated testing suites that probe media recommendation algorithms for bias
+  and harmful patterns
 permalink: https://www.envisioning.com/prism/algorithmic-impact-auditors
 collection: ethics-security
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062760/pulse
 
 ## Summary
 
-Automated testing suites for detecting bias and harm in media recommendation algorithms.
+Automated testing suites that probe media recommendation algorithms for bias and harmful patterns
 
 ## Description
 

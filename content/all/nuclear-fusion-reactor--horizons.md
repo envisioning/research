@@ -2,9 +2,9 @@
 slug: nuclear-fusion-reactor
 hub: horizons
 title: Nuclear Fusion Reactor
-summary: Generating unlimited clean energy by fusing atomic nuclei.
+summary: Fusing hydrogen nuclei to generate clean, abundant energy with minimal waste
 permalink: https://www.envisioning.com/horizons/nuclear-fusion-reactor
-collection: energy-environment
+collection: hardware
 trl: 4
 impact: 5
 investment: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526461/horiz
 
 ## Summary
 
-Generating unlimited clean energy by fusing atomic nuclei.
+Fusing hydrogen nuclei to generate clean, abundant energy with minimal waste
 
 ## Description
 

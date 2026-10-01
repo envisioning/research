@@ -2,7 +2,7 @@
 slug: neuromorphic-tactile-sensors
 hub: quadrant
 title: Neuromorphic Tactile Sensors
-summary: Event-based skin enabling robots to feel texture and slippage.
+summary: Event-driven touch sensors that detect texture and slip like biological skin
 permalink: https://www.envisioning.com/quadrant/neuromorphic-tactile-sensors
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126368/quadr
 
 ## Summary
 
-Event-based skin enabling robots to feel texture and slippage.
+Event-driven touch sensors that detect texture and slip like biological skin
 
 ## Description
 

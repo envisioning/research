@@ -2,7 +2,7 @@
 slug: atmospheric-water-generation
 hub: atlas
 title: Atmospheric Water Generation
-summary: Systems extracting potable water from air for remote and island tourism.
+summary: Extracting drinking water from air to supply remote destinations sustainably
 permalink: https://www.envisioning.com/atlas/atmospheric-water-generation
 collection: hardware
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123803/atlas
 
 ## Summary
 
-Systems extracting potable water from air for remote and island tourism.
+Extracting drinking water from air to supply remote destinations sustainably
 
 ## Description
 

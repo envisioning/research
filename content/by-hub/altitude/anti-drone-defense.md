@@ -2,7 +2,8 @@
 slug: anti-drone-defense
 hub: altitude
 title: Counter-UAS (C-UAS) for Airport Protection
-summary: Technologies to detect and mitigate unauthorized drone activity near airports.
+summary: Multi-layered systems to detect, track, and neutralize unauthorized drones
+  near airports
 permalink: https://www.envisioning.com/altitude/anti-drone-defense
 collection: ethics-security
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765648863/altit
 
 ## Summary
 
-Technologies to detect and mitigate unauthorized drone activity near airports.
+Multi-layered systems to detect, track, and neutralize unauthorized drones near airports
 
 ## Description
 

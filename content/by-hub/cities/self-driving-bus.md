@@ -2,14 +2,10 @@
 slug: self-driving-bus
 hub: cities
 title: Self-driving Bus
-summary: This solution addresses traffic congestion, air pollution, and the inefficiencies
-  of current public transport systems. These autonomous vehicles, equipped with sophisticated
-  technologies like LiDAR, radar, and AI, operate without human intervention, navigating
-  urban environments safely and efficiently. By integrating into existing public transport
-  networks, self-driving buses can improve service reliability, reduce traffic congestion,
-  and support environmental sustainability goals.
+summary: Autonomous public transit vehicles using AI and sensors to navigate urban
+  routes without drivers
 permalink: https://www.envisioning.com/cities/self-driving-bus
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: hardware
 trl: 7
 impact: 2
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792403-self-driving-bus.png
 
 ## Summary
 
-This solution addresses traffic congestion, air pollution, and the inefficiencies of current public transport systems. These autonomous vehicles, equipped with sophisticated technologies like LiDAR, radar, and AI, operate without human intervention, navigating urban environments safely and efficiently. By integrating into existing public transport networks, self-driving buses can improve service reliability, reduce traffic congestion, and support environmental sustainability goals.
+Autonomous public transit vehicles using AI and sensors to navigate urban routes without drivers
 
 ## Description
 

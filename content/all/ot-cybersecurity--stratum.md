@@ -2,7 +2,8 @@
 slug: ot-cybersecurity
 hub: stratum
 title: OT Cybersecurity Defense
-summary: Securing industrial control systems from digital threats.
+summary: Protects industrial control systems and SCADA networks from cyber threats
+  in mining and manufacturing
 permalink: https://www.envisioning.com/stratum/ot-cybersecurity
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179320/strat
 
 ## Summary
 
-Securing industrial control systems from digital threats.
+Protects industrial control systems and SCADA networks from cyber threats in mining and manufacturing
 
 ## Description
 

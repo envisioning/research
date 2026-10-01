@@ -2,7 +2,8 @@
 slug: carbon-impact-ledgers
 hub: atlas
 title: Carbon Impact Ledgers
-summary: Immutable tracking of travel environmental footprints.
+summary: Blockchain-based tracking of tourism emissions across flights, hotels, and
+  activities
 permalink: https://www.envisioning.com/atlas/carbon-impact-ledgers
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123892/atlas
 
 ## Summary
 
-Immutable tracking of travel environmental footprints.
+Blockchain-based tracking of tourism emissions across flights, hotels, and activities
 
 ## Description
 

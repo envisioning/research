@@ -2,7 +2,7 @@
 slug: parasocial-dependency
 hub: eros
 title: Artificial Parasocial Dependency
-summary: Studying and mitigating the risks of one-sided AI attachments.
+summary: Research and interventions addressing emotional over-attachment to AI companions
 permalink: https://www.envisioning.com/eros/parasocial-dependency
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124547/eros/
 
 ## Summary
 
-Studying and mitigating the risks of one-sided AI attachments.
+Research and interventions addressing emotional over-attachment to AI companions
 
 ## Description
 

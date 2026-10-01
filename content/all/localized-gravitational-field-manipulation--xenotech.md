@@ -2,21 +2,21 @@
 slug: localized-gravitational-field-manipulation
 hub: xenotech
 title: Mass Anomaly
-summary: Witness accounts of individuals exhibiting variable weight or creating localized
-  gravitational effects through consciousness, meditation, or spiritual practice.
+summary: Reports of individuals whose body weight appears to change through mental
+  or spiritual states
 permalink: https://www.envisioning.com/xenotech/localized-gravitational-field-manipulation
 collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761397830/xenotech/technologies/localized-gravitational-field-manipulation.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898655/xenotech/technologies/localized-gravitational-field-manipulation-openrouter-google-gemini-3.1-flash-image-preview-9c5zpr.png
 ---
 
 # Mass Anomaly
 
 ## Summary
 
-Witness accounts of individuals exhibiting variable weight or creating localized gravitational effects through consciousness, meditation, or spiritual practice.
+Reports of individuals whose body weight appears to change through mental or spiritual states
 
 ## Description
 

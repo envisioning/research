@@ -2,7 +2,8 @@
 slug: ai-career-guidance
 hub: axiom
 title: AI-Powered Career Guidance
-summary: Recommendation engines suggesting pathways from skill inventories.
+summary: Personalized career and learning recommendations based on skills, interests,
+  and labor market data
 permalink: https://www.envisioning.com/axiom/ai-career-guidance
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162225/axiom
 
 ## Summary
 
-Recommendation engines suggesting pathways from skill inventories.
+Personalized career and learning recommendations based on skills, interests, and labor market data
 
 ## Description
 

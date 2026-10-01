@@ -2,7 +2,8 @@
 slug: neurotechnology-governance
 hub: meridian
 title: Neurotechnology Governance
-summary: Ethics and controls for brain-computer interfaces.
+summary: Regulatory frameworks and ethical oversight for brain-computer interfaces
+  and neural technologies
 permalink: https://www.envisioning.com/meridian/neurotechnology-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435235/merid
 
 ## Summary
 
-Ethics and controls for brain-computer interfaces.
+Regulatory frameworks and ethical oversight for brain-computer interfaces and neural technologies
 
 ## Description
 

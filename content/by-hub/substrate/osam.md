@@ -2,7 +2,8 @@
 slug: osam
 hub: substrate
 title: In-Orbit Servicing & Manufacturing (OSAM)
-summary: Robotic systems for building and repairing infrastructure in space.
+summary: Robotic systems that refuel, repair, and assemble satellites and structures
+  in orbit
 permalink: https://www.envisioning.com/substrate/osam
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178035/subst
 
 ## Summary
 
-Robotic systems for building and repairing infrastructure in space.
+Robotic systems that refuel, repair, and assemble satellites and structures in orbit
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: spatial-computing-rigs
 hub: pixels
 title: Spatial Computing Rigs
-summary: Ultra-thin XR headsets and room-scale smart surfaces.
+summary: Lightweight XR headsets and sensor-embedded surfaces that blend VR, AR, and
+  physical play
 permalink: https://www.envisioning.com/pixels/spatial-computing-rigs
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058873/pixel
 
 ## Summary
 
-Ultra-thin XR headsets and room-scale smart surfaces.
+Lightweight XR headsets and sensor-embedded surfaces that blend VR, AR, and physical play
 
 ## Description
 

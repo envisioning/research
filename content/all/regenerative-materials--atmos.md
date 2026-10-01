@@ -2,7 +2,8 @@
 slug: regenerative-materials
 hub: atmos
 title: Regenerative Materials & Circular Manufacturing
-summary: Carbon-negative concrete and synthetic biological polymers.
+summary: Materials that sequester CO₂ during production, from bio-based polymers to
+  carbon-negative concrete
 permalink: https://www.envisioning.com/atmos/regenerative-materials
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996098/atmos
 
 ## Summary
 
-Carbon-negative concrete and synthetic biological polymers.
+Materials that sequester CO₂ during production, from bio-based polymers to carbon-negative concrete
 
 ## Description
 

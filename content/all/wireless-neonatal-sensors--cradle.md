@@ -2,7 +2,8 @@
 slug: wireless-neonatal-sensors
 hub: cradle
 title: Wireless Neonatal Sensors
-summary: Skin-like wearables for NICU monitoring.
+summary: Soft, wireless sensors that monitor vital signs in premature and critically
+  ill newborns
 permalink: https://www.envisioning.com/cradle/wireless-neonatal-sensors
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126049/cradl
 
 ## Summary
 
-Skin-like wearables for NICU monitoring.
+Soft, wireless sensors that monitor vital signs in premature and critically ill newborns
 
 ## Description
 

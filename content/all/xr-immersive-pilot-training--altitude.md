@@ -2,7 +2,8 @@
 slug: xr-immersive-pilot-training
 hub: altitude
 title: XR Immersive Flight Training & Synthetic Environments
-summary: VR/AR/MR systems reducing sim time and enabling mission rehearsal anywhere.
+summary: VR, AR, and MR systems that replicate cockpit environments for pilot training
+  without physical aircraft
 permalink: https://www.envisioning.com/altitude/xr-immersive-pilot-training
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643074/altit
 
 ## Summary
 
-VR/AR/MR systems reducing sim time and enabling mission rehearsal anywhere.
+VR, AR, and MR systems that replicate cockpit environments for pilot training without physical aircraft
 
 ## Description
 

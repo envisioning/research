@@ -2,7 +2,8 @@
 slug: synthetic-media-detection-systems
 hub: vortex
 title: Synthetic Media Detection Systems
-summary: AI forensics to identify manipulated or generated content.
+summary: Machine learning systems that identify AI-generated or manipulated video,
+  audio, and images
 permalink: https://www.envisioning.com/vortex/synthetic-media-detection-systems
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126824/vorte
 
 ## Summary
 
-AI forensics to identify manipulated or generated content.
+Machine learning systems that identify AI-generated or manipulated video, audio, and images
 
 ## Description
 

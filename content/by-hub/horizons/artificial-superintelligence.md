@@ -2,9 +2,10 @@
 slug: artificial-superintelligence
 hub: horizons
 title: Artificial Superintelligence
-summary: AI systems surpassing human cognitive capabilities across all domains.
+summary: AI systems that exceed human intelligence across all cognitive domains and
+  capabilities
 permalink: https://www.envisioning.com/horizons/artificial-superintelligence
-collection: intelligence-computation
+collection: software
 trl: 2
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521644/horiz
 
 ## Summary
 
-AI systems surpassing human cognitive capabilities across all domains.
+AI systems that exceed human intelligence across all cognitive domains and capabilities
 
 ## Description
 

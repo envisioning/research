@@ -2,7 +2,8 @@
 slug: algorithmic-bias-auditing
 hub: vitals
 title: Algorithmic Bias Auditing
-summary: Protocols to test clinical AI models for bias against specific demographics.
+summary: Testing clinical AI systems for fairness across patient demographics and
+  populations
 permalink: https://www.envisioning.com/vitals/algorithmic-bias-auditing
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116527/vital
 
 ## Summary
 
-Protocols to test clinical AI models for bias against specific demographics.
+Testing clinical AI systems for fairness across patient demographics and populations
 
 ## Description
 

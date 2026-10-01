@@ -2,8 +2,8 @@
 slug: blockchain-provenance-networks
 hub: forge
 title: Blockchain Provenance Networks
-summary: Shared ledgers tracking material origins, certifications, and handling events
-  across partners.
+summary: Shared ledgers tracking material origins and certifications across manufacturing
+  partners
 permalink: https://www.envisioning.com/forge/blockchain-provenance-networks
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111453/forge
 
 ## Summary
 
-Shared ledgers tracking material origins, certifications, and handling events across partners.
+Shared ledgers tracking material origins and certifications across manufacturing partners
 
 ## Description
 

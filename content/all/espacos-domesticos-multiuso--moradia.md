@@ -2,8 +2,7 @@
 slug: espacos-domesticos-multiuso
 hub: moradia
 title: Espaços Domésticos Multiuso
-summary: Uso flexível de espaços domésticos para múltiplas funções ao longo do tempo,
-  onde quartos funcionam como escritórios, salas como salas de aula ou academias.
+summary: Ambientes residenciais que se adaptam a diferentes funções ao longo do dia
 permalink: https://www.envisioning.com/moradia/espacos-domesticos-multiuso
 collection: sistemas-prediais-automacao
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668340/habit
 
 ## Summary
 
-Uso flexível de espaços domésticos para múltiplas funções ao longo do tempo, onde quartos funcionam como escritórios, salas como salas de aula ou academias.
+Ambientes residenciais que se adaptam a diferentes funções ao longo do dia
 
 ## Description
 

@@ -2,14 +2,10 @@
 slug: elastocalorics
 hub: cities
 title: Elastocalorics
-summary: 'This solution tackles the rising demand for energy-efficient and environmentally
-  friendly cooling systems. It works by using materials that absorb and release heat
-  under mechanical stress, eliminating the need for harmful refrigerants and reducing
-  energy consumption. This technology addresses the challenges of climate change and
-  urban heat islands, providing a sustainable alternative for cooling in residential,
-  commercial, and public spaces. '
+summary: Materials that cool through mechanical stress instead of refrigerants, reducing
+  energy use in HVAC systems
 permalink: https://www.envisioning.com/cities/elastocalorics
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 5
 impact: 1
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869526-elastocalorics.png
 
 ## Summary
 
-This solution tackles the rising demand for energy-efficient and environmentally friendly cooling systems. It works by using materials that absorb and release heat under mechanical stress, eliminating the need for harmful refrigerants and reducing energy consumption. This technology addresses the challenges of climate change and urban heat islands, providing a sustainable alternative for cooling in residential, commercial, and public spaces.
+Materials that cool through mechanical stress instead of refrigerants, reducing energy use in HVAC systems
 
 ## Description
 

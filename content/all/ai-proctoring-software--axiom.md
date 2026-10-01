@@ -2,7 +2,8 @@
 slug: ai-proctoring-software
 hub: axiom
 title: Proctoring Software
-summary: Remote exam monitoring with multi-signal cheating detection.
+summary: AI-powered remote exam monitoring that detects cheating through webcam, audio,
+  and screen analysis
 permalink: https://www.envisioning.com/axiom/ai-proctoring-software
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162245/axiom
 
 ## Summary
 
-Remote exam monitoring with multi-signal cheating detection.
+AI-powered remote exam monitoring that detects cheating through webcam, audio, and screen analysis
 
 ## Description
 

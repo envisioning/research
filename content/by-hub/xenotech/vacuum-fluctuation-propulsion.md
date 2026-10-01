@@ -2,21 +2,21 @@
 slug: vacuum-fluctuation-propulsion
 hub: xenotech
 title: Vacuum Fluctuation Propulsion
-summary: Theoretical propulsion systems extracting momentum from quantum vacuum fluctuations
-  and Casimir effect interactions.
+summary: Propellantless propulsion concepts using quantum vacuum energy and Casimir
+  effect interactions
 permalink: https://www.envisioning.com/xenotech/vacuum-fluctuation-propulsion
 collection: propulsion-physics
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655540/xenotech/technologies/vacuum-fluctuation-propulsion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903453/xenotech/technologies/vacuum-fluctuation-propulsion-openrouter-google-gemini-3.1-flash-image-preview-wetnmk.png
 ---
 
 # Vacuum Fluctuation Propulsion
 
 ## Summary
 
-Theoretical propulsion systems extracting momentum from quantum vacuum fluctuations and Casimir effect interactions.
+Propellantless propulsion concepts using quantum vacuum energy and Casimir effect interactions
 
 ## Description
 

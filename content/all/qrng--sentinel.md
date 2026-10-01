@@ -2,7 +2,8 @@
 slug: qrng
 hub: sentinel
 title: Quantum Random Number Generators
-summary: Hardware generating true randomness using quantum mechanical phenomena.
+summary: Hardware generating unpredictable randomness from quantum phenomena for cryptographic
+  security
 permalink: https://www.envisioning.com/sentinel/qrng
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461923/senti
 
 ## Summary
 
-Hardware generating true randomness using quantum mechanical phenomena.
+Hardware generating unpredictable randomness from quantum phenomena for cryptographic security
 
 ## Description
 

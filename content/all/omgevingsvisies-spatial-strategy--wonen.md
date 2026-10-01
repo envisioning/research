@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 4
 impact: 3
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889111/wonen/technologies/7258d89a-ce22-4eac-8ff4-b4f2f5beedc3-google-gemini-3.1-flash-image-preview-ucis9k.jpg
 ---
 
 # Omgevingsvisies (Spatial Strategy) as Constraint

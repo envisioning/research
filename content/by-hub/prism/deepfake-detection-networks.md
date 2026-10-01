@@ -2,7 +2,8 @@
 slug: deepfake-detection-networks
 hub: prism
 title: Deepfake Detection Networks
-summary: Adversarial ML models authenticating media in broadcast pipelines.
+summary: AI systems that verify video and audio authenticity by detecting synthetic
+  manipulation
 permalink: https://www.envisioning.com/prism/deepfake-detection-networks
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062617/pulse
 
 ## Summary
 
-Adversarial ML models authenticating media in broadcast pipelines.
+AI systems that verify video and audio authenticity by detecting synthetic manipulation
 
 ## Description
 

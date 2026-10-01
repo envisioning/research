@@ -2,7 +2,8 @@
 slug: carbon-accounting-verification
 hub: atmos
 title: Carbon Accounting & Verification Layers
-summary: Automated MRV for carbon markets using IoT and satellite data.
+summary: Automated systems that track and verify carbon credits using satellites,
+  IoT, and blockchain
 permalink: https://www.envisioning.com/atmos/carbon-accounting-verification
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995680/atmos
 
 ## Summary
 
-Automated MRV for carbon markets using IoT and satellite data.
+Automated systems that track and verify carbon credits using satellites, IoT, and blockchain
 
 ## Description
 

@@ -2,12 +2,13 @@
 slug: high-performance-memory-interconnects
 hub: interface
 title: High-Performance Memory & Interconnects
-summary: HBM3E, CXL memory expansion, and 224G SerDes for data-intensive computing.
+summary: Advanced memory and data pathways that feed AI chips and processors at extreme
+  speeds
 permalink: https://www.envisioning.com/interface/high-performance-memory-interconnects
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730750/interface/technologies/high-performance-memory-interconnects-google-gemini-3-pro-image-preview-him9th.png
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730750/inter
 
 ## Summary
 
-HBM3E, CXL memory expansion, and 224G SerDes for data-intensive computing.
+Advanced memory and data pathways that feed AI chips and processors at extreme speeds
 
 ## Description
 

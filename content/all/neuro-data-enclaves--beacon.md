@@ -2,7 +2,8 @@
 slug: neuro-data-enclaves
 hub: beacon
 title: Neuro-Data Privacy Enclaves
-summary: Secure environments for processing neural interface data.
+summary: Secure computing environments that process brain-computer interface data
+  without exposing raw neural signals
 permalink: https://www.envisioning.com/beacon/neuro-data-enclaves
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124329/beaco
 
 ## Summary
 
-Secure environments for processing neural interface data.
+Secure computing environments that process brain-computer interface data without exposing raw neural signals
 
 ## Description
 

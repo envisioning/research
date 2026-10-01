@@ -2,8 +2,8 @@
 slug: emotion-recognition-systems
 hub: wintermute
 title: Emotion Recognition Systems
-summary: Affective computing engines interpreting facial, vocal, and physiological
-  cues.
+summary: AI systems that detect human emotions from facial, vocal, and physiological
+  signals
 permalink: https://www.envisioning.com/wintermute/emotion-recognition-systems
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079854/winte
 
 ## Summary
 
-Affective computing engines interpreting facial, vocal, and physiological cues.
+AI systems that detect human emotions from facial, vocal, and physiological signals
 
 ## Description
 

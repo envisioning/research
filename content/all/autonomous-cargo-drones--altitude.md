@@ -2,7 +2,7 @@
 slug: autonomous-cargo-drones
 hub: altitude
 title: Autonomous Cargo Drones
-summary: Heavy-lift unmanned aerial vehicles for middle-mile logistics.
+summary: Heavy-lift UAVs transporting cargo across middle-mile routes without pilots
 permalink: https://www.envisioning.com/altitude/autonomous-cargo-drones
 collection: applications
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643216/altit
 
 ## Summary
 
-Heavy-lift unmanned aerial vehicles for middle-mile logistics.
+Heavy-lift UAVs transporting cargo across middle-mile routes without pilots
 
 ## Description
 

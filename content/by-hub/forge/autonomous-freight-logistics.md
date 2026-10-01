@@ -2,8 +2,8 @@
 slug: autonomous-freight-logistics
 hub: forge
 title: Autonomous Freight and Yard Logistics
-summary: Self-driving trucks, yard tractors, and handling vehicles orchestrated for
-  continuous material flow.
+summary: Self-driving trucks and yard vehicles that coordinate material flow across
+  warehouses, ports, and distribution centers
 permalink: https://www.envisioning.com/forge/autonomous-freight-logistics
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111453/forge
 
 ## Summary
 
-Self-driving trucks, yard tractors, and handling vehicles orchestrated for continuous material flow.
+Self-driving trucks and yard vehicles that coordinate material flow across warehouses, ports, and distribution centers
 
 ## Description
 

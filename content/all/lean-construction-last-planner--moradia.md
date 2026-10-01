@@ -2,8 +2,8 @@
 slug: lean-construction-last-planner
 hub: moradia
 title: Lean Construction e Last Planner em Escala
-summary: Gestão de produção que reduz variabilidade, melhora fluxo e transforma planejamento
-  de obra em disciplina operacional.
+summary: Gestão de obra que reduz atrasos ao focar em compromissos semanais e remoção
+  de restrições
 permalink: https://www.envisioning.com/moradia/lean-construction-last-planner
 collection: metodos-execucao-obra
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766579892/habit
 
 ## Summary
 
-Gestão de produção que reduz variabilidade, melhora fluxo e transforma planejamento de obra em disciplina operacional.
+Gestão de obra que reduz atrasos ao focar em compromissos semanais e remoção de restrições
 
 ## Description
 

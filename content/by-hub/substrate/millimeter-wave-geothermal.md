@@ -2,7 +2,8 @@
 slug: millimeter-wave-geothermal
 hub: substrate
 title: Deep Geothermal via Millimeter-Wave Drilling
-summary: Vaporizing rock with directed energy to access supercritical heat anywhere.
+summary: Vaporizing rock with millimeter-wave energy to reach deep geothermal heat
+  anywhere
 permalink: https://www.envisioning.com/substrate/millimeter-wave-geothermal
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117138/subst
 
 ## Summary
 
-Vaporizing rock with directed energy to access supercritical heat anywhere.
+Vaporizing rock with millimeter-wave energy to reach deep geothermal heat anywhere
 
 ## Description
 

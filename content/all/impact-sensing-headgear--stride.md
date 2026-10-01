@@ -2,7 +2,8 @@
 slug: impact-sensing-headgear
 hub: stride
 title: Impact-Sensing Helmets & Mouthguards
-summary: Embedded accelerometers tracking head impacts and concussion risk.
+summary: Sensors in protective gear that measure head impact forces to assess concussion
+  risk in real-time
 permalink: https://www.envisioning.com/stride/impact-sensing-headgear
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128025/strid
 
 ## Summary
 
-Embedded accelerometers tracking head impacts and concussion risk.
+Sensors in protective gear that measure head impact forces to assess concussion risk in real-time
 
 ## Description
 

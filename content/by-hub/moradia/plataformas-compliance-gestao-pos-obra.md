@@ -2,8 +2,8 @@
 slug: plataformas-compliance-gestao-pos-obra
 hub: moradia
 title: Plataformas de Compliance e Gestão Pós-Obra
-summary: Sistemas para garantir conformidade com normas técnicas e regulamentações,
-  incluindo gestão de garantias, assistência técnica e relacionamento com proprietários.
+summary: Sistemas que automatizam conformidade técnica e gestão de garantias após
+  a entrega de imóveis
 permalink: https://www.envisioning.com/moradia/plataformas-compliance-gestao-pos-obra
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766332908/forma
 
 ## Summary
 
-Sistemas para garantir conformidade com normas técnicas e regulamentações, incluindo gestão de garantias, assistência técnica e relacionamento com proprietários.
+Sistemas que automatizam conformidade técnica e gestão de garantias após a entrega de imóveis
 
 ## Description
 

@@ -2,13 +2,13 @@
 slug: camera-based-personal-safety-wearables
 hub: interface
 title: Camera-Based Personal Safety Wearables
-summary: Patented devices that detect and alert when someone approaches from behind
-  using camera-based detection.
+summary: Wearable cameras that detect people approaching from behind and alert the
+  wearer in real time
 permalink: https://www.envisioning.com/interface/camera-based-personal-safety-wearables
-collection: advanced-interaction-modalities
+collection: ethics-security
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742798/interface/technologies/camera-based-personal-safety-wearables-google-gemini-3-pro-image-preview-unmrao.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742798/inter
 
 ## Summary
 
-Patented devices that detect and alert when someone approaches from behind using camera-based detection.
+Wearable cameras that detect people approaching from behind and alert the wearer in real time
 
 ## Description
 

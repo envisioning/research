@@ -2,7 +2,8 @@
 slug: consumer-neuro-wearables
 hub: cortex
 title: Consumer Neuro-Wearables
-summary: Dry-EEG headsets and earbuds for focus and meditation.
+summary: Headbands and earbuds using dry-EEG sensors to track brain activity for meditation,
+  focus, and sleep
 permalink: https://www.envisioning.com/cortex/consumer-neuro-wearables
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010294/corte
 
 ## Summary
 
-Dry-EEG headsets and earbuds for focus and meditation.
+Headbands and earbuds using dry-EEG sensors to track brain activity for meditation, focus, and sleep
 
 ## Description
 

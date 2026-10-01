@@ -2,21 +2,21 @@
 slug: borg-collective-memory-core
 hub: subspace
 title: Collective Memory Core
-summary: Distributed data structure containing all assimilated knowledge shared among
-  connected drones.
+summary: Unified knowledge repository instantly shared across all networked drones
+  in a hive intelligence
 permalink: https://www.envisioning.com/subspace/borg-collective-memory-core
 collection: computing
 trl: 8
 impact: 1
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263393/subspaceindex/technologies/borg-collective-memory-core.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907674/subspace/technologies/borg-collective-memory-core-openrouter-google-gemini-3.1-flash-image-preview-rfbcte.png
 ---
 
 # Collective Memory Core
 
 ## Summary
 
-Distributed data structure containing all assimilated knowledge shared among connected drones.
+Unified knowledge repository instantly shared across all networked drones in a hive intelligence
 
 ## Description
 

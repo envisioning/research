@@ -2,7 +2,8 @@
 slug: automated-milking-systems
 hub: spore
 title: Automated Milking Systems
-summary: Robotic milking parlors with computer vision teat alignment.
+summary: Robotic milking stations that let cows choose when to be milked while monitoring
+  health metrics
 permalink: https://www.envisioning.com/spore/automated-milking-systems
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179590/spore
 
 ## Summary
 
-Robotic milking parlors with computer vision teat alignment.
+Robotic milking stations that let cows choose when to be milked while monitoring health metrics
 
 ## Description
 

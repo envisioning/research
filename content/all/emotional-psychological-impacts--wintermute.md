@@ -2,7 +2,8 @@
 slug: emotional-psychological-impacts
 hub: wintermute
 title: Emotional & Psychological Impact Management
-summary: Managing human dependency on emotionally fluent synthetic companions.
+summary: Frameworks for preventing unhealthy dependency on emotionally engaging AI
+  companions
 permalink: https://www.envisioning.com/wintermute/emotional-psychological-impacts
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180477/winte
 
 ## Summary
 
-Managing human dependency on emotionally fluent synthetic companions.
+Frameworks for preventing unhealthy dependency on emotionally engaging AI companions
 
 ## Description
 

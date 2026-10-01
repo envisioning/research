@@ -2,7 +2,8 @@
 slug: liquid-democracy-platforms
 hub: polis
 title: Liquid Democracy Platforms
-summary: Hybrid voting systems combining direct and representative democracy.
+summary: Voting systems where citizens can vote directly or delegate their vote to
+  trusted representatives
 permalink: https://www.envisioning.com/polis/liquid-democracy-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126362/polis
 
 ## Summary
 
-Hybrid voting systems combining direct and representative democracy.
+Voting systems where citizens can vote directly or delegate their vote to trusted representatives
 
 ## Description
 

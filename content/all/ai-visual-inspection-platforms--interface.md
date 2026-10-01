@@ -2,14 +2,13 @@
 slug: ai-visual-inspection-platforms
 hub: interface
 title: AI Visual Inspection Platforms
-summary: Automated AI visual inspection achieving 99% accuracy, integrating with existing
-  equipment and requiring no coding skills, optimizing quality control across various
-  industries.
+summary: Computer vision systems that detect product defects and quality issues in
+  manufacturing
 permalink: https://www.envisioning.com/interface/ai-visual-inspection-platforms
-collection: consumer-electronics-platforms
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737556/interface/technologies/ai-visual-inspection-platforms-google-gemini-3-pro-image-preview-bk88gk.png
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737556/inter
 
 ## Summary
 
-Automated AI visual inspection achieving 99% accuracy, integrating with existing equipment and requiring no coding skills, optimizing quality control across various industries.
+Computer vision systems that detect product defects and quality issues in manufacturing
 
 ## Description
 

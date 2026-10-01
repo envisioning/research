@@ -2,8 +2,8 @@
 slug: generative-mmo-worlds
 hub: prism
 title: Generative MMO Worlds
-summary: Massively multiplayer games with infinite, non-repeating AI-generated lore
-  and terrain.
+summary: Persistent online worlds where AI generates evolving terrain, lore, and economies
+  in response to player actions
 permalink: https://www.envisioning.com/prism/generative-mmo-worlds
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074498/pulse
 
 ## Summary
 
-Massively multiplayer games with infinite, non-repeating AI-generated lore and terrain.
+Persistent online worlds where AI generates evolving terrain, lore, and economies in response to player actions
 
 ## Description
 

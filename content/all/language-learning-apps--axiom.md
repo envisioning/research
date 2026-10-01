@@ -2,7 +2,8 @@
 slug: language-learning-apps
 hub: axiom
 title: Language Learning Apps
-summary: Mobile-first apps blending spaced repetition and speech recognition.
+summary: Mobile platforms using spaced repetition, speech recognition, and AI to teach
+  languages
 permalink: https://www.envisioning.com/axiom/language-learning-apps
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074637/axiom
 
 ## Summary
 
-Mobile-first apps blending spaced repetition and speech recognition.
+Mobile platforms using spaced repetition, speech recognition, and AI to teach languages
 
 ## Description
 

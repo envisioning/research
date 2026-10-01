@@ -2,20 +2,21 @@
 slug: precision-photobiomodulation-systems
 hub: epoch
 title: Precision Photobiomodulation Systems
-summary: Light-delivery hardware tuned to mitochondrial rejuvenation wavelengths.
+summary: Calibrated red and near-infrared light devices that stimulate cellular repair
+  and mitochondrial function
 permalink: https://www.envisioning.com/epoch/precision-photobiomodulation-systems
 collection: hardware
 trl: 6
 impact: 3
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882258/epoch/technologies/02f201cc-01ff-43c1-9f49-93753630b6b0-google-gemini-3.1-flash-image-preview-dng9ij.jpg
 ---
 
 # Precision Photobiomodulation Systems
 
 ## Summary
 
-Light-delivery hardware tuned to mitochondrial rejuvenation wavelengths.
+Calibrated red and near-infrared light devices that stimulate cellular repair and mitochondrial function
 
 ## Description
 

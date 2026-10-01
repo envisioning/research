@@ -2,7 +2,8 @@
 slug: robotica-inspecao-manutencao-redes
 hub: moradia
 title: Robótica para Inspeção e Manutenção de Redes
-summary: Robôs autônomos para vistoria de tubulações, galerias e dutos sem interrupção.
+summary: Robôs autônomos inspecionam tubulações e dutos urbanos sem escavação ou interrupção
+  de serviço
 permalink: https://www.envisioning.com/moradia/robotica-inspecao-manutencao-redes
 collection: cidade-infraestrutura-urbana
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583569/habit
 
 ## Summary
 
-Robôs autônomos para vistoria de tubulações, galerias e dutos sem interrupção.
+Robôs autônomos inspecionam tubulações e dutos urbanos sem escavação ou interrupção de serviço
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: polarization-matching-and-tracking
 hub: interface
 title: Polarization Matching and Tracking
-summary: Technology optimizing antenna polarization to avoid interference.
+summary: Adaptive antennas that align with incoming signal polarization to minimize
+  wireless power loss
 permalink: https://www.envisioning.com/interface/polarization-matching-and-tracking
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887471/interface/technologies/5fdc58d3-349b-4a18-9c59-d1f664250301-google-gemini-3.1-flash-image-preview-qfrvb9.jpg
 ---
 
 # Polarization Matching and Tracking
 
 ## Summary
 
-Technology optimizing antenna polarization to avoid interference.
+Adaptive antennas that align with incoming signal polarization to minimize wireless power loss
 
 ## Description
 

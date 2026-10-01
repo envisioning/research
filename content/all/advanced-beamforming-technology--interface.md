@@ -2,12 +2,13 @@
 slug: advanced-beamforming-technology
 hub: interface
 title: Advanced Beamforming Technology
-summary: Algorithms generating best-fit radio beams for optimal communication.
+summary: Focused radio signals using antenna arrays to target specific devices instead
+  of broadcasting uniformly
 permalink: https://www.envisioning.com/interface/advanced-beamforming-technology
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726365/interface/technologies/advanced-beamforming-technology-google-gemini-3-pro-image-preview-lra71g.jpg
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726365/inter
 
 ## Summary
 
-Algorithms generating best-fit radio beams for optimal communication.
+Focused radio signals using antenna arrays to target specific devices instead of broadcasting uniformly
 
 ## Description
 

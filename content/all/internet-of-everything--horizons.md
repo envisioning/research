@@ -2,9 +2,10 @@
 slug: internet-of-everything
 hub: horizons
 title: Internet of Everything
-summary: Intelligent connection of people, processes, data, and things.
+summary: Network connecting people, devices, data, and processes into one intelligent
+  system
 permalink: https://www.envisioning.com/horizons/internet-of-everything
-collection: cities-mobility
+collection: applications
 trl: 4
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526784/horiz
 
 ## Summary
 
-Intelligent connection of people, processes, data, and things.
+Network connecting people, devices, data, and processes into one intelligent system
 
 ## Description
 

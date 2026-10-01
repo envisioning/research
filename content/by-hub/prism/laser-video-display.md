@@ -2,19 +2,21 @@
 slug: laser-video-display
 hub: prism
 title: Laser Video Display
-summary: Displays using laser light sources for wide color gamut.
+summary: Display technology using laser light sources for wider color range and higher
+  brightness
 permalink: https://www.envisioning.com/prism/laser-video-display
 collection: hardware
 trl: 7
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898140/prism/technologies/aa46b833-f30f-429e-91af-bdb371c0b64f-google-gemini-3.1-flash-image-preview-cufr6w.jpg
 ---
 
 # Laser Video Display
 
 ## Summary
 
-Displays using laser light sources for wide color gamut.
+Display technology using laser light sources for wider color range and higher brightness
 
 ## Description
 

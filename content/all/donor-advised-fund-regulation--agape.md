@@ -3,7 +3,6 @@ slug: donor-advised-fund-regulation
 hub: agape
 title: Donor-Advised Fund Regulation & Scrutiny
 summary: Growing regulatory scrutiny of donor-advised funds, questioning tax benefits
-  without mandatory payout requirements.
 permalink: https://www.envisioning.com/agape/donor-advised-fund-regulation
 collection: power-agency-governance
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367639/agape
 
 ## Summary
 
-Growing regulatory scrutiny of donor-advised funds, questioning tax benefits without mandatory payout requirements.
+Growing regulatory scrutiny of donor-advised funds, questioning tax benefits
 
 ## Description
 

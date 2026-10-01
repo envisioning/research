@@ -2,8 +2,8 @@
 slug: data-preparation-business-users
 hub: datatrends
 title: Data Preparation by Business Users
-summary: Self-service data preparation tools enabling business users to clean, transform,
-  and prepare data without IT dependency.
+summary: Self-service platforms enabling business users to clean and transform data
+  without IT support
 permalink: https://www.envisioning.com/datatrends/data-preparation-business-users
 collection: agile-infrastructure
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373557/datat
 
 ## Summary
 
-Self-service data preparation tools enabling business users to clean, transform, and prepare data without IT dependency.
+Self-service platforms enabling business users to clean and transform data without IT support
 
 ## Description
 

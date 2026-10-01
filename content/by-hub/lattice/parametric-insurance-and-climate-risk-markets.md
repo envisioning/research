@@ -2,7 +2,8 @@
 slug: parametric-insurance-and-climate-risk-markets
 hub: lattice
 title: Parametric Insurance & Climate Risk Markets
-summary: Smart-contract payouts triggered by oracle-based climate events.
+summary: Insurance payouts triggered automatically by weather data and climate events
+  via smart contracts
 permalink: https://www.envisioning.com/lattice/parametric-insurance-and-climate-risk-markets
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998598/flows
 
 ## Summary
 
-Smart-contract payouts triggered by oracle-based climate events.
+Insurance payouts triggered automatically by weather data and climate events via smart contracts
 
 ## Description
 

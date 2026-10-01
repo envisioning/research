@@ -2,7 +2,8 @@
 slug: autonomous-organizations-services
 hub: lattice
 title: Autonomous Organizations & Services
-summary: Service providers coordinated by smart contracts and AI governance.
+summary: Service providers coordinated by smart contracts instead of traditional corporate
+  hierarchies
 permalink: https://www.envisioning.com/lattice/autonomous-organizations-services
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998437/flows
 
 ## Summary
 
-Service providers coordinated by smart contracts and AI governance.
+Service providers coordinated by smart contracts instead of traditional corporate hierarchies
 
 ## Description
 

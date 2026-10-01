@@ -2,7 +2,8 @@
 slug: algae-based-biopolymers
 hub: fabric
 title: Algae-Based Biopolymers
-summary: Carbon-negative materials derived from algae biomass.
+summary: Biodegradable plastics from fast-growing algae for apparel components and
+  accessories
 permalink: https://www.envisioning.com/fabric/algae-based-biopolymers
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058605/threa
 
 ## Summary
 
-Carbon-negative materials derived from algae biomass.
+Biodegradable plastics from fast-growing algae for apparel components and accessories
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: volumetric-capture-studios
 hub: pixels
 title: Volumetric Capture Studios
-summary: Multi-camera rigs capturing actors as fully navigable 3D performances.
+summary: Multi-camera rigs that record actors as navigable 3D holograms for games
+  and XR
 permalink: https://www.envisioning.com/pixels/volumetric-capture-studios
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058884/pixel
 
 ## Summary
 
-Multi-camera rigs capturing actors as fully navigable 3D performances.
+Multi-camera rigs that record actors as navigable 3D holograms for games and XR
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: advanced-radiation-shielding
 hub: apogee
 title: Advanced Radiation Shielding
-summary: Engineered materials and active systems to protect crews from deep-space
-  radiation.
+summary: Materials and active systems that protect astronauts from cosmic rays and
+  solar radiation
 permalink: https://www.envisioning.com/apogee/advanced-radiation-shielding
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012306/apoge
 
 ## Summary
 
-Engineered materials and active systems to protect crews from deep-space radiation.
+Materials and active systems that protect astronauts from cosmic rays and solar radiation
 
 ## Description
 

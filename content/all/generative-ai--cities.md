@@ -2,15 +2,10 @@
 slug: generative-ai
 hub: cities
 title: Generative AI
-summary: By leveraging advanced algorithms and machine learning techniques, GenAI
-  can create optimised urban designs that enhance sustainability, efficiency, and
-  resilience. This technology generates multiple design scenarios based on previously
-  trained data and specific criteria like energy efficiency, traffic flow, and disaster
-  resilience, enabling urban planners to make informed, data-driven decisions. When
-  integrating community feedback and simulating various urban planning scenarios,
-  this solution fosters more inclusive and participatory planning processes.
+summary: AI systems that generate optimized urban design scenarios for sustainability,
+  efficiency, and resilience
 permalink: https://www.envisioning.com/cities/generative-ai
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: software
 trl: 7
 impact: 2
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792187-generative-ai.png
 
 ## Summary
 
-By leveraging advanced algorithms and machine learning techniques, GenAI can create optimised urban designs that enhance sustainability, efficiency, and resilience. This technology generates multiple design scenarios based on previously trained data and specific criteria like energy efficiency, traffic flow, and disaster resilience, enabling urban planners to make informed, data-driven decisions. When integrating community feedback and simulating various urban planning scenarios, this solution fosters more inclusive and participatory planning processes.
+AI systems that generate optimized urban design scenarios for sustainability, efficiency, and resilience
 
 ## Description
 

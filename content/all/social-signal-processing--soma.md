@@ -2,7 +2,8 @@
 slug: social-signal-processing
 hub: soma
 title: Social Signal Processing
-summary: Computational analysis of non-verbal cues in group interactions.
+summary: Computational analysis of non-verbal cues like gestures, tone, and proximity
+  in social interactions
 permalink: https://www.envisioning.com/soma/social-signal-processing
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177837/soma/
 
 ## Summary
 
-Computational analysis of non-verbal cues in group interactions.
+Computational analysis of non-verbal cues like gestures, tone, and proximity in social interactions
 
 ## Description
 

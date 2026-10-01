@@ -2,7 +2,8 @@
 slug: building-integrated-agriculture
 hub: habitat
 title: Building-Integrated Agriculture
-summary: Vertical farms and hydroponic systems embedded in building architecture.
+summary: Vertical farms and hydroponic systems embedded directly into building facades,
+  rooftops, and interiors
 permalink: https://www.envisioning.com/habitat/building-integrated-agriculture
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117171/habit
 
 ## Summary
 
-Vertical farms and hydroponic systems embedded in building architecture.
+Vertical farms and hydroponic systems embedded directly into building facades, rooftops, and interiors
 
 ## Description
 

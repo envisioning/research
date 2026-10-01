@@ -2,7 +2,8 @@
 slug: mine-closure-planning
 hub: stratum
 title: Mine Closure and Rehabilitation Planning Systems
-summary: Life-of-mine software integrating closure, remediation, and financial provisioning.
+summary: Software for planning mine site restoration, environmental remediation, and
+  closure costs
 permalink: https://www.envisioning.com/stratum/mine-closure-planning
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177883/strat
 
 ## Summary
 
-Life-of-mine software integrating closure, remediation, and financial provisioning.
+Software for planning mine site restoration, environmental remediation, and closure costs
 
 ## Description
 

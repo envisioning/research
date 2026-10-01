@@ -8,6 +8,7 @@ collection: applications
 trl: 4
 impact: 5
 investment: 4
+image_url: null
 ---
 
 # De-Extinction

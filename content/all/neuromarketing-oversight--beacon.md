@@ -2,7 +2,8 @@
 slug: neuromarketing-oversight
 hub: beacon
 title: Neuromarketing Oversight Boards
-summary: Governance of brain-based persuasion techniques.
+summary: Independent bodies regulating neuroscience-based marketing and persuasion
+  practices
 permalink: https://www.envisioning.com/beacon/neuromarketing-oversight
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126056/beaco
 
 ## Summary
 
-Governance of brain-based persuasion techniques.
+Independent bodies regulating neuroscience-based marketing and persuasion practices
 
 ## Description
 

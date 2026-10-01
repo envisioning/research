@@ -2,9 +2,8 @@
 slug: expansao-self-storage-urbano-externalizacao-funcoes-domesticas
 hub: moradia
 title: Expansão de Self-Storage Urbano e Externalização de Funções Domésticas
-summary: Crescimento de unidades de armazenamento urbano como resposta à redução de
-  metragem das unidades habitacionais, aumento da mobilidade residencial e uso híbrido
-  da moradia, externalizando funções tradicionalmente domésticas.
+summary: Unidades de armazenamento urbano compensam a redução de metragem e mobilidade
+  residencial crescente
 permalink: https://www.envisioning.com/moradia/expansao-self-storage-urbano-externalizacao-funcoes-domesticas
 collection: modelos-mercado-governanca
 trl: 3
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766663465/habit
 
 ## Summary
 
-Crescimento de unidades de armazenamento urbano como resposta à redução de metragem das unidades habitacionais, aumento da mobilidade residencial e uso híbrido da moradia, externalizando funções tradicionalmente domésticas.
+Unidades de armazenamento urbano compensam a redução de metragem e mobilidade residencial crescente
 
 ## Description
 

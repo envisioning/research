@@ -3,7 +3,6 @@ slug: beneficiary-councils
 hub: agape
 title: Beneficiary Councils with Veto Power
 summary: Rise of beneficiary councils with veto or allocation power, creating new
-  accountability mechanisms driven by affected communities.
 permalink: https://www.envisioning.com/agape/beneficiary-councils
 collection: power-agency-governance
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419329/phila
 
 ## Summary
 
-Rise of beneficiary councils with veto or allocation power, creating new accountability mechanisms driven by affected communities.
+Rise of beneficiary councils with veto or allocation power, creating new
 
 ## Description
 

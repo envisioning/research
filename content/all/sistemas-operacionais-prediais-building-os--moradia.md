@@ -2,12 +2,8 @@
 slug: sistemas-operacionais-prediais-building-os
 hub: moradia
 title: Sistemas Operacionais Prediais (Building OS)
-summary: Plataforma integrada que centraliza todas as funções operacionais de um edifício,
-  incluindo gestão condominial completa, integração BMS e sistemas prediais, CMMS
-  e gestão de SLA, manutenção preditiva, marketplaces de prestadores, agendamento
-  de mudanças e obras, comunicação síndico-morador, votação e governança, agendamento
-  de consumo energético doméstico, e integração de dados operacionais, criando um
-  sistema operacional completo para edifícios.
+summary: Plataforma que centraliza gestão condominial, manutenção, comunicação e operações
+  prediais em um único sistema
 permalink: https://www.envisioning.com/moradia/sistemas-operacionais-prediais-building-os
 collection: plataformas-dados
 trl: 4
@@ -20,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533250/habit
 
 ## Summary
 
-Plataforma integrada que centraliza todas as funções operacionais de um edifício, incluindo gestão condominial completa, integração BMS e sistemas prediais, CMMS e gestão de SLA, manutenção preditiva, marketplaces de prestadores, agendamento de mudanças e obras, comunicação síndico-morador, votação e governança, agendamento de consumo energético doméstico, e integração de dados operacionais, criando um sistema operacional completo para edifícios.
+Plataforma que centraliza gestão condominial, manutenção, comunicação e operações prediais em um único sistema
 
 ## Description
 

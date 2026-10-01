@@ -2,7 +2,8 @@
 slug: seguros-parametricos
 hub: moradia
 title: Seguros Paramétricos para Condomínios
-summary: Apólices de seguro ativadas automaticamente por dados de sensores IoT.
+summary: Apólices acionadas automaticamente por dados de sensores quando condições
+  pré-definidas são atingidas
 permalink: https://www.envisioning.com/moradia/seguros-parametricos
 collection: modelos-mercado-governanca
 trl: 1
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533648/habit
 
 ## Summary
 
-Apólices de seguro ativadas automaticamente por dados de sensores IoT.
+Apólices acionadas automaticamente por dados de sensores quando condições pré-definidas são atingidas
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: long-duration-storage
 hub: grid
 title: Long-Duration Energy Storage
-summary: Storage systems capable of discharging energy for 10+ hours.
+summary: Systems storing grid energy for 10+ hours using flow batteries, compressed
+  air, or pumped hydro
 permalink: https://www.envisioning.com/grid/long-duration-storage
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131814/grid/
 
 ## Summary
 
-Storage systems capable of discharging energy for 10+ hours.
+Systems storing grid energy for 10+ hours using flow batteries, compressed air, or pumped hydro
 
 ## Description
 

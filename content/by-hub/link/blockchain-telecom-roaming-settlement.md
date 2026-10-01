@@ -2,7 +2,8 @@
 slug: blockchain-telecom-roaming-settlement
 hub: link
 title: Blockchain for Roaming & Wholesale Settlement
-summary: Distributed ledgers to automate inter-operator billing and trust.
+summary: Distributed ledgers that automate billing and settlement between telecom
+  carriers
 permalink: https://www.envisioning.com/link/blockchain-telecom-roaming-settlement
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436387/link/
 
 ## Summary
 
-Distributed ledgers to automate inter-operator billing and trust.
+Distributed ledgers that automate billing and settlement between telecom carriers
 
 ## Description
 

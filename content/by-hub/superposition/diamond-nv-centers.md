@@ -2,8 +2,8 @@
 slug: diamond-nv-centers
 hub: superposition
 title: Diamond NV Centers
-summary: Nitrogen-vacancy centers in diamond capable of operation at room temperature
-  for sensing and computing.
+summary: Quantum defects in diamond that sense magnetic fields and store information
+  at room temperature
 permalink: https://www.envisioning.com/superposition/diamond-nv-centers
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763892735/super
 
 ## Summary
 
-Nitrogen-vacancy centers in diamond capable of operation at room temperature for sensing and computing.
+Quantum defects in diamond that sense magnetic fields and store information at room temperature
 
 ## Description
 

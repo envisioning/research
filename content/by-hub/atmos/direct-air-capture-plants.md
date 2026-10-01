@@ -2,7 +2,8 @@
 slug: direct-air-capture-plants
 hub: atmos
 title: Direct Air Capture Plants
-summary: Commercial DAC facilities coupled with geological storage.
+summary: Industrial-scale facilities that remove CO₂ from ambient air and store it
+  underground
 permalink: https://www.envisioning.com/atmos/direct-air-capture-plants
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764176749/atmos
 
 ## Summary
 
-Commercial DAC facilities coupled with geological storage.
+Industrial-scale facilities that remove CO₂ from ambient air and store it underground
 
 ## Description
 

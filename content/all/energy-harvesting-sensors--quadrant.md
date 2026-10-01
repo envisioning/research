@@ -2,7 +2,8 @@
 slug: energy-harvesting-sensors
 hub: quadrant
 title: Energy Harvesting Sensors
-summary: Batteryless IoT devices powered by ambient energy.
+summary: Self-powered sensors that convert ambient energy into electricity for industrial
+  monitoring
 permalink: https://www.envisioning.com/quadrant/energy-harvesting-sensors
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126528/quadr
 
 ## Summary
 
-Batteryless IoT devices powered by ambient energy.
+Self-powered sensors that convert ambient energy into electricity for industrial monitoring
 
 ## Description
 

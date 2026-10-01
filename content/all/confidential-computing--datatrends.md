@@ -2,8 +2,8 @@
 slug: confidential-computing
 hub: datatrends
 title: Confidential Computing for Analytics
-summary: Hardware and software technologies that protect data and analytics workloads
-  in use, enabling secure processing of sensitive information.
+summary: Hardware-based secure environments that protect sensitive data during active
+  processing and analysis
 permalink: https://www.envisioning.com/datatrends/confidential-computing
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768160215/datat
 
 ## Summary
 
-Hardware and software technologies that protect data and analytics workloads in use, enabling secure processing of sensitive information.
+Hardware-based secure environments that protect sensitive data during active processing and analysis
 
 ## Description
 

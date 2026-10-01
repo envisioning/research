@@ -2,22 +2,21 @@
 slug: gravity-manipulation-propulsion
 hub: xenotech
 title: Gravity Manipulation Propulsion
-summary: Core propulsion system using multiple synchronized gravity amplifiers to
-  create localized spacetime distortion fields for lift, acceleration, and directional
-  control.
+summary: Propulsion via controlled gravitational fields instead of thrust or aerodynamic
+  lift
 permalink: https://www.envisioning.com/xenotech/gravity-manipulation-propulsion
 collection: propulsion-physics
 trl: 4
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762026446/xenotech/technologies/gravity-manipulation-propulsion-openai-gpt-5-osr9yx.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898404/xenotech/technologies/gravity-manipulation-propulsion-openrouter-google-gemini-3.1-flash-image-preview-q2cxk2.png
 ---
 
 # Gravity Manipulation Propulsion
 
 ## Summary
 
-Core propulsion system using multiple synchronized gravity amplifiers to create localized spacetime distortion fields for lift, acceleration, and directional control.
+Propulsion via controlled gravitational fields instead of thrust or aerodynamic lift
 
 ## Description
 

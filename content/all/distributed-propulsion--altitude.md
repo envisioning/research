@@ -2,19 +2,21 @@
 slug: distributed-propulsion
 hub: altitude
 title: Distributed Propulsion
-summary: Multiple small engines for more efficient air travel.
+summary: Multiple small motors distributed across an aircraft for improved efficiency
+  and redundancy
 permalink: https://www.envisioning.com/altitude/distributed-propulsion
 collection: hardware
 trl: 5
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883207/altitude/technologies/35575411-c8d9-48b9-9849-24a13ba37f88-google-gemini-3.1-flash-image-preview-vosnc5.jpg
 ---
 
 # Distributed Propulsion
 
 ## Summary
 
-Multiple small engines for more efficient air travel.
+Multiple small motors distributed across an aircraft for improved efficiency and redundancy
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: hallmark-drug-target-engines
 hub: epoch
 title: Drug-Target Prediction Engines
-summary: Systems that map aging hallmarks to molecular targets across biological pathways.
+summary: AI systems mapping aging mechanisms to therapeutic targets using biological
+  knowledge graphs
 permalink: https://www.envisioning.com/epoch/hallmark-drug-target-engines
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620831/epoch
 
 ## Summary
 
-Systems that map aging hallmarks to molecular targets across biological pathways.
+AI systems mapping aging mechanisms to therapeutic targets using biological knowledge graphs
 
 ## Description
 

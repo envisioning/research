@@ -2,7 +2,8 @@
 slug: algorithmic-restitution-engines
 hub: beacon
 title: Algorithmic Restitution Engines
-summary: Automated compensation for algorithmic harm.
+summary: Automated systems that detect and compensate individuals harmed by biased
+  or flawed algorithms
 permalink: https://www.envisioning.com/beacon/algorithmic-restitution-engines
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126166/beaco
 
 ## Summary
 
-Automated compensation for algorithmic harm.
+Automated systems that detect and compensate individuals harmed by biased or flawed algorithms
 
 ## Description
 

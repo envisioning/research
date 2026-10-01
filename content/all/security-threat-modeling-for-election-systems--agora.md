@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 7
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887209/agora/technologies/55381988-d479-4a57-af8b-824b5eba5d06-google-gemini-3.1-flash-image-preview-fxikrz.png
 ---
 
 # Threat Modeling & Security Testing for Election Systems

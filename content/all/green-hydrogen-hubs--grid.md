@@ -2,7 +2,8 @@
 slug: green-hydrogen-hubs
 hub: grid
 title: Green Hydrogen Hubs
-summary: Integrated clusters for producing and utilizing hydrogen from renewables.
+summary: Integrated facilities combining renewable energy with electrolyzers to produce
+  carbon-free hydrogen
 permalink: https://www.envisioning.com/grid/green-hydrogen-hubs
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435331/grid/
 
 ## Summary
 
-Integrated clusters for producing and utilizing hydrogen from renewables.
+Integrated facilities combining renewable energy with electrolyzers to produce carbon-free hydrogen
 
 ## Description
 

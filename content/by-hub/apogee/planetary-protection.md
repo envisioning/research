@@ -2,7 +2,8 @@
 slug: planetary-protection
 hub: apogee
 title: Planetary Protection & Contamination
-summary: Protocols to prevent biological contamination of other worlds.
+summary: Protocols preventing biological contamination between Earth and other celestial
+  bodies
 permalink: https://www.envisioning.com/apogee/planetary-protection
 collection: ethics-security
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060913/apoge
 
 ## Summary
 
-Protocols to prevent biological contamination of other worlds.
+Protocols preventing biological contamination between Earth and other celestial bodies
 
 ## Description
 

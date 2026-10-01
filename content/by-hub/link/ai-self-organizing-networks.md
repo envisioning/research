@@ -2,7 +2,8 @@
 slug: ai-self-organizing-networks
 hub: link
 title: AI-Driven Self-Organizing Networks (SON)
-summary: Machine learning agents that optimize coverage, capacity, and energy.
+summary: Machine learning systems that autonomously optimize telecom network coverage,
+  capacity, and energy use
 permalink: https://www.envisioning.com/link/ai-self-organizing-networks
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436004/link/
 
 ## Summary
 
-Machine learning agents that optimize coverage, capacity, and energy.
+Machine learning systems that autonomously optimize telecom network coverage, capacity, and energy use
 
 ## Description
 

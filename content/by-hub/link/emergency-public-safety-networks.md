@@ -2,7 +2,8 @@
 slug: emergency-public-safety-networks
 hub: link
 title: Emergency & Public Safety Networks (PS-LTE)
-summary: Dedicated, hardened networks for first responders and disaster scenarios.
+summary: Hardened LTE networks engineered for reliable first responder communication
+  during emergencies
 permalink: https://www.envisioning.com/link/emergency-public-safety-networks
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441796/link/
 
 ## Summary
 
-Dedicated, hardened networks for first responders and disaster scenarios.
+Hardened LTE networks engineered for reliable first responder communication during emergencies
 
 ## Description
 

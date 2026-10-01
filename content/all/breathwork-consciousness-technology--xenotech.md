@@ -2,23 +2,21 @@
 slug: breathwork-consciousness-technology
 hub: xenotech
 title: Breathwork Consciousness Manipulation
-summary: Ancient and modern breath control practices producing profound alterations
-  in consciousness, physiology, and perception—from mystical traditions and shamanic
-  techniques to contemporary therapeutic protocols—representing accessible, reproducible
-  consciousness technology requiring no external apparatus.
+summary: Controlled breathing techniques that alter consciousness, emotion, and physiology
+  without external tools
 permalink: https://www.envisioning.com/xenotech/breathwork-consciousness-technology
 collection: consciousness-interface
 trl: 5
 impact: 1
 investment: 6
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761929081/xenotech/technologies/breathwork-consciousness-technology-openai-gpt-5-mgv67b.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897748/xenotech/technologies/breathwork-consciousness-technology-openrouter-google-gemini-3.1-flash-image-preview-15a2zj.png
 ---
 
 # Breathwork Consciousness Manipulation
 
 ## Summary
 
-Ancient and modern breath control practices producing profound alterations in consciousness, physiology, and perception—from mystical traditions and shamanic techniques to contemporary therapeutic protocols—representing accessible, reproducible consciousness technology requiring no external apparatus.
+Controlled breathing techniques that alter consciousness, emotion, and physiology without external tools
 
 ## Description
 

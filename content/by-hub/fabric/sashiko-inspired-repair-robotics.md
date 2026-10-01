@@ -2,7 +2,8 @@
 slug: sashiko-inspired-repair-robotics
 hub: fabric
 title: Japanese Sashiko-Inspired Repair Robotics
-summary: Automated mending stations combining robotics with heritage stitching.
+summary: Robotic mending systems that replicate traditional Japanese reinforcement
+  stitching for garment repair
 permalink: https://www.envisioning.com/fabric/sashiko-inspired-repair-robotics
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059674/threa
 
 ## Summary
 
-Automated mending stations combining robotics with heritage stitching.
+Robotic mending systems that replicate traditional Japanese reinforcement stitching for garment repair
 
 ## Description
 

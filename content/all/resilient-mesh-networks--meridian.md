@@ -2,7 +2,8 @@
 slug: resilient-mesh-networks
 hub: meridian
 title: Resilient Mesh Networks
-summary: Decentralized communication for crisis scenarios.
+summary: Self-organizing networks that route data peer-to-peer when centralized infrastructure
+  fails
 permalink: https://www.envisioning.com/meridian/resilient-mesh-networks
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128633/merid
 
 ## Summary
 
-Decentralized communication for crisis scenarios.
+Self-organizing networks that route data peer-to-peer when centralized infrastructure fails
 
 ## Description
 

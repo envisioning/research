@@ -2,7 +2,7 @@
 slug: semantic-nerf-editing
 hub: prism
 title: Semantic NeRF Editing
-summary: Tools enabling natural language editing of volumetric video scenes.
+summary: Natural language and brush-based editing of neural radiance field scenes
 permalink: https://www.envisioning.com/prism/semantic-nerf-editing
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074565/pulse
 
 ## Summary
 
-Tools enabling natural language editing of volumetric video scenes.
+Natural language and brush-based editing of neural radiance field scenes
 
 ## Description
 

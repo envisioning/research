@@ -2,7 +2,7 @@
 slug: tacit-knowledge-networks
 hub: synapse
 title: Tacit Knowledge Networks
-summary: Tools that surface and connect unwritten institutional knowledge.
+summary: Systems that capture and share employees' undocumented expertise across organizations
 permalink: https://www.envisioning.com/synapse/tacit-knowledge-networks
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126827/synap
 
 ## Summary
 
-Tools that surface and connect unwritten institutional knowledge.
+Systems that capture and share employees' undocumented expertise across organizations
 
 ## Description
 

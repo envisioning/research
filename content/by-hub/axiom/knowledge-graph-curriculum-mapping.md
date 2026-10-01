@@ -2,7 +2,8 @@
 slug: knowledge-graph-curriculum-mapping
 hub: axiom
 title: Knowledge Graph Curriculum Mapping
-summary: AI mapping prerequisites, competencies, and resources.
+summary: AI-powered graphs mapping learning concepts, prerequisites, and resource
+  alignment across curricula
 permalink: https://www.envisioning.com/axiom/knowledge-graph-curriculum-mapping
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074684/axiom
 
 ## Summary
 
-AI mapping prerequisites, competencies, and resources.
+AI-powered graphs mapping learning concepts, prerequisites, and resource alignment across curricula
 
 ## Description
 

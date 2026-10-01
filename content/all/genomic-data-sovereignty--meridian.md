@@ -2,7 +2,8 @@
 slug: genomic-data-sovereignty
 hub: meridian
 title: Genomic Data Sovereignty
-summary: Protecting national genetic databases.
+summary: National control over population genetic data through secure biobanks and
+  localized storage
 permalink: https://www.envisioning.com/meridian/genomic-data-sovereignty
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435206/merid
 
 ## Summary
 
-Protecting national genetic databases.
+National control over population genetic data through secure biobanks and localized storage
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: immersive-therapeutic-reality
 hub: vitals
 title: Immersive Therapeutic Reality
-summary: VR and AR environments used for pain management, rehabilitation, and mental
-  health therapy.
+summary: VR and AR environments that engage sensory and motor systems for pain relief,
+  rehabilitation, and mental health treatmen
 permalink: https://www.envisioning.com/vitals/immersive-therapeutic-reality
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463975/vital
 
 ## Summary
 
-VR and AR environments used for pain management, rehabilitation, and mental health therapy.
+VR and AR environments that engage sensory and motor systems for pain relief, rehabilitation, and mental health treatmen
 
 ## Description
 

@@ -2,13 +2,13 @@
 slug: multi-agent-collective-adaptive-intelligence-macai
 hub: interface
 title: Multi-Agent Collective Adaptive Intelligence (MACAI)
-summary: First-of-its-kind patented multi-agentic AI with 40,000 PHD-level actual
-  agents (not scripts), 99.
+summary: Distributed AI system where thousands of specialized autonomous agents collaborate
+  to solve complex problems
 permalink: https://www.envisioning.com/interface/multi-agent-collective-adaptive-intelligence-macai
-collection: advanced-interaction-modalities
+collection: software
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742752/interface/technologies/multi-agent-collective-adaptive-intelligence-macai-google-gemini-3-pro-image-preview-8mbtv3.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742752/inter
 
 ## Summary
 
-First-of-its-kind patented multi-agentic AI with 40,000 PHD-level actual agents (not scripts), 99.
+Distributed AI system where thousands of specialized autonomous agents collaborate to solve complex problems
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: morphological-freedom-rights
 hub: epoch
 title: Morphological Freedom Rights
-summary: Legal recognition of an individual's right to modify their own body form
-  and function.
+summary: Legal frameworks protecting individuals' rights to modify their bodies through
+  biotechnology
 permalink: https://www.envisioning.com/epoch/morphological-freedom-rights
 collection: ethics-security
 trl: 1
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772621085/epoch
 
 ## Summary
 
-Legal recognition of an individual's right to modify their own body form and function.
+Legal frameworks protecting individuals' rights to modify their bodies through biotechnology
 
 ## Description
 

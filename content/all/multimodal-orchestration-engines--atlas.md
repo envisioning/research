@@ -2,8 +2,8 @@
 slug: multimodal-orchestration-engines
 hub: atlas
 title: Multimodal Orchestration Engines
-summary: Software that stitches flights, rail, micromobility, and lodging into a single
-  journey graph.
+summary: Software that combines flights, trains, rideshares, and hotels into unified,
+  rebookable journeys
 permalink: https://www.envisioning.com/atlas/multimodal-orchestration-engines
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126174/atlas
 
 ## Summary
 
-Software that stitches flights, rail, micromobility, and lodging into a single journey graph.
+Software that combines flights, trains, rideshares, and hotels into unified, rebookable journeys
 
 ## Description
 

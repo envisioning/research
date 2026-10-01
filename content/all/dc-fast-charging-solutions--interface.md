@@ -2,21 +2,21 @@
 slug: dc-fast-charging-solutions
 hub: interface
 title: DC Fast Charging Solutions
-summary: Charge controllers and control software setting the standard for DC fast
-  charging, with 15% market share.
+summary: High-power charging infrastructure that delivers DC electricity directly
+  to EV batteries for rapid refueling
 permalink: https://www.envisioning.com/interface/dc-fast-charging-solutions
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 9
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774888946/interface/technologies/6733921f-1379-4e68-be6d-27965f99363b-google-gemini-3.1-flash-image-preview-j94w1i.jpg
 ---
 
 # DC Fast Charging Solutions
 
 ## Summary
 
-Charge controllers and control software setting the standard for DC fast charging, with 15% market share.
+High-power charging infrastructure that delivers DC electricity directly to EV batteries for rapid refueling
 
 ## Description
 

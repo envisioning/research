@@ -2,7 +2,8 @@
 slug: gnss-resilience-anti-spoofing
 hub: altitude
 title: GNSS Resilience & Anti-Spoofing Navigation
-summary: Detection/mitigation of jamming and spoofing plus alternative PNT.
+summary: Technologies that detect and counter GPS jamming, spoofing, and signal loss
+  in aviation
 permalink: https://www.envisioning.com/altitude/gnss-resilience-anti-spoofing
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644396/altit
 
 ## Summary
 
-Detection/mitigation of jamming and spoofing plus alternative PNT.
+Technologies that detect and counter GPS jamming, spoofing, and signal loss in aviation
 
 ## Description
 

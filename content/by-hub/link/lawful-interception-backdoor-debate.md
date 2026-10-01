@@ -2,7 +2,8 @@
 slug: lawful-interception-backdoor-debate
 hub: link
 title: Lawful Interception vs. Encryption Backdoor Debate
-summary: Balancing government surveillance access with end-to-end encryption.
+summary: Policy debate over government access to encrypted communications for law
+  enforcement
 permalink: https://www.envisioning.com/link/lawful-interception-backdoor-debate
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182371/link/
 
 ## Summary
 
-Balancing government surveillance access with end-to-end encryption.
+Policy debate over government access to encrypted communications for law enforcement
 
 ## Description
 

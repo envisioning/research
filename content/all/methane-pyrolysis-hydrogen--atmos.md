@@ -2,7 +2,7 @@
 slug: methane-pyrolysis-hydrogen
 hub: atmos
 title: Methane Pyrolysis
-summary: Zero-CO₂ hydrogen by splitting natural gas into carbon solids.
+summary: Splits natural gas into hydrogen and solid carbon without releasing CO₂
 permalink: https://www.envisioning.com/atmos/methane-pyrolysis-hydrogen
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764178836/atmos
 
 ## Summary
 
-Zero-CO₂ hydrogen by splitting natural gas into carbon solids.
+Splits natural gas into hydrogen and solid carbon without releasing CO₂
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: just-in-time-craving-interruption
 hub: impulse
 title: Just-in-Time Craving Interruption Systems
-summary: Wearable-triggered micro-interventions at peak craving.
+summary: Wearable systems that detect craving signals and deliver real-time behavioral
+  interventions
 permalink: https://www.envisioning.com/impulse/just-in-time-craving-interruption
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133892/impul
 
 ## Summary
 
-Wearable-triggered micro-interventions at peak craving.
+Wearable systems that detect craving signals and deliver real-time behavioral interventions
 
 ## Description
 

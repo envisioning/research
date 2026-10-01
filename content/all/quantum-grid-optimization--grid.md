@@ -2,7 +2,8 @@
 slug: quantum-grid-optimization
 hub: grid
 title: Quantum Grid Optimization
-summary: Utilizing quantum computing to solve complex grid balancing problems.
+summary: Quantum computing applied to electricity supply-demand balancing and distributed
+  energy coordination
 permalink: https://www.envisioning.com/grid/quantum-grid-optimization
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435178/grid/
 
 ## Summary
 
-Utilizing quantum computing to solve complex grid balancing problems.
+Quantum computing applied to electricity supply-demand balancing and distributed energy coordination
 
 ## Description
 

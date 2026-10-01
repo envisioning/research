@@ -2,7 +2,8 @@
 slug: cloud-native-5g-core
 hub: link
 title: Cloud-Native 5G Core
-summary: Containerized, microservice-based implementations of the 5G core network.
+summary: Microservice-based 5G core networks running on cloud infrastructure instead
+  of dedicated hardware
 permalink: https://www.envisioning.com/link/cloud-native-5g-core
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436068/link/
 
 ## Summary
 
-Containerized, microservice-based implementations of the 5G core network.
+Microservice-based 5G core networks running on cloud infrastructure instead of dedicated hardware
 
 ## Description
 

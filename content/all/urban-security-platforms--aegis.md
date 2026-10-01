@@ -2,7 +2,8 @@
 slug: urban-security-platforms
 hub: aegis
 title: Urban Security & Megacity Operations Platforms
-summary: Integrated sensing and modeling for complex urban environments.
+summary: Integrated command systems that synthesize urban sensor data for coordinated
+  security responses
 permalink: https://www.envisioning.com/aegis/urban-security-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010245/aegis
 
 ## Summary
 
-Integrated sensing and modeling for complex urban environments.
+Integrated command systems that synthesize urban sensor data for coordinated security responses
 
 ## Description
 

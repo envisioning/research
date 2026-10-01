@@ -2,8 +2,8 @@
 slug: circular-asset-passports
 hub: synapse
 title: Circular Asset Passports
-summary: Digital identity systems for tracking the full lifecycle and provenance of
-  organizational assets.
+summary: Digital records tracking material composition, repair history, and lifecycle
+  data for enterprise assets
 permalink: https://www.envisioning.com/synapse/circular-asset-passports
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126783/synap
 
 ## Summary
 
-Digital identity systems for tracking the full lifecycle and provenance of organizational assets.
+Digital records tracking material composition, repair history, and lifecycle data for enterprise assets
 
 ## Description
 

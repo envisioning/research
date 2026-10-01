@@ -2,7 +2,8 @@
 slug: mission-design-ai-assistants
 hub: apogee
 title: Mission Design AI Assistants
-summary: Generative tools for trajectories, payload trades, and system architectures.
+summary: AI tools that optimize spacecraft trajectories, launch windows, and mission
+  architectures
 permalink: https://www.envisioning.com/apogee/mission-design-ai-assistants
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012325/apoge
 
 ## Summary
 
-Generative tools for trajectories, payload trades, and system architectures.
+AI tools that optimize spacecraft trajectories, launch windows, and mission architectures
 
 ## Description
 

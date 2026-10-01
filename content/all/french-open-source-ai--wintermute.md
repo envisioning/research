@@ -2,7 +2,7 @@
 slug: french-open-source-ai
 hub: wintermute
 title: French Open Source AI Ecosystem
-summary: Model collectives like Mistral driving sovereign, permissive AI stacks.
+summary: Open-weight models and infrastructure prioritizing European data sovereignty
 permalink: https://www.envisioning.com/wintermute/french-open-source-ai
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079773/winte
 
 ## Summary
 
-Model collectives like Mistral driving sovereign, permissive AI stacks.
+Open-weight models and infrastructure prioritizing European data sovereignty
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: transactive-energy
 hub: grid
 title: Transactive Energy Platforms
-summary: Blockchain-based markets for peer-to-peer energy trading.
+summary: Digital marketplaces enabling direct electricity trading between producers
+  and consumers
 permalink: https://www.envisioning.com/grid/transactive-energy
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116601/grid/
 
 ## Summary
 
-Blockchain-based markets for peer-to-peer energy trading.
+Digital marketplaces enabling direct electricity trading between producers and consumers
 
 ## Description
 

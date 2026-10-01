@@ -2,7 +2,8 @@
 slug: ecofast-pure-treatment
 hub: fabric
 title: ECOFAST™ Pure Sustainable Textile Treatment
-summary: Pretreatment reducing water, dye, and energy use in cotton dyeing.
+summary: Pretreatment that modifies cotton fibers to absorb dyes more efficiently
+  with less water and energy
 permalink: https://www.envisioning.com/fabric/ecofast-pure-treatment
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058157/threa
 
 ## Summary
 
-Pretreatment reducing water, dye, and energy use in cotton dyeing.
+Pretreatment that modifies cotton fibers to absorb dyes more efficiently with less water and energy
 
 ## Description
 

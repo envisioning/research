@@ -2,7 +2,8 @@
 slug: verifiable-credentials
 hub: sentinel
 title: Verifiable Credentials
-summary: Digitally signed attestations that can be selectively disclosed and verified.
+summary: Cryptographically signed digital attestations that users control and share
+  selectively
 permalink: https://www.envisioning.com/sentinel/verifiable-credentials
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461768/senti
 
 ## Summary
 
-Digitally signed attestations that can be selectively disclosed and verified.
+Cryptographically signed digital attestations that users control and share selectively
 
 ## Description
 

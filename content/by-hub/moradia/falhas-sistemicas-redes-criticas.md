@@ -2,7 +2,7 @@
 slug: falhas-sistemicas-redes-criticas
 hub: moradia
 title: Falhas Sistêmicas em Redes Críticas
-summary: Riscos de falhas em cascata em redes de infraestrutura urbana interconectadas.
+summary: Falhas em cascata que se propagam entre infraestruturas urbanas interconectadas
 permalink: https://www.envisioning.com/moradia/falhas-sistemicas-redes-criticas
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591593/habit
 
 ## Summary
 
-Riscos de falhas em cascata em redes de infraestrutura urbana interconectadas.
+Falhas em cascata que se propagam entre infraestruturas urbanas interconectadas
 
 ## Description
 

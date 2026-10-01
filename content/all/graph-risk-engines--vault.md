@@ -2,7 +2,8 @@
 slug: graph-risk-engines
 hub: vault
 title: Graph Analytics for Financial Crime
-summary: Network intelligence for AML, fraud, and systemic risk.
+summary: Network analysis to detect money laundering, fraud rings, and hidden financial
+  crime patterns
 permalink: https://www.envisioning.com/vault/graph-risk-engines
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128526/vault
 
 ## Summary
 
-Network intelligence for AML, fraud, and systemic risk.
+Network analysis to detect money laundering, fraud rings, and hidden financial crime patterns
 
 ## Description
 

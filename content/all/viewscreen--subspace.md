@@ -2,20 +2,21 @@
 slug: viewscreen
 hub: subspace
 title: Main Viewscreen
-summary: Primary visual display system for external observation and tactical information.
+summary: Unified display integrating multi-sensor data for spatial awareness and tactical
+  decision-making
 permalink: https://www.envisioning.com/subspace/viewscreen
 collection: communications
 trl: 8
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760274263/subspaceindex/technologies/viewscreen.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908338/subspace/technologies/viewscreen-openrouter-google-gemini-3.1-flash-image-preview-p4vun8.png
 ---
 
 # Main Viewscreen
 
 ## Summary
 
-Primary visual display system for external observation and tactical information.
+Unified display integrating multi-sensor data for spatial awareness and tactical decision-making
 
 ## Description
 

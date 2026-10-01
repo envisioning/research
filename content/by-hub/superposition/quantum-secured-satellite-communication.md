@@ -2,7 +2,7 @@
 slug: quantum-secured-satellite-communication
 hub: superposition
 title: Quantum-Secured Satellite Communication
-summary: Satellite uplinks distributing quantum keys for global encryption.
+summary: Satellites distributing quantum encryption keys to ground stations worldwide
 permalink: https://www.envisioning.com/superposition/quantum-secured-satellite-communication
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181160/super
 
 ## Summary
 
-Satellite uplinks distributing quantum keys for global encryption.
+Satellites distributing quantum encryption keys to ground stations worldwide
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: haptic-authenticity-standards
 hub: beacon
 title: Haptic Authenticity Standards
-summary: Verifying the source and safety of digital touch.
+summary: Cryptographic verification protocols that authenticate the origin and safety
+  of digital touch signals
 permalink: https://www.envisioning.com/beacon/haptic-authenticity-standards
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125467/beaco
 
 ## Summary
 
-Verifying the source and safety of digital touch.
+Cryptographic verification protocols that authenticate the origin and safety of digital touch signals
 
 ## Description
 

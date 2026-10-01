@@ -2,7 +2,8 @@
 slug: robotic-strawberry-harvesters
 hub: spore
 title: Robotic Strawberry Harvesters
-summary: Soft-grasp robots picking delicate fruit in greenhouses.
+summary: Autonomous robots that pick ripe strawberries in greenhouses without bruising
+  the fruit
 permalink: https://www.envisioning.com/spore/robotic-strawberry-harvesters
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095959/spore
 
 ## Summary
 
-Soft-grasp robots picking delicate fruit in greenhouses.
+Autonomous robots that pick ripe strawberries in greenhouses without bruising the fruit
 
 ## Description
 

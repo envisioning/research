@@ -2,7 +2,7 @@
 slug: zero-waste-pattern-nesting
 hub: fabric
 title: Zero-Waste Pattern Nesting Algorithms
-summary: Computational geometry tools maximizing fabric utilization.
+summary: Software that arranges garment patterns on fabric to eliminate cutting waste
 permalink: https://www.envisioning.com/fabric/zero-waste-pattern-nesting
 collection: software
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059800/threa
 
 ## Summary
 
-Computational geometry tools maximizing fabric utilization.
+Software that arranges garment patterns on fabric to eliminate cutting waste
 
 ## Description
 

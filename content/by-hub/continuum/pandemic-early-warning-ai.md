@@ -2,7 +2,8 @@
 slug: pandemic-early-warning-ai
 hub: continuum
 title: Pandemic Early-Warning AI
-summary: AI models detecting anomalous health signals before outbreaks escalate.
+summary: AI detecting disease outbreaks from wastewater, hospital visits, and pharmacy
+  data before they spread
 permalink: https://www.envisioning.com/continuum/pandemic-early-warning-ai
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124174/conti
 
 ## Summary
 
-AI models detecting anomalous health signals before outbreaks escalate.
+AI detecting disease outbreaks from wastewater, hospital visits, and pharmacy data before they spread
 
 ## Description
 

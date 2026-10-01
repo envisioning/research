@@ -2,7 +2,8 @@
 slug: spatial-privacy-zones
 hub: liminal
 title: Spatial Privacy Zones
-summary: Digital no-fly areas for sensing and overlays.
+summary: Machine-readable geofences that tell devices where recording and sensing
+  are restricted
 permalink: https://www.envisioning.com/liminal/spatial-privacy-zones
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124145/limin
 
 ## Summary
 
-Digital no-fly areas for sensing and overlays.
+Machine-readable geofences that tell devices where recording and sensing are restricted
 
 ## Description
 

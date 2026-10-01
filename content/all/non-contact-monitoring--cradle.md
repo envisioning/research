@@ -2,7 +2,7 @@
 slug: non-contact-monitoring
 hub: cradle
 title: Non-Contact Monitoring
-summary: Mattress-embedded vital sign tracking.
+summary: Mattress sensors that track infant vitals without skin contact or wires
 permalink: https://www.envisioning.com/cradle/non-contact-monitoring
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126080/cradl
 
 ## Summary
 
-Mattress-embedded vital sign tracking.
+Mattress sensors that track infant vitals without skin contact or wires
 
 ## Description
 

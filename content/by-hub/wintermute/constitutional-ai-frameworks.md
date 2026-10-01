@@ -2,7 +2,8 @@
 slug: constitutional-ai-frameworks
 hub: wintermute
 title: Constitutional AI Frameworks
-summary: Self-alignment pipelines applying explicit rule sets to model behavior.
+summary: AI systems that self-align behavior using explicit rule sets and iterative
+  self-critique
 permalink: https://www.envisioning.com/wintermute/constitutional-ai-frameworks
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080466/winte
 
 ## Summary
 
-Self-alignment pipelines applying explicit rule sets to model behavior.
+AI systems that self-align behavior using explicit rule sets and iterative self-critique
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: blockchain-traceability
 hub: quadrant
 title: Blockchain Traceability Platforms
-summary: Immutable ledgers for end-to-end provenance tracking.
+summary: Distributed ledgers tracking product journeys from origin to consumer across
+  supply chains
 permalink: https://www.envisioning.com/quadrant/blockchain-traceability
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126911/quadr
 
 ## Summary
 
-Immutable ledgers for end-to-end provenance tracking.
+Distributed ledgers tracking product journeys from origin to consumer across supply chains
 
 ## Description
 

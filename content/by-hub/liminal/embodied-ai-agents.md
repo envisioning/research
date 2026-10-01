@@ -2,7 +2,8 @@
 slug: embodied-ai-agents
 hub: liminal
 title: Embodied AI Agents
-summary: Autonomous virtual beings navigating and acting in spatial contexts.
+summary: AI systems that perceive and navigate 3D spaces like physical or virtual
+  worlds
 permalink: https://www.envisioning.com/liminal/embodied-ai-agents
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124975/limin
 
 ## Summary
 
-Autonomous virtual beings navigating and acting in spatial contexts.
+AI systems that perceive and navigate 3D spaces like physical or virtual worlds
 
 ## Description
 

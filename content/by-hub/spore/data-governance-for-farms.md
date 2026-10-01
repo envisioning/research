@@ -2,7 +2,8 @@
 slug: data-governance-for-farms
 hub: spore
 title: Data Governance for Farms
-summary: Ownership of soil microbiome data, genomic data, and farm sensor networks.
+summary: Frameworks for managing ownership and use of agricultural biological and
+  sensor data
 permalink: https://www.envisioning.com/spore/data-governance-for-farms
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095985/spore
 
 ## Summary
 
-Ownership of soil microbiome data, genomic data, and farm sensor networks.
+Frameworks for managing ownership and use of agricultural biological and sensor data
 
 ## Description
 

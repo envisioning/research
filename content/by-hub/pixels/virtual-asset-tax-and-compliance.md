@@ -2,7 +2,7 @@
 slug: virtual-asset-tax-and-compliance
 hub: pixels
 title: Virtual Asset Tax & Compliance
-summary: Standards for taxing and reporting income from game economies.
+summary: Automated tax reporting and compliance tools for in-game asset transactions
 permalink: https://www.envisioning.com/pixels/virtual-asset-tax-and-compliance
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012300/pixel
 
 ## Summary
 
-Standards for taxing and reporting income from game economies.
+Automated tax reporting and compliance tools for in-game asset transactions
 
 ## Description
 

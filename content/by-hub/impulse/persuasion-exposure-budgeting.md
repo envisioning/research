@@ -2,7 +2,7 @@
 slug: persuasion-exposure-budgeting
 hub: impulse
 title: Persuasion Exposure Budgeting
-summary: Caps and meters for individual influence exposure.
+summary: Quantifies and limits cumulative persuasive messaging across digital platforms
 permalink: https://www.envisioning.com/impulse/persuasion-exposure-budgeting
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435133/impul
 
 ## Summary
 
-Caps and meters for individual influence exposure.
+Quantifies and limits cumulative persuasive messaging across digital platforms
 
 ## Description
 

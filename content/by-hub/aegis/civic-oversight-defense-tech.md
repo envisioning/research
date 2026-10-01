@@ -2,7 +2,8 @@
 slug: civic-oversight-defense-tech
 hub: aegis
 title: Civic Oversight & Democratic Governance of Defense Tech
-summary: Mechanisms for democratic scrutiny of advanced defense systems.
+summary: Democratic frameworks for public accountability over autonomous weapons and
+  AI-driven defense systems
 permalink: https://www.envisioning.com/aegis/civic-oversight-defense-tech
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010704/aegis
 
 ## Summary
 
-Mechanisms for democratic scrutiny of advanced defense systems.
+Democratic frameworks for public accountability over autonomous weapons and AI-driven defense systems
 
 ## Description
 

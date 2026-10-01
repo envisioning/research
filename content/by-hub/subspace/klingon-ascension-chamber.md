@@ -2,20 +2,21 @@
 slug: klingon-ascension-chamber
 hub: subspace
 title: Rite of Ascension Chamber
-summary: Ritual space with ceremonial electronics for warrior coming-of-age trials.
+summary: Ceremonial testing environment using controlled energy devices for warrior
+  initiation trials
 permalink: https://www.envisioning.com/subspace/klingon-ascension-chamber
 collection: engineering
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760269250/subspaceindex/technologies/klingon-ascension-chamber.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908875/subspace/technologies/klingon-ascension-chamber-openrouter-google-gemini-3.1-flash-image-preview-95vhft.png
 ---
 
 # Rite of Ascension Chamber
 
 ## Summary
 
-Ritual space with ceremonial electronics for warrior coming-of-age trials.
+Ceremonial testing environment using controlled energy devices for warrior initiation trials
 
 ## Description
 

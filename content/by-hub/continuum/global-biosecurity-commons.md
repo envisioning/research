@@ -2,7 +2,8 @@
 slug: global-biosecurity-commons
 hub: continuum
 title: Global Biosecurity Commons
-summary: Shared governance and infrastructure for high-consequence biology.
+summary: International architecture for governing high-risk biological research and
+  preventing misuse
 permalink: https://www.envisioning.com/continuum/global-biosecurity-commons
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125564/conti
 
 ## Summary
 
-Shared governance and infrastructure for high-consequence biology.
+International architecture for governing high-risk biological research and preventing misuse
 
 ## Description
 

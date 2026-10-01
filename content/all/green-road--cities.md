@@ -2,16 +2,10 @@
 slug: green-road
 hub: cities
 title: Green Road
-summary: 'This innovative approach promotes climate resilience, ecological conservation
-  and water management by transforming traditional roadways into multifunctional assets.
-  It integrates water management techniques into road design, such as capturing and
-  directing rainwater to reduce runoff and promote groundwater recharge, mitigating
-  urban flooding, and improving water availability for irrigation. This solution promotes
-  sustainability by optimising the use of urban spaces, enhancing community well-being,
-  reducing construction and maintenance costs, and supporting holistic urban planning
-  efforts. '
+summary: Roads designed to capture rainwater, reduce flooding, and recharge groundwater
+  through integrated water management
 permalink: https://www.envisioning.com/cities/green-road
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: hardware
 trl: 8
 impact: 2
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719328091-green-road.png
 
 ## Summary
 
-This innovative approach promotes climate resilience, ecological conservation and water management by transforming traditional roadways into multifunctional assets. It integrates water management techniques into road design, such as capturing and directing rainwater to reduce runoff and promote groundwater recharge, mitigating urban flooding, and improving water availability for irrigation. This solution promotes sustainability by optimising the use of urban spaces, enhancing community well-being, reducing construction and maintenance costs, and supporting holistic urban planning efforts.
+Roads designed to capture rainwater, reduce flooding, and recharge groundwater through integrated water management
 
 ## Description
 

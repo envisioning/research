@@ -2,7 +2,8 @@
 slug: quantum-random-number-generators
 hub: superposition
 title: Quantum Random Number Generators
-summary: Certified randomness services derived from photon or vacuum fluctuations.
+summary: Devices that generate truly random numbers using quantum processes like photon
+  measurements
 permalink: https://www.envisioning.com/superposition/quantum-random-number-generators
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181083/super
 
 ## Summary
 
-Certified randomness services derived from photon or vacuum fluctuations.
+Devices that generate truly random numbers using quantum processes like photon measurements
 
 ## Description
 

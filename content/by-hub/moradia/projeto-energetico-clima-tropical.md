@@ -2,8 +2,8 @@
 slug: projeto-energetico-clima-tropical
 hub: moradia
 title: Projeto Energético para Clima Tropical
-summary: Ferramentas de simulação energética e estratégias passivas (ventilação, sombreamento)
-  otimizadas para clima tropical brasileiro.
+summary: Simulação energética e estratégias passivas calibradas para alta umidade
+  e radiação solar do Brasil
 permalink: https://www.envisioning.com/moradia/projeto-energetico-clima-tropical
 collection: plataformas-dados
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766327241/forma
 
 ## Summary
 
-Ferramentas de simulação energética e estratégias passivas (ventilação, sombreamento) otimizadas para clima tropical brasileiro.
+Simulação energética e estratégias passivas calibradas para alta umidade e radiação solar do Brasil
 
 ## Description
 

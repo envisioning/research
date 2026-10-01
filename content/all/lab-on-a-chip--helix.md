@@ -8,6 +8,7 @@ collection: hardware
 trl: 7
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889814/helix/technologies/8d7bcd88-48e7-4b5b-98e9-5ffd528f6982-google-gemini-3.1-flash-image-preview-p1b6vj.jpg
 ---
 
 # Lab-on-a-Chip

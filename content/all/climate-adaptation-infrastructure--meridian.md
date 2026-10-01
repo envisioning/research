@@ -2,7 +2,8 @@
 slug: climate-adaptation-infrastructure
 hub: meridian
 title: Climate Adaptation Infrastructure
-summary: Resilient systems for shifting baselines.
+summary: Infrastructure engineered to withstand shifting climate conditions and extreme
+  weather patterns
 permalink: https://www.envisioning.com/meridian/climate-adaptation-infrastructure
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435021/merid
 
 ## Summary
 
-Resilient systems for shifting baselines.
+Infrastructure engineered to withstand shifting climate conditions and extreme weather patterns
 
 ## Description
 

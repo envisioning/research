@@ -2,8 +2,8 @@
 slug: digital-knitting-material-modulation
 hub: fabric
 title: Digital Knitting Machines with Per-Stitch Material Modulation
-summary: Machines that vary elasticity, density, or conductivity in real time during
-  fabrication.
+summary: Knitting systems that vary yarn properties stitch-by-stitch for gradient
+  fabrics and embedded sensors
 permalink: https://www.envisioning.com/fabric/digital-knitting-material-modulation
 collection: hardware
 trl: 9
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058202/threa
 
 ## Summary
 
-Machines that vary elasticity, density, or conductivity in real time during fabrication.
+Knitting systems that vary yarn properties stitch-by-stitch for gradient fabrics and embedded sensors
 
 ## Description
 

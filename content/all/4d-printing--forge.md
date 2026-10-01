@@ -2,7 +2,8 @@
 slug: 4d-printing
 hub: forge
 title: 4D Printing
-summary: 3D printed objects that change shape or properties over time.
+summary: 3D-printed objects that transform shape or properties when exposed to environmental
+  triggers
 permalink: https://www.envisioning.com/forge/4d-printing
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111352/forge
 
 ## Summary
 
-3D printed objects that change shape or properties over time.
+3D-printed objects that transform shape or properties when exposed to environmental triggers
 
 ## Description
 

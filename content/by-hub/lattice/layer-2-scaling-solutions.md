@@ -2,7 +2,8 @@
 slug: layer-2-scaling-solutions
 hub: lattice
 title: Layer 2 Scaling Solutions
-summary: Rollups, validiums, and state channels expanding throughput.
+summary: Off-chain transaction processing that settles on Ethereum or other L1 blockchains
+  for lower fees and faster speeds
 permalink: https://www.envisioning.com/lattice/layer-2-scaling-solutions
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074807/flows
 
 ## Summary
 
-Rollups, validiums, and state channels expanding throughput.
+Off-chain transaction processing that settles on Ethereum or other L1 blockchains for lower fees and faster speeds
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: ai-security-global-risk-mitigation
 hub: datatrends
 title: AI Security and Global Risk Mitigation
-summary: International cooperation and analytical frameworks for identifying, assessing,
-  and mitigating global risks from advanced AI systems.
+summary: International frameworks for assessing and mitigating global risks from advanced
+  AI systems
 permalink: https://www.envisioning.com/datatrends/ai-security-global-risk-mitigation
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593285/datat
 
 ## Summary
 
-International cooperation and analytical frameworks for identifying, assessing, and mitigating global risks from advanced AI systems.
+International frameworks for assessing and mitigating global risks from advanced AI systems
 
 ## Description
 

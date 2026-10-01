@@ -2,7 +2,8 @@
 slug: atomically-precise-manufacturing
 hub: forge
 title: Atomically Precise Manufacturing
-summary: Fabrication of products with atomic-level accuracy.
+summary: Building materials and components by positioning individual atoms with nanometer
+  precision
 permalink: https://www.envisioning.com/forge/atomically-precise-manufacturing
 collection: hardware
 trl: 1
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111440/forge
 
 ## Summary
 
-Fabrication of products with atomic-level accuracy.
+Building materials and components by positioning individual atoms with nanometer precision
 
 ## Description
 

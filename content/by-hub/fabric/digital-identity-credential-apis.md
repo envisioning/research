@@ -2,7 +2,8 @@
 slug: digital-identity-credential-apis
 hub: fabric
 title: Digital Identity Credential APIs for Apparel
-summary: Systems linking garments to verified metadata—origin, ownership, authenticity.
+summary: APIs that create verifiable digital identities for garments, tracking origin,
+  ownership, and authenticity
 permalink: https://www.envisioning.com/fabric/digital-identity-credential-apis
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059472/threa
 
 ## Summary
 
-Systems linking garments to verified metadata—origin, ownership, authenticity.
+APIs that create verifiable digital identities for garments, tracking origin, ownership, and authenticity
 
 ## Description
 

@@ -8,6 +8,7 @@ collection: applications
 trl: 5
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882757/helix/technologies/2191c8b9-96aa-456a-95e5-199dcecc1ad2-google-gemini-3.1-flash-image-preview-hz58eh.jpg
 ---
 
 # Plantibody

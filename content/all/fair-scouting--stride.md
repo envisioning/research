@@ -2,7 +2,8 @@
 slug: fair-scouting
 hub: stride
 title: Algorithmic Scouting Fairness
-summary: Auditing AI recruitment tools to prevent bias in talent identification.
+summary: Auditing AI talent-scouting systems to reduce bias in athlete recruitment
+  and evaluation
 permalink: https://www.envisioning.com/stride/fair-scouting
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128667/strid
 
 ## Summary
 
-Auditing AI recruitment tools to prevent bias in talent identification.
+Auditing AI talent-scouting systems to reduce bias in athlete recruitment and evaluation
 
 ## Description
 

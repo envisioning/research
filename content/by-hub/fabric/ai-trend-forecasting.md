@@ -2,7 +2,8 @@
 slug: ai-trend-forecasting
 hub: fabric
 title: AI-Driven Trend Forecasting
-summary: Algorithms analyzing social media and search data to predict fashion trends.
+summary: Machine learning that predicts fashion trends from social media, search,
+  and sales data
 permalink: https://www.envisioning.com/fabric/ai-trend-forecasting
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059468/threa
 
 ## Summary
 
-Algorithms analyzing social media and search data to predict fashion trends.
+Machine learning that predicts fashion trends from social media, search, and sales data
 
 ## Description
 

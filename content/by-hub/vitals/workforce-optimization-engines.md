@@ -2,8 +2,8 @@
 slug: workforce-optimization-engines
 hub: vitals
 title: AI Workforce Optimization Engines
-summary: Predictive scheduling and workload-balancing tools for clinical and non-clinical
-  staff.
+summary: Machine learning tools that predict patient demand and balance clinical staff
+  schedules in real time
 permalink: https://www.envisioning.com/vitals/workforce-optimization-engines
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115301/vital
 
 ## Summary
 
-Predictive scheduling and workload-balancing tools for clinical and non-clinical staff.
+Machine learning tools that predict patient demand and balance clinical staff schedules in real time
 
 ## Description
 

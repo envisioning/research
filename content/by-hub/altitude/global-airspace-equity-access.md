@@ -2,8 +2,7 @@
 slug: global-airspace-equity-access
 hub: altitude
 title: Global Airspace Equity & Developing World Access
-summary: Ensuring inclusive aviation growth in underserved regions and the Global
-  South.
+summary: Bridging the aviation technology gap between developed and developing regions
 permalink: https://www.envisioning.com/altitude/global-airspace-equity-access
 collection: ethics-security
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649161/altit
 
 ## Summary
 
-Ensuring inclusive aviation growth in underserved regions and the Global South.
+Bridging the aviation technology gap between developed and developing regions
 
 ## Description
 

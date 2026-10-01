@@ -2,7 +2,8 @@
 slug: corredores-infraestrutura-verde
 hub: moradia
 title: Corredores de Infraestrutura Verde Multifuncional
-summary: Eixos lineares que integram drenagem, mobilidade ativa, energia e biodiversidade.
+summary: Eixos urbanos que combinam drenagem natural, mobilidade ativa e biodiversidade
+  em faixas lineares
 permalink: https://www.envisioning.com/moradia/corredores-infraestrutura-verde
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766585920/habit
 
 ## Summary
 
-Eixos lineares que integram drenagem, mobilidade ativa, energia e biodiversidade.
+Eixos urbanos que combinam drenagem natural, mobilidade ativa e biodiversidade em faixas lineares
 
 ## Description
 

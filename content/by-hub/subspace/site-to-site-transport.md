@@ -2,20 +2,20 @@
 slug: site-to-site-transport
 hub: subspace
 title: Site-to-Site Transport
-summary: Direct transporter moves between two locations without pad staging.
+summary: Matter transport between arbitrary points without dedicated staging pads
 permalink: https://www.envisioning.com/subspace/site-to-site-transport
 collection: propulsion
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760261354/subspaceindex/technologies/site-to-site-transport.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908921/subspace/technologies/site-to-site-transport-openrouter-google-gemini-3.1-flash-image-preview-nd6g9v.png
 ---
 
 # Site-to-Site Transport
 
 ## Summary
 
-Direct transporter moves between two locations without pad staging.
+Matter transport between arbitrary points without dedicated staging pads
 
 ## Description
 

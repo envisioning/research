@@ -2,8 +2,8 @@
 slug: ai-mediated-group-facilitation
 hub: soma
 title: AI-Mediated Group Facilitation
-summary: Agents that guide discussions, conflict resolution, and co-creation in real
-  time.
+summary: AI agents that guide group discussions, resolve conflicts, and balance participation
+  in real time
 permalink: https://www.envisioning.com/soma/ai-mediated-group-facilitation
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177958/soma/
 
 ## Summary
 
-Agents that guide discussions, conflict resolution, and co-creation in real time.
+AI agents that guide group discussions, resolve conflicts, and balance participation in real time
 
 ## Description
 

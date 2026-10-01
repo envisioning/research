@@ -2,20 +2,20 @@
 slug: ultra-thin-solid-state-batteries
 hub: interface
 title: Ultra-Thin Solid-State Batteries
-summary: Ultra-thin (0.
+summary: Solid-state batteries thinner than 0.1mm for wearables and embedded devices
 permalink: https://www.envisioning.com/interface/ultra-thin-solid-state-batteries
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898035/interface/technologies/a66775b2-6afd-4648-96d7-d47992ddc3f1-google-gemini-3.1-flash-image-preview-28sq8c.png
 ---
 
 # Ultra-Thin Solid-State Batteries
 
 ## Summary
 
-Ultra-thin (0.
+Solid-state batteries thinner than 0.1mm for wearables and embedded devices
 
 ## Description
 

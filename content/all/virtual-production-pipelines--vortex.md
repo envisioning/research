@@ -2,7 +2,7 @@
 slug: virtual-production-pipelines
 hub: vortex
 title: Virtual Production Pipelines
-summary: In-camera VFX using LED volumes and game engines.
+summary: Real-time filmmaking combining LED walls, game engines, and in-camera VFX
 permalink: https://www.envisioning.com/vortex/virtual-production-pipelines
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127124/vorte
 
 ## Summary
 
-In-camera VFX using LED volumes and game engines.
+Real-time filmmaking combining LED walls, game engines, and in-camera VFX
 
 ## Description
 

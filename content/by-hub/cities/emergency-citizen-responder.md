@@ -2,13 +2,10 @@
 slug: emergency-citizen-responder
 hub: cities
 title: Emergency Citizen Responder
-summary: This solution addresses the delayed emergency response time, which can lead
-  to increased fatalities and injuries during crises such as natural disasters, medical
-  emergencies, and other incidents requiring urgent attention. The ECR system leverages
-  advanced communication technologies and real-time data analytics to mobilise first
-  responders quickly.
+summary: Mobilizes trained civilian volunteers to reach emergencies faster than traditional
+  services
 permalink: https://www.envisioning.com/cities/emergency-citizen-responder
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: applications
 trl: 8
 impact: 3
 investment: 2
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719406067-emergency-citizen-re
 
 ## Summary
 
-This solution addresses the delayed emergency response time, which can lead to increased fatalities and injuries during crises such as natural disasters, medical emergencies, and other incidents requiring urgent attention. The ECR system leverages advanced communication technologies and real-time data analytics to mobilise first responders quickly.
+Mobilizes trained civilian volunteers to reach emergencies faster than traditional services
 
 ## Description
 

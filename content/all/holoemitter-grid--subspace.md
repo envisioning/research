@@ -2,20 +2,21 @@
 slug: holoemitter-grid
 hub: subspace
 title: Holographic Emitter Grid
-summary: Room-scale emitter lattice for force-backed photonic objects.
+summary: Distributed emitters creating tangible 3D holograms through combined photonics
+  and force fields
 permalink: https://www.envisioning.com/subspace/holoemitter-grid
 collection: engineering
 trl: 8
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760269013/subspaceindex/technologies/holoemitter-grid.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908131/subspace/technologies/holoemitter-grid-openrouter-google-gemini-3.1-flash-image-preview-3w9fay.png
 ---
 
 # Holographic Emitter Grid
 
 ## Summary
 
-Room-scale emitter lattice for force-backed photonic objects.
+Distributed emitters creating tangible 3D holograms through combined photonics and force fields
 
 ## Description
 

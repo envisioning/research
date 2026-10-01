@@ -2,15 +2,10 @@
 slug: web-gis
 hub: cities
 title: Web GIS
-summary: 'The Web-based Geographic Information Systems addresses the complexities
-  of modern urban management, such as inefficient resource allocation, inadequate
-  infrastructure planning, and disaster response. It operates as an online platform,
-  enabling users to access, share, and analyse geospatial data in real-time through
-  a web browser. This system integrates cloud computing, real-time mapping, and spatial
-  analysis, allowing multiple users to collaborate on urban planning, environmental
-  monitoring, and disaster management. '
+summary: Browser-based mapping and spatial analysis for urban planning, infrastructure,
+  and disaster response
 permalink: https://www.envisioning.com/cities/web-gis
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: software
 trl: 9
 impact: 4
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869598-web-gis.png
 
 ## Summary
 
-The Web-based Geographic Information Systems addresses the complexities of modern urban management, such as inefficient resource allocation, inadequate infrastructure planning, and disaster response. It operates as an online platform, enabling users to access, share, and analyse geospatial data in real-time through a web browser. This system integrates cloud computing, real-time mapping, and spatial analysis, allowing multiple users to collaborate on urban planning, environmental monitoring, and disaster management.
+Browser-based mapping and spatial analysis for urban planning, infrastructure, and disaster response
 
 ## Description
 

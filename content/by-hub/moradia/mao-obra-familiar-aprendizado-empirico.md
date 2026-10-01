@@ -2,8 +2,8 @@
 slug: mao-obra-familiar-aprendizado-empirico
 hub: moradia
 title: Uso de Mão de Obra Familiar e Aprendizado Empírico
-summary: Construção baseada em conhecimento transmitido oralmente e trabalho familiar,
-  sem qualificação formal.
+summary: Construção residencial baseada em conhecimento oral e trabalho de familiares
+  e vizinhos
 permalink: https://www.envisioning.com/moradia/mao-obra-familiar-aprendizado-empirico
 collection: metodos-execucao-obra
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592096/habit
 
 ## Summary
 
-Construção baseada em conhecimento transmitido oralmente e trabalho familiar, sem qualificação formal.
+Construção residencial baseada em conhecimento oral e trabalho de familiares e vizinhos
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: open-banking-platforms
 hub: vault
 title: Open Banking & Finance APIs
-summary: Standardized platforms for financial data sharing.
+summary: Secure APIs enabling third-party access to financial data with customer consent
 permalink: https://www.envisioning.com/vault/open-banking-platforms
 collection: software
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128358/vault
 
 ## Summary
 
-Standardized platforms for financial data sharing.
+Secure APIs enabling third-party access to financial data with customer consent
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: aatip-aawsap-dia-studies
 hub: xenotech
 title: Aerospace Studies
-summary: Defense Intelligence Agency's Advanced Aerospace Threat Identification Program
-  investigating anomalous propulsion and physics.
+summary: Pentagon programs studying unidentified aerial phenomena and breakthrough
+  propulsion physics
 permalink: https://www.envisioning.com/xenotech/aatip-aawsap-dia-studies
 collection: defense-surveillance
 trl: 4
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760818279/xenotech/technologies/wilson-davis-documents.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772894715/xenotech/technologies/aatip-aawsap-dia-studies-openrouter-google-gemini-3.1-flash-image-preview-auo2y9.png
 ---
 
 # Aerospace Studies
 
 ## Summary
 
-Defense Intelligence Agency's Advanced Aerospace Threat Identification Program investigating anomalous propulsion and physics.
+Pentagon programs studying unidentified aerial phenomena and breakthrough propulsion physics
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: brain-guided-robotics
 hub: cortex
 title: Brain-Guided Robotics
-summary: Teleoperation for remote surgery or hazardous environments.
+summary: Robotic systems controlled by brain signals for surgery, hazardous work,
+  or remote operations
 permalink: https://www.envisioning.com/cortex/brain-guided-robotics
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995761/corte
 
 ## Summary
 
-Teleoperation for remote surgery or hazardous environments.
+Robotic systems controlled by brain signals for surgery, hazardous work, or remote operations
 
 ## Description
 

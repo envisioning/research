@@ -2,7 +2,8 @@
 slug: ssi-wallets
 hub: sentinel
 title: Self-Sovereign Identity Wallets
-summary: Applications enabling user control over digital identity and credentials.
+summary: Digital wallets that let users store and share verified credentials without
+  relying on centralized authorities
 permalink: https://www.envisioning.com/sentinel/ssi-wallets
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461908/senti
 
 ## Summary
 
-Applications enabling user control over digital identity and credentials.
+Digital wallets that let users store and share verified credentials without relying on centralized authorities
 
 ## Description
 

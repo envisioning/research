@@ -2,7 +2,7 @@
 slug: energy-efficient-manufacturing-equipment
 hub: fabric
 title: Energy-Efficient Manufacturing Equipment
-summary: Next-gen machinery designed to minimize carbon footprint in production.
+summary: Machinery that reduces energy use in textile and garment production facilities
 permalink: https://www.envisioning.com/fabric/energy-efficient-manufacturing-equipment
 collection: ethics-security
 trl: 9
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058336/threa
 
 ## Summary
 
-Next-gen machinery designed to minimize carbon footprint in production.
+Machinery that reduces energy use in textile and garment production facilities
 
 ## Description
 

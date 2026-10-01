@@ -2,7 +2,8 @@
 slug: realtime-deepfake-detectors
 hub: beacon
 title: Real-Time Deepfake Detection Pipelines
-summary: Edge and cloud services for synthetic media scanning.
+summary: Multi-layered systems that scan video and audio streams for AI-generated
+  forgeries in real time
 permalink: https://www.envisioning.com/beacon/realtime-deepfake-detectors
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124915/beaco
 
 ## Summary
 
-Edge and cloud services for synthetic media scanning.
+Multi-layered systems that scan video and audio streams for AI-generated forgeries in real time
 
 ## Description
 

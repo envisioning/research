@@ -2,21 +2,21 @@
 slug: cavity-resonance-thrusters
 hub: xenotech
 title: Cavity Resonance Thrusters
-summary: Microwave resonant cavity devices claiming propellantless thrust through
-  radiation pressure asymmetries and quantum vacuum interactions.
+summary: Microwave cavity devices claiming thrust without propellant via radiation
+  pressure asymmetries
 permalink: https://www.envisioning.com/xenotech/cavity-resonance-thrusters
 collection: propulsion-physics
 trl: 3
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655406/xenotech/technologies/cavity-resonance-thrusters.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897780/xenotech/technologies/cavity-resonance-thrusters-openrouter-google-gemini-3.1-flash-image-preview-nmw0yr.png
 ---
 
 # Cavity Resonance Thrusters
 
 ## Summary
 
-Microwave resonant cavity devices claiming propellantless thrust through radiation pressure asymmetries and quantum vacuum interactions.
+Microwave cavity devices claiming thrust without propellant via radiation pressure asymmetries
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: mixed-reality-contact-lenses
 hub: horizons
 title: Mixed Reality Contact Lenses
-summary: Contact lenses overlaying digital content directly onto the user's vision.
+summary: Wearable lenses that project digital overlays directly onto the user's field
+  of view
 permalink: https://www.envisioning.com/horizons/mixed-reality-contact-lenses
-collection: society-culture
+collection: hardware
 trl: 4
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526548/horiz
 
 ## Summary
 
-Contact lenses overlaying digital content directly onto the user's vision.
+Wearable lenses that project digital overlays directly onto the user's field of view
 
 ## Description
 

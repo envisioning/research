@@ -2,8 +2,8 @@
 slug: robotic-pharmacy-automation
 hub: vitals
 title: Robotic Pharmacy Automation
-summary: Automated storage, compounding, and dispensing systems for high-throughput,
-  error-resistant medication workflows.
+summary: Automated systems for storing, compounding, and dispensing medications in
+  hospitals and pharmacies
 permalink: https://www.envisioning.com/vitals/robotic-pharmacy-automation
 collection: hardware
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115389/vital
 
 ## Summary
 
-Automated storage, compounding, and dispensing systems for high-throughput, error-resistant medication workflows.
+Automated systems for storing, compounding, and dispensing medications in hospitals and pharmacies
 
 ## Description
 

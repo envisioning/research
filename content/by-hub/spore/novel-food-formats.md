@@ -2,7 +2,8 @@
 slug: novel-food-formats
 hub: spore
 title: Novel Food Formats
-summary: Mycelium-based whole cuts and printed foods using circular waste streams.
+summary: Mycelium scaffolds and 3D printing that create whole-cut meat alternatives
+  from waste streams
 permalink: https://www.envisioning.com/spore/novel-food-formats
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179626/spore
 
 ## Summary
 
-Mycelium-based whole cuts and printed foods using circular waste streams.
+Mycelium scaffolds and 3D printing that create whole-cut meat alternatives from waste streams
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cross-cultural-relationship-libraries
 hub: eros
 title: Cross-Cultural Relationship Pattern Libraries
-summary: Databases of relationship norms, scripts, and expectations across cultures.
+summary: Databases cataloging relationship norms, courtship rituals, and family structures
+  across cultures
 permalink: https://www.envisioning.com/eros/cross-cultural-relationship-libraries
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124181/eros/
 
 ## Summary
 
-Databases of relationship norms, scripts, and expectations across cultures.
+Databases cataloging relationship norms, courtship rituals, and family structures across cultures
 
 ## Description
 

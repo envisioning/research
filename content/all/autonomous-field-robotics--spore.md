@@ -2,8 +2,8 @@
 slug: autonomous-field-robotics
 hub: spore
 title: Autonomous Field Robotics
-summary: Lightweight multi-agent robots for precision weeding, micro-fertigation,
-  pollination, and autonomous harvesting.
+summary: Fleets of lightweight robots that weed, fertilize, pollinate, and harvest
+  crops autonomously
 permalink: https://www.envisioning.com/spore/autonomous-field-robotics
 collection: hardware
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011136/spore
 
 ## Summary
 
-Lightweight multi-agent robots for precision weeding, micro-fertigation, pollination, and autonomous harvesting.
+Fleets of lightweight robots that weed, fertilize, pollinate, and harvest crops autonomously
 
 ## Description
 

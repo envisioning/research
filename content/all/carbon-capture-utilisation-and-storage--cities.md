@@ -2,16 +2,9 @@
 slug: carbon-capture-utilisation-and-storage
 hub: cities
 title: Carbon Capture, Utilisation and Storage
-summary: Aimed at addressing the critical problems of greenhouse gas emissions and
-  air pollution, this technology captures carbon dioxide (CO₂) emissions from industrial
-  sources and power plants, preventing them from entering the atmosphere. Once captured,
-  the CO₂ can either be utilised in various industrial processes, such as producing
-  synthetic fuels and construction materials or stored underground in geological formations.
-  CCUS plays a pivotal role in reducing urban air pollution, thereby improving public
-  health by mitigating respiratory and cardiovascular diseases caused by poor air
-  quality.
+summary: Captures CO₂ from industry and power plants for reuse or underground storage
 permalink: https://www.envisioning.com/cities/carbon-capture-utilisation-and-storage
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 7
 impact: 2
 investment: 2
@@ -22,7 +15,7 @@ image_url: https://www.datocms-assets.com/134194/1718792777-carbon-capture-utili
 
 ## Summary
 
-Aimed at addressing the critical problems of greenhouse gas emissions and air pollution, this technology captures carbon dioxide (CO₂) emissions from industrial sources and power plants, preventing them from entering the atmosphere. Once captured, the CO₂ can either be utilised in various industrial processes, such as producing synthetic fuels and construction materials or stored underground in geological formations. CCUS plays a pivotal role in reducing urban air pollution, thereby improving public health by mitigating respiratory and cardiovascular diseases caused by poor air quality.
+Captures CO₂ from industry and power plants for reuse or underground storage
 
 ## Description
 

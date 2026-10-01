@@ -2,7 +2,8 @@
 slug: digital-therapeutics-formularies
 hub: vitals
 title: Digital Therapeutics (DTx) Formularies
-summary: Prescription-grade software platforms treated as reimbursable medical treatments.
+summary: Prescription software programs validated and reimbursed like traditional
+  drugs
 permalink: https://www.envisioning.com/vitals/digital-therapeutics-formularies
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461958/vital
 
 ## Summary
 
-Prescription-grade software platforms treated as reimbursable medical treatments.
+Prescription software programs validated and reimbursed like traditional drugs
 
 ## Description
 

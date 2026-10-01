@@ -2,22 +2,21 @@
 slug: uap-structured-lighting
 hub: xenotech
 title: Structured Emission Lighting
-summary: 'Structured light behavior used for function or signaling: rotating bands,
-  strobing sequences, color shifts with maneuvering, and beam projection with minimal
-  scatter.'
+summary: Patterned light emissions—rotating bands, color shifts, collimated beams—observed
+  on unidentified aerial objects
 permalink: https://www.envisioning.com/xenotech/uap-structured-lighting
 collection: defense-surveillance
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761767760/xenotech/technologies/uap-structured-lighting.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903190/xenotech/technologies/uap-structured-lighting-openrouter-google-gemini-3.1-flash-image-preview-reo4vp.png
 ---
 
 # Structured Emission Lighting
 
 ## Summary
 
-Structured light behavior used for function or signaling: rotating bands, strobing sequences, color shifts with maneuvering, and beam projection with minimal scatter.
+Patterned light emissions—rotating bands, color shifts, collimated beams—observed on unidentified aerial objects
 
 ## Description
 

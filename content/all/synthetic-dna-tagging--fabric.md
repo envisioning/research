@@ -2,8 +2,8 @@
 slug: synthetic-dna-tagging
 hub: fabric
 title: Synthetic DNA Tagging for Anti-Counterfeiting
-summary: Bio-encoded markers embedded in fibers to secure authenticity and supply-chain
-  transparency.
+summary: Invisible DNA markers embedded in textiles to verify authenticity and trace
+  supply chains
 permalink: https://www.envisioning.com/fabric/synthetic-dna-tagging
 collection: ethics-security
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058395/threa
 
 ## Summary
 
-Bio-encoded markers embedded in fibers to secure authenticity and supply-chain transparency.
+Invisible DNA markers embedded in textiles to verify authenticity and trace supply chains
 
 ## Description
 

@@ -2,8 +2,7 @@
 slug: digital-thread-mbe
 hub: forge
 title: Digital Thread & Model-Based Enterprise
-summary: Unified digital representation linking design, manufacturing, and lifecycle
-  data.
+summary: Connects design, production, and service data across a product's entire lifecycle
 permalink: https://www.envisioning.com/forge/digital-thread-mbe
 collection: software
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177845/forge
 
 ## Summary
 
-Unified digital representation linking design, manufacturing, and lifecycle data.
+Connects design, production, and service data across a product's entire lifecycle
 
 ## Description
 

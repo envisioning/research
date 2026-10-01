@@ -2,7 +2,8 @@
 slug: network-slicing-orchestration
 hub: link
 title: Network Slicing Orchestration
-summary: Software to define, deploy, and manage virtual networks on shared hardware.
+summary: Software that partitions physical telecom infrastructure into isolated virtual
+  networks with custom performance profiles
 permalink: https://www.envisioning.com/link/network-slicing-orchestration
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435930/link/
 
 ## Summary
 
-Software to define, deploy, and manage virtual networks on shared hardware.
+Software that partitions physical telecom infrastructure into isolated virtual networks with custom performance profiles
 
 ## Description
 

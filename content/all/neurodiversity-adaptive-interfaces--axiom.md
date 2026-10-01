@@ -2,7 +2,8 @@
 slug: neurodiversity-adaptive-interfaces
 hub: axiom
 title: Neurodiversity-Adaptive Interfaces
-summary: Learning environments customizable for ADHD, dyslexia, autism.
+summary: Learning platforms that adjust pacing, sensory input, and layout for neurodivergent
+  learners
 permalink: https://www.envisioning.com/axiom/neurodiversity-adaptive-interfaces
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162284/axiom
 
 ## Summary
 
-Learning environments customizable for ADHD, dyslexia, autism.
+Learning platforms that adjust pacing, sensory input, and layout for neurodivergent learners
 
 ## Description
 

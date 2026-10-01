@@ -2,7 +2,7 @@
 slug: supersonic-commercial-aviation
 hub: atlas
 title: Supersonic Commercial Aviation
-summary: Next-generation supersonic jets cutting intercontinental flight times.
+summary: Passenger aircraft exceeding Mach 1 to reduce long-haul flight times
 permalink: https://www.envisioning.com/atlas/supersonic-commercial-aviation
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125473/atlas
 
 ## Summary
 
-Next-generation supersonic jets cutting intercontinental flight times.
+Passenger aircraft exceeding Mach 1 to reduce long-haul flight times
 
 ## Description
 

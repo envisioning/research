@@ -2,7 +2,8 @@
 slug: rna-interference-pesticides
 hub: spore
 title: RNA Interference Pesticides
-summary: Gene-silencing sprays targeting specific pests.
+summary: Sprays using RNA molecules to silence genes in specific crop pests without
+  harming other species
 permalink: https://www.envisioning.com/spore/rna-interference-pesticides
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096089/spore
 
 ## Summary
 
-Gene-silencing sprays targeting specific pests.
+Sprays using RNA molecules to silence genes in specific crop pests without harming other species
 
 ## Description
 

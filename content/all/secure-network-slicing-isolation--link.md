@@ -2,7 +2,8 @@
 slug: secure-network-slicing-isolation
 hub: link
 title: Secure Network Slicing Isolation
-summary: Hard isolation between virtual slices on shared infrastructure.
+summary: Enforces complete separation between virtual network slices sharing physical
+  telecom infrastructure
 permalink: https://www.envisioning.com/link/secure-network-slicing-isolation
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179322/link/
 
 ## Summary
 
-Hard isolation between virtual slices on shared infrastructure.
+Enforces complete separation between virtual network slices sharing physical telecom infrastructure
 
 ## Description
 

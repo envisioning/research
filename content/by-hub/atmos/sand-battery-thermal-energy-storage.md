@@ -2,9 +2,7 @@
 slug: sand-battery-thermal-energy-storage
 hub: atmos
 title: Sand Battery Thermal Energy Storage in Finland
-summary: The Sand Battery project in Finland utilizes a novel thermal energy storage
-  system that employs sand to store heat, significantly reducing fossil fuel emissions
-  in district heating networks.
+summary: Stores renewable heat in sand for district heating and grid balancing
 permalink: https://www.envisioning.com/atmos/sand-battery-thermal-energy-storage
 collection: hardware
 trl: 5
@@ -17,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764412894/atmos
 
 ## Summary
 
-The Sand Battery project in Finland utilizes a novel thermal energy storage system that employs sand to store heat, significantly reducing fossil fuel emissions in district heating networks.
+Stores renewable heat in sand for district heating and grid balancing
 
 ## Description
 

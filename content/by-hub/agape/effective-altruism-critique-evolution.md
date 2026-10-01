@@ -3,7 +3,6 @@ slug: effective-altruism-critique-evolution
 hub: agape
 title: Effective Altruism Critique & Evolution
 summary: Post-FTX reckoning with effective altruism, challenging its assumptions while
-  elements are absorbed into mainstream philanthropy.
 permalink: https://www.envisioning.com/agape/effective-altruism-critique-evolution
 collection: culture-values-narratives
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368463/agape
 
 ## Summary
 
-Post-FTX reckoning with effective altruism, challenging its assumptions while elements are absorbed into mainstream philanthropy.
+Post-FTX reckoning with effective altruism, challenging its assumptions while
 
 ## Description
 

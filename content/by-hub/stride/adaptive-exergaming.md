@@ -2,7 +2,7 @@
 slug: adaptive-exergaming
 hub: stride
 title: Adaptive Exergaming
-summary: Interactive digital fitness platforms tailored for adaptive sports.
+summary: Gaming platforms that adapt controls and difficulty for athletes with disabilities
 permalink: https://www.envisioning.com/stride/adaptive-exergaming
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128450/strid
 
 ## Summary
 
-Interactive digital fitness platforms tailored for adaptive sports.
+Gaming platforms that adapt controls and difficulty for athletes with disabilities
 
 ## Description
 

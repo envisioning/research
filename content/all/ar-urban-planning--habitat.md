@@ -2,7 +2,8 @@
 slug: ar-urban-planning
 hub: habitat
 title: AR Urban Planning
-summary: Augmented reality tools for in-situ visualization of future infrastructure.
+summary: Visualizing proposed buildings and infrastructure at full scale in their
+  real-world locations
 permalink: https://www.envisioning.com/habitat/ar-urban-planning
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117074/habit
 
 ## Summary
 
-Augmented reality tools for in-situ visualization of future infrastructure.
+Visualizing proposed buildings and infrastructure at full scale in their real-world locations
 
 ## Description
 

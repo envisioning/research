@@ -2,7 +2,7 @@
 slug: cryogenic-quantum-memory
 hub: superposition
 title: Cryogenic Quantum Memory
-summary: Long-lived storage nodes preserving quantum states for distributed architectures.
+summary: Cryogenic storage preserving quantum states for distributed quantum networks
 permalink: https://www.envisioning.com/superposition/cryogenic-quantum-memory
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073951/super
 
 ## Summary
 
-Long-lived storage nodes preserving quantum states for distributed architectures.
+Cryogenic storage preserving quantum states for distributed quantum networks
 
 ## Description
 

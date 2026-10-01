@@ -2,7 +2,8 @@
 slug: autonomous-carbon-capture
 hub: continuum
 title: Autonomous Direct Air Capture
-summary: Scalable, self-regulating units for atmospheric CO2 removal.
+summary: Self-regulating systems that extract CO2 from ambient air using AI and renewable
+  energy
 permalink: https://www.envisioning.com/continuum/autonomous-carbon-capture
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123956/conti
 
 ## Summary
 
-Scalable, self-regulating units for atmospheric CO2 removal.
+Self-regulating systems that extract CO2 from ambient air using AI and renewable energy
 
 ## Description
 

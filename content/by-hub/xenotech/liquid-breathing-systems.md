@@ -2,21 +2,20 @@
 slug: liquid-breathing-systems
 hub: xenotech
 title: Liquid Breathing
-summary: Advanced perfluorocarbon-based respiration systems enabling effortless breathing
-  in liquid environments.
+summary: Breathing oxygen-rich perfluorocarbon liquids instead of air
 permalink: https://www.envisioning.com/xenotech/liquid-breathing-systems
 collection: biology-hybridization
 trl: 3
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761470158/xenotech/technologies/liquid-breathing-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898571/xenotech/technologies/liquid-breathing-systems-openrouter-google-gemini-3.1-flash-image-preview-1uuq2n.png
 ---
 
 # Liquid Breathing
 
 ## Summary
 
-Advanced perfluorocarbon-based respiration systems enabling effortless breathing in liquid environments.
+Breathing oxygen-rich perfluorocarbon liquids instead of air
 
 ## Description
 

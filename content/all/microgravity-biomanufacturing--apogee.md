@@ -2,7 +2,8 @@
 slug: microgravity-biomanufacturing
 hub: apogee
 title: Microgravity Biomanufacturing
-summary: Production of superior pharmaceuticals and organ tissues in space.
+summary: Manufacturing pharmaceuticals and bioprinted tissues in orbit using microgravity
+  conditions
 permalink: https://www.envisioning.com/apogee/microgravity-biomanufacturing
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011652/apoge
 
 ## Summary
 
-Production of superior pharmaceuticals and organ tissues in space.
+Manufacturing pharmaceuticals and bioprinted tissues in orbit using microgravity conditions
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cell-derived-aesthetic-regeneration
 hub: aura
 title: Cell-Derived Aesthetic Regeneration
-summary: Exosomes and stem-cell serums for repair.
+summary: Exosomes and stem-cell signals that stimulate collagen, reduce inflammation,
+  and promote skin rejuvenation
 permalink: https://www.envisioning.com/aura/cell-derived-aesthetic-regeneration
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996099/aura/
 
 ## Summary
 
-Exosomes and stem-cell serums for repair.
+Exosomes and stem-cell signals that stimulate collagen, reduce inflammation, and promote skin rejuvenation
 
 ## Description
 

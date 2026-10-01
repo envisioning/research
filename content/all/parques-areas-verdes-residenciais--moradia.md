@@ -2,8 +2,8 @@
 slug: parques-areas-verdes-residenciais
 hub: moradia
 title: Parques e Áreas Verdes em Empreendimentos Residenciais
-summary: Parques, praças e áreas verdes integradas em condomínios e empreendimentos
-  residenciais como infraestrutura de qualidade de vida.
+summary: Parques e jardins planejados como infraestrutura funcional em condomínios
+  e novos bairros residenciais
 permalink: https://www.envisioning.com/moradia/parques-areas-verdes-residenciais
 collection: cidade-infraestrutura-urbana
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591848/habit
 
 ## Summary
 
-Parques, praças e áreas verdes integradas em condomínios e empreendimentos residenciais como infraestrutura de qualidade de vida.
+Parques e jardins planejados como infraestrutura funcional em condomínios e novos bairros residenciais
 
 ## Description
 

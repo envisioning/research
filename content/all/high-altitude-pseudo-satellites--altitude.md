@@ -2,8 +2,8 @@
 slug: high-altitude-pseudo-satellites
 hub: altitude
 title: High-Altitude Pseudo-Satellites (HAPS)
-summary: Stratospheric platforms for persistent communication, surveillance, and Earth
-  observation.
+summary: Stratospheric aircraft and airships providing persistent coverage between
+  planes and satellites
 permalink: https://www.envisioning.com/altitude/high-altitude-pseudo-satellites
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642077/altit
 
 ## Summary
 
-Stratospheric platforms for persistent communication, surveillance, and Earth observation.
+Stratospheric aircraft and airships providing persistent coverage between planes and satellites
 
 ## Description
 

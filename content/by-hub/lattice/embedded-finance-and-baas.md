@@ -2,7 +2,8 @@
 slug: embedded-finance-and-baas
 hub: lattice
 title: Embedded Finance & Composable BaaS
-summary: Non-financial platforms embedding accounts, credit, and payments.
+summary: Non-financial platforms embedding accounts, payments, and credit via modular
+  APIs
 permalink: https://www.envisioning.com/lattice/embedded-finance-and-baas
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998526/flows
 
 ## Summary
 
-Non-financial platforms embedding accounts, credit, and payments.
+Non-financial platforms embedding accounts, payments, and credit via modular APIs
 
 ## Description
 

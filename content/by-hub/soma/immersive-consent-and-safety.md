@@ -2,7 +2,8 @@
 slug: immersive-consent-and-safety
 hub: soma
 title: Immersive Consent and Safety Protocols
-summary: Real-time consent, boundary, and safety systems for XR social spaces.
+summary: Real-time consent and boundary enforcement systems designed for XR social
+  environments
 permalink: https://www.envisioning.com/soma/immersive-consent-and-safety
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179187/soma/
 
 ## Summary
 
-Real-time consent, boundary, and safety systems for XR social spaces.
+Real-time consent and boundary enforcement systems designed for XR social environments
 
 ## Description
 

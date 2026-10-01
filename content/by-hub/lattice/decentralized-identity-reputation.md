@@ -2,7 +2,8 @@
 slug: decentralized-identity-reputation
 hub: lattice
 title: Decentralized Identity & Reputation Systems
-summary: Self-sovereign identity with verifiable credentials and behavioral scoring.
+summary: Self-sovereign identity with verifiable credentials and cross-platform reputation
+  tracking
 permalink: https://www.envisioning.com/lattice/decentralized-identity-reputation
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990894/flows
 
 ## Summary
 
-Self-sovereign identity with verifiable credentials and behavioral scoring.
+Self-sovereign identity with verifiable credentials and cross-platform reputation tracking
 
 ## Description
 

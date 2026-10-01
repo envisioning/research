@@ -2,7 +2,8 @@
 slug: industrial-digital-twins
 hub: stratum
 title: Industrial Digital Twins
-summary: Virtual replicas of physical assets for simulation and optimization.
+summary: Virtual replicas of industrial assets that sync with real-time data for predictive
+  maintenance and optimization
 permalink: https://www.envisioning.com/stratum/industrial-digital-twins
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135097/strat
 
 ## Summary
 
-Virtual replicas of physical assets for simulation and optimization.
+Virtual replicas of industrial assets that sync with real-time data for predictive maintenance and optimization
 
 ## Description
 

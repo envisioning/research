@@ -2,10 +2,8 @@
 slug: autossuficiencia-energetica-distrital
 hub: moradia
 title: Autossuficiência Energética Distrital (Energy-as-a-Node)
-summary: Sistemas integrados de geração, armazenamento, distribuição e gestão energética
-  que transformam distritos e edifícios em nós autônomos da rede, combinando microgrids,
-  solar distribuída, armazenamento, V2G, medidores inteligentes, billing inteligente
-  e modelos de energia como serviço.
+summary: Distritos e edifícios que geram, armazenam e negociam energia como nós autônomos
+  da rede
 permalink: https://www.envisioning.com/moradia/autossuficiencia-energetica-distrital
 collection: cidade-infraestrutura-urbana
 trl: null
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326882/conec
 
 ## Summary
 
-Sistemas integrados de geração, armazenamento, distribuição e gestão energética que transformam distritos e edifícios em nós autônomos da rede, combinando microgrids, solar distribuída, armazenamento, V2G, medidores inteligentes, billing inteligente e modelos de energia como serviço.
+Distritos e edifícios que geram, armazenam e negociam energia como nós autônomos da rede
 
 ## Description
 

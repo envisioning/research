@@ -2,7 +2,8 @@
 slug: 5d-optical-storage
 hub: continuum
 title: 5D Optical Data Storage
-summary: Eternal data archiving using nanostructured glass.
+summary: Encodes data in nanostructured glass for archival storage lasting millions
+  of years
 permalink: https://www.envisioning.com/continuum/5d-optical-storage
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123927/conti
 
 ## Summary
 
-Eternal data archiving using nanostructured glass.
+Encodes data in nanostructured glass for archival storage lasting millions of years
 
 ## Description
 

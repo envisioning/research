@@ -2,7 +2,8 @@
 slug: patient-data-sovereignty
 hub: vitals
 title: Patient Data Sovereignty
-summary: Systems giving patients granular control over who accesses their health data.
+summary: Decentralized systems that let patients control who accesses their medical
+  records
 permalink: https://www.envisioning.com/vitals/patient-data-sovereignty
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462073/vital
 
 ## Summary
 
-Systems giving patients granular control over who accesses their health data.
+Decentralized systems that let patients control who accesses their medical records
 
 ## Description
 

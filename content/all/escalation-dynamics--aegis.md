@@ -2,7 +2,8 @@
 slug: escalation-dynamics
 hub: aegis
 title: Escalation Dynamics
-summary: Guardrails for automated decision systems interacting with adversarial AI.
+summary: Frameworks preventing automated defense systems from inadvertently escalating
+  conflicts with adversarial AI
 permalink: https://www.envisioning.com/aegis/escalation-dynamics
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010528/aegis
 
 ## Summary
 
-Guardrails for automated decision systems interacting with adversarial AI.
+Frameworks preventing automated defense systems from inadvertently escalating conflicts with adversarial AI
 
 ## Description
 

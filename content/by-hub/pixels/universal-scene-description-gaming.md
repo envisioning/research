@@ -2,7 +2,8 @@
 slug: universal-scene-description-gaming
 hub: pixels
 title: USD-Based Game Standards
-summary: Open standards for asset interchange between competing engines.
+summary: Shared file format that moves 3D assets between Blender, Unity, Unreal, and
+  other game tools
 permalink: https://www.envisioning.com/pixels/universal-scene-description-gaming
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062292/pixel
 
 ## Summary
 
-Open standards for asset interchange between competing engines.
+Shared file format that moves 3D assets between Blender, Unity, Unreal, and other game tools
 
 ## Description
 

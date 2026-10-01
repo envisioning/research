@@ -2,7 +2,7 @@
 slug: custo-vs-acesso-moradia
 hub: moradia
 title: Custo vs Acesso à Moradia
-summary: Tensões entre custos de construção e acesso à moradia acessível.
+summary: Tensões entre custos de construção e acesso à moradia acessível no Brasil
 permalink: https://www.envisioning.com/moradia/custo-vs-acesso-moradia
 collection: modelos-mercado-governanca
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360243/forma
 
 ## Summary
 
-Tensões entre custos de construção e acesso à moradia acessível.
+Tensões entre custos de construção e acesso à moradia acessível no Brasil
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: neurofeedback-esports-training
 hub: pixels
 title: Neurofeedback Esports Training
-summary: Real-time cognitive performance optimization for pro gamers.
+summary: EEG and biometric sensors that train esports athletes to control focus, stress,
+  and reaction speed
 permalink: https://www.envisioning.com/pixels/neurofeedback-esports-training
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058966/pixel
 
 ## Summary
 
-Real-time cognitive performance optimization for pro gamers.
+EEG and biometric sensors that train esports athletes to control focus, stress, and reaction speed
 
 ## Description
 

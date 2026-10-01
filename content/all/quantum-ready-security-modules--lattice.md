@@ -2,7 +2,8 @@
 slug: quantum-ready-security-modules
 hub: lattice
 title: Quantum-Ready Security Modules
-summary: Hardware signatures and accelerators pre-adapted for post-quantum transitions.
+summary: Hardware modules with quantum-resistant cryptography for secure post-quantum
+  migration
 permalink: https://www.envisioning.com/lattice/quantum-ready-security-modules
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990538/flows
 
 ## Summary
 
-Hardware signatures and accelerators pre-adapted for post-quantum transitions.
+Hardware modules with quantum-resistant cryptography for secure post-quantum migration
 
 ## Description
 

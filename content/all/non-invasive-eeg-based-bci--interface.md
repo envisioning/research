@@ -2,17 +2,13 @@
 slug: non-invasive-eeg-based-bci
 hub: interface
 title: Non-Invasive Brain-Computer Interfaces (BCI)
-summary: Compact, non-invasive, all-in-one devices integrating advanced BCI chips
-  and AI, capable of translating EEG signals into text and controlling mobile applications
-  or AR glasses using brain signals. Includes real-time, multi-dimensional mental
-  state detection (workload, error, focus, intent) for context-aware neuroadaptive
-  interaction, and identity verification using unique brainwave signatures (neural
-  pattern authentication).
+summary: EEG-based systems that translate brain signals into commands for devices,
+  apps, and AR without surgery
 permalink: https://www.envisioning.com/interface/non-invasive-eeg-based-bci
-collection: advanced-interaction-modalities
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742663/interface/technologies/non-invasive-eeg-based-bci-google-gemini-3-pro-image-preview-eq6yzj.png
 ---
 
@@ -20,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742663/inter
 
 ## Summary
 
-Compact, non-invasive, all-in-one devices integrating advanced BCI chips and AI, capable of translating EEG signals into text and controlling mobile applications or AR glasses using brain signals. Includes real-time, multi-dimensional mental state detection (workload, error, focus, intent) for context-aware neuroadaptive interaction, and identity verification using unique brainwave signatures (neural pattern authentication).
+EEG-based systems that translate brain signals into commands for devices, apps, and AR without surgery
 
 ## Description
 

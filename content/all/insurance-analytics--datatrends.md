@@ -2,8 +2,8 @@
 slug: insurance-analytics
 hub: datatrends
 title: Insurance Analytics
-summary: Using data analytics for risk assessment, pricing, fraud detection, and claims
-  processing in the insurance industry.
+summary: Data-driven risk assessment, pricing, fraud detection, and claims optimization
+  for insurers
 permalink: https://www.envisioning.com/datatrends/insurance-analytics
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769290/datat
 
 ## Summary
 
-Using data analytics for risk assessment, pricing, fraud detection, and claims processing in the insurance industry.
+Data-driven risk assessment, pricing, fraud detection, and claims optimization for insurers
 
 ## Description
 

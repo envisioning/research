@@ -2,7 +2,8 @@
 slug: restorative-neuroprosthetics
 hub: cortex
 title: Advanced Restorative Neuroprosthetics
-summary: Robotic limbs with bidirectional sensory feedback.
+summary: Prosthetic limbs that respond to thought and transmit touch, pressure, and
+  temperature back to the user
 permalink: https://www.envisioning.com/cortex/restorative-neuroprosthetics
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995645/corte
 
 ## Summary
 
-Robotic limbs with bidirectional sensory feedback.
+Prosthetic limbs that respond to thought and transmit touch, pressure, and temperature back to the user
 
 ## Description
 

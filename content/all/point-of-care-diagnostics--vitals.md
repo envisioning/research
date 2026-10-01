@@ -2,8 +2,8 @@
 slug: point-of-care-diagnostics
 hub: vitals
 title: Point-of-Care Diagnostics Platforms
-summary: Portable imaging and lab devices that bring diagnostics to the bedside or
-  home.
+summary: Portable lab and imaging devices that perform diagnostic tests at the bedside
+  or home
 permalink: https://www.envisioning.com/vitals/point-of-care-diagnostics
 collection: hardware
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116414/vital
 
 ## Summary
 
-Portable imaging and lab devices that bring diagnostics to the bedside or home.
+Portable lab and imaging devices that perform diagnostic tests at the bedside or home
 
 ## Description
 

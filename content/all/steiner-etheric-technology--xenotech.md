@@ -2,23 +2,21 @@
 slug: steiner-etheric-technology
 hub: xenotech
 title: Steiner's Etheric Force Technology
-summary: Rudolf Steiner's prophetic warnings (1917-1924) about future technologies
-  exploiting etheric forces, electromagnetic consciousness manipulation, and the 'welding
-  of human beings with machines'—describing a spiritual-technological battlefield
-  and the emergence of 'sub-nature' technologies disconnecting humanity from spirit.
+summary: Rudolf Steiner's warnings about technologies exploiting etheric forces and
+  electromagnetic consciousness control
 permalink: https://www.envisioning.com/xenotech/steiner-etheric-technology
 collection: consciousness-interface
 trl: 4
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762698244/xenotech/technologies/steiner-etheric-technology-openai-gpt-5-xaxz6n.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903174/xenotech/technologies/steiner-etheric-technology-openrouter-google-gemini-3.1-flash-image-preview-s7mi7t.png
 ---
 
 # Steiner's Etheric Force Technology
 
 ## Summary
 
-Rudolf Steiner's prophetic warnings (1917-1924) about future technologies exploiting etheric forces, electromagnetic consciousness manipulation, and the 'welding of human beings with machines'—describing a spiritual-technological battlefield and the emergence of 'sub-nature' technologies disconnecting humanity from spirit.
+Rudolf Steiner's warnings about technologies exploiting etheric forces and electromagnetic consciousness control
 
 ## Description
 

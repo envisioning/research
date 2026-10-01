@@ -2,7 +2,7 @@
 slug: remote-digital-towers
 hub: altitude
 title: Remote / Digital Towers
-summary: Camera-and-sensor towers enabling remote ATC services and resiliency.
+summary: Camera-and-sensor systems enabling air traffic control from remote locations
 permalink: https://www.envisioning.com/altitude/remote-digital-towers
 collection: applications
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643145/altit
 
 ## Summary
 
-Camera-and-sensor towers enabling remote ATC services and resiliency.
+Camera-and-sensor systems enabling air traffic control from remote locations
 
 ## Description
 

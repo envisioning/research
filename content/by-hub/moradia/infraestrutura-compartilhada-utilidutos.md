@@ -2,7 +2,8 @@
 slug: infraestrutura-compartilhada-utilidutos
 hub: moradia
 title: Infraestrutura Compartilhada
-summary: Galerias técnicas subterrâneas que concentram energia, telecom, água e dados.
+summary: Galerias subterrâneas que concentram redes de energia, água, telecom e dados
+  em um único corredor
 permalink: https://www.envisioning.com/moradia/infraestrutura-compartilhada-utilidutos
 collection: cidade-infraestrutura-urbana
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583591/habit
 
 ## Summary
 
-Galerias técnicas subterrâneas que concentram energia, telecom, água e dados.
+Galerias subterrâneas que concentram redes de energia, água, telecom e dados em um único corredor
 
 ## Description
 

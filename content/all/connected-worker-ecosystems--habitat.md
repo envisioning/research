@@ -2,7 +2,8 @@
 slug: connected-worker-ecosystems
 hub: habitat
 title: Connected Worker Ecosystems
-summary: IoT wearables and exoskeletons enhancing worker safety and productivity.
+summary: IoT wearables and exoskeletons that monitor worker health and reduce injury
+  risk on job sites
 permalink: https://www.envisioning.com/habitat/connected-worker-ecosystems
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117524/habit
 
 ## Summary
 
-IoT wearables and exoskeletons enhancing worker safety and productivity.
+IoT wearables and exoskeletons that monitor worker health and reduce injury risk on job sites
 
 ## Description
 

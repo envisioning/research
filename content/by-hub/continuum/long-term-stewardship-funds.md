@@ -2,7 +2,8 @@
 slug: long-term-stewardship-funds
 hub: continuum
 title: Long-Term Stewardship Funds
-summary: Financial vehicles optimized for multi-century resilience investments.
+summary: Financial vehicles structured to fund projects with benefits spanning decades
+  or centuries
 permalink: https://www.envisioning.com/continuum/long-term-stewardship-funds
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125618/conti
 
 ## Summary
 
-Financial vehicles optimized for multi-century resilience investments.
+Financial vehicles structured to fund projects with benefits spanning decades or centuries
 
 ## Description
 

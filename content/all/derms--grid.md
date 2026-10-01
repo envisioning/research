@@ -2,7 +2,8 @@
 slug: derms
 hub: grid
 title: Distributed Energy Resource Management Systems (DERMS)
-summary: Control platforms orchestrating large fleets of distributed energy resources.
+summary: Software platforms coordinating distributed solar, batteries, and grid-edge
+  devices at scale
 permalink: https://www.envisioning.com/grid/derms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113954/grid/
 
 ## Summary
 
-Control platforms orchestrating large fleets of distributed energy resources.
+Software platforms coordinating distributed solar, batteries, and grid-edge devices at scale
 
 ## Description
 

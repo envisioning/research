@@ -2,7 +2,8 @@
 slug: programmable-money-toolkits
 hub: lattice
 title: Programmable Money
-summary: Toolkits for conditional disbursements, escrow, and payroll streams.
+summary: Software libraries for conditional payments, streaming payroll, and milestone-based
+  fund release
 permalink: https://www.envisioning.com/lattice/programmable-money-toolkits
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179942/latti
 
 ## Summary
 
-Toolkits for conditional disbursements, escrow, and payroll streams.
+Software libraries for conditional payments, streaming payroll, and milestone-based fund release
 
 ## Description
 

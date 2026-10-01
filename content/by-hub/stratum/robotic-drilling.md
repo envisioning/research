@@ -2,7 +2,8 @@
 slug: robotic-drilling
 hub: stratum
 title: Robotic Drilling Rigs
-summary: Automated drilling systems utilizing computer vision for precision.
+summary: Automated drilling systems using computer vision and robotics to reduce human
+  intervention in extraction
 permalink: https://www.envisioning.com/stratum/robotic-drilling
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132958/strat
 
 ## Summary
 
-Automated drilling systems utilizing computer vision for precision.
+Automated drilling systems using computer vision and robotics to reduce human intervention in extraction
 
 ## Description
 

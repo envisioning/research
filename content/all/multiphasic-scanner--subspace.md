@@ -2,20 +2,21 @@
 slug: multiphasic-scanner
 hub: subspace
 title: Multiphase Scanner
-summary: Sensor mode sweeping multiple subspace phases simultaneously.
+summary: Sensor system detecting objects across multiple physical and subspace layers
+  simultaneously
 permalink: https://www.envisioning.com/subspace/multiphasic-scanner
 collection: sensors
 trl: 7
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760273009/subspaceindex/technologies/multiphasic-scanner.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908468/subspace/technologies/multiphasic-scanner-openrouter-google-gemini-3.1-flash-image-preview-22bc5s.png
 ---
 
 # Multiphase Scanner
 
 ## Summary
 
-Sensor mode sweeping multiple subspace phases simultaneously.
+Sensor system detecting objects across multiple physical and subspace layers simultaneously
 
 ## Description
 

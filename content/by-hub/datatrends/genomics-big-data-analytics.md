@@ -2,8 +2,8 @@
 slug: genomics-big-data-analytics
 hub: datatrends
 title: Genomics and Big Data Analytics
-summary: Analyzing massive genomic datasets to understand genetics, advance personalized
-  medicine, and address ethical challenges in genetic data usage.
+summary: Processing massive genetic datasets to enable personalized medicine and disease
+  prediction
 permalink: https://www.envisioning.com/datatrends/genomics-big-data-analytics
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769310/datat
 
 ## Summary
 
-Analyzing massive genomic datasets to understand genetics, advance personalized medicine, and address ethical challenges in genetic data usage.
+Processing massive genetic datasets to enable personalized medicine and disease prediction
 
 ## Description
 

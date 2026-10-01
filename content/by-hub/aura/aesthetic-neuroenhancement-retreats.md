@@ -2,7 +2,8 @@
 slug: aesthetic-neuroenhancement-retreats
 hub: aura
 title: Aesthetic Neuroenhancement Retreats
-summary: Integrated retreats coupling neuromodulation and beauty.
+summary: Multi-day programs combining aesthetic treatments with neuromodulation and
+  wellness practices
 permalink: https://www.envisioning.com/aura/aesthetic-neuroenhancement-retreats
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998579/aura/
 
 ## Summary
 
-Integrated retreats coupling neuromodulation and beauty.
+Multi-day programs combining aesthetic treatments with neuromodulation and wellness practices
 
 ## Description
 

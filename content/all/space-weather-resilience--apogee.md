@@ -2,7 +2,8 @@
 slug: space-weather-resilience
 hub: apogee
 title: Space Weather Resilience Strategies
-summary: Protecting infrastructure from solar storms and geomagnetic disturbances.
+summary: Protecting satellites, communications, and power grids from solar storms
+  and geomagnetic disturbances
 permalink: https://www.envisioning.com/apogee/space-weather-resilience
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012502/apoge
 
 ## Summary
 
-Protecting infrastructure from solar storms and geomagnetic disturbances.
+Protecting satellites, communications, and power grids from solar storms and geomagnetic disturbances
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: smart-columbarium-niches
 hub: eclipse
 title: Smart Columbarium Niches
-summary: Networked memorial vaults with sensors and digital interfaces.
+summary: Networked cremation vaults with environmental monitoring and digital visitor
+  interfaces
 permalink: https://www.envisioning.com/eclipse/smart-columbarium-niches
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126497/eclip
 
 ## Summary
 
-Networked memorial vaults with sensors and digital interfaces.
+Networked cremation vaults with environmental monitoring and digital visitor interfaces
 
 ## Description
 

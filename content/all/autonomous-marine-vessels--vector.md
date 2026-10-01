@@ -2,7 +2,8 @@
 slug: autonomous-marine-vessels
 hub: vector
 title: Autonomous Marine Vessels
-summary: Crewless ships for cargo transport and port operations.
+summary: Self-navigating ships using AI, sensors, and satellite guidance for cargo
+  and port operations
 permalink: https://www.envisioning.com/vector/autonomous-marine-vessels
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177448/vecto
 
 ## Summary
 
-Crewless ships for cargo transport and port operations.
+Self-navigating ships using AI, sensors, and satellite guidance for cargo and port operations
 
 ## Description
 

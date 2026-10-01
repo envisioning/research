@@ -2,15 +2,10 @@
 slug: remote-earth-sensing
 hub: cities
 title: Remote Earth Sensing
-summary: This solution provides detailed data on the Earth's surface and atmosphere
-  by utilising satellites, drones, and other airborne instruments to monitor and manage
-  urban environments. It solves problems related to urban sprawl, environmental degradation,
-  and disaster response by offering insights into land use, vegetation health, air
-  quality, and infrastructure conditions. Remote Earth sensing is essential for sustainable
-  urban planning, climate change mitigation, and disaster management, making cities
-  more resilient, efficient, and liveable for their inhabitants.
+summary: Satellite and drone monitoring of urban land use, air quality, and infrastructure
+  for planning
 permalink: https://www.envisioning.com/cities/remote-earth-sensing
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: hardware
 trl: 9
 impact: 4
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1759222042-remote-earth-sensing
 
 ## Summary
 
-This solution provides detailed data on the Earth's surface and atmosphere by utilising satellites, drones, and other airborne instruments to monitor and manage urban environments. It solves problems related to urban sprawl, environmental degradation, and disaster response by offering insights into land use, vegetation health, air quality, and infrastructure conditions. Remote Earth sensing is essential for sustainable urban planning, climate change mitigation, and disaster management, making cities more resilient, efficient, and liveable for their inhabitants.
+Satellite and drone monitoring of urban land use, air quality, and infrastructure for planning
 
 ## Description
 

@@ -2,19 +2,21 @@
 slug: artificial-general-intelligence
 hub: wintermute
 title: Artificial General Intelligence
-summary: Hypothetical AI matching or exceeding human cognitive breadth.
+summary: AI systems designed to match human-level reasoning, learning, and adaptation
+  across all cognitive tasks
 permalink: https://www.envisioning.com/wintermute/artificial-general-intelligence
 collection: applications
 trl: 2
 impact: 5
 investment: 5
+image_url: null
 ---
 
 # Artificial General Intelligence
 
 ## Summary
 
-Hypothetical AI matching or exceeding human cognitive breadth.
+AI systems designed to match human-level reasoning, learning, and adaptation across all cognitive tasks
 
 ## Description
 

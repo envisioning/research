@@ -2,7 +2,7 @@
 slug: neural-bci-input-devices
 hub: pixels
 title: Neural/BCI Input Devices
-summary: Noninvasive neural interfaces and brain-sensing wearables.
+summary: Headbands and earbuds that translate brain signals into game inputs
 permalink: https://www.envisioning.com/pixels/neural-bci-input-devices
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058874/pixel
 
 ## Summary
 
-Noninvasive neural interfaces and brain-sensing wearables.
+Headbands and earbuds that translate brain signals into game inputs
 
 ## Description
 

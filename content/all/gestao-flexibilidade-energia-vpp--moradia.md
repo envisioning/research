@@ -2,8 +2,7 @@
 slug: gestao-flexibilidade-energia-vpp
 hub: moradia
 title: Gestão de Flexibilidade Energética e VPPs
-summary: Agregação de recursos energéticos distribuídos (VPPs), gestão de demanda
-  ativa e serviços de flexibilidade para estabilizar sistema elétrico.
+summary: Agregação de recursos energéticos distribuídos para estabilizar a rede elétrica
 permalink: https://www.envisioning.com/moradia/gestao-flexibilidade-energia-vpp
 collection: plataformas-dados
 trl: 3
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592491/habit
 
 ## Summary
 
-Agregação de recursos energéticos distribuídos (VPPs), gestão de demanda ativa e serviços de flexibilidade para estabilizar sistema elétrico.
+Agregação de recursos energéticos distribuídos para estabilizar a rede elétrica
 
 ## Description
 

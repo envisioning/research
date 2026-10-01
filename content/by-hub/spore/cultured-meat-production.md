@@ -2,7 +2,7 @@
 slug: cultured-meat-production
 hub: spore
 title: Cultured Meat Production
-summary: Bioreactor platforms scaling cultivated beef and poultry.
+summary: Growing animal meat from cells in bioreactors instead of raising livestock
 permalink: https://www.envisioning.com/spore/cultured-meat-production
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096089/spore
 
 ## Summary
 
-Bioreactor platforms scaling cultivated beef and poultry.
+Growing animal meat from cells in bioreactors instead of raising livestock
 
 ## Description
 

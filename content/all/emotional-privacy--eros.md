@@ -2,7 +2,8 @@
 slug: emotional-privacy
 hub: eros
 title: Emotional Data Sovereignty
-summary: Frameworks for protecting intimate biometric and sentiment data.
+summary: Protecting biometric and sentiment data from intimate relationships and personal
+  interactions
 permalink: https://www.envisioning.com/eros/emotional-privacy
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124526/eros/
 
 ## Summary
 
-Frameworks for protecting intimate biometric and sentiment data.
+Protecting biometric and sentiment data from intimate relationships and personal interactions
 
 ## Description
 

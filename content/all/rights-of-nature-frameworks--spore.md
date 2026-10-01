@@ -2,7 +2,8 @@
 slug: rights-of-nature-frameworks
 hub: spore
 title: Rights of Nature Legal Frameworks
-summary: Legal recognition of ecosystems as entities with rights, impacting land use.
+summary: Legal frameworks granting ecosystems personhood and inherent rights, reshaping
+  environmental governance
 permalink: https://www.envisioning.com/spore/rights-of-nature-frameworks
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095874/spore
 
 ## Summary
 
-Legal recognition of ecosystems as entities with rights, impacting land use.
+Legal frameworks granting ecosystems personhood and inherent rights, reshaping environmental governance
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: in-memory-computing-chips
 hub: wintermute
 title: In-Memory Computing Chips
-summary: Logic and memory co-located to remove von Neumann bottlenecks.
+summary: Chips that compute directly in memory arrays, eliminating data transfer overhead
 permalink: https://www.envisioning.com/wintermute/in-memory-computing-chips
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080317/winte
 
 ## Summary
 
-Logic and memory co-located to remove von Neumann bottlenecks.
+Chips that compute directly in memory arrays, eliminating data transfer overhead
 
 ## Description
 

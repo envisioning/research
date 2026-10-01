@@ -2,8 +2,8 @@
 slug: data-mesh
 hub: datatrends
 title: Data Mesh Architecture
-summary: Decentralized data architecture enabling domain-oriented data ownership and
-  self-service analytics in large organizations.
+summary: Decentralized architecture where domain teams own and serve their data as
+  products
 permalink: https://www.envisioning.com/datatrends/data-mesh
 collection: valuation-productization
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766954366/datat
 
 ## Summary
 
-Decentralized data architecture enabling domain-oriented data ownership and self-service analytics in large organizations.
+Decentralized architecture where domain teams own and serve their data as products
 
 ## Description
 

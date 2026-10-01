@@ -2,7 +2,8 @@
 slug: climate-resilient-food-systems
 hub: continuum
 title: Climate-Resilient Food Systems
-summary: Autonomous greenhouses, vertical farms, and algae systems for secure nutrition.
+summary: Controlled-environment agriculture combining vertical farms, greenhouses,
+  and biotech for stable food production
 permalink: https://www.envisioning.com/continuum/climate-resilient-food-systems
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124954/conti
 
 ## Summary
 
-Autonomous greenhouses, vertical farms, and algae systems for secure nutrition.
+Controlled-environment agriculture combining vertical farms, greenhouses, and biotech for stable food production
 
 ## Description
 

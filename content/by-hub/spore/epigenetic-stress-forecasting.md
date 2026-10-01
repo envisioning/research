@@ -2,8 +2,8 @@
 slug: epigenetic-stress-forecasting
 hub: spore
 title: Epigenetic Stress Forecasting Models
-summary: AI predicting crop resilience based on gene expression changes, not just
-  DNA.
+summary: AI models predicting crop stress tolerance by analyzing gene expression patterns
+  beyond DNA
 permalink: https://www.envisioning.com/spore/epigenetic-stress-forecasting
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096046/spore
 
 ## Summary
 
-AI predicting crop resilience based on gene expression changes, not just DNA.
+AI models predicting crop stress tolerance by analyzing gene expression patterns beyond DNA
 
 ## Description
 

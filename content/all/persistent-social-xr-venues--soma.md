@@ -2,7 +2,8 @@
 slug: persistent-social-xr-venues
 hub: soma
 title: Persistent Social XR Venues
-summary: Always-on virtual third places for gatherings, performances, and rituals.
+summary: Always-on XR spaces that preserve social memory, cultural artifacts, and
+  community across sessions
 permalink: https://www.envisioning.com/soma/persistent-social-xr-venues
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177934/soma/
 
 ## Summary
 
-Always-on virtual third places for gatherings, performances, and rituals.
+Always-on XR spaces that preserve social memory, cultural artifacts, and community across sessions
 
 ## Description
 

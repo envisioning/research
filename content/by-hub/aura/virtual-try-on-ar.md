@@ -2,7 +2,8 @@
 slug: virtual-try-on-ar
 hub: aura
 title: Virtual Try-On AR
-summary: Real-time AR visualizations for makeup, hair, and accessories.
+summary: Real-time AR overlays for testing makeup, hair color, and accessories before
+  purchase
 permalink: https://www.envisioning.com/aura/virtual-try-on-ar
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060228/aura/
 
 ## Summary
 
-Real-time AR visualizations for makeup, hair, and accessories.
+Real-time AR overlays for testing makeup, hair color, and accessories before purchase
 
 ## Description
 

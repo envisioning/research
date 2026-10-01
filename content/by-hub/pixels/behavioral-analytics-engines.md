@@ -2,7 +2,7 @@
 slug: behavioral-analytics-engines
 hub: pixels
 title: Behavioral Analytics Engines
-summary: Telemetry platforms predicting player churn and tailoring live ops.
+summary: Telemetry platforms that predict player churn and personalize live operations
 permalink: https://www.envisioning.com/pixels/behavioral-analytics-engines
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062354/pixel
 
 ## Summary
 
-Telemetry platforms predicting player churn and tailoring live ops.
+Telemetry platforms that predict player churn and personalize live operations
 
 ## Description
 

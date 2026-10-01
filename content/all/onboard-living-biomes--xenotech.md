@@ -2,22 +2,21 @@
 slug: onboard-living-biomes
 hub: xenotech
 title: Bioregenerative Habitats
-summary: Alleged shipboard ecosystems (forests, wetlands, gardens) reported in entity
-  encounters, alongside emerging closed-loop life-support and bioregenerative habitat
-  technologies.
+summary: Self-sustaining ecological zones aboard spacecraft, integrating life support
+  with natural environments
 permalink: https://www.envisioning.com/xenotech/onboard-living-biomes
 collection: materials-structures
 trl: 4
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761654760/xenotech/technologies/onboard-living-biomes.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939879/xenotech/technologies/onboard-living-biomes-imagegen-v1.png
 ---
 
 # Bioregenerative Habitats
 
 ## Summary
 
-Alleged shipboard ecosystems (forests, wetlands, gardens) reported in entity encounters, alongside emerging closed-loop life-support and bioregenerative habitat technologies.
+Self-sustaining ecological zones aboard spacecraft, integrating life support with natural environments
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: borg-modular-components
 hub: subspace
 title: Modular Drone Components
-summary: Interchangeable cybernetic implants that reconfigure automatically for different
-  mission roles.
+summary: Interchangeable hardware modules that let drones reconfigure for different
+  mission roles
 permalink: https://www.envisioning.com/subspace/borg-modular-components
 collection: biotechnology
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760268949/subspaceindex/technologies/borg-modular-components.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908451/subspace/technologies/borg-modular-components-openrouter-google-gemini-3.1-flash-image-preview-6qhoii.png
 ---
 
 # Modular Drone Components
 
 ## Summary
 
-Interchangeable cybernetic implants that reconfigure automatically for different mission roles.
+Interchangeable hardware modules that let drones reconfigure for different mission roles
 
 ## Description
 

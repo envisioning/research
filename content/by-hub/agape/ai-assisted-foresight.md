@@ -3,7 +3,6 @@ slug: ai-assisted-foresight
 hub: agape
 title: AI-Assisted Foresight & Portfolio Sensing
 summary: AI used for grant triage, pattern detection, bias auditing, and continuous
-  learning systems in philanthropic intelligence.
 permalink: https://www.envisioning.com/agape/ai-assisted-foresight
 collection: knowledge-evidence-sensemaking
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419209/phila
 
 ## Summary
 
-AI used for grant triage, pattern detection, bias auditing, and continuous learning systems in philanthropic intelligence.
+AI used for grant triage, pattern detection, bias auditing, and continuous
 
 ## Description
 

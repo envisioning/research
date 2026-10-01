@@ -2,7 +2,8 @@
 slug: right-to-repair-digital-manuals
 hub: fabric
 title: Right-to-Repair Digital Manuals
-summary: QR-linked guides embedded in garments to facilitate repair and upcycling.
+summary: QR codes or NFC tags in garments linking to repair guides, material specs,
+  and care instructions
 permalink: https://www.envisioning.com/fabric/right-to-repair-digital-manuals
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058383/threa
 
 ## Summary
 
-QR-linked guides embedded in garments to facilitate repair and upcycling.
+QR codes or NFC tags in garments linking to repair guides, material specs, and care instructions
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: rights-of-nature-frameworks
 hub: continuum
 title: Rights of Nature Legal Frameworks
-summary: Granting ecosystems legal personhood and enforceable protections.
+summary: Legal systems granting ecosystems enforceable rights to exist, flourish,
+  and regenerate
 permalink: https://www.envisioning.com/continuum/rights-of-nature-frameworks
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125640/conti
 
 ## Summary
 
-Granting ecosystems legal personhood and enforceable protections.
+Legal systems granting ecosystems enforceable rights to exist, flourish, and regenerate
 
 ## Description
 

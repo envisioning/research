@@ -2,7 +2,8 @@
 slug: interactive-game-streaming
 hub: pixels
 title: Interactive Game Streaming
-summary: Cloud streaming platforms where audiences trigger in-game events.
+summary: Cloud streaming platforms where audiences trigger in-game events through
+  chat commands and votes
 permalink: https://www.envisioning.com/pixels/interactive-game-streaming
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062279/pixel
 
 ## Summary
 
-Cloud streaming platforms where audiences trigger in-game events.
+Cloud streaming platforms where audiences trigger in-game events through chat commands and votes
 
 ## Description
 

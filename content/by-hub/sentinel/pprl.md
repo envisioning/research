@@ -2,7 +2,8 @@
 slug: pprl
 hub: sentinel
 title: Privacy-Preserving Record Linkage
-summary: Secure multi-party matching of identity records without data exposure.
+summary: Matching identity records across organizations without exposing personal
+  data
 permalink: https://www.envisioning.com/sentinel/pprl
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462027/senti
 
 ## Summary
 
-Secure multi-party matching of identity records without data exposure.
+Matching identity records across organizations without exposing personal data
 
 ## Description
 

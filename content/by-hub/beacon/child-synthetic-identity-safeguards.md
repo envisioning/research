@@ -2,7 +2,8 @@
 slug: child-synthetic-identity-safeguards
 hub: beacon
 title: Child Synthetic Identity Safeguards
-summary: Protecting minors from premature digital permanence.
+summary: Preventing AI systems from building permanent digital profiles of children
+  without consent
 permalink: https://www.envisioning.com/beacon/child-synthetic-identity-safeguards
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281622/beaco
 
 ## Summary
 
-Protecting minors from premature digital permanence.
+Preventing AI systems from building permanent digital profiles of children without consent
 
 ## Description
 

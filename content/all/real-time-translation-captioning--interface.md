@@ -2,13 +2,13 @@
 slug: real-time-translation-captioning
 hub: interface
 title: Real-Time Translation & Captioning
-summary: Sub-second latency translation (89+ languages) and speaker-identified captioning
-  integrated directly into wearable displays.
+summary: Instant speech translation and speaker-identified captions displayed on wearable
+  devices
 permalink: https://www.envisioning.com/interface/real-time-translation-captioning
-collection: advanced-interaction-modalities
+collection: software
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742682/interface/technologies/real-time-translation-captioning-google-gemini-3-pro-image-preview-bbdqaz.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742682/inter
 
 ## Summary
 
-Sub-second latency translation (89+ languages) and speaker-identified captioning integrated directly into wearable displays.
+Instant speech translation and speaker-identified captions displayed on wearable devices
 
 ## Description
 

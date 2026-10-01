@@ -2,7 +2,8 @@
 slug: relationship-transition-tools
 hub: eros
 title: Relationship Transition & Ending Tools
-summary: Platforms for graceful dissolution, divorce mediation, and closure.
+summary: Digital platforms for managing breakups, divorce mediation, and relationship
+  closure with reduced conflict
 permalink: https://www.envisioning.com/eros/relationship-transition-tools
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125604/eros/
 
 ## Summary
 
-Platforms for graceful dissolution, divorce mediation, and closure.
+Digital platforms for managing breakups, divorce mediation, and relationship closure with reduced conflict
 
 ## Description
 

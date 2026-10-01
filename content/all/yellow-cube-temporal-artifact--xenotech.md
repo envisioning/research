@@ -2,22 +2,21 @@
 slug: yellow-cube-temporal-artifact
 hub: xenotech
 title: Yellow Cube Temporal Artifact
-summary: Alien artifact described as consciousness-interfaced holographic device displaying
-  multiple timeline branches and historical/future events through advanced information
-  field access.
+summary: Alleged alien device for viewing timeline branches through consciousness
+  interface
 permalink: https://www.envisioning.com/xenotech/yellow-cube-temporal-artifact
 collection: consciousness-interface
 trl: 1
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761679719/xenotech/technologies/yellow-cube-temporal-artifact.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772905182/xenotech/technologies/yellow-cube-temporal-artifact-openrouter-google-gemini-3.1-flash-image-preview-z29hb4.png
 ---
 
 # Yellow Cube Temporal Artifact
 
 ## Summary
 
-Alien artifact described as consciousness-interfaced holographic device displaying multiple timeline branches and historical/future events through advanced information field access.
+Alleged alien device for viewing timeline branches through consciousness interface
 
 ## Description
 

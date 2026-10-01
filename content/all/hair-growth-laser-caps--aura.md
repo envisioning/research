@@ -2,7 +2,7 @@
 slug: hair-growth-laser-caps
 hub: aura
 title: Hair Growth Laser Caps
-summary: Low-level laser therapy wearables for androgenic alopecia.
+summary: Wearable laser devices that stimulate hair follicles to treat pattern baldness
 permalink: https://www.envisioning.com/aura/hair-growth-laser-caps
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074020/aura/
 
 ## Summary
 
-Low-level laser therapy wearables for androgenic alopecia.
+Wearable laser devices that stimulate hair follicles to treat pattern baldness
 
 ## Description
 

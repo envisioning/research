@@ -2,7 +2,8 @@
 slug: climate-model-emulators
 hub: atmos
 title: Climate Model Emulators and Surrogates
-summary: ML surrogates that emulate complex climate models at a fraction of the compute.
+summary: Machine learning models that replicate climate simulations in seconds instead
+  of days
 permalink: https://www.envisioning.com/atmos/climate-model-emulators
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995712/atmos
 
 ## Summary
 
-ML surrogates that emulate complex climate models at a fraction of the compute.
+Machine learning models that replicate climate simulations in seconds instead of days
 
 ## Description
 

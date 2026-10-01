@@ -2,8 +2,8 @@
 slug: data-driven-culture
 hub: datatrends
 title: Management-Led Data Culture
-summary: Embedding a data mindset as a leadership imperative to drive operational
-  agility.
+summary: Leadership practices that embed data-driven decision-making across all organizational
+  levels
 permalink: https://www.envisioning.com/datatrends/data-driven-culture
 collection: strategic-culture-literacy
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373233/datat
 
 ## Summary
 
-Embedding a data mindset as a leadership imperative to drive operational agility.
+Leadership practices that embed data-driven decision-making across all organizational levels
 
 ## Description
 

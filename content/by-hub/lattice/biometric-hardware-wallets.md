@@ -2,7 +2,7 @@
 slug: biometric-hardware-wallets
 hub: lattice
 title: Hardware Wallets with Biometrics
-summary: Cold storage devices combining secure elements with fingerprint/face unlock.
+summary: Offline crypto storage devices secured by fingerprint or facial recognition
 permalink: https://www.envisioning.com/lattice/biometric-hardware-wallets
 collection: hardware
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074798/flows
 
 ## Summary
 
-Cold storage devices combining secure elements with fingerprint/face unlock.
+Offline crypto storage devices secured by fingerprint or facial recognition
 
 ## Description
 

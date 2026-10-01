@@ -2,7 +2,8 @@
 slug: federated-learning-platforms
 hub: quadrant
 title: Federated Learning Platforms
-summary: Privacy-preserving ML training across distributed sites.
+summary: Machine learning systems that train models across distributed sites without
+  centralizing sensitive data
 permalink: https://www.envisioning.com/quadrant/federated-learning-platforms
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126880/quadr
 
 ## Summary
 
-Privacy-preserving ML training across distributed sites.
+Machine learning systems that train models across distributed sites without centralizing sensitive data
 
 ## Description
 

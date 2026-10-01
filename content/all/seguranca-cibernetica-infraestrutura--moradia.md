@@ -2,7 +2,8 @@
 slug: seguranca-cibernetica-infraestrutura
 hub: moradia
 title: Segurança Cibernética de Infraestrutura Crítica
-summary: Riscos e proteções para sistemas digitais que controlam serviços essenciais.
+summary: Proteção de sistemas digitais que controlam energia, água, transporte e outros
+  serviços essenciais
 permalink: https://www.envisioning.com/moradia/seguranca-cibernetica-infraestrutura
 collection: modelos-mercado-governanca
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584215/habit
 
 ## Summary
 
-Riscos e proteções para sistemas digitais que controlam serviços essenciais.
+Proteção de sistemas digitais que controlam energia, água, transporte e outros serviços essenciais
 
 ## Description
 

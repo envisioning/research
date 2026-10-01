@@ -2,7 +2,8 @@
 slug: neuroprosthetic-calibration-ai
 hub: cortex
 title: Neuroprosthetic Calibration AI
-summary: Auto-tuning routines shortening BCI training time.
+summary: AI that auto-tunes brain–computer interfaces to maintain performance as neural
+  signals drift
 permalink: https://www.envisioning.com/cortex/neuroprosthetic-calibration-ai
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062732/corte
 
 ## Summary
 
-Auto-tuning routines shortening BCI training time.
+AI that auto-tunes brain–computer interfaces to maintain performance as neural signals drift
 
 ## Description
 

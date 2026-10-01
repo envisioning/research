@@ -2,7 +2,8 @@
 slug: existential-risk-intelligence
 hub: continuum
 title: Existential Risk Intelligence Systems
-summary: Integrated AI forecasting catastrophic threats and policy pathways.
+summary: Integrated platforms modeling catastrophic threats to civilization through
+  AI forecasting and systems analysis
 permalink: https://www.envisioning.com/continuum/existential-risk-intelligence
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124590/conti
 
 ## Summary
 
-Integrated AI forecasting catastrophic threats and policy pathways.
+Integrated platforms modeling catastrophic threats to civilization through AI forecasting and systems analysis
 
 ## Description
 

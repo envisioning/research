@@ -2,7 +2,8 @@
 slug: expressive-androids
 hub: soma
 title: Expressive Androids
-summary: Humanoid robots with naturalistic facial expressions and body language.
+summary: Humanoid robots with lifelike facial expressions and body language for natural
+  human interaction
 permalink: https://www.envisioning.com/soma/expressive-androids
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133908/soma/
 
 ## Summary
 
-Humanoid robots with naturalistic facial expressions and body language.
+Humanoid robots with lifelike facial expressions and body language for natural human interaction
 
 ## Description
 

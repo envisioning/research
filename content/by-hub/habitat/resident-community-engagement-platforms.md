@@ -2,8 +2,8 @@
 slug: resident-community-engagement-platforms
 hub: habitat
 title: Resident Community Engagement Platforms
-summary: Digital platforms fostering community building, events, and social connections
-  in student and young professional housing.
+summary: Digital hubs connecting residents through events, groups, and social features
+  in multifamily housing
 permalink: https://www.envisioning.com/habitat/resident-community-engagement-platforms
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768310178/habit
 
 ## Summary
 
-Digital platforms fostering community building, events, and social connections in student and young professional housing.
+Digital hubs connecting residents through events, groups, and social features in multifamily housing
 
 ## Description
 

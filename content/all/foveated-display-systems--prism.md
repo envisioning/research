@@ -2,8 +2,7 @@
 slug: foveated-display-systems
 hub: prism
 title: Foveated Display Systems
-summary: Eye-tracked headsets that concentrate pixels where viewers look for higher
-  fidelity.
+summary: Eye-tracked displays that render high resolution only where the user is looking
 permalink: https://www.envisioning.com/prism/foveated-display-systems
 collection: hardware
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062561/pulse
 
 ## Summary
 
-Eye-tracked headsets that concentrate pixels where viewers look for higher fidelity.
+Eye-tracked displays that render high resolution only where the user is looking
 
 ## Description
 

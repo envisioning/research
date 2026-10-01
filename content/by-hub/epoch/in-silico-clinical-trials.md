@@ -2,8 +2,8 @@
 slug: in-silico-clinical-trials
 hub: epoch
 title: In-Silico Clinical Trials
-summary: Simulating longevity interventions on virtual human populations to safely
-  accelerate research and drug approval.
+summary: Computer models that simulate how longevity treatments affect virtual human
+  populations before real trials
 permalink: https://www.envisioning.com/epoch/in-silico-clinical-trials
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477335/epoch
 
 ## Summary
 
-Simulating longevity interventions on virtual human populations to safely accelerate research and drug approval.
+Computer models that simulate how longevity treatments affect virtual human populations before real trials
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: ai-ml-advanced-analytics
 hub: datatrends
 title: AI / ML / Advanced Analytics
-summary: Core enabler of automation and innovation through machine learning and advanced
-  analytical techniques.
+summary: Machine learning and statistical methods that automate pattern discovery
+  and predictive modeling
 permalink: https://www.envisioning.com/datatrends/ai-ml-advanced-analytics
 collection: decision-intelligence-ai
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373556/datat
 
 ## Summary
 
-Core enabler of automation and innovation through machine learning and advanced analytical techniques.
+Machine learning and statistical methods that automate pattern discovery and predictive modeling
 
 ## Description
 

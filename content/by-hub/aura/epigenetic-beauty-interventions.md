@@ -2,7 +2,8 @@
 slug: epigenetic-beauty-interventions
 hub: aura
 title: Epigenetic Beauty Interventions
-summary: Topicals modulating markers tied to skin aging.
+summary: Topicals and injectables that target gene expression to influence skin aging
+  and pigmentation
 permalink: https://www.envisioning.com/aura/epigenetic-beauty-interventions
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996074/aura/
 
 ## Summary
 
-Topicals modulating markers tied to skin aging.
+Topicals and injectables that target gene expression to influence skin aging and pigmentation
 
 ## Description
 

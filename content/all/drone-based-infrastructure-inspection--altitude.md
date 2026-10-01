@@ -2,7 +2,8 @@
 slug: drone-based-infrastructure-inspection
 hub: altitude
 title: Drone-Based Airport & Infrastructure Inspection
-summary: UAS inspection for runways, lighting, bridges, and aircraft exterior checks.
+summary: Unmanned aircraft inspecting runways, taxiways, lighting, and aircraft exteriors
+  to reduce downtime
 permalink: https://www.envisioning.com/altitude/drone-based-infrastructure-inspection
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643257/altit
 
 ## Summary
 
-UAS inspection for runways, lighting, bridges, and aircraft exterior checks.
+Unmanned aircraft inspecting runways, taxiways, lighting, and aircraft exteriors to reduce downtime
 
 ## Description
 

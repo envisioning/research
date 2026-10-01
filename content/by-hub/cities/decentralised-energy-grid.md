@@ -2,15 +2,10 @@
 slug: decentralised-energy-grid
 hub: cities
 title: Decentralised Energy Grid
-summary: Also known as a distributed energy system, this solution addresses the high
-  demand for energy, the environmental impacts of traditional power sources, and the
-  need for resilient energy infrastructure. This system decentralizes energy production,
-  distributing it across multiple smaller, local sources such as solar panels, wind
-  turbines, and small-scale bioenergy plants. These local energy producers are integrated
-  into a network of smart grids, which use advanced technologies like IoT sensors
-  and AI-driven analytics to manage and balance energy supply and demand dynamically.
+summary: Distributed power generation using local renewable sources connected via
+  smart grid technology
 permalink: https://www.envisioning.com/cities/decentralised-energy-grid
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718793349-decentralised-energy
 
 ## Summary
 
-Also known as a distributed energy system, this solution addresses the high demand for energy, the environmental impacts of traditional power sources, and the need for resilient energy infrastructure. This system decentralizes energy production, distributing it across multiple smaller, local sources such as solar panels, wind turbines, and small-scale bioenergy plants. These local energy producers are integrated into a network of smart grids, which use advanced technologies like IoT sensors and AI-driven analytics to manage and balance energy supply and demand dynamically.
+Distributed power generation using local renewable sources connected via smart grid technology
 
 ## Description
 

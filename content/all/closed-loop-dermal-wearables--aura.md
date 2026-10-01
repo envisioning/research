@@ -2,7 +2,8 @@
 slug: closed-loop-dermal-wearables
 hub: aura
 title: Closed-Loop Dermal Wearables
-summary: Sensor–actuator patches adjusting output in real time.
+summary: Sensor patches that monitor skin conditions and auto-adjust treatment delivery
+  in real time
 permalink: https://www.envisioning.com/aura/closed-loop-dermal-wearables
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990397/aura/
 
 ## Summary
 
-Sensor–actuator patches adjusting output in real time.
+Sensor patches that monitor skin conditions and auto-adjust treatment delivery in real time
 
 ## Description
 

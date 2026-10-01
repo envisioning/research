@@ -2,7 +2,8 @@
 slug: emotional-data-sovereignty
 hub: solace
 title: Emotional Data Sovereignty
-summary: Governance models giving users ownership over their affective data.
+summary: Governance frameworks treating emotional and biometric data as protected
+  personal property
 permalink: https://www.envisioning.com/solace/emotional-data-sovereignty
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133797/solac
 
 ## Summary
 
-Governance models giving users ownership over their affective data.
+Governance frameworks treating emotional and biometric data as protected personal property
 
 ## Description
 

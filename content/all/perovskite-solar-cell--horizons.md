@@ -2,9 +2,9 @@
 slug: perovskite-solar-cell
 hub: horizons
 title: Perovskite Solar Cell
-summary: Efficient, flexible solar cells using low-cost crystal materials.
+summary: Solar cells using crystal compounds that enable low-cost, flexible manufacturing
 permalink: https://www.envisioning.com/horizons/perovskite-solar-cell
-collection: energy-environment
+collection: hardware
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526827/horiz
 
 ## Summary
 
-Efficient, flexible solar cells using low-cost crystal materials.
+Solar cells using crystal compounds that enable low-cost, flexible manufacturing
 
 ## Description
 

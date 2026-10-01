@@ -2,15 +2,10 @@
 slug: candidate-matching
 hub: cities
 title: Candidate Matching
-summary: Align voter preferences with political candidates in an increasingly diverse
-  and fragmented urban environment. By utilising comprehensive survey forms filled
-  out by voters, this technology employs advanced algorithms to analyse responses
-  and match them with the candidates and parties that best reflect their views and
-  needs. This approach enhances democratic engagement by making the electoral process
-  more accessible and personalised, thereby reducing political apathy and fostering
-  a more informed electorate.
+summary: Algorithms that match voters to candidates based on policy preferences and
+  values
 permalink: https://www.envisioning.com/cities/candidate-matching
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: software
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719310320-candidate-matching.p
 
 ## Summary
 
-Align voter preferences with political candidates in an increasingly diverse and fragmented urban environment. By utilising comprehensive survey forms filled out by voters, this technology employs advanced algorithms to analyse responses and match them with the candidates and parties that best reflect their views and needs. This approach enhances democratic engagement by making the electoral process more accessible and personalised, thereby reducing political apathy and fostering a more informed electorate.
+Algorithms that match voters to candidates based on policy preferences and values
 
 ## Description
 

@@ -9,7 +9,7 @@ collection: barriers-opposition
 trl: 4
 impact: 2
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887345/wonen/technologies/59b89f86-7774-47bf-a20e-d2d6c14680b4-google-gemini-3.1-flash-image-preview-lp8cty.jpg
 ---
 
 # Luxembourg Land Ownership Concentration

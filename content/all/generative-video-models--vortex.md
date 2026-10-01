@@ -2,7 +2,8 @@
 slug: generative-video-models
 hub: vortex
 title: Generative Video Models
-summary: AI that creates high-fidelity video from text prompts.
+summary: AI systems that generate video content from text descriptions using deep
+  learning
 permalink: https://www.envisioning.com/vortex/generative-video-models
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126701/vorte
 
 ## Summary
 
-AI that creates high-fidelity video from text prompts.
+AI systems that generate video content from text descriptions using deep learning
 
 ## Description
 

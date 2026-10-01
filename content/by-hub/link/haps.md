@@ -2,7 +2,8 @@
 slug: haps
 hub: link
 title: High Altitude Platform Systems (HAPS)
-summary: Stratospheric stations providing wide-area connectivity.
+summary: Stratospheric aircraft and airships delivering wireless coverage over hundreds
+  of kilometers
 permalink: https://www.envisioning.com/link/haps
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132169/link/
 
 ## Summary
 
-Stratospheric stations providing wide-area connectivity.
+Stratospheric aircraft and airships delivering wireless coverage over hundreds of kilometers
 
 ## Description
 

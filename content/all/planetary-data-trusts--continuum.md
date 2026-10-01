@@ -2,7 +2,8 @@
 slug: planetary-data-trusts
 hub: continuum
 title: Planetary Data Trusts
-summary: Institutions stewarding shared climate, biosphere, and risk data assets.
+summary: Institutional frameworks that govern shared access to critical Earth system
+  and environmental data
 permalink: https://www.envisioning.com/continuum/planetary-data-trusts
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124179/conti
 
 ## Summary
 
-Institutions stewarding shared climate, biosphere, and risk data assets.
+Institutional frameworks that govern shared access to critical Earth system and environmental data
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: manufacturing-industry-4
 hub: datatrends
 title: Manufacturing Analytics and Industry 4.0
-summary: Data-driven manufacturing using IoT, analytics, and AI to optimize production,
-  predict maintenance, and improve quality.
+summary: Data-driven production optimization using IoT sensors, predictive analytics,
+  and AI for quality and uptime
 permalink: https://www.envisioning.com/datatrends/manufacturing-industry-4
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730832/datat
 
 ## Summary
 
-Data-driven manufacturing using IoT, analytics, and AI to optimize production, predict maintenance, and improve quality.
+Data-driven production optimization using IoT sensors, predictive analytics, and AI for quality and uptime
 
 ## Description
 

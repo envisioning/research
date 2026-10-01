@@ -2,8 +2,8 @@
 slug: neuro-adaptive-environments
 hub: habitat
 title: Neuro-Adaptive Environments
-summary: Spaces that adjust lighting, sound, and layout based on real-time human biometric
-  feedback.
+summary: Spaces that adjust lighting, sound, and layout in real time using occupant
+  biometric data
 permalink: https://www.envisioning.com/habitat/neuro-adaptive-environments
 collection: hardware
 trl: 1
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221460/habit
 
 ## Summary
 
-Spaces that adjust lighting, sound, and layout based on real-time human biometric feedback.
+Spaces that adjust lighting, sound, and layout in real time using occupant biometric data
 
 ## Description
 

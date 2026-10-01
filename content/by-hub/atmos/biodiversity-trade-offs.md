@@ -2,7 +2,8 @@
 slug: biodiversity-trade-offs
 hub: atmos
 title: Biodiversity Trade-offs
-summary: Ethical boundaries for ecosystem engineering and genetic interventions.
+summary: Frameworks balancing climate interventions with ecosystem health and species
+  protection
 permalink: https://www.envisioning.com/atmos/biodiversity-trade-offs
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010189/atmos
 
 ## Summary
 
-Ethical boundaries for ecosystem engineering and genetic interventions.
+Frameworks balancing climate interventions with ecosystem health and species protection
 
 ## Description
 

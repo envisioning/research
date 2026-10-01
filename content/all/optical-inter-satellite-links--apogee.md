@@ -2,7 +2,8 @@
 slug: optical-inter-satellite-links
 hub: apogee
 title: Optical Inter-Satellite Links (OISL)
-summary: Laser communication terminals creating high-bandwidth orbital mesh networks.
+summary: Laser beams connecting satellites directly for high-speed data routing without
+  ground stations
 permalink: https://www.envisioning.com/apogee/optical-inter-satellite-links
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011021/apoge
 
 ## Summary
 
-Laser communication terminals creating high-bandwidth orbital mesh networks.
+Laser beams connecting satellites directly for high-speed data routing without ground stations
 
 ## Description
 

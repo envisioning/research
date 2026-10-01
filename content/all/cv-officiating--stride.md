@@ -2,7 +2,8 @@
 slug: cv-officiating
 hub: stride
 title: Computer Vision Officiating
-summary: Software-based electronic line-calling and rule enforcement.
+summary: AI-powered cameras that detect rule violations and line calls in real-time
+  during matches
 permalink: https://www.envisioning.com/stride/cv-officiating
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128121/strid
 
 ## Summary
 
-Software-based electronic line-calling and rule enforcement.
+AI-powered cameras that detect rule violations and line calls in real-time during matches
 
 ## Description
 

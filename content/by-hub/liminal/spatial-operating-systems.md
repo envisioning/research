@@ -2,7 +2,8 @@
 slug: spatial-operating-systems
 hub: liminal
 title: Spatial Operating Systems
-summary: OS architectures designed for unbounded 3D interfaces.
+summary: Operating systems that organize apps and data in 3D space instead of flat
+  screens
 permalink: https://www.envisioning.com/liminal/spatial-operating-systems
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124168/limin
 
 ## Summary
 
-OS architectures designed for unbounded 3D interfaces.
+Operating systems that organize apps and data in 3D space instead of flat screens
 
 ## Description
 

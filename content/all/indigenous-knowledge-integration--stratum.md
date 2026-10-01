@@ -2,8 +2,8 @@
 slug: indigenous-knowledge-integration
 hub: stratum
 title: Indigenous Knowledge Integration Systems
-summary: Co-designed platforms incorporating Traditional Ecological Knowledge into
-  operations.
+summary: Platforms co-designed with Indigenous communities to integrate Traditional
+  Ecological Knowledge into industrial operatio
 permalink: https://www.envisioning.com/stratum/indigenous-knowledge-integration
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435146/strat
 
 ## Summary
 
-Co-designed platforms incorporating Traditional Ecological Knowledge into operations.
+Platforms co-designed with Indigenous communities to integrate Traditional Ecological Knowledge into industrial operatio
 
 ## Description
 

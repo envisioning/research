@@ -2,7 +2,8 @@
 slug: virtual-power-plant-software
 hub: atmos
 title: Virtual Power Plant Software
-summary: Coordinating distributed assets as aggregated grid resources.
+summary: Software that pools home batteries, solar panels, and smart devices into
+  a unified grid resource
 permalink: https://www.envisioning.com/atmos/virtual-power-plant-software
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764176734/atmos
 
 ## Summary
 
-Coordinating distributed assets as aggregated grid resources.
+Software that pools home batteries, solar panels, and smart devices into a unified grid resource
 
 ## Description
 

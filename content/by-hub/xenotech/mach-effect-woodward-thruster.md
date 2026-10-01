@@ -2,21 +2,21 @@
 slug: mach-effect-woodward-thruster
 hub: xenotech
 title: Woodward Thruster
-summary: Propellantless thruster using transient mass fluctuations from Mach's principle
-  and relativistic effects.
+summary: Propellantless propulsion using predicted mass fluctuations in resonating
+  piezoelectric materials
 permalink: https://www.envisioning.com/xenotech/mach-effect-woodward-thruster
 collection: propulsion-physics
 trl: 3
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760983950/xenotech/technologies/mach-effect-woodward-thruster.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903544/xenotech/technologies/mach-effect-woodward-thruster-openrouter-google-gemini-3.1-flash-image-preview-xiznhm.png
 ---
 
 # Woodward Thruster
 
 ## Summary
 
-Propellantless thruster using transient mass fluctuations from Mach's principle and relativistic effects.
+Propellantless propulsion using predicted mass fluctuations in resonating piezoelectric materials
 
 ## Description
 

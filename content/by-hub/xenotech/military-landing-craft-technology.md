@@ -2,21 +2,21 @@
 slug: military-landing-craft-technology
 hub: xenotech
 title: Military Landing Craft
-summary: Alleged structured craft observed during military encounters featuring physical
-  landing traces, radiation signatures, and telepathic communication.
+summary: Structured craft reported in military encounters with physical traces and
+  anomalous communication effects
 permalink: https://www.envisioning.com/xenotech/military-landing-craft-technology
 collection: defense-surveillance
 trl: 1
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760818388/xenotech/technologies/rendlesham-forest-craft.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898868/xenotech/technologies/military-landing-craft-technology-openrouter-google-gemini-3.1-flash-image-preview-sz664x.png
 ---
 
 # Military Landing Craft
 
 ## Summary
 
-Alleged structured craft observed during military encounters featuring physical landing traces, radiation signatures, and telepathic communication.
+Structured craft reported in military encounters with physical traces and anomalous communication effects
 
 ## Description
 

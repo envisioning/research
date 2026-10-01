@@ -2,7 +2,7 @@
 slug: gut-brain-axis-monitors
 hub: solace
 title: Gut-Brain Axis Monitors
-summary: Ingestible or non-invasive sensors tracking microbiome impact on mental health.
+summary: Sensors measuring gut microbiome signals that influence mood and mental health
 permalink: https://www.envisioning.com/solace/gut-brain-axis-monitors
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133889/solac
 
 ## Summary
 
-Ingestible or non-invasive sensors tracking microbiome impact on mental health.
+Sensors measuring gut microbiome signals that influence mood and mental health
 
 ## Description
 

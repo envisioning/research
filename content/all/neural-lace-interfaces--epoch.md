@@ -2,8 +2,8 @@
 slug: neural-lace-interfaces
 hub: epoch
 title: Neural Lace Interfaces
-summary: Ultra-fine mesh implants providing high-bandwidth brain-computer communication
-  to mitigate cognitive decline.
+summary: Injectable mesh implants that integrate with brain tissue for high-bandwidth
+  neural communication
 permalink: https://www.envisioning.com/epoch/neural-lace-interfaces
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477266/epoch
 
 ## Summary
 
-Ultra-fine mesh implants providing high-bandwidth brain-computer communication to mitigate cognitive decline.
+Injectable mesh implants that integrate with brain tissue for high-bandwidth neural communication
 
 ## Description
 

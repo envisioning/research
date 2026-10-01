@@ -2,14 +2,10 @@
 slug: bladeless-wind-turbine
 hub: cities
 title: Bladeless Wind Turbine
-summary: Unlike conventional turbines that rely on large, rotating blades, bladeless
-  turbines utilise vortex-induced vibrations to generate electricity. It significantly
-  reduces noise pollution, minimises visual impact, and eliminates the risk of bird
-  and bat collisions, which are common with traditional turbines. Furthermore, the
-  compact design of bladeless turbines allows for easier installation on rooftops
-  and other urban structures, promoting efficient land use and local energy generation.
+summary: Oscillating structures that harvest wind energy through vibration instead
+  of rotating blades
 permalink: https://www.envisioning.com/cities/bladeless-wind-turbine
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 5
 impact: 1
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719485371-bladeless-wind-turbi
 
 ## Summary
 
-Unlike conventional turbines that rely on large, rotating blades, bladeless turbines utilise vortex-induced vibrations to generate electricity. It significantly reduces noise pollution, minimises visual impact, and eliminates the risk of bird and bat collisions, which are common with traditional turbines. Furthermore, the compact design of bladeless turbines allows for easier installation on rooftops and other urban structures, promoting efficient land use and local energy generation.
+Oscillating structures that harvest wind energy through vibration instead of rotating blades
 
 ## Description
 

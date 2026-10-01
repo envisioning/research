@@ -2,13 +2,13 @@
 slug: advanced-wireless-protocols
 hub: interface
 title: Advanced Wireless Protocols
-summary: Bluetooth LE Channel Sounding for secure, precise distance measurement and
-  Wi-Fi 7/8 geolocation.
+summary: Wireless protocols that measure precise device distances using phase-based
+  radio signals
 permalink: https://www.envisioning.com/interface/advanced-wireless-protocols
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737547/interface/technologies/advanced-wireless-protocols-google-gemini-3-pro-image-preview-6zbhj0.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737547/inter
 
 ## Summary
 
-Bluetooth LE Channel Sounding for secure, precise distance measurement and Wi-Fi 7/8 geolocation.
+Wireless protocols that measure precise device distances using phase-based radio signals
 
 ## Description
 

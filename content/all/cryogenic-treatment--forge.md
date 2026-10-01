@@ -2,19 +2,21 @@
 slug: cryogenic-treatment
 hub: forge
 title: Cryogenic Treatment
-summary: Deep cooling of metals to improve strength and wear resistance.
+summary: Deep-freeze treatment of metals to boost hardness, wear resistance, and dimensional
+  stability
 permalink: https://www.envisioning.com/forge/cryogenic-treatment
 collection: materials
 trl: 6
 impact: 3
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887264/forge/technologies/5654596b-6018-40b0-aadc-99de6328ccbc-google-gemini-3.1-flash-image-preview-jmffl8.png
 ---
 
 # Cryogenic Treatment
 
 ## Summary
 
-Deep cooling of metals to improve strength and wear resistance.
+Deep-freeze treatment of metals to boost hardness, wear resistance, and dimensional stability
 
 ## Description
 

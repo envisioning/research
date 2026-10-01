@@ -2,21 +2,21 @@
 slug: gray-entity-biotech
 hub: xenotech
 title: Gray Biotech
-summary: Theory that gray aliens are engineered biological robots or avatars rather
-  than independent life forms.
+summary: Hypothesis that gray aliens function as biological robots controlled by other
+  intelligences
 permalink: https://www.envisioning.com/xenotech/gray-entity-biotech
 collection: biology-hybridization
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760950518/xenotech/technologies/gray-entity-biotech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898418/xenotech/technologies/gray-entity-biotech-openrouter-google-gemini-3.1-flash-image-preview-ybk2eo.png
 ---
 
 # Gray Biotech
 
 ## Summary
 
-Theory that gray aliens are engineered biological robots or avatars rather than independent life forms.
+Hypothesis that gray aliens function as biological robots controlled by other intelligences
 
 ## Description
 

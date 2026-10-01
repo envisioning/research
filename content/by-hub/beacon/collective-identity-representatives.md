@@ -2,7 +2,8 @@
 slug: collective-identity-representatives
 hub: beacon
 title: Collective Identity Representation Systems
-summary: AI agents representing communities, not just individuals.
+summary: AI systems designed to represent group values and community voices, not just
+  individual users
 permalink: https://www.envisioning.com/beacon/collective-identity-representatives
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281595/beaco
 
 ## Summary
 
-AI agents representing communities, not just individuals.
+AI systems designed to represent group values and community voices, not just individual users
 
 ## Description
 

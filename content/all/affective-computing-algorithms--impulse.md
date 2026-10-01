@@ -2,7 +2,8 @@
 slug: affective-computing-algorithms
 hub: impulse
 title: Affective Computing Algorithms
-summary: AI detecting emotions from biometric signals.
+summary: AI systems that detect and interpret human emotions from facial expressions,
+  voice, and biometric data
 permalink: https://www.envisioning.com/impulse/affective-computing-algorithms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133547/impul
 
 ## Summary
 
-AI detecting emotions from biometric signals.
+AI systems that detect and interpret human emotions from facial expressions, voice, and biometric data
 
 ## Description
 

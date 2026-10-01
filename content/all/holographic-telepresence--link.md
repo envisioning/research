@@ -2,7 +2,8 @@
 slug: holographic-telepresence
 hub: link
 title: Holographic Telepresence
-summary: Real-time, volumetric 3D communication.
+summary: 3D holographic video calls that recreate people as lifelike, spatial projections
+  in real time
 permalink: https://www.envisioning.com/link/holographic-telepresence
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177705/link/
 
 ## Summary
 
-Real-time, volumetric 3D communication.
+3D holographic video calls that recreate people as lifelike, spatial projections in real time
 
 ## Description
 

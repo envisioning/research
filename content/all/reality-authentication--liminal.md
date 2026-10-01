@@ -2,7 +2,7 @@
 slug: reality-authentication
 hub: liminal
 title: Reality Authentication
-summary: Cryptographic verification of digital overlays to prevent deepfakes.
+summary: Cryptographic verification of AR overlays to prevent malicious content injection
 permalink: https://www.envisioning.com/liminal/reality-authentication
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124529/limin
 
 ## Summary
 
-Cryptographic verification of digital overlays to prevent deepfakes.
+Cryptographic verification of AR overlays to prevent malicious content injection
 
 ## Description
 

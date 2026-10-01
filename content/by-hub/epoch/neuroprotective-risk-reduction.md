@@ -2,20 +2,21 @@
 slug: neuroprotective-risk-reduction
 hub: epoch
 title: Neurodegenerative Risk Reduction Programs
-summary: Early detection and interventions built around AI-based brain aging models.
+summary: Proactive brain health programs using AI and biomarkers to detect dementia
+  risk before symptoms appear
 permalink: https://www.envisioning.com/epoch/neuroprotective-risk-reduction
 collection: applications
 trl: 5
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882605/epoch/technologies/161c449a-0569-4c36-a06d-a24a766c17de-google-gemini-3.1-flash-image-preview-64xrrz.jpg
 ---
 
 # Neurodegenerative Risk Reduction Programs
 
 ## Summary
 
-Early detection and interventions built around AI-based brain aging models.
+Proactive brain health programs using AI and biomarkers to detect dementia risk before symptoms appear
 
 ## Description
 

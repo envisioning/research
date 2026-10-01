@@ -2,8 +2,8 @@
 slug: care-pathway-orchestration
 hub: vitals
 title: Care Pathway Orchestration Engines
-summary: Software that codifies and automates evidence-based care pathways across
-  settings.
+summary: Software that automates evidence-based clinical workflows across multiple
+  care settings
 permalink: https://www.envisioning.com/vitals/care-pathway-orchestration
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441647/vital
 
 ## Summary
 
-Software that codifies and automates evidence-based care pathways across settings.
+Software that automates evidence-based clinical workflows across multiple care settings
 
 ## Description
 

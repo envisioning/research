@@ -2,7 +2,8 @@
 slug: cross-cultural-empathy
 hub: soma
 title: Cross-Cultural Empathy Sims
-summary: VR/AR experiences to inhabit different perspectives.
+summary: Immersive VR/AR scenarios that let users experience life from different cultural
+  and social perspectives
 permalink: https://www.envisioning.com/soma/cross-cultural-empathy
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133037/soma/
 
 ## Summary
 
-VR/AR experiences to inhabit different perspectives.
+Immersive VR/AR scenarios that let users experience life from different cultural and social perspectives
 
 ## Description
 

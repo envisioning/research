@@ -2,8 +2,8 @@
 slug: esg-analytics-platforms
 hub: stratum
 title: ESG Performance Analytics Platforms
-summary: Integrated systems measuring, reporting, and optimizing environmental, social,
-  and governance outcomes.
+summary: Integrated systems measuring and reporting environmental, social, and governance
+  impacts across industrial operations
 permalink: https://www.envisioning.com/stratum/esg-analytics-platforms
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135242/strat
 
 ## Summary
 
-Integrated systems measuring, reporting, and optimizing environmental, social, and governance outcomes.
+Integrated systems measuring and reporting environmental, social, and governance impacts across industrial operations
 
 ## Description
 

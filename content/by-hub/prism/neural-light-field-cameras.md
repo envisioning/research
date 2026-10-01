@@ -2,8 +2,8 @@
 slug: neural-light-field-cameras
 hub: prism
 title: Neural light-field cameras
-summary: Next-generation capture devices producing volumetric scenes for adaptive
-  rendering.
+summary: Cameras that record light direction and intensity to enable post-capture
+  focus and viewpoint editing
 permalink: https://www.envisioning.com/prism/neural-light-field-cameras
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011047/pulse
 
 ## Summary
 
-Next-generation capture devices producing volumetric scenes for adaptive rendering.
+Cameras that record light direction and intensity to enable post-capture focus and viewpoint editing
 
 ## Description
 

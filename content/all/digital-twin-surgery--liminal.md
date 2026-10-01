@@ -2,7 +2,7 @@
 slug: digital-twin-surgery
 hub: liminal
 title: Digital Twin Surgery
-summary: Surgical augmentation overlaying patient anatomy in real-time.
+summary: Real-time AR overlay of patient anatomy during surgical procedures
 permalink: https://www.envisioning.com/liminal/digital-twin-surgery
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124457/limin
 
 ## Summary
 
-Surgical augmentation overlaying patient anatomy in real-time.
+Real-time AR overlay of patient anatomy during surgical procedures
 
 ## Description
 

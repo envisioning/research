@@ -2,15 +2,10 @@
 slug: rainwater-harvesting-ground-tank
 hub: cities
 title: Rainwater Harvesting Ground Tank
-summary: 'To address urban issues related to water scarcity and stormwater management,
-  this system collects and stores rainwater from rooftops and other surfaces, providing
-  a sustainable alternative to traditional water supplies. By capturing rainwater,
-  they help mitigate flooding, reduce pressure on municipal water systems, and promote
-  water conservation. This technology is essential for creating resilient, sustainable
-  cities by ensuring a reliable water supply for non-potable uses such as irrigation,
-  toilet flushing, and emergency reserves. '
+summary: Underground tanks that collect and store rooftop rainwater for irrigation,
+  flushing, and emergency use
 permalink: https://www.envisioning.com/cities/rainwater-harvesting-ground-tank
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 9
 impact: 3
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719322111-rainwater-harvesting
 
 ## Summary
 
-To address urban issues related to water scarcity and stormwater management, this system collects and stores rainwater from rooftops and other surfaces, providing a sustainable alternative to traditional water supplies. By capturing rainwater, they help mitigate flooding, reduce pressure on municipal water systems, and promote water conservation. This technology is essential for creating resilient, sustainable cities by ensuring a reliable water supply for non-potable uses such as irrigation, toilet flushing, and emergency reserves.
+Underground tanks that collect and store rooftop rainwater for irrigation, flushing, and emergency use
 
 ## Description
 

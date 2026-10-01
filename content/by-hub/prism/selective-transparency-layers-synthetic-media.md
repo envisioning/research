@@ -2,8 +2,8 @@
 slug: selective-transparency-layers-synthetic-media
 hub: prism
 title: Selective transparency layers for synthetic media
-summary: Protocols allowing creators or institutions to reveal model lineage or training
-  sources under regulated conditions.
+summary: Cryptographic protocols that reveal AI model lineage or training data only
+  to authorized parties
 permalink: https://www.envisioning.com/prism/selective-transparency-layers-synthetic-media
 collection: ethics-security
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062768/pulse
 
 ## Summary
 
-Protocols allowing creators or institutions to reveal model lineage or training sources under regulated conditions.
+Cryptographic protocols that reveal AI model lineage or training data only to authorized parties
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: ai-behavioral-patterns-networks
 hub: datatrends
 title: AI and Behavioral Patterns in Networks
-summary: Analyzing how AI systems influence and are influenced by behavioral patterns
-  in social, economic, and communication networks.
+summary: Mapping how AI shapes and responds to human behavior across social and digital
+  networks
 permalink: https://www.envisioning.com/datatrends/ai-behavioral-patterns-networks
 collection: management-foundations
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768160235/datat
 
 ## Summary
 
-Analyzing how AI systems influence and are influenced by behavioral patterns in social, economic, and communication networks.
+Mapping how AI shapes and responds to human behavior across social and digital networks
 
 ## Description
 

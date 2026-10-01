@@ -2,8 +2,7 @@
 slug: blue-carbon-ecosystem-restoration
 hub: atmos
 title: Blue Carbon Ecosystem Restoration
-summary: Restoring mangroves, seagrasses, and marshes as durable carbon and resilience
-  assets.
+summary: Replanting coastal wetlands to sequester carbon and buffer storms
 permalink: https://www.envisioning.com/atmos/blue-carbon-ecosystem-restoration
 collection: applications
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998675/atmos
 
 ## Summary
 
-Restoring mangroves, seagrasses, and marshes as durable carbon and resilience assets.
+Replanting coastal wetlands to sequester carbon and buffer storms
 
 ## Description
 

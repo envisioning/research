@@ -2,7 +2,8 @@
 slug: vdrs
 hub: sentinel
 title: Verifiable Data Registries
-summary: Blockchain-based trust registries governing credential issuers and schemas.
+summary: Distributed ledgers that track authorized credential issuers and validate
+  digital identity claims
 permalink: https://www.envisioning.com/sentinel/vdrs
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461820/senti
 
 ## Summary
 
-Blockchain-based trust registries governing credential issuers and schemas.
+Distributed ledgers that track authorized credential issuers and validate digital identity claims
 
 ## Description
 

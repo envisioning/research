@@ -2,21 +2,21 @@
 slug: bio-signature-scanner
 hub: subspace
 title: Bio-Signature Scanner
-summary: Sensor system for detecting and identifying life forms through their unique
-  biological signatures.
+summary: Integrated sensors that detect and classify living organisms through biological
+  markers
 permalink: https://www.envisioning.com/subspace/bio-signature-scanner
 collection: sensors
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760215829/subspaceindex/technologies/bio-signature-scanner.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907505/subspace/technologies/bio-signature-scanner-openrouter-google-gemini-3.1-flash-image-preview-yuz9c4.png
 ---
 
 # Bio-Signature Scanner
 
 ## Summary
 
-Sensor system for detecting and identifying life forms through their unique biological signatures.
+Integrated sensors that detect and classify living organisms through biological markers
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: digital-twin-governance-platforms
 hub: polis
 title: Digital Twin Governance Platforms
-summary: Multi-scale simulations from national policy to city infrastructure.
+summary: Virtual replicas of government systems and infrastructure for testing policies
+  before implementation
 permalink: https://www.envisioning.com/polis/digital-twin-governance-platforms
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126773/polis
 
 ## Summary
 
-Multi-scale simulations from national policy to city infrastructure.
+Virtual replicas of government systems and infrastructure for testing policies before implementation
 
 ## Description
 

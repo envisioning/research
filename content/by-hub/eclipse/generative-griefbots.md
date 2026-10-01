@@ -2,7 +2,8 @@
 slug: generative-griefbots
 hub: eclipse
 title: Generative Griefbots
-summary: AI agents simulating deceased individuals based on digital footprints.
+summary: AI chatbots trained on a deceased person's messages, emails, and posts to
+  simulate conversation
 permalink: https://www.envisioning.com/eclipse/generative-griefbots
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126747/eclip
 
 ## Summary
 
-AI agents simulating deceased individuals based on digital footprints.
+AI chatbots trained on a deceased person's messages, emails, and posts to simulate conversation
 
 ## Description
 

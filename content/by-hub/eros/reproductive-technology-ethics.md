@@ -2,7 +2,8 @@
 slug: reproductive-technology-ethics
 hub: eros
 title: Reproductive Technology & Relationship Ethics
-summary: Frameworks governing fertility, surrogacy, and genetic selection.
+summary: Ethical frameworks for fertility tech, surrogacy, genetic screening, and
+  reproductive autonomy in relationships
 permalink: https://www.envisioning.com/eros/reproductive-technology-ethics
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126119/eros/
 
 ## Summary
 
-Frameworks governing fertility, surrogacy, and genetic selection.
+Ethical frameworks for fertility tech, surrogacy, genetic screening, and reproductive autonomy in relationships
 
 ## Description
 

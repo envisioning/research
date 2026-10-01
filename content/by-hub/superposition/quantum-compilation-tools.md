@@ -2,7 +2,8 @@
 slug: quantum-compilation-tools
 hub: superposition
 title: Quantum Compilation Tools
-summary: Optimizers that map abstract circuits to physical hardware topology and constraints.
+summary: Software that translates quantum algorithms into executable instructions
+  for specific quantum hardware
 permalink: https://www.envisioning.com/superposition/quantum-compilation-tools
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181246/super
 
 ## Summary
 
-Optimizers that map abstract circuits to physical hardware topology and constraints.
+Software that translates quantum algorithms into executable instructions for specific quantum hardware
 
 ## Description
 

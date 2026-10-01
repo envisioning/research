@@ -2,16 +2,10 @@
 slug: power-beaming
 hub: cities
 title: Power Beaming
-summary: 'To tackle the limitations of traditional wired power systems, this solution
-  uses electromagnetic waves to transfer energy over distances without physical connections.
-  This technology eliminates the need for extensive cabling, reduces infrastructure
-  costs and maintenance, and reaches remote facilities and hard-to-reach areas such
-  as islands or farms while providing reliable power during emergencies and supporting
-  renewable energy integration. It enhances urban resilience and sustainability by
-  enabling efficient energy distribution, facilitating smart city developments, and
-  promoting cleaner, more flexible power solutions. '
+summary: Transmits electricity wirelessly using electromagnetic waves to power remote
+  or hard-to-reach areas
 permalink: https://www.envisioning.com/cities/power-beaming
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: hardware
 trl: 5
 impact: 1
 investment: 1
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792812-long-range-wireless-
 
 ## Summary
 
-To tackle the limitations of traditional wired power systems, this solution uses electromagnetic waves to transfer energy over distances without physical connections. This technology eliminates the need for extensive cabling, reduces infrastructure costs and maintenance, and reaches remote facilities and hard-to-reach areas such as islands or farms while providing reliable power during emergencies and supporting renewable energy integration. It enhances urban resilience and sustainability by enabling efficient energy distribution, facilitating smart city developments, and promoting cleaner, more flexible power solutions.
+Transmits electricity wirelessly using electromagnetic waves to power remote or hard-to-reach areas
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: personalized-fragrance-ai
 hub: aura
 title: Personalized Fragrance AI
-summary: Generative scent models blending accords to user profiles.
+summary: AI-generated custom fragrances tailored to individual preferences and body
+  chemistry
 permalink: https://www.envisioning.com/aura/personalized-fragrance-ai
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060230/aura/
 
 ## Summary
 
-Generative scent models blending accords to user profiles.
+AI-generated custom fragrances tailored to individual preferences and body chemistry
 
 ## Description
 

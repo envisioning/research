@@ -2,19 +2,21 @@
 slug: nanoelectromechanical-systems
 hub: horizons
 title: Nanoelectromechanical Systems (NEMS)
-summary: Mechanical devices at the nanometer scale for sensing, actuation, and computing.
+summary: Nanoscale mechanical devices coupling motion to electronic signals for ultra-sensitive
+  sensing and computing
 permalink: https://www.envisioning.com/horizons/nanoelectromechanical-systems
 collection: hardware
 trl: 4
 impact: 4
 investment: 4
+image_url: null
 ---
 
 # Nanoelectromechanical Systems (NEMS)
 
 ## Summary
 
-Mechanical devices at the nanometer scale for sensing, actuation, and computing.
+Nanoscale mechanical devices coupling motion to electronic signals for ultra-sensitive sensing and computing
 
 ## Description
 

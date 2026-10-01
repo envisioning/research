@@ -2,7 +2,8 @@
 slug: autonomous-weapons-governance-tooling
 hub: meridian
 title: Autonomous Weapons Governance Tooling
-summary: Technical enforcement of emerging norms.
+summary: Technical systems that enforce accountability and legal compliance in autonomous
+  military platforms
 permalink: https://www.envisioning.com/meridian/autonomous-weapons-governance-tooling
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435140/merid
 
 ## Summary
 
-Technical enforcement of emerging norms.
+Technical systems that enforce accountability and legal compliance in autonomous military platforms
 
 ## Description
 

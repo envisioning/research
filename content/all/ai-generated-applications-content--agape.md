@@ -3,7 +3,6 @@ slug: ai-generated-applications-content
 hub: agape
 title: AI-Generated Grant Applications & Content
 summary: Proliferation of AI-generated grant applications creating new challenges
-  for funders and questions about authenticity.
 permalink: https://www.envisioning.com/agape/ai-generated-applications-content
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367894/agape
 
 ## Summary
 
-Proliferation of AI-generated grant applications creating new challenges for funders and questions about authenticity.
+Proliferation of AI-generated grant applications creating new challenges
 
 ## Description
 

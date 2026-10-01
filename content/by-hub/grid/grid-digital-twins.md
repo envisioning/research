@@ -2,7 +2,8 @@
 slug: grid-digital-twins
 hub: grid
 title: Grid Digital Twins
-summary: High-fidelity virtual replicas of power systems for simulation and operations.
+summary: Virtual replicas of power grids that mirror real-time conditions for testing
+  and optimization
 permalink: https://www.envisioning.com/grid/grid-digital-twins
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435197/grid/
 
 ## Summary
 
-High-fidelity virtual replicas of power systems for simulation and operations.
+Virtual replicas of power grids that mirror real-time conditions for testing and optimization
 
 ## Description
 

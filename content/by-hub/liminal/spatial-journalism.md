@@ -2,7 +2,8 @@
 slug: spatial-journalism
 hub: liminal
 title: Spatial Journalism
-summary: Immersive reporting placing audiences inside documented events.
+summary: Immersive news experiences using volumetric video and spatial audio to place
+  viewers inside events
 permalink: https://www.envisioning.com/liminal/spatial-journalism
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125471/limin
 
 ## Summary
 
-Immersive reporting placing audiences inside documented events.
+Immersive news experiences using volumetric video and spatial audio to place viewers inside events
 
 ## Description
 

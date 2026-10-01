@@ -2,7 +2,8 @@
 slug: world-model-planning-engines
 hub: wintermute
 title: World-Model Planning Engines
-summary: Latent world models coupled to planners for long-horizon reasoning.
+summary: AI systems that simulate possible futures to plan multi-step actions before
+  acting
 permalink: https://www.envisioning.com/wintermute/world-model-planning-engines
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763981156/winte
 
 ## Summary
 
-Latent world models coupled to planners for long-horizon reasoning.
+AI systems that simulate possible futures to plan multi-step actions before acting
 
 ## Description
 

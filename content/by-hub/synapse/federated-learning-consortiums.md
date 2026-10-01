@@ -2,7 +2,8 @@
 slug: federated-learning-consortiums
 hub: synapse
 title: Federated Learning Consortiums
-summary: Collaborative machine learning across organizations without sharing raw data.
+summary: Multi-party AI training that keeps proprietary datasets local and shares
+  only model updates
 permalink: https://www.envisioning.com/synapse/federated-learning-consortiums
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126731/synap
 
 ## Summary
 
-Collaborative machine learning across organizations without sharing raw data.
+Multi-party AI training that keeps proprietary datasets local and shares only model updates
 
 ## Description
 

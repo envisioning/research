@@ -2,14 +2,10 @@
 slug: synthetic-data
 hub: cities
 title: Synthetic Data
-summary: Designed to address the growing concerns around data privacy, security, and
-  availability in urban environments, this solution involves the generation of artificial
-  data that closely mimic the statistical properties of real-world data without revealing
-  sensitive or personal information. This technology is crucial for enabling advanced
-  data-driven applications in cities, such as disaster preparedness, urban planning,
-  and public health management, without compromising individual privacy.
+summary: Artificially generated datasets that mimic real urban data patterns while
+  protecting individual privacy
 permalink: https://www.envisioning.com/cities/synthetic-data
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: software
 trl: 8
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724868599-synthetic-data.png
 
 ## Summary
 
-Designed to address the growing concerns around data privacy, security, and availability in urban environments, this solution involves the generation of artificial data that closely mimic the statistical properties of real-world data without revealing sensitive or personal information. This technology is crucial for enabling advanced data-driven applications in cities, such as disaster preparedness, urban planning, and public health management, without compromising individual privacy.
+Artificially generated datasets that mimic real urban data patterns while protecting individual privacy
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: demand-responsive-transit
 hub: vector
 title: Demand-Responsive Transit (DRT)
-summary: AI-powered flexible public transport adapting to real-time demand.
+summary: Flexible public transit that adjusts routes and schedules based on real-time
+  passenger requests
 permalink: https://www.envisioning.com/vector/demand-responsive-transit
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177585/vecto
 
 ## Summary
 
-AI-powered flexible public transport adapting to real-time demand.
+Flexible public transit that adjusts routes and schedules based on real-time passenger requests
 
 ## Description
 

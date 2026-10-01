@@ -2,7 +2,8 @@
 slug: dynamic-crowd-aware-booking
 hub: atlas
 title: Dynamic Crowd-Aware Booking
-summary: Timed-entry and capacity-aware reservation systems that smooth visitor flows.
+summary: Reservation systems that use real-time data and analytics to distribute visitors
+  across time slots
 permalink: https://www.envisioning.com/atlas/dynamic-crowd-aware-booking
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127245/atlas
 
 ## Summary
 
-Timed-entry and capacity-aware reservation systems that smooth visitor flows.
+Reservation systems that use real-time data and analytics to distribute visitors across time slots
 
 ## Description
 

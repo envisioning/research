@@ -2,19 +2,21 @@
 slug: flexible-electronics
 hub: interface
 title: Flexible Electronics
-summary: Foldable displays, flexible circuits, and flexible solar cells.
+summary: Bendable circuits and displays on plastic or metal substrates for foldable
+  devices and wearables
 permalink: https://www.envisioning.com/interface/flexible-electronics
 collection: hardware
 trl: 6
-impact: 5
-investment: 5
+impact: 3
+investment: 3
+image_url: null
 ---
 
 # Flexible Electronics
 
 ## Summary
 
-Foldable displays, flexible circuits, and flexible solar cells.
+Bendable circuits and displays on plastic or metal substrates for foldable devices and wearables
 
 ## Description
 

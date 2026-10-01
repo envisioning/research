@@ -2,8 +2,7 @@
 slug: dream-to-video-decoders
 hub: prism
 title: Dream-to-Video Decoders
-summary: Experimental pipelines reconstructing visual imagery from fMRI or EEG brain
-  activity.
+summary: Systems that reconstruct visual imagery from brain scans of dreams or perception
 permalink: https://www.envisioning.com/prism/dream-to-video-decoders
 collection: software
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074857/pulse
 
 ## Summary
 
-Experimental pipelines reconstructing visual imagery from fMRI or EEG brain activity.
+Systems that reconstruct visual imagery from brain scans of dreams or perception
 
 ## Description
 

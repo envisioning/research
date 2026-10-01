@@ -2,7 +2,7 @@
 slug: semantic-scene-understanding
 hub: liminal
 title: Semantic Scene Understanding
-summary: Real-time recognition of spaces, objects, and affordances.
+summary: Real-time spatial comprehension of rooms, objects, and their functional relationships
 permalink: https://www.envisioning.com/liminal/semantic-scene-understanding
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124895/limin
 
 ## Summary
 
-Real-time recognition of spaces, objects, and affordances.
+Real-time spatial comprehension of rooms, objects, and their functional relationships
 
 ## Description
 

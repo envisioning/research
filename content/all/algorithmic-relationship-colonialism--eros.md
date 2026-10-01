@@ -2,7 +2,8 @@
 slug: algorithmic-relationship-colonialism
 hub: eros
 title: Algorithmic Relationship Colonialism
-summary: Resistance to Western relationship norms embedded in global platforms.
+summary: Critical examination of Western relationship norms embedded in global dating
+  and social platforms
 permalink: https://www.envisioning.com/eros/algorithmic-relationship-colonialism
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123976/eros/
 
 ## Summary
 
-Resistance to Western relationship norms embedded in global platforms.
+Critical examination of Western relationship norms embedded in global dating and social platforms
 
 ## Description
 

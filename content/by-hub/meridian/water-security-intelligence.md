@@ -2,7 +2,7 @@
 slug: water-security-intelligence
 hub: meridian
 title: Water Security Intelligence
-summary: Monitoring transboundary water resources.
+summary: Satellite and sensor systems tracking shared water resources across borders
 permalink: https://www.envisioning.com/meridian/water-security-intelligence
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131205/merid
 
 ## Summary
 
-Monitoring transboundary water resources.
+Satellite and sensor systems tracking shared water resources across borders
 
 ## Description
 

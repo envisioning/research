@@ -2,7 +2,8 @@
 slug: autonomous-weapons-treaties
 hub: continuum
 title: Autonomous Weapons Control Treaties
-summary: International bans on lethal AI systems without human oversight.
+summary: International agreements restricting lethal autonomous weapons without meaningful
+  human control
 permalink: https://www.envisioning.com/continuum/autonomous-weapons-treaties
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126095/conti
 
 ## Summary
 
-International bans on lethal AI systems without human oversight.
+International agreements restricting lethal autonomous weapons without meaningful human control
 
 ## Description
 

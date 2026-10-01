@@ -2,7 +2,8 @@
 slug: injectable-mesh-electronics
 hub: cortex
 title: Injectable Mesh Electronics
-summary: Syringe-injectable meshes that unfurl to cover neural volume.
+summary: Flexible neural meshes delivered by syringe that unfurl and integrate with
+  brain tissue
 permalink: https://www.envisioning.com/cortex/injectable-mesh-electronics
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010332/corte
 
 ## Summary
 
-Syringe-injectable meshes that unfurl to cover neural volume.
+Flexible neural meshes delivered by syringe that unfurl and integrate with brain tissue
 
 ## Description
 

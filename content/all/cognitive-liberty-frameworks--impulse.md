@@ -2,7 +2,8 @@
 slug: cognitive-liberty-frameworks
 hub: impulse
 title: Cognitive Liberty Frameworks
-summary: Standards protecting mental privacy.
+summary: Legal and technical standards protecting mental privacy and self-determination
+  from neural interference
 permalink: https://www.envisioning.com/impulse/cognitive-liberty-frameworks
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133964/impul
 
 ## Summary
 
-Standards protecting mental privacy.
+Legal and technical standards protecting mental privacy and self-determination from neural interference
 
 ## Description
 

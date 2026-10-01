@@ -2,7 +2,7 @@
 slug: neurotechnology-consent
 hub: eros
 title: Neurotechnology Consent Frameworks
-summary: Ethics and safeguards for brain-sensing devices in intimate contexts.
+summary: Ethical guidelines and safeguards for brain-sensing devices used in relationships
 permalink: https://www.envisioning.com/eros/neurotechnology-consent
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126058/eros/
 
 ## Summary
 
-Ethics and safeguards for brain-sensing devices in intimate contexts.
+Ethical guidelines and safeguards for brain-sensing devices used in relationships
 
 ## Description
 

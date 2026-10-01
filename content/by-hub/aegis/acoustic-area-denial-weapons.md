@@ -2,7 +2,8 @@
 slug: acoustic-area-denial-weapons
 hub: aegis
 title: Acoustic Weapons
-summary: Long-range acoustic devices for non-lethal crowd control.
+summary: Directional sound systems that project voice commands or deterrent tones
+  for crowd control
 permalink: https://www.envisioning.com/aegis/acoustic-area-denial-weapons
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074968/aegis
 
 ## Summary
 
-Long-range acoustic devices for non-lethal crowd control.
+Directional sound systems that project voice commands or deterrent tones for crowd control
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: advanced-geothermal
 hub: grid
 title: Advanced Geothermal Systems
-summary: Enhanced geothermal systems (EGS) and closed-loop technologies accessing
-  deep heat.
+summary: Deep underground heat extraction through engineered rock fractures and closed-loop
+  systems
 permalink: https://www.envisioning.com/grid/advanced-geothermal
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113854/grid/
 
 ## Summary
 
-Enhanced geothermal systems (EGS) and closed-loop technologies accessing deep heat.
+Deep underground heat extraction through engineered rock fractures and closed-loop systems
 
 ## Description
 

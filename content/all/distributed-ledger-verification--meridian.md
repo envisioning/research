@@ -2,7 +2,8 @@
 slug: distributed-ledger-verification
 hub: meridian
 title: Distributed Ledger Verification
-summary: Blockchain for treaties and supply chains.
+summary: Blockchain-based records for verifying treaties, supply chains, and cross-border
+  transactions
 permalink: https://www.envisioning.com/meridian/distributed-ledger-verification
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131033/merid
 
 ## Summary
 
-Blockchain for treaties and supply chains.
+Blockchain-based records for verifying treaties, supply chains, and cross-border transactions
 
 ## Description
 

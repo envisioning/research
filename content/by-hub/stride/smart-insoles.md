@@ -2,7 +2,8 @@
 slug: smart-insoles
 hub: stride
 title: Wearable Force Sensors
-summary: In-shoe sensors measuring ground reaction forces and pressure distribution.
+summary: Embedded insole sensors that measure ground reaction forces and pressure
+  distribution during movement
 permalink: https://www.envisioning.com/stride/smart-insoles
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127972/strid
 
 ## Summary
 
-In-shoe sensors measuring ground reaction forces and pressure distribution.
+Embedded insole sensors that measure ground reaction forces and pressure distribution during movement
 
 ## Description
 

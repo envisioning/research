@@ -2,13 +2,13 @@
 slug: smart-sump-pump-monitoring
 hub: interface
 title: Smart Sump Pump Monitoring
-summary: Proactive smart home sump pump monitoring with daily automated tests, 24/7
-  monitoring, and instant alerts.
+summary: Sensors and alerts that detect sump pump failures before basement flooding
+  occurs
 permalink: https://www.envisioning.com/interface/smart-sump-pump-monitoring
-collection: ambient-contextual-systems
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743406/interface/technologies/smart-sump-pump-monitoring-google-gemini-3-pro-image-preview-ebgn1z.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743406/inter
 
 ## Summary
 
-Proactive smart home sump pump monitoring with daily automated tests, 24/7 monitoring, and instant alerts.
+Sensors and alerts that detect sump pump failures before basement flooding occurs
 
 ## Description
 

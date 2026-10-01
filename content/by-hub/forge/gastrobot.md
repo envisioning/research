@@ -2,19 +2,21 @@
 slug: gastrobot
 hub: forge
 title: Gastrobot
-summary: Robots fuelled by digesting organic matter; prototypes.
+summary: Robots powered by microbial digestion of organic matter for autonomous energy
+  generation
 permalink: https://www.envisioning.com/forge/gastrobot
 collection: hardware
 trl: 5
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886647/forge/technologies/369b1d93-ce21-45e4-b9c8-6deb10451a17-google-gemini-3.1-flash-image-preview-jg8ou4.jpg
 ---
 
 # Gastrobot
 
 ## Summary
 
-Robots fuelled by digesting organic matter; prototypes.
+Robots powered by microbial digestion of organic matter for autonomous energy generation
 
 ## Description
 

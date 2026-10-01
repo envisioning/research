@@ -2,7 +2,7 @@
 slug: planetary-surface-habitats
 hub: apogee
 title: Planetary Surface Habitats
-summary: Integrated habitat systems for long-term living on the Moon and Mars.
+summary: Integrated systems for long-term human living on the Moon and Mars
 permalink: https://www.envisioning.com/apogee/planetary-surface-habitats
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012422/apoge
 
 ## Summary
 
-Integrated habitat systems for long-term living on the Moon and Mars.
+Integrated systems for long-term human living on the Moon and Mars
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: cooperativas-compra-agregada-autoconstrucao
 hub: moradia
 title: Cooperativas e Associações para Compra Agregada
-summary: Modelos coletivos que negociam materiais em volume, acessam crédito e compartilham
-  assistência técnica.
+summary: Grupos formais que negociam materiais em volume, acessam crédito coletivo
+  e dividem custos técnicos
 permalink: https://www.envisioning.com/moradia/cooperativas-compra-agregada-autoconstrucao
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766580026/habit
 
 ## Summary
 
-Modelos coletivos que negociam materiais em volume, acessam crédito e compartilham assistência técnica.
+Grupos formais que negociam materiais em volume, acessam crédito coletivo e dividem custos técnicos
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: advanced-fermentation-bioreactors
 hub: spore
 title: Advanced Fermentation Bioreactors
-summary: Plug-and-produce bioreactors for microbial proteins and continuous-flow fermentation.
+summary: Modular bioreactors with real-time sensing and automated control for microbial
+  protein and biomass production
 permalink: https://www.envisioning.com/spore/advanced-fermentation-bioreactors
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095878/spore
 
 ## Summary
 
-Plug-and-produce bioreactors for microbial proteins and continuous-flow fermentation.
+Modular bioreactors with real-time sensing and automated control for microbial protein and biomass production
 
 ## Description
 

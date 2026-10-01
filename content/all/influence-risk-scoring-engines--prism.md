@@ -2,7 +2,7 @@
 slug: influence-risk-scoring-engines
 hub: prism
 title: Influence-risk scoring engines
-summary: Models assessing manipulative potential of content before publication.
+summary: AI models that score content for manipulation risk before it reaches audiences
 permalink: https://www.envisioning.com/prism/influence-risk-scoring-engines
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062774/pulse
 
 ## Summary
 
-Models assessing manipulative potential of content before publication.
+AI models that score content for manipulation risk before it reaches audiences
 
 ## Description
 

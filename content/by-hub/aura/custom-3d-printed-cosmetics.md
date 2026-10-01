@@ -2,7 +2,8 @@
 slug: custom-3d-printed-cosmetics
 hub: aura
 title: Custom 3D-Printed Cosmetics
-summary: On-demand printers depositing foundation or nail art to exact specs.
+summary: Printers that scan skin tone and deposit personalized makeup or nail art
+  layer by layer
 permalink: https://www.envisioning.com/aura/custom-3d-printed-cosmetics
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074453/aura/
 
 ## Summary
 
-On-demand printers depositing foundation or nail art to exact specs.
+Printers that scan skin tone and deposit personalized makeup or nail art layer by layer
 
 ## Description
 

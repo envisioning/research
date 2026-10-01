@@ -2,8 +2,8 @@
 slug: cellular-reprogramming-simulators
 hub: epoch
 title: Cellular Reprogramming Simulators
-summary: Software predicting OSK/OSKM induction thresholds, rejuvenation windows,
-  and reprogramming risk profiles.
+summary: Software that models how cells respond to Yamanaka factors during age-reversal
+  therapy
 permalink: https://www.envisioning.com/epoch/cellular-reprogramming-simulators
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772619987/epoch
 
 ## Summary
 
-Software predicting OSK/OSKM induction thresholds, rejuvenation windows, and reprogramming risk profiles.
+Software that models how cells respond to Yamanaka factors during age-reversal therapy
 
 ## Description
 

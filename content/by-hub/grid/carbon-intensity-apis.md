@@ -2,7 +2,8 @@
 slug: carbon-intensity-apis
 hub: grid
 title: Real-Time Carbon Intensity Tracking
-summary: APIs and platforms providing live grid carbon intensity for demand shifting.
+summary: APIs delivering live grid carbon intensity data to enable demand shifting
+  and cleaner energy use
 permalink: https://www.envisioning.com/grid/carbon-intensity-apis
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435229/grid/
 
 ## Summary
 
-APIs and platforms providing live grid carbon intensity for demand shifting.
+APIs delivering live grid carbon intensity data to enable demand shifting and cleaner energy use
 
 ## Description
 

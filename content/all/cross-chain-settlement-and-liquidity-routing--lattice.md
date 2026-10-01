@@ -2,7 +2,8 @@
 slug: cross-chain-settlement-and-liquidity-routing
 hub: lattice
 title: Cross-Chain Settlement & Liquidity Routing
-summary: Protocols that make multiple chains feel like one unified value plane.
+summary: Protocols that unify fragmented blockchains into a single value layer for
+  seamless cross-chain transactions
 permalink: https://www.envisioning.com/lattice/cross-chain-settlement-and-liquidity-routing
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996049/flows
 
 ## Summary
 
-Protocols that make multiple chains feel like one unified value plane.
+Protocols that unify fragmented blockchains into a single value layer for seamless cross-chain transactions
 
 ## Description
 

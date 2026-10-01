@@ -2,8 +2,8 @@
 slug: participatory-ai-governance
 hub: solace
 title: Participatory AI Governance Mechanisms
-summary: Mechanisms that give affected communities a direct role in shaping AI systems
-  and policies.
+summary: Frameworks enabling communities to shape AI systems and policies that affect
+  them
 permalink: https://www.envisioning.com/solace/participatory-ai-governance
 collection: ethics-security
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436597/solac
 
 ## Summary
 
-Mechanisms that give affected communities a direct role in shaping AI systems and policies.
+Frameworks enabling communities to shape AI systems and policies that affect them
 
 ## Description
 

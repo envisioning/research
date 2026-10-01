@@ -2,8 +2,8 @@
 slug: decentralized-longevity-biobanks
 hub: epoch
 title: Decentralized Longevity Biobanks
-summary: Blockchain-enabled platforms for secure, global sharing of aging biomarker
-  and intervention data.
+summary: Blockchain-based networks for sharing aging research data while preserving
+  donor control and privacy
 permalink: https://www.envisioning.com/epoch/decentralized-longevity-biobanks
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620105/epoch
 
 ## Summary
 
-Blockchain-enabled platforms for secure, global sharing of aging biomarker and intervention data.
+Blockchain-based networks for sharing aging research data while preserving donor control and privacy
 
 ## Description
 

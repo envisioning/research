@@ -2,9 +2,10 @@
 slug: edge-ai
 hub: horizons
 title: Edge AI
-summary: Running AI processing locally on devices for speed and privacy.
+summary: Running AI algorithms locally on devices for real-time processing and data
+  privacy
 permalink: https://www.envisioning.com/horizons/edge-ai
-collection: intelligence-computation
+collection: software
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526863/horiz
 
 ## Summary
 
-Running AI processing locally on devices for speed and privacy.
+Running AI algorithms locally on devices for real-time processing and data privacy
 
 ## Description
 

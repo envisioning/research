@@ -2,7 +2,8 @@
 slug: aquifer-storage-recovery
 hub: substrate
 title: Aquifer Storage & Recovery (ASR)
-summary: Underground reservoirs for storing treated water during surplus periods.
+summary: Injecting treated water into underground aquifers during surplus periods
+  for later recovery
 permalink: https://www.envisioning.com/substrate/aquifer-storage-recovery
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117044/subst
 
 ## Summary
 
-Underground reservoirs for storing treated water during surplus periods.
+Injecting treated water into underground aquifers during surplus periods for later recovery
 
 ## Description
 

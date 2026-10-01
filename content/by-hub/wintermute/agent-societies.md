@@ -2,7 +2,8 @@
 slug: agent-societies
 hub: wintermute
 title: Agent Societies & World Models
-summary: Shared world models, role-based cooperation, and belief propagation.
+summary: Multi-agent AI systems that coordinate through shared world models and specialized
+  roles
 permalink: https://www.envisioning.com/wintermute/agent-societies
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980998/winte
 
 ## Summary
 
-Shared world models, role-based cooperation, and belief propagation.
+Multi-agent AI systems that coordinate through shared world models and specialized roles
 
 ## Description
 

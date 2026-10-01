@@ -2,7 +2,8 @@
 slug: gravity-energy-storage
 hub: grid
 title: Gravity-Based Energy Storage
-summary: Mechanical storage systems using gravity and mass for long-duration discharge.
+summary: Stores grid energy by lifting heavy masses and releasing them to generate
+  electricity on demand
 permalink: https://www.envisioning.com/grid/gravity-energy-storage
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132033/grid/
 
 ## Summary
 
-Mechanical storage systems using gravity and mass for long-duration discharge.
+Stores grid energy by lifting heavy masses and releasing them to generate electricity on demand
 
 ## Description
 

@@ -3,7 +3,7 @@ slug: ai-demand-sensing
 hub: forge
 title: AI Demand Sensing and Dynamic Planning
 summary: Real-time demand forecasting using external signals and adaptive planning
-  algorithms.
+  algorithms
 permalink: https://www.envisioning.com/forge/ai-demand-sensing
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111346/forge
 
 ## Summary
 
-Real-time demand forecasting using external signals and adaptive planning algorithms.
+Real-time demand forecasting using external signals and adaptive planning algorithms
 
 ## Description
 

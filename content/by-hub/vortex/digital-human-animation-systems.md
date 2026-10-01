@@ -2,7 +2,8 @@
 slug: digital-human-animation-systems
 hub: vortex
 title: Digital Human Animation Systems
-summary: Real-time pipelines for lifelike virtual actors.
+summary: Real-time pipelines creating photorealistic virtual actors from motion capture
+  and AI
 permalink: https://www.envisioning.com/vortex/digital-human-animation-systems
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126769/vorte
 
 ## Summary
 
-Real-time pipelines for lifelike virtual actors.
+Real-time pipelines creating photorealistic virtual actors from motion capture and AI
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: immersive-therapy-environments
 hub: liminal
 title: Immersive Therapy Environments
-summary: XR modalities for exposure therapy, rehabilitation, and wellbeing.
+summary: XR platforms for exposure therapy, physical rehabilitation, and mental health
+  treatment
 permalink: https://www.envisioning.com/liminal/immersive-therapy-environments
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125402/limin
 
 ## Summary
 
-XR modalities for exposure therapy, rehabilitation, and wellbeing.
+XR platforms for exposure therapy, physical rehabilitation, and mental health treatment
 
 ## Description
 

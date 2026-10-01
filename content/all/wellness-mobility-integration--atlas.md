@@ -2,7 +2,8 @@
 slug: wellness-mobility-integration
 hub: atlas
 title: Wellness & Mobility Integration
-summary: Designing travel systems that support mental health and well-being.
+summary: Travel infrastructure designed to reduce stress and support passenger mental
+  health
 permalink: https://www.envisioning.com/atlas/wellness-mobility-integration
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123982/atlas
 
 ## Summary
 
-Designing travel systems that support mental health and well-being.
+Travel infrastructure designed to reduce stress and support passenger mental health
 
 ## Description
 

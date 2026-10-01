@@ -2,7 +2,8 @@
 slug: worker-data-trusts
 hub: synapse
 title: Worker Data Trusts
-summary: Collective governance structures for employee-generated data streams.
+summary: Collective structures giving employees shared control over workplace data
+  they generate
 permalink: https://www.envisioning.com/synapse/worker-data-trusts
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127250/synap
 
 ## Summary
 
-Collective governance structures for employee-generated data streams.
+Collective structures giving employees shared control over workplace data they generate
 
 ## Description
 

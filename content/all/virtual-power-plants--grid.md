@@ -2,7 +2,8 @@
 slug: virtual-power-plants
 hub: grid
 title: Virtual Power Plants (VPP)
-summary: Aggregated networks of distributed energy resources acting as one.
+summary: Coordinated networks of distributed energy assets managed as a single power
+  source
 permalink: https://www.envisioning.com/grid/virtual-power-plants
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116597/grid/
 
 ## Summary
 
-Aggregated networks of distributed energy resources acting as one.
+Coordinated networks of distributed energy assets managed as a single power source
 
 ## Description
 

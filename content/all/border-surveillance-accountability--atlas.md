@@ -2,7 +2,8 @@
 slug: border-surveillance-accountability
 hub: atlas
 title: Border Surveillance Accountability
-summary: Auditing and redress systems for automated border control technologies.
+summary: Oversight frameworks ensuring automated border technologies operate fairly
+  and within legal bounds
 permalink: https://www.envisioning.com/atlas/border-surveillance-accountability
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123904/atlas
 
 ## Summary
 
-Auditing and redress systems for automated border control technologies.
+Oversight frameworks ensuring automated border technologies operate fairly and within legal bounds
 
 ## Description
 

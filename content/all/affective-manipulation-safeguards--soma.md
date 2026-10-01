@@ -2,7 +2,8 @@
 slug: affective-manipulation-safeguards
 hub: soma
 title: Affective Manipulation Safeguards
-summary: Detection and prevention of emotional exploitation in interactive systems.
+summary: Technical controls and policies that detect and prevent emotional exploitation
+  in AI systems
 permalink: https://www.envisioning.com/soma/affective-manipulation-safeguards
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179233/soma/
 
 ## Summary
 
-Detection and prevention of emotional exploitation in interactive systems.
+Technical controls and policies that detect and prevent emotional exploitation in AI systems
 
 ## Description
 

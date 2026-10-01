@@ -2,8 +2,8 @@
 slug: quantum-drug-discovery
 hub: epoch
 title: Quantum Drug Discovery
-summary: Utilizing quantum computing to model complex molecular interactions for anti-aging
-  drugs with unprecedented accuracy.
+summary: Modeling molecular interactions for anti-aging drugs using quantum computing's
+  parallel processing power
 permalink: https://www.envisioning.com/epoch/quantum-drug-discovery
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477502/epoch
 
 ## Summary
 
-Utilizing quantum computing to model complex molecular interactions for anti-aging drugs with unprecedented accuracy.
+Modeling molecular interactions for anti-aging drugs using quantum computing's parallel processing power
 
 ## Description
 

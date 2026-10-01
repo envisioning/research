@@ -2,22 +2,21 @@
 slug: plasma-orb-propulsion
 hub: xenotech
 title: Plasma Orb Propulsion
-summary: Speculative closed-cycle plasma orb configurations claiming autonomous craft
-  capabilities through self-sustaining electromagnetic containment and exotic propulsion
-  mechanisms.
+summary: Self-contained plasma spheres theorized to enable propulsion via electromagnetic
+  fields
 permalink: https://www.envisioning.com/xenotech/plasma-orb-propulsion
 collection: propulsion-physics
 trl: 2
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761682169/xenotech/technologies/plasma-orb-propulsion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899239/xenotech/technologies/plasma-orb-propulsion-openrouter-google-gemini-3.1-flash-image-preview-om3a70.png
 ---
 
 # Plasma Orb Propulsion
 
 ## Summary
 
-Speculative closed-cycle plasma orb configurations claiming autonomous craft capabilities through self-sustaining electromagnetic containment and exotic propulsion mechanisms.
+Self-contained plasma spheres theorized to enable propulsion via electromagnetic fields
 
 ## Description
 

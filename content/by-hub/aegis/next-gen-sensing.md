@@ -2,7 +2,7 @@
 slug: next-gen-sensing
 hub: aegis
 title: Next-Gen Sensing & ISR Hardware
-summary: RF-agile radar arrays and hyperspectral satellite constellations.
+summary: Adaptive radar and multi-spectrum satellites for resilient global surveillance
 permalink: https://www.envisioning.com/aegis/next-gen-sensing
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995585/aegis
 
 ## Summary
 
-RF-agile radar arrays and hyperspectral satellite constellations.
+Adaptive radar and multi-spectrum satellites for resilient global surveillance
 
 ## Description
 

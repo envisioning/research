@@ -3,7 +3,6 @@ slug: cross-sector-hybrids
 hub: agape
 title: Cross-Sector Hybrids (NGO + DAO + Public Body)
 summary: Cross-sector hybrids (NGO + DAO + public body), as new organizational forms
-  blend traditional categories.
 permalink: https://www.envisioning.com/agape/cross-sector-hybrids
 collection: organizational-forms-ecosystems
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372268/agape
 
 ## Summary
 
-Cross-sector hybrids (NGO + DAO + public body), as new organizational forms blend traditional categories.
+Cross-sector hybrids (NGO + DAO + public body), as new organizational forms
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: biometric-wearables
 hub: vault
 title: Biometric Payment Wearables
-summary: Next-gen devices for secure, frictionless payments.
+summary: Wearables that authenticate payments using fingerprints, vein patterns, or
+  cardiac rhythms
 permalink: https://www.envisioning.com/vault/biometric-wearables
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127965/vault
 
 ## Summary
 
-Next-gen devices for secure, frictionless payments.
+Wearables that authenticate payments using fingerprints, vein patterns, or cardiac rhythms
 
 ## Description
 

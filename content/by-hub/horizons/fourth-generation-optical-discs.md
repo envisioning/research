@@ -2,19 +2,21 @@
 slug: fourth-generation-optical-discs
 hub: horizons
 title: Fourth-Generation Optical Discs
-summary: 3D optical and holographic data storage for long-term archival.
+summary: Volumetric and holographic optical storage for high-capacity, long-term data
+  archival
 permalink: https://www.envisioning.com/horizons/fourth-generation-optical-discs
 collection: hardware
 trl: 4
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889358/horizons/technologies/7b0666ff-1aab-4622-a29d-134404b5013c-google-gemini-3.1-flash-image-preview-pz08ap.jpg
 ---
 
 # Fourth-Generation Optical Discs
 
 ## Summary
 
-3D optical and holographic data storage for long-term archival.
+Volumetric and holographic optical storage for high-capacity, long-term data archival
 
 ## Description
 

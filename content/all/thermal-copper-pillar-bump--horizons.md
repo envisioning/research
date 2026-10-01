@@ -2,19 +2,21 @@
 slug: thermal-copper-pillar-bump
 hub: horizons
 title: Thermal Copper Pillar Bump
-summary: Advanced packaging for circuit cooling and thermoelectric power generation.
+summary: Copper interconnects engineered to extract heat from high-power electronics
+  and dense chip packages
 permalink: https://www.envisioning.com/horizons/thermal-copper-pillar-bump
 collection: hardware
 trl: 6
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882439/horizons/technologies/0cacb334-5260-4478-ba94-e86d7a3024a8-google-gemini-3.1-flash-image-preview-ct8wv3.jpg
 ---
 
 # Thermal Copper Pillar Bump
 
 ## Summary
 
-Advanced packaging for circuit cooling and thermoelectric power generation.
+Copper interconnects engineered to extract heat from high-power electronics and dense chip packages
 
 ## Description
 

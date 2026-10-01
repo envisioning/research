@@ -2,8 +2,8 @@
 slug: healthcare-outcome-prediction
 hub: datatrends
 title: Healthcare Predictive Analytics
-summary: Analyzing patient records to predict outbreaks and optimize hospital resource
-  allocation.
+summary: Analyzing patient data to forecast disease outbreaks and optimize hospital
+  resources
 permalink: https://www.envisioning.com/datatrends/healthcare-outcome-prediction
 collection: analytics-in-action
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372803/datat
 
 ## Summary
 
-Analyzing patient records to predict outbreaks and optimize hospital resource allocation.
+Analyzing patient data to forecast disease outbreaks and optimize hospital resources
 
 ## Description
 

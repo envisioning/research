@@ -2,20 +2,21 @@
 slug: disruptor-pistol-rifle
 hub: subspace
 title: Disruptor Pistols & Rifles
-summary: Standard Klingon energy weapons delivering lethal disintegrating bolts.
+summary: Klingon energy weapons that fire destructive bolts to destabilize molecular
+  bonds
 permalink: https://www.envisioning.com/subspace/disruptor-pistol-rifle
 collection: weapons
 trl: 6
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760262669/subspaceindex/technologies/disruptor-pistol-rifle.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907872/subspace/technologies/disruptor-pistol-rifle-openrouter-google-gemini-3.1-flash-image-preview-dmwuhx.png
 ---
 
 # Disruptor Pistols & Rifles
 
 ## Summary
 
-Standard Klingon energy weapons delivering lethal disintegrating bolts.
+Klingon energy weapons that fire destructive bolts to destabilize molecular bonds
 
 ## Description
 

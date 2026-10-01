@@ -2,8 +2,8 @@
 slug: ai-narrative-shaping-engines
 hub: prism
 title: AI narrative-shaping engines
-summary: Story models that dynamically generate or restructure plots in response to
-  user signals.
+summary: Systems that generate or adapt storylines in real time based on audience
+  input and emotional cues
 permalink: https://www.envisioning.com/prism/ai-narrative-shaping-engines
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062694/pulse
 
 ## Summary
 
-Story models that dynamically generate or restructure plots in response to user signals.
+Systems that generate or adapt storylines in real time based on audience input and emotional cues
 
 ## Description
 

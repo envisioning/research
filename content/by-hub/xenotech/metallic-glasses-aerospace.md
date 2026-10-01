@@ -2,21 +2,21 @@
 slug: metallic-glasses-aerospace
 hub: xenotech
 title: Amorphous Metal Alloys
-summary: Metallic glasses with amorphous structures offering extraordinary strength,
-  elasticity, and corrosion resistance for aerospace applications.
+summary: Metals with disordered atomic structures combining exceptional strength,
+  elasticity, and corrosion resistance
 permalink: https://www.envisioning.com/xenotech/metallic-glasses-aerospace
 collection: materials-structures
 trl: 5
 impact: 3
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761154601/xenotech/technologies/metallic-glasses-aerospace.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897097/xenotech/technologies/metallic-glasses-aerospace-openrouter-google-gemini-3.1-flash-image-preview-ish9sq.png
 ---
 
 # Amorphous Metal Alloys
 
 ## Summary
 
-Metallic glasses with amorphous structures offering extraordinary strength, elasticity, and corrosion resistance for aerospace applications.
+Metals with disordered atomic structures combining exceptional strength, elasticity, and corrosion resistance
 
 ## Description
 

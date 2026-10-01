@@ -2,23 +2,21 @@
 slug: vallee-control-system
 hub: xenotech
 title: Adaptive Consciousness Control System
-summary: Jacques Vallée's cybernetic hypothesis treating UAP phenomena as components
-  of a feedback technology that shapes human consciousness through iterative cultural
-  perturbation, myth manipulation, and belief system modulation rather than direct
-  communication.
+summary: Cybernetic feedback system hypothesis explaining UAP as consciousness-shaping
+  cultural interventions
 permalink: https://www.envisioning.com/xenotech/vallee-control-system
 collection: consciousness-interface
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761918628/xenotech/technologies/vallee-control-system-openai-gpt-5-5vctpe.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772894675/xenotech/technologies/vallee-control-system-openrouter-google-gemini-3.1-flash-image-preview-6f94da.png
 ---
 
 # Adaptive Consciousness Control System
 
 ## Summary
 
-Jacques Vallée's cybernetic hypothesis treating UAP phenomena as components of a feedback technology that shapes human consciousness through iterative cultural perturbation, myth manipulation, and belief system modulation rather than direct communication.
+Cybernetic feedback system hypothesis explaining UAP as consciousness-shaping cultural interventions
 
 ## Description
 

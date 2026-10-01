@@ -2,12 +2,13 @@
 slug: ai-interpretation-software-for-cellular-images
 hub: interface
 title: AI Interpretation Software for Cellular Images
-summary: Software for AI-powered analysis of cellular images.
+summary: Deep learning tools that analyze microscope images to detect cell structures,
+  abnormalities, and disease markers
 permalink: https://www.envisioning.com/interface/ai-interpretation-software-for-cellular-images
-collection: wearables-health-sensing
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737538/interface/technologies/ai-interpretation-software-for-cellular-images-google-gemini-3-pro-image-preview-2xwluz.jpg
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737538/inter
 
 ## Summary
 
-Software for AI-powered analysis of cellular images.
+Deep learning tools that analyze microscope images to detect cell structures, abnormalities, and disease markers
 
 ## Description
 

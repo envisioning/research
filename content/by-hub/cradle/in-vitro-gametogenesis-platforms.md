@@ -2,7 +2,7 @@
 slug: in-vitro-gametogenesis-platforms
 hub: cradle
 title: In Vitro Gametogenesis Platforms
-summary: Lab-derived human gametes for assisted conception.
+summary: Lab-grown eggs and sperm derived from stem cells for fertility treatment
 permalink: https://www.envisioning.com/cradle/in-vitro-gametogenesis-platforms
 collection: hardware
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126105/cradl
 
 ## Summary
 
-Lab-derived human gametes for assisted conception.
+Lab-grown eggs and sperm derived from stem cells for fertility treatment
 
 ## Description
 

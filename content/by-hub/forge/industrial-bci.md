@@ -2,7 +2,8 @@
 slug: industrial-bci
 hub: forge
 title: Industrial Brain-Computer Interfaces (BCI)
-summary: Direct neural control of machinery and robotic systems for hands-free operation.
+summary: Neural signals translated into machine commands for hands-free industrial
+  control
 permalink: https://www.envisioning.com/forge/industrial-bci
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765550213/forge
 
 ## Summary
 
-Direct neural control of machinery and robotic systems for hands-free operation.
+Neural signals translated into machine commands for hands-free industrial control
 
 ## Description
 

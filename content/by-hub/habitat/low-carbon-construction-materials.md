@@ -2,8 +2,8 @@
 slug: low-carbon-construction-materials
 hub: habitat
 title: Low-Carbon Construction Materials
-summary: Novel concretes, bio-based composites, and modular systems cutting embodied
-  carbon.
+summary: Cement alternatives, bio-composites, and systems reducing emissions from
+  building materials
 permalink: https://www.envisioning.com/habitat/low-carbon-construction-materials
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118464/habit
 
 ## Summary
 
-Novel concretes, bio-based composites, and modular systems cutting embodied carbon.
+Cement alternatives, bio-composites, and systems reducing emissions from building materials
 
 ## Description
 

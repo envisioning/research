@@ -2,19 +2,21 @@
 slug: 5d-optical-data-storage
 hub: horizons
 title: 5D Optical Data Storage
-summary: Extremely compact, long-lasting information storage in nanostructured glass.
+summary: Encodes data in glass using five dimensions for ultra-dense, millennia-stable
+  archival storage
 permalink: https://www.envisioning.com/horizons/5d-optical-data-storage
 collection: hardware
 trl: 4
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897663/horizons/technologies/954ba070-813f-4f86-8ef2-1fb7b9bd6efc-google-gemini-3.1-flash-image-preview-f90kz3.jpg
 ---
 
 # 5D Optical Data Storage
 
 ## Summary
 
-Extremely compact, long-lasting information storage in nanostructured glass.
+Encodes data in glass using five dimensions for ultra-dense, millennia-stable archival storage
 
 ## Description
 

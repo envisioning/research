@@ -2,9 +2,10 @@
 slug: organ-on-a-chip
 hub: horizons
 title: Organ on a Chip
-summary: Microfluidic devices replicating human organ functions for drug discovery.
+summary: Microfluidic devices that mimic human organ functions for drug testing and
+  disease modeling
 permalink: https://www.envisioning.com/horizons/organ-on-a-chip
-collection: life-health
+collection: hardware
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521028/horiz
 
 ## Summary
 
-Microfluidic devices replicating human organ functions for drug discovery.
+Microfluidic devices that mimic human organ functions for drug testing and disease modeling
 
 ## Description
 

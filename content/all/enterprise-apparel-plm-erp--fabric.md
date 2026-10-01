@@ -2,7 +2,8 @@
 slug: enterprise-apparel-plm-erp
 hub: fabric
 title: Enterprise Apparel PLM and ERP Suites
-summary: Backbone systems managing product data, costing, and global production.
+summary: Integrated platforms managing product lifecycles, costing, and supply chains
+  for apparel brands
 permalink: https://www.envisioning.com/fabric/enterprise-apparel-plm-erp
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059741/threa
 
 ## Summary
 
-Backbone systems managing product data, costing, and global production.
+Integrated platforms managing product lifecycles, costing, and supply chains for apparel brands
 
 ## Description
 

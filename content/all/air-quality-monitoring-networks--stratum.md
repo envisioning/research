@@ -2,8 +2,8 @@
 slug: air-quality-monitoring-networks
 hub: stratum
 title: Air Quality Monitoring Networks
-summary: Distributed sensor arrays tracking particulate matter and emissions around
-  industrial sites.
+summary: Distributed sensor arrays tracking airborne pollutants around extraction
+  and processing sites
 permalink: https://www.envisioning.com/stratum/air-quality-monitoring-networks
 collection: ethics-security
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435171/strat
 
 ## Summary
 
-Distributed sensor arrays tracking particulate matter and emissions around industrial sites.
+Distributed sensor arrays tracking airborne pollutants around extraction and processing sites
 
 ## Description
 

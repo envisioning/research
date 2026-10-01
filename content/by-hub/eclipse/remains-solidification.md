@@ -2,7 +2,8 @@
 slug: remains-solidification
 hub: eclipse
 title: Remains Solidification Press
-summary: Machinery that processes cremated remains into stone-like solids.
+summary: Compresses cremated ashes into durable stone-like memorial objects through
+  hydraulic pressure
 permalink: https://www.envisioning.com/eclipse/remains-solidification
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126436/eclip
 
 ## Summary
 
-Machinery that processes cremated remains into stone-like solids.
+Compresses cremated ashes into durable stone-like memorial objects through hydraulic pressure
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: mobile-body-scanning-saas
 hub: fabric
 title: Mobile Body-Scanning SaaS
-summary: Smartphone-based scanning for instant fit recommendations and virtual try-on.
+summary: Smartphone-based body measurement and 3D avatar creation for accurate sizing
+  and virtual try-on
 permalink: https://www.envisioning.com/fabric/mobile-body-scanning-saas
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062595/threa
 
 ## Summary
 
-Smartphone-based scanning for instant fit recommendations and virtual try-on.
+Smartphone-based body measurement and 3D avatar creation for accurate sizing and virtual try-on
 
 ## Description
 

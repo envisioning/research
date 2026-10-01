@@ -2,8 +2,8 @@
 slug: gov-low-code-process-automation
 hub: polis
 title: Gov Low-Code Process Automation
-summary: Low-code platforms tailored to digitizing and orchestrating public sector
-  workflows.
+summary: Visual workflow builders designed for public agencies to digitize services
+  without custom code
 permalink: https://www.envisioning.com/polis/gov-low-code-process-automation
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126919/polis
 
 ## Summary
 
-Low-code platforms tailored to digitizing and orchestrating public sector workflows.
+Visual workflow builders designed for public agencies to digitize services without custom code
 
 ## Description
 

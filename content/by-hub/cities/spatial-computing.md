@@ -2,13 +2,10 @@
 slug: spatial-computing
 hub: cities
 title: Spatial Computing
-summary: By combining elements of computer vision, sensor technologies, and spatial
-  mapping techniques,  digital representations of physical spaces can be created.
-  This solution improves the spatial understanding of machines and a user's mixed-reality
-  experience, enhancing real-time decision-making in areas such as traffic management,
-  resource distribution, and urban planning.
+summary: Blends digital content with physical spaces using sensors and computer vision
+  for interactive 3D environments
 permalink: https://www.envisioning.com/cities/spatial-computing
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: software
 trl: 8
 impact: 3
 investment: 2
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792711-spatial-computing.pn
 
 ## Summary
 
-By combining elements of computer vision, sensor technologies, and spatial mapping techniques,  digital representations of physical spaces can be created. This solution improves the spatial understanding of machines and a user's mixed-reality experience, enhancing real-time decision-making in areas such as traffic management, resource distribution, and urban planning.
+Blends digital content with physical spaces using sensors and computer vision for interactive 3D environments
 
 ## Description
 

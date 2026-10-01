@@ -2,7 +2,8 @@
 slug: biometric-identification-systems
 hub: aegis
 title: Biometric Identification Systems
-summary: Large-scale iris, facial, and gait recognition across theaters.
+summary: Identity verification through iris scans, facial geometry, fingerprints,
+  and gait analysis
 permalink: https://www.envisioning.com/aegis/biometric-identification-systems
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075662/aegis
 
 ## Summary
 
-Large-scale iris, facial, and gait recognition across theaters.
+Identity verification through iris scans, facial geometry, fingerprints, and gait analysis
 
 ## Description
 

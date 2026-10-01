@@ -2,8 +2,8 @@
 slug: self-service-discovery
 hub: datatrends
 title: Enterprise Self-Service Analytics
-summary: Stable key trend empowering business teams to answer their own questions
-  independently.
+summary: Empowering business users to explore data and generate insights without technical
+  expertise
 permalink: https://www.envisioning.com/datatrends/self-service-discovery
 collection: agile-infrastructure
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373228/datat
 
 ## Summary
 
-Stable key trend empowering business teams to answer their own questions independently.
+Empowering business users to explore data and generate insights without technical expertise
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: swarm-robotics-platforms
 hub: quadrant
 title: Swarm Robotics Platforms
-summary: Coordinated fleets of simple robots for complex tasks.
+summary: Coordinated fleets of simple autonomous robots that solve complex tasks through
+  collective behavior
 permalink: https://www.envisioning.com/quadrant/swarm-robotics-platforms
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124023/quadr
 
 ## Summary
 
-Coordinated fleets of simple robots for complex tasks.
+Coordinated fleets of simple autonomous robots that solve complex tasks through collective behavior
 
 ## Description
 

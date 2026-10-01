@@ -2,13 +2,13 @@
 slug: hybrid-photovoltaic-pmics
 hub: interface
 title: Hybrid Photovoltaic PMICs
-summary: Single-chip power management spanning microwatts (indoor) to watts (outdoor)
-  for continuous device charging.
+summary: Single-chip solar power management adapting from indoor microwatts to outdoor
+  watts for continuous charging
 permalink: https://www.envisioning.com/interface/hybrid-photovoltaic-pmics
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: null
 ---
 
@@ -16,7 +16,7 @@ image_url: null
 
 ## Summary
 
-Single-chip power management spanning microwatts (indoor) to watts (outdoor) for continuous device charging.
+Single-chip solar power management adapting from indoor microwatts to outdoor watts for continuous charging
 
 ## Description
 

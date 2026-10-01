@@ -2,7 +2,8 @@
 slug: affective-ai
 hub: eros
 title: Multimodal Affective Computing
-summary: AI systems that detect and respond to complex human emotional states.
+summary: AI that reads emotions through voice, facial cues, body language, and physiological
+  signals
 permalink: https://www.envisioning.com/eros/affective-ai
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124421/eros/
 
 ## Summary
 
-AI systems that detect and respond to complex human emotional states.
+AI that reads emotions through voice, facial cues, body language, and physiological signals
 
 ## Description
 

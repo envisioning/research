@@ -2,7 +2,8 @@
 slug: field-iot-sensor-networks
 hub: harvest
 title: Field IoT Sensor Networks
-summary: Distributed sensing of soil, microclimate, and equipment.
+summary: Wireless sensor networks that continuously monitor soil, weather, and equipment
+  across farms
 permalink: https://www.envisioning.com/harvest/field-iot-sensor-networks
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128355/harve
 
 ## Summary
 
-Distributed sensing of soil, microclimate, and equipment.
+Wireless sensor networks that continuously monitor soil, weather, and equipment across farms
 
 ## Description
 

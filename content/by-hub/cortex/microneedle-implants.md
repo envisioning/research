@@ -2,7 +2,8 @@
 slug: microneedle-implants
 hub: cortex
 title: Microneedle-Scale Implants
-summary: Self-dissolving implants for transient neural access.
+summary: Biodegradable neural devices that dissolve after recording or stimulating
+  brain activity
 permalink: https://www.envisioning.com/cortex/microneedle-implants
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010248/corte
 
 ## Summary
 
-Self-dissolving implants for transient neural access.
+Biodegradable neural devices that dissolve after recording or stimulating brain activity
 
 ## Description
 

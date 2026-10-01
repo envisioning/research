@@ -2,7 +2,8 @@
 slug: regulacao-energia-distribuida
 hub: moradia
 title: Regulação de Energia Distribuída
-summary: Desafios regulatórios para geração e compartilhamento de energia distribuída.
+summary: Marcos legais para geração, distribuição e comercialização de energia em
+  pequena escala
 permalink: https://www.envisioning.com/moradia/regulacao-energia-distribuida
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591632/habit
 
 ## Summary
 
-Desafios regulatórios para geração e compartilhamento de energia distribuída.
+Marcos legais para geração, distribuição e comercialização de energia em pequena escala
 
 ## Description
 

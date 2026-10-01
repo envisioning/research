@@ -2,7 +2,8 @@
 slug: photonic-accelerators
 hub: wintermute
 title: Photonic Accelerators
-summary: Femtosecond-scale matrix ops for low-latency reasoning.
+summary: Light-based processors performing neural network calculations at femtosecond
+  speeds
 permalink: https://www.envisioning.com/wintermute/photonic-accelerators
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980618/winte
 
 ## Summary
 
-Femtosecond-scale matrix ops for low-latency reasoning.
+Light-based processors performing neural network calculations at femtosecond speeds
 
 ## Description
 

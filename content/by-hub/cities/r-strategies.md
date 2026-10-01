@@ -2,15 +2,10 @@
 slug: r-strategies
 hub: cities
 title: R-Strategies
-summary: This approach, grounded in reducing, reusing, and recycling, transforms waste
-  into valuable resources, mitigates environmental impact, and promotes a circular
-  economy. By integrating these practices into urban planning, cities can reduce landfill
-  use, lower greenhouse gas emissions, and foster economic growth through job creation
-  and cost savings. R-strategies are pivotal for enhancing the sustainability and
-  resilience of urban areas, aligning with global efforts to create sustainable cities
-  and communities.
+summary: Waste reduction framework based on reduce, reuse, and recycle principles
+  for circular urban economies
 permalink: https://www.envisioning.com/cities/r-strategies
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: applications
 trl: 7
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792293-r-strategies.png
 
 ## Summary
 
-This approach, grounded in reducing, reusing, and recycling, transforms waste into valuable resources, mitigates environmental impact, and promotes a circular economy. By integrating these practices into urban planning, cities can reduce landfill use, lower greenhouse gas emissions, and foster economic growth through job creation and cost savings. R-strategies are pivotal for enhancing the sustainability and resilience of urban areas, aligning with global efforts to create sustainable cities and communities.
+Waste reduction framework based on reduce, reuse, and recycle principles for circular urban economies
 
 ## Description
 

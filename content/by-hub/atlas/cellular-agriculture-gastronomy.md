@@ -2,7 +2,8 @@
 slug: cellular-agriculture-gastronomy
 hub: atlas
 title: Cellular Agriculture Gastronomy
-summary: Lab-grown regional delicacies protecting endangered species and biodiversity.
+summary: Cultivating authentic regional dishes from cell samples to preserve culinary
+  heritage without harvesting animals
 permalink: https://www.envisioning.com/atlas/cellular-agriculture-gastronomy
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123890/atlas
 
 ## Summary
 
-Lab-grown regional delicacies protecting endangered species and biodiversity.
+Cultivating authentic regional dishes from cell samples to preserve culinary heritage without harvesting animals
 
 ## Description
 

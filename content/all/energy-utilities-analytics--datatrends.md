@@ -2,8 +2,8 @@
 slug: energy-utilities-analytics
 hub: datatrends
 title: Energy and Utilities Analytics
-summary: Optimizing energy generation, distribution, and consumption using analytics
-  for smart grids, demand forecasting, and sustainability.
+summary: Advanced data analysis for optimizing power generation, grid management,
+  and renewable energy integration
 permalink: https://www.envisioning.com/datatrends/energy-utilities-analytics
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730856/datat
 
 ## Summary
 
-Optimizing energy generation, distribution, and consumption using analytics for smart grids, demand forecasting, and sustainability.
+Advanced data analysis for optimizing power generation, grid management, and renewable energy integration
 
 ## Description
 

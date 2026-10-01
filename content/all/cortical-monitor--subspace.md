@@ -2,21 +2,20 @@
 slug: cortical-monitor
 hub: subspace
 title: Cortical Monitor
-summary: Device for continuous monitoring and support of brain activity in critical
-  patients.
+summary: Continuous high-resolution brain activity monitoring for critically ill patients
 permalink: https://www.envisioning.com/subspace/cortical-monitor
 collection: biotechnology
 trl: 6
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216348/subspaceindex/technologies/cortical-monitor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907722/subspace/technologies/cortical-monitor-openrouter-google-gemini-3.1-flash-image-preview-j0sfov.png
 ---
 
 # Cortical Monitor
 
 ## Summary
 
-Device for continuous monitoring and support of brain activity in critical patients.
+Continuous high-resolution brain activity monitoring for critically ill patients
 
 ## Description
 

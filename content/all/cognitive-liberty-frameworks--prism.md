@@ -2,7 +2,8 @@
 slug: cognitive-liberty-frameworks
 hub: prism
 title: Cognitive Liberty Frameworks
-summary: Legal and technical standards protecting mental privacy and neural data rights.
+summary: Legal and technical standards that protect mental privacy and neural data
+  from unauthorized access
 permalink: https://www.envisioning.com/prism/cognitive-liberty-frameworks
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062784/pulse
 
 ## Summary
 
-Legal and technical standards protecting mental privacy and neural data rights.
+Legal and technical standards that protect mental privacy and neural data from unauthorized access
 
 ## Description
 

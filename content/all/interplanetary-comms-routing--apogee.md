@@ -2,7 +2,8 @@
 slug: interplanetary-comms-routing
 hub: apogee
 title: Interplanetary Comms Routing
-summary: Delay-tolerant networking for deep-space communication.
+summary: Networking protocols that handle long delays and gaps in deep-space data
+  transmission
 permalink: https://www.envisioning.com/apogee/interplanetary-comms-routing
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180730/apoge
 
 ## Summary
 
-Delay-tolerant networking for deep-space communication.
+Networking protocols that handle long delays and gaps in deep-space data transmission
 
 ## Description
 

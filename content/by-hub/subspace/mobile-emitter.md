@@ -2,21 +2,21 @@
 slug: mobile-emitter
 hub: subspace
 title: Mobile Holographic Emitter
-summary: 29th century technology enabling holographic entities to exist and operate
-  outside designated holo-environments.
+summary: Portable device enabling holograms to exist independently outside fixed projection
+  environments
 permalink: https://www.envisioning.com/subspace/mobile-emitter
 collection: computing
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760213631/subspaceindex/technologies/mobile-emitter.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908435/subspace/technologies/mobile-emitter-openrouter-google-gemini-3.1-flash-image-preview-opjb2j.png
 ---
 
 # Mobile Holographic Emitter
 
 ## Summary
 
-29th century technology enabling holographic entities to exist and operate outside designated holo-environments.
+Portable device enabling holograms to exist independently outside fixed projection environments
 
 ## Description
 

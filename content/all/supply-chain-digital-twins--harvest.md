@@ -2,7 +2,8 @@
 slug: supply-chain-digital-twins
 hub: harvest
 title: Supply Chain Digital Twins
-summary: Virtual replicas for logistics simulation.
+summary: Virtual replicas of supply networks that simulate logistics scenarios in
+  real time
 permalink: https://www.envisioning.com/harvest/supply-chain-digital-twins
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128045/harve
 
 ## Summary
 
-Virtual replicas for logistics simulation.
+Virtual replicas of supply networks that simulate logistics scenarios in real time
 
 ## Description
 

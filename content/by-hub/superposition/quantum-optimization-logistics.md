@@ -2,7 +2,8 @@
 slug: quantum-optimization-logistics
 hub: superposition
 title: Quantum Optimization for Logistics
-summary: Solving complex routing and scheduling problems using quantum algorithms.
+summary: Quantum algorithms for faster routing and scheduling in supply chains and
+  delivery networks
 permalink: https://www.envisioning.com/superposition/quantum-optimization-logistics
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181216/super
 
 ## Summary
 
-Solving complex routing and scheduling problems using quantum algorithms.
+Quantum algorithms for faster routing and scheduling in supply chains and delivery networks
 
 ## Description
 

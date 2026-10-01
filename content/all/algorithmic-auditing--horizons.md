@@ -2,9 +2,9 @@
 slug: algorithmic-auditing
 hub: horizons
 title: Algorithmic Auditing
-summary: Evaluating AI systems for bias, fairness, and performance.
+summary: Systematic evaluation of AI systems for bias, fairness, compliance, and performance
 permalink: https://www.envisioning.com/horizons/algorithmic-auditing
-collection: intelligence-computation
+collection: ethics-security
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521608/horiz
 
 ## Summary
 
-Evaluating AI systems for bias, fairness, and performance.
+Systematic evaluation of AI systems for bias, fairness, compliance, and performance
 
 ## Description
 

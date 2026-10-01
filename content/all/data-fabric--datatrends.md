@@ -2,8 +2,8 @@
 slug: data-fabric
 hub: datatrends
 title: Data Fabric Architecture
-summary: Unified logical data layer enabling seamless access and integration across
-  distributed data environments.
+summary: Unified layer connecting fragmented data sources across hybrid cloud and
+  on-premises systems
 permalink: https://www.envisioning.com/datatrends/data-fabric
 collection: agile-infrastructure
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373555/datat
 
 ## Summary
 
-Unified logical data layer enabling seamless access and integration across distributed data environments.
+Unified layer connecting fragmented data sources across hybrid cloud and on-premises systems
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: biodegradable-memorial-pods
 hub: eclipse
 title: Biodegradable Memorial Pods
-summary: Burial capsules that integrate cremains or remains with tree-planting systems.
+summary: Burial capsules that transform human remains into nutrients for growing memorial
+  trees
 permalink: https://www.envisioning.com/eclipse/biodegradable-memorial-pods
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126470/eclip
 
 ## Summary
 
-Burial capsules that integrate cremains or remains with tree-planting systems.
+Burial capsules that transform human remains into nutrients for growing memorial trees
 
 ## Description
 

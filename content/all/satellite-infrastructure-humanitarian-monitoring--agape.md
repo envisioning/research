@@ -3,7 +3,6 @@ slug: satellite-infrastructure-humanitarian-monitoring
 hub: agape
 title: Satellite Infrastructure for Humanitarian Monitoring
 summary: Remote sensing and satellite imagery enabling crisis response, impact verification,
-  and monitoring of humanitarian interventions.
 permalink: https://www.envisioning.com/agape/satellite-infrastructure-humanitarian-monitoring
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368046/agape
 
 ## Summary
 
-Remote sensing and satellite imagery enabling crisis response, impact verification, and monitoring of humanitarian interventions.
+Remote sensing and satellite imagery enabling crisis response, impact verification,
 
 ## Description
 

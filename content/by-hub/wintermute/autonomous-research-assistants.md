@@ -2,8 +2,8 @@
 slug: autonomous-research-assistants
 hub: wintermute
 title: Autonomous Research Assistants
-summary: LLM-based agents conducting literature review, hypothesis drafting, and experiment
-  planning.
+summary: AI agents that search literature, draft hypotheses, and plan experiments
+  autonomously
 permalink: https://www.envisioning.com/wintermute/autonomous-research-assistants
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079854/winte
 
 ## Summary
 
-LLM-based agents conducting literature review, hypothesis drafting, and experiment planning.
+AI agents that search literature, draft hypotheses, and plan experiments autonomously
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: flow-state-optimization
 hub: soma
 title: Flow State Optimization
-summary: Systems that detect and sustain optimal performance and engagement.
+summary: Biometric systems that detect and sustain peak performance states through
+  real-time monitoring
 permalink: https://www.envisioning.com/soma/flow-state-optimization
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179124/soma/
 
 ## Summary
 
-Systems that detect and sustain optimal performance and engagement.
+Biometric systems that detect and sustain peak performance states through real-time monitoring
 
 ## Description
 

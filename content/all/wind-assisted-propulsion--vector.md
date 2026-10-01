@@ -2,7 +2,7 @@
 slug: wind-assisted-propulsion
 hub: vector
 title: Wind-Assisted Ship Propulsion (WASP)
-summary: Automated sails and rotors reducing fuel consumption for merchant shipping.
+summary: Automated sails and rotors that harness wind to cut fuel use in cargo shipping
 permalink: https://www.envisioning.com/vector/wind-assisted-propulsion
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441612/vecto
 
 ## Summary
 
-Automated sails and rotors reducing fuel consumption for merchant shipping.
+Automated sails and rotors that harness wind to cut fuel use in cargo shipping
 
 ## Description
 

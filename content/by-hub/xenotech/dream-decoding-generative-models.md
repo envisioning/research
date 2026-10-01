@@ -2,21 +2,21 @@
 slug: dream-decoding-generative-models
 hub: xenotech
 title: Dream Decoding
-summary: fMRI/EEG features aligned to diffusion/vision-language models to reconstruct
-  dream imagery and narratives from neural activity patterns.
+summary: Reconstructing dream imagery and narratives from brain activity using neuroimaging
+  and AI models
 permalink: https://www.envisioning.com/xenotech/dream-decoding-generative-models
 collection: consciousness-interface
 trl: 4
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760951254/xenotech/technologies/dream-decoding-generative-models.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898092/xenotech/technologies/dream-decoding-generative-models-openrouter-google-gemini-3.1-flash-image-preview-jnrwww.png
 ---
 
 # Dream Decoding
 
 ## Summary
 
-fMRI/EEG features aligned to diffusion/vision-language models to reconstruct dream imagery and narratives from neural activity patterns.
+Reconstructing dream imagery and narratives from brain activity using neuroimaging and AI models
 
 ## Description
 

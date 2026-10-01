@@ -2,7 +2,8 @@
 slug: advance-directive-nlp
 hub: eclipse
 title: Advance Directive NLP Parser
-summary: Natural language processing for complex end-of-life instructions.
+summary: Extracts actionable medical instructions from advance directives and living
+  wills
 permalink: https://www.envisioning.com/eclipse/advance-directive-nlp
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126937/eclip
 
 ## Summary
 
-Natural language processing for complex end-of-life instructions.
+Extracts actionable medical instructions from advance directives and living wills
 
 ## Description
 

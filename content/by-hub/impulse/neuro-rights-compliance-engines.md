@@ -2,7 +2,8 @@
 slug: neuro-rights-compliance-engines
 hub: impulse
 title: Neuro-Rights Compliance Engines
-summary: Automated checks for cognitive liberty violations.
+summary: Automated systems that verify neurotechnology products comply with cognitive
+  liberty and mental privacy laws
 permalink: https://www.envisioning.com/impulse/neuro-rights-compliance-engines
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435112/impul
 
 ## Summary
 
-Automated checks for cognitive liberty violations.
+Automated systems that verify neurotechnology products comply with cognitive liberty and mental privacy laws
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: generative-biology-models
 hub: epoch
 title: Generative Biology Models
-summary: AI systems that design novel proteins and enzymes for metabolic enhancement
-  not found in nature.
+summary: AI systems that design novel proteins and enzymes beyond natural evolution
+  for metabolic optimization
 permalink: https://www.envisioning.com/epoch/generative-biology-models
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477315/epoch
 
 ## Summary
 
-AI systems that design novel proteins and enzymes for metabolic enhancement not found in nature.
+AI systems that design novel proteins and enzymes beyond natural evolution for metabolic optimization
 
 ## Description
 

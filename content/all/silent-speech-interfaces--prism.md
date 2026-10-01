@@ -2,7 +2,8 @@
 slug: silent-speech-interfaces
 hub: prism
 title: Silent Speech Interfaces
-summary: Devices detecting subvocalization for voiceless communication and control.
+summary: Sensors that detect jaw and throat movements to enable voiceless speech recognition
+  and control
 permalink: https://www.envisioning.com/prism/silent-speech-interfaces
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062691/pulse
 
 ## Summary
 
-Devices detecting subvocalization for voiceless communication and control.
+Sensors that detect jaw and throat movements to enable voiceless speech recognition and control
 
 ## Description
 

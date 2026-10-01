@@ -2,9 +2,10 @@
 slug: general-purpose-robot
 hub: horizons
 title: General Purpose Robot
-summary: Versatile robots adaptable to diverse manufacturing and service tasks.
+summary: Adaptable robots that handle multiple tasks across industries without specialized
+  programming
 permalink: https://www.envisioning.com/horizons/general-purpose-robot
-collection: materials-making
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526646/horiz
 
 ## Summary
 
-Versatile robots adaptable to diverse manufacturing and service tasks.
+Adaptable robots that handle multiple tasks across industries without specialized programming
 
 ## Description
 

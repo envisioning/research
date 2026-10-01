@@ -2,8 +2,7 @@
 slug: causal-inference-ml
 hub: datatrends
 title: Causal Inference and Causal Machine Learning
-summary: Moving beyond correlation to understand cause-and-effect relationships, enabling
-  more reliable predictions and decision-making.
+summary: Methods to identify cause-and-effect relationships in data, not just correlations
 permalink: https://www.envisioning.com/datatrends/causal-inference-ml
 collection: decision-intelligence-ai
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593387/datat
 
 ## Summary
 
-Moving beyond correlation to understand cause-and-effect relationships, enabling more reliable predictions and decision-making.
+Methods to identify cause-and-effect relationships in data, not just correlations
 
 ## Description
 

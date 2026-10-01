@@ -2,7 +2,8 @@
 slug: grid-load-balancing-ai
 hub: atmos
 title: Grid Load Balancing AI
-summary: Predictive dispatch optimizers for renewable-heavy systems.
+summary: Machine learning systems that forecast and optimize power dispatch across
+  renewable-heavy grids
 permalink: https://www.envisioning.com/atmos/grid-load-balancing-ai
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764176733/atmos
 
 ## Summary
 
-Predictive dispatch optimizers for renewable-heavy systems.
+Machine learning systems that forecast and optimize power dispatch across renewable-heavy grids
 
 ## Description
 

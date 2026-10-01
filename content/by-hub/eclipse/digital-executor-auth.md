@@ -2,7 +2,8 @@
 slug: digital-executor-auth
 hub: eclipse
 title: Digital Executor Authentication
-summary: Secure protocols for verified access to deceased accounts.
+summary: Cryptographic systems enabling verified executors to access deceased users'
+  digital accounts
 permalink: https://www.envisioning.com/eclipse/digital-executor-auth
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435201/eclip
 
 ## Summary
 
-Secure protocols for verified access to deceased accounts.
+Cryptographic systems enabling verified executors to access deceased users' digital accounts
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: neutral-atom-processors
 hub: superposition
 title: Neutral Atom Quantum Processors
-summary: Scalable arrays of neutral atoms trapped in optical tweezers, capable of
-  massive qubit counts.
+summary: Laser-trapped atoms arranged into reconfigurable qubit arrays for quantum
+  computing
 permalink: https://www.envisioning.com/superposition/neutral-atom-processors
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069267/super
 
 ## Summary
 
-Scalable arrays of neutral atoms trapped in optical tweezers, capable of massive qubit counts.
+Laser-trapped atoms arranged into reconfigurable qubit arrays for quantum computing
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: adaptive-soundscaping-systems
 hub: solace
 title: Adaptive Soundscaping Systems
-summary: Acoustic systems that generate restorative sound environments tuned to human
-  stress and attention levels.
+summary: Dynamic acoustic environments that adjust sound in real-time to reduce stress
+  and improve focus
 permalink: https://www.envisioning.com/solace/adaptive-soundscaping-systems
 collection: hardware
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133865/solac
 
 ## Summary
 
-Acoustic systems that generate restorative sound environments tuned to human stress and attention levels.
+Dynamic acoustic environments that adjust sound in real-time to reduce stress and improve focus
 
 ## Description
 

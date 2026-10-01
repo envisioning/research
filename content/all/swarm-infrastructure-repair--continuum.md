@@ -2,7 +2,8 @@
 slug: swarm-infrastructure-repair
 hub: continuum
 title: Swarm Infrastructure Repair
-summary: Autonomous drone fleets for post-disaster reconstruction.
+summary: Autonomous drone swarms that assess and repair critical infrastructure after
+  disasters
 permalink: https://www.envisioning.com/continuum/swarm-infrastructure-repair
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124027/conti
 
 ## Summary
 
-Autonomous drone fleets for post-disaster reconstruction.
+Autonomous drone swarms that assess and repair critical infrastructure after disasters
 
 ## Description
 

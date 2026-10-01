@@ -2,7 +2,7 @@
 slug: osmotic-power
 hub: substrate
 title: Osmotic Power Generation
-summary: Harvesting energy from the salinity difference between fresh and salt water.
+summary: Harvesting energy from salinity gradients where fresh and salt water meet
 permalink: https://www.envisioning.com/substrate/osmotic-power
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117925/subst
 
 ## Summary
 
-Harvesting energy from the salinity difference between fresh and salt water.
+Harvesting energy from salinity gradients where fresh and salt water meet
 
 ## Description
 

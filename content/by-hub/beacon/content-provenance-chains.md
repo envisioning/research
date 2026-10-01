@@ -2,7 +2,8 @@
 slug: content-provenance-chains
 hub: beacon
 title: Content Provenance Chains (C2PA)
-summary: Cryptographic binding of authorship to media.
+summary: Cryptographic metadata standard that tracks the origin and editing history
+  of digital media files
 permalink: https://www.envisioning.com/beacon/content-provenance-chains
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124845/beaco
 
 ## Summary
 
-Cryptographic binding of authorship to media.
+Cryptographic metadata standard that tracks the origin and editing history of digital media files
 
 ## Description
 

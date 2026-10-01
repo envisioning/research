@@ -2,7 +2,8 @@
 slug: megawatt-charging-systems
 hub: vector
 title: Megawatt Charging Systems (MCS)
-summary: High-power charging standard for heavy-duty electric trucks and vessels.
+summary: Ultra-fast charging infrastructure delivering up to 3.75 MW for electric
+  trucks and commercial fleets
 permalink: https://www.envisioning.com/vector/megawatt-charging-systems
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182268/vecto
 
 ## Summary
 
-High-power charging standard for heavy-duty electric trucks and vessels.
+Ultra-fast charging infrastructure delivering up to 3.75 MW for electric trucks and commercial fleets
 
 ## Description
 

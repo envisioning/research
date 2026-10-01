@@ -2,19 +2,21 @@
 slug: cryonics
 hub: epoch
 title: Cryonics
-summary: Cryopreservation of humans at death for potential future revival.
+summary: Preserving deceased individuals at ultra-low temperatures for possible future
+  revival
 permalink: https://www.envisioning.com/epoch/cryonics
 collection: applications
 trl: 2
 impact: 5
 investment: 3
+image_url: null
 ---
 
 # Cryonics
 
 ## Summary
 
-Cryopreservation of humans at death for potential future revival.
+Preserving deceased individuals at ultra-low temperatures for possible future revival
 
 ## Description
 

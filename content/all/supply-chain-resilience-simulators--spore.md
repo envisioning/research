@@ -2,7 +2,8 @@
 slug: supply-chain-resilience-simulators
 hub: spore
 title: Supply Chain Resilience Simulators
-summary: Digital twins of regional food systems mapping climate risks and logistics.
+summary: Agent-based models that test food system responses to climate shocks and
+  disruptions
 permalink: https://www.envisioning.com/spore/supply-chain-resilience-simulators
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179600/spore
 
 ## Summary
 
-Digital twins of regional food systems mapping climate risks and logistics.
+Agent-based models that test food system responses to climate shocks and disruptions
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: astrometrics
 hub: subspace
 title: Astrometrics Lab
-summary: Specialized facility for stellar cartography and spatial phenomenon analysis.
+summary: Integrated sensor and visualization systems for mapping stellar regions in
+  three dimensions
 permalink: https://www.envisioning.com/subspace/astrometrics
 collection: sensors
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760258928/subspaceindex/technologies/astrometrics.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907439/subspace/technologies/astrometrics-openrouter-google-gemini-3.1-flash-image-preview-tkuzw7.png
 ---
 
 # Astrometrics Lab
 
 ## Summary
 
-Specialized facility for stellar cartography and spatial phenomenon analysis.
+Integrated sensor and visualization systems for mapping stellar regions in three dimensions
 
 ## Description
 

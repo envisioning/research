@@ -2,19 +2,21 @@
 slug: emerging-magnetic-data-storage
 hub: horizons
 title: Emerging Magnetic Data Storage
-summary: SMR, HAMR, BPM, MAMR, TDMR for improved hard disk density.
+summary: Advanced techniques to pack more data onto hard disk drives using heat, microwaves,
+  or patterned media
 permalink: https://www.envisioning.com/horizons/emerging-magnetic-data-storage
 collection: hardware
 trl: 6
 impact: 4
 investment: 4
+image_url: null
 ---
 
 # Emerging Magnetic Data Storage
 
 ## Summary
 
-SMR, HAMR, BPM, MAMR, TDMR for improved hard disk density.
+Advanced techniques to pack more data onto hard disk drives using heat, microwaves, or patterned media
 
 ## Description
 

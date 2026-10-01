@@ -2,21 +2,20 @@
 slug: telepathic-communication-systems
 hub: xenotech
 title: Telepathic Communication
-summary: Telepathic interfaces, holographic displays, and sourceless illumination
-  technologies.
+summary: Direct mind-to-mind information transfer reported in abduction accounts
 permalink: https://www.envisioning.com/xenotech/telepathic-communication-systems
 collection: perception-cognition
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761683235/xenotech/technologies/telepathic-communication-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903253/xenotech/technologies/telepathic-communication-systems-openrouter-google-gemini-3.1-flash-image-preview-uirm8v.png
 ---
 
 # Telepathic Communication
 
 ## Summary
 
-Telepathic interfaces, holographic displays, and sourceless illumination technologies.
+Direct mind-to-mind information transfer reported in abduction accounts
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: maas-platforms
 hub: vector
 title: MaaS Aggregation Platforms
-summary: Unified digital platforms integrating all city transport modes.
+summary: Digital platforms that combine public transit, ride-hailing, bikes, and scooters
+  into one app
 permalink: https://www.envisioning.com/vector/maas-platforms
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179067/vecto
 
 ## Summary
 
-Unified digital platforms integrating all city transport modes.
+Digital platforms that combine public transit, ride-hailing, bikes, and scooters into one app
 
 ## Description
 

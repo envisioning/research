@@ -2,7 +2,7 @@
 slug: small-modular-reactors
 hub: meridian
 title: Small Modular Reactors (SMRs)
-summary: Distributed nuclear for energy sovereignty.
+summary: Factory-built nuclear reactors designed for flexible, distributed power generation
 permalink: https://www.envisioning.com/meridian/small-modular-reactors
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129210/merid
 
 ## Summary
 
-Distributed nuclear for energy sovereignty.
+Factory-built nuclear reactors designed for flexible, distributed power generation
 
 ## Description
 

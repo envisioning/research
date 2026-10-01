@@ -2,7 +2,8 @@
 slug: synthetic-consciousness-runtimes
 hub: wintermute
 title: Synthetic Consciousness Runtimes
-summary: Architectures integrating attention, self-monitoring, and motivational drives.
+summary: AI architectures combining attention, self-monitoring, and motivation to
+  simulate conscious-like behavior
 permalink: https://www.envisioning.com/wintermute/synthetic-consciousness-runtimes
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763981126/winte
 
 ## Summary
 
-Architectures integrating attention, self-monitoring, and motivational drives.
+AI architectures combining attention, self-monitoring, and motivation to simulate conscious-like behavior
 
 ## Description
 

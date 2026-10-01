@@ -2,7 +2,8 @@
 slug: resilient-microgrids
 hub: grid
 title: Resilient Microgrids
-summary: Islandable local grids serving critical facilities and communities.
+summary: Self-contained power systems that disconnect from the main grid during outages
+  to serve critical loads
 permalink: https://www.envisioning.com/grid/resilient-microgrids
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435853/grid/
 
 ## Summary
 
-Islandable local grids serving critical facilities and communities.
+Self-contained power systems that disconnect from the main grid during outages to serve critical loads
 
 ## Description
 

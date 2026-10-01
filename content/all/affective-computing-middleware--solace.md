@@ -2,7 +2,8 @@
 slug: affective-computing-middleware
 hub: solace
 title: Affective Computing Middleware
-summary: System-level software detecting emotional states to adapt digital experiences.
+summary: Software layer that detects emotional states to adapt how apps respond to
+  users
 permalink: https://www.envisioning.com/solace/affective-computing-middleware
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132972/solac
 
 ## Summary
 
-System-level software detecting emotional states to adapt digital experiences.
+Software layer that detects emotional states to adapt how apps respond to users
 
 ## Description
 

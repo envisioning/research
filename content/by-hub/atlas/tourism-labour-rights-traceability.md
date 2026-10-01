@@ -2,7 +2,8 @@
 slug: tourism-labour-rights-traceability
 hub: atlas
 title: Tourism Labour Rights Traceability
-summary: Digital tracing of labour conditions across tourism supply chains.
+summary: Digital systems tracking worker conditions and wages across tourism supply
+  chains
 permalink: https://www.envisioning.com/atlas/tourism-labour-rights-traceability
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123990/atlas
 
 ## Summary
 
-Digital tracing of labour conditions across tourism supply chains.
+Digital systems tracking worker conditions and wages across tourism supply chains
 
 ## Description
 

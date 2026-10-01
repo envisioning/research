@@ -2,7 +2,7 @@
 slug: federated-learning
 hub: sentinel
 title: Federated Learning
-summary: Collaborative machine learning training without centralizing sensitive data.
+summary: Trains AI models across multiple organizations without sharing raw data
 permalink: https://www.envisioning.com/sentinel/federated-learning
 collection: ethics-security
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463188/senti
 
 ## Summary
 
-Collaborative machine learning training without centralizing sensitive data.
+Trains AI models across multiple organizations without sharing raw data
 
 ## Description
 

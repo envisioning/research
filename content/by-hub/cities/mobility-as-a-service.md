@@ -2,15 +2,10 @@
 slug: mobility-as-a-service
 hub: cities
 title: Mobility as a Service
-summary: 'MaaS integrates multiple transport modes—public transit, ride-sharing, bike-sharing,
-  and car rentals—into a single, user-friendly digital platform. It allows users to
-  plan, book, and pay for various transport services through one application, enhancing
-  convenience and efficiency. MaaS promotes sustainable urban mobility by reducing
-  reliance on personal vehicles, thereby lowering emissions and traffic congestion.
-  It also improves social inclusivity by providing equitable access to transportation,
-  especially for underserved communities. '
+summary: Unified platform integrating transit, ride-sharing, and bike rentals into
+  one app for seamless urban travel
 permalink: https://www.envisioning.com/cities/mobility-as-a-service
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: applications
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792430-mobility-as-a-servic
 
 ## Summary
 
-MaaS integrates multiple transport modes—public transit, ride-sharing, bike-sharing, and car rentals—into a single, user-friendly digital platform. It allows users to plan, book, and pay for various transport services through one application, enhancing convenience and efficiency. MaaS promotes sustainable urban mobility by reducing reliance on personal vehicles, thereby lowering emissions and traffic congestion. It also improves social inclusivity by providing equitable access to transportation, especially for underserved communities.
+Unified platform integrating transit, ride-sharing, and bike rentals into one app for seamless urban travel
 
 ## Description
 

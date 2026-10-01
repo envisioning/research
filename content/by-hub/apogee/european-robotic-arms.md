@@ -2,7 +2,8 @@
 slug: european-robotic-arms
 hub: apogee
 title: European Robotic Arms
-summary: ISS heritage robotic arms adapted for cis-lunar servicing missions.
+summary: Modular robotic manipulators for Gateway assembly, lunar operations, and
+  satellite servicing
 permalink: https://www.envisioning.com/apogee/european-robotic-arms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145096/apoge
 
 ## Summary
 
-ISS heritage robotic arms adapted for cis-lunar servicing missions.
+Modular robotic manipulators for Gateway assembly, lunar operations, and satellite servicing
 
 ## Description
 

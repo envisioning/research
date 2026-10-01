@@ -2,7 +2,7 @@
 slug: post-quantum-cryptography
 hub: continuum
 title: Post-Quantum Cryptography
-summary: Encryption algorithms secure against quantum computing attacks.
+summary: Encryption methods designed to resist attacks from quantum computers
 permalink: https://www.envisioning.com/continuum/post-quantum-cryptography
 collection: software
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124833/conti
 
 ## Summary
 
-Encryption algorithms secure against quantum computing attacks.
+Encryption methods designed to resist attacks from quantum computers
 
 ## Description
 

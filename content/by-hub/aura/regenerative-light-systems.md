@@ -2,7 +2,8 @@
 slug: regenerative-light-systems
 hub: aura
 title: Regenerative Light Systems
-summary: Precision LEDs targeting mitochondrial pathways.
+summary: Multispectral LED systems delivering controlled light doses to stimulate
+  cellular repair
 permalink: https://www.envisioning.com/aura/regenerative-light-systems
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990478/aura/
 
 ## Summary
 
-Precision LEDs targeting mitochondrial pathways.
+Multispectral LED systems delivering controlled light doses to stimulate cellular repair
 
 ## Description
 

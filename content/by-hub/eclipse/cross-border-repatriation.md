@@ -2,7 +2,8 @@
 slug: cross-border-repatriation
 hub: eclipse
 title: Cross-Border Repatriation Systems
-summary: Coordination platforms for international death logistics.
+summary: Digital platforms coordinating the return of human remains across international
+  borders
 permalink: https://www.envisioning.com/eclipse/cross-border-repatriation
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127305/eclip
 
 ## Summary
 
-Coordination platforms for international death logistics.
+Digital platforms coordinating the return of human remains across international borders
 
 ## Description
 

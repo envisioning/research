@@ -2,7 +2,7 @@
 slug: scent-link-devices
 hub: eros
 title: Scent-Link Interfaces
-summary: Networked diffusers that synchronize personalized scents between locations.
+summary: Networked diffusers that synchronize scent experiences between distant locations
 permalink: https://www.envisioning.com/eros/scent-link-devices
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124901/eros/
 
 ## Summary
 
-Networked diffusers that synchronize personalized scents between locations.
+Networked diffusers that synchronize scent experiences between distant locations
 
 ## Description
 

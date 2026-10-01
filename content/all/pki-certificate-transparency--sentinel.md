@@ -2,7 +2,8 @@
 slug: pki-certificate-transparency
 hub: sentinel
 title: Public Key Infrastructure & Certificate Transparency
-summary: Cryptographic trust chains and public audit logs for certificate issuance.
+summary: Cryptographic trust chains and public audit logs that verify digital certificates
+  and prevent fraud
 permalink: https://www.envisioning.com/sentinel/pki-certificate-transparency
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461948/senti
 
 ## Summary
 
-Cryptographic trust chains and public audit logs for certificate issuance.
+Cryptographic trust chains and public audit logs that verify digital certificates and prevent fraud
 
 ## Description
 

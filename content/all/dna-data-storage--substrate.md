@@ -2,7 +2,8 @@
 slug: dna-data-storage
 hub: substrate
 title: DNA Data Storage Archives
-summary: Encoding exabytes of digital data into synthetic biological molecules.
+summary: Encoding digital information into synthetic DNA molecules for ultra-dense,
+  long-term archival
 permalink: https://www.envisioning.com/substrate/dna-data-storage
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118428/subst
 
 ## Summary
 
-Encoding exabytes of digital data into synthetic biological molecules.
+Encoding digital information into synthetic DNA molecules for ultra-dense, long-term archival
 
 ## Description
 

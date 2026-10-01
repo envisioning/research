@@ -2,7 +2,8 @@
 slug: autonomous-defense-platforms
 hub: aegis
 title: Autonomous Defense Platforms
-summary: Uncrewed aerial, surface, and subsurface vehicles with onboard sensor fusion.
+summary: Uncrewed vehicles with sensor fusion and mission autonomy for independent
+  defense operations
 permalink: https://www.envisioning.com/aegis/autonomous-defense-platforms
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990644/aegis
 
 ## Summary
 
-Uncrewed aerial, surface, and subsurface vehicles with onboard sensor fusion.
+Uncrewed vehicles with sensor fusion and mission autonomy for independent defense operations
 
 ## Description
 

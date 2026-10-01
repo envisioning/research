@@ -2,7 +2,8 @@
 slug: analog-ai-accelerators
 hub: wintermute
 title: Analog AI Accelerators
-summary: Continuous-value compute blocks delivering high TOPS per watt.
+summary: Hardware that uses continuous physical signals to run neural networks with
+  far less power than digital chips
 permalink: https://www.envisioning.com/wintermute/analog-ai-accelerators
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080318/winte
 
 ## Summary
 
-Continuous-value compute blocks delivering high TOPS per watt.
+Hardware that uses continuous physical signals to run neural networks with far less power than digital chips
 
 ## Description
 

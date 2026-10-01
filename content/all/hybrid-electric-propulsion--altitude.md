@@ -2,7 +2,8 @@
 slug: hybrid-electric-propulsion
 hub: altitude
 title: Hybrid-Electric Propulsion
-summary: Turbo-electric and serial/parallel hybrids reducing fuel burn and emissions.
+summary: Aircraft engines combining gas turbines with electric motors to cut fuel
+  use and emissions
 permalink: https://www.envisioning.com/altitude/hybrid-electric-propulsion
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641646/altit
 
 ## Summary
 
-Turbo-electric and serial/parallel hybrids reducing fuel burn and emissions.
+Aircraft engines combining gas turbines with electric motors to cut fuel use and emissions
 
 ## Description
 

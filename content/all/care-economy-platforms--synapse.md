@@ -2,7 +2,8 @@
 slug: care-economy-platforms
 hub: synapse
 title: Care Economy Platforms
-summary: Digital infrastructure valuing and coordinating reproductive and care work.
+summary: Digital systems that recognize, coordinate, and compensate caregiving and
+  domestic labor
 permalink: https://www.envisioning.com/synapse/care-economy-platforms
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127291/synap
 
 ## Summary
 
-Digital infrastructure valuing and coordinating reproductive and care work.
+Digital systems that recognize, coordinate, and compensate caregiving and domestic labor
 
 ## Description
 

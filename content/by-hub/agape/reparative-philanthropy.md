@@ -3,7 +3,6 @@ slug: reparative-philanthropy
 hub: agape
 title: Philanthropy as Repair, Restitution & Reconciliation
 summary: Redefinition of philanthropy as repair, restitution, or reconciliation, challenging
-  hero-donor narratives in favor of collective action.
 permalink: https://www.envisioning.com/agape/reparative-philanthropy
 collection: culture-values-narratives
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419266/phila
 
 ## Summary
 
-Redefinition of philanthropy as repair, restitution, or reconciliation, challenging hero-donor narratives in favor of collective action.
+Redefinition of philanthropy as repair, restitution, or reconciliation, challenging
 
 ## Description
 

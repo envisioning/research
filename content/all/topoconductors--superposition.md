@@ -2,8 +2,8 @@
 slug: topoconductors
 hub: superposition
 title: Topoconductors
-summary: Engineered material classes designed specifically to host Majorana zero modes
-  for topological computing.
+summary: Engineered materials that host Majorana particles for topological quantum
+  computing
 permalink: https://www.envisioning.com/superposition/topoconductors
 collection: hardware
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069388/super
 
 ## Summary
 
-Engineered material classes designed specifically to host Majorana zero modes for topological computing.
+Engineered materials that host Majorana particles for topological quantum computing
 
 ## Description
 

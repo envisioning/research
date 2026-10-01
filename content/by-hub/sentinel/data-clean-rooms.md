@@ -2,7 +2,8 @@
 slug: data-clean-rooms
 hub: sentinel
 title: Data Clean Rooms
-summary: Controlled environments for privacy-preserving data collaboration and matching.
+summary: Secure environments where organizations analyze shared data without exposing
+  raw information to partners
 permalink: https://www.envisioning.com/sentinel/data-clean-rooms
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463925/senti
 
 ## Summary
 
-Controlled environments for privacy-preserving data collaboration and matching.
+Secure environments where organizations analyze shared data without exposing raw information to partners
 
 ## Description
 

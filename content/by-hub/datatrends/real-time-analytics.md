@@ -2,7 +2,8 @@
 slug: real-time-analytics
 hub: datatrends
 title: Niche Real-Time Streaming
-summary: Processing data the moment it is created for operational alerts.
+summary: Analyzing data streams instantly as they flow, enabling immediate insights
+  and operational responses
 permalink: https://www.envisioning.com/datatrends/real-time-analytics
 collection: agile-infrastructure
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372812/datat
 
 ## Summary
 
-Processing data the moment it is created for operational alerts.
+Analyzing data streams instantly as they flow, enabling immediate insights and operational responses
 
 ## Description
 

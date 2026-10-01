@@ -2,7 +2,8 @@
 slug: memory-augmentation-systems
 hub: eros
 title: Relational Memory Augmentation
-summary: AI systems that help recall and contextualize relationship history.
+summary: AI-powered systems that capture, organize, and retrieve personal relationship
+  histories and contexts
 permalink: https://www.envisioning.com/eros/memory-augmentation-systems
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124995/eros/
 
 ## Summary
 
-AI systems that help recall and contextualize relationship history.
+AI-powered systems that capture, organize, and retrieve personal relationship histories and contexts
 
 ## Description
 

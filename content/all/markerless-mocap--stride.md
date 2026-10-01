@@ -2,7 +2,7 @@
 slug: markerless-mocap
 hub: stride
 title: Automated Biomechanics Analysis
-summary: AI-driven motion capture requiring no physical markers or suits.
+summary: AI-powered motion tracking from standard video without markers or sensors
 permalink: https://www.envisioning.com/stride/markerless-mocap
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128161/strid
 
 ## Summary
 
-AI-driven motion capture requiring no physical markers or suits.
+AI-powered motion tracking from standard video without markers or sensors
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: quantum-dot-qubits
 hub: superposition
 title: Quantum Dot Qubits
-summary: Semiconductor nanostructures confining single electrons for scalable qubit
-  arrays.
+summary: Semiconductor nanostructures that trap single electron spins for chip-compatible
+  quantum computing
 permalink: https://www.envisioning.com/superposition/quantum-dot-qubits
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073947/super
 
 ## Summary
 
-Semiconductor nanostructures confining single electrons for scalable qubit arrays.
+Semiconductor nanostructures that trap single electron spins for chip-compatible quantum computing
 
 ## Description
 

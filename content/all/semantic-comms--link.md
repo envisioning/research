@@ -2,7 +2,8 @@
 slug: semantic-comms
 hub: link
 title: Semantic Communications
-summary: Transmitting meaning and intent rather than just raw bits.
+summary: Transmitting meaning and context instead of raw data to reduce bandwidth
+  and improve efficiency
 permalink: https://www.envisioning.com/link/semantic-comms
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177645/link/
 
 ## Summary
 
-Transmitting meaning and intent rather than just raw bits.
+Transmitting meaning and context instead of raw data to reduce bandwidth and improve efficiency
 
 ## Description
 

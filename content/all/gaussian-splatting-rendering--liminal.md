@@ -2,7 +2,8 @@
 slug: gaussian-splatting-rendering
 hub: liminal
 title: Gaussian Splatting Rendering
-summary: Real-time photorealistic 3D rendering from sparse point clouds.
+summary: Fast photorealistic 3D rendering using millions of soft point primitives
+  instead of polygons
 permalink: https://www.envisioning.com/liminal/gaussian-splatting-rendering
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124398/limin
 
 ## Summary
 
-Real-time photorealistic 3D rendering from sparse point clouds.
+Fast photorealistic 3D rendering using millions of soft point primitives instead of polygons
 
 ## Description
 

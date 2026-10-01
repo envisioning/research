@@ -2,8 +2,8 @@
 slug: responsabilidade-legal-falhas-tecnicas
 hub: moradia
 title: Responsabilidade Legal por Falhas Técnicas
-summary: Questões legais sobre responsabilidade por falhas em sistemas tecnológicos
-  de segurança.
+summary: Questões jurídicas sobre responsabilidade quando sistemas de segurança residencial
+  falham
 permalink: https://www.envisioning.com/moradia/responsabilidade-legal-falhas-tecnicas
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766536936/habit
 
 ## Summary
 
-Questões legais sobre responsabilidade por falhas em sistemas tecnológicos de segurança.
+Questões jurídicas sobre responsabilidade quando sistemas de segurança residencial falham
 
 ## Description
 

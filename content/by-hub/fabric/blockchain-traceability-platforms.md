@@ -2,7 +2,8 @@
 slug: blockchain-traceability-platforms
 hub: fabric
 title: Blockchain Traceability Platforms
-summary: Distributed ledgers tracking raw materials and labor standards.
+summary: Distributed ledgers creating tamper-proof records of garment supply chains
+  from raw materials to retail
 permalink: https://www.envisioning.com/fabric/blockchain-traceability-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062599/threa
 
 ## Summary
 
-Distributed ledgers tracking raw materials and labor standards.
+Distributed ledgers creating tamper-proof records of garment supply chains from raw materials to retail
 
 ## Description
 

@@ -2,16 +2,10 @@
 slug: wi-fi-sensing
 hub: cities
 title: Wi-fi Sensing
-summary: 'This technology leverages advancements in Wi-Fi networks to monitor various
-  environmental factors—such as air quality, structural integrity, and crowd density—enabling
-  cities to enhance public safety, optimise resource use, and support sustainable
-  urban planning. Traditional environmental monitoring methods often require extensive
-  infrastructure and maintenance, making them both costly and energy-intensive. Wi-Fi
-  sensing, however, offers a more sophisticated solution by using existing wireless
-  communication networks to simultaneously collect and transmit data, thus reducing
-  the need for separate sensor networks. '
+summary: Uses existing Wi-Fi signals to monitor air quality, structural health, and
+  crowd movement in real time
 permalink: https://www.envisioning.com/cities/wi-fi-sensing
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: hardware
 trl: 5
 impact: 2
 investment: 1
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869614-wi-fi-sensing.png
 
 ## Summary
 
-This technology leverages advancements in Wi-Fi networks to monitor various environmental factors—such as air quality, structural integrity, and crowd density—enabling cities to enhance public safety, optimise resource use, and support sustainable urban planning. Traditional environmental monitoring methods often require extensive infrastructure and maintenance, making them both costly and energy-intensive. Wi-Fi sensing, however, offers a more sophisticated solution by using existing wireless communication networks to simultaneously collect and transmit data, thus reducing the need for separate sensor networks.
+Uses existing Wi-Fi signals to monitor air quality, structural health, and crowd movement in real time
 
 ## Description
 

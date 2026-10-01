@@ -2,7 +2,8 @@
 slug: hierarchical-memory-systems
 hub: wintermute
 title: Hierarchical Memory Systems
-summary: Long-term autobiographical continuity and situated reasoning.
+summary: Multi-tier memory architecture enabling AI agents to retain context, recall
+  experiences, and apply learned knowledge ove
 permalink: https://www.envisioning.com/wintermute/hierarchical-memory-systems
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980966/winte
 
 ## Summary
 
-Long-term autobiographical continuity and situated reasoning.
+Multi-tier memory architecture enabling AI agents to retain context, recall experiences, and apply learned knowledge ove
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: massive-mimo-base-stations
 hub: link
 title: Massive MIMO Base Stations
-summary: Base stations with dozens to hundreds of antennas for spatial multiplexing.
+summary: Base stations using hundreds of antennas to send multiple data streams simultaneously
 permalink: https://www.envisioning.com/link/massive-mimo-base-stations
 collection: hardware
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182422/link/
 
 ## Summary
 
-Base stations with dozens to hundreds of antennas for spatial multiplexing.
+Base stations using hundreds of antennas to send multiple data streams simultaneously
 
 ## Description
 

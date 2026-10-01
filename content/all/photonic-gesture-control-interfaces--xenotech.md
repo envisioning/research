@@ -2,22 +2,21 @@
 slug: photonic-gesture-control-interfaces
 hub: xenotech
 title: Photonic Gesture-Control Interfaces
-summary: Touchless control systems featuring luminous flat panels that respond to
-  hand motions and gestures, reported in entity encounters alongside emerging gesture
-  recognition and field-based control technologies.
+summary: Touchless control panels using light and gesture recognition reported in
+  encounter testimonies
 permalink: https://www.envisioning.com/xenotech/photonic-gesture-control-interfaces
 collection: materials-structures
 trl: 4
 impact: 2
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761385609/xenotech/technologies/photonic-gesture-control-interfaces.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938712/xenotech/technologies/photonic-gesture-control-interfaces-imagegen-v1.png
 ---
 
 # Photonic Gesture-Control Interfaces
 
 ## Summary
 
-Touchless control systems featuring luminous flat panels that respond to hand motions and gestures, reported in entity encounters alongside emerging gesture recognition and field-based control technologies.
+Touchless control panels using light and gesture recognition reported in encounter testimonies
 
 ## Description
 

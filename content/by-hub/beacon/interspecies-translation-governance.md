@@ -2,7 +2,7 @@
 slug: interspecies-translation-governance
 hub: beacon
 title: Interspecies Translation Governance
-summary: Standards for AI-mediated animal communication.
+summary: Frameworks validating AI systems that interpret animal communication patterns
 permalink: https://www.envisioning.com/beacon/interspecies-translation-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281735/beaco
 
 ## Summary
 
-Standards for AI-mediated animal communication.
+Frameworks validating AI systems that interpret animal communication patterns
 
 ## Description
 

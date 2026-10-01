@@ -2,21 +2,20 @@
 slug: tricobalt-device
 hub: subspace
 title: Tricobalt Device
-summary: Extremely powerful explosive ordinance capable of creating massive spatial
-  distortions and shockwaves.
+summary: High-yield explosive that generates spatial distortions and gravimetric shockwaves
 permalink: https://www.envisioning.com/subspace/tricobalt-device
 collection: weapons
 trl: 6
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760212292/subspaceindex/technologies/tricobalt-device.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909306/subspace/technologies/tricobalt-device-openrouter-google-gemini-3.1-flash-image-preview-cztoen.png
 ---
 
 # Tricobalt Device
 
 ## Summary
 
-Extremely powerful explosive ordinance capable of creating massive spatial distortions and shockwaves.
+High-yield explosive that generates spatial distortions and gravimetric shockwaves
 
 ## Description
 

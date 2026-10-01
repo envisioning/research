@@ -2,7 +2,8 @@
 slug: collective-emotion-governance
 hub: beacon
 title: Collective Emotional Data Governance
-summary: Cooperative ownership models for group affective data.
+summary: Cooperative frameworks for managing emotional data collected from groups
+  rather than individuals
 permalink: https://www.envisioning.com/beacon/collective-emotion-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124527/beaco
 
 ## Summary
 
-Cooperative ownership models for group affective data.
+Cooperative frameworks for managing emotional data collected from groups rather than individuals
 
 ## Description
 

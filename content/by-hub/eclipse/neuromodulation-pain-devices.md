@@ -2,7 +2,8 @@
 slug: neuromodulation-pain-devices
 hub: eclipse
 title: Neuromodulation Pain Devices
-summary: Implantable and wearable devices for terminal pain management.
+summary: Devices that use electrical stimulation to interrupt pain signals in terminal
+  patients
 permalink: https://www.envisioning.com/eclipse/neuromodulation-pain-devices
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126580/eclip
 
 ## Summary
 
-Implantable and wearable devices for terminal pain management.
+Devices that use electrical stimulation to interrupt pain signals in terminal patients
 
 ## Description
 

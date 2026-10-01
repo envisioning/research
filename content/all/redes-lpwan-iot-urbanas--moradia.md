@@ -2,8 +2,7 @@
 slug: redes-lpwan-iot-urbanas
 hub: moradia
 title: Redes LPWAN para IoT Urbano
-summary: Conectividade de baixo consumo e longo alcance para sensores de serviços
-  essenciais.
+summary: Conectividade de baixo consumo e longo alcance para sensores urbanos de infraestrutura
 permalink: https://www.envisioning.com/moradia/redes-lpwan-iot-urbanas
 collection: cidade-infraestrutura-urbana
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582962/habit
 
 ## Summary
 
-Conectividade de baixo consumo e longo alcance para sensores de serviços essenciais.
+Conectividade de baixo consumo e longo alcance para sensores urbanos de infraestrutura
 
 ## Description
 

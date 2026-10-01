@@ -2,7 +2,7 @@
 slug: sustainable-aviation-fuels-efuels
 hub: altitude
 title: Sustainable Aviation Fuels (SAF) & E-Fuels
-summary: Drop-in low-carbon fuels (bio-SAF, power-to-liquid synthetic kerosene).
+summary: Low-carbon jet fuels compatible with existing aircraft engines and infrastructure
 permalink: https://www.envisioning.com/altitude/sustainable-aviation-fuels-efuels
 collection: hardware
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641715/altit
 
 ## Summary
 
-Drop-in low-carbon fuels (bio-SAF, power-to-liquid synthetic kerosene).
+Low-carbon jet fuels compatible with existing aircraft engines and infrastructure
 
 ## Description
 

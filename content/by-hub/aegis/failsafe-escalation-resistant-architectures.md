@@ -2,7 +2,8 @@
 slug: failsafe-escalation-resistant-architectures
 hub: aegis
 title: Fail-Safe & Escalation-Resistant Architectures
-summary: Design patterns for safe automated decision systems in conflict.
+summary: Safety mechanisms that prevent automated defense systems from escalating
+  conflicts beyond human control
 permalink: https://www.envisioning.com/aegis/failsafe-escalation-resistant-architectures
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010642/aegis
 
 ## Summary
 
-Design patterns for safe automated decision systems in conflict.
+Safety mechanisms that prevent automated defense systems from escalating conflicts beyond human control
 
 ## Description
 

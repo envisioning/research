@@ -2,7 +2,8 @@
 slug: earth-observation-data-governance
 hub: apogee
 title: Earth Observation Data Governance
-summary: Rules for privacy, security, and equitable access to high-resolution data.
+summary: Frameworks balancing commercial satellite data access with privacy, security,
+  and equity concerns
 permalink: https://www.envisioning.com/apogee/earth-observation-data-governance
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012520/apoge
 
 ## Summary
 
-Rules for privacy, security, and equitable access to high-resolution data.
+Frameworks balancing commercial satellite data access with privacy, security, and equity concerns
 
 ## Description
 

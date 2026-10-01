@@ -2,21 +2,21 @@
 slug: child-chrononaut-programs
 hub: xenotech
 title: Temporal Explorer
-summary: Alleged government programs recruiting children as temporal explorers and
-  teleportation test subjects, using early exposure to exotic physics for training.
+summary: Claims of classified programs recruiting children for time travel and teleportation
+  experiments
 permalink: https://www.envisioning.com/xenotech/child-chrononaut-programs
 collection: temporal-dimensional
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760815309/xenotech/technologies/montauk-project.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907159/xenotech/technologies/child-chrononaut-programs-openrouter-google-gemini-3.1-flash-image-preview-pduldj.png
 ---
 
 # Temporal Explorer
 
 ## Summary
 
-Alleged government programs recruiting children as temporal explorers and teleportation test subjects, using early exposure to exotic physics for training.
+Claims of classified programs recruiting children for time travel and teleportation experiments
 
 ## Description
 

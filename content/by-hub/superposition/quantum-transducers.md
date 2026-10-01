@@ -2,8 +2,8 @@
 slug: quantum-transducers
 hub: superposition
 title: Quantum Transducers
-summary: Devices converting quantum information between microwave and optical domains
-  for networking.
+summary: Devices that convert quantum signals between microwave and optical frequencies
+  for long-distance transmission
 permalink: https://www.envisioning.com/superposition/quantum-transducers
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069389/super
 
 ## Summary
 
-Devices converting quantum information between microwave and optical domains for networking.
+Devices that convert quantum signals between microwave and optical frequencies for long-distance transmission
 
 ## Description
 

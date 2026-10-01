@@ -2,19 +2,21 @@
 slug: electrothermal-chemical-technology
 hub: aegis
 title: Electrothermal-Chemical Technology
-summary: Enhanced propellants using electrical discharge for tank, artillery, and close-in weapons.
+summary: Electrical discharge systems that boost propellant combustion in artillery
+  and weapon platforms
 permalink: https://www.envisioning.com/aegis/electrothermal-chemical-technology
 collection: hardware
 trl: 4
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962752/aegis/technologies/electrothermal-chemical-technology-yvdyh4.png
 ---
 
 # Electrothermal-Chemical Technology
 
 ## Summary
 
-Enhanced propellants using electrical discharge for tank, artillery, and close-in weapons.
+Electrical discharge systems that boost propellant combustion in artillery and weapon platforms
 
 ## Description
 

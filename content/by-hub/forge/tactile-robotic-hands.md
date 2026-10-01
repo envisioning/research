@@ -2,8 +2,8 @@
 slug: tactile-robotic-hands
 hub: forge
 title: High-Dexterity Tactile Robotic Hands
-summary: Robotic grippers with dense tactile sensing for fine assembly and safe human
-  interaction.
+summary: Robotic hands with dense tactile sensors for precise manipulation and safe
+  human collaboration
 permalink: https://www.envisioning.com/forge/tactile-robotic-hands
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120059/forge
 
 ## Summary
 
-Robotic grippers with dense tactile sensing for fine assembly and safe human interaction.
+Robotic hands with dense tactile sensors for precise manipulation and safe human collaboration
 
 ## Description
 

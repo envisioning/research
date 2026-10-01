@@ -2,7 +2,8 @@
 slug: autonomous-microgrids
 hub: substrate
 title: Autonomous Microgrids
-summary: Self-managing local grids capable of islanding from the main network.
+summary: Self-managing local power networks that can disconnect from the main grid
+  and operate independently
 permalink: https://www.envisioning.com/substrate/autonomous-microgrids
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117148/subst
 
 ## Summary
 
-Self-managing local grids capable of islanding from the main network.
+Self-managing local power networks that can disconnect from the main grid and operate independently
 
 ## Description
 

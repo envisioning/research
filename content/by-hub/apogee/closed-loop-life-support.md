@@ -2,7 +2,7 @@
 slug: closed-loop-life-support
 hub: apogee
 title: Closed-Loop Life Support Systems
-summary: Regenerative environmental control and life support for long-duration missions.
+summary: Recycling air, water, and waste to sustain crews on long-duration space missions
 permalink: https://www.envisioning.com/apogee/closed-loop-life-support
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012288/apoge
 
 ## Summary
 
-Regenerative environmental control and life support for long-duration missions.
+Recycling air, water, and waste to sustain crews on long-duration space missions
 
 ## Description
 

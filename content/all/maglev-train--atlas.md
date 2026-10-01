@@ -2,19 +2,20 @@
 slug: maglev-train
 hub: atlas
 title: Maglev Train
-summary: Magnetic levitation for high-speed rail; Transrapid, Shanghai Maglev.
+summary: Magnetic levitation systems enabling friction-free high-speed rail transport
 permalink: https://www.envisioning.com/atlas/maglev-train
 collection: hardware
 trl: 8
 impact: 5
 investment: 5
+image_url: null
 ---
 
 # Maglev Train
 
 ## Summary
 
-Magnetic levitation for high-speed rail; Transrapid, Shanghai Maglev.
+Magnetic levitation systems enabling friction-free high-speed rail transport
 
 ## Description
 

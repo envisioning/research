@@ -2,20 +2,21 @@
 slug: vulcan-katric-ark
 hub: subspace
 title: Katric Arks (Katra Containers)
-summary: Crystal or metallic vessels storing a person's katra (consciousness/soul).
+summary: Vessels designed to preserve transferred consciousness and memory after biological
+  death
 permalink: https://www.envisioning.com/subspace/vulcan-katric-ark
 collection: biotechnology
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760273212/subspaceindex/technologies/vulcan-katric-ark.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908250/subspace/technologies/vulcan-katric-ark-openrouter-google-gemini-3.1-flash-image-preview-fkhv6c.png
 ---
 
 # Katric Arks (Katra Containers)
 
 ## Summary
 
-Crystal or metallic vessels storing a person's katra (consciousness/soul).
+Vessels designed to preserve transferred consciousness and memory after biological death
 
 ## Description
 

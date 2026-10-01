@@ -2,7 +2,8 @@
 slug: next-gen-energy-storage
 hub: atmos
 title: Next-Generation Energy Storage
-summary: High-capacity solid-state and metal-air batteries for grid scaling.
+summary: High-density batteries using solid-state and alternative chemistries for
+  grid-scale energy storage
 permalink: https://www.envisioning.com/atmos/next-gen-energy-storage
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990427/atmos
 
 ## Summary
 
-High-capacity solid-state and metal-air batteries for grid scaling.
+High-density batteries using solid-state and alternative chemistries for grid-scale energy storage
 
 ## Description
 

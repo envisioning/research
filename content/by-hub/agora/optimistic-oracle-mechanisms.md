@@ -2,20 +2,20 @@
 slug: optimistic-oracle-mechanisms
 hub: agora
 title: Optimistic Oracle Mechanisms
-summary: '''Guilty until proven innocent'' verification for faster governance.'
+summary: '''''Guilty until proven innocent'''' verification for faster governance.'
 permalink: https://www.envisioning.com/agora/optimistic-oracle-mechanisms
 collection: software
 trl: 6
 impact: 4
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898352/agora/technologies/b68bf9d5-56d2-4899-bb33-8f30de2ed300-google-gemini-3.1-flash-image-preview-1po2ox.png
 ---
 
 # Optimistic Oracle Mechanisms
 
 ## Summary
 
-'Guilty until proven innocent' verification for faster governance.
+''Guilty until proven innocent'' verification for faster governance.
 
 ## Description
 

@@ -2,19 +2,21 @@
 slug: vortex-engine
 hub: atmos
 title: Vortex Engine
-summary: Power generation using convective vortices; atmospheric heat engine concept.
+summary: Power generation by creating controlled atmospheric vortices from waste heat
+  or solar energy
 permalink: https://www.envisioning.com/atmos/vortex-engine
 collection: applications
 trl: 3
 impact: 3
 investment: 2
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889666/atmos/technologies/8b1c7d49-8f3c-4397-9b98-b597d7b969e6-google-gemini-3.1-flash-image-preview-a8p1fb.jpg
 ---
 
 # Vortex Engine
 
 ## Summary
 
-Power generation using convective vortices; atmospheric heat engine concept.
+Power generation by creating controlled atmospheric vortices from waste heat or solar energy
 
 ## Description
 

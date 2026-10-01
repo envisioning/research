@@ -2,9 +2,9 @@
 slug: flexible-electronics
 hub: horizons
 title: Flexible Electronics
-summary: Bendable, stretchable circuits for wearable and conformable devices.
+summary: Bendable circuits on flexible substrates for wearables and conformable devices
 permalink: https://www.envisioning.com/horizons/flexible-electronics
-collection: materials-making
+collection: hardware
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521048/horiz
 
 ## Summary
 
-Bendable, stretchable circuits for wearable and conformable devices.
+Bendable circuits on flexible substrates for wearables and conformable devices
 
 ## Description
 

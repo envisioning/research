@@ -2,7 +2,8 @@
 slug: aviation-cybersecurity-certification
 hub: altitude
 title: Aviation Cybersecurity Certification & Assurance
-summary: Security-by-design for aircraft systems, connectivity, and supply chains.
+summary: Frameworks ensuring aircraft systems, connectivity, and supply chains meet
+  cybersecurity standards
 permalink: https://www.envisioning.com/altitude/aviation-cybersecurity-certification
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644429/altit
 
 ## Summary
 
-Security-by-design for aircraft systems, connectivity, and supply chains.
+Frameworks ensuring aircraft systems, connectivity, and supply chains meet cybersecurity standards
 
 ## Description
 

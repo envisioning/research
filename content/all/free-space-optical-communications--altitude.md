@@ -2,7 +2,7 @@
 slug: free-space-optical-communications
 hub: altitude
 title: Free-Space Optical (Laser) Communications
-summary: High-bandwidth, jam-resistant laser links for in-flight connectivity.
+summary: Laser-based data links between aircraft, satellites, and ground stations
 permalink: https://www.envisioning.com/altitude/free-space-optical-communications
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649409/altit
 
 ## Summary
 
-High-bandwidth, jam-resistant laser links for in-flight connectivity.
+Laser-based data links between aircraft, satellites, and ground stations
 
 ## Description
 

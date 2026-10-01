@@ -2,7 +2,8 @@
 slug: digital-twin-water
 hub: substrate
 title: Digital Twin Water Networks
-summary: Real-time virtual replicas of physical water infrastructure.
+summary: Virtual replicas of water systems that simulate flow, pressure, and failures
+  in real time
 permalink: https://www.envisioning.com/substrate/digital-twin-water
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117139/subst
 
 ## Summary
 
-Real-time virtual replicas of physical water infrastructure.
+Virtual replicas of water systems that simulate flow, pressure, and failures in real time
 
 ## Description
 

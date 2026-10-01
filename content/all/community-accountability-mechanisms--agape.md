@@ -3,7 +3,6 @@ slug: community-accountability-mechanisms
 hub: agape
 title: Community-Driven Accountability Mechanisms
 summary: New accountability mechanisms driven by affected communities, reshaping how
-  philanthropy is held responsible for its impacts.
 permalink: https://www.envisioning.com/agape/community-accountability-mechanisms
 collection: power-agency-governance
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371685/agape
 
 ## Summary
 
-New accountability mechanisms driven by affected communities, reshaping how philanthropy is held responsible for its impacts.
+New accountability mechanisms driven by affected communities, reshaping how
 
 ## Description
 

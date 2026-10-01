@@ -2,7 +2,8 @@
 slug: south-korean-webtoon-infrastructure
 hub: prism
 title: South Korean WebToon Infrastructure
-summary: Vertical-scroll publishing pipelines optimized for mobile-native comics.
+summary: Cloud-based publishing platforms for mobile-first vertical comics with built-in
+  monetization
 permalink: https://www.envisioning.com/prism/south-korean-webtoon-infrastructure
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069380/pulse
 
 ## Summary
 
-Vertical-scroll publishing pipelines optimized for mobile-native comics.
+Cloud-based publishing platforms for mobile-first vertical comics with built-in monetization
 
 ## Description
 

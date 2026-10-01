@@ -2,7 +2,8 @@
 slug: distributed-electric-propulsion
 hub: altitude
 title: Distributed Electric Propulsion (DEP)
-summary: Multiple small electric motors for boundary layer ingestion and control.
+summary: Arrays of small electric motors distributed across aircraft wings and fuselage
+  for thrust
 permalink: https://www.envisioning.com/altitude/distributed-electric-propulsion
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642058/altit
 
 ## Summary
 
-Multiple small electric motors for boundary layer ingestion and control.
+Arrays of small electric motors distributed across aircraft wings and fuselage for thrust
 
 ## Description
 

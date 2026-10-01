@@ -2,7 +2,8 @@
 slug: quantum-materials-discovery
 hub: superposition
 title: Quantum Materials Discovery
-summary: Designing new materials like high-efficiency batteries and superconductors.
+summary: Using quantum computers to simulate electron behavior and design advanced
+  materials
 permalink: https://www.envisioning.com/superposition/quantum-materials-discovery
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181203/super
 
 ## Summary
 
-Designing new materials like high-efficiency batteries and superconductors.
+Using quantum computers to simulate electron behavior and design advanced materials
 
 ## Description
 

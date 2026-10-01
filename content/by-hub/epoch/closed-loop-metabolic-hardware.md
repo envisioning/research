@@ -2,8 +2,8 @@
 slug: closed-loop-metabolic-hardware
 hub: epoch
 title: Closed-Loop Metabolic Modulators
-summary: Devices that actively modulate glucose, ketones, insulin signaling, or AMPK/mTOR
-  pathways in real time.
+summary: Automated systems that sense and adjust metabolic signals like glucose or
+  insulin in real time
 permalink: https://www.envisioning.com/epoch/closed-loop-metabolic-hardware
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620012/epoch
 
 ## Summary
 
-Devices that actively modulate glucose, ketones, insulin signaling, or AMPK/mTOR pathways in real time.
+Automated systems that sense and adjust metabolic signals like glucose or insulin in real time
 
 ## Description
 

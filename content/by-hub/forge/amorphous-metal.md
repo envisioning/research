@@ -2,19 +2,21 @@
 slug: amorphous-metal
 hub: forge
 title: Amorphous Metal
-summary: Non-crystalline metal alloys; experiments and use in amorphous metal transformers.
+summary: Non-crystalline metal alloys with high strength and low energy loss for transformers
+  and specialized parts
 permalink: https://www.envisioning.com/forge/amorphous-metal
 collection: materials
 trl: 6
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889627/forge/technologies/8a037930-f3ed-4d4f-a116-f1737a68e959-google-gemini-3.1-flash-image-preview-kfadhi.jpg
 ---
 
 # Amorphous Metal
 
 ## Summary
 
-Non-crystalline metal alloys; experiments and use in amorphous metal transformers.
+Non-crystalline metal alloys with high strength and low energy loss for transformers and specialized parts
 
 ## Description
 

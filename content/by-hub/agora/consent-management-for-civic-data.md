@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 6
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886900/agora/technologies/42c610b9-d3ff-448f-a30b-abf862edecc3-google-gemini-3.1-flash-image-preview-nluhju.png
 ---
 
 # Consent Management for Civic Data

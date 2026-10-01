@@ -2,8 +2,8 @@
 slug: hybrid-coordination-optimizers
 hub: synapse
 title: Hybrid Coordination Optimizers
-summary: Scheduling and coordination engines designed for mixed remote and on-site
-  work.
+summary: Scheduling engines that balance in-office, remote, and timezone needs for
+  hybrid teams
 permalink: https://www.envisioning.com/synapse/hybrid-coordination-optimizers
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127111/synap
 
 ## Summary
 
-Scheduling and coordination engines designed for mixed remote and on-site work.
+Scheduling engines that balance in-office, remote, and timezone needs for hybrid teams
 
 ## Description
 

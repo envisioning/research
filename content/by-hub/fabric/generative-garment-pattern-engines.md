@@ -2,7 +2,8 @@
 slug: generative-garment-pattern-engines
 hub: fabric
 title: Generative Garment Pattern Engines
-summary: ML tools that auto-generate patterns from body scans or brand aesthetics.
+summary: ML systems that generate clothing patterns from body scans, design sketches,
+  or brand aesthetics
 permalink: https://www.envisioning.com/fabric/generative-garment-pattern-engines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059496/threa
 
 ## Summary
 
-ML tools that auto-generate patterns from body scans or brand aesthetics.
+ML systems that generate clothing patterns from body scans, design sketches, or brand aesthetics
 
 ## Description
 

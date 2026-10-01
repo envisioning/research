@@ -2,7 +2,8 @@
 slug: regenerative-agriculture-systems
 hub: continuum
 title: Regenerative Agriculture Systems
-summary: Farming practices rebuilding soil carbon and ecosystem health.
+summary: Farming practices that restore soil health, sequester carbon, and rebuild
+  ecosystem function
 permalink: https://www.envisioning.com/continuum/regenerative-agriculture-systems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125064/conti
 
 ## Summary
 
-Farming practices rebuilding soil carbon and ecosystem health.
+Farming practices that restore soil health, sequester carbon, and rebuild ecosystem function
 
 ## Description
 

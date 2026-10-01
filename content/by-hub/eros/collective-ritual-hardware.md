@@ -2,7 +2,8 @@
 slug: collective-ritual-hardware
 hub: eros
 title: Collective Ritual Hardware
-summary: Synchronized devices for group ceremonies, prayer, and communal bonding.
+summary: Networked devices that synchronize across distances for shared ceremonies
+  and spiritual practices
 permalink: https://www.envisioning.com/eros/collective-ritual-hardware
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124876/eros/
 
 ## Summary
 
-Synchronized devices for group ceremonies, prayer, and communal bonding.
+Networked devices that synchronize across distances for shared ceremonies and spiritual practices
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: choice-architecture-linters
 hub: beacon
 title: Choice Architecture Linters
-summary: Static analysis tools for manipulative UX flows.
+summary: Tools that scan UI code and flows for manipulative design patterns that exploit
+  user psychology
 permalink: https://www.envisioning.com/beacon/choice-architecture-linters
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125574/beaco
 
 ## Summary
 
-Static analysis tools for manipulative UX flows.
+Tools that scan UI code and flows for manipulative design patterns that exploit user psychology
 
 ## Description
 

@@ -2,22 +2,21 @@
 slug: nuclear-weapons-interference
 hub: xenotech
 title: Nuclear Weapons Systems Interference
-summary: Documented incidents of UAP disabling nuclear missile systems, launch control
-  facilities, and warheads—including the 1967 Malmstrom AFB event where multiple ICBMs
-  went offline during UAP overflight.
+summary: Documented cases of UAP presence correlating with nuclear weapons system
+  malfunctions and shutdowns
 permalink: https://www.envisioning.com/xenotech/nuclear-weapons-interference
 collection: defense-surveillance
 trl: 5
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762003212/xenotech/technologies/nuclear-weapons-interference-openai-gpt-5-1zqwy3.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899091/xenotech/technologies/nuclear-weapons-interference-openrouter-google-gemini-3.1-flash-image-preview-6l5j1g.png
 ---
 
 # Nuclear Weapons Systems Interference
 
 ## Summary
 
-Documented incidents of UAP disabling nuclear missile systems, launch control facilities, and warheads—including the 1967 Malmstrom AFB event where multiple ICBMs went offline during UAP overflight.
+Documented cases of UAP presence correlating with nuclear weapons system malfunctions and shutdowns
 
 ## Description
 

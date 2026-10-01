@@ -2,20 +2,20 @@
 slug: arts-parts-metamaterials
 hub: xenotech
 title: Metamaterials
-summary: Alleged anomalous materials from UAP with engineered layered structures.
+summary: Layered bismuth-magnesium samples claimed to originate from UAP crash sites
 permalink: https://www.envisioning.com/xenotech/arts-parts-metamaterials
 collection: materials-structures
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760817134/xenotech/technologies/arts-parts-metamaterials.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898783/xenotech/technologies/arts-parts-metamaterials-openrouter-google-gemini-3.1-flash-image-preview-gnj3pf.png
 ---
 
 # Metamaterials
 
 ## Summary
 
-Alleged anomalous materials from UAP with engineered layered structures.
+Layered bismuth-magnesium samples claimed to originate from UAP crash sites
 
 ## Description
 

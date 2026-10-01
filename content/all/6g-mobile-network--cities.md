@@ -2,15 +2,10 @@
 slug: 6g-mobile-network
 hub: cities
 title: 6G Mobile Network
-summary: 'The forthcoming generation of wireless communication is being developed
-  to surpass the limitations of 5G by enabling unprecedented data speed, minimal latency,
-  and intelligent connectivity. 6G addresses current bottlenecks by operating in the
-  terahertz spectrum, transforming the urban communication grid into a living digital
-  fabric, capable of sensing, analysing, and responding to its environment. This new
-  network paradigm will allow cities to synchronise autonomous vehicles or deliver
-  real-time digital twins of infrastructure. '
+summary: Next-generation wireless networks using terahertz spectrum for ultra-fast,
+  intelligent urban connectivity
 permalink: https://www.envisioning.com/cities/6g-mobile-network
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: hardware
 trl: 3
 impact: 1
 investment: 1
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1759845903-6g.png
 
 ## Summary
 
-The forthcoming generation of wireless communication is being developed to surpass the limitations of 5G by enabling unprecedented data speed, minimal latency, and intelligent connectivity. 6G addresses current bottlenecks by operating in the terahertz spectrum, transforming the urban communication grid into a living digital fabric, capable of sensing, analysing, and responding to its environment. This new network paradigm will allow cities to synchronise autonomous vehicles or deliver real-time digital twins of infrastructure.
+Next-generation wireless networks using terahertz spectrum for ultra-fast, intelligent urban connectivity
 
 ## Description
 

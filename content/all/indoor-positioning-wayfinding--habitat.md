@@ -2,7 +2,8 @@
 slug: indoor-positioning-wayfinding
 hub: habitat
 title: Indoor Positioning & Wayfinding
-summary: Sub-meter indoor location services for navigation, asset tracking, and analytics.
+summary: Location tracking and navigation systems that work inside buildings where
+  GPS fails
 permalink: https://www.envisioning.com/habitat/indoor-positioning-wayfinding
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117677/habit
 
 ## Summary
 
-Sub-meter indoor location services for navigation, asset tracking, and analytics.
+Location tracking and navigation systems that work inside buildings where GPS fails
 
 ## Description
 

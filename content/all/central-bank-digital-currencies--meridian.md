@@ -2,7 +2,7 @@
 slug: central-bank-digital-currencies
 hub: meridian
 title: Central Bank Digital Currencies (CBDCs)
-summary: Sovereign programmable money infrastructure.
+summary: State-issued digital currencies operating through central bank infrastructure
 permalink: https://www.envisioning.com/meridian/central-bank-digital-currencies
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131178/merid
 
 ## Summary
 
-Sovereign programmable money infrastructure.
+State-issued digital currencies operating through central bank infrastructure
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: geoengineering-oversight
 hub: atmos
 title: Geoengineering Oversight
-summary: Governance for solar radiation management and albedo modification.
+summary: Governance frameworks to regulate solar radiation management and planetary-scale
+  climate interventions
 permalink: https://www.envisioning.com/atmos/geoengineering-oversight
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010119/atmos
 
 ## Summary
 
-Governance for solar radiation management and albedo modification.
+Governance frameworks to regulate solar radiation management and planetary-scale climate interventions
 
 ## Description
 

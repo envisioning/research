@@ -2,7 +2,7 @@
 slug: cross-reality-gaming-networks
 hub: pixels
 title: Cross-Reality Gaming Networks
-summary: Experiences syncing physical toys, mobile AR, and VR worlds.
+summary: Syncs game progress across physical toys, mobile AR, consoles, and VR headsets
 permalink: https://www.envisioning.com/pixels/cross-reality-gaming-networks
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062275/pixel
 
 ## Summary
 
-Experiences syncing physical toys, mobile AR, and VR worlds.
+Syncs game progress across physical toys, mobile AR, consoles, and VR headsets
 
 ## Description
 

@@ -2,15 +2,10 @@
 slug: variable-environmental-tax
 hub: cities
 title: Variable Environmental Tax
-summary: A dynamic taxation system that addresses urban environmental challenges such
-  as pollution, resource depletion, and inefficient land use. Adjusting tax rates
-  based on ecological impact incentivises sustainable practices among businesses and
-  individuals, promoting cleaner air and water, efficient resource use, and green
-  urban development. It has the potential to support sustainable and resilient urban
-  growth, aligning with global sustainability goals and enhancing the quality of life
-  in cities.
+summary: Tax rates that adjust based on environmental impact to incentivize sustainable
+  urban practices
 permalink: https://www.envisioning.com/cities/variable-environmental-tax
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: ethics-security
 trl: 7
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719306712-variable-environment
 
 ## Summary
 
-A dynamic taxation system that addresses urban environmental challenges such as pollution, resource depletion, and inefficient land use. Adjusting tax rates based on ecological impact incentivises sustainable practices among businesses and individuals, promoting cleaner air and water, efficient resource use, and green urban development. It has the potential to support sustainable and resilient urban growth, aligning with global sustainability goals and enhancing the quality of life in cities.
+Tax rates that adjust based on environmental impact to incentivize sustainable urban practices
 
 ## Description
 

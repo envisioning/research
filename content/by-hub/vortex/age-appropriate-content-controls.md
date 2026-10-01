@@ -2,7 +2,8 @@
 slug: age-appropriate-content-controls
 hub: vortex
 title: Age-Appropriate Content Controls
-summary: Context-aware parental controls and age verification.
+summary: AI-driven systems that analyze and filter streaming content based on real-time
+  context and viewer age
 permalink: https://www.envisioning.com/vortex/age-appropriate-content-controls
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178077/vorte
 
 ## Summary
 
-Context-aware parental controls and age verification.
+AI-driven systems that analyze and filter streaming content based on real-time context and viewer age
 
 ## Description
 

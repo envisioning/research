@@ -2,7 +2,8 @@
 slug: soldier-vitals-monitoring
 hub: aegis
 title: Soldier Vitals Monitoring Systems
-summary: Wearable sensor suites tracking physiology in real time.
+summary: Wearable sensors that track soldier health and stress in real time during
+  operations
 permalink: https://www.envisioning.com/aegis/soldier-vitals-monitoring
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074972/aegis
 
 ## Summary
 
-Wearable sensor suites tracking physiology in real time.
+Wearable sensors that track soldier health and stress in real time during operations
 
 ## Description
 

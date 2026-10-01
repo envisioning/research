@@ -2,7 +2,8 @@
 slug: hsm
 hub: sentinel
 title: Hardware Security Modules
-summary: High-assurance appliances for centralized key management and signing.
+summary: Tamper-resistant hardware that protects cryptographic keys and performs secure
+  signing operations
 permalink: https://www.envisioning.com/sentinel/hsm
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463115/senti
 
 ## Summary
 
-High-assurance appliances for centralized key management and signing.
+Tamper-resistant hardware that protects cryptographic keys and performs secure signing operations
 
 ## Description
 

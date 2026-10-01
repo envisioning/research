@@ -2,9 +2,10 @@
 slug: brain-chip-implant
 hub: horizons
 title: Brain Chip Implant
-summary: Neural interfaces for direct brain-computer communication.
+summary: Surgically implanted devices that record and stimulate neural activity for
+  prosthetic control and function restoration
 permalink: https://www.envisioning.com/horizons/brain-chip-implant
-collection: intelligence-computation
+collection: hardware
 trl: 6
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526102/horiz
 
 ## Summary
 
-Neural interfaces for direct brain-computer communication.
+Surgically implanted devices that record and stimulate neural activity for prosthetic control and function restoration
 
 ## Description
 

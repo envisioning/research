@@ -2,21 +2,21 @@
 slug: transwarp
 hub: subspace
 title: Transwarp Drive
-summary: Advanced propulsion technology exceeding conventional warp speeds through
-  folded space corridors.
+summary: Propulsion system using stable subspace corridors to achieve speeds beyond
+  conventional warp travel
 permalink: https://www.envisioning.com/subspace/transwarp
 collection: propulsion
 trl: 4
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760207936/subspaceindex/technologies/transwarp.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909289/subspace/technologies/transwarp-openrouter-google-gemini-3.1-flash-image-preview-lgtp2b.png
 ---
 
 # Transwarp Drive
 
 ## Summary
 
-Advanced propulsion technology exceeding conventional warp speeds through folded space corridors.
+Propulsion system using stable subspace corridors to achieve speeds beyond conventional warp travel
 
 ## Description
 

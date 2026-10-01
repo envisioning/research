@@ -2,7 +2,8 @@
 slug: neurodivergent-design-standards
 hub: soma
 title: Neurodivergent Design Standards
-summary: Accessibility guidelines centered on cognitive and sensory differences.
+summary: Design guidelines that accommodate autism, ADHD, dyslexia, and other cognitive
+  differences
 permalink: https://www.envisioning.com/soma/neurodivergent-design-standards
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179279/soma/
 
 ## Summary
 
-Accessibility guidelines centered on cognitive and sensory differences.
+Design guidelines that accommodate autism, ADHD, dyslexia, and other cognitive differences
 
 ## Description
 

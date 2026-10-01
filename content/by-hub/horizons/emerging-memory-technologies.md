@@ -2,19 +2,21 @@
 slug: emerging-memory-technologies
 hub: horizons
 title: Emerging Memory Technologies
-summary: T-RAM, CBRAM, RRAM, phase-change memory, racetrack memory, and beyond-SRAM/DRAM storage.
+summary: Non-volatile memory architectures beyond SRAM, DRAM, and flash for faster,
+  denser data storage
 permalink: https://www.envisioning.com/horizons/emerging-memory-technologies
 collection: hardware
 trl: 5
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898313/horizons/technologies/b544e784-4cc9-44e9-b60b-14a5b2822fe5-google-gemini-3.1-flash-image-preview-t6d8vg.png
 ---
 
 # Emerging Memory Technologies
 
 ## Summary
 
-T-RAM, CBRAM, RRAM, phase-change memory, racetrack memory, and beyond-SRAM/DRAM storage.
+Non-volatile memory architectures beyond SRAM, DRAM, and flash for faster, denser data storage
 
 ## Description
 

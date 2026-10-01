@@ -2,7 +2,8 @@
 slug: continual-embodied-learning
 hub: wintermute
 title: Continual & Embodied Learning
-summary: Real-time adaptation from sensory loops without catastrophic forgetting.
+summary: AI systems that learn continuously from sensory input while preserving past
+  knowledge
 permalink: https://www.envisioning.com/wintermute/continual-embodied-learning
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763981096/winte
 
 ## Summary
 
-Real-time adaptation from sensory loops without catastrophic forgetting.
+AI systems that learn continuously from sensory input while preserving past knowledge
 
 ## Description
 

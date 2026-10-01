@@ -3,7 +3,6 @@ slug: digital-identity-displaced-populations
 hub: agape
 title: Digital Identity for Displaced & Stateless Populations
 summary: Technology solutions for digital identity and credentials for refugees, displaced
-  persons, and stateless populations.
 permalink: https://www.envisioning.com/agape/digital-identity-displaced-populations
 collection: technology-infrastructure
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367819/agape
 
 ## Summary
 
-Technology solutions for digital identity and credentials for refugees, displaced persons, and stateless populations.
+Technology solutions for digital identity and credentials for refugees, displaced
 
 ## Description
 

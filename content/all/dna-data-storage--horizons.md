@@ -2,9 +2,10 @@
 slug: dna-data-storage
 hub: horizons
 title: DNA Data Storage
-summary: Encoding digital information into synthetic DNA for high-density archival.
+summary: Encoding digital information into synthetic DNA molecules for ultra-dense,
+  long-term archival
 permalink: https://www.envisioning.com/horizons/dna-data-storage
-collection: energy-environment
+collection: hardware
 trl: 5
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526511/horiz
 
 ## Summary
 
-Encoding digital information into synthetic DNA for high-density archival.
+Encoding digital information into synthetic DNA molecules for ultra-dense, long-term archival
 
 ## Description
 

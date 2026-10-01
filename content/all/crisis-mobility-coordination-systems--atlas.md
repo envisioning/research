@@ -2,7 +2,8 @@
 slug: crisis-mobility-coordination-systems
 hub: atlas
 title: Crisis Mobility Coordination Systems
-summary: Real-time platforms managing evacuations, refugee flows, and emergency travel.
+summary: Real-time platforms coordinating evacuations, refugee flows, and emergency
+  travel logistics
 permalink: https://www.envisioning.com/atlas/crisis-mobility-coordination-systems
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127189/atlas
 
 ## Summary
 
-Real-time platforms managing evacuations, refugee flows, and emergency travel.
+Real-time platforms coordinating evacuations, refugee flows, and emergency travel logistics
 
 ## Description
 

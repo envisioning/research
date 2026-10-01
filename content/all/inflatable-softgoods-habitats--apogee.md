@@ -2,7 +2,8 @@
 slug: inflatable-softgoods-habitats
 hub: apogee
 title: Inflatable Softgoods Habitats
-summary: Expandable structural modules made of high-strength fabrics.
+summary: Expandable fabric modules that inflate in orbit to create large pressurized
+  living spaces
 permalink: https://www.envisioning.com/apogee/inflatable-softgoods-habitats
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060882/apoge
 
 ## Summary
 
-Expandable structural modules made of high-strength fabrics.
+Expandable fabric modules that inflate in orbit to create large pressurized living spaces
 
 ## Description
 

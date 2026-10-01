@@ -2,8 +2,8 @@
 slug: mitochondrial-augmentation-microdevices
 hub: epoch
 title: Mitochondrial Augmentation Microdevices
-summary: Implantable systems that deliver healthy mitochondria directly into aging
-  tissues.
+summary: Implantable devices that deliver healthy mitochondria to restore cellular
+  energy in aging tissues
 permalink: https://www.envisioning.com/epoch/mitochondrial-augmentation-microdevices
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765478793/epoch
 
 ## Summary
 
-Implantable systems that deliver healthy mitochondria directly into aging tissues.
+Implantable devices that deliver healthy mitochondria to restore cellular energy in aging tissues
 
 ## Description
 

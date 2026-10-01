@@ -2,9 +2,10 @@
 slug: zero-knowledge-proof-infrastructure
 hub: horizons
 title: Zero-Knowledge Proof Infrastructure
-summary: Verifying information validity without revealing the underlying data.
+summary: Cryptographic systems that verify claims without exposing the underlying
+  data
 permalink: https://www.envisioning.com/horizons/zero-knowledge-proof-infrastructure
-collection: intelligence-computation
+collection: software
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521747/horiz
 
 ## Summary
 
-Verifying information validity without revealing the underlying data.
+Cryptographic systems that verify claims without exposing the underlying data
 
 ## Description
 

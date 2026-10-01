@@ -2,21 +2,21 @@
 slug: bussard-collectors
 hub: subspace
 title: Bussard Ramscoop Collectors
-summary: Forward-mounted collectors gathering interstellar hydrogen as fuel during
-  warp flight.
+summary: Electromagnetic funnels gathering interstellar hydrogen to fuel spacecraft
+  during flight
 permalink: https://www.envisioning.com/subspace/bussard-collectors
 collection: propulsion
 trl: 3
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211538/subspaceindex/technologies/bussard-collectors.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907612/subspace/technologies/bussard-collectors-openrouter-google-gemini-3.1-flash-image-preview-703mvc.png
 ---
 
 # Bussard Ramscoop Collectors
 
 ## Summary
 
-Forward-mounted collectors gathering interstellar hydrogen as fuel during warp flight.
+Electromagnetic funnels gathering interstellar hydrogen to fuel spacecraft during flight
 
 ## Description
 

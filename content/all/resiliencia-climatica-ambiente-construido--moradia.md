@@ -2,8 +2,7 @@
 slug: resiliencia-climatica-ambiente-construido
 hub: moradia
 title: Resiliência Climática do Ambiente Construído
-summary: Preparação de edifícios, distritos e infraestrutura urbana para resistir
-  e se adaptar a eventos climáticos extremos.
+summary: Preparação de edifícios e infraestrutura urbana para eventos climáticos extremos
 permalink: https://www.envisioning.com/moradia/resiliencia-climatica-ambiente-construido
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360264/forma
 
 ## Summary
 
-Preparação de edifícios, distritos e infraestrutura urbana para resistir e se adaptar a eventos climáticos extremos.
+Preparação de edifícios e infraestrutura urbana para eventos climáticos extremos
 
 ## Description
 

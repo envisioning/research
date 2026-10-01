@@ -2,8 +2,7 @@
 slug: therapeutic-plasma-exchange
 hub: epoch
 title: Therapeutic Plasma Exchange
-summary: Blood renewal protocols that remove pro-aging factors and introduce youthful
-  circulating factors.
+summary: Filtering blood plasma to remove aging factors and restore youthful circulation
 permalink: https://www.envisioning.com/epoch/therapeutic-plasma-exchange
 collection: applications
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476942/epoch
 
 ## Summary
 
-Blood renewal protocols that remove pro-aging factors and introduce youthful circulating factors.
+Filtering blood plasma to remove aging factors and restore youthful circulation
 
 ## Description
 

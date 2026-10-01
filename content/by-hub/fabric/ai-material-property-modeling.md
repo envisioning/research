@@ -2,7 +2,8 @@
 slug: ai-material-property-modeling
 hub: fabric
 title: AI-Driven Material Property Modeling
-summary: Software predicting durability, drape, and behavior of new bio-based textiles.
+summary: Machine learning that predicts fabric performance from composition data before
+  physical prototyping
 permalink: https://www.envisioning.com/fabric/ai-material-property-modeling
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059791/threa
 
 ## Summary
 
-Software predicting durability, drape, and behavior of new bio-based textiles.
+Machine learning that predicts fabric performance from composition data before physical prototyping
 
 ## Description
 

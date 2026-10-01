@@ -2,19 +2,20 @@
 slug: omni-processor
 hub: atmos
 title: Omni Processor
-summary: Waste-to-energy system converting sewage to electricity and potable water.
+summary: Burns sewage to generate electricity and drinking water for off-grid sanitation
 permalink: https://www.envisioning.com/atmos/omni-processor
 collection: applications
 trl: 5
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897680/atmos/technologies/965fa5a3-9095-4b9e-93c6-74069932d6c8-google-gemini-3.1-flash-image-preview-69p3pj.jpg
 ---
 
 # Omni Processor
 
 ## Summary
 
-Waste-to-energy system converting sewage to electricity and potable water.
+Burns sewage to generate electricity and drinking water for off-grid sanitation
 
 ## Description
 

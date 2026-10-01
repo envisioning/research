@@ -2,7 +2,8 @@
 slug: additive-manufacturing-certified-flight-hardware
 hub: altitude
 title: Additive Manufacturing for Certified Flight Hardware
-summary: 3D-printed metal parts for lighter, consolidated, and repairable systems.
+summary: Layer-by-layer metal fabrication enabling complex geometries and weight reduction
+  in aircraft components
 permalink: https://www.envisioning.com/altitude/additive-manufacturing-certified-flight-hardware
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641823/altit
 
 ## Summary
 
-3D-printed metal parts for lighter, consolidated, and repairable systems.
+Layer-by-layer metal fabrication enabling complex geometries and weight reduction in aircraft components
 
 ## Description
 

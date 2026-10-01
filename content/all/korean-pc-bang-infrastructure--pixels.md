@@ -2,7 +2,8 @@
 slug: korean-pc-bang-infrastructure
 hub: pixels
 title: Korean PC Bang Infrastructure
-summary: Low-latency gaming cafes acting as social hubs and esports pipelines.
+summary: Fiber-connected gaming cafes that blend social play, publisher partnerships,
+  and grassroots esports
 permalink: https://www.envisioning.com/pixels/korean-pc-bang-infrastructure
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062157/pixel
 
 ## Summary
 
-Low-latency gaming cafes acting as social hubs and esports pipelines.
+Fiber-connected gaming cafes that blend social play, publisher partnerships, and grassroots esports
 
 ## Description
 

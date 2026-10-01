@@ -2,7 +2,8 @@
 slug: synthetic-corporate-entities
 hub: synapse
 title: Synthetic Corporate Entities
-summary: Fully autonomous legal entities managed by AI for specific business functions.
+summary: AI-governed legal entities that autonomously execute contracts, manage assets,
+  and make operational decisions
 permalink: https://www.envisioning.com/synapse/synthetic-corporate-entities
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126849/synap
 
 ## Summary
 
-Fully autonomous legal entities managed by AI for specific business functions.
+AI-governed legal entities that autonomously execute contracts, manage assets, and make operational decisions
 
 ## Description
 

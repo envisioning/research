@@ -2,20 +2,21 @@
 slug: subspace-radio
 hub: subspace
 title: Subspace Radio
-summary: Faster-than-light communication system utilizing subspace carrier waves.
+summary: Communication system that bypasses light-speed limits by transmitting through
+  subspace dimensions
 permalink: https://www.envisioning.com/subspace/subspace-radio
 collection: communications
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760209197/subspaceindex/technologies/subspace-radio.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909055/subspace/technologies/subspace-radio-openrouter-google-gemini-3.1-flash-image-preview-93mqli.png
 ---
 
 # Subspace Radio
 
 ## Summary
 
-Faster-than-light communication system utilizing subspace carrier waves.
+Communication system that bypasses light-speed limits by transmitting through subspace dimensions
 
 ## Description
 

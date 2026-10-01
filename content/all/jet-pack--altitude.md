@@ -2,19 +2,21 @@
 slug: jet-pack
 hub: altitude
 title: Jet Pack / Backpack Helicopter
-summary: Personal vertical-lift devices; early commercialization, prototypes.
+summary: Wearable propulsion systems enabling individual vertical flight for personal
+  transport
 permalink: https://www.envisioning.com/altitude/jet-pack
 collection: applications
 trl: 6
 impact: 4
 investment: 4
+image_url: null
 ---
 
 # Jet Pack / Backpack Helicopter
 
 ## Summary
 
-Personal vertical-lift devices; early commercialization, prototypes.
+Wearable propulsion systems enabling individual vertical flight for personal transport
 
 ## Description
 

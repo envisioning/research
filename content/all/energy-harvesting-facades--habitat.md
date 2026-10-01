@@ -2,7 +2,8 @@
 slug: energy-harvesting-facades
 hub: habitat
 title: Energy-Harvesting Facades
-summary: Building skins that generate power while regulating internal climate.
+summary: Building exteriors that generate renewable energy while controlling temperature
+  and light
 permalink: https://www.envisioning.com/habitat/energy-harvesting-facades
 collection: hardware
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117663/habit
 
 ## Summary
 
-Building skins that generate power while regulating internal climate.
+Building exteriors that generate renewable energy while controlling temperature and light
 
 ## Description
 

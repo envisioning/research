@@ -2,7 +2,7 @@
 slug: posthumous-identity-governance
 hub: beacon
 title: Posthumous Identity Governance Platforms
-summary: Comprehensive post-death digital identity management.
+summary: Frameworks managing digital identities, data, and accounts after death
 permalink: https://www.envisioning.com/beacon/posthumous-identity-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281544/beaco
 
 ## Summary
 
-Comprehensive post-death digital identity management.
+Frameworks managing digital identities, data, and accounts after death
 
 ## Description
 

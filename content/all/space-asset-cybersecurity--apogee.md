@@ -2,7 +2,8 @@
 slug: space-asset-cybersecurity
 hub: apogee
 title: Space Asset Cybersecurity Frameworks
-summary: Defense protocols against jamming, spoofing, and satellite hacking.
+summary: Security architectures protecting spacecraft and ground systems from jamming,
+  spoofing, and unauthorized access
 permalink: https://www.envisioning.com/apogee/space-asset-cybersecurity
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011699/apoge
 
 ## Summary
 
-Defense protocols against jamming, spoofing, and satellite hacking.
+Security architectures protecting spacecraft and ground systems from jamming, spoofing, and unauthorized access
 
 ## Description
 

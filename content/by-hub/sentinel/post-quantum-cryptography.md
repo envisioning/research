@@ -2,7 +2,7 @@
 slug: post-quantum-cryptography
 hub: sentinel
 title: Post-Quantum Cryptography
-summary: Cryptographic algorithms secure against quantum computer attacks.
+summary: Encryption methods designed to resist attacks from quantum computers
 permalink: https://www.envisioning.com/sentinel/post-quantum-cryptography
 collection: ethics-security
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462020/senti
 
 ## Summary
 
-Cryptographic algorithms secure against quantum computer attacks.
+Encryption methods designed to resist attacks from quantum computers
 
 ## Description
 

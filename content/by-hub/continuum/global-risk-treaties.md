@@ -2,7 +2,8 @@
 slug: global-risk-treaties
 hub: continuum
 title: Global Catastrophic Risk Treaties
-summary: International protocols for managing existential threats.
+summary: International agreements designed to prevent and manage civilization-ending
+  threats
 permalink: https://www.envisioning.com/continuum/global-risk-treaties
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125535/conti
 
 ## Summary
 
-International protocols for managing existential threats.
+International agreements designed to prevent and manage civilization-ending threats
 
 ## Description
 

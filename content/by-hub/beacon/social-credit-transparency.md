@@ -2,7 +2,7 @@
 slug: social-credit-transparency
 hub: beacon
 title: Social Credit Transparency & Appeal Systems
-summary: Accountability for algorithmic reputation systems.
+summary: Frameworks that make algorithmic reputation scores understandable and contestable
 permalink: https://www.envisioning.com/beacon/social-credit-transparency
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281687/beaco
 
 ## Summary
 
-Accountability for algorithmic reputation systems.
+Frameworks that make algorithmic reputation scores understandable and contestable
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: privacy-preserving-people-analytics
 hub: synapse
 title: Privacy-Preserving People Analytics
-summary: Analyzing workforce trends without exposing individual identities.
+summary: Workforce analytics using encryption to extract insights while protecting
+  employee identities
 permalink: https://www.envisioning.com/synapse/privacy-preserving-people-analytics
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127153/synap
 
 ## Summary
 
-Analyzing workforce trends without exposing individual identities.
+Workforce analytics using encryption to extract insights while protecting employee identities
 
 ## Description
 

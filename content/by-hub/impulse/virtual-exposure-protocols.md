@@ -2,7 +2,8 @@
 slug: virtual-exposure-protocols
 hub: impulse
 title: Virtual Exposure Protocols
-summary: Simulations for desensitization therapy.
+summary: VR-based therapy environments for treating anxiety disorders through controlled
+  exposure
 permalink: https://www.envisioning.com/impulse/virtual-exposure-protocols
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133874/impul
 
 ## Summary
 
-Simulations for desensitization therapy.
+VR-based therapy environments for treating anxiety disorders through controlled exposure
 
 ## Description
 

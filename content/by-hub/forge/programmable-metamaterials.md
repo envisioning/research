@@ -2,8 +2,8 @@
 slug: programmable-metamaterials
 hub: forge
 title: Programmable Mechanical Metamaterials
-summary: Engineered microstructures that exhibit exotic mechanical properties not
-  found in nature.
+summary: Engineered microstructures with tunable mechanical properties controlled
+  by geometry, not chemistry
 permalink: https://www.envisioning.com/forge/programmable-metamaterials
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117891/forge
 
 ## Summary
 
-Engineered microstructures that exhibit exotic mechanical properties not found in nature.
+Engineered microstructures with tunable mechanical properties controlled by geometry, not chemistry
 
 ## Description
 

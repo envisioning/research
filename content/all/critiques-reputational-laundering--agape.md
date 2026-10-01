@@ -3,7 +3,6 @@ slug: critiques-reputational-laundering
 hub: agape
 title: Critiques of Philanthropy as Reputational Laundering
 summary: Critiques of philanthropy as reputational laundering, questioning whether
-  giving legitimizes unjust wealth accumulation.
 permalink: https://www.envisioning.com/agape/critiques-reputational-laundering
 collection: culture-values-narratives
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372185/agape
 
 ## Summary
 
-Critiques of philanthropy as reputational laundering, questioning whether giving legitimizes unjust wealth accumulation.
+Critiques of philanthropy as reputational laundering, questioning whether
 
 ## Description
 

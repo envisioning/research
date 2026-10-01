@@ -2,7 +2,8 @@
 slug: trusted-data-trust-infrastructures
 hub: meridian
 title: Trusted Data-Trust Infrastructures
-summary: Governed sharing of sensitive strategic data.
+summary: Cryptographic frameworks enabling cross-border data sharing while preserving
+  sovereignty and compliance
 permalink: https://www.envisioning.com/meridian/trusted-data-trust-infrastructures
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435159/merid
 
 ## Summary
 
-Governed sharing of sensitive strategic data.
+Cryptographic frameworks enabling cross-border data sharing while preserving sovereignty and compliance
 
 ## Description
 

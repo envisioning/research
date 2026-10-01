@@ -2,7 +2,8 @@
 slug: offline-capable-payment-hardware
 hub: lattice
 title: Offline-Capable Payment Hardware
-summary: Secure elements and local-consensus devices enabling offline digital cash.
+summary: Secure chips and devices that enable digital cash transactions without internet
+  connectivity
 permalink: https://www.envisioning.com/lattice/offline-capable-payment-hardware
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990568/flows
 
 ## Summary
 
-Secure elements and local-consensus devices enabling offline digital cash.
+Secure chips and devices that enable digital cash transactions without internet connectivity
 
 ## Description
 

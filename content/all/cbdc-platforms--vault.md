@@ -2,7 +2,7 @@
 slug: cbdc-platforms
 hub: vault
 title: CBDC & Digital Currency Platforms
-summary: Infrastructure for programmable sovereign money.
+summary: Digital sovereign currencies issued by central banks with programmable features
 permalink: https://www.envisioning.com/vault/cbdc-platforms
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128329/vault
 
 ## Summary
 
-Infrastructure for programmable sovereign money.
+Digital sovereign currencies issued by central banks with programmable features
 
 ## Description
 

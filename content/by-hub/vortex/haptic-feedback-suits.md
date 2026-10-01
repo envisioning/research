@@ -2,7 +2,8 @@
 slug: haptic-feedback-suits
 hub: vortex
 title: Haptic Feedback Suits
-summary: Full-body wearable suits for physical sensations in VR.
+summary: Wearable systems that translate digital experiences into full-body physical
+  sensations
 permalink: https://www.envisioning.com/vortex/haptic-feedback-suits
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126415/vorte
 
 ## Summary
 
-Full-body wearable suits for physical sensations in VR.
+Wearable systems that translate digital experiences into full-body physical sensations
 
 ## Description
 

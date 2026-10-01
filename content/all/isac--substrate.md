@@ -2,7 +2,8 @@
 slug: isac
 hub: substrate
 title: Integrated Sensing and Communication (ISAC)
-summary: Networks that double as high-fidelity environmental sensors.
+summary: Radio networks that transmit data while simultaneously mapping the physical
+  environment
 permalink: https://www.envisioning.com/substrate/isac
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177954/subst
 
 ## Summary
 
-Networks that double as high-fidelity environmental sensors.
+Radio networks that transmit data while simultaneously mapping the physical environment
 
 ## Description
 

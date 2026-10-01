@@ -2,7 +2,7 @@
 slug: quantum-route-optimization
 hub: atlas
 title: Quantum Route Optimization
-summary: Quantum computing solving complex multi-modal routing problems at scale.
+summary: Quantum computing applied to multi-variable travel routing and network optimization
 permalink: https://www.envisioning.com/atlas/quantum-route-optimization
 collection: software
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126111/atlas
 
 ## Summary
 
-Quantum computing solving complex multi-modal routing problems at scale.
+Quantum computing applied to multi-variable travel routing and network optimization
 
 ## Description
 

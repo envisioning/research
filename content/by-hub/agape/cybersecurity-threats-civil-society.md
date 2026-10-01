@@ -3,7 +3,6 @@ slug: cybersecurity-threats-civil-society
 hub: agape
 title: Cybersecurity Threats to Civil Society
 summary: Rising cybersecurity threats targeting NGOs, activists, and civil society
-  organizations requiring philanthropic response.
 permalink: https://www.envisioning.com/agape/cybersecurity-threats-civil-society
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367854/agape
 
 ## Summary
 
-Rising cybersecurity threats targeting NGOs, activists, and civil society organizations requiring philanthropic response.
+Rising cybersecurity threats targeting NGOs, activists, and civil society
 
 ## Description
 

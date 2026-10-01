@@ -2,7 +2,8 @@
 slug: synthetic-data-generation
 hub: quadrant
 title: Synthetic Data Generation
-summary: AI-created datasets for training without exposing real data.
+summary: AI-generated datasets that replicate real-world patterns for machine learning
+  training
 permalink: https://www.envisioning.com/quadrant/synthetic-data-generation
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124000/quadr
 
 ## Summary
 
-AI-created datasets for training without exposing real data.
+AI-generated datasets that replicate real-world patterns for machine learning training
 
 ## Description
 

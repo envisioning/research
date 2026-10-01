@@ -2,7 +2,8 @@
 slug: data-unions-daos
 hub: prism
 title: Data Unions / Data DAOs
-summary: Collectives pooling user data to bargain for fair AI training compensation.
+summary: Collective governance structures that pool user data and negotiate licensing
+  terms with AI companies
 permalink: https://www.envisioning.com/prism/data-unions-daos
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062710/pulse
 
 ## Summary
 
-Collectives pooling user data to bargain for fair AI training compensation.
+Collective governance structures that pool user data and negotiate licensing terms with AI companies
 
 ## Description
 

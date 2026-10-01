@@ -2,7 +2,8 @@
 slug: ambient-presence-objects
 hub: eros
 title: Ambient Presence Objects
-summary: Connected lamps, frames, and artifacts that signal subtle emotional presence.
+summary: Connected household objects that signal a loved one's presence through subtle
+  light, color, or motion
 permalink: https://www.envisioning.com/eros/ambient-presence-objects
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123979/eros/
 
 ## Summary
 
-Connected lamps, frames, and artifacts that signal subtle emotional presence.
+Connected household objects that signal a loved one's presence through subtle light, color, or motion
 
 ## Description
 

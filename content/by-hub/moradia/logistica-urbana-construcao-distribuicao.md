@@ -2,8 +2,8 @@
 slug: logistica-urbana-construcao-distribuicao
 hub: moradia
 title: Logística Urbana para Construção e Distribuição
-summary: Hubs logísticos para obras, centros de consolidação, mini-hubs em edifícios
-  e distribuição sustentável de cargas com baixo impacto em cidades.
+summary: Rede de hubs e centros de consolidação para reduzir congestionamento e poluição
+  em entregas urbanas
 permalink: https://www.envisioning.com/moradia/logistica-urbana-construcao-distribuicao
 collection: metodos-execucao-obra
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359862/forma
 
 ## Summary
 
-Hubs logísticos para obras, centros de consolidação, mini-hubs em edifícios e distribuição sustentável de cargas com baixo impacto em cidades.
+Rede de hubs e centros de consolidação para reduzir congestionamento e poluição em entregas urbanas
 
 ## Description
 

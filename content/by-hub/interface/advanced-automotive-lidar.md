@@ -2,15 +2,12 @@
 slug: advanced-automotive-lidar
 hub: interface
 title: Advanced Automotive LiDAR
-summary: High-performance LiDAR sensors and perception software for L3/L4 autonomous
-  driving. Includes single-chip CMOS SPAD LiDAR sensors with ultra-compact design
-  (10x smaller and 100x cheaper than mechanical LiDAR) and C-LiDAR fusion technology
-  that maps distance and depth information precisely to camera pixels.
+summary: Compact solid-state LiDAR sensors for autonomous vehicle perception and navigation
 permalink: https://www.envisioning.com/interface/advanced-automotive-lidar
-collection: spatial-computing-immersive
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726370/interface/technologies/advanced-automotive-lidar-google-gemini-3-pro-image-preview-lbwkoq.png
 ---
 
@@ -18,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726370/inter
 
 ## Summary
 
-High-performance LiDAR sensors and perception software for L3/L4 autonomous driving. Includes single-chip CMOS SPAD LiDAR sensors with ultra-compact design (10x smaller and 100x cheaper than mechanical LiDAR) and C-LiDAR fusion technology that maps distance and depth information precisely to camera pixels.
+Compact solid-state LiDAR sensors for autonomous vehicle perception and navigation
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: orbital-debris-responsibility
 hub: apogee
 title: Orbital Debris Responsibility
-summary: Frameworks and technologies for managing space junk.
+summary: Governance frameworks and removal technologies for managing space debris
+  and collision risks
 permalink: https://www.envisioning.com/apogee/orbital-debris-responsibility
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060910/apoge
 
 ## Summary
 
-Frameworks and technologies for managing space junk.
+Governance frameworks and removal technologies for managing space debris and collision risks
 
 ## Description
 

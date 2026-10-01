@@ -2,7 +2,8 @@
 slug: ai-escalation-management-systems
 hub: meridian
 title: AI Escalation Management Systems
-summary: Safeguards against inadvertent conflict escalation.
+summary: AI-driven safeguards that detect and prevent unintended military escalation
+  between autonomous systems
 permalink: https://www.envisioning.com/meridian/ai-escalation-management-systems
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123716/merid
 
 ## Summary
 
-Safeguards against inadvertent conflict escalation.
+AI-driven safeguards that detect and prevent unintended military escalation between autonomous systems
 
 ## Description
 

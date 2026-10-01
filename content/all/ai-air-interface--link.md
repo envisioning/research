@@ -2,7 +2,8 @@
 slug: ai-air-interface
 hub: link
 title: AI-Native Air Interface
-summary: Deep learning replacing traditional signal processing blocks.
+summary: Neural networks handling wireless signal processing end-to-end instead of
+  traditional algorithms
 permalink: https://www.envisioning.com/link/ai-air-interface
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177625/link/
 
 ## Summary
 
-Deep learning replacing traditional signal processing blocks.
+Neural networks handling wireless signal processing end-to-end instead of traditional algorithms
 
 ## Description
 

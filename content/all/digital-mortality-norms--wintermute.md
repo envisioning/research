@@ -2,7 +2,8 @@
 slug: digital-mortality-norms
 hub: wintermute
 title: Digital Mortality & Lifecycle Norms
-summary: Ethics of deletion, suspension, and rights to continuity.
+summary: Ethical frameworks for AI creation, suspension, deletion, and rights to continuity
+  of existence
 permalink: https://www.envisioning.com/wintermute/digital-mortality-norms
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079500/winte
 
 ## Summary
 
-Ethics of deletion, suspension, and rights to continuity.
+Ethical frameworks for AI creation, suspension, deletion, and rights to continuity of existence
 
 ## Description
 
