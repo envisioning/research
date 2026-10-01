@@ -3,7 +3,7 @@ slug: virtual-telepresence-tourism
 hub: atlas
 title: Virtual & Telepresence Tourism
 summary: Immersive remote visits to destinations via VR, 360° video, and telepresence
-  robots.
+  robots
 permalink: https://www.envisioning.com/atlas/virtual-telepresence-tourism
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123977/atlas
 
 ## Summary
 
-Immersive remote visits to destinations via VR, 360° video, and telepresence robots.
+Immersive remote visits to destinations via VR, 360° video, and telepresence robots
 
 ## Description
 

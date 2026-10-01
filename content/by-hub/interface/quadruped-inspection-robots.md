@@ -2,20 +2,21 @@
 slug: quadruped-inspection-robots
 hub: interface
 title: Quadruped Inspection Robots
-summary: Fully autonomous inspection robots for substations, factories, and tunnels.
+summary: Four-legged robots that autonomously inspect substations, factories, and
+  hazardous sites
 permalink: https://www.envisioning.com/interface/quadruped-inspection-robots
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 9
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774888906/interface/technologies/6230b385-f517-4370-a8e2-59f0327bae39-google-gemini-3.1-flash-image-preview-btznpt.jpg
 ---
 
 # Quadruped Inspection Robots
 
 ## Summary
 
-Fully autonomous inspection robots for substations, factories, and tunnels.
+Four-legged robots that autonomously inspect substations, factories, and hazardous sites
 
 ## Description
 

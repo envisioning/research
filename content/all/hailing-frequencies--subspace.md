@@ -2,21 +2,21 @@
 slug: hailing-frequencies
 hub: subspace
 title: Hailing Frequencies
-summary: Standardized communication protocols for establishing initial contact with
-  unknown vessels and civilizations.
+summary: Standardized channels for establishing first contact between unknown spacefaring
+  civilizations
 permalink: https://www.envisioning.com/subspace/hailing-frequencies
 collection: communications
 trl: 8
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760215494/subspaceindex/technologies/hailing-frequencies.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908094/subspace/technologies/hailing-frequencies-openrouter-google-gemini-3.1-flash-image-preview-vayfnn.png
 ---
 
 # Hailing Frequencies
 
 ## Summary
 
-Standardized communication protocols for establishing initial contact with unknown vessels and civilizations.
+Standardized channels for establishing first contact between unknown spacefaring civilizations
 
 ## Description
 

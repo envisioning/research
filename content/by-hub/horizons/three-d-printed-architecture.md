@@ -2,9 +2,10 @@
 slug: three-d-printed-architecture
 hub: horizons
 title: 3D Printed Architecture
-summary: Automated construction of buildings using large-scale additive manufacturing.
+summary: Large-scale additive manufacturing systems that build structures layer by
+  layer from concrete or composites
 permalink: https://www.envisioning.com/horizons/three-d-printed-architecture
-collection: cities-mobility
+collection: hardware
 trl: 7
 impact: 5
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521265/horiz
 
 ## Summary
 
-Automated construction of buildings using large-scale additive manufacturing.
+Large-scale additive manufacturing systems that build structures layer by layer from concrete or composites
 
 ## Description
 

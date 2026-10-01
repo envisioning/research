@@ -2,7 +2,8 @@
 slug: geoengineering-governance-frameworks
 hub: meridian
 title: Geoengineering Governance Frameworks
-summary: International oversight of climate intervention.
+summary: International rules and monitoring systems for large-scale climate intervention
+  technologies
 permalink: https://www.envisioning.com/meridian/geoengineering-governance-frameworks
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435845/merid
 
 ## Summary
 
-International oversight of climate intervention.
+International rules and monitoring systems for large-scale climate intervention technologies
 
 ## Description
 

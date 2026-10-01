@@ -2,20 +2,21 @@
 slug: ferengi-rules-database
 hub: subspace
 title: Rules of Acquisition Database Nodes
-summary: Cultural AI training systems quoting and applying Ferengi doctrine dynamically.
+summary: AI systems that quote and apply fictional Ferengi business doctrine to real-world
+  scenarios
 permalink: https://www.envisioning.com/subspace/ferengi-rules-database
 collection: computing
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760266434/subspaceindex/technologies/ferengi-rules-database.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908892/subspace/technologies/ferengi-rules-database-openrouter-google-gemini-3.1-flash-image-preview-qyx2qb.png
 ---
 
 # Rules of Acquisition Database Nodes
 
 ## Summary
 
-Cultural AI training systems quoting and applying Ferengi doctrine dynamically.
+AI systems that quote and apply fictional Ferengi business doctrine to real-world scenarios
 
 ## Description
 

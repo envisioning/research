@@ -2,7 +2,8 @@
 slug: ai-relational-intelligence
 hub: eros
 title: AI Relational Intelligence Systems
-summary: Comprehensive AI for coaching, mediation, and conflict transformation.
+summary: AI systems that analyze communication patterns to support relationship coaching
+  and conflict resolution
 permalink: https://www.envisioning.com/eros/ai-relational-intelligence
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123953/eros/
 
 ## Summary
 
-Comprehensive AI for coaching, mediation, and conflict transformation.
+AI systems that analyze communication patterns to support relationship coaching and conflict resolution
 
 ## Description
 

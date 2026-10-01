@@ -2,7 +2,8 @@
 slug: green-ammonia-production
 hub: stratum
 title: Green Ammonia Production
-summary: Synthesizing ammonia from renewable hydrogen for fertilizer and energy.
+summary: Synthesizing ammonia using renewable hydrogen instead of fossil fuels for
+  fertilizer and energy storage
 permalink: https://www.envisioning.com/stratum/green-ammonia-production
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179169/strat
 
 ## Summary
 
-Synthesizing ammonia from renewable hydrogen for fertilizer and energy.
+Synthesizing ammonia using renewable hydrogen instead of fossil fuels for fertilizer and energy storage
 
 ## Description
 

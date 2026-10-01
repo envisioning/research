@@ -2,7 +2,8 @@
 slug: mmwave-small-cells
 hub: link
 title: mmWave Small Cells
-summary: Compact base stations operating in millimeter-wave bands for dense hotspots.
+summary: Low-power base stations using high-frequency spectrum to boost capacity in
+  crowded areas
 permalink: https://www.envisioning.com/link/mmwave-small-cells
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182468/link/
 
 ## Summary
 
-Compact base stations operating in millimeter-wave bands for dense hotspots.
+Low-power base stations using high-frequency spectrum to boost capacity in crowded areas
 
 ## Description
 

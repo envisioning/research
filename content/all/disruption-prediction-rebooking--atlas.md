@@ -2,7 +2,8 @@
 slug: disruption-prediction-rebooking
 hub: atlas
 title: Disruption Prediction & Auto-Rebooking
-summary: AI models predicting delays and automatically rebooking complex itineraries.
+summary: AI systems that forecast travel delays and automatically rebook passengers
+  on alternative routes
 permalink: https://www.envisioning.com/atlas/disruption-prediction-rebooking
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126204/atlas
 
 ## Summary
 
-AI models predicting delays and automatically rebooking complex itineraries.
+AI systems that forecast travel delays and automatically rebook passengers on alternative routes
 
 ## Description
 

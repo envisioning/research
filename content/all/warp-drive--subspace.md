@@ -2,21 +2,21 @@
 slug: warp-drive
 hub: subspace
 title: Warp Drive
-summary: Faster-than-light propulsion system that warps space-time to achieve superluminal
-  velocities.
+summary: Propulsion system that contracts and expands spacetime to enable faster-than-light
+  travel
 permalink: https://www.envisioning.com/subspace/warp-drive
 collection: propulsion
 trl: 2
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760207604/subspaceindex/technologies/warp-drive.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772910141/subspace/technologies/warp-drive-openrouter-google-gemini-3.1-flash-image-preview-rhulzw.png
 ---
 
 # Warp Drive
 
 ## Summary
 
-Faster-than-light propulsion system that warps space-time to achieve superluminal velocities.
+Propulsion system that contracts and expands spacetime to enable faster-than-light travel
 
 ## Description
 

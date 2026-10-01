@@ -2,7 +2,8 @@
 slug: digital-estate-platforms
 hub: eclipse
 title: Digital Estate Platforms
-summary: Collaborative platforms for managing digital assets and legacy planning.
+summary: Platforms for organizing and transferring digital assets, accounts, and memories
+  after death
 permalink: https://www.envisioning.com/eclipse/digital-estate-platforms
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126769/eclip
 
 ## Summary
 
-Collaborative platforms for managing digital assets and legacy planning.
+Platforms for organizing and transferring digital assets, accounts, and memories after death
 
 ## Description
 

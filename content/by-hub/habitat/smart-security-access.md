@@ -2,8 +2,8 @@
 slug: smart-security-access
 hub: habitat
 title: Smart Security & Access Control
-summary: Integrated identity, access, and surveillance systems for adaptive building
-  security.
+summary: Networked authentication and surveillance systems managing building access
+  through software-defined security
 permalink: https://www.envisioning.com/habitat/smart-security-access
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117940/habit
 
 ## Summary
 
-Integrated identity, access, and surveillance systems for adaptive building security.
+Networked authentication and surveillance systems managing building access through software-defined security
 
 ## Description
 

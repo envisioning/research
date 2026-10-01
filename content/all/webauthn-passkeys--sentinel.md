@@ -2,7 +2,8 @@
 slug: webauthn-passkeys
 hub: sentinel
 title: WebAuthn & Passkeys
-summary: Public-key authentication replacing passwords with phishing-resistant login.
+summary: Cryptographic authentication using biometrics or security keys instead of
+  passwords
 permalink: https://www.envisioning.com/sentinel/webauthn-passkeys
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461765/senti
 
 ## Summary
 
-Public-key authentication replacing passwords with phishing-resistant login.
+Cryptographic authentication using biometrics or security keys instead of passwords
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: mass-customization-platforms
 hub: quadrant
 title: Mass Customization Platforms
-summary: Profitable production at lot-size-one with zero retooling.
+summary: Manufacturing systems that produce unique products economically without retooling
+  between units
 permalink: https://www.envisioning.com/quadrant/mass-customization-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127271/quadr
 
 ## Summary
 
-Profitable production at lot-size-one with zero retooling.
+Manufacturing systems that produce unique products economically without retooling between units
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: satellite-global-connectivity
 hub: atlas
 title: Satellite Global Connectivity
-summary: Low Earth orbit constellations enabling internet access in remote destinations.
+summary: Low Earth orbit satellite networks providing internet access to remote and
+  underserved regions
 permalink: https://www.envisioning.com/atlas/satellite-global-connectivity
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125655/atlas
 
 ## Summary
 
-Low Earth orbit constellations enabling internet access in remote destinations.
+Low Earth orbit satellite networks providing internet access to remote and underserved regions
 
 ## Description
 

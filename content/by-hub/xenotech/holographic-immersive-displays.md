@@ -2,22 +2,21 @@
 slug: holographic-immersive-displays
 hub: xenotech
 title: Holographic Display
-summary: Advanced visual display systems featuring transparent visors, wall-to-wall
-  projections, and three-dimensional holographic interfaces reported in entity encounters,
-  alongside emerging volumetric display and augmented reality technologies.
+summary: Volumetric projection and AR systems creating 3D interactive environments
+  without screens
 permalink: https://www.envisioning.com/xenotech/holographic-immersive-displays
 collection: perception-cognition
 trl: 4
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761735071/xenotech/technologies/holographic-immersive-displays.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898436/xenotech/technologies/holographic-immersive-displays-openrouter-google-gemini-3.1-flash-image-preview-b3e9v0.png
 ---
 
 # Holographic Display
 
 ## Summary
 
-Advanced visual display systems featuring transparent visors, wall-to-wall projections, and three-dimensional holographic interfaces reported in entity encounters, alongside emerging volumetric display and augmented reality technologies.
+Volumetric projection and AR systems creating 3D interactive environments without screens
 
 ## Description
 

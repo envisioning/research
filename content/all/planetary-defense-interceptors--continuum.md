@@ -2,7 +2,8 @@
 slug: planetary-defense-interceptors
 hub: continuum
 title: Planetary Defense Interceptors
-summary: Kinetic impactors and lasers for asteroid deflection.
+summary: Spacecraft and directed-energy systems designed to deflect hazardous asteroids
+  before impact
 permalink: https://www.envisioning.com/continuum/planetary-defense-interceptors
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124169/conti
 
 ## Summary
 
-Kinetic impactors and lasers for asteroid deflection.
+Spacecraft and directed-energy systems designed to deflect hazardous asteroids before impact
 
 ## Description
 

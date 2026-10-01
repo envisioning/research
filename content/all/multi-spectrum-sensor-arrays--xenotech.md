@@ -2,21 +2,21 @@
 slug: multi-spectrum-sensor-arrays
 hub: xenotech
 title: Sensor Arrays
-summary: Integrated sensing systems spanning electromagnetic spectrum and beyond—multi-domain
-  detection, quantum sensors, and non-EM sensing modalities.
+summary: Multi-domain detection systems operating across electromagnetic and non-EM
+  sensing modalities
 permalink: https://www.envisioning.com/xenotech/multi-spectrum-sensor-arrays
 collection: defense-surveillance
 trl: 5
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760985519/xenotech/technologies/multi-spectrum-sensor-arrays.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903089/xenotech/technologies/multi-spectrum-sensor-arrays-openrouter-google-gemini-3.1-flash-image-preview-gwmo3p.png
 ---
 
 # Sensor Arrays
 
 ## Summary
 
-Integrated sensing systems spanning electromagnetic spectrum and beyond—multi-domain detection, quantum sensors, and non-EM sensing modalities.
+Multi-domain detection systems operating across electromagnetic and non-EM sensing modalities
 
 ## Description
 

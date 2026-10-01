@@ -2,7 +2,8 @@
 slug: workplace-upskilling-ecosystems
 hub: axiom
 title: Workplace Upskilling Ecosystems
-summary: AI pathways integrated with job tasks and apprenticeship sims.
+summary: AI-driven learning pathways embedded in work environments with real-time
+  skill development
 permalink: https://www.envisioning.com/axiom/workplace-upskilling-ecosystems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996063/axiom
 
 ## Summary
 
-AI pathways integrated with job tasks and apprenticeship sims.
+AI-driven learning pathways embedded in work environments with real-time skill development
 
 ## Description
 

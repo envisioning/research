@@ -2,7 +2,7 @@
 slug: autonomous-freight-corridors
 hub: vector
 title: Autonomous Freight Corridors
-summary: Dedicated lanes and routes for driverless long-haul trucking.
+summary: Dedicated highway lanes and routes optimized for driverless long-haul trucks
 permalink: https://www.envisioning.com/vector/autonomous-freight-corridors
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177460/vecto
 
 ## Summary
 
-Dedicated lanes and routes for driverless long-haul trucking.
+Dedicated highway lanes and routes optimized for driverless long-haul trucks
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: sensory-experience-optimization-toolkits
 hub: impulse
 title: Sensory Experience Optimization Toolkits
-summary: Design tools tuning color, sound, and scent for affect.
+summary: Design platforms that tune color, sound, scent, and texture to shape emotional
+  and behavioral responses
 permalink: https://www.envisioning.com/impulse/sensory-experience-optimization-toolkits
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133803/impul
 
 ## Summary
 
-Design tools tuning color, sound, and scent for affect.
+Design platforms that tune color, sound, scent, and texture to shape emotional and behavioral responses
 
 ## Description
 

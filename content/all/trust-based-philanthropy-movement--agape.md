@@ -3,7 +3,6 @@ slug: trust-based-philanthropy-movement
 hub: agape
 title: Trust-Based Philanthropy Movement
 summary: Growing movement toward unrestricted, multi-year funding with reduced reporting
-  burdens and greater grantee autonomy.
 permalink: https://www.envisioning.com/agape/trust-based-philanthropy-movement
 collection: organizational-forms-ecosystems
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368550/agape
 
 ## Summary
 
-Growing movement toward unrestricted, multi-year funding with reduced reporting burdens and greater grantee autonomy.
+Growing movement toward unrestricted, multi-year funding with reduced reporting
 
 ## Description
 

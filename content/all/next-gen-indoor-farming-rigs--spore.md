@@ -2,7 +2,8 @@
 slug: next-gen-indoor-farming-rigs
 hub: spore
 title: Next-Gen Indoor Farming Rigs
-summary: High-efficiency LED stacks and vertical farm modules tuned to plant photobiology.
+summary: Modular vertical farms with tuned LED spectra and automated climate control
+  for soil-free crop production
 permalink: https://www.envisioning.com/spore/next-gen-indoor-farming-rigs
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095878/spore
 
 ## Summary
 
-High-efficiency LED stacks and vertical farm modules tuned to plant photobiology.
+Modular vertical farms with tuned LED spectra and automated climate control for soil-free crop production
 
 ## Description
 

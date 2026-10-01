@@ -2,7 +2,7 @@
 slug: microbiome-skincare-platforms
 hub: aura
 title: Microbiome Skincare
-summary: Probiotic and prebiotic formulations rebuilding skin flora.
+summary: Personalized formulations that rebalance skin bacteria for healthier complexion
 permalink: https://www.envisioning.com/aura/microbiome-skincare-platforms
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074602/aura/
 
 ## Summary
 
-Probiotic and prebiotic formulations rebuilding skin flora.
+Personalized formulations that rebalance skin bacteria for healthier complexion
 
 ## Description
 

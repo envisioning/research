@@ -2,7 +2,8 @@
 slug: variational-quantum-ml-frameworks
 hub: superposition
 title: Variational Quantum ML Frameworks
-summary: Toolkits for building hybrid variational algorithms on NISQ hardware.
+summary: Software toolkits for building hybrid quantum-classical algorithms on noisy
+  quantum hardware
 permalink: https://www.envisioning.com/superposition/variational-quantum-ml-frameworks
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073968/super
 
 ## Summary
 
-Toolkits for building hybrid variational algorithms on NISQ hardware.
+Software toolkits for building hybrid quantum-classical algorithms on noisy quantum hardware
 
 ## Description
 

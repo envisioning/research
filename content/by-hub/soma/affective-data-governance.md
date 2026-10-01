@@ -2,7 +2,8 @@
 slug: affective-data-governance
 hub: soma
 title: Affective Data Governance
-summary: Policies and tooling for collecting, sharing, and deleting emotional data.
+summary: Frameworks for managing how emotional and behavioral data is collected, used,
+  and protected
 permalink: https://www.envisioning.com/soma/affective-data-governance
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179167/soma/
 
 ## Summary
 
-Policies and tooling for collecting, sharing, and deleting emotional data.
+Frameworks for managing how emotional and behavioral data is collected, used, and protected
 
 ## Description
 

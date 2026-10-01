@@ -2,7 +2,8 @@
 slug: cranial-neuromodulation-for-aesthetics
 hub: aura
 title: Cranial Neuromodulation for Aesthetics
-summary: Non-invasive brain stimulation for stress and behavior change.
+summary: Non-invasive brain stimulation to reduce stress and improve skin health through
+  neural modulation
 permalink: https://www.envisioning.com/aura/cranial-neuromodulation-for-aesthetics
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990880/aura/
 
 ## Summary
 
-Non-invasive brain stimulation for stress and behavior change.
+Non-invasive brain stimulation to reduce stress and improve skin health through neural modulation
 
 ## Description
 

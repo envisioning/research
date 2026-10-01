@@ -2,21 +2,20 @@
 slug: tectonic-piezo-earth-lights
 hub: xenotech
 title: Fault-Line Plasma
-summary: Tectonic stress producing luminous atmospheric phenomena via rock piezoelectricity—documented
-  earth lights linked to seismic activity.
+summary: Luminous atmospheric phenomena linked to tectonic stress and seismic activity
 permalink: https://www.envisioning.com/xenotech/tectonic-piezo-earth-lights
 collection: propulsion-physics
 trl: 5
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760821806/xenotech/technologies/georesonant-networks.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898328/xenotech/technologies/tectonic-piezo-earth-lights-openrouter-google-gemini-3.1-flash-image-preview-ays096.png
 ---
 
 # Fault-Line Plasma
 
 ## Summary
 
-Tectonic stress producing luminous atmospheric phenomena via rock piezoelectricity—documented earth lights linked to seismic activity.
+Luminous atmospheric phenomena linked to tectonic stress and seismic activity
 
 ## Description
 

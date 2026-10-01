@@ -2,8 +2,8 @@
 slug: immune-repertoire-maps
 hub: epoch
 title: AI-Driven Immune Repertoire Maps
-summary: Models anticipating immune aging, thymus shrinkage dynamics, and T-cell diversity
-  loss.
+summary: AI models that predict immune aging patterns, thymus decline, and T-cell
+  diversity loss over time
 permalink: https://www.envisioning.com/epoch/immune-repertoire-maps
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772619871/epoch
 
 ## Summary
 
-Models anticipating immune aging, thymus shrinkage dynamics, and T-cell diversity loss.
+AI models that predict immune aging patterns, thymus decline, and T-cell diversity loss over time
 
 ## Description
 

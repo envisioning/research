@@ -2,7 +2,8 @@
 slug: alignment-distributed-cognition
 hub: wintermute
 title: Alignment in Distributed Cognition
-summary: Ensuring stable intent across modular agent collectives.
+summary: Keeping multi-agent AI systems aligned to shared goals as they coordinate
+  and self-improve
 permalink: https://www.envisioning.com/wintermute/alignment-distributed-cognition
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763986487/winte
 
 ## Summary
 
-Ensuring stable intent across modular agent collectives.
+Keeping multi-agent AI systems aligned to shared goals as they coordinate and self-improve
 
 ## Description
 

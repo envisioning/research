@@ -2,7 +2,8 @@
 slug: cognitive-bms
 hub: habitat
 title: Cognitive BMS
-summary: AI-driven building management systems for predictive climate and energy control.
+summary: AI systems that learn building patterns to optimize climate and energy use
+  automatically
 permalink: https://www.envisioning.com/habitat/cognitive-bms
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117523/habit
 
 ## Summary
 
-AI-driven building management systems for predictive climate and energy control.
+AI systems that learn building patterns to optimize climate and energy use automatically
 
 ## Description
 

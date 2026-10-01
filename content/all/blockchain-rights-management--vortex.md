@@ -2,7 +2,8 @@
 slug: blockchain-rights-management
 hub: vortex
 title: Blockchain Rights Management
-summary: Decentralized ledgers for IP tracking and micropayments.
+summary: Distributed ledgers that track content ownership, licensing, and automate
+  royalty payments
 permalink: https://www.envisioning.com/vortex/blockchain-rights-management
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126790/vorte
 
 ## Summary
 
-Decentralized ledgers for IP tracking and micropayments.
+Distributed ledgers that track content ownership, licensing, and automate royalty payments
 
 ## Description
 

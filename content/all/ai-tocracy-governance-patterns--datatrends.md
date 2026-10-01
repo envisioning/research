@@ -2,8 +2,8 @@
 slug: ai-tocracy-governance-patterns
 hub: datatrends
 title: The Emergence of Algorithmic Governance Patterns
-summary: Examining how AI and algorithms are reshaping governance structures, decision-making
-  authority, and power dynamics in organizations and societies.
+summary: How AI systems are reshaping organizational and governmental decision-making
+  and power structures
 permalink: https://www.envisioning.com/datatrends/ai-tocracy-governance-patterns
 collection: management-foundations
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768160301/datat
 
 ## Summary
 
-Examining how AI and algorithms are reshaping governance structures, decision-making authority, and power dynamics in organizations and societies.
+How AI systems are reshaping organizational and governmental decision-making and power structures
 
 ## Description
 

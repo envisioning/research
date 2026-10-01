@@ -2,21 +2,21 @@
 slug: ai-powered-cooking-automation
 hub: interface
 title: AI-Powered Cooking Automation
-summary: Generative AI combined with dynamic cooking automation for fully automated
-  grilling and recipe generation.
+summary: AI systems that generate recipes and autonomously control cooking parameters
+  in real-time
 permalink: https://www.envisioning.com/interface/ai-powered-cooking-automation
-collection: consumer-electronics-platforms
+collection: applications
 trl: 6
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882966/interface/technologies/28b07cc3-a572-498c-815e-099c89d5b1d4-google-gemini-3.1-flash-image-preview-l9gb22.jpg
 ---
 
 # AI-Powered Cooking Automation
 
 ## Summary
 
-Generative AI combined with dynamic cooking automation for fully automated grilling and recipe generation.
+AI systems that generate recipes and autonomously control cooking parameters in real-time
 
 ## Description
 

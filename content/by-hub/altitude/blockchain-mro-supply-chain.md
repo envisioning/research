@@ -2,7 +2,8 @@
 slug: blockchain-mro-supply-chain
 hub: altitude
 title: Blockchain for MRO & Supply Chain Provenance
-summary: Immutable ledgers for parts traceability, maintenance records, and AOG logistics.
+summary: Distributed ledgers tracking aerospace parts, maintenance history, and emergency
+  logistics
 permalink: https://www.envisioning.com/altitude/blockchain-mro-supply-chain
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642658/altit
 
 ## Summary
 
-Immutable ledgers for parts traceability, maintenance records, and AOG logistics.
+Distributed ledgers tracking aerospace parts, maintenance history, and emergency logistics
 
 ## Description
 

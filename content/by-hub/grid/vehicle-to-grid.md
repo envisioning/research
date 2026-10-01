@@ -2,7 +2,8 @@
 slug: vehicle-to-grid
 hub: grid
 title: Vehicle-to-Grid (V2G)
-summary: Bi-directional charging allowing EVs to discharge power back to the grid.
+summary: Bi-directional charging that lets electric vehicles supply stored power back
+  to the grid
 permalink: https://www.envisioning.com/grid/vehicle-to-grid
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116590/grid/
 
 ## Summary
 
-Bi-directional charging allowing EVs to discharge power back to the grid.
+Bi-directional charging that lets electric vehicles supply stored power back to the grid
 
 ## Description
 

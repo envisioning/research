@@ -2,7 +2,8 @@
 slug: institutional-defi
 hub: vault
 title: Institutional DeFi Protocols
-summary: Compliant, permissioned decentralized finance.
+summary: Blockchain finance platforms with built-in compliance and identity verification
+  for regulated institutions
 permalink: https://www.envisioning.com/vault/institutional-defi
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128405/vault
 
 ## Summary
 
-Compliant, permissioned decentralized finance.
+Blockchain finance platforms with built-in compliance and identity verification for regulated institutions
 
 ## Description
 

@@ -2,10 +2,8 @@
 slug: catalogo-materiais-baixo-carbono-ciclo-vida
 hub: moradia
 title: Catálogo de Materiais de Baixo Carbono e Ciclo de Vida
-summary: Sistema integrado de seleção e especificação de materiais construtivos baseado
-  em ciclo de vida, pegada de carbono e desempenho ambiental, abrangendo madeira engenheirada
-  (CLT), biocompósitos, aço de baixo carbono, agregados reciclados e outros materiais
-  sustentáveis.
+summary: Sistema de seleção de materiais construtivos por pegada de carbono e desempenho
+  ambiental
 permalink: https://www.envisioning.com/moradia/catalogo-materiais-baixo-carbono-ciclo-vida
 collection: materiais-componentes
 trl: 3
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326703/forma
 
 ## Summary
 
-Sistema integrado de seleção e especificação de materiais construtivos baseado em ciclo de vida, pegada de carbono e desempenho ambiental, abrangendo madeira engenheirada (CLT), biocompósitos, aço de baixo carbono, agregados reciclados e outros materiais sustentáveis.
+Sistema de seleção de materiais construtivos por pegada de carbono e desempenho ambiental
 
 ## Description
 

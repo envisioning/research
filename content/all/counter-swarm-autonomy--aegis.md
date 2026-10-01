@@ -2,7 +2,8 @@
 slug: counter-swarm-autonomy
 hub: aegis
 title: Counter-Swarm and Counter-Autonomy
-summary: Interceptor drones and AI systems identifying hostile signatures.
+summary: Systems that detect, track, and neutralize coordinated drone swarms and autonomous
+  threats
 permalink: https://www.envisioning.com/aegis/counter-swarm-autonomy
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010100/aegis
 
 ## Summary
 
-Interceptor drones and AI systems identifying hostile signatures.
+Systems that detect, track, and neutralize coordinated drone swarms and autonomous threats
 
 ## Description
 

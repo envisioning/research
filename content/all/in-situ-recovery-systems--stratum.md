@@ -2,8 +2,8 @@
 slug: in-situ-recovery-systems
 hub: stratum
 title: In-Situ Recovery Injection Systems
-summary: Subsurface extraction via solution injection, eliminating open pits and waste
-  rock.
+summary: Extracts minerals by injecting solutions underground, avoiding excavation
+  and surface disruption
 permalink: https://www.envisioning.com/stratum/in-situ-recovery-systems
 collection: hardware
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133110/strat
 
 ## Summary
 
-Subsurface extraction via solution injection, eliminating open pits and waste rock.
+Extracts minerals by injecting solutions underground, avoiding excavation and surface disruption
 
 ## Description
 

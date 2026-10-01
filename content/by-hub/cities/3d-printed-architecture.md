@@ -2,14 +2,10 @@
 slug: 3d-printed-architecture
 hub: cities
 title: 3D Printed Architecture
-summary: A construction technology that uses large-scale 3D printers to build structures
-  layer by layer from digital designs. This method addresses critical urban problems,
-  including high construction costs, long building timelines, environmental degradation,
-  and the global housing shortage. It is particularly transformative in providing
-  affordable housing solutions quickly and efficiently, crucial for the urgent needs
-  of growing urban populations and disaster relief scenarios.
+summary: Large-scale 3D printers that construct buildings layer by layer from digital
+  designs
 permalink: https://www.envisioning.com/cities/3d-printed-architecture
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: hardware
 trl: 7
 impact: 2
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719395510-3d-printed-architect
 
 ## Summary
 
-A construction technology that uses large-scale 3D printers to build structures layer by layer from digital designs. This method addresses critical urban problems, including high construction costs, long building timelines, environmental degradation, and the global housing shortage. It is particularly transformative in providing affordable housing solutions quickly and efficiently, crucial for the urgent needs of growing urban populations and disaster relief scenarios.
+Large-scale 3D printers that construct buildings layer by layer from digital designs
 
 ## Description
 

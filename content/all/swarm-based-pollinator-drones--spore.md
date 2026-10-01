@@ -2,7 +2,8 @@
 slug: swarm-based-pollinator-drones
 hub: spore
 title: Swarm-Based Pollinator Drones
-summary: Micro-drones mimicking bee behavior to autonomously pollinate crops.
+summary: Autonomous micro-drones that transfer pollen across crops using swarm coordination
+  and computer vision
 permalink: https://www.envisioning.com/spore/swarm-based-pollinator-drones
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095951/spore
 
 ## Summary
 
-Micro-drones mimicking bee behavior to autonomously pollinate crops.
+Autonomous micro-drones that transfer pollen across crops using swarm coordination and computer vision
 
 ## Description
 

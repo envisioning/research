@@ -2,7 +2,8 @@
 slug: undersea-habitat-systems
 hub: atlas
 title: Undersea Habitat Systems
-summary: Pressurized underwater lodges allowing extended stays without diving gear.
+summary: Pressurized underwater structures enabling extended stays beneath the ocean
+  without diving gear
 permalink: https://www.envisioning.com/atlas/undersea-habitat-systems
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123988/atlas
 
 ## Summary
 
-Pressurized underwater lodges allowing extended stays without diving gear.
+Pressurized underwater structures enabling extended stays beneath the ocean without diving gear
 
 ## Description
 

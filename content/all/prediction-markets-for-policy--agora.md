@@ -8,7 +8,7 @@ collection: software
 trl: 5
 impact: 4
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898464/agora/technologies/bcf9d1f5-1157-430f-8095-40212afe747c-google-gemini-3.1-flash-image-preview-a2z5jl.png
 ---
 
 # Prediction Markets for Policy (Futarchy)

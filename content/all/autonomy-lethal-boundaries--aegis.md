@@ -2,7 +2,8 @@
 slug: autonomy-lethal-boundaries
 hub: aegis
 title: Autonomy & Lethal Decision Boundaries
-summary: Frameworks defining human control in autonomous weapon systems.
+summary: Defining where humans must intervene in autonomous weapon targeting and engagement
+  decisions
 permalink: https://www.envisioning.com/aegis/autonomy-lethal-boundaries
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010477/aegis
 
 ## Summary
 
-Frameworks defining human control in autonomous weapon systems.
+Defining where humans must intervene in autonomous weapon targeting and engagement decisions
 
 ## Description
 

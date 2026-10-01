@@ -2,19 +2,21 @@
 slug: active-structures
 hub: habitat
 title: Active Structures
-summary: Adaptive building systems that respond to conditions; concepts include space fountains.
+summary: Building systems that adapt in real time to wind, seismic loads, temperature,
+  and occupancy
 permalink: https://www.envisioning.com/habitat/active-structures
 collection: applications
 trl: 3
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898158/habitat/technologies/aab6e93a-c756-44be-b941-07d3143750b9-google-gemini-3.1-flash-image-preview-vg98c3.jpg
 ---
 
 # Active Structures
 
 ## Summary
 
-Adaptive building systems that respond to conditions; concepts include space fountains.
+Building systems that adapt in real time to wind, seismic loads, temperature, and occupancy
 
 ## Description
 

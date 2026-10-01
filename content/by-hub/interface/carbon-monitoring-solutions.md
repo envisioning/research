@@ -2,14 +2,13 @@
 slug: carbon-monitoring-solutions
 hub: interface
 title: Carbon Monitoring Solutions
-summary: AI-powered platforms for real-time carbon emission monitoring using non-intrusive
-  sensors and AI analytics to measure ship and port emissions, empowering global ports
-  to achieve greener operations and ESG transformation.
+summary: Real-time emission tracking using non-intrusive sensors and AI analytics
+  for ports and industrial facilities
 permalink: https://www.envisioning.com/interface/carbon-monitoring-solutions
-collection: ambient-contextual-systems
+collection: applications
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743434/interface/technologies/carbon-monitoring-solutions-google-gemini-3-pro-image-preview-izh2ds.png
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743434/inter
 
 ## Summary
 
-AI-powered platforms for real-time carbon emission monitoring using non-intrusive sensors and AI analytics to measure ship and port emissions, empowering global ports to achieve greener operations and ESG transformation.
+Real-time emission tracking using non-intrusive sensors and AI analytics for ports and industrial facilities
 
 ## Description
 

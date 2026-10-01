@@ -2,7 +2,8 @@
 slug: autonomous-farm-os
 hub: spore
 title: Autonomous Farm OS
-summary: Full-stack decision systems using predictive models for yield optimization.
+summary: AI-driven platform coordinating sensors, machinery, and inputs across entire
+  farm operations
 permalink: https://www.envisioning.com/spore/autonomous-farm-os
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179719/spore
 
 ## Summary
 
-Full-stack decision systems using predictive models for yield optimization.
+AI-driven platform coordinating sensors, machinery, and inputs across entire farm operations
 
 ## Description
 

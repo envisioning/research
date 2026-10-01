@@ -2,7 +2,8 @@
 slug: directed-energy-deposition
 hub: forge
 title: Directed Energy Deposition (DED)
-summary: Large-scale metal additive manufacturing via laser or electron beam deposition.
+summary: Metal 3D printing that builds or repairs large parts using focused energy
+  beams and wire or powder feedstock
 permalink: https://www.envisioning.com/forge/directed-energy-deposition
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177831/forge
 
 ## Summary
 
-Large-scale metal additive manufacturing via laser or electron beam deposition.
+Metal 3D printing that builds or repairs large parts using focused energy beams and wire or powder feedstock
 
 ## Description
 

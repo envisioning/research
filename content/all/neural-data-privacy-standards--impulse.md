@@ -2,7 +2,8 @@
 slug: neural-data-privacy-standards
 hub: impulse
 title: Neural Data Privacy Standards
-summary: Protocols securing brain-computer interface data.
+summary: Frameworks protecting brain-computer interface data from unauthorized access
+  and misuse
 permalink: https://www.envisioning.com/impulse/neural-data-privacy-standards
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435020/impul
 
 ## Summary
 
-Protocols securing brain-computer interface data.
+Frameworks protecting brain-computer interface data from unauthorized access and misuse
 
 ## Description
 

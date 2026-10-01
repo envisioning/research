@@ -2,7 +2,8 @@
 slug: qkd-networks
 hub: superposition
 title: Quantum Key Distribution (QKD) Networks
-summary: Physical networks using quantum states to share encryption keys.
+summary: Secure communication networks that distribute encryption keys using quantum
+  states of light
 permalink: https://www.envisioning.com/superposition/qkd-networks
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181129/super
 
 ## Summary
 
-Physical networks using quantum states to share encryption keys.
+Secure communication networks that distribute encryption keys using quantum states of light
 
 ## Description
 

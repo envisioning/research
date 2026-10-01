@@ -2,7 +2,8 @@
 slug: fintech-inclusion-analytics
 hub: datatrends
 title: Fintech Alternative Credit Scoring
-summary: Using mobile and e-commerce transactions to score underserved populations.
+summary: Assessing creditworthiness using mobile and e-commerce data for unbanked
+  populations
 permalink: https://www.envisioning.com/datatrends/fintech-inclusion-analytics
 collection: analytics-in-action
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373228/datat
 
 ## Summary
 
-Using mobile and e-commerce transactions to score underserved populations.
+Assessing creditworthiness using mobile and e-commerce data for unbanked populations
 
 ## Description
 

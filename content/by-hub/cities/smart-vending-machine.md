@@ -2,16 +2,10 @@
 slug: smart-vending-machine
 hub: cities
 title: Smart Vending Machine
-summary: By offering a versatile, automated solution for the distribution of essential
-  goods, this technology significantly reduces the need for 24-hour staffing in retail
-  environments, providing round-the-clock access to items such as fresh food, healthcare
-  products, and hygiene supplies. These advanced vending machines are equipped with
-  features like advanced inventory management, sensors and contactless payments. They
-  support small businesses by offering a cost-effective retail platform and contribute
-  to urban resilience by maintaining service continuity during emergencies or economic
-  disruptions.
+summary: Automated retail kiosks providing 24/7 access to essentials like food, medicine,
+  and hygiene products
 permalink: https://www.envisioning.com/cities/smart-vending-machine
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: hardware
 trl: 9
 impact: 4
 investment: 3
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869583-smart-vending-machin
 
 ## Summary
 
-By offering a versatile, automated solution for the distribution of essential goods, this technology significantly reduces the need for 24-hour staffing in retail environments, providing round-the-clock access to items such as fresh food, healthcare products, and hygiene supplies. These advanced vending machines are equipped with features like advanced inventory management, sensors and contactless payments. They support small businesses by offering a cost-effective retail platform and contribute to urban resilience by maintaining service continuity during emergencies or economic disruptions.
+Automated retail kiosks providing 24/7 access to essentials like food, medicine, and hygiene products
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: soil-moisture-sensor-networks
 hub: spore
 title: Soil Moisture Sensor Networks
-summary: Distributed probes feeding precision irrigation systems.
+summary: Wireless probes that measure soil water levels to trigger precision irrigation
 permalink: https://www.envisioning.com/spore/soil-moisture-sensor-networks
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179590/spore
 
 ## Summary
 
-Distributed probes feeding precision irrigation systems.
+Wireless probes that measure soil water levels to trigger precision irrigation
 
 ## Description
 

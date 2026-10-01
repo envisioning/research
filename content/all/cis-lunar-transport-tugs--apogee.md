@@ -2,7 +2,8 @@
 slug: cis-lunar-transport-tugs
 hub: apogee
 title: Cislunar Transport Tugs
-summary: Reusable vehicles shuttling cargo between Earth orbit, lunar orbit, and surface.
+summary: Reusable spacecraft shuttling payloads between Earth orbit, lunar orbit,
+  and the Moon
 permalink: https://www.envisioning.com/apogee/cis-lunar-transport-tugs
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012402/apoge
 
 ## Summary
 
-Reusable vehicles shuttling cargo between Earth orbit, lunar orbit, and surface.
+Reusable spacecraft shuttling payloads between Earth orbit, lunar orbit, and the Moon
 
 ## Description
 

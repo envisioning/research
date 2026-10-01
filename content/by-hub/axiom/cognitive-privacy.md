@@ -2,7 +2,8 @@
 slug: cognitive-privacy
 hub: axiom
 title: Cognitive Privacy & Autonomy
-summary: Boundaries on neural data and manipulation.
+summary: Ethical and legal protections for neural data and cognitive processes in
+  learning technologies
 permalink: https://www.envisioning.com/axiom/cognitive-privacy
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998470/axiom
 
 ## Summary
 
-Boundaries on neural data and manipulation.
+Ethical and legal protections for neural data and cognitive processes in learning technologies
 
 ## Description
 

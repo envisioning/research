@@ -2,9 +2,10 @@
 slug: biomimicry
 hub: horizons
 title: Biomimicry
-summary: Sustainable design approach drawing inspiration from nature's forms and processes.
+summary: Design methodology that applies nature's proven strategies to solve human
+  engineering and sustainability challenges
 permalink: https://www.envisioning.com/horizons/biomimicry
-collection: life-health
+collection: applications
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521067/horiz
 
 ## Summary
 
-Sustainable design approach drawing inspiration from nature's forms and processes.
+Design methodology that applies nature's proven strategies to solve human engineering and sustainability challenges
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-bias-detection
 hub: quadrant
 title: AI Bias Detection & Mitigation
-summary: Auditing tools for fairness in industrial AI systems.
+summary: Frameworks that identify and correct discriminatory patterns in industrial
+  machine learning models
 permalink: https://www.envisioning.com/quadrant/ai-bias-detection
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123926/quadr
 
 ## Summary
 
-Auditing tools for fairness in industrial AI systems.
+Frameworks that identify and correct discriminatory patterns in industrial machine learning models
 
 ## Description
 

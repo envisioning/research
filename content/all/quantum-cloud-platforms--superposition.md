@@ -2,7 +2,8 @@
 slug: quantum-cloud-platforms
 hub: superposition
 title: Quantum Cloud Access Platforms
-summary: Unified cloud interfaces providing remote access to diverse quantum backends.
+summary: Cloud platforms offering unified API access to multiple quantum computing
+  backends
 permalink: https://www.envisioning.com/superposition/quantum-cloud-platforms
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181255/super
 
 ## Summary
 
-Unified cloud interfaces providing remote access to diverse quantum backends.
+Cloud platforms offering unified API access to multiple quantum computing backends
 
 ## Description
 

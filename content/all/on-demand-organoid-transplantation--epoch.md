@@ -2,8 +2,8 @@
 slug: on-demand-organoid-transplantation
 hub: epoch
 title: On-Demand Organoid Transplantation
-summary: Patient-specific mini-organs grown from stem cells to rejuvenate or replace
-  failing tissues.
+summary: Lab-grown mini-organs from a patient's own cells for tissue repair and organ
+  replacement
 permalink: https://www.envisioning.com/epoch/on-demand-organoid-transplantation
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477625/epoch
 
 ## Summary
 
-Patient-specific mini-organs grown from stem cells to rejuvenate or replace failing tissues.
+Lab-grown mini-organs from a patient's own cells for tissue repair and organ replacement
 
 ## Description
 

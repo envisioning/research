@@ -2,7 +2,8 @@
 slug: self-healing-fuselage-materials
 hub: altitude
 title: Self-Healing Fuselage Materials
-summary: Bio-mimetic composites that automatically repair micro-cracks and damage.
+summary: Composites that autonomously repair micro-cracks in aircraft structures using
+  embedded healing agents
 permalink: https://www.envisioning.com/altitude/self-healing-fuselage-materials
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649213/altit
 
 ## Summary
 
-Bio-mimetic composites that automatically repair micro-cracks and damage.
+Composites that autonomously repair micro-cracks in aircraft structures using embedded healing agents
 
 ## Description
 

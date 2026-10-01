@@ -2,7 +2,7 @@
 slug: targeted-dream-incubation
 hub: prism
 title: Targeted Dream Incubation
-summary: Audio-visual protocols for guiding dream content during sleep states.
+summary: Audio-visual cues timed to sleep stages to guide dream narratives
 permalink: https://www.envisioning.com/prism/targeted-dream-incubation
 collection: applications
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074492/pulse
 
 ## Summary
 
-Audio-visual protocols for guiding dream content during sleep states.
+Audio-visual cues timed to sleep stages to guide dream narratives
 
 ## Description
 

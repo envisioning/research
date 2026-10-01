@@ -2,7 +2,8 @@
 slug: on-body-edge-computing-textiles
 hub: fabric
 title: On-Body Edge Computing Textiles
-summary: E-textiles with integrated logic for real-time data processing.
+summary: Smart fabrics with embedded processors that analyze sensor data locally in
+  real time
 permalink: https://www.envisioning.com/fabric/on-body-edge-computing-textiles
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059462/threa
 
 ## Summary
 
-E-textiles with integrated logic for real-time data processing.
+Smart fabrics with embedded processors that analyze sensor data locally in real time
 
 ## Description
 

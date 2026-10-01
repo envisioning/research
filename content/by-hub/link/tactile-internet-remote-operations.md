@@ -2,7 +2,8 @@
 slug: tactile-internet-remote-operations
 hub: link
 title: Tactile Internet & Remote Operations
-summary: Ultra-reliable, ultra-low-latency links for remote control of machines.
+summary: Real-time remote control of physical systems with tactile feedback over ultra-low-latency
+  networks
 permalink: https://www.envisioning.com/link/tactile-internet-remote-operations
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441611/link/
 
 ## Summary
 
-Ultra-reliable, ultra-low-latency links for remote control of machines.
+Real-time remote control of physical systems with tactile feedback over ultra-low-latency networks
 
 ## Description
 

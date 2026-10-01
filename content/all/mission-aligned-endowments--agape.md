@@ -3,7 +3,6 @@ slug: mission-aligned-endowments
 hub: agape
 title: Mission-Aligned Endowments & 100% Deployment
 summary: Growth of mission-aligned endowments and debates around 100% deployment,
-  challenging the perpetuity model of foundations.
 permalink: https://www.envisioning.com/agape/mission-aligned-endowments
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419189/phila
 
 ## Summary
 
-Growth of mission-aligned endowments and debates around 100% deployment, challenging the perpetuity model of foundations.
+Growth of mission-aligned endowments and debates around 100% deployment,
 
 ## Description
 

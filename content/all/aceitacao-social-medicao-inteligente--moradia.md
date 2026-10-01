@@ -2,8 +2,8 @@
 slug: aceitacao-social-medicao-inteligente
 hub: moradia
 title: Aceitação Social de Medição Inteligente
-summary: Confiança do usuário, percepção de cobrança e privacidade influenciam adoção
-  de AMI.
+summary: Fatores que influenciam a confiança e adoção de medidores inteligentes por
+  consumidores
 permalink: https://www.envisioning.com/moradia/aceitacao-social-medicao-inteligente
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584865/habit
 
 ## Summary
 
-Confiança do usuário, percepção de cobrança e privacidade influenciam adoção de AMI.
+Fatores que influenciam a confiança e adoção de medidores inteligentes por consumidores
 
 ## Description
 

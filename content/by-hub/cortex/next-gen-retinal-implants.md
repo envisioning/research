@@ -2,7 +2,8 @@
 slug: next-gen-retinal-implants
 hub: cortex
 title: Retinal Implants
-summary: Microelectrode retinal arrays delivering prosthetic vision.
+summary: Microelectrode arrays that restore partial vision by stimulating surviving
+  retinal cells
 permalink: https://www.envisioning.com/cortex/next-gen-retinal-implants
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073983/corte
 
 ## Summary
 
-Microelectrode retinal arrays delivering prosthetic vision.
+Microelectrode arrays that restore partial vision by stimulating surviving retinal cells
 
 ## Description
 

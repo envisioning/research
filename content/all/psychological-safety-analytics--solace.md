@@ -2,8 +2,8 @@
 slug: psychological-safety-analytics
 hub: solace
 title: Psychological Safety Analytics Platforms
-summary: Enterprise tools that track signals of psychological safety and burnout risk
-  in teams.
+summary: Enterprise platforms analyzing workplace data to detect team burnout, trust
+  erosion, and psychological distress
 permalink: https://www.envisioning.com/solace/psychological-safety-analytics
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436478/solac
 
 ## Summary
 
-Enterprise tools that track signals of psychological safety and burnout risk in teams.
+Enterprise platforms analyzing workplace data to detect team burnout, trust erosion, and psychological distress
 
 ## Description
 

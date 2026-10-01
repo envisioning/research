@@ -2,21 +2,21 @@
 slug: biological-cavity-structure-effects
 hub: xenotech
 title: Biological Cavity Effects
-summary: Alleged antigravity levitation from natural biological microcavities arranged
-  in resonant configurations.
+summary: Claimed antigravity from microscopic cavities in insect wings and plant tissues
+  arranged in resonant arrays
 permalink: https://www.envisioning.com/xenotech/biological-cavity-structure-effects
 collection: propulsion-physics
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760984030/xenotech/technologies/grebennikov-cavity-structures.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897705/xenotech/technologies/biological-cavity-structure-effects-openrouter-google-gemini-3.1-flash-image-preview-tul5rq.png
 ---
 
 # Biological Cavity Effects
 
 ## Summary
 
-Alleged antigravity levitation from natural biological microcavities arranged in resonant configurations.
+Claimed antigravity from microscopic cavities in insect wings and plant tissues arranged in resonant arrays
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: autonomous-finance-agents
 hub: lattice
 title: Autonomous Finance Agents
-summary: AI agents managing portfolios and executing strategies within safety rules.
+summary: AI-driven agents that manage portfolios, execute trades, and negotiate contracts
+  within defined risk limits
 permalink: https://www.envisioning.com/lattice/autonomous-finance-agents
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990783/flows
 
 ## Summary
 
-AI agents managing portfolios and executing strategies within safety rules.
+AI-driven agents that manage portfolios, execute trades, and negotiate contracts within defined risk limits
 
 ## Description
 

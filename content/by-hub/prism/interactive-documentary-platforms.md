@@ -2,7 +2,8 @@
 slug: interactive-documentary-platforms
 hub: prism
 title: Interactive Documentary Platforms
-summary: Branching narrative engines that let viewers explore multiple perspectives.
+summary: Nonlinear storytelling systems that let audiences choose their path through
+  documentary content
 permalink: https://www.envisioning.com/prism/interactive-documentary-platforms
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069283/pulse
 
 ## Summary
 
-Branching narrative engines that let viewers explore multiple perspectives.
+Nonlinear storytelling systems that let audiences choose their path through documentary content
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: hyperspectral-vision-systems
 hub: quadrant
 title: Hyperspectral Vision Systems
-summary: Multi-wavelength imaging for material ID and defect detection.
+summary: Multi-wavelength imaging that identifies materials and detects defects invisible
+  to standard cameras
 permalink: https://www.envisioning.com/quadrant/hyperspectral-vision-systems
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126504/quadr
 
 ## Summary
 
-Multi-wavelength imaging for material ID and defect detection.
+Multi-wavelength imaging that identifies materials and detects defects invisible to standard cameras
 
 ## Description
 

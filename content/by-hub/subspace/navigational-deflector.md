@@ -2,21 +2,21 @@
 slug: navigational-deflector
 hub: subspace
 title: Navigational Deflector Array
-summary: Multi-purpose deflector dish providing particle deflection, sensor enhancement,
-  and beam projection.
+summary: Electromagnetic field system that clears debris from a spacecraft's flight
+  path at high velocities
 permalink: https://www.envisioning.com/subspace/navigational-deflector
 collection: engineering
 trl: 5
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760217105/subspaceindex/technologies/navigational-deflector.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908514/subspace/technologies/navigational-deflector-openrouter-google-gemini-3.1-flash-image-preview-jcm6jb.png
 ---
 
 # Navigational Deflector Array
 
 ## Summary
 
-Multi-purpose deflector dish providing particle deflection, sensor enhancement, and beam projection.
+Electromagnetic field system that clears debris from a spacecraft's flight path at high velocities
 
 ## Description
 

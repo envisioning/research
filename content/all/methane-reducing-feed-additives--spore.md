@@ -2,7 +2,8 @@
 slug: methane-reducing-feed-additives
 hub: spore
 title: Methane-Reducing Feed Additives
-summary: Seaweed and lipid additives cutting enteric emissions.
+summary: Feed supplements that reduce methane emissions from cattle and other ruminant
+  livestock
 permalink: https://www.envisioning.com/spore/methane-reducing-feed-additives
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095997/spore
 
 ## Summary
 
-Seaweed and lipid additives cutting enteric emissions.
+Feed supplements that reduce methane emissions from cattle and other ruminant livestock
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: shapeshifting-technology
 hub: xenotech
 title: Programmable Matter
-summary: Alleged physical form-transformation abilities reported in entity encounters,
-  combined with emerging programmable matter and metamaterial camouflage technologies.
+summary: Materials that can change shape, properties, or appearance on demand through
+  external control
 permalink: https://www.envisioning.com/xenotech/shapeshifting-technology
 collection: materials-structures
 trl: 3
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760946107/xenotech/technologies/shapeshifting-technology.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902182/xenotech/technologies/shapeshifting-technology-openrouter-google-gemini-3.1-flash-image-preview-94odxb.png
 ---
 
 # Programmable Matter
 
 ## Summary
 
-Alleged physical form-transformation abilities reported in entity encounters, combined with emerging programmable matter and metamaterial camouflage technologies.
+Materials that can change shape, properties, or appearance on demand through external control
 
 ## Description
 

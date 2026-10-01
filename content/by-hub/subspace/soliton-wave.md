@@ -2,21 +2,21 @@
 slug: soliton-wave
 hub: subspace
 title: Soliton Wave Rider
-summary: Experimental propulsion system riding sustained subspace compression waves
-  without traditional warp engines.
+summary: Propulsion concept using sustained subspace compression waves instead of
+  onboard warp drives
 permalink: https://www.envisioning.com/subspace/soliton-wave
 collection: propulsion
 trl: 3
 impact: 1
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211434/subspaceindex/technologies/soliton-wave.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908936/subspace/technologies/soliton-wave-openrouter-google-gemini-3.1-flash-image-preview-172ffd.png
 ---
 
 # Soliton Wave Rider
 
 ## Summary
 
-Experimental propulsion system riding sustained subspace compression waves without traditional warp engines.
+Propulsion concept using sustained subspace compression waves instead of onboard warp drives
 
 ## Description
 

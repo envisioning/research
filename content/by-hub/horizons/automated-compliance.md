@@ -2,9 +2,9 @@
 slug: automated-compliance
 hub: horizons
 title: Automated Compliance
-summary: AI systems ensuring adherence to regulations and standards.
+summary: AI-driven systems that monitor and verify regulatory adherence in real time
 permalink: https://www.envisioning.com/horizons/automated-compliance
-collection: intelligence-computation
+collection: software
 trl: 7
 impact: 4
 investment: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521646/horiz
 
 ## Summary
 
-AI systems ensuring adherence to regulations and standards.
+AI-driven systems that monitor and verify regulatory adherence in real time
 
 ## Description
 

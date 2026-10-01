@@ -3,7 +3,6 @@ slug: automated-grantmaking-platforms
 hub: agape
 title: Automated Grantmaking Platforms
 summary: End-to-end systems automating grant allocation from application to disbursement,
-  reducing overhead and increasing efficiency.
 permalink: https://www.envisioning.com/agape/automated-grantmaking-platforms
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368065/agape
 
 ## Summary
 
-End-to-end systems automating grant allocation from application to disbursement, reducing overhead and increasing efficiency.
+End-to-end systems automating grant allocation from application to disbursement,
 
 ## Description
 

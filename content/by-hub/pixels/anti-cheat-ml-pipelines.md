@@ -2,7 +2,8 @@
 slug: anti-cheat-ml-pipelines
 hub: pixels
 title: Anti-Cheat ML Pipelines
-summary: Behavioral and telemetry-based cheat detection at scale.
+summary: Server-side machine learning that detects aimbots, bots, and exploits from
+  player telemetry
 permalink: https://www.envisioning.com/pixels/anti-cheat-ml-pipelines
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062287/pixel
 
 ## Summary
 
-Behavioral and telemetry-based cheat detection at scale.
+Server-side machine learning that detects aimbots, bots, and exploits from player telemetry
 
 ## Description
 

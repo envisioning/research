@@ -2,19 +2,21 @@
 slug: concentrated-solar-power
 hub: atmos
 title: Concentrated Solar Power
-summary: Mirrors or lenses focus sunlight to drive turbines; markets in California, Spain, North Africa.
+summary: Mirrors or lenses concentrate sunlight to generate heat for electricity and
+  thermal storage
 permalink: https://www.envisioning.com/atmos/concentrated-solar-power
 collection: applications
 trl: 8
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883068/atmos/technologies/2c42e9f4-01b8-4ea8-8025-05e9fa2ad487-google-gemini-3.1-flash-image-preview-05a5cp.jpg
 ---
 
 # Concentrated Solar Power
 
 ## Summary
 
-Mirrors or lenses focus sunlight to drive turbines; markets in California, Spain, North Africa.
+Mirrors or lenses concentrate sunlight to generate heat for electricity and thermal storage
 
 ## Description
 

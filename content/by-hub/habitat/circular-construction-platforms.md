@@ -2,7 +2,8 @@
 slug: circular-construction-platforms
 hub: habitat
 title: Circular Construction Platforms
-summary: Digital marketplaces and material passports enabling deconstruction and reuse.
+summary: Digital marketplaces tracking building materials for deconstruction, resale,
+  and reuse across projects
 permalink: https://www.envisioning.com/habitat/circular-construction-platforms
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117527/habit
 
 ## Summary
 
-Digital marketplaces and material passports enabling deconstruction and reuse.
+Digital marketplaces tracking building materials for deconstruction, resale, and reuse across projects
 
 ## Description
 

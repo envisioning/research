@@ -2,7 +2,8 @@
 slug: neuro-adaptive-environments
 hub: atlas
 title: Neuro-Adaptive Environments
-summary: Hotel rooms and cabins that adjust to traveler stress and circadian rhythms.
+summary: Spaces that adjust lighting, temperature, and ambiance based on real-time
+  biometric feedback
 permalink: https://www.envisioning.com/atlas/neuro-adaptive-environments
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126302/atlas
 
 ## Summary
 
-Hotel rooms and cabins that adjust to traveler stress and circadian rhythms.
+Spaces that adjust lighting, temperature, and ambiance based on real-time biometric feedback
 
 ## Description
 

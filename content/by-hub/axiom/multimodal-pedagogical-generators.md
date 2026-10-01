@@ -2,7 +2,8 @@
 slug: multimodal-pedagogical-generators
 hub: axiom
 title: Multimodal Pedagogical Content Generators
-summary: Generating videos, visuals, and practice from a single objective.
+summary: AI systems that create videos, diagrams, quizzes, and practice materials
+  from a single learning objective
 permalink: https://www.envisioning.com/axiom/multimodal-pedagogical-generators
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995632/axiom
 
 ## Summary
 
-Generating videos, visuals, and practice from a single objective.
+AI systems that create videos, diagrams, quizzes, and practice materials from a single learning objective
 
 ## Description
 

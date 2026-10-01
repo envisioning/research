@@ -2,8 +2,8 @@
 slug: responsabilidade-danos-obras-infraestrutura
 hub: moradia
 title: Responsabilidade por Danos em Obras de Infraestrutura
-summary: Regras sobre ressarcimento, seguros e arbitragem quando obras danificam redes
-  existentes.
+summary: Regras de ressarcimento e arbitragem para danos a redes subterrâneas durante
+  obras urbanas
 permalink: https://www.envisioning.com/moradia/responsabilidade-danos-obras-infraestrutura
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591726/habit
 
 ## Summary
 
-Regras sobre ressarcimento, seguros e arbitragem quando obras danificam redes existentes.
+Regras de ressarcimento e arbitragem para danos a redes subterrâneas durante obras urbanas
 
 ## Description
 

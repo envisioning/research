@@ -2,20 +2,21 @@
 slug: duotronic-computer
 hub: subspace
 title: Duotronic Computer
-summary: Early Federation architecture foundational to later isolinear systems.
+summary: Dual-pathway logic processing architecture from Star Trek enabling fault-tolerant
+  starship operations
 permalink: https://www.envisioning.com/subspace/duotronic-computer
 collection: computing
 trl: 9
 impact: 1
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263039/subspaceindex/technologies/duotronic-computer.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907890/subspace/technologies/duotronic-computer-openrouter-google-gemini-3.1-flash-image-preview-t6mp2u.png
 ---
 
 # Duotronic Computer
 
 ## Summary
 
-Early Federation architecture foundational to later isolinear systems.
+Dual-pathway logic processing architecture from Star Trek enabling fault-tolerant starship operations
 
 ## Description
 

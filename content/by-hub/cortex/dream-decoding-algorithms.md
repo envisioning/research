@@ -2,7 +2,8 @@
 slug: dream-decoding-algorithms
 hub: cortex
 title: Dream Decoding Algorithms
-summary: fMRI/EEG models reconstructing dream imagery.
+summary: Machine learning systems that reconstruct dream imagery from brain activity
+  during sleep
 permalink: https://www.envisioning.com/cortex/dream-decoding-algorithms
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062742/corte
 
 ## Summary
 
-fMRI/EEG models reconstructing dream imagery.
+Machine learning systems that reconstruct dream imagery from brain activity during sleep
 
 ## Description
 

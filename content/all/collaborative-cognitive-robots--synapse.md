@@ -2,7 +2,8 @@
 slug: collaborative-cognitive-robots
 hub: synapse
 title: Collaborative Cognitive Robots (Cobots)
-summary: Adaptive robots working alongside humans in knowledge work settings.
+summary: AI-powered robots that adapt to human workflows in offices and knowledge
+  work environments
 permalink: https://www.envisioning.com/synapse/collaborative-cognitive-robots
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126492/synap
 
 ## Summary
 
-Adaptive robots working alongside humans in knowledge work settings.
+AI-powered robots that adapt to human workflows in offices and knowledge work environments
 
 ## Description
 

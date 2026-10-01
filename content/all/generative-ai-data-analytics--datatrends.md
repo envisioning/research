@@ -2,8 +2,8 @@
 slug: generative-ai-data-analytics
 hub: datatrends
 title: Generative AI Co-Pilot
-summary: Lowering technical barriers through natural language interfaces and automated
-  data engineering.
+summary: Natural language interfaces that translate business questions into executable
+  data queries and analysis
 permalink: https://www.envisioning.com/datatrends/generative-ai-data-analytics
 collection: decision-intelligence-ai
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372804/datat
 
 ## Summary
 
-Lowering technical barriers through natural language interfaces and automated data engineering.
+Natural language interfaces that translate business questions into executable data queries and analysis
 
 ## Description
 

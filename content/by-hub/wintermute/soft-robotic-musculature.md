@@ -2,7 +2,8 @@
 slug: soft-robotic-musculature
 hub: wintermute
 title: Soft-Robotic Musculature
-summary: Embedded nanoscale actuators for fluid motion and expressive interaction.
+summary: Flexible actuator networks that mimic biological muscle for safe, fluid robotic
+  movement
 permalink: https://www.envisioning.com/wintermute/soft-robotic-musculature
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980754/winte
 
 ## Summary
 
-Embedded nanoscale actuators for fluid motion and expressive interaction.
+Flexible actuator networks that mimic biological muscle for safe, fluid robotic movement
 
 ## Description
 

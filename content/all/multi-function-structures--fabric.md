@@ -2,19 +2,21 @@
 slug: multi-function-structures
 hub: fabric
 title: Multi-Function Structures
-summary: Materials that integrate sensing, actuation, and self-healing.
+summary: Fabrics that sense, actuate, harvest energy, or self-repair while bearing
+  structural loads
 permalink: https://www.envisioning.com/fabric/multi-function-structures
 collection: materials
 trl: 4
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887529/fabric/technologies/619e4b4f-0f98-40cf-a967-d06a6e4fb927-google-gemini-3.1-flash-image-preview-s6p9gx.png
 ---
 
 # Multi-Function Structures
 
 ## Summary
 
-Materials that integrate sensing, actuation, and self-healing.
+Fabrics that sense, actuate, harvest energy, or self-repair while bearing structural loads
 
 ## Description
 

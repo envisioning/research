@@ -2,7 +2,8 @@
 slug: behavioral-digital-twins
 hub: soma
 title: Behavioral Digital Twins
-summary: Simulation models that mirror individual or group behavior and routines.
+summary: Dynamic models that simulate individual or group behavior patterns using
+  real-time data streams
 permalink: https://www.envisioning.com/soma/behavioral-digital-twins
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177720/soma/
 
 ## Summary
 
-Simulation models that mirror individual or group behavior and routines.
+Dynamic models that simulate individual or group behavior patterns using real-time data streams
 
 ## Description
 

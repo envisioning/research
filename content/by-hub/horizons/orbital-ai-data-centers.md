@@ -2,9 +2,10 @@
 slug: orbital-ai-data-centers
 hub: horizons
 title: Orbital AI Data Centers
-summary: Space-based computing infrastructure powered by solar energy.
+summary: Satellite-based computing infrastructure for AI workloads powered by continuous
+  solar energy
 permalink: https://www.envisioning.com/horizons/orbital-ai-data-centers
-collection: space-extreme
+collection: hardware
 trl: 3
 impact: 5
 investment: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764527090/horiz
 
 ## Summary
 
-Space-based computing infrastructure powered by solar energy.
+Satellite-based computing infrastructure for AI workloads powered by continuous solar energy
 
 ## Description
 

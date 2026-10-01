@@ -2,7 +2,8 @@
 slug: synthetic-classrooms
 hub: axiom
 title: Synthetic Classrooms
-summary: Multi-agent environments with AI classmates.
+summary: AI-powered virtual classmates that collaborate, discuss, and learn alongside
+  human students
 permalink: https://www.envisioning.com/axiom/synthetic-classrooms
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996106/axiom
 
 ## Summary
 
-Multi-agent environments with AI classmates.
+AI-powered virtual classmates that collaborate, discuss, and learn alongside human students
 
 ## Description
 

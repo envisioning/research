@@ -2,16 +2,10 @@
 slug: carbon-cement-supercapacitor
 hub: cities
 title: Carbon-Cement Supercapacitor
-summary: This energy storage solution addresses issues related to renewable energy
-  integration and urban infrastructure resilience. It combines cement, water, and
-  carbon black to create a supercapacitor capable of storing and discharging electrical
-  energy efficiently. It offers a cost-effective, scalable solution to the intermittent
-  nature of renewable energy sources like solar and wind power, ensuring a stable
-  energy supply despite fluctuations in production. By embedding energy storage capabilities
-  into concrete, carbon-cement supercapacitors can be integrated into various urban
-  infrastructures, such as building foundations, roads, and public spaces.
+summary: Concrete infused with carbon black to store electrical energy in buildings
+  and infrastructure
 permalink: https://www.envisioning.com/cities/carbon-cement-supercapacitor
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 4
 impact: 1
 investment: 1
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719311529-carbon-cement-superc
 
 ## Summary
 
-This energy storage solution addresses issues related to renewable energy integration and urban infrastructure resilience. It combines cement, water, and carbon black to create a supercapacitor capable of storing and discharging electrical energy efficiently. It offers a cost-effective, scalable solution to the intermittent nature of renewable energy sources like solar and wind power, ensuring a stable energy supply despite fluctuations in production. By embedding energy storage capabilities into concrete, carbon-cement supercapacitors can be integrated into various urban infrastructures, such as building foundations, roads, and public spaces.
+Concrete infused with carbon black to store electrical energy in buildings and infrastructure
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: continuous-health-sensing
 hub: horizons
 title: Continuous Health Sensing
-summary: Real-time monitoring of physiological data via wearables.
+summary: Real-time physiological monitoring through wearables, implants, and ambient
+  sensors
 permalink: https://www.envisioning.com/horizons/continuous-health-sensing
-collection: life-health
+collection: hardware
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526655/horiz
 
 ## Summary
 
-Real-time monitoring of physiological data via wearables.
+Real-time physiological monitoring through wearables, implants, and ambient sensors
 
 ## Description
 

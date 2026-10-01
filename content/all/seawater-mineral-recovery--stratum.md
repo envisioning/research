@@ -2,7 +2,8 @@
 slug: seawater-mineral-recovery
 hub: stratum
 title: Seawater Mineral Recovery
-summary: Extracting magnesium, lithium, and uranium from ocean brine.
+summary: Extracting dissolved minerals like magnesium, lithium, and uranium from ocean
+  water
 permalink: https://www.envisioning.com/stratum/seawater-mineral-recovery
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179259/strat
 
 ## Summary
 
-Extracting magnesium, lithium, and uranium from ocean brine.
+Extracting dissolved minerals like magnesium, lithium, and uranium from ocean water
 
 ## Description
 

@@ -2,12 +2,12 @@
 slug: on-device-ai-pill-counter
 hub: interface
 title: On-Device AI Pill Counter
-summary: Fast, accurate, compact pill counting using on-device AI processing.
+summary: Computer vision systems that count pills locally without cloud processing
 permalink: https://www.envisioning.com/interface/on-device-ai-pill-counter
-collection: neuromorphic-edge-intelligence
+collection: applications
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: null
 ---
 
@@ -15,7 +15,7 @@ image_url: null
 
 ## Summary
 
-Fast, accurate, compact pill counting using on-device AI processing.
+Computer vision systems that count pills locally without cloud processing
 
 ## Description
 

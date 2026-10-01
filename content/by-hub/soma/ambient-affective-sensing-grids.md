@@ -2,7 +2,8 @@
 slug: ambient-affective-sensing-grids
 hub: soma
 title: Ambient Affective Sensing Grids
-summary: Distributed sensor meshes that infer group mood and social dynamics in spaces.
+summary: Distributed sensors that detect collective mood and social dynamics in physical
+  spaces
 permalink: https://www.envisioning.com/soma/ambient-affective-sensing-grids
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133857/soma/
 
 ## Summary
 
-Distributed sensor meshes that infer group mood and social dynamics in spaces.
+Distributed sensors that detect collective mood and social dynamics in physical spaces
 
 ## Description
 

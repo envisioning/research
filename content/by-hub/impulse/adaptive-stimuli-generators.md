@@ -2,7 +2,8 @@
 slug: adaptive-stimuli-generators
 hub: impulse
 title: Adaptive Stimuli Generators
-summary: Dynamic A/V adjustment based on neurofeedback.
+summary: Real-time audio-visual environments that adjust to brainwave patterns via
+  EEG feedback
 permalink: https://www.envisioning.com/impulse/adaptive-stimuli-generators
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133571/impul
 
 ## Summary
 
-Dynamic A/V adjustment based on neurofeedback.
+Real-time audio-visual environments that adjust to brainwave patterns via EEG feedback
 
 ## Description
 

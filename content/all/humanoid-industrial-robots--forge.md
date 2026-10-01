@@ -2,7 +2,7 @@
 slug: humanoid-industrial-robots
 hub: forge
 title: Humanoid Industrial Robots
-summary: Bipedal robots with human-like form factors designed for factory environments.
+summary: Bipedal robots designed to work in factories built for human workers
 permalink: https://www.envisioning.com/forge/humanoid-industrial-robots
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120062/forge
 
 ## Summary
 
-Bipedal robots with human-like form factors designed for factory environments.
+Bipedal robots designed to work in factories built for human workers
 
 ## Description
 

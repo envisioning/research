@@ -2,7 +2,8 @@
 slug: cryogenic-ai-processors
 hub: wintermute
 title: Cryogenic AI Processors
-summary: Superconducting logic enabling ultra-low-power AI acceleration.
+summary: AI chips cooled to near-zero temperatures for ultra-fast, near-zero-power
+  computation
 permalink: https://www.envisioning.com/wintermute/cryogenic-ai-processors
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080318/winte
 
 ## Summary
 
-Superconducting logic enabling ultra-low-power AI acceleration.
+AI chips cooled to near-zero temperatures for ultra-fast, near-zero-power computation
 
 ## Description
 

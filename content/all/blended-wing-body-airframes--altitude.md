@@ -2,7 +2,8 @@
 slug: blended-wing-body-airframes
 hub: altitude
 title: Blended Wing Body (BWB) & Novel Airframes
-summary: Step-change aerodynamic efficiency through radical aircraft geometry.
+summary: Aircraft designs that merge wing and fuselage into a single lifting surface
+  for greater fuel efficiency
 permalink: https://www.envisioning.com/altitude/blended-wing-body-airframes
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642038/altit
 
 ## Summary
 
-Step-change aerodynamic efficiency through radical aircraft geometry.
+Aircraft designs that merge wing and fuselage into a single lifting surface for greater fuel efficiency
 
 ## Description
 

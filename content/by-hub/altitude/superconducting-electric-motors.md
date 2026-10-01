@@ -2,7 +2,8 @@
 slug: superconducting-electric-motors
 hub: altitude
 title: Superconducting Electric Motors & Generators
-summary: Lightweight, ultra-high power density propulsion for MW-class hybrid systems.
+summary: Electric machines using zero-resistance materials for lightweight, high-power
+  aircraft propulsion
 permalink: https://www.envisioning.com/altitude/superconducting-electric-motors
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642134/altit
 
 ## Summary
 
-Lightweight, ultra-high power density propulsion for MW-class hybrid systems.
+Electric machines using zero-resistance materials for lightweight, high-power aircraft propulsion
 
 ## Description
 

@@ -2,9 +2,8 @@
 slug: melhorias-interiores-edificios-deteriorados
 hub: moradia
 title: Melhorias Interiores em Edifícios Deteriorados
-summary: Investimento em melhorias e decoração de interiores em edifícios com deterioração
-  externa, criando cuidado emocional em espaços onde investimento estrutural não é
-  possível.
+summary: Investimento em melhorias internas quando a renovação estrutural do edifício
+  não é viável
 permalink: https://www.envisioning.com/moradia/melhorias-interiores-edificios-deteriorados
 collection: modelos-mercado-governanca
 trl: 5
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668385/habit
 
 ## Summary
 
-Investimento em melhorias e decoração de interiores em edifícios com deterioração externa, criando cuidado emocional em espaços onde investimento estrutural não é possível.
+Investimento em melhorias internas quando a renovação estrutural do edifício não é viável
 
 ## Description
 

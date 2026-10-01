@@ -2,8 +2,8 @@
 slug: casas-multigeracionais-reconsolidacao
 hub: moradia
 title: Casas Multigeracionais e Reconsolidação Familiar
-summary: Famílias consolidando múltiplas gerações sob um mesmo teto como estratégia
-  de sobrevivência econômica e adaptação a restrições financeiras.
+summary: Múltiplas gerações compartilhando moradia para dividir custos e criar redes
+  de apoio mútuo
 permalink: https://www.envisioning.com/moradia/casas-multigeracionais-reconsolidacao
 collection: modelos-mercado-governanca
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766667982/habit
 
 ## Summary
 
-Famílias consolidando múltiplas gerações sob um mesmo teto como estratégia de sobrevivência econômica e adaptação a restrições financeiras.
+Múltiplas gerações compartilhando moradia para dividir custos e criar redes de apoio mútuo
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: foveated-rendering-accelerators
 hub: pixels
 title: Foveated Rendering Accelerators
-summary: Hardware modules coupling GPUs with eye tracking to reduce pixel budgets.
+summary: Hardware that tracks eye movement to render high detail only where players
+  look
 permalink: https://www.envisioning.com/pixels/foveated-rendering-accelerators
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062037/pixel
 
 ## Summary
 
-Hardware modules coupling GPUs with eye tracking to reduce pixel budgets.
+Hardware that tracks eye movement to render high detail only where players look
 
 ## Description
 

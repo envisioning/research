@@ -2,7 +2,8 @@
 slug: personal-nudge-managers
 hub: beacon
 title: Personal Nudge Managers
-summary: User agents that negotiate and filter nudges.
+summary: User-controlled agents that filter and negotiate behavioral prompts across
+  digital platforms
 permalink: https://www.envisioning.com/beacon/personal-nudge-managers
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125699/beaco
 
 ## Summary
 
-User agents that negotiate and filter nudges.
+User-controlled agents that filter and negotiate behavioral prompts across digital platforms
 
 ## Description
 

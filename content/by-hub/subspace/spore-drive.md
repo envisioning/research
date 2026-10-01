@@ -2,21 +2,21 @@
 slug: spore-drive
 hub: subspace
 title: Displacement-Activated Spore Hub Drive
-summary: Revolutionary propulsion utilizing mycelial network for instantaneous travel
-  across vast distances and even between universes.
+summary: Propulsion system using a mycelial network to enable instantaneous travel
+  across universes
 permalink: https://www.envisioning.com/subspace/spore-drive
 collection: propulsion
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760258497/subspaceindex/technologies/spore-drive.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907839/subspace/technologies/spore-drive-openrouter-google-gemini-3.1-flash-image-preview-gc2pku.png
 ---
 
 # Displacement-Activated Spore Hub Drive
 
 ## Summary
 
-Revolutionary propulsion utilizing mycelial network for instantaneous travel across vast distances and even between universes.
+Propulsion system using a mycelial network to enable instantaneous travel across universes
 
 ## Description
 

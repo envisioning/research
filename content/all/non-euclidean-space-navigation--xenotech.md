@@ -2,21 +2,21 @@
 slug: non-euclidean-space-navigation
 hub: xenotech
 title: Non-Euclidean Space Navigation
-summary: Theoretical technologies for navigation and travel through curved spacetime
-  geometries and higher-dimensional spaces.
+summary: Navigation systems for curved spacetime, higher dimensions, and non-Euclidean
+  geometries
 permalink: https://www.envisioning.com/xenotech/non-euclidean-space-navigation
 collection: temporal-dimensional
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655988/xenotech/technologies/non-euclidean-space-navigation.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899056/xenotech/technologies/non-euclidean-space-navigation-openrouter-google-gemini-3.1-flash-image-preview-vd0s4a.png
 ---
 
 # Non-Euclidean Space Navigation
 
 ## Summary
 
-Theoretical technologies for navigation and travel through curved spacetime geometries and higher-dimensional spaces.
+Navigation systems for curved spacetime, higher dimensions, and non-Euclidean geometries
 
 ## Description
 

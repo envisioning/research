@@ -2,7 +2,7 @@
 slug: plasma-activated-water-systems
 hub: spore
 title: Plasma-Activated Water (PAW) Systems
-summary: On-demand nitrogen fertilizer production using atmospheric plasma discharge.
+summary: On-site nitrogen fertilizer production from air and water using plasma discharge
 permalink: https://www.envisioning.com/spore/plasma-activated-water-systems
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095890/spore
 
 ## Summary
 
-On-demand nitrogen fertilizer production using atmospheric plasma discharge.
+On-site nitrogen fertilizer production from air and water using plasma discharge
 
 ## Description
 

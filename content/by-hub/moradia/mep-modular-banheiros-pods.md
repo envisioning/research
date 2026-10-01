@@ -2,8 +2,8 @@
 slug: mep-modular-banheiros-pods
 hub: moradia
 title: Industrialização de Instalações
-summary: Módulos pré-fabricados de instalações hidráulicas/elétricas e banheiros completos
-  para reduzir incompatibilidades e prazo.
+summary: Sistemas hidráulicos, elétricos e sanitários fabricados em fábrica e instalados
+  como módulos completos
 permalink: https://www.envisioning.com/moradia/mep-modular-banheiros-pods
 collection: materiais-componentes
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360214/forma
 
 ## Summary
 
-Módulos pré-fabricados de instalações hidráulicas/elétricas e banheiros completos para reduzir incompatibilidades e prazo.
+Sistemas hidráulicos, elétricos e sanitários fabricados em fábrica e instalados como módulos completos
 
 ## Description
 

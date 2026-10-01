@@ -2,7 +2,7 @@
 slug: skill-simulation-frameworks
 hub: axiom
 title: Skill Simulation & Transfer Frameworks
-summary: Simulators for rehearsing mental models and complex tasks.
+summary: Virtual environments for practicing complex skills before real-world application
 permalink: https://www.envisioning.com/axiom/skill-simulation-frameworks
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990896/axiom
 
 ## Summary
 
-Simulators for rehearsing mental models and complex tasks.
+Virtual environments for practicing complex skills before real-world application
 
 ## Description
 

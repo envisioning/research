@@ -2,7 +2,8 @@
 slug: spiritual-ritual-platforms
 hub: eros
 title: Spiritual & Ritual Technology Platforms
-summary: Digital spaces for shared prayer, meditation, and sacred practices.
+summary: Virtual environments for communal prayer, meditation, and religious observance
+  across distances
 permalink: https://www.envisioning.com/eros/spiritual-ritual-platforms
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124042/eros/
 
 ## Summary
 
-Digital spaces for shared prayer, meditation, and sacred practices.
+Virtual environments for communal prayer, meditation, and religious observance across distances
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ultrasonic-haptics
 hub: liminal
 title: Ultrasonic Haptics
-summary: Mid-air tactile feedback using focused acoustic fields.
+summary: Mid-air tactile feedback using focused ultrasonic waves to simulate touch
+  without physical contact
 permalink: https://www.envisioning.com/liminal/ultrasonic-haptics
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124137/limin
 
 ## Summary
 
-Mid-air tactile feedback using focused acoustic fields.
+Mid-air tactile feedback using focused ultrasonic waves to simulate touch without physical contact
 
 ## Description
 

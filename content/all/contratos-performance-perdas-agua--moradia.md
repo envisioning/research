@@ -2,7 +2,8 @@
 slug: contratos-performance-perdas-agua
 hub: moradia
 title: Contratos por Performance para Redução de Perdas de Água
-summary: Modelos em que o pagamento se vincula à redução de perdas e melhoria de indicadores.
+summary: Contratos que vinculam pagamento à redução mensurável de perdas e melhoria
+  de indicadores hídricos
 permalink: https://www.envisioning.com/moradia/contratos-performance-perdas-agua
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584891/habit
 
 ## Summary
 
-Modelos em que o pagamento se vincula à redução de perdas e melhoria de indicadores.
+Contratos que vinculam pagamento à redução mensurável de perdas e melhoria de indicadores hídricos
 
 ## Description
 

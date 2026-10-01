@@ -2,7 +2,8 @@
 slug: food-waste-valorization-platforms
 hub: harvest
 title: Food Waste Valorization Platforms
-summary: Upcycling surplus into new products and inputs.
+summary: Transforming food byproducts and surplus into valuable materials through
+  integrated processing systems
 permalink: https://www.envisioning.com/harvest/food-waste-valorization-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128545/harve
 
 ## Summary
 
-Upcycling surplus into new products and inputs.
+Transforming food byproducts and surplus into valuable materials through integrated processing systems
 
 ## Description
 

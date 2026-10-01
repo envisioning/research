@@ -2,7 +2,8 @@
 slug: cryopreservation-systems
 hub: eclipse
 title: Cryopreservation Systems
-summary: Whole-body and neuropreservation suspension infrastructure.
+summary: Medical infrastructure for preserving bodies or brains at cryogenic temperatures
+  after legal death
 permalink: https://www.envisioning.com/eclipse/cryopreservation-systems
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126690/eclip
 
 ## Summary
 
-Whole-body and neuropreservation suspension infrastructure.
+Medical infrastructure for preserving bodies or brains at cryogenic temperatures after legal death
 
 ## Description
 

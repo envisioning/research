@@ -2,21 +2,21 @@
 slug: ablative-armor
 hub: subspace
 title: Ablative Armor
-summary: Advanced hull plating that dissipates energy weapon impacts through controlled
-  vaporization.
+summary: Hull plating that vaporizes on impact to dissipate directed energy weapon
+  strikes
 permalink: https://www.envisioning.com/subspace/ablative-armor
 collection: defense
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208247/subspaceindex/technologies/ablative-armor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909129/subspace/technologies/ablative-armor-openrouter-google-gemini-3.1-flash-image-preview-yj61na.png
 ---
 
 # Ablative Armor
 
 ## Summary
 
-Advanced hull plating that dissipates energy weapon impacts through controlled vaporization.
+Hull plating that vaporizes on impact to dissipate directed energy weapon strikes
 
 ## Description
 

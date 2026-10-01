@@ -2,9 +2,9 @@
 slug: decentralized-science-desci
 hub: horizons
 title: Decentralized Science (DeSci)
-summary: Blockchain-based models for funding and sharing research.
+summary: Blockchain-based funding, governance, and data sharing for scientific research
 permalink: https://www.envisioning.com/horizons/decentralized-science-desci
-collection: society-culture
+collection: applications
 trl: 3
 impact: 3
 investment: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764527071/horiz
 
 ## Summary
 
-Blockchain-based models for funding and sharing research.
+Blockchain-based funding, governance, and data sharing for scientific research
 
 ## Description
 

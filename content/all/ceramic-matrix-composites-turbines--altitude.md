@@ -2,7 +2,8 @@
 slug: ceramic-matrix-composites-turbines
 hub: altitude
 title: Ceramic Matrix Composites (CMCs) for Turbines
-summary: Ultra-high-temperature materials enabling hotter, more efficient engines.
+summary: Heat-resistant composites that let jet engines run hotter and more efficiently
+  than metal allows
 permalink: https://www.envisioning.com/altitude/ceramic-matrix-composites-turbines
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642107/altit
 
 ## Summary
 
-Ultra-high-temperature materials enabling hotter, more efficient engines.
+Heat-resistant composites that let jet engines run hotter and more efficiently than metal allows
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-powered-satellite-tasking
 hub: apogee
 title: AI-Powered Satellite Tasking
-summary: Autonomous schedulers prioritizing imaging and downlink based on demand.
+summary: Machine learning systems that autonomously schedule satellite imaging and
+  data transmission
 permalink: https://www.envisioning.com/apogee/ai-powered-satellite-tasking
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060721/apoge
 
 ## Summary
 
-Autonomous schedulers prioritizing imaging and downlink based on demand.
+Machine learning systems that autonomously schedule satellite imaging and data transmission
 
 ## Description
 

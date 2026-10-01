@@ -2,8 +2,8 @@
 slug: dry-stack-tailings
 hub: stratum
 title: Dry-Stack Tailings and Filtered Dams
-summary: High-pressure filtration hardware enabling safer, partially dewatered tailings
-  storage.
+summary: Mechanical dewatering systems that transform mining slurries into dense,
+  stackable solids for safer storage
 permalink: https://www.envisioning.com/stratum/dry-stack-tailings
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133016/strat
 
 ## Summary
 
-High-pressure filtration hardware enabling safer, partially dewatered tailings storage.
+Mechanical dewatering systems that transform mining slurries into dense, stackable solids for safer storage
 
 ## Description
 

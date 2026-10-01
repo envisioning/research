@@ -3,7 +3,6 @@ slug: uncertainty-as-design-constraint
 hub: agape
 title: Uncertainty as a First-Class Design Constraint
 summary: Recognition of uncertainty as a first-class design constraint, as philanthropy
-  acknowledges the limits of prediction and control.
 permalink: https://www.envisioning.com/agape/uncertainty-as-design-constraint
 collection: knowledge-evidence-sensemaking
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371890/agape
 
 ## Summary
 
-Recognition of uncertainty as a first-class design constraint, as philanthropy acknowledges the limits of prediction and control.
+Recognition of uncertainty as a first-class design constraint, as philanthropy
 
 ## Description
 

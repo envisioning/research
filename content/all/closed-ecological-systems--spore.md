@@ -2,19 +2,21 @@
 slug: closed-ecological-systems
 hub: spore
 title: Closed Ecological Systems
-summary: Self-sustaining biospheres for research, agriculture, and long-duration habitation.
+summary: Engineered environments that recycle air, water, and nutrients to sustain
+  life with minimal external input
 permalink: https://www.envisioning.com/spore/closed-ecological-systems
 collection: applications
 trl: 4
 impact: 5
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897704/spore/technologies/97799660-4ddb-4dd7-ab3f-0d2fa0de01e2-google-gemini-3.1-flash-image-preview-enh1ph.png
 ---
 
 # Closed Ecological Systems
 
 ## Summary
 
-Self-sustaining biospheres for research, agriculture, and long-duration habitation.
+Engineered environments that recycle air, water, and nutrients to sustain life with minimal external input
 
 ## Description
 

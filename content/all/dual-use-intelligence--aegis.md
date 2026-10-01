@@ -2,7 +2,8 @@
 slug: dual-use-intelligence
 hub: aegis
 title: Dual-Use Intelligence
-summary: Managing risks of defensive tech leveraged for non-defensive purposes.
+summary: Mitigating risks when defensive technologies are repurposed for surveillance
+  or offensive use
 permalink: https://www.envisioning.com/aegis/dual-use-intelligence
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010549/aegis
 
 ## Summary
 
-Managing risks of defensive tech leveraged for non-defensive purposes.
+Mitigating risks when defensive technologies are repurposed for surveillance or offensive use
 
 ## Description
 

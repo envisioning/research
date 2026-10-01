@@ -2,7 +2,7 @@
 slug: cultural-ip-attribution-protocols
 hub: soma
 title: Cultural IP & Attribution Protocols
-summary: Standards to track and attribute cultural source material in generative systems.
+summary: Standards that track and credit cultural sources used in AI-generated content
 permalink: https://www.envisioning.com/soma/cultural-ip-attribution-protocols
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179210/soma/
 
 ## Summary
 
-Standards to track and attribute cultural source material in generative systems.
+Standards that track and credit cultural sources used in AI-generated content
 
 ## Description
 

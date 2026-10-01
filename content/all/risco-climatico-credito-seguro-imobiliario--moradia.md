@@ -2,8 +2,8 @@
 slug: risco-climatico-credito-seguro-imobiliario
 hub: moradia
 title: Risco Climático no Crédito e Seguro Imobiliário
-summary: Precificação de enchentes, calor e deslizamentos em financiamentos, seguros
-  e valuation de ativos construídos.
+summary: Precificação de enchentes, calor e deslizamentos em financiamentos e seguros
+  imobiliários
 permalink: https://www.envisioning.com/moradia/risco-climatico-credito-seguro-imobiliario
 collection: modelos-mercado-governanca
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582802/habit
 
 ## Summary
 
-Precificação de enchentes, calor e deslizamentos em financiamentos, seguros e valuation de ativos construídos.
+Precificação de enchentes, calor e deslizamentos em financiamentos e seguros imobiliários
 
 ## Description
 

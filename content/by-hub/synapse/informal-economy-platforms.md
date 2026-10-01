@@ -2,7 +2,8 @@
 slug: informal-economy-platforms
 hub: synapse
 title: Informal Economy Platforms
-summary: Digital tools empowering informal sector workers with formal-sector capabilities.
+summary: Digital tools giving informal workers access to credit, protections, and
+  business infrastructure
 permalink: https://www.envisioning.com/synapse/informal-economy-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177917/synap
 
 ## Summary
 
-Digital tools empowering informal sector workers with formal-sector capabilities.
+Digital tools giving informal workers access to credit, protections, and business infrastructure
 
 ## Description
 

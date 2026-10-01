@@ -2,7 +2,8 @@
 slug: energy-data-sovereignty
 hub: grid
 title: Energy Data Sovereignty
-summary: Frameworks empowering users to control their energy consumption data.
+summary: Governance frameworks giving consumers control over their smart meter and
+  energy usage data
 permalink: https://www.envisioning.com/grid/energy-data-sovereignty
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435998/grid/
 
 ## Summary
 
-Frameworks empowering users to control their energy consumption data.
+Governance frameworks giving consumers control over their smart meter and energy usage data
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: data-trusts-for-public-good
 hub: polis
 title: Data Trusts for Public Good
-summary: Intermediary structures for managing data rights and access.
+summary: Legal frameworks that pool data rights and negotiate collective terms for
+  public benefit
 permalink: https://www.envisioning.com/polis/data-trusts-for-public-good
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441730/polis
 
 ## Summary
 
-Intermediary structures for managing data rights and access.
+Legal frameworks that pool data rights and negotiate collective terms for public benefit
 
 ## Description
 

@@ -2,14 +2,10 @@
 slug: biobased-materials
 hub: cities
 title: Biobased Materials
-summary: With the growing global emphasis on circularity, climate change mitigation,
-  and reducing reliance on finite fossil fuel resources, this class of materials emerges
-  as a future-oriented solution. Derived from renewable biological sources, such as
-  plants, fungi, and microorganisms, these materials are biocompatible and drastically
-  reduce harm to the planet while also reducing carbon emissions and minimising reliance
-  on non-renewable resources in construction and building materials.
+summary: Construction materials derived from renewable biological sources like plants,
+  fungi, and agricultural waste
 permalink: https://www.envisioning.com/cities/biobased-materials
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 7
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792384-biobased-materials.p
 
 ## Summary
 
-With the growing global emphasis on circularity, climate change mitigation, and reducing reliance on finite fossil fuel resources, this class of materials emerges as a future-oriented solution. Derived from renewable biological sources, such as plants, fungi, and microorganisms, these materials are biocompatible and drastically reduce harm to the planet while also reducing carbon emissions and minimising reliance on non-renewable resources in construction and building materials.
+Construction materials derived from renewable biological sources like plants, fungi, and agricultural waste
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: autonomous-sustainability-monitoring
 hub: horizons
 title: Autonomous Sustainability Monitoring
-summary: AI sensor networks tracking environmental metrics in real time.
+summary: AI-powered sensor networks that track environmental metrics across cities
+  in real time
 permalink: https://www.envisioning.com/horizons/autonomous-sustainability-monitoring
-collection: intelligence-computation
+collection: software
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526119/horiz
 
 ## Summary
 
-AI sensor networks tracking environmental metrics in real time.
+AI-powered sensor networks that track environmental metrics across cities in real time
 
 ## Description
 

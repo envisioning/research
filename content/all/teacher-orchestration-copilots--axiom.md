@@ -2,7 +2,8 @@
 slug: teacher-orchestration-copilots
 hub: axiom
 title: Teacher Orchestration Copilots
-summary: Dashboards and agents that surface who needs what, when.
+summary: AI assistants that analyze classroom data to show teachers which students
+  need support and when
 permalink: https://www.envisioning.com/axiom/teacher-orchestration-copilots
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995565/axiom
 
 ## Summary
 
-Dashboards and agents that surface who needs what, when.
+AI assistants that analyze classroom data to show teachers which students need support and when
 
 ## Description
 

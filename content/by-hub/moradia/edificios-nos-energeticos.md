@@ -2,7 +2,7 @@
 slug: edificios-nos-energeticos
 hub: moradia
 title: Edifícios como Nós Energéticos
-summary: Modelo onde edifícios geram, armazenam e compartilham energia na rede urbana.
+summary: Edifícios que geram, armazenam e compartilham energia com a rede urbana
 permalink: https://www.envisioning.com/moradia/edificios-nos-energeticos
 collection: modelos-mercado-governanca
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766585824/habit
 
 ## Summary
 
-Modelo onde edifícios geram, armazenam e compartilham energia na rede urbana.
+Edifícios que geram, armazenam e compartilham energia com a rede urbana
 
 ## Description
 

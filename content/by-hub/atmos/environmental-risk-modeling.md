@@ -2,7 +2,8 @@
 slug: environmental-risk-modeling
 hub: atmos
 title: Environmental Risk Modeling
-summary: AI forecasting for wildfires, floods, and supply chain stress.
+summary: Satellite and AI-driven forecasts for wildfires, floods, and climate-driven
+  supply chain disruptions
 permalink: https://www.envisioning.com/atmos/environmental-risk-modeling
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995640/atmos
 
 ## Summary
 
-AI forecasting for wildfires, floods, and supply chain stress.
+Satellite and AI-driven forecasts for wildfires, floods, and climate-driven supply chain disruptions
 
 ## Description
 

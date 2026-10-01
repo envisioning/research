@@ -2,21 +2,21 @@
 slug: quantum-slipstream
 hub: subspace
 title: Quantum Slipstream Drive
-summary: Experimental propulsion creating quantum tunnels through subspace for velocities
-  exceeding conventional warp by orders of magnitude.
+summary: Experimental propulsion creating quantum tunnels through subspace for faster-than-light
+  travel
 permalink: https://www.envisioning.com/subspace/quantum-slipstream
 collection: propulsion
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211135/subspaceindex/technologies/quantum-slipstream.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908795/subspace/technologies/quantum-slipstream-openrouter-google-gemini-3.1-flash-image-preview-ux64qm.png
 ---
 
 # Quantum Slipstream Drive
 
 ## Summary
 
-Experimental propulsion creating quantum tunnels through subspace for velocities exceeding conventional warp by orders of magnitude.
+Experimental propulsion creating quantum tunnels through subspace for faster-than-light travel
 
 ## Description
 

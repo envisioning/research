@@ -2,7 +2,7 @@
 slug: aproveitamento-biogas-saneamento-residuos
 hub: moradia
 title: Aproveitamento de Biogás
-summary: Captura e uso energético de biogás de esgoto e resíduos sólidos urbanos.
+summary: Conversão de resíduos urbanos e esgoto em energia através da captura de biogás
 permalink: https://www.envisioning.com/moradia/aproveitamento-biogas-saneamento-residuos
 collection: cidade-infraestrutura-urbana
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360176/conec
 
 ## Summary
 
-Captura e uso energético de biogás de esgoto e resíduos sólidos urbanos.
+Conversão de resíduos urbanos e esgoto em energia através da captura de biogás
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: utm-systems
 hub: vector
 title: UAM Traffic Management (UTM)
-summary: Digital airspace management for drones and air taxis.
+summary: Digital infrastructure coordinating low-altitude drones and air taxis in
+  urban airspace
 permalink: https://www.envisioning.com/vector/utm-systems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441610/vecto
 
 ## Summary
 
-Digital airspace management for drones and air taxis.
+Digital infrastructure coordinating low-altitude drones and air taxis in urban airspace
 
 ## Description
 

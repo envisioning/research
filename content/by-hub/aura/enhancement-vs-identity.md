@@ -2,7 +2,8 @@
 slug: enhancement-vs-identity
 hub: aura
 title: Enhancement vs. Identity
-summary: Tensions around personality shifts from aesthetics.
+summary: Ethical tensions between aesthetic enhancement and shifts in personality
+  or self-perception
 permalink: https://www.envisioning.com/aura/enhancement-vs-identity
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010132/aura/
 
 ## Summary
 
-Tensions around personality shifts from aesthetics.
+Ethical tensions between aesthetic enhancement and shifts in personality or self-perception
 
 ## Description
 

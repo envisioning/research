@@ -2,8 +2,8 @@
 slug: force-feedback-gloves
 hub: pixels
 title: Force-Feedback Gloves
-summary: Gloves with exoskeletal tendons providing resistance when grabbing virtual
-  objects.
+summary: Wearable haptics that simulate resistance and texture when interacting with
+  virtual objects
 permalink: https://www.envisioning.com/pixels/force-feedback-gloves
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058893/pixel
 
 ## Summary
 
-Gloves with exoskeletal tendons providing resistance when grabbing virtual objects.
+Wearable haptics that simulate resistance and texture when interacting with virtual objects
 
 ## Description
 

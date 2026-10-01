@@ -2,21 +2,21 @@
 slug: position-adaptive-3d-spatial-audio
 hub: interface
 title: Position-Adaptive 3D Spatial Audio
-summary: Machine learning-based spatial audio that adapts to listener position, eliminating
-  fixed "sweet spots" for speakers.
+summary: Audio systems that track listener position to maintain optimal 3D sound anywhere
+  in the room
 permalink: https://www.envisioning.com/interface/position-adaptive-3d-spatial-audio
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882420/interface/technologies/0c2e0f0d-c80d-476e-b2f7-06ba2c4b141b-google-gemini-3.1-flash-image-preview-4lgjaf.jpg
 ---
 
 # Position-Adaptive 3D Spatial Audio
 
 ## Summary
 
-Machine learning-based spatial audio that adapts to listener position, eliminating fixed "sweet spots" for speakers.
+Audio systems that track listener position to maintain optimal 3D sound anywhere in the room
 
 ## Description
 

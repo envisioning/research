@@ -2,21 +2,21 @@
 slug: urban-air-mobility-uam-platforms
 hub: interface
 title: Urban Air Mobility (UAM) Platforms
-summary: Autonomous eVTOL aircraft (multicopter and powered-lift) for personal and
-  taxi air transport.
+summary: Electric aircraft that take off vertically for urban air taxi and personal
+  transport services
 permalink: https://www.envisioning.com/interface/urban-air-mobility-uam-platforms
-collection: consumer-electronics-platforms
+collection: applications
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886763/interface/technologies/3f1543fc-6f11-4d66-a96e-d9d7df23d96a-google-gemini-3.1-flash-image-preview-u2yz6f.png
 ---
 
 # Urban Air Mobility (UAM) Platforms
 
 ## Summary
 
-Autonomous eVTOL aircraft (multicopter and powered-lift) for personal and taxi air transport.
+Electric aircraft that take off vertically for urban air taxi and personal transport services
 
 ## Description
 

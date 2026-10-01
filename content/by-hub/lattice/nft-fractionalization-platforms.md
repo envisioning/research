@@ -2,7 +2,7 @@
 slug: nft-fractionalization-platforms
 hub: lattice
 title: NFT Fractionalization
-summary: Protocols splitting digital collectibles into fungible shares.
+summary: Splitting NFTs into tradable shares for collective ownership and liquidity
 permalink: https://www.envisioning.com/lattice/nft-fractionalization-platforms
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179938/latti
 
 ## Summary
 
-Protocols splitting digital collectibles into fungible shares.
+Splitting NFTs into tradable shares for collective ownership and liquidity
 
 ## Description
 

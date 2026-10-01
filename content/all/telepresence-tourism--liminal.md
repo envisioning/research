@@ -2,7 +2,8 @@
 slug: telepresence-tourism
 hub: liminal
 title: Telepresence Tourism
-summary: Remote exploration via sensory-rich robotic avatars.
+summary: Explore distant places through remotely controlled robotic avatars with sensory
+  feedback
 permalink: https://www.envisioning.com/liminal/telepresence-tourism
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124140/limin
 
 ## Summary
 
-Remote exploration via sensory-rich robotic avatars.
+Explore distant places through remotely controlled robotic avatars with sensory feedback
 
 ## Description
 

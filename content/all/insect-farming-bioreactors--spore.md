@@ -2,7 +2,7 @@
 slug: insect-farming-bioreactors
 hub: spore
 title: Insect Farming Bioreactors
-summary: Climate-controlled stacks for mealworm and black soldier fly protein.
+summary: Automated vertical systems for mass-producing insect protein from food waste
 permalink: https://www.envisioning.com/spore/insect-farming-bioreactors
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179597/spore
 
 ## Summary
 
-Climate-controlled stacks for mealworm and black soldier fly protein.
+Automated vertical systems for mass-producing insect protein from food waste
 
 ## Description
 

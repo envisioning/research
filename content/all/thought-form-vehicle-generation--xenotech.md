@@ -2,22 +2,21 @@
 slug: thought-form-vehicle-generation
 hub: xenotech
 title: Thought-Form Vehicles
-summary: Consciousness-powered field generation enabling materialization of navigable
-  craft from coherent thought or light energy, as described in higher-density being
-  technology.
+summary: Materializing navigable craft through consciousness-directed field generation
+  and coherent thought patterns
 permalink: https://www.envisioning.com/xenotech/thought-form-vehicle-generation
 collection: materials-structures
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761405083/xenotech/technologies/thought-form-vehicle-generation.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903308/xenotech/technologies/thought-form-vehicle-generation-openrouter-google-gemini-3.1-flash-image-preview-bryuqk.png
 ---
 
 # Thought-Form Vehicles
 
 ## Summary
 
-Consciousness-powered field generation enabling materialization of navigable craft from coherent thought or light energy, as described in higher-density being technology.
+Materializing navigable craft through consciousness-directed field generation and coherent thought patterns
 
 ## Description
 

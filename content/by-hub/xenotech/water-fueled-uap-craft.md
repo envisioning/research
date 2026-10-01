@@ -2,21 +2,21 @@
 slug: water-fueled-uap-craft
 hub: xenotech
 title: Water-Fueled Craft
-summary: Encounter-reported UAP craft alleged to ingest water and transmute it into
-  high-density plasma or zero-point energy feedstock powering reactionless field drives.
+summary: Witness accounts of craft that reportedly extract and convert water into
+  propulsion energy
 permalink: https://www.envisioning.com/xenotech/water-fueled-uap-craft
 collection: propulsion-physics
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762697862/xenotech/technologies/water-fueled-uap-craft-openai-gpt-5-bk53iv.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903514/xenotech/technologies/water-fueled-uap-craft-openrouter-google-gemini-3.1-flash-image-preview-mhf60i.png
 ---
 
 # Water-Fueled Craft
 
 ## Summary
 
-Encounter-reported UAP craft alleged to ingest water and transmute it into high-density plasma or zero-point energy feedstock powering reactionless field drives.
+Witness accounts of craft that reportedly extract and convert water into propulsion energy
 
 ## Description
 

@@ -2,19 +2,21 @@
 slug: carbon-nanotube-field-effect-transistor
 hub: horizons
 title: Carbon Nanotube Field-Effect Transistor
-summary: Nanoscale transistors using carbon nanotubes for future miniaturization beyond silicon.
+summary: Nanoscale transistors using carbon nanotubes as the channel material for
+  sub-5 nm electronics
 permalink: https://www.envisioning.com/horizons/carbon-nanotube-field-effect-transistor
 collection: hardware
 trl: 4
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889227/horizons/technologies/766700c3-49a3-45a9-b424-3aed3319a717-google-gemini-3.1-flash-image-preview-sqbear.jpg
 ---
 
 # Carbon Nanotube Field-Effect Transistor
 
 ## Summary
 
-Nanoscale transistors using carbon nanotubes for future miniaturization beyond silicon.
+Nanoscale transistors using carbon nanotubes as the channel material for sub-5 nm electronics
 
 ## Description
 

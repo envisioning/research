@@ -2,7 +2,8 @@
 slug: virtual-field-trips
 hub: axiom
 title: Virtual Field Trips
-summary: VR/360° excursions to historical, ecological, and industrial sites.
+summary: Immersive VR and 360° video experiences that transport students to distant
+  learning destinations
 permalink: https://www.envisioning.com/axiom/virtual-field-trips
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162166/axiom
 
 ## Summary
 
-VR/360° excursions to historical, ecological, and industrial sites.
+Immersive VR and 360° video experiences that transport students to distant learning destinations
 
 ## Description
 

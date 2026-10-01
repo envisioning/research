@@ -2,19 +2,21 @@
 slug: digital-wallets
 hub: lattice
 title: Digital Wallets
-summary: Mobile and software applications for storing payment credentials and digital assets.
+summary: Software applications storing payment credentials, crypto keys, and identity
+  documents for contactless transactions
 permalink: https://www.envisioning.com/lattice/digital-wallets
 collection: applications
 trl: 9
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883168/lattice/technologies/3322fcac-de2f-483c-b173-4308a712b541-google-gemini-3.1-flash-image-preview-gepxoe.jpg
 ---
 
 # Digital Wallets
 
 ## Summary
 
-Mobile and software applications for storing payment credentials and digital assets.
+Software applications storing payment credentials, crypto keys, and identity documents for contactless transactions
 
 ## Description
 

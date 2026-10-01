@@ -2,7 +2,8 @@
 slug: reconfigurable-intelligent-surfaces
 hub: substrate
 title: Reconfigurable Intelligent Surfaces (RIS)
-summary: Programmable radio surfaces that steer and shape wireless signals.
+summary: Programmable meta-material panels that actively steer and shape wireless
+  signals in real-time
 permalink: https://www.envisioning.com/substrate/reconfigurable-intelligent-surfaces
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117920/subst
 
 ## Summary
 
-Programmable radio surfaces that steer and shape wireless signals.
+Programmable meta-material panels that actively steer and shape wireless signals in real-time
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-alignment-protocols
 hub: quadrant
 title: AI Alignment Protocols
-summary: Safety frameworks ensuring autonomous systems match human intent.
+summary: Safety frameworks ensuring autonomous industrial systems operate according
+  to human values and intent
 permalink: https://www.envisioning.com/quadrant/ai-alignment-protocols
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123923/quadr
 
 ## Summary
 
-Safety frameworks ensuring autonomous systems match human intent.
+Safety frameworks ensuring autonomous industrial systems operate according to human values and intent
 
 ## Description
 

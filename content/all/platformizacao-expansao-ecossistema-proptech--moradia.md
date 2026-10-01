@@ -2,10 +2,8 @@
 slug: platformizacao-expansao-ecossistema-proptech
 hub: moradia
 title: Platformização e Expansão de Ecossistema Proptech
-summary: Evolução de plataformas proptech de produtos únicos para ecossistemas integrados
-  que unificam múltiplas etapas da jornada habitacional, incluindo busca inteligente
-  com geo-embeddings, locação e transação digital, gestão de propriedades e serviços
-  relacionados em um único ecossistema tecnológico.
+summary: Ecossistemas integrados que unificam busca, locação, transação e gestão de
+  imóveis em uma única plataforma
 permalink: https://www.envisioning.com/moradia/platformizacao-expansao-ecossistema-proptech
 collection: modelos-mercado-governanca
 trl: 4
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598660/habit
 
 ## Summary
 
-Evolução de plataformas proptech de produtos únicos para ecossistemas integrados que unificam múltiplas etapas da jornada habitacional, incluindo busca inteligente com geo-embeddings, locação e transação digital, gestão de propriedades e serviços relacionados em um único ecossistema tecnológico.
+Ecossistemas integrados que unificam busca, locação, transação e gestão de imóveis em uma única plataforma
 
 ## Description
 

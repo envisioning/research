@@ -2,7 +2,8 @@
 slug: smart-city-infrastructure-networks
 hub: link
 title: Smart City Infrastructure Networks
-summary: Integrated connectivity fabric for traffic, utilities, and public services.
+summary: Unified digital networks connecting traffic, utilities, and public services
+  across cities
 permalink: https://www.envisioning.com/link/smart-city-infrastructure-networks
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441640/link/
 
 ## Summary
 
-Integrated connectivity fabric for traffic, utilities, and public services.
+Unified digital networks connecting traffic, utilities, and public services across cities
 
 ## Description
 

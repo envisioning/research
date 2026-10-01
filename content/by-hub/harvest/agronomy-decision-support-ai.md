@@ -2,7 +2,8 @@
 slug: agronomy-decision-support-ai
 hub: harvest
 title: Agronomy Decision Support AI
-summary: Recommendation engines for input and practice decisions.
+summary: AI systems that analyze farm data to recommend optimal planting, fertilization,
+  and crop management decisions
 permalink: https://www.envisioning.com/harvest/agronomy-decision-support-ai
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128497/harve
 
 ## Summary
 
-Recommendation engines for input and practice decisions.
+AI systems that analyze farm data to recommend optimal planting, fertilization, and crop management decisions
 
 ## Description
 

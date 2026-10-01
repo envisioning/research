@@ -2,7 +2,8 @@
 slug: space-resource-utilization
 hub: stratum
 title: Space Resource Utilization (ISRU)
-summary: Extracting water, oxygen, and metals from lunar and asteroid regolith.
+summary: Extracting and processing water, oxygen, and metals directly from lunar and
+  asteroid materials
 permalink: https://www.envisioning.com/stratum/space-resource-utilization
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179240/strat
 
 ## Summary
 
-Extracting water, oxygen, and metals from lunar and asteroid regolith.
+Extracting and processing water, oxygen, and metals directly from lunar and asteroid materials
 
 ## Description
 

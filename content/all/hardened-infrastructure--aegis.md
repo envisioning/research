@@ -2,7 +2,8 @@
 slug: hardened-infrastructure
 hub: aegis
 title: Hardened Infrastructure & Materials
-summary: Blast-resistant metamaterials and deployable microgrid energy units.
+summary: Blast-resistant materials and resilient power systems for critical infrastructure
+  protection
 permalink: https://www.envisioning.com/aegis/hardened-infrastructure
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990795/aegis
 
 ## Summary
 
-Blast-resistant metamaterials and deployable microgrid energy units.
+Blast-resistant materials and resilient power systems for critical infrastructure protection
 
 ## Description
 

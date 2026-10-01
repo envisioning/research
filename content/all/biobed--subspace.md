@@ -2,21 +2,21 @@
 slug: biobed
 hub: subspace
 title: Biobed
-summary: Advanced medical treatment platform with integrated diagnostic and life support
-  systems.
+summary: Integrated medical platform combining diagnostics, life support, and automated
+  treatment delivery
 permalink: https://www.envisioning.com/subspace/biobed
 collection: biotechnology
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760209947/subspaceindex/technologies/biobed.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907522/subspace/technologies/biobed-openrouter-google-gemini-3.1-flash-image-preview-lfswxo.png
 ---
 
 # Biobed
 
 ## Summary
 
-Advanced medical treatment platform with integrated diagnostic and life support systems.
+Integrated medical platform combining diagnostics, life support, and automated treatment delivery
 
 ## Description
 

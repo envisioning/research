@@ -2,7 +2,8 @@
 slug: environmental-footprint-labeling
 hub: harvest
 title: Environmental Footprint Labeling
-summary: Standardized climate and ecosystem impact disclosures.
+summary: Standardized labels showing a product's climate, water, and ecosystem impacts
+  across its lifecycle
 permalink: https://www.envisioning.com/harvest/environmental-footprint-labeling
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128640/harve
 
 ## Summary
 
-Standardized climate and ecosystem impact disclosures.
+Standardized labels showing a product's climate, water, and ecosystem impacts across its lifecycle
 
 ## Description
 

@@ -2,20 +2,20 @@
 slug: tr-116-rifle
 hub: subspace
 title: TR-116 Projectile Rifle
-summary: Chemical-propellant rifle designed to bypass shields.
+summary: Chemical-propellant rifle firing solid projectiles to bypass energy shields
 permalink: https://www.envisioning.com/subspace/tr-116-rifle
 collection: weapons
 trl: 8
 impact: 1
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760274113/subspaceindex/technologies/tr-116-rifle.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909173/subspace/technologies/tr-116-rifle-openrouter-google-gemini-3.1-flash-image-preview-knyoih.png
 ---
 
 # TR-116 Projectile Rifle
 
 ## Summary
 
-Chemical-propellant rifle designed to bypass shields.
+Chemical-propellant rifle firing solid projectiles to bypass energy shields
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: infraestrutura-verde-azul-drenagem-sustentavel
 hub: moradia
 title: Infraestrutura Verde-Azul e Drenagem Urbana Sustentável
-summary: Soluções de drenagem e resiliência que reduzem alagamentos e ilhas de calor
-  com pavimentos permeáveis, jardins de chuva e paisagismo funcional.
+summary: Soluções naturais de drenagem que infiltram água da chuva no solo, reduzindo
+  alagamentos e ilhas de calor
 permalink: https://www.envisioning.com/moradia/infraestrutura-verde-azul-drenagem-sustentavel
 collection: cidade-infraestrutura-urbana
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570404/habit
 
 ## Summary
 
-Soluções de drenagem e resiliência que reduzem alagamentos e ilhas de calor com pavimentos permeáveis, jardins de chuva e paisagismo funcional.
+Soluções naturais de drenagem que infiltram água da chuva no solo, reduzindo alagamentos e ilhas de calor
 
 ## Description
 

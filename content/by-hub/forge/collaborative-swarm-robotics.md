@@ -2,7 +2,8 @@
 slug: collaborative-swarm-robotics
 hub: forge
 title: Collaborative Swarm Robotics
-summary: Decentralized groups of robots coordinating to perform complex tasks.
+summary: Networks of autonomous robots coordinating through local interactions to
+  complete tasks
 permalink: https://www.envisioning.com/forge/collaborative-swarm-robotics
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118400/forge
 
 ## Summary
 
-Decentralized groups of robots coordinating to perform complex tasks.
+Networks of autonomous robots coordinating through local interactions to complete tasks
 
 ## Description
 

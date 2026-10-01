@@ -2,7 +2,7 @@
 slug: micromobility-integration
 hub: vector
 title: Micromobility Integration
-summary: E-scooters, e-bikes, and shared cycles in urban transport networks.
+summary: E-scooters, e-bikes, and shared cycles integrated into urban transport systems
 permalink: https://www.envisioning.com/vector/micromobility-integration
 collection: applications
 trl: 9
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182249/vecto
 
 ## Summary
 
-E-scooters, e-bikes, and shared cycles in urban transport networks.
+E-scooters, e-bikes, and shared cycles integrated into urban transport systems
 
 ## Description
 

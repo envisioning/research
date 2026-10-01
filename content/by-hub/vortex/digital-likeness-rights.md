@@ -2,7 +2,8 @@
 slug: digital-likeness-rights
 hub: vortex
 title: Digital Likeness Rights
-summary: Ownership and control over digital replicas.
+summary: Legal frameworks protecting individuals' control over AI-generated replicas
+  of their appearance and voice
 permalink: https://www.envisioning.com/vortex/digital-likeness-rights
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127358/vorte
 
 ## Summary
 
-Ownership and control over digital replicas.
+Legal frameworks protecting individuals' control over AI-generated replicas of their appearance and voice
 
 ## Description
 

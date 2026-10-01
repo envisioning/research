@@ -2,7 +2,8 @@
 slug: space-based-solar-power
 hub: continuum
 title: Space-Based Solar Power
-summary: Orbital solar arrays beaming energy to Earth.
+summary: Orbital solar arrays transmitting continuous energy to Earth via microwave
+  or laser beams
 permalink: https://www.envisioning.com/continuum/space-based-solar-power
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124344/conti
 
 ## Summary
 
-Orbital solar arrays beaming energy to Earth.
+Orbital solar arrays transmitting continuous energy to Earth via microwave or laser beams
 
 ## Description
 

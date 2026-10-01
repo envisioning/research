@@ -2,7 +2,7 @@
 slug: vehicle-to-grid
 hub: substrate
 title: Vehicle-to-Grid (V2G) Integration
-summary: Using electric vehicles as flexible, mobile storage for grid services.
+summary: Bidirectional charging that turns electric vehicles into mobile grid batteries
 permalink: https://www.envisioning.com/substrate/vehicle-to-grid
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117378/subst
 
 ## Summary
 
-Using electric vehicles as flexible, mobile storage for grid services.
+Bidirectional charging that turns electric vehicles into mobile grid batteries
 
 ## Description
 

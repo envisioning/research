@@ -2,7 +2,8 @@
 slug: identity-compartmentalization-managers
 hub: beacon
 title: Identity Compartmentalization Managers
-summary: Managing and isolating multiple digital personas.
+summary: Systems that prevent unintended data linkage across separate digital personas
+  and contexts
 permalink: https://www.envisioning.com/beacon/identity-compartmentalization-managers
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126238/beaco
 
 ## Summary
 
-Managing and isolating multiple digital personas.
+Systems that prevent unintended data linkage across separate digital personas and contexts
 
 ## Description
 

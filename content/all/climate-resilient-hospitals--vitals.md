@@ -2,8 +2,8 @@
 slug: climate-resilient-hospitals
 hub: vitals
 title: Climate-Resilient Hospital Infrastructure
-summary: Buildings and systems designed to withstand extreme weather and maintain
-  operations during climate disruptions.
+summary: Hospital design and engineering that maintains operations through extreme
+  weather and climate disruptions
 permalink: https://www.envisioning.com/vitals/climate-resilient-hospitals
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441642/vital
 
 ## Summary
 
-Buildings and systems designed to withstand extreme weather and maintain operations during climate disruptions.
+Hospital design and engineering that maintains operations through extreme weather and climate disruptions
 
 ## Description
 

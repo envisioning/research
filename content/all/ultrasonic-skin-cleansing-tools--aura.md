@@ -2,7 +2,7 @@
 slug: ultrasonic-skin-cleansing-tools
 hub: aura
 title: Ultrasonic Skin Cleansing Devices
-summary: High-frequency spatulas dislodging debris and improving absorption.
+summary: High-frequency vibration tools that deep-clean pores and boost product absorption
 permalink: https://www.envisioning.com/aura/ultrasonic-skin-cleansing-tools
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074014/aura/
 
 ## Summary
 
-High-frequency spatulas dislodging debris and improving absorption.
+High-frequency vibration tools that deep-clean pores and boost product absorption
 
 ## Description
 

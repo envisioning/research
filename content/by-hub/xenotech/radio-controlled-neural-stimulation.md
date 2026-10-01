@@ -2,22 +2,21 @@
 slug: radio-controlled-neural-stimulation
 hub: xenotech
 title: Radio-Controlled Neural Stimulation
-summary: Surgically implanted radio-controlled electrodes enabling remote electromagnetic
-  behavioral control through wireless brain stimulation, developed in CIA-funded research
-  programs during the 1960s.
+summary: Implanted electrodes enabling wireless brain stimulation via radio signals
+  for behavioral research
 permalink: https://www.envisioning.com/xenotech/radio-controlled-neural-stimulation
 collection: consciousness-interface
 trl: 3
 impact: 5
 investment: 6
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762006828/xenotech/technologies/radio-controlled-neural-stimulation-openai-gpt-5-1v1den.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902873/xenotech/technologies/radio-controlled-neural-stimulation-openrouter-google-gemini-3.1-flash-image-preview-nwqas4.png
 ---
 
 # Radio-Controlled Neural Stimulation
 
 ## Summary
 
-Surgically implanted radio-controlled electrodes enabling remote electromagnetic behavioral control through wireless brain stimulation, developed in CIA-funded research programs during the 1960s.
+Implanted electrodes enabling wireless brain stimulation via radio signals for behavioral research
 
 ## Description
 

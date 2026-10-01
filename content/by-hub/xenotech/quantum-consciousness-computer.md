@@ -2,21 +2,21 @@
 slug: quantum-consciousness-computer
 hub: xenotech
 title: Noetic Computing
-summary: Proposed quantum computer utilizing consciousness as computational substrate
-  via microtubules.
+summary: Computing architecture that attempts to use quantum processes in brain microtubules
+  as processors
 permalink: https://www.envisioning.com/xenotech/quantum-consciousness-computer
 collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760823124/xenotech/technologies/quantum-consciousness-computer.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899017/xenotech/technologies/quantum-consciousness-computer-openrouter-google-gemini-3.1-flash-image-preview-hs89k8.png
 ---
 
 # Noetic Computing
 
 ## Summary
 
-Proposed quantum computer utilizing consciousness as computational substrate via microtubules.
+Computing architecture that attempts to use quantum processes in brain microtubules as processors
 
 ## Description
 

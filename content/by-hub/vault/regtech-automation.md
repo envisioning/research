@@ -2,7 +2,8 @@
 slug: regtech-automation
 hub: vault
 title: AI-Powered Regulatory Compliance
-summary: Automated monitoring and reporting systems.
+summary: Automated systems that monitor transactions and generate compliance reports
+  for financial regulations
 permalink: https://www.envisioning.com/vault/regtech-automation
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131029/vault
 
 ## Summary
 
-Automated monitoring and reporting systems.
+Automated systems that monitor transactions and generate compliance reports for financial regulations
 
 ## Description
 

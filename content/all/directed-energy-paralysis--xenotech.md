@@ -2,22 +2,21 @@
 slug: directed-energy-paralysis
 hub: xenotech
 title: Directed-Energy Paralysis Arrays
-summary: High-power microwave or particle-beam systems allegedly capable of inducing
-  temporary neuromuscular paralysis without visible injury, mirroring COMETA descriptions
-  of UAP encounters where witnesses were immobilized while conscious.
+summary: Non-lethal beam systems claimed to temporarily disrupt neuromuscular control
+  in biological targets
 permalink: https://www.envisioning.com/xenotech/directed-energy-paralysis
 collection: defense-surveillance
 trl: 2
 impact: 3
 investment: 2
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898029/xenotech/technologies/directed-energy-paralysis-openrouter-google-gemini-3.1-flash-image-preview-lacg1t.png
 ---
 
 # Directed-Energy Paralysis Arrays
 
 ## Summary
 
-High-power microwave or particle-beam systems allegedly capable of inducing temporary neuromuscular paralysis without visible injury, mirroring COMETA descriptions of UAP encounters where witnesses were immobilized while conscious.
+Non-lethal beam systems claimed to temporarily disrupt neuromuscular control in biological targets
 
 ## Description
 

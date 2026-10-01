@@ -2,7 +2,8 @@
 slug: real-time-water-quality
 hub: substrate
 title: Real-Time Water Quality Biosensing
-summary: In-situ biosensors monitoring contaminants and pathogens at high frequency.
+summary: Continuous molecular sensors detecting contaminants in water distribution
+  networks
 permalink: https://www.envisioning.com/substrate/real-time-water-quality
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117917/subst
 
 ## Summary
 
-In-situ biosensors monitoring contaminants and pathogens at high frequency.
+Continuous molecular sensors detecting contaminants in water distribution networks
 
 ## Description
 

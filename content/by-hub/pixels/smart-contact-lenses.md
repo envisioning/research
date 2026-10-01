@@ -2,7 +2,7 @@
 slug: smart-contact-lenses
 hub: pixels
 title: Smart Contact Lenses
-summary: In-eye AR displays for seamless Heads-Up Displays (HUDs).
+summary: Wearable AR displays embedded in contact lenses for always-on visual overlays
 permalink: https://www.envisioning.com/pixels/smart-contact-lenses
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058953/pixel
 
 ## Summary
 
-In-eye AR displays for seamless Heads-Up Displays (HUDs).
+Wearable AR displays embedded in contact lenses for always-on visual overlays
 
 ## Description
 

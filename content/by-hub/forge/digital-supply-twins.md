@@ -2,7 +2,8 @@
 slug: digital-supply-twins
 hub: forge
 title: Digital Supply Chain Twins
-summary: Real-time virtual replicas of entire supply networks for simulation.
+summary: Virtual replicas of supply networks that mirror real-time operations for
+  testing and optimization
 permalink: https://www.envisioning.com/forge/digital-supply-twins
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118397/forge
 
 ## Summary
 
-Real-time virtual replicas of entire supply networks for simulation.
+Virtual replicas of supply networks that mirror real-time operations for testing and optimization
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: edge-orchestration-platforms
 hub: quadrant
 title: Edge Orchestration Platforms
-summary: Software to manage containers, models, and data across edge nodes.
+summary: Distributed management of AI models, containers, and workloads across edge
+  computing networks
 permalink: https://www.envisioning.com/quadrant/edge-orchestration-platforms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126808/quadr
 
 ## Summary
 
-Software to manage containers, models, and data across edge nodes.
+Distributed management of AI models, containers, and workloads across edge computing networks
 
 ## Description
 

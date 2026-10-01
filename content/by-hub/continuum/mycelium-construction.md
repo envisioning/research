@@ -2,7 +2,8 @@
 slug: mycelium-construction
 hub: continuum
 title: Mycelium-Based Construction
-summary: Living building materials grown from fungal networks.
+summary: Building materials grown from fungal networks as a low-carbon alternative
+  to concrete and steel
 permalink: https://www.envisioning.com/continuum/mycelium-construction
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125435/conti
 
 ## Summary
 
-Living building materials grown from fungal networks.
+Building materials grown from fungal networks as a low-carbon alternative to concrete and steel
 
 ## Description
 

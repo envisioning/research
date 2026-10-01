@@ -2,19 +2,21 @@
 slug: nanoradio
 hub: horizons
 title: Nanoradio
-summary: Radio receivers and transmitters at the nanometer scale.
+summary: Radio-frequency receivers and transmitters built from carbon nanotubes and
+  nanowires
 permalink: https://www.envisioning.com/horizons/nanoradio
 collection: hardware
 trl: 4
 impact: 3
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898193/horizons/technologies/ab8fc233-ae4e-47d4-8dac-6b4d57cee118-google-gemini-3.1-flash-image-preview-4osu2h.jpg
 ---
 
 # Nanoradio
 
 ## Summary
 
-Radio receivers and transmitters at the nanometer scale.
+Radio-frequency receivers and transmitters built from carbon nanotubes and nanowires
 
 ## Description
 

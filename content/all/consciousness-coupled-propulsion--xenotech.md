@@ -2,23 +2,21 @@
 slug: consciousness-coupled-propulsion
 hub: xenotech
 title: Consciousness-Coupled Propulsion
-summary: Propulsion systems allegedly responsive to consciousness, thought, and intent—where
-  craft navigate by mental command rather than mechanical controls. Consistently reported
-  across military UAP encounters, civilian close encounters, and abduction testimony
-  spanning decades.
+summary: Propulsion systems allegedly controlled by thought and intent rather than
+  mechanical interfaces
 permalink: https://www.envisioning.com/xenotech/consciousness-coupled-propulsion
 collection: propulsion-physics
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762698169/xenotech/technologies/consciousness-coupled-propulsion-openai-gpt-5-7bbcxl.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897905/xenotech/technologies/consciousness-coupled-propulsion-openrouter-google-gemini-3.1-flash-image-preview-c8gd6q.png
 ---
 
 # Consciousness-Coupled Propulsion
 
 ## Summary
 
-Propulsion systems allegedly responsive to consciousness, thought, and intent—where craft navigate by mental command rather than mechanical controls. Consistently reported across military UAP encounters, civilian close encounters, and abduction testimony spanning decades.
+Propulsion systems allegedly controlled by thought and intent rather than mechanical interfaces
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: capacitacao-tecnica-utilities-digitais
 hub: moradia
 title: Capacitação Técnica para Utilities Digitais
-summary: Formação de mão de obra em IoT, automação, dados e cibersegurança para infraestrutura.
+summary: Formação profissional em IoT, automação e cibersegurança para serviços essenciais
+  digitalizados
 permalink: https://www.envisioning.com/moradia/capacitacao-tecnica-utilities-digitais
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359763/conec
 
 ## Summary
 
-Formação de mão de obra em IoT, automação, dados e cibersegurança para infraestrutura.
+Formação profissional em IoT, automação e cibersegurança para serviços essenciais digitalizados
 
 ## Description
 

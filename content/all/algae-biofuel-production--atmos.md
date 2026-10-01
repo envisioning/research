@@ -2,7 +2,8 @@
 slug: algae-biofuel-production
 hub: atmos
 title: Algae Biofuel Production
-summary: Photobioreactors producing drop-in aviation fuels.
+summary: Cultivating microalgae in photobioreactors to produce sustainable aviation
+  fuel and renewable diesel
 permalink: https://www.envisioning.com/atmos/algae-biofuel-production
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764178795/atmos
 
 ## Summary
 
-Photobioreactors producing drop-in aviation fuels.
+Cultivating microalgae in photobioreactors to produce sustainable aviation fuel and renewable diesel
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: hyper-personalized-education-avatars
 hub: prism
 title: Hyper-personalized Education Avatars
-summary: AI tutors with evolving personalities that grow alongside the student.
+summary: AI tutors that adapt their personality, appearance, and teaching style as
+  students learn and grow
 permalink: https://www.envisioning.com/prism/hyper-personalized-education-avatars
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074499/pulse
 
 ## Summary
 
-AI tutors with evolving personalities that grow alongside the student.
+AI tutors that adapt their personality, appearance, and teaching style as students learn and grow
 
 ## Description
 

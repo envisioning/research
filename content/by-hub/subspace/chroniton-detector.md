@@ -2,21 +2,21 @@
 slug: chroniton-detector
 hub: subspace
 title: Chroniton Detector
-summary: Specialized sensor for detecting temporal particles and identifying time
-  travel events.
+summary: Sensors designed to detect hypothetical particles associated with temporal
+  disturbances and time travel
 permalink: https://www.envisioning.com/subspace/chroniton-detector
 collection: sensors
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760215602/subspaceindex/technologies/chroniton-detector.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907626/subspace/technologies/chroniton-detector-openrouter-google-gemini-3.1-flash-image-preview-116fpx.png
 ---
 
 # Chroniton Detector
 
 ## Summary
 
-Specialized sensor for detecting temporal particles and identifying time travel events.
+Sensors designed to detect hypothetical particles associated with temporal disturbances and time travel
 
 ## Description
 

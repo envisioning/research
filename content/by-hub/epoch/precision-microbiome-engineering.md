@@ -2,21 +2,21 @@
 slug: precision-microbiome-engineering
 hub: epoch
 title: Precision Microbiome Engineering
-summary: Targeted modification of gut microbiota to restore youthful metabolic and
-  immune profiles.
+summary: Targeted reshaping of gut bacteria to restore youthful metabolic and immune
+  function
 permalink: https://www.envisioning.com/epoch/precision-microbiome-engineering
 collection: applications
 trl: 6
 impact: 4
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889378/epoch/technologies/7b2ae593-5271-4da5-8818-116d52cacaf4-google-gemini-3.1-flash-image-preview-z4qzqv.jpg
 ---
 
 # Precision Microbiome Engineering
 
 ## Summary
 
-Targeted modification of gut microbiota to restore youthful metabolic and immune profiles.
+Targeted reshaping of gut bacteria to restore youthful metabolic and immune function
 
 ## Description
 

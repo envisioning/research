@@ -2,22 +2,21 @@
 slug: electroceuticals-bioelectric-therapies
 hub: xenotech
 title: Electroceuticals
-summary: Therapeutic interventions using bioelectric modulation to treat disease,
-  suppress tumors, and enhance regeneration by normalizing tissue voltage patterns
-  without genetic modification.
+summary: Therapeutic interventions using bioelectric signals to treat disease and
+  trigger regeneration
 permalink: https://www.envisioning.com/xenotech/electroceuticals-bioelectric-therapies
 collection: biology-hybridization
 trl: 4
 impact: 4
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762005082/xenotech/technologies/electroceuticals-bioelectric-therapies-openai-gpt-5-5ubtrt.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898154/xenotech/technologies/electroceuticals-bioelectric-therapies-openrouter-google-gemini-3.1-flash-image-preview-xdwtff.png
 ---
 
 # Electroceuticals
 
 ## Summary
 
-Therapeutic interventions using bioelectric modulation to treat disease, suppress tumors, and enhance regeneration by normalizing tissue voltage patterns without genetic modification.
+Therapeutic interventions using bioelectric signals to treat disease and trigger regeneration
 
 ## Description
 

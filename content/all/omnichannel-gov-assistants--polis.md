@@ -2,7 +2,8 @@
 slug: omnichannel-gov-assistants
 hub: polis
 title: Omnichannel Government Assistants
-summary: Unified conversational AI spanning all channels and services.
+summary: AI assistants that maintain conversation context across all government service
+  channels
 permalink: https://www.envisioning.com/polis/omnichannel-gov-assistants
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126864/polis
 
 ## Summary
 
-Unified conversational AI spanning all channels and services.
+AI assistants that maintain conversation context across all government service channels
 
 ## Description
 

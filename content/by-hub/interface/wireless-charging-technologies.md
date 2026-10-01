@@ -2,13 +2,13 @@
 slug: wireless-charging-technologies
 hub: interface
 title: Wireless Charging Technologies
-summary: In-vehicle wireless charger units and wireless power technology used in 500+
-  million devices worldwide, with patented inductive, resonant, and hybrid solutions.
+summary: Charging devices without cables using electromagnetic fields between transmitter
+  and receiver coils
 permalink: https://www.envisioning.com/interface/wireless-charging-technologies
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 9
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: null
 ---
 
@@ -16,7 +16,7 @@ image_url: null
 
 ## Summary
 
-In-vehicle wireless charger units and wireless power technology used in 500+ million devices worldwide, with patented inductive, resonant, and hybrid solutions.
+Charging devices without cables using electromagnetic fields between transmitter and receiver coils
 
 ## Description
 

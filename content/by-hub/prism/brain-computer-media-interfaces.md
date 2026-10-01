@@ -2,8 +2,8 @@
 slug: brain-computer-media-interfaces
 hub: prism
 title: Brain-Computer Media Interfaces (BCMI)
-summary: Direct neural interfaces for controlling and creating media content through
-  thought alone.
+summary: Neural interfaces that translate brain signals into media control and content
+  creation commands
 permalink: https://www.envisioning.com/prism/brain-computer-media-interfaces
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062471/pulse
 
 ## Summary
 
-Direct neural interfaces for controlling and creating media content through thought alone.
+Neural interfaces that translate brain signals into media control and content creation commands
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: dtc-ecommerce-personalization-engines
 hub: fabric
 title: DTC E-Commerce Personalization Engines
-summary: Recommendation systems tailoring products and content to each shopper.
+summary: Machine learning systems that customize product recommendations and shopping
+  experiences for individual customers
 permalink: https://www.envisioning.com/fabric/dtc-ecommerce-personalization-engines
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060794/threa
 
 ## Summary
 
-Recommendation systems tailoring products and content to each shopper.
+Machine learning systems that customize product recommendations and shopping experiences for individual customers
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: machine-executable-regulation
 hub: polis
 title: Machine-Executable Regulation
-summary: Laws published as code for automated compliance checks.
+summary: Regulatory frameworks encoded as structured logic for automated compliance
+  verification
 permalink: https://www.envisioning.com/polis/machine-executable-regulation
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127110/polis
 
 ## Summary
 
-Laws published as code for automated compliance checks.
+Regulatory frameworks encoded as structured logic for automated compliance verification
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: social-avatar-sync
 hub: aura
 title: Social Avatar Sync
-summary: Aligning digital filters with real-world interventions.
+summary: Coordinating digital filters and avatars with real-world aesthetic treatments
+  and styling
 permalink: https://www.envisioning.com/aura/social-avatar-sync
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998665/aura/
 
 ## Summary
 
-Aligning digital filters with real-world interventions.
+Coordinating digital filters and avatars with real-world aesthetic treatments and styling
 
 ## Description
 

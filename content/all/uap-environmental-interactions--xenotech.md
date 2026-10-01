@@ -2,22 +2,21 @@
 slug: uap-environmental-interactions
 hub: xenotech
 title: Environmental Interaction Effects
-summary: 'Localized atmospheric and ground signatures attributed to field interaction:
-  heat haze without source, micro-fog, pressure domes, ground rings/traces, vegetation
-  singe, and electromagnetic ground coupling.'
+summary: 'Localized atmospheric and ground effects linked to field propulsion: heat
+  haze, micro-fog, pressure domes, and trace rin'
 permalink: https://www.envisioning.com/xenotech/uap-environmental-interactions
 collection: propulsion-physics
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761767904/xenotech/technologies/uap-environmental-interactions.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898280/xenotech/technologies/uap-environmental-interactions-openrouter-google-gemini-3.1-flash-image-preview-rr7ki7.png
 ---
 
 # Environmental Interaction Effects
 
 ## Summary
 
-Localized atmospheric and ground signatures attributed to field interaction: heat haze without source, micro-fog, pressure domes, ground rings/traces, vegetation singe, and electromagnetic ground coupling.
+Localized atmospheric and ground effects linked to field propulsion: heat haze, micro-fog, pressure domes, and trace rin
 
 ## Description
 

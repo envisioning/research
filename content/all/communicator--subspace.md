@@ -2,21 +2,21 @@
 slug: communicator
 hub: subspace
 title: Communicator Badge
-summary: Wearable communication device providing ship-wide and short-range intercom
-  capabilities.
+summary: Wearable voice communication device enabling instant contact across a starship
+  or facility
 permalink: https://www.envisioning.com/subspace/communicator
 collection: communications
 trl: 8
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760209253/subspaceindex/technologies/communicator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907690/subspace/technologies/communicator-openrouter-google-gemini-3.1-flash-image-preview-ohfoox.png
 ---
 
 # Communicator Badge
 
 ## Summary
 
-Wearable communication device providing ship-wide and short-range intercom capabilities.
+Wearable voice communication device enabling instant contact across a starship or facility
 
 ## Description
 

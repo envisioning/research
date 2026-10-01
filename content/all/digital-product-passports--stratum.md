@@ -2,7 +2,8 @@
 slug: digital-product-passports
 hub: stratum
 title: Digital Product Passports (DPP)
-summary: Standardized digital records tracking product origin and composition.
+summary: Standardized digital records tracking materials from extraction through recycling
+  and reuse
 permalink: https://www.envisioning.com/stratum/digital-product-passports
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435218/strat
 
 ## Summary
 
-Standardized digital records tracking product origin and composition.
+Standardized digital records tracking materials from extraction through recycling and reuse
 
 ## Description
 

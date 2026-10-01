@@ -2,21 +2,21 @@
 slug: nanite-swarm
 hub: subspace
 title: Nanite Swarm
-summary: Self-replicating microscopic machines capable of repair, research, and complex
-  problem-solving.
+summary: Self-replicating microscopic machines for repair, research, and collective
+  problem-solving
 permalink: https://www.envisioning.com/subspace/nanite-swarm
 collection: biotechnology
 trl: 4
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760268126/subspaceindex/technologies/nanite-swarm.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908500/subspace/technologies/nanite-swarm-openrouter-google-gemini-3.1-flash-image-preview-lba0bu.png
 ---
 
 # Nanite Swarm
 
 ## Summary
 
-Self-replicating microscopic machines capable of repair, research, and complex problem-solving.
+Self-replicating microscopic machines for repair, research, and collective problem-solving
 
 ## Description
 

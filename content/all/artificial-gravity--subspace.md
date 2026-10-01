@@ -2,21 +2,21 @@
 slug: artificial-gravity
 hub: subspace
 title: Artificial Gravity Plating
-summary: Deck-embedded gravity generation providing Earth-standard gravity throughout
-  vessels and stations.
+summary: Deck-embedded panels generating Earth-standard gravity without rotation or
+  massive structures
 permalink: https://www.envisioning.com/subspace/artificial-gravity
 collection: engineering
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760217012/subspaceindex/technologies/artificial-gravity.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907409/subspace/technologies/artificial-gravity-openrouter-google-gemini-3.1-flash-image-preview-72pfer.png
 ---
 
 # Artificial Gravity Plating
 
 ## Summary
 
-Deck-embedded gravity generation providing Earth-standard gravity throughout vessels and stations.
+Deck-embedded panels generating Earth-standard gravity without rotation or massive structures
 
 ## Description
 

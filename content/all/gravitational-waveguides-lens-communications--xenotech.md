@@ -2,21 +2,21 @@
 slug: gravitational-waveguides-lens-communications
 hub: xenotech
 title: Gravitational Lensing
-summary: Directed transmission through gravitational gradients for instantaneous communication,
-  bypassing EM latency limits through gravitational coupling.
+summary: Using gravitational fields to transmit signals instantly, bypassing light-speed
+  delays
 permalink: https://www.envisioning.com/xenotech/gravitational-waveguides-lens-communications
 collection: energy-systems
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761404370/xenotech/technologies/gravitational-waveguides-lens-communications.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898372/xenotech/technologies/gravitational-waveguides-lens-communications-openrouter-google-gemini-3.1-flash-image-preview-4lwfs5.png
 ---
 
 # Gravitational Lensing
 
 ## Summary
 
-Directed transmission through gravitational gradients for instantaneous communication, bypassing EM latency limits through gravitational coupling.
+Using gravitational fields to transmit signals instantly, bypassing light-speed delays
 
 ## Description
 

@@ -2,19 +2,20 @@
 slug: hoverbike
 hub: altitude
 title: Hoverbike
-summary: Personal vertical-lift vehicle; working prototypes, early commercialization.
+summary: Personal vertical-lift aircraft for transport, delivery, and emergency response
 permalink: https://www.envisioning.com/altitude/hoverbike
 collection: applications
 trl: 6
 impact: 4
 investment: 4
+image_url: null
 ---
 
 # Hoverbike
 
 ## Summary
 
-Personal vertical-lift vehicle; working prototypes, early commercialization.
+Personal vertical-lift aircraft for transport, delivery, and emergency response
 
 ## Description
 

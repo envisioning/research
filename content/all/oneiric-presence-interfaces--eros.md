@@ -2,7 +2,8 @@
 slug: oneiric-presence-interfaces
 hub: eros
 title: Oneiric Co-Presence Interfaces
-summary: Devices for shared dreaming and lucid dream communication.
+summary: Systems enabling communication and shared experiences between people during
+  lucid dream states
 permalink: https://www.envisioning.com/eros/oneiric-presence-interfaces
 collection: hardware
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124570/eros/
 
 ## Summary
 
-Devices for shared dreaming and lucid dream communication.
+Systems enabling communication and shared experiences between people during lucid dream states
 
 ## Description
 

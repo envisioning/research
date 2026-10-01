@@ -2,7 +2,8 @@
 slug: autonomous-cyber-defense
 hub: meridian
 title: Autonomous Cyber Defense
-summary: AI systems for real-time infrastructure protection.
+summary: AI-driven systems that detect and neutralize cyber threats without human
+  intervention
 permalink: https://www.envisioning.com/meridian/autonomous-cyber-defense
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128612/merid
 
 ## Summary
 
-AI systems for real-time infrastructure protection.
+AI-driven systems that detect and neutralize cyber threats without human intervention
 
 ## Description
 

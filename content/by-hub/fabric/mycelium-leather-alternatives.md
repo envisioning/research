@@ -2,7 +2,7 @@
 slug: mycelium-leather-alternatives
 hub: fabric
 title: Mycelium Leather Alternatives
-summary: Durable, leather-like materials grown from mushroom root structures.
+summary: Leather-like material grown from fungal networks in controlled environments
 permalink: https://www.envisioning.com/fabric/mycelium-leather-alternatives
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058266/threa
 
 ## Summary
 
-Durable, leather-like materials grown from mushroom root structures.
+Leather-like material grown from fungal networks in controlled environments
 
 ## Description
 

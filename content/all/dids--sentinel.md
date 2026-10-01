@@ -2,7 +2,8 @@
 slug: dids
 hub: sentinel
 title: Decentralized Identifiers
-summary: User-controlled, cryptographically verifiable identifiers.
+summary: Cryptographically verifiable identifiers created and controlled by users,
+  not centralized authorities
 permalink: https://www.envisioning.com/sentinel/dids
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463922/senti
 
 ## Summary
 
-User-controlled, cryptographically verifiable identifiers.
+Cryptographically verifiable identifiers created and controlled by users, not centralized authorities
 
 ## Description
 

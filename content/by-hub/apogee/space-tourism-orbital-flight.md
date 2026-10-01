@@ -2,7 +2,8 @@
 slug: space-tourism-orbital-flight
 hub: apogee
 title: Space Tourism and Orbital Passenger Flight
-summary: Commercial flights for private individuals to suborbital and orbital destinations.
+summary: Commercial spaceflight services offering suborbital and orbital experiences
+  to private passengers
 permalink: https://www.envisioning.com/apogee/space-tourism-orbital-flight
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012450/apoge
 
 ## Summary
 
-Commercial flights for private individuals to suborbital and orbital destinations.
+Commercial spaceflight services offering suborbital and orbital experiences to private passengers
 
 ## Description
 

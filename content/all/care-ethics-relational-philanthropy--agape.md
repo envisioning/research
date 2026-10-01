@@ -3,7 +3,6 @@ slug: care-ethics-relational-philanthropy
 hub: agape
 title: Care Ethics & Relational Philanthropy
 summary: Growing influence of care ethics emphasizing relationships, interdependence,
-  and emotional dimensions of giving.
 permalink: https://www.envisioning.com/agape/care-ethics-relational-philanthropy
 collection: culture-values-narratives
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368526/agape
 
 ## Summary
 
-Growing influence of care ethics emphasizing relationships, interdependence, and emotional dimensions of giving.
+Growing influence of care ethics emphasizing relationships, interdependence,
 
 ## Description
 

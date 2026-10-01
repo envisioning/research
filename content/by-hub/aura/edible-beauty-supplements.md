@@ -2,7 +2,8 @@
 slug: edible-beauty-supplements
 hub: aura
 title: Edible Beauty Supplements
-summary: Functional beverages and gummies delivering collagen, ceramides, and antioxidants.
+summary: Ingestible collagen, ceramides, and antioxidants formulated to support skin
+  health from within
 permalink: https://www.envisioning.com/aura/edible-beauty-supplements
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074458/aura/
 
 ## Summary
 
-Functional beverages and gummies delivering collagen, ceramides, and antioxidants.
+Ingestible collagen, ceramides, and antioxidants formulated to support skin health from within
 
 ## Description
 

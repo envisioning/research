@@ -2,21 +2,21 @@
 slug: emergency-force-fields
 hub: subspace
 title: Emergency Force Fields
-summary: Automated containment fields that activate instantly to seal hull breaches
-  and protect crew.
+summary: Instant barriers that seal hull breaches while letting crew pass through
+  safely
 permalink: https://www.envisioning.com/subspace/emergency-force-fields
 collection: defense
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211984/subspaceindex/technologies/emergency-force-fields.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907928/subspace/technologies/emergency-force-fields-openrouter-google-gemini-3.1-flash-image-preview-c4kgzl.png
 ---
 
 # Emergency Force Fields
 
 ## Summary
 
-Automated containment fields that activate instantly to seal hull breaches and protect crew.
+Instant barriers that seal hull breaches while letting crew pass through safely
 
 ## Description
 

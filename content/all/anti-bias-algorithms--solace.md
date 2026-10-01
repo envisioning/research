@@ -2,7 +2,8 @@
 slug: anti-bias-algorithms
 hub: solace
 title: Anti-Bias AI Algorithms
-summary: Machine learning models specifically trained to detect and mitigate bias.
+summary: Algorithms designed to detect and reduce discriminatory patterns in machine
+  learning systems
 permalink: https://www.envisioning.com/solace/anti-bias-algorithms
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133016/solac
 
 ## Summary
 
-Machine learning models specifically trained to detect and mitigate bias.
+Algorithms designed to detect and reduce discriminatory patterns in machine learning systems
 
 ## Description
 

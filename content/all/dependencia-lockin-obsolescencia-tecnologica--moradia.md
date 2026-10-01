@@ -2,8 +2,8 @@
 slug: dependencia-lockin-obsolescencia-tecnologica
 hub: moradia
 title: Dependência, Lock-in e Obsolescência Tecnológica
-summary: Riscos de dependência de fornecedores, lock-in tecnológico em plataformas
-  e obsolescência em contratos de longo prazo (PPPs, concessões).
+summary: Riscos de dependência de fornecedores, lock-in em plataformas e obsolescência
+  em contratos de infraestrutura
 permalink: https://www.envisioning.com/moradia/dependencia-lockin-obsolescencia-tecnologica
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360273/conec
 
 ## Summary
 
-Riscos de dependência de fornecedores, lock-in tecnológico em plataformas e obsolescência em contratos de longo prazo (PPPs, concessões).
+Riscos de dependência de fornecedores, lock-in em plataformas e obsolescência em contratos de infraestrutura
 
 ## Description
 

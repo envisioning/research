@@ -2,13 +2,13 @@
 slug: contactless-wi-fi-sensing
 hub: interface
 title: Contactless Wi-Fi Sensing
-summary: Passive tracking of heart rate, breathing, and presence using Wi-Fi signals
-  without cameras or wearables.
+summary: Monitors heart rate, breathing, and presence by analyzing how Wi-Fi signals
+  reflect off the human body
 permalink: https://www.envisioning.com/interface/contactless-wi-fi-sensing
-collection: ambient-contextual-systems
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743279/interface/technologies/contactless-wi-fi-sensing-google-gemini-3-pro-image-preview-o7mmhg.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743279/inter
 
 ## Summary
 
-Passive tracking of heart rate, breathing, and presence using Wi-Fi signals without cameras or wearables.
+Monitors heart rate, breathing, and presence by analyzing how Wi-Fi signals reflect off the human body
 
 ## Description
 

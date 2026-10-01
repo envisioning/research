@@ -2,7 +2,7 @@
 slug: data-privacy-immersive-interfaces
 hub: pixels
 title: Data Privacy in Immersive Interfaces
-summary: Protecting biometric, neural, and spatial mapping data.
+summary: Safeguarding biometric, neural, and spatial data collected by VR/AR systems
 permalink: https://www.envisioning.com/pixels/data-privacy-immersive-interfaces
 collection: ethics-security
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011639/pixel
 
 ## Summary
 
-Protecting biometric, neural, and spatial mapping data.
+Safeguarding biometric, neural, and spatial data collected by VR/AR systems
 
 ## Description
 

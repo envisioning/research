@@ -2,7 +2,8 @@
 slug: regulatory-capture-and-governance-warfare
 hub: lattice
 title: Regulatory Capture & Governance Warfare
-summary: Power struggles over rules in token-governed and regulated systems.
+summary: Power struggles where concentrated stakeholders manipulate rules in token-governed
+  and regulated DeFi systems
 permalink: https://www.envisioning.com/lattice/regulatory-capture-and-governance-warfare
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010298/flows
 
 ## Summary
 
-Power struggles over rules in token-governed and regulated systems.
+Power struggles where concentrated stakeholders manipulate rules in token-governed and regulated DeFi systems
 
 ## Description
 

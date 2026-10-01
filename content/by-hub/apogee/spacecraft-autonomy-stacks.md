@@ -2,7 +2,8 @@
 slug: spacecraft-autonomy-stacks
 hub: apogee
 title: Spacecraft Autonomy Systems
-summary: Onboard AI handling navigation, failure recovery, and science ops.
+summary: AI systems enabling spacecraft to navigate, diagnose faults, and execute
+  missions without ground control
 permalink: https://www.envisioning.com/apogee/spacecraft-autonomy-stacks
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060750/apoge
 
 ## Summary
 
-Onboard AI handling navigation, failure recovery, and science ops.
+AI systems enabling spacecraft to navigate, diagnose faults, and execute missions without ground control
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: smart-ppe-health-monitoring
 hub: fabric
 title: Smart Personal Protective Equipment (PPE)
-summary: Workwear with integrated health monitoring and hazard detection.
+summary: Protective workwear with embedded sensors for health monitoring and real-time
+  hazard alerts
 permalink: https://www.envisioning.com/fabric/smart-ppe-health-monitoring
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062532/threa
 
 ## Summary
 
-Workwear with integrated health monitoring and hazard detection.
+Protective workwear with embedded sensors for health monitoring and real-time hazard alerts
 
 ## Description
 

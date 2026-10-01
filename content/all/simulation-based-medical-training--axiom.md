@@ -2,7 +2,8 @@
 slug: simulation-based-medical-training
 hub: axiom
 title: Simulation-Based Medical Training
-summary: High-fidelity mannequins and VR suites for procedural practice.
+summary: Realistic practice environments using mannequins, VR, and haptics for clinical
+  skills training
 permalink: https://www.envisioning.com/axiom/simulation-based-medical-training
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162185/axiom
 
 ## Summary
 
-High-fidelity mannequins and VR suites for procedural practice.
+Realistic practice environments using mannequins, VR, and haptics for clinical skills training
 
 ## Description
 

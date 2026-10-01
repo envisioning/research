@@ -2,7 +2,8 @@
 slug: power-dynamics-decentralized-systems
 hub: lattice
 title: Power Dynamics in Decentralized Systems
-summary: Addressing concentration of influence in validator sets and governance.
+summary: Analyzing concentration of control in validators, governance tokens, and
+  protocol access points
 permalink: https://www.envisioning.com/lattice/power-dynamics-decentralized-systems
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010184/flows
 
 ## Summary
 
-Addressing concentration of influence in validator sets and governance.
+Analyzing concentration of control in validators, governance tokens, and protocol access points
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: elf-mind-modulation-claims
 hub: xenotech
 title: ELF Modulation
-summary: Alleged use of Extremely Low Frequency electromagnetic radiation for remote
-  neurological manipulation and behavioral control.
+summary: Broadcasting electromagnetic waves at brain frequencies to influence mood,
+  cognition, or behavior
 permalink: https://www.envisioning.com/xenotech/elf-mind-modulation-claims
 collection: energy-systems
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760821488/xenotech/technologies/haarp-weather-modification.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898218/xenotech/technologies/elf-mind-modulation-claims-openrouter-google-gemini-3.1-flash-image-preview-zdtpyc.png
 ---
 
 # ELF Modulation
 
 ## Summary
 
-Alleged use of Extremely Low Frequency electromagnetic radiation for remote neurological manipulation and behavioral control.
+Broadcasting electromagnetic waves at brain frequencies to influence mood, cognition, or behavior
 
 ## Description
 

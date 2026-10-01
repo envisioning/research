@@ -2,7 +2,8 @@
 slug: vehicle-integrated-photovoltaics
 hub: vector
 title: Vehicle-Integrated Photovoltaics (VIPV)
-summary: Solar cells seamlessly embedded into vehicle body panels for on-the-go charging.
+summary: Solar cells embedded in vehicle body panels to generate power while driving
+  or parked
 permalink: https://www.envisioning.com/vector/vehicle-integrated-photovoltaics
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441624/vecto
 
 ## Summary
 
-Solar cells seamlessly embedded into vehicle body panels for on-the-go charging.
+Solar cells embedded in vehicle body panels to generate power while driving or parked
 
 ## Description
 

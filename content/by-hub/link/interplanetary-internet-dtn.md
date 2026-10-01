@@ -2,7 +2,8 @@
 slug: interplanetary-internet-dtn
 hub: link
 title: Interplanetary Internet (DTN)
-summary: Delay-tolerant networking protocols for deep space communication.
+summary: Networking protocols designed to handle extreme delays and interruptions
+  in space communications
 permalink: https://www.envisioning.com/link/interplanetary-internet-dtn
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435908/link/
 
 ## Summary
 
-Delay-tolerant networking protocols for deep space communication.
+Networking protocols designed to handle extreme delays and interruptions in space communications
 
 ## Description
 

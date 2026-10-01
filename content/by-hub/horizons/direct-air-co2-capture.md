@@ -2,9 +2,9 @@
 slug: direct-air-co2-capture
 hub: horizons
 title: Direct Air CO2 Capture
-summary: Removing carbon dioxide directly from the atmosphere.
+summary: Extracting CO₂ from ambient air using chemical filters for storage or reuse
 permalink: https://www.envisioning.com/horizons/direct-air-co2-capture
-collection: energy-environment
+collection: hardware
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526930/horiz
 
 ## Summary
 
-Removing carbon dioxide directly from the atmosphere.
+Extracting CO₂ from ambient air using chemical filters for storage or reuse
 
 ## Description
 

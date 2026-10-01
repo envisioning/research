@@ -2,8 +2,8 @@
 slug: anti-aging-biosecurity-frameworks
 hub: epoch
 title: Biosecurity & Misuse Risks Frameworks
-summary: Governance structures to prevent the repurposing of rejuvenation tools for
-  harmful biological modification.
+summary: Governance structures preventing misuse of rejuvenation technologies for
+  harmful biological modification
 permalink: https://www.envisioning.com/epoch/anti-aging-biosecurity-frameworks
 collection: ethics-security
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772619928/epoch
 
 ## Summary
 
-Governance structures to prevent the repurposing of rejuvenation tools for harmful biological modification.
+Governance structures preventing misuse of rejuvenation technologies for harmful biological modification
 
 ## Description
 

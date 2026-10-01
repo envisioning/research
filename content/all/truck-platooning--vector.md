@@ -2,7 +2,8 @@
 slug: truck-platooning
 hub: vector
 title: Truck Platooning
-summary: Connected convoys of trucks using CACC for fuel efficiency and safety.
+summary: Connected trucks traveling in close formation via V2V communication to reduce
+  fuel use and improve safety
 permalink: https://www.envisioning.com/vector/truck-platooning
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441608/vecto
 
 ## Summary
 
-Connected convoys of trucks using CACC for fuel efficiency and safety.
+Connected trucks traveling in close formation via V2V communication to reduce fuel use and improve safety
 
 ## Description
 

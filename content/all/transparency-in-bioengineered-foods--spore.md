@@ -2,7 +2,8 @@
 slug: transparency-in-bioengineered-foods
 hub: spore
 title: Transparency in Bioengineered Foods
-summary: Clarity around engineered proteins, CRISPR-edited crops, and microbial ingredients.
+summary: Clear labeling and communication standards for gene-edited crops and lab-grown
+  ingredients
 permalink: https://www.envisioning.com/spore/transparency-in-bioengineered-foods
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095989/spore
 
 ## Summary
 
-Clarity around engineered proteins, CRISPR-edited crops, and microbial ingredients.
+Clear labeling and communication standards for gene-edited crops and lab-grown ingredients
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: hybrid-memorial-streaming
 hub: eclipse
 title: Hybrid Memorial Streaming Suites
-summary: Integrated on-site and online memorial service experiences.
+summary: Integrated platforms combining in-person and remote attendance for memorial
+  services
 permalink: https://www.envisioning.com/eclipse/hybrid-memorial-streaming
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127234/eclip
 
 ## Summary
 
-Integrated on-site and online memorial service experiences.
+Integrated platforms combining in-person and remote attendance for memorial services
 
 ## Description
 

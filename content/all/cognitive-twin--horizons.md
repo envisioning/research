@@ -2,9 +2,10 @@
 slug: cognitive-twin
 hub: horizons
 title: Cognitive Twin
-summary: AI-enhanced digital replicas for predictive urban management.
+summary: AI-powered digital replicas that learn, predict, and autonomously optimize
+  physical systems
 permalink: https://www.envisioning.com/horizons/cognitive-twin
-collection: intelligence-computation
+collection: software
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526128/horiz
 
 ## Summary
 
-AI-enhanced digital replicas for predictive urban management.
+AI-powered digital replicas that learn, predict, and autonomously optimize physical systems
 
 ## Description
 

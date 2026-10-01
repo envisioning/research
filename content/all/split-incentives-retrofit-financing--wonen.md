@@ -9,7 +9,7 @@ collection: development-models
 trl: 4
 impact: 3
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889645/wonen/technologies/8a2cbec9-c935-45f7-bf0c-421b611ea2fe-google-gemini-3.1-flash-image-preview-mltj2w.png
 ---
 
 # Split Incentives & Retrofit Financing Stack

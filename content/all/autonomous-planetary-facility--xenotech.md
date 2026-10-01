@@ -2,21 +2,21 @@
 slug: autonomous-planetary-facility
 hub: xenotech
 title: Planetary Facility
-summary: Alleged self-perpetuating extraterrestrial defense AI managing Earth protection
-  through autonomous craft production.
+summary: Alleged autonomous AI system producing defensive craft to monitor and protect
+  Earth from non-human threats
 permalink: https://www.envisioning.com/xenotech/autonomous-planetary-facility
 collection: defense-surveillance
 trl: 1
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760873758/xenotech/technologies/autonomous-planetary-facility.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899211/xenotech/technologies/autonomous-planetary-facility-openrouter-google-gemini-3.1-flash-image-preview-d6idsw.png
 ---
 
 # Planetary Facility
 
 ## Summary
 
-Alleged self-perpetuating extraterrestrial defense AI managing Earth protection through autonomous craft production.
+Alleged autonomous AI system producing defensive craft to monitor and protect Earth from non-human threats
 
 ## Description
 

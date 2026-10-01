@@ -2,9 +2,10 @@
 slug: three-d-bioprinting
 hub: horizons
 title: 3D Bioprinting
-summary: Layer-by-layer fabrication of living tissues and functional organs.
+summary: Layer-by-layer fabrication of living tissues and organs using cells, biomaterials,
+  and growth factors
 permalink: https://www.envisioning.com/horizons/three-d-bioprinting
-collection: life-health
+collection: hardware
 trl: 4
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521256/horiz
 
 ## Summary
 
-Layer-by-layer fabrication of living tissues and functional organs.
+Layer-by-layer fabrication of living tissues and organs using cells, biomaterials, and growth factors
 
 ## Description
 

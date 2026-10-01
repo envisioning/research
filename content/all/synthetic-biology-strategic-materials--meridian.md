@@ -2,7 +2,8 @@
 slug: synthetic-biology-strategic-materials
 hub: meridian
 title: Synthetic Biology for Strategic Materials
-summary: Bioengineered production of critical compounds.
+summary: Engineering microorganisms to manufacture critical compounds traditionally
+  sourced through mining or extraction
 permalink: https://www.envisioning.com/meridian/synthetic-biology-strategic-materials
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435073/merid
 
 ## Summary
 
-Bioengineered production of critical compounds.
+Engineering microorganisms to manufacture critical compounds traditionally sourced through mining or extraction
 
 ## Description
 

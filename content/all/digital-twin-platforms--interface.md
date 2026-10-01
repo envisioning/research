@@ -2,21 +2,21 @@
 slug: digital-twin-platforms
 hub: interface
 title: Digital Twin Platforms
-summary: Comprehensive virtual world environments for urban planning, product design,
-  and simulation.
+summary: Virtual replicas of physical systems that sync in real-time for testing,
+  monitoring, and planning
 permalink: https://www.envisioning.com/interface/digital-twin-platforms
-collection: spatial-computing-immersive
+collection: software
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897985/interface/technologies/9ff690c4-9583-42ae-b0ab-cc70bf121608-google-gemini-3.1-flash-image-preview-z70rb8.jpg
 ---
 
 # Digital Twin Platforms
 
 ## Summary
 
-Comprehensive virtual world environments for urban planning, product design, and simulation.
+Virtual replicas of physical systems that sync in real-time for testing, monitoring, and planning
 
 ## Description
 

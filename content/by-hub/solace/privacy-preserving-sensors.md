@@ -2,8 +2,8 @@
 slug: privacy-preserving-sensors
 hub: solace
 title: Privacy-Preserving Ambient Sensors
-summary: Sensors that monitor wellbeing parameters without collecting identifiable
-  data.
+summary: Environmental monitoring that detects presence and activity without identifying
+  individuals
 permalink: https://www.envisioning.com/solace/privacy-preserving-sensors
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132948/solac
 
 ## Summary
 
-Sensors that monitor wellbeing parameters without collecting identifiable data.
+Environmental monitoring that detects presence and activity without identifying individuals
 
 ## Description
 

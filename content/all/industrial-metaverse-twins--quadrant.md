@@ -2,7 +2,8 @@
 slug: industrial-metaverse-twins
 hub: quadrant
 title: Industrial Metaverse Twins
-summary: Immersive, physically accurate simulations for real-time optimization.
+summary: Interactive virtual replicas of factories and industrial systems for collaborative
+  planning and optimization
 permalink: https://www.envisioning.com/quadrant/industrial-metaverse-twins
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126759/quadr
 
 ## Summary
 
-Immersive, physically accurate simulations for real-time optimization.
+Interactive virtual replicas of factories and industrial systems for collaborative planning and optimization
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: longevity-optimization-engines
 hub: aura
 title: Longevity Optimization Engines
-summary: Algorithms combining wearable data for biological age reduction.
+summary: AI platforms that analyze health data to calculate biological age and recommend
+  anti-aging interventions
 permalink: https://www.envisioning.com/aura/longevity-optimization-engines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995694/aura/
 
 ## Summary
 
-Algorithms combining wearable data for biological age reduction.
+AI platforms that analyze health data to calculate biological age and recommend anti-aging interventions
 
 ## Description
 

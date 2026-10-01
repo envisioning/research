@@ -2,7 +2,8 @@
 slug: parcerias-publico-privadas-habitacao
 hub: moradia
 title: Parcerias Público-Privadas para Habitação
-summary: Modelos de parceria público-privada para desenvolvimento habitacional.
+summary: Arranjos contratuais entre governo e empresas privadas para desenvolver projetos
+  habitacionais de interesse social
 permalink: https://www.envisioning.com/moradia/parcerias-publico-privadas-habitacao
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570637/habit
 
 ## Summary
 
-Modelos de parceria público-privada para desenvolvimento habitacional.
+Arranjos contratuais entre governo e empresas privadas para desenvolver projetos habitacionais de interesse social
 
 ## Description
 

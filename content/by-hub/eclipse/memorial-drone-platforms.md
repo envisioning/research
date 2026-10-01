@@ -2,7 +2,7 @@
 slug: memorial-drone-platforms
 hub: eclipse
 title: Memorial Drone Platforms
-summary: Specialized drones for ash scattering and aerial rituals.
+summary: Drones engineered for controlled ash scattering and aerial memorial ceremonies
 permalink: https://www.envisioning.com/eclipse/memorial-drone-platforms
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126517/eclip
 
 ## Summary
 
-Specialized drones for ash scattering and aerial rituals.
+Drones engineered for controlled ash scattering and aerial memorial ceremonies
 
 ## Description
 

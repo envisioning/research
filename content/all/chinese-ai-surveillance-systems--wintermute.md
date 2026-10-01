@@ -2,7 +2,8 @@
 slug: chinese-ai-surveillance-systems
 hub: wintermute
 title: Chinese AI Surveillance Systems
-summary: Nation-scale computer vision stacks for public safety and commerce.
+summary: Nationwide AI monitoring using facial recognition, gait analysis, and IoT
+  sensors for public safety
 permalink: https://www.envisioning.com/wintermute/chinese-ai-surveillance-systems
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079776/winte
 
 ## Summary
 
-Nation-scale computer vision stacks for public safety and commerce.
+Nationwide AI monitoring using facial recognition, gait analysis, and IoT sensors for public safety
 
 ## Description
 

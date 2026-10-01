@@ -2,7 +2,7 @@
 slug: formal-methods-safety-critical-software
 hub: altitude
 title: Formal Methods for Safety-Critical Software
-summary: Mathematical verification to reduce defects in airborne software.
+summary: Mathematical proofs that verify airborne software is free of critical defects
 permalink: https://www.envisioning.com/altitude/formal-methods-safety-critical-software
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642602/altit
 
 ## Summary
 
-Mathematical verification to reduce defects in airborne software.
+Mathematical proofs that verify airborne software is free of critical defects
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: algorithmic-wellbeing-audits
 hub: solace
 title: Algorithmic Wellbeing Audits
-summary: Protocols for assessing AI's impact on human psychological health.
+summary: Systematic evaluation of AI systems' effects on mental health and emotional
+  wellbeing
 permalink: https://www.envisioning.com/solace/algorithmic-wellbeing-audits
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133772/solac
 
 ## Summary
 
-Protocols for assessing AI's impact on human psychological health.
+Systematic evaluation of AI systems' effects on mental health and emotional wellbeing
 
 ## Description
 

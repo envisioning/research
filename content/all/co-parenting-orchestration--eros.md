@@ -2,7 +2,8 @@
 slug: co-parenting-orchestration
 hub: eros
 title: Co-parenting Orchestration Platforms
-summary: Digital infrastructures for coordination between separated or blended families.
+summary: Coordination hubs for managing schedules, finances, and communication across
+  separated households
 permalink: https://www.envisioning.com/eros/co-parenting-orchestration
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125467/eros/
 
 ## Summary
 
-Digital infrastructures for coordination between separated or blended families.
+Coordination hubs for managing schedules, finances, and communication across separated households
 
 ## Description
 

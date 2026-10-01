@@ -2,8 +2,8 @@
 slug: ambient-clinical-intelligence
 hub: vitals
 title: Ambient Clinical Intelligence
-summary: AI systems that automate clinical documentation by listening to doctor-patient
-  interactions.
+summary: AI that listens to patient visits and auto-generates clinical notes from
+  the conversation
 permalink: https://www.envisioning.com/vitals/ambient-clinical-intelligence
 collection: software
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116527/vital
 
 ## Summary
 
-AI systems that automate clinical documentation by listening to doctor-patient interactions.
+AI that listens to patient visits and auto-generates clinical notes from the conversation
 
 ## Description
 

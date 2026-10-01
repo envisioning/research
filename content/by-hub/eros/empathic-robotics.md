@@ -2,7 +2,8 @@
 slug: empathic-robotics
 hub: eros
 title: Empathic Companion Robots
-summary: Robotic assistants designed for emotional support and social presence.
+summary: Robots that recognize and respond to human emotions through sensors and expressive
+  features
 permalink: https://www.envisioning.com/eros/empathic-robotics
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124400/eros/
 
 ## Summary
 
-Robotic assistants designed for emotional support and social presence.
+Robots that recognize and respond to human emotions through sensors and expressive features
 
 ## Description
 

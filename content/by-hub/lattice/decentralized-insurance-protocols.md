@@ -2,7 +2,7 @@
 slug: decentralized-insurance-protocols
 hub: lattice
 title: Decentralized Insurance
-summary: Mutualized risk pools covering hacks, weather, and credit events.
+summary: Blockchain-based risk pools where members vote on claims and automate payouts
 permalink: https://www.envisioning.com/lattice/decentralized-insurance-protocols
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179954/latti
 
 ## Summary
 
-Mutualized risk pools covering hacks, weather, and credit events.
+Blockchain-based risk pools where members vote on claims and automate payouts
 
 ## Description
 

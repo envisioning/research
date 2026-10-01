@@ -2,7 +2,7 @@
 slug: crispr-mediated-viral-resistance
 hub: spore
 title: CRISPR-Mediated Viral Resistance
-summary: Gene-editing tools granting crops 'immune systems' against specific viruses.
+summary: Gene editing that enables crops to recognize and destroy specific viral pathogens
 permalink: https://www.envisioning.com/spore/crispr-mediated-viral-resistance
 collection: software
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096044/spore
 
 ## Summary
 
-Gene-editing tools granting crops 'immune systems' against specific viruses.
+Gene editing that enables crops to recognize and destroy specific viral pathogens
 
 ## Description
 

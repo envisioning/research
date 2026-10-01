@@ -2,8 +2,8 @@
 slug: quantum-machine-learning-libraries
 hub: superposition
 title: Quantum Machine Learning Libraries
-summary: Frameworks bridging classical ML with quantum circuits for hybrid algorithm
-  development.
+summary: Software frameworks integrating quantum circuits with classical ML tools
+  like PyTorch and TensorFlow
 permalink: https://www.envisioning.com/superposition/quantum-machine-learning-libraries
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181257/super
 
 ## Summary
 
-Frameworks bridging classical ML with quantum circuits for hybrid algorithm development.
+Software frameworks integrating quantum circuits with classical ML tools like PyTorch and TensorFlow
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: reformas-estruturais-sem-art
 hub: moradia
 title: Reformas Estruturais sem ART
-summary: Intervenções estruturais realizadas sem Anotação de Responsabilidade Técnica,
-  usando conhecimento empírico.
+summary: Intervenções estruturais em edifícios feitas sem supervisão técnica formal
+  ou ART
 permalink: https://www.envisioning.com/moradia/reformas-estruturais-sem-art
 collection: metodos-execucao-obra
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591884/habit
 
 ## Summary
 
-Intervenções estruturais realizadas sem Anotação de Responsabilidade Técnica, usando conhecimento empírico.
+Intervenções estruturais em edifícios feitas sem supervisão técnica formal ou ART
 
 ## Description
 

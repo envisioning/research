@@ -2,9 +2,8 @@
 slug: ia-orcamento-participativo-decisao-urbana
 hub: moradia
 title: Ferramentas de IA para Orçamento Participativo
-summary: Sistemas de inteligência artificial que suportam orçamento participativo,
-  alocação de recursos e tomada de decisão urbana baseada em dados e participação
-  cidadã.
+summary: Sistemas de IA que apoiam alocação de recursos públicos e decisões urbanas
+  com participação cidadã
 permalink: https://www.envisioning.com/moradia/ia-orcamento-participativo-decisao-urbana
 collection: plataformas-dados
 trl: 2
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598442/habit
 
 ## Summary
 
-Sistemas de inteligência artificial que suportam orçamento participativo, alocação de recursos e tomada de decisão urbana baseada em dados e participação cidadã.
+Sistemas de IA que apoiam alocação de recursos públicos e decisões urbanas com participação cidadã
 
 ## Description
 

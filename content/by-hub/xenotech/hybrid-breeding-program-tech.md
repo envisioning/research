@@ -2,21 +2,21 @@
 slug: hybrid-breeding-program-tech
 hub: xenotech
 title: Hybrid Breeding
-summary: Alleged systematic cross-species reproduction programs combining human and
-  non-human genetics, reported in entity encounter literature and contactee testimony.
+summary: Reported cross-species reproduction programs from entity encounter and abduction
+  testimony
 permalink: https://www.envisioning.com/xenotech/hybrid-breeding-program-tech
 collection: biology-hybridization
 trl: 1
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760947444/xenotech/technologies/hybrid-breeding-program-tech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898470/xenotech/technologies/hybrid-breeding-program-tech-openrouter-google-gemini-3.1-flash-image-preview-9yvg1e.png
 ---
 
 # Hybrid Breeding
 
 ## Summary
 
-Alleged systematic cross-species reproduction programs combining human and non-human genetics, reported in entity encounter literature and contactee testimony.
+Reported cross-species reproduction programs from entity encounter and abduction testimony
 
 ## Description
 

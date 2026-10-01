@@ -2,14 +2,13 @@
 slug: responsible-biometrics
 hub: interface
 title: Responsible Biometrics
-summary: Advanced biometric systems with privacy and ethical considerations, protecting
-  and empowering organizations with humanity-first approach to end identity crime
-  and fraud.
+summary: Biometric identity verification designed with privacy, fairness, and data
+  protection built in
 permalink: https://www.envisioning.com/interface/responsible-biometrics
-collection: advanced-interaction-modalities
+collection: ethics-security
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742841/interface/technologies/responsible-biometrics-google-gemini-3-pro-image-preview-ekobu4.png
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742841/inter
 
 ## Summary
 
-Advanced biometric systems with privacy and ethical considerations, protecting and empowering organizations with humanity-first approach to end identity crime and fraud.
+Biometric identity verification designed with privacy, fairness, and data protection built in
 
 ## Description
 

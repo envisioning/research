@@ -2,7 +2,7 @@
 slug: synthetic-blood-substitutes
 hub: epoch
 title: Synthetic Blood Substitutes
-summary: Artificial blood with enhanced oxygen-carrying capacity and longevity properties.
+summary: Lab-made oxygen carriers designed to replace or supplement donated blood
 permalink: https://www.envisioning.com/epoch/synthetic-blood-substitutes
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476948/epoch
 
 ## Summary
 
-Artificial blood with enhanced oxygen-carrying capacity and longevity properties.
+Lab-made oxygen carriers designed to replace or supplement donated blood
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: calm-technology-os
 hub: solace
 title: Calm Technology OS Layers
-summary: Operating system features designed to minimize attention capture.
+summary: Operating system architecture that reduces interruptions and protects user
+  attention
 permalink: https://www.envisioning.com/solace/calm-technology-os
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132991/solac
 
 ## Summary
 
-Operating system features designed to minimize attention capture.
+Operating system architecture that reduces interruptions and protects user attention
 
 ## Description
 

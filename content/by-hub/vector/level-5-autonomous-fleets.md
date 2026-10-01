@@ -2,7 +2,7 @@
 slug: level-5-autonomous-fleets
 hub: vector
 title: Level 5 Autonomous Fleets
-summary: Fully autonomous robotaxi networks operating without human intervention.
+summary: Fully autonomous vehicle fleets operating without human drivers in all conditions
 permalink: https://www.envisioning.com/vector/level-5-autonomous-fleets
 collection: hardware
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179046/vecto
 
 ## Summary
 
-Fully autonomous robotaxi networks operating without human intervention.
+Fully autonomous vehicle fleets operating without human drivers in all conditions
 
 ## Description
 

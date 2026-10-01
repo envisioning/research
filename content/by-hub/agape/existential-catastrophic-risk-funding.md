@@ -3,7 +3,6 @@ slug: existential-catastrophic-risk-funding
 hub: agape
 title: Existential & Catastrophic Risk Funding
 summary: Growing philanthropic attention to existential risks including AI safety,
-  nuclear threats, bioweapons, and civilizational collapse.
 permalink: https://www.envisioning.com/agape/existential-catastrophic-risk-funding
 collection: geopolitics-planet-polycrisis
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368409/agape
 
 ## Summary
 
-Growing philanthropic attention to existential risks including AI safety, nuclear threats, bioweapons, and civilizational collapse.
+Growing philanthropic attention to existential risks including AI safety,
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: edificios-sem-estacionamento-minimalista
 hub: moradia
 title: Edifícios sem Estacionamento ou com Poucas Vagas
-summary: Projetos residenciais que eliminam ou minimizam estacionamento, priorizando
-  mobilidade ativa, transporte público e uso do solo.
+summary: Projetos residenciais que eliminam ou reduzem vagas de estacionamento para
+  priorizar transporte público e mobilidade ati
 permalink: https://www.envisioning.com/moradia/edificios-sem-estacionamento-minimalista
 collection: modelos-mercado-governanca
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591811/habit
 
 ## Summary
 
-Projetos residenciais que eliminam ou minimizam estacionamento, priorizando mobilidade ativa, transporte público e uso do solo.
+Projetos residenciais que eliminam ou reduzem vagas de estacionamento para priorizar transporte público e mobilidade ati
 
 ## Description
 

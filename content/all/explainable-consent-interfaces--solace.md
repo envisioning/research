@@ -2,8 +2,8 @@
 slug: explainable-consent-interfaces
 hub: solace
 title: Explainable Consent Interfaces
-summary: Interface patterns that make data practices and AI behavior truly understandable
-  to non-experts.
+summary: Interface patterns that translate complex data practices and AI decisions
+  into plain language users can actually underst
 permalink: https://www.envisioning.com/solace/explainable-consent-interfaces
 collection: ethics-security
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436570/solac
 
 ## Summary
 
-Interface patterns that make data practices and AI behavior truly understandable to non-experts.
+Interface patterns that translate complex data practices and AI decisions into plain language users can actually underst
 
 ## Description
 

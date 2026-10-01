@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 3
 impact: 3
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897777/wonen/technologies/9b07988c-794b-44ec-82a9-8a73f24cfa2a-google-gemini-3.1-flash-image-preview-6qb1k9.png
 ---
 
 # Ladder voor Duurzame Verstedelijking (Ladder for Sustainable Urbanization)

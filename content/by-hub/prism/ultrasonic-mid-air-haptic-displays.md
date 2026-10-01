@@ -2,7 +2,8 @@
 slug: ultrasonic-mid-air-haptic-displays
 hub: prism
 title: Ultrasonic mid-air haptic displays
-summary: Hardware enabling tactile feedback for immersive storytelling without wearables.
+summary: Phased ultrasound arrays that create touchable force fields in mid-air for
+  hands-free interaction
 permalink: https://www.envisioning.com/prism/ultrasonic-mid-air-haptic-displays
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062486/pulse
 
 ## Summary
 
-Hardware enabling tactile feedback for immersive storytelling without wearables.
+Phased ultrasound arrays that create touchable force fields in mid-air for hands-free interaction
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: neuro-rights-standards
 hub: continuum
 title: Neuro-Rights Standards
-summary: Legal and technical protections for mental privacy.
+summary: Legal frameworks protecting mental privacy and cognitive liberty from neural
+  data exploitation
 permalink: https://www.envisioning.com/continuum/neuro-rights-standards
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125496/conti
 
 ## Summary
 
-Legal and technical protections for mental privacy.
+Legal frameworks protecting mental privacy and cognitive liberty from neural data exploitation
 
 ## Description
 

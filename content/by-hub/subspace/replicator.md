@@ -2,21 +2,20 @@
 slug: replicator
 hub: subspace
 title: Replicator
-summary: Matter synthesis technology creating objects and food from base molecular
-  patterns.
+summary: Matter synthesis device that assembles objects and food from molecular patterns
 permalink: https://www.envisioning.com/subspace/replicator
 collection: engineering
 trl: 5
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210248/subspaceindex/technologies/replicator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908859/subspace/technologies/replicator-openrouter-google-gemini-3.1-flash-image-preview-wcoe1o.png
 ---
 
 # Replicator
 
 ## Summary
 
-Matter synthesis technology creating objects and food from base molecular patterns.
+Matter synthesis device that assembles objects and food from molecular patterns
 
 ## Description
 

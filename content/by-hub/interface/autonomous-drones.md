@@ -2,20 +2,21 @@
 slug: autonomous-drones
 hub: interface
 title: Autonomous Drones
-summary: Drones for inspection, delivery, and specialized applications.
+summary: Self-piloting aircraft using AI for delivery, inspection, and surveillance
+  tasks
 permalink: https://www.envisioning.com/interface/autonomous-drones
-collection: consumer-electronics-platforms
+collection: applications
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898244/interface/technologies/ade39eec-61b7-4871-b6bf-a96ce6f03b4f-google-gemini-3.1-flash-image-preview-q1dklo.jpg
 ---
 
 # Autonomous Drones
 
 ## Summary
 
-Drones for inspection, delivery, and specialized applications.
+Self-piloting aircraft using AI for delivery, inspection, and surveillance tasks
 
 ## Description
 

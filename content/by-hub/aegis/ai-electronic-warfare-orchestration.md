@@ -2,7 +2,8 @@
 slug: ai-electronic-warfare-orchestration
 hub: aegis
 title: AI-Enabled Electronic Warfare Orchestration
-summary: AI systems dynamically coordinating jamming, spoofing, and deception.
+summary: AI systems that dynamically coordinate jamming, spoofing, and deception across
+  multiple platforms
 permalink: https://www.envisioning.com/aegis/ai-electronic-warfare-orchestration
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998484/aegis
 
 ## Summary
 
-AI systems dynamically coordinating jamming, spoofing, and deception.
+AI systems that dynamically coordinate jamming, spoofing, and deception across multiple platforms
 
 ## Description
 

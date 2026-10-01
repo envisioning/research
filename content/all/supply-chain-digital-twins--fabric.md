@@ -2,7 +2,8 @@
 slug: supply-chain-digital-twins
 hub: fabric
 title: Supply Chain Digital Twins
-summary: Virtual replicas of the entire supply chain for real-time optimization.
+summary: Virtual replicas of manufacturing and logistics networks synchronized with
+  real-world operations
 permalink: https://www.envisioning.com/fabric/supply-chain-digital-twins
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059496/threa
 
 ## Summary
 
-Virtual replicas of the entire supply chain for real-time optimization.
+Virtual replicas of manufacturing and logistics networks synchronized with real-world operations
 
 ## Description
 

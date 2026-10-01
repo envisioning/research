@@ -2,21 +2,21 @@
 slug: consciousness-field-technologies
 hub: xenotech
 title: Consciousness Fields
-summary: Technologies claiming to interface consciousness with exotic field substrates
-  including torsion fields, noetic amplification, and psychotronic generators.
+summary: Devices claiming to amplify or detect thought-generated torsion fields and
+  other exotic consciousness substrates
 permalink: https://www.envisioning.com/xenotech/consciousness-field-technologies
 collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760819827/xenotech/technologies/torsion-field-mind-interface.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897860/xenotech/technologies/consciousness-field-technologies-openrouter-google-gemini-3.1-flash-image-preview-0tcfbu.png
 ---
 
 # Consciousness Fields
 
 ## Summary
 
-Technologies claiming to interface consciousness with exotic field substrates including torsion fields, noetic amplification, and psychotronic generators.
+Devices claiming to amplify or detect thought-generated torsion fields and other exotic consciousness substrates
 
 ## Description
 

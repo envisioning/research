@@ -2,7 +2,8 @@
 slug: offline-transaction-appliances
 hub: lattice
 title: Offline Transaction Devices
-summary: Mesh-connected devices enabling peer-to-peer settlement without internet.
+summary: Battery-powered devices enabling cryptocurrency payments via mesh networks
+  when internet is unavailable
 permalink: https://www.envisioning.com/lattice/offline-transaction-appliances
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074825/flows
 
 ## Summary
 
-Mesh-connected devices enabling peer-to-peer settlement without internet.
+Battery-powered devices enabling cryptocurrency payments via mesh networks when internet is unavailable
 
 ## Description
 

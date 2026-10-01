@@ -2,7 +2,8 @@
 slug: intergenerational-presence-hubs
 hub: eros
 title: Intergenerational Presence Hubs
-summary: Connected spaces that weave elders, adults, and youth into ongoing contact.
+summary: Always-on video portals and shared devices that keep grandparents, parents,
+  and children in daily contact
 permalink: https://www.envisioning.com/eros/intergenerational-presence-hubs
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125494/eros/
 
 ## Summary
 
-Connected spaces that weave elders, adults, and youth into ongoing contact.
+Always-on video portals and shared devices that keep grandparents, parents, and children in daily contact
 
 ## Description
 

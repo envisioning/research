@@ -2,7 +2,8 @@
 slug: ingredient-compatibility-algorithms
 hub: aura
 title: Ingredient Compatibility Algorithms
-summary: Recommendation engines avoiding conflicting actives.
+summary: Algorithms that analyze skincare formulas to prevent ingredient conflicts
+  and optimize layering
 permalink: https://www.envisioning.com/aura/ingredient-compatibility-algorithms
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060225/aura/
 
 ## Summary
 
-Recommendation engines avoiding conflicting actives.
+Algorithms that analyze skincare formulas to prevent ingredient conflicts and optimize layering
 
 ## Description
 

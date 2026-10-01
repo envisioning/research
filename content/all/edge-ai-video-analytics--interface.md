@@ -2,13 +2,12 @@
 slug: edge-ai-video-analytics
 hub: interface
 title: Edge AI Video Analytics
-summary: Real-time intelligent video analytics optimized for off-the-grid sovereign
-  Edge AI devices.
+summary: Real-time video analysis running locally on edge devices without cloud dependency
 permalink: https://www.envisioning.com/interface/edge-ai-video-analytics
-collection: spatial-computing-immersive
+collection: software
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737601/interface/technologies/edge-ai-video-analytics-google-gemini-3-pro-image-preview-2jrbua.png
 ---
 
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737601/inter
 
 ## Summary
 
-Real-time intelligent video analytics optimized for off-the-grid sovereign Edge AI devices.
+Real-time video analysis running locally on edge devices without cloud dependency
 
 ## Description
 

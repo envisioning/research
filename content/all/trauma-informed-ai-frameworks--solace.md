@@ -2,8 +2,8 @@
 slug: trauma-informed-ai-frameworks
 hub: solace
 title: Trauma-Informed AI Conversation Frameworks
-summary: Design and safety frameworks for conversational AI interacting with vulnerable
-  users.
+summary: Conversational AI design principles that prioritize psychological safety
+  for vulnerable users
 permalink: https://www.envisioning.com/solace/trauma-informed-ai-frameworks
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133974/solac
 
 ## Summary
 
-Design and safety frameworks for conversational AI interacting with vulnerable users.
+Conversational AI design principles that prioritize psychological safety for vulnerable users
 
 ## Description
 

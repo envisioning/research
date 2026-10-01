@@ -2,7 +2,8 @@
 slug: digital-twin-cities-regions
 hub: link
 title: Digital Twin Cities & Regions
-summary: Virtual replicas of entire urban areas for planning and simulation.
+summary: Real-time virtual replicas of cities that mirror physical infrastructure
+  for planning and simulation
 permalink: https://www.envisioning.com/link/digital-twin-cities-regions
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441886/link/
 
 ## Summary
 
-Virtual replicas of entire urban areas for planning and simulation.
+Real-time virtual replicas of cities that mirror physical infrastructure for planning and simulation
 
 ## Description
 

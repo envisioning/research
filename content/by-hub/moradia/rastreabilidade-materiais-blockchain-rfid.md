@@ -2,8 +2,8 @@
 slug: rastreabilidade-materiais-blockchain-rfid
 hub: moradia
 title: Rastreabilidade de Materiais
-summary: Sistemas de rastreamento de materiais desde origem até canteiro usando blockchain,
-  RFID e QR codes para garantir procedência, conformidade e gestão de inventário.
+summary: Rastreamento digital de materiais de construção usando blockchain, RFID e
+  QR codes
 permalink: https://www.envisioning.com/moradia/rastreabilidade-materiais-blockchain-rfid
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570512/habit
 
 ## Summary
 
-Sistemas de rastreamento de materiais desde origem até canteiro usando blockchain, RFID e QR codes para garantir procedência, conformidade e gestão de inventário.
+Rastreamento digital de materiais de construção usando blockchain, RFID e QR codes
 
 ## Description
 

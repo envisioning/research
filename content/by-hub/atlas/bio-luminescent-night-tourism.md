@@ -2,7 +2,8 @@
 slug: bio-luminescent-night-tourism
 hub: atlas
 title: Bio-luminescent Night Tourism
-summary: Engineered glowing plants and pathways replacing electric lighting.
+summary: Genetically modified organisms creating natural light for nighttime outdoor
+  attractions
 permalink: https://www.envisioning.com/atlas/bio-luminescent-night-tourism
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123822/atlas
 
 ## Summary
 
-Engineered glowing plants and pathways replacing electric lighting.
+Genetically modified organisms creating natural light for nighttime outdoor attractions
 
 ## Description
 

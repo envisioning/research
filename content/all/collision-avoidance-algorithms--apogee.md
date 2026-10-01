@@ -2,7 +2,8 @@
 slug: collision-avoidance-algorithms
 hub: apogee
 title: Collision Avoidance Algorithms
-summary: Real-time conjunction assessment and autonomous maneuver planning.
+summary: Automated systems that predict satellite collisions and calculate evasive
+  maneuvers
 permalink: https://www.envisioning.com/apogee/collision-avoidance-algorithms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180723/apoge
 
 ## Summary
 
-Real-time conjunction assessment and autonomous maneuver planning.
+Automated systems that predict satellite collisions and calculate evasive maneuvers
 
 ## Description
 

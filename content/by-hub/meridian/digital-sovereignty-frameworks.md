@@ -2,7 +2,8 @@
 slug: digital-sovereignty-frameworks
 hub: meridian
 title: Digital Sovereignty Frameworks
-summary: Ensuring national control over digital infrastructure.
+summary: Legal and technical frameworks ensuring national control over data, infrastructure,
+  and digital services
 permalink: https://www.envisioning.com/meridian/digital-sovereignty-frameworks
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128697/merid
 
 ## Summary
 
-Ensuring national control over digital infrastructure.
+Legal and technical frameworks ensuring national control over data, infrastructure, and digital services
 
 ## Description
 

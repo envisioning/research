@@ -2,7 +2,8 @@
 slug: new-quantum-programming-languages
 hub: superposition
 title: New Quantum Programming Languages
-summary: Languages offering high-level abstractions and type safety for quantum logic.
+summary: High-level programming languages designed for quantum computing with type
+  safety and automated state management
 permalink: https://www.envisioning.com/superposition/new-quantum-programming-languages
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181256/super
 
 ## Summary
 
-Languages offering high-level abstractions and type safety for quantum logic.
+High-level programming languages designed for quantum computing with type safety and automated state management
 
 ## Description
 

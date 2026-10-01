@@ -2,7 +2,8 @@
 slug: spacecraft-digital-twins
 hub: apogee
 title: Spacecraft Digital Twins
-summary: High-fidelity virtual replicas of spacecraft for monitoring and prognosis.
+summary: Virtual replicas of spacecraft that sync with real-time telemetry to predict
+  failures and test maneuvers
 permalink: https://www.envisioning.com/apogee/spacecraft-digital-twins
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012344/apoge
 
 ## Summary
 
-High-fidelity virtual replicas of spacecraft for monitoring and prognosis.
+Virtual replicas of spacecraft that sync with real-time telemetry to predict failures and test maneuvers
 
 ## Description
 

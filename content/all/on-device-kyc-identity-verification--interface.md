@@ -2,13 +2,13 @@
 slug: on-device-kyc-identity-verification
 hub: interface
 title: On-Device KYC & Identity Verification
-summary: Privacy-first on-device real user validation against government IDs in under
-  300ms with no cloud services.
+summary: Verifies user identity against government IDs locally on smartphones, without
+  sending data to the cloud
 permalink: https://www.envisioning.com/interface/on-device-kyc-identity-verification
-collection: advanced-interaction-modalities
+collection: ethics-security
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742774/interface/technologies/on-device-kyc-identity-verification-google-gemini-3-pro-image-preview-ingsz9.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742774/inter
 
 ## Summary
 
-Privacy-first on-device real user validation against government IDs in under 300ms with no cloud services.
+Verifies user identity against government IDs locally on smartphones, without sending data to the cloud
 
 ## Description
 

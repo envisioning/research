@@ -2,7 +2,8 @@
 slug: indigenous-governance-frameworks
 hub: synapse
 title: Indigenous Governance Frameworks
-summary: Organizational models based on long-term stewardship and kinship.
+summary: Organizational models rooted in consensus, kinship, and multi-generational
+  stewardship
 permalink: https://www.envisioning.com/synapse/indigenous-governance-frameworks
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127313/synap
 
 ## Summary
 
-Organizational models based on long-term stewardship and kinship.
+Organizational models rooted in consensus, kinship, and multi-generational stewardship
 
 ## Description
 

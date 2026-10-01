@@ -2,7 +2,8 @@
 slug: synthetic-offspring-ecosystems
 hub: eros
 title: Synthetic Offspring Ecosystems
-summary: Complex digital life forms adopted and raised by partners or individuals.
+summary: Digital beings with developmental growth patterns that respond to caregiver
+  interactions
 permalink: https://www.envisioning.com/eros/synthetic-offspring-ecosystems
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124042/eros/
 
 ## Summary
 
-Complex digital life forms adopted and raised by partners or individuals.
+Digital beings with developmental growth patterns that respond to caregiver interactions
 
 ## Description
 

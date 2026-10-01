@@ -2,13 +2,13 @@
 slug: full-cortical-brain-interfaces
 hub: interface
 title: Full-Cortical Brain Interfaces
-summary: Safe, scalable, full-cortical brain interfaces to restore neurological function
-  and power AI with high-fidelity neural data.
+summary: Implanted electrode arrays that interface with the cortex to record and stimulate
+  neural activity
 permalink: https://www.envisioning.com/interface/full-cortical-brain-interfaces
-collection: advanced-interaction-modalities
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730748/interface/technologies/full-cortical-brain-interfaces-google-gemini-3-pro-image-preview-qlofki.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730748/inter
 
 ## Summary
 
-Safe, scalable, full-cortical brain interfaces to restore neurological function and power AI with high-fidelity neural data.
+Implanted electrode arrays that interface with the cortex to record and stimulate neural activity
 
 ## Description
 

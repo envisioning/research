@@ -2,7 +2,8 @@
 slug: asynchronous-voice-rooms
 hub: synapse
 title: Asynchronous Voice Rooms
-summary: Persistent audio spaces for non-linear voice collaboration.
+summary: Persistent audio spaces where teams leave and respond to voice messages across
+  time zones
 permalink: https://www.envisioning.com/synapse/asynchronous-voice-rooms
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127084/synap
 
 ## Summary
 
-Persistent audio spaces for non-linear voice collaboration.
+Persistent audio spaces where teams leave and respond to voice messages across time zones
 
 ## Description
 

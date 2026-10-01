@@ -2,12 +2,13 @@
 slug: ai-powered-access-control
 hub: interface
 title: AI-Powered Access Control
-summary: Intelligent access control systems using AI for enhanced security.
+summary: Security systems that use AI to verify identity through biometrics and behavioral
+  patterns
 permalink: https://www.envisioning.com/interface/ai-powered-access-control
-collection: advanced-interaction-modalities
+collection: ethics-security
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742862/interface/technologies/ai-powered-access-control-google-gemini-3-pro-image-preview-1cbiz4.jpg
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742862/inter
 
 ## Summary
 
-Intelligent access control systems using AI for enhanced security.
+Security systems that use AI to verify identity through biometrics and behavioral patterns
 
 ## Description
 

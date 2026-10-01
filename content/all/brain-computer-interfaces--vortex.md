@@ -2,7 +2,7 @@
 slug: brain-computer-interfaces
 hub: vortex
 title: Brain-Computer Interfaces (BCI)
-summary: Direct neural control for gaming and interaction.
+summary: Direct neural control of games and media through brain signal detection
 permalink: https://www.envisioning.com/vortex/brain-computer-interfaces
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126437/vorte
 
 ## Summary
 
-Direct neural control for gaming and interaction.
+Direct neural control of games and media through brain signal detection
 
 ## Description
 

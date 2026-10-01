@@ -9,7 +9,7 @@ collection: development-models
 trl: 4
 impact: 4
 investment: 5
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898260/wonen/technologies/b0e8e954-b7ca-4735-99bb-b393209d9b7c-google-gemini-3.1-flash-image-preview-7y0lkn.jpg
 ---
 
 # Woningcorporaties (Housing Associations)

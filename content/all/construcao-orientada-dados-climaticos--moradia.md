@@ -2,7 +2,8 @@
 slug: construcao-orientada-dados-climaticos
 hub: moradia
 title: Construção Orientada por Dados Climáticos Regionais
-summary: Modelos construtivos adaptados a condições climáticas regionais específicas.
+summary: Projetos de edificações baseados em análise de dados meteorológicos e projeções
+  climáticas locais
 permalink: https://www.envisioning.com/moradia/construcao-orientada-dados-climaticos
 collection: materiais-componentes
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570596/habit
 
 ## Summary
 
-Modelos construtivos adaptados a condições climáticas regionais específicas.
+Projetos de edificações baseados em análise de dados meteorológicos e projeções climáticas locais
 
 ## Description
 

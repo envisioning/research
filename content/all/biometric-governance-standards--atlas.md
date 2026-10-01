@@ -2,7 +2,8 @@
 slug: biometric-governance-standards
 hub: atlas
 title: Biometric Governance Standards
-summary: Frameworks that set guardrails for biometric use in borders and hospitality.
+summary: International frameworks governing biometric deployment at borders, airports,
+  and hospitality venues
 permalink: https://www.envisioning.com/atlas/biometric-governance-standards
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123885/atlas
 
 ## Summary
 
-Frameworks that set guardrails for biometric use in borders and hospitality.
+International frameworks governing biometric deployment at borders, airports, and hospitality venues
 
 ## Description
 

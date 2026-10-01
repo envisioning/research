@@ -2,7 +2,8 @@
 slug: underwater-acoustic-optical
 hub: link
 title: Underwater Acoustic & Optical Communication
-summary: Subsea connectivity for ocean monitoring, research, and defense.
+summary: Acoustic and optical systems enabling wireless data transmission beneath
+  the ocean surface
 permalink: https://www.envisioning.com/link/underwater-acoustic-optical
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435041/link/
 
 ## Summary
 
-Subsea connectivity for ocean monitoring, research, and defense.
+Acoustic and optical systems enabling wireless data transmission beneath the ocean surface
 
 ## Description
 

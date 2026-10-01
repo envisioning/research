@@ -2,7 +2,7 @@
 slug: food-system-cyber-resilience
 hub: harvest
 title: Food System Cyber-Resilience
-summary: Security for connected food infrastructure.
+summary: Protecting digital agriculture and food supply networks from cyber threats
 permalink: https://www.envisioning.com/harvest/food-system-cyber-resilience
 collection: ethics-security
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128309/harve
 
 ## Summary
 
-Security for connected food infrastructure.
+Protecting digital agriculture and food supply networks from cyber threats
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: bio-printed-skin-grafts
 hub: aura
 title: Bio-Printed Skin Grafts
-summary: 3D-printed skin constructs for repair and aesthetics.
+summary: Layer-by-layer bioprinting of living skin tissue for wound repair and cosmetic
+  restoration
 permalink: https://www.envisioning.com/aura/bio-printed-skin-grafts
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990804/aura/
 
 ## Summary
 
-3D-printed skin constructs for repair and aesthetics.
+Layer-by-layer bioprinting of living skin tissue for wound repair and cosmetic restoration
 
 ## Description
 

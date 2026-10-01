@@ -2,7 +2,7 @@
 slug: organ-donation-networks
 hub: eclipse
 title: Body & Organ Donation Networks
-summary: Logistics platforms for tissue, organ, and whole-body donation.
+summary: Platforms coordinating organ and tissue donation from consent through allocation
 permalink: https://www.envisioning.com/eclipse/organ-donation-networks
 collection: applications
 trl: 9
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127280/eclip
 
 ## Summary
 
-Logistics platforms for tissue, organ, and whole-body donation.
+Platforms coordinating organ and tissue donation from consent through allocation
 
 ## Description
 

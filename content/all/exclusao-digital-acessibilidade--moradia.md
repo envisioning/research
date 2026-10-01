@@ -2,8 +2,8 @@
 slug: exclusao-digital-acessibilidade
 hub: moradia
 title: Exclusão Digital e Acessibilidade
-summary: Desafios de acesso e adoção de tecnologias digitais em condomínios populares
-  e exclusão de idosos e pessoas com deficiência de serviços digitalizados.
+summary: Barreiras de custo, literacia e design que excluem moradores de baixa renda
+  e pessoas com deficiência de tecnologias con
 permalink: https://www.envisioning.com/moradia/exclusao-digital-acessibilidade
 collection: modelos-mercado-governanca
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360198/habit
 
 ## Summary
 
-Desafios de acesso e adoção de tecnologias digitais em condomínios populares e exclusão de idosos e pessoas com deficiência de serviços digitalizados.
+Barreiras de custo, literacia e design que excluem moradores de baixa renda e pessoas com deficiência de tecnologias con
 
 ## Description
 

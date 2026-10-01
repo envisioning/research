@@ -2,8 +2,8 @@
 slug: data-quality-management
 hub: datatrends
 title: Empirical Data Quality Management
-summary: 'Reclaimed the #1 global position; recognized as the non-negotiable prerequisite
-  for trustworthy AI.'
+summary: Systematic processes and metrics to ensure data accuracy, completeness, and
+  reliability across systems
 permalink: https://www.envisioning.com/datatrends/data-quality-management
 collection: management-foundations
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373210/datat
 
 ## Summary
 
-Reclaimed the #1 global position; recognized as the non-negotiable prerequisite for trustworthy AI.
+Systematic processes and metrics to ensure data accuracy, completeness, and reliability across systems
 
 ## Description
 

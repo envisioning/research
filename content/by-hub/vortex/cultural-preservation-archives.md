@@ -2,7 +2,8 @@
 slug: cultural-preservation-archives
 hub: vortex
 title: Cultural Preservation Archives
-summary: Digital repositories safeguarding endangered media traditions.
+summary: Digital repositories protecting endangered media, oral histories, and indigenous
+  storytelling traditions
 permalink: https://www.envisioning.com/vortex/cultural-preservation-archives
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177991/vorte
 
 ## Summary
 
-Digital repositories safeguarding endangered media traditions.
+Digital repositories protecting endangered media, oral histories, and indigenous storytelling traditions
 
 ## Description
 

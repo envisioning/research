@@ -2,21 +2,20 @@
 slug: long-range-sensors
 hub: subspace
 title: Long-Range Sensors
-summary: Advanced detection array capable of scanning multiple light-years for objects
-  and phenomena.
+summary: Detection systems scanning objects and phenomena across light-years of space
 permalink: https://www.envisioning.com/subspace/long-range-sensors
 collection: sensors
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760209495/subspaceindex/technologies/long-range-sensors.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908316/subspace/technologies/long-range-sensors-openrouter-google-gemini-3.1-flash-image-preview-cuuhv0.png
 ---
 
 # Long-Range Sensors
 
 ## Summary
 
-Advanced detection array capable of scanning multiple light-years for objects and phenomena.
+Detection systems scanning objects and phenomena across light-years of space
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: synthetic-data-privacy
 hub: datatrends
 title: Synthetic Data for Privacy-Preserving Analytics
-summary: Generating artificial datasets that preserve statistical properties while
-  protecting individual privacy, enabling analytics without exposing sensitive data.
+summary: Artificial datasets that mimic real data patterns without exposing individual
+  identities
 permalink: https://www.envisioning.com/datatrends/synthetic-data-privacy
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958460/datat
 
 ## Summary
 
-Generating artificial datasets that preserve statistical properties while protecting individual privacy, enabling analytics without exposing sensitive data.
+Artificial datasets that mimic real data patterns without exposing individual identities
 
 ## Description
 

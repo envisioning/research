@@ -2,21 +2,21 @@
 slug: bioenergetic-technology
 hub: xenotech
 title: Bioenergetic Technology
-summary: Advanced biofield scanning and frequency modulation systems that analyze
-  and harmonize biological energy patterns for therapeutic applications.
+summary: Electromagnetic systems that scan and modulate biological energy fields for
+  stress reduction and wellness
 permalink: https://www.envisioning.com/xenotech/bioenergetic-technology
 collection: consciousness-interface
 trl: 3
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761654900/xenotech/technologies/bioenergetic-technology.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897344/xenotech/technologies/bioenergetic-technology-openrouter-google-gemini-3.1-flash-image-preview-ccstqy.png
 ---
 
 # Bioenergetic Technology
 
 ## Summary
 
-Advanced biofield scanning and frequency modulation systems that analyze and harmonize biological energy patterns for therapeutic applications.
+Electromagnetic systems that scan and modulate biological energy fields for stress reduction and wellness
 
 ## Description
 

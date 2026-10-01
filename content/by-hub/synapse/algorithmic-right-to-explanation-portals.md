@@ -2,7 +2,8 @@
 slug: algorithmic-right-to-explanation-portals
 hub: synapse
 title: Algorithmic Right-to-Explanation Portals
-summary: Interfaces that expose how workplace algorithms affect individual workers.
+summary: Interfaces showing workers how algorithms make decisions about their schedules,
+  tasks, and evaluations
 permalink: https://www.envisioning.com/synapse/algorithmic-right-to-explanation-portals
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127272/synap
 
 ## Summary
 
-Interfaces that expose how workplace algorithms affect individual workers.
+Interfaces showing workers how algorithms make decisions about their schedules, tasks, and evaluations
 
 ## Description
 

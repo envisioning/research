@@ -2,7 +2,8 @@
 slug: nuclear-propulsion
 hub: substrate
 title: Nuclear Thermal & Electric Propulsion
-summary: High-efficiency engines using nuclear reactors for deep space missions.
+summary: Spacecraft engines powered by nuclear reactors for faster, longer-range missions
+  beyond Earth orbit
 permalink: https://www.envisioning.com/substrate/nuclear-propulsion
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120028/subst
 
 ## Summary
 
-High-efficiency engines using nuclear reactors for deep space missions.
+Spacecraft engines powered by nuclear reactors for faster, longer-range missions beyond Earth orbit
 
 ## Description
 

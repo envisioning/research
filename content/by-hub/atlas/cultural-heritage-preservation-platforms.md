@@ -2,7 +2,8 @@
 slug: cultural-heritage-preservation-platforms
 hub: atlas
 title: Cultural Heritage Preservation Platforms
-summary: Digital tools documenting and safeguarding intangible cultural heritage.
+summary: Digital systems documenting traditions, languages, and cultural practices
+  at risk of disappearing
 permalink: https://www.envisioning.com/atlas/cultural-heritage-preservation-platforms
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127168/atlas
 
 ## Summary
 
-Digital tools documenting and safeguarding intangible cultural heritage.
+Digital systems documenting traditions, languages, and cultural practices at risk of disappearing
 
 ## Description
 

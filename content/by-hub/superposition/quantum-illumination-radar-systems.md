@@ -2,7 +2,7 @@
 slug: quantum-illumination-radar-systems
 hub: superposition
 title: Quantum Illumination Radar Systems
-summary: Entanglement-enhanced radar prototypes boosting detection in noisy scenes.
+summary: Radar using entangled photons to detect stealth targets in high-noise environments
 permalink: https://www.envisioning.com/superposition/quantum-illumination-radar-systems
 collection: applications
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181124/super
 
 ## Summary
 
-Entanglement-enhanced radar prototypes boosting detection in noisy scenes.
+Radar using entangled photons to detect stealth targets in high-noise environments
 
 ## Description
 

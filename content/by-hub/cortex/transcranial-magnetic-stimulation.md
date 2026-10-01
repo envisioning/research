@@ -2,7 +2,8 @@
 slug: transcranial-magnetic-stimulation
 hub: cortex
 title: Transcranial Magnetic Stimulation Systems
-summary: FDA-cleared neuromodulation chairs for depression and OCD.
+summary: Non-invasive brain stimulation using magnetic fields to treat depression,
+  OCD, and other conditions
 permalink: https://www.envisioning.com/cortex/transcranial-magnetic-stimulation
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062666/corte
 
 ## Summary
 
-FDA-cleared neuromodulation chairs for depression and OCD.
+Non-invasive brain stimulation using magnetic fields to treat depression, OCD, and other conditions
 
 ## Description
 

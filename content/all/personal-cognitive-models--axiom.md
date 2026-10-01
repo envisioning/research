@@ -2,7 +2,8 @@
 slug: personal-cognitive-models
 hub: axiom
 title: Personal Cognitive Models
-summary: AI modeling learner knowledge, misconceptions, and pace.
+summary: AI systems that map individual learner knowledge, misconceptions, and learning
+  patterns to personalize instruction
 permalink: https://www.envisioning.com/axiom/personal-cognitive-models
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990694/axiom
 
 ## Summary
 
-AI modeling learner knowledge, misconceptions, and pace.
+AI systems that map individual learner knowledge, misconceptions, and learning patterns to personalize instruction
 
 ## Description
 

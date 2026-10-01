@@ -2,7 +2,8 @@
 slug: dynamic-virtual-economies
 hub: pixels
 title: Dynamic Virtual Economies
-summary: Tokenized markets with AI governors preventing inflation.
+summary: AI-managed in-game markets that adjust prices, drop rates, and taxes to prevent
+  economic collapse
 permalink: https://www.envisioning.com/pixels/dynamic-virtual-economies
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058996/pixel
 
 ## Summary
 
-Tokenized markets with AI governors preventing inflation.
+AI-managed in-game markets that adjust prices, drop rates, and taxes to prevent economic collapse
 
 ## Description
 

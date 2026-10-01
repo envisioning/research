@@ -2,7 +2,8 @@
 slug: spatial-data-sovereignty
 hub: liminal
 title: Spatial Data Sovereignty
-summary: Governance of who owns and stewards spatial experience data.
+summary: Frameworks for controlling ownership and access to spatial computing data
+  streams
 permalink: https://www.envisioning.com/liminal/spatial-data-sovereignty
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125527/limin
 
 ## Summary
 
-Governance of who owns and stewards spatial experience data.
+Frameworks for controlling ownership and access to spatial computing data streams
 
 ## Description
 

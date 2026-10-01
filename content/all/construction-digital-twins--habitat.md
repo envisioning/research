@@ -2,7 +2,8 @@
 slug: construction-digital-twins
 hub: habitat
 title: Construction Digital Twins
-summary: Live, simulation-ready replicas of construction projects during execution.
+summary: Dynamic virtual replicas of active construction sites fed by sensors, drones,
+  and project data
 permalink: https://www.envisioning.com/habitat/construction-digital-twins
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117535/habit
 
 ## Summary
 
-Live, simulation-ready replicas of construction projects during execution.
+Dynamic virtual replicas of active construction sites fed by sensors, drones, and project data
 
 ## Description
 

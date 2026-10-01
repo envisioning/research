@@ -2,7 +2,8 @@
 slug: telepresence-robotics
 hub: forge
 title: Immersive Telepresence & Telerobotics
-summary: High-fidelity remote control of industrial machinery via VR/haptics.
+summary: Remote control of industrial robots using VR headsets and haptic feedback
+  for precision tasks
 permalink: https://www.envisioning.com/forge/telepresence-robotics
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765550218/forge
 
 ## Summary
 
-High-fidelity remote control of industrial machinery via VR/haptics.
+Remote control of industrial robots using VR headsets and haptic feedback for precision tasks
 
 ## Description
 

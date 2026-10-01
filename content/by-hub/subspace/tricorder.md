@@ -2,21 +2,20 @@
 slug: tricorder
 hub: subspace
 title: Tricorder
-summary: Portable multi-function sensing, computing, and recording device for field
-  operations.
+summary: Handheld multi-sensor device for field diagnostics and environmental analysis
 permalink: https://www.envisioning.com/subspace/tricorder
 collection: sensors
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760209598/subspaceindex/technologies/tricorder.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909347/subspace/technologies/tricorder-openrouter-google-gemini-3.1-flash-image-preview-i6vtua.png
 ---
 
 # Tricorder
 
 ## Summary
 
-Portable multi-function sensing, computing, and recording device for field operations.
+Handheld multi-sensor device for field diagnostics and environmental analysis
 
 ## Description
 

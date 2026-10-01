@@ -2,7 +2,8 @@
 slug: vertiport-network-deployment
 hub: altitude
 title: Vertiport Network Deployment & Urban Integration
-summary: Infrastructure for scaling eVTOL operations in cities worldwide.
+summary: Specialized landing facilities with charging and boarding systems for urban
+  air mobility aircraft
 permalink: https://www.envisioning.com/altitude/vertiport-network-deployment
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644246/altit
 
 ## Summary
 
-Infrastructure for scaling eVTOL operations in cities worldwide.
+Specialized landing facilities with charging and boarding systems for urban air mobility aircraft
 
 ## Description
 

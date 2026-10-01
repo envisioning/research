@@ -2,7 +2,8 @@
 slug: neural-prosthesis-control
 hub: cortex
 title: Neural Prosthesis Control Systems
-summary: Adaptive controllers translating intent into dexterous actuation.
+summary: Software that translates brain and muscle signals into precise prosthetic
+  limb movements
 permalink: https://www.envisioning.com/cortex/neural-prosthesis-control
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062734/corte
 
 ## Summary
 
-Adaptive controllers translating intent into dexterous actuation.
+Software that translates brain and muscle signals into precise prosthetic limb movements
 
 ## Description
 

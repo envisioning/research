@@ -2,7 +2,8 @@
 slug: bioactive-wearables
 hub: aura
 title: Bioactive Wearables
-summary: Patches delivering micro-doses via transdermal channels.
+summary: Wearable patches delivering peptides and compounds through skin via microneedles
+  and controlled stimulation
 permalink: https://www.envisioning.com/aura/bioactive-wearables
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990319/aura/
 
 ## Summary
 
-Patches delivering micro-doses via transdermal channels.
+Wearable patches delivering peptides and compounds through skin via microneedles and controlled stimulation
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: next-gen-cross-chain-bridges
 hub: lattice
 title: Cross-Chain Bridge Protocols
-summary: Interoperability stacks moving assets and messages across chains.
+summary: Protocols enabling asset and data transfer between different blockchain networks
 permalink: https://www.envisioning.com/lattice/next-gen-cross-chain-bridges
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074807/flows
 
 ## Summary
 
-Interoperability stacks moving assets and messages across chains.
+Protocols enabling asset and data transfer between different blockchain networks
 
 ## Description
 

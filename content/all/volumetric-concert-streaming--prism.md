@@ -2,7 +2,8 @@
 slug: volumetric-concert-streaming
 hub: prism
 title: Volumetric Concert Streaming
-summary: 6DOF livestreaming letting audiences move inside performances remotely.
+summary: Livestreamed concerts captured in 3D, letting remote viewers walk around
+  the stage in real time
 permalink: https://www.envisioning.com/prism/volumetric-concert-streaming
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069262/pulse
 
 ## Summary
 
-6DOF livestreaming letting audiences move inside performances remotely.
+Livestreamed concerts captured in 3D, letting remote viewers walk around the stage in real time
 
 ## Description
 

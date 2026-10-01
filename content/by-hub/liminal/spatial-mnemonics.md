@@ -2,7 +2,8 @@
 slug: spatial-mnemonics
 hub: liminal
 title: Spatial Mnemonics
-summary: AR workspaces mapping information to physical locations for recall.
+summary: Anchoring digital information to physical locations using AR to enhance memory
+  and recall
 permalink: https://www.envisioning.com/liminal/spatial-mnemonics
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124477/limin
 
 ## Summary
 
-AR workspaces mapping information to physical locations for recall.
+Anchoring digital information to physical locations using AR to enhance memory and recall
 
 ## Description
 

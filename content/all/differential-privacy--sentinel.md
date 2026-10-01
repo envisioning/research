@@ -2,7 +2,8 @@
 slug: differential-privacy
 hub: sentinel
 title: Differential Privacy
-summary: Mathematical guarantees that limit information leakage from aggregated data.
+summary: Mathematical framework adding calibrated noise to datasets to prevent individual
+  re-identification
 permalink: https://www.envisioning.com/sentinel/differential-privacy
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463920/senti
 
 ## Summary
 
-Mathematical guarantees that limit information leakage from aggregated data.
+Mathematical framework adding calibrated noise to datasets to prevent individual re-identification
 
 ## Description
 

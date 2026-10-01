@@ -2,21 +2,21 @@
 slug: neural-stimulator
 hub: subspace
 title: Cortical Stimulator
-summary: Device for stimulating neural activity to revive unconscious patients or
-  enhance cognitive function.
+summary: Electromagnetic device that delivers targeted pulses to the brain to restore
+  consciousness or boost cognition
 permalink: https://www.envisioning.com/subspace/neural-stimulator
 collection: biotechnology
 trl: 6
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210137/subspaceindex/technologies/neural-stimulator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907737/subspace/technologies/neural-stimulator-openrouter-google-gemini-3.1-flash-image-preview-d5a8b0.png
 ---
 
 # Cortical Stimulator
 
 ## Summary
 
-Device for stimulating neural activity to revive unconscious patients or enhance cognitive function.
+Electromagnetic device that delivers targeted pulses to the brain to restore consciousness or boost cognition
 
 ## Description
 

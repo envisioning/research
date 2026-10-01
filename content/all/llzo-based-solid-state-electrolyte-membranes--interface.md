@@ -2,21 +2,20 @@
 slug: llzo-based-solid-state-electrolyte-membranes
 hub: interface
 title: LLZO-Based Solid-State Electrolyte Membranes
-summary: Multilayer solid-state electrolyte membranes with superior fire safety and
-  high energy density.
+summary: Ceramic battery membranes that conduct lithium ions without flammable liquids
 permalink: https://www.envisioning.com/interface/llzo-based-solid-state-electrolyte-membranes
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883187/interface/technologies/346e82dc-38ae-40fb-b082-5ad46585d551-google-gemini-3.1-flash-image-preview-9wsd91.jpg
 ---
 
 # LLZO-Based Solid-State Electrolyte Membranes
 
 ## Summary
 
-Multilayer solid-state electrolyte membranes with superior fire safety and high energy density.
+Ceramic battery membranes that conduct lithium ions without flammable liquids
 
 ## Description
 

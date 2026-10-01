@@ -2,16 +2,10 @@
 slug: solar-glass
 hub: cities
 title: Solar Glass
-summary: 'Transparent solar panels absorb sunlight and generate renewable electricity.
-  When incorporated into windows, skylights, façades, and other places where glass
-  is used architecturally, solar panel glass enables the integration of renewable
-  electricity generation into the design of buildings and structures. This technology
-  provides a clean, renewable energy source that reduces reliance on fossil fuels
-  and lowers greenhouse gas emissions. Solar windows enhance building energy efficiency,
-  decrease electricity costs, and contribute to urban resilience by generating power
-  from existing architectural surfaces. '
+summary: Transparent photovoltaic panels that generate electricity from building windows
+  and facades
 permalink: https://www.envisioning.com/cities/solar-glass
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 8
 impact: 2
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718620020-solar-glass.png
 
 ## Summary
 
-Transparent solar panels absorb sunlight and generate renewable electricity. When incorporated into windows, skylights, façades, and other places where glass is used architecturally, solar panel glass enables the integration of renewable electricity generation into the design of buildings and structures. This technology provides a clean, renewable energy source that reduces reliance on fossil fuels and lowers greenhouse gas emissions. Solar windows enhance building energy efficiency, decrease electricity costs, and contribute to urban resilience by generating power from existing architectural surfaces.
+Transparent photovoltaic panels that generate electricity from building windows and facades
 
 ## Description
 

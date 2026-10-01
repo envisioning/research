@@ -2,7 +2,8 @@
 slug: equity-beauty-biotech
 hub: aura
 title: Equity in Beauty Biotech
-summary: Socioeconomic divides in appearance advantage.
+summary: Examining access gaps in advanced aesthetic technologies and their potential
+  to widen social inequality
 permalink: https://www.envisioning.com/aura/equity-beauty-biotech
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010220/aura/
 
 ## Summary
 
-Socioeconomic divides in appearance advantage.
+Examining access gaps in advanced aesthetic technologies and their potential to widen social inequality
 
 ## Description
 

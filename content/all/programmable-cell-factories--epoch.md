@@ -2,21 +2,21 @@
 slug: programmable-cell-factories
 hub: epoch
 title: Programmable Cell Factories
-summary: Microfluidic hardware that grows, differentiates, or edits stem cells for
-  rejuvenation use.
+summary: Automated bioreactors that grow and differentiate stem cells for therapeutic
+  use
 permalink: https://www.envisioning.com/epoch/programmable-cell-factories
 collection: hardware
 trl: 4
 impact: 4
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889208/epoch/technologies/75d0d63d-bfc6-4c9e-8b94-b4ff62a8fabe-google-gemini-3.1-flash-image-preview-lds31n.jpg
 ---
 
 # Programmable Cell Factories
 
 ## Summary
 
-Microfluidic hardware that grows, differentiates, or edits stem cells for rejuvenation use.
+Automated bioreactors that grow and differentiate stem cells for therapeutic use
 
 ## Description
 

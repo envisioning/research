@@ -2,7 +2,8 @@
 slug: neurofeedback-headbands
 hub: axiom
 title: Neurofeedback Headbands for Learning
-summary: Consumer-grade neural wearables for attention and focus training.
+summary: Wearable EEG devices that measure brain activity to train attention and focus
+  during learning
 permalink: https://www.envisioning.com/axiom/neurofeedback-headbands
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990563/axiom
 
 ## Summary
 
-Consumer-grade neural wearables for attention and focus training.
+Wearable EEG devices that measure brain activity to train attention and focus during learning
 
 ## Description
 

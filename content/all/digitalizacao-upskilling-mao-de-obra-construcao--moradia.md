@@ -2,10 +2,8 @@
 slug: digitalizacao-upskilling-mao-de-obra-construcao
 hub: moradia
 title: Digitalização e Upskilling da Mão de Obra de Construção
-summary: Sistemas integrados de capacitação digital e transformação do trabalho que
-  preparam trabalhadores da construção civil e predial para tecnologias digitais,
-  automação e novos modelos de trabalho, combinando letramento digital, treinamento
-  técnico e adaptação a transformações tecnológicas.
+summary: Capacitação digital de trabalhadores da construção para automação e novas
+  tecnologias
 permalink: https://www.envisioning.com/moradia/digitalizacao-upskilling-mao-de-obra-construcao
 collection: modelos-mercado-governanca
 trl: 3
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582747/habit
 
 ## Summary
 
-Sistemas integrados de capacitação digital e transformação do trabalho que preparam trabalhadores da construção civil e predial para tecnologias digitais, automação e novos modelos de trabalho, combinando letramento digital, treinamento técnico e adaptação a transformações tecnológicas.
+Capacitação digital de trabalhadores da construção para automação e novas tecnologias
 
 ## Description
 

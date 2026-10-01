@@ -2,13 +2,13 @@
 slug: iris-recognition-systems
 hub: interface
 title: Iris Recognition Systems
-summary: Self-developed optical components (camera module and infrared LED) for high-performance
-  iris recognition.
+summary: Biometric authentication using unique iris patterns captured by specialized
+  infrared cameras
 permalink: https://www.envisioning.com/interface/iris-recognition-systems
-collection: advanced-interaction-modalities
+collection: ethics-security
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743260/interface/technologies/iris-recognition-systems-google-gemini-3-pro-image-preview-d8253y.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743260/inter
 
 ## Summary
 
-Self-developed optical components (camera module and infrared LED) for high-performance iris recognition.
+Biometric authentication using unique iris patterns captured by specialized infrared cameras
 
 ## Description
 

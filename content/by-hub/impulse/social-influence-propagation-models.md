@@ -2,7 +2,8 @@
 slug: social-influence-propagation-models
 hub: impulse
 title: Social Influence Propagation Models
-summary: Simulators of how moods and behaviors spread.
+summary: Computational models that predict how emotions, beliefs, and behaviors spread
+  through social networks
 permalink: https://www.envisioning.com/impulse/social-influence-propagation-models
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133782/impul
 
 ## Summary
 
-Simulators of how moods and behaviors spread.
+Computational models that predict how emotions, beliefs, and behaviors spread through social networks
 
 ## Description
 

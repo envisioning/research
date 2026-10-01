@@ -2,7 +2,8 @@
 slug: redes-neutras-conectividade
 hub: moradia
 title: Redes Neutras de Conectividade
-summary: Redes de fibra óptica compartilhadas que suportam múltiplos provedores.
+summary: Infraestrutura de fibra óptica compartilhada entre múltiplos provedores de
+  internet
 permalink: https://www.envisioning.com/moradia/redes-neutras-conectividade
 collection: cidade-infraestrutura-urbana
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584922/habit
 
 ## Summary
 
-Redes de fibra óptica compartilhadas que suportam múltiplos provedores.
+Infraestrutura de fibra óptica compartilhada entre múltiplos provedores de internet
 
 ## Description
 

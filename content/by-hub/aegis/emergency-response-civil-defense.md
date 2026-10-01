@@ -2,7 +2,8 @@
 slug: emergency-response-civil-defense
 hub: aegis
 title: Emergency Response & Civil Defense
-summary: Rapid-deployment robotics and disaster prediction systems.
+summary: Robotics and AI systems for disaster prediction, survivor location, and hazardous-zone
+  operations
 permalink: https://www.envisioning.com/aegis/emergency-response-civil-defense
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010182/aegis
 
 ## Summary
 
-Rapid-deployment robotics and disaster prediction systems.
+Robotics and AI systems for disaster prediction, survivor location, and hazardous-zone operations
 
 ## Description
 

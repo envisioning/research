@@ -2,7 +2,8 @@
 slug: supercritical-co2-turbines
 hub: atmos
 title: Supercritical CO₂ Turbines
-summary: Compact Brayton-cycle turbines boosting thermal plant efficiency.
+summary: High-efficiency turbines using supercritical CO₂ for compact thermal power
+  generation
 permalink: https://www.envisioning.com/atmos/supercritical-co2-turbines
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764140588/atmos
 
 ## Summary
 
-Compact Brayton-cycle turbines boosting thermal plant efficiency.
+High-efficiency turbines using supercritical CO₂ for compact thermal power generation
 
 ## Description
 

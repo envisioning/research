@@ -2,21 +2,21 @@
 slug: neural-implant-technology
 hub: xenotech
 title: Neural Implants
-summary: Mysterious objects reportedly removed from alleged abductees, claimed as
-  tracking or monitoring devices.
+summary: Small objects removed from alleged abductees, claimed to be extraterrestrial
+  tracking devices
 permalink: https://www.envisioning.com/xenotech/neural-implant-technology
 collection: energy-systems
 trl: 2
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760821312/xenotech/technologies/abduction-implant-technology.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898997/xenotech/technologies/neural-implant-technology-openrouter-google-gemini-3.1-flash-image-preview-fpmjxn.png
 ---
 
 # Neural Implants
 
 ## Summary
 
-Mysterious objects reportedly removed from alleged abductees, claimed as tracking or monitoring devices.
+Small objects removed from alleged abductees, claimed to be extraterrestrial tracking devices
 
 ## Description
 

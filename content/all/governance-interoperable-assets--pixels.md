@@ -2,7 +2,8 @@
 slug: governance-interoperable-assets
 hub: pixels
 title: Governance of Interoperable Assets
-summary: Standards for ownership, taxation, and dispute resolution.
+summary: Frameworks for ownership, royalties, and dispute resolution as digital assets
+  move across games and blockchains
 permalink: https://www.envisioning.com/pixels/governance-interoperable-assets
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011683/pixel
 
 ## Summary
 
-Standards for ownership, taxation, and dispute resolution.
+Frameworks for ownership, royalties, and dispute resolution as digital assets move across games and blockchains
 
 ## Description
 

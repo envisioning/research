@@ -2,8 +2,8 @@
 slug: convergencia-ot-it-energia-saneamento
 hub: moradia
 title: Convergência OT/IT em Energia e Saneamento
-summary: Integração de sistemas operacionais com TI corporativa aumenta eficiência
-  e superfície de risco.
+summary: Integração de sistemas de controle industrial com TI corporativa em infraestrutura
+  crítica
 permalink: https://www.envisioning.com/moradia/convergencia-ot-it-energia-saneamento
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584899/habit
 
 ## Summary
 
-Integração de sistemas operacionais com TI corporativa aumenta eficiência e superfície de risco.
+Integração de sistemas de controle industrial com TI corporativa em infraestrutura crítica
 
 ## Description
 

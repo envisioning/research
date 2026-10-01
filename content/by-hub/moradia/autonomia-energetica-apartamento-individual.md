@@ -2,9 +2,8 @@
 slug: autonomia-energetica-apartamento-individual
 hub: moradia
 title: Autonomia Energética de Apartamento Individual
-summary: Sistemas individuais de geração solar, armazenamento em baterias e gestão
-  de energia em apartamentos, criando autonomia energética a nível de unidade habitacional
-  sem dependência de sistemas condominiais.
+summary: Geração solar, baterias e gestão energética instaladas diretamente em apartamentos
+  individuais
 permalink: https://www.envisioning.com/moradia/autonomia-energetica-apartamento-individual
 collection: sistemas-prediais-automacao
 trl: 3
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766784359/morad
 
 ## Summary
 
-Sistemas individuais de geração solar, armazenamento em baterias e gestão de energia em apartamentos, criando autonomia energética a nível de unidade habitacional sem dependência de sistemas condominiais.
+Geração solar, baterias e gestão energética instaladas diretamente em apartamentos individuais
 
 ## Description
 

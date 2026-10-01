@@ -2,10 +2,8 @@
 slug: canteiro-obra-conectado-humano-aumentado
 hub: moradia
 title: Canteiro de Obra Conectado e Humano-Aumentado
-summary: Transformação do papel do trabalhador da construção através de tecnologias
-  que aumentam capacidades humanas, incluindo drones para inspeção, robótica assistiva,
-  exosqueletos, sistemas de segurança conectados e treinamento imersivo, criando canteiros
-  onde humanos e tecnologia colaboram para maior produtividade e segurança.
+summary: Tecnologias que ampliam capacidades humanas na construção civil com drones,
+  exosqueletos e sistemas conectados
 permalink: https://www.envisioning.com/moradia/canteiro-obra-conectado-humano-aumentado
 collection: metodos-execucao-obra
 trl: 3
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533351/habit
 
 ## Summary
 
-Transformação do papel do trabalhador da construção através de tecnologias que aumentam capacidades humanas, incluindo drones para inspeção, robótica assistiva, exosqueletos, sistemas de segurança conectados e treinamento imersivo, criando canteiros onde humanos e tecnologia colaboram para maior produtividade e segurança.
+Tecnologias que ampliam capacidades humanas na construção civil com drones, exosqueletos e sistemas conectados
 
 ## Description
 

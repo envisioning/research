@@ -2,7 +2,8 @@
 slug: aviation-workforce-automation-impacts
 hub: altitude
 title: Aviation Workforce & Automation Transition Impacts
-summary: Managing employment, retraining, and equity as automation scales.
+summary: Managing job displacement, retraining programs, and labor equity as aviation
+  adopts autonomous systems
 permalink: https://www.envisioning.com/altitude/aviation-workforce-automation-impacts
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649104/altit
 
 ## Summary
 
-Managing employment, retraining, and equity as automation scales.
+Managing job displacement, retraining programs, and labor equity as aviation adopts autonomous systems
 
 ## Description
 

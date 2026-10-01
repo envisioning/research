@@ -2,7 +2,8 @@
 slug: smart-water-systems
 hub: habitat
 title: Smart Water Systems
-summary: Intelligent water monitoring and management for conservation and resilience.
+summary: Intelligent monitoring and management systems that reduce water waste and
+  improve infrastructure efficiency
 permalink: https://www.envisioning.com/habitat/smart-water-systems
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117939/habit
 
 ## Summary
 
-Intelligent water monitoring and management for conservation and resilience.
+Intelligent monitoring and management systems that reduce water waste and improve infrastructure efficiency
 
 ## Description
 

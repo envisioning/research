@@ -2,20 +2,21 @@
 slug: environmental-control-system
 hub: subspace
 title: Environmental Control System
-summary: Atmosphere, temperature, and gravity life-support orchestration.
+summary: Integrated life-support managing atmosphere, temperature, and pressure in
+  enclosed habitats
 permalink: https://www.envisioning.com/subspace/environmental-control-system
 collection: engineering
 trl: 9
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760265435/subspaceindex/technologies/environmental-control-system.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907992/subspace/technologies/environmental-control-system-openrouter-google-gemini-3.1-flash-image-preview-s5quc0.png
 ---
 
 # Environmental Control System
 
 ## Summary
 
-Atmosphere, temperature, and gravity life-support orchestration.
+Integrated life-support managing atmosphere, temperature, and pressure in enclosed habitats
 
 ## Description
 

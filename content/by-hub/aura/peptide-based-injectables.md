@@ -2,7 +2,7 @@
 slug: peptide-based-injectables
 hub: aura
 title: Peptide-Based Injectables
-summary: Botox alternatives targeting neuromuscular junctions with peptides.
+summary: Amino acid chains that reduce wrinkles and boost collagen without neurotoxins
 permalink: https://www.envisioning.com/aura/peptide-based-injectables
 collection: applications
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074465/aura/
 
 ## Summary
 
-Botox alternatives targeting neuromuscular junctions with peptides.
+Amino acid chains that reduce wrinkles and boost collagen without neurotoxins
 
 ## Description
 

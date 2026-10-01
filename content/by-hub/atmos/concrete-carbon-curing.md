@@ -2,7 +2,8 @@
 slug: concrete-carbon-curing
 hub: atmos
 title: Concrete Carbon Curing
-summary: Injecting CO₂ into fresh concrete to mineralize and strengthen it.
+summary: Injecting captured CO₂ into concrete during curing to strengthen it and lock
+  in carbon
 permalink: https://www.envisioning.com/atmos/concrete-carbon-curing
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764178858/atmos
 
 ## Summary
 
-Injecting CO₂ into fresh concrete to mineralize and strengthen it.
+Injecting captured CO₂ into concrete during curing to strengthen it and lock in carbon
 
 ## Description
 

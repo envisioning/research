@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 5
 impact: 2
 investment: 2
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882585/wonen/technologies/14da8838-4133-479a-bca8-942f7507b318-google-gemini-3.1-flash-image-preview-mdtfes.jpg
 ---
 
 # Brussels 19 Municipality Fragmentation

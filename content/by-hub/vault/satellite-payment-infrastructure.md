@@ -2,7 +2,8 @@
 slug: satellite-payment-infrastructure
 hub: vault
 title: Satellite Payment Infrastructure
-summary: Global connectivity for banking in remote regions.
+summary: Low-earth-orbit satellites enabling payment processing in areas without ground
+  infrastructure
 permalink: https://www.envisioning.com/vault/satellite-payment-infrastructure
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128088/vault
 
 ## Summary
 
-Global connectivity for banking in remote regions.
+Low-earth-orbit satellites enabling payment processing in areas without ground infrastructure
 
 ## Description
 

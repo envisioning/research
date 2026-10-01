@@ -2,8 +2,8 @@
 slug: bio-data-sovereignty
 hub: epoch
 title: Bio-Data Sovereignty
-summary: Legal structures ensuring individuals own the rights to their biological
-  and genomic data.
+summary: Legal frameworks granting individuals ownership and control over their genomic
+  and biological data
 permalink: https://www.envisioning.com/epoch/bio-data-sovereignty
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476416/epoch
 
 ## Summary
 
-Legal structures ensuring individuals own the rights to their biological and genomic data.
+Legal frameworks granting individuals ownership and control over their genomic and biological data
 
 ## Description
 

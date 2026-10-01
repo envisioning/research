@@ -2,7 +2,8 @@
 slug: regulatory-compliance-automation
 hub: quadrant
 title: Regulatory Compliance Automation
-summary: Regtech platforms for continuous safety and ESG compliance.
+summary: Automated monitoring and reporting systems that track industrial safety,
+  environmental, and governance standards in real
 permalink: https://www.envisioning.com/quadrant/regulatory-compliance-automation
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128313/quadr
 
 ## Summary
 
-Regtech platforms for continuous safety and ESG compliance.
+Automated monitoring and reporting systems that track industrial safety, environmental, and governance standards in real
 
 ## Description
 

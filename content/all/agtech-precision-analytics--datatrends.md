@@ -2,7 +2,8 @@
 slug: agtech-precision-analytics
 hub: datatrends
 title: AgTech Precision Analytics
-summary: Optimizing farming through soil, weather, and crop health sensor data.
+summary: Sensor-driven analytics for optimizing crop yields, resource use, and field-level
+  decisions
 permalink: https://www.envisioning.com/datatrends/agtech-precision-analytics
 collection: analytics-in-action
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373567/datat
 
 ## Summary
 
-Optimizing farming through soil, weather, and crop health sensor data.
+Sensor-driven analytics for optimizing crop yields, resource use, and field-level decisions
 
 ## Description
 

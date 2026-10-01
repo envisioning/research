@@ -2,19 +2,21 @@
 slug: inflatable-space-habitat
 hub: apogee
 title: Inflatable Space Habitat
-summary: Expandable habitats for orbital and deep-space use; Bigelow Aerospace.
+summary: Expandable structures that deploy in orbit to create living and working space
+  for astronauts
 permalink: https://www.envisioning.com/apogee/inflatable-space-habitat
 collection: hardware
 trl: 7
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882739/apogee/technologies/209771c8-b745-4d97-af64-a2cab984967b-google-gemini-3.1-flash-image-preview-6c2zcj.jpg
 ---
 
 # Inflatable Space Habitat
 
 ## Summary
 
-Expandable habitats for orbital and deep-space use; Bigelow Aerospace.
+Expandable structures that deploy in orbit to create living and working space for astronauts
 
 ## Description
 

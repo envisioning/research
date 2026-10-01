@@ -2,8 +2,8 @@
 slug: derms-orquestracao-der
 hub: moradia
 title: Orquestração de Recursos Energéticos Distribuídos
-summary: Software para coordenar solar, baterias, carregadores e demanda flexível
-  no território.
+summary: Plataformas que coordenam painéis solares, baterias e cargas distribuídas
+  na rede elétrica
 permalink: https://www.envisioning.com/moradia/derms-orquestracao-der
 collection: plataformas-dados
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583714/habit
 
 ## Summary
 
-Software para coordenar solar, baterias, carregadores e demanda flexível no território.
+Plataformas que coordenam painéis solares, baterias e cargas distribuídas na rede elétrica
 
 ## Description
 

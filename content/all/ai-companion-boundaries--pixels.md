@@ -2,7 +2,8 @@
 slug: ai-companion-boundaries
 hub: pixels
 title: AI Companion Boundaries
-summary: Addressing attachment, dependency, and NPC memories.
+summary: Frameworks governing emotional attachment and memory retention in persistent
+  AI game companions
 permalink: https://www.envisioning.com/pixels/ai-companion-boundaries
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011618/pixel
 
 ## Summary
 
-Addressing attachment, dependency, and NPC memories.
+Frameworks governing emotional attachment and memory retention in persistent AI game companions
 
 ## Description
 

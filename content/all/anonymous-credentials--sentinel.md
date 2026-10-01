@@ -2,7 +2,8 @@
 slug: anonymous-credentials
 hub: sentinel
 title: Anonymous & Attribute-Based Credentials
-summary: Credentials enabling selective disclosure and unlinkable presentations.
+summary: Prove specific identity claims without revealing full credentials or enabling
+  tracking
 permalink: https://www.envisioning.com/sentinel/anonymous-credentials
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461545/senti
 
 ## Summary
 
-Credentials enabling selective disclosure and unlinkable presentations.
+Prove specific identity claims without revealing full credentials or enabling tracking
 
 ## Description
 

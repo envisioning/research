@@ -2,7 +2,8 @@
 slug: algorithmic-bias-in-credit-and-pricing
 hub: lattice
 title: Algorithmic Bias in Credit & Pricing
-summary: Fairness and access in AI-driven underwriting and dynamic pricing.
+summary: Detecting and mitigating unfair outcomes in AI-driven credit scoring and
+  dynamic pricing systems
 permalink: https://www.envisioning.com/lattice/algorithmic-bias-in-credit-and-pricing
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010276/flows
 
 ## Summary
 
-Fairness and access in AI-driven underwriting and dynamic pricing.
+Detecting and mitigating unfair outcomes in AI-driven credit scoring and dynamic pricing systems
 
 ## Description
 

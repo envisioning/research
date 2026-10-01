@@ -2,7 +2,8 @@
 slug: network-carbon-accounting-transparency
 hub: link
 title: Network Carbon Accounting & Transparency
-summary: Standardized measurement and reporting of telecom carbon footprints.
+summary: Measuring and reporting the full carbon footprint of telecommunications infrastructure
+  and operations
 permalink: https://www.envisioning.com/link/network-carbon-accounting-transparency
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182394/link/
 
 ## Summary
 
-Standardized measurement and reporting of telecom carbon footprints.
+Measuring and reporting the full carbon footprint of telecommunications infrastructure and operations
 
 ## Description
 

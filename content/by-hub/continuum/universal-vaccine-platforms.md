@@ -2,7 +2,8 @@
 slug: universal-vaccine-platforms
 hub: continuum
 title: Universal Vaccine Platforms
-summary: Rapid-response immunization against emerging pathogens.
+summary: Adaptable vaccine frameworks that can be rapidly reconfigured to target emerging
+  infectious diseases
 permalink: https://www.envisioning.com/continuum/universal-vaccine-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124010/conti
 
 ## Summary
 
-Rapid-response immunization against emerging pathogens.
+Adaptable vaccine frameworks that can be rapidly reconfigured to target emerging infectious diseases
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: predictive-maintenance-ai
 hub: stratum
 title: Predictive Maintenance AI
-summary: ML models predicting equipment failure before it occurs.
+summary: Machine learning models that forecast industrial equipment failures before
+  they happen
 permalink: https://www.envisioning.com/stratum/predictive-maintenance-ai
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135118/strat
 
 ## Summary
 
-ML models predicting equipment failure before it occurs.
+Machine learning models that forecast industrial equipment failures before they happen
 
 ## Description
 

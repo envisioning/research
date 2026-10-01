@@ -2,7 +2,8 @@
 slug: direct-air-electrowinning
 hub: stratum
 title: Direct Air Electrowinning
-summary: Converting atmospheric CO2 directly into industrial chemicals.
+summary: Electrochemical conversion of captured atmospheric CO2 into industrial chemical
+  feedstocks
 permalink: https://www.envisioning.com/stratum/direct-air-electrowinning
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177967/strat
 
 ## Summary
 
-Converting atmospheric CO2 directly into industrial chemicals.
+Electrochemical conversion of captured atmospheric CO2 into industrial chemical feedstocks
 
 ## Description
 

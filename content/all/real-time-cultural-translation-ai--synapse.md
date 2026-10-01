@@ -2,8 +2,7 @@
 slug: real-time-cultural-translation-ai
 hub: synapse
 title: Real-Time Cultural Translation AI
-summary: AI systems that bridge linguistic and cultural communication gaps in global
-  teams.
+summary: AI that translates language and cultural context for multinational teams
 permalink: https://www.envisioning.com/synapse/real-time-cultural-translation-ai
 collection: software
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126758/synap
 
 ## Summary
 
-AI systems that bridge linguistic and cultural communication gaps in global teams.
+AI that translates language and cultural context for multinational teams
 
 ## Description
 

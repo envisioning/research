@@ -2,8 +2,8 @@
 slug: medical-delivery-drones
 hub: vitals
 title: Autonomous Medical Delivery Drones
-summary: UAVs transporting blood, vaccines, medications, and diagnostics to remote
-  or congested areas.
+summary: UAVs delivering blood, vaccines, and medical supplies to remote or congested
+  areas
 permalink: https://www.envisioning.com/vitals/medical-delivery-drones
 collection: hardware
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116541/vital
 
 ## Summary
 
-UAVs transporting blood, vaccines, medications, and diagnostics to remote or congested areas.
+UAVs delivering blood, vaccines, and medical supplies to remote or congested areas
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: deuterated-biomolecules
 hub: epoch
 title: Deuterated Biomolecules
-summary: Chemically reinforced nutrients and drugs that resist oxidative damage and
-  metabolic breakdown.
+summary: Nutrients and drugs reinforced with deuterium to slow oxidative damage and
+  metabolic breakdown
 permalink: https://www.envisioning.com/epoch/deuterated-biomolecules
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620144/epoch
 
 ## Summary
 
-Chemically reinforced nutrients and drugs that resist oxidative damage and metabolic breakdown.
+Nutrients and drugs reinforced with deuterium to slow oxidative damage and metabolic breakdown
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: mixture-of-experts-platforms
 hub: wintermute
 title: Mixture-of-Experts Model Platforms
-summary: Sparse-activated LLM frameworks routing tokens to expert subnetworks.
+summary: Neural networks that activate only specialized subsets of parameters per
+  input token
 permalink: https://www.envisioning.com/wintermute/mixture-of-experts-platforms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080343/winte
 
 ## Summary
 
-Sparse-activated LLM frameworks routing tokens to expert subnetworks.
+Neural networks that activate only specialized subsets of parameters per input token
 
 ## Description
 

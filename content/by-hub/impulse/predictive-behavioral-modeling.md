@@ -2,7 +2,8 @@
 slug: predictive-behavioral-modeling
 hub: impulse
 title: Predictive Behavioral Modeling
-summary: Analytics anticipating user cravings and decisions.
+summary: Machine learning systems that forecast user decisions and psychological states
+  from behavioral data
 permalink: https://www.envisioning.com/impulse/predictive-behavioral-modeling
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133598/impul
 
 ## Summary
 
-Analytics anticipating user cravings and decisions.
+Machine learning systems that forecast user decisions and psychological states from behavioral data
 
 ## Description
 

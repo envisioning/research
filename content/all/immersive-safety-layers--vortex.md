@@ -2,7 +2,8 @@
 slug: immersive-safety-layers
 hub: vortex
 title: Immersive Safety Layers
-summary: Safety, moderation, and reporting tools for XR spaces.
+summary: Safety controls and moderation tools designed for shared virtual and augmented
+  reality environments
 permalink: https://www.envisioning.com/vortex/immersive-safety-layers
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177924/vorte
 
 ## Summary
 
-Safety, moderation, and reporting tools for XR spaces.
+Safety controls and moderation tools designed for shared virtual and augmented reality environments
 
 ## Description
 

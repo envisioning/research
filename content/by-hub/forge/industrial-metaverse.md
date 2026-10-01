@@ -2,7 +2,8 @@
 slug: industrial-metaverse
 hub: forge
 title: Industrial Metaverse & Spatial Computing
-summary: Immersive AR/VR environments for design collaboration, training, and operations.
+summary: Persistent digital twins of factories and facilities for remote collaboration
+  and operations
 permalink: https://www.envisioning.com/forge/industrial-metaverse
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765550212/forge
 
 ## Summary
 
-Immersive AR/VR environments for design collaboration, training, and operations.
+Persistent digital twins of factories and facilities for remote collaboration and operations
 
 ## Description
 

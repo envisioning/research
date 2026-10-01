@@ -2,7 +2,8 @@
 slug: indian-natural-dye-bioprocessing
 hub: fabric
 title: Indian Natural Dye Bioprocessing
-summary: Enzymatic dye extraction workflows scaling artisanal colorways.
+summary: Enzymatic extraction systems scaling traditional plant-based dyes for modern
+  textile production
 permalink: https://www.envisioning.com/fabric/indian-natural-dye-bioprocessing
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062514/threa
 
 ## Summary
 
-Enzymatic dye extraction workflows scaling artisanal colorways.
+Enzymatic extraction systems scaling traditional plant-based dyes for modern textile production
 
 ## Description
 

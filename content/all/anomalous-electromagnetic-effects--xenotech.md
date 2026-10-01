@@ -2,22 +2,21 @@
 slug: anomalous-electromagnetic-effects
 hub: xenotech
 title: Electromagnetic Effects
-summary: Electromagnetic interference systems claiming to produce unexpected physical
-  phenomena including levitation, material transformation, and anomalous motion through
-  complex field interactions.
+summary: High-voltage electromagnetic apparatus claimed to produce levitation, material
+  transformation, and anomalous motion
 permalink: https://www.envisioning.com/xenotech/anomalous-electromagnetic-effects
 collection: energy-systems
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760820202/xenotech/technologies/hutchison-effect.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898172/xenotech/technologies/anomalous-electromagnetic-effects-openrouter-google-gemini-3.1-flash-image-preview-a4jsm2.png
 ---
 
 # Electromagnetic Effects
 
 ## Summary
 
-Electromagnetic interference systems claiming to produce unexpected physical phenomena including levitation, material transformation, and anomalous motion through complex field interactions.
+High-voltage electromagnetic apparatus claimed to produce levitation, material transformation, and anomalous motion
 
 ## Description
 

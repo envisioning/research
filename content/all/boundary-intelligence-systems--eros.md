@@ -2,7 +2,8 @@
 slug: boundary-intelligence-systems
 hub: eros
 title: Boundary Intelligence Systems
-summary: Software that helps negotiate availability, attention, and digital boundaries.
+summary: Software that learns your communication patterns to manage availability and
+  protect attention
 permalink: https://www.envisioning.com/eros/boundary-intelligence-systems
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125044/eros/
 
 ## Summary
 
-Software that helps negotiate availability, attention, and digital boundaries.
+Software that learns your communication patterns to manage availability and protect attention
 
 ## Description
 

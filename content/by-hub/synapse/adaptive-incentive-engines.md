@@ -2,7 +2,8 @@
 slug: adaptive-incentive-engines
 hub: synapse
 title: Adaptive Incentive Engines
-summary: Dynamic compensation and reward systems tuned by organizational goals.
+summary: Compensation systems that automatically adjust rewards based on real-time
+  organizational priorities
 permalink: https://www.envisioning.com/synapse/adaptive-incentive-engines
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111096/synap
 
 ## Summary
 
-Dynamic compensation and reward systems tuned by organizational goals.
+Compensation systems that automatically adjust rewards based on real-time organizational priorities
 
 ## Description
 

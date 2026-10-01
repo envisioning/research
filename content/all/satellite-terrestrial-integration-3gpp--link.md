@@ -2,8 +2,8 @@
 slug: satellite-terrestrial-integration-3gpp
 hub: link
 title: Satellite-Terrestrial Network Integration (3GPP NTN)
-summary: Seamless handover and unified standards between terrestrial and satellite
-  networks.
+summary: Unified standards enabling seamless connectivity between cellular towers
+  and satellite networks
 permalink: https://www.envisioning.com/link/satellite-terrestrial-integration-3gpp
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436409/link/
 
 ## Summary
 
-Seamless handover and unified standards between terrestrial and satellite networks.
+Unified standards enabling seamless connectivity between cellular towers and satellite networks
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: blockchain-death-registry
 hub: eclipse
 title: Blockchain Death Registry
-summary: Immutable, global ledgers for death certificates and inheritance.
+summary: Distributed ledgers that record death certificates and manage cross-border
+  inheritance claims
 permalink: https://www.envisioning.com/eclipse/blockchain-death-registry
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126882/eclip
 
 ## Summary
 
-Immutable, global ledgers for death certificates and inheritance.
+Distributed ledgers that record death certificates and manage cross-border inheritance claims
 
 ## Description
 

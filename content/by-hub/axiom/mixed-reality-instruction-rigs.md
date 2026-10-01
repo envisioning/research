@@ -2,7 +2,8 @@
 slug: mixed-reality-instruction-rigs
 hub: axiom
 title: Mixed-Reality Instruction Rigs
-summary: AR headsets and haptics for spatial lessons and skill training.
+summary: AR headsets with haptic feedback for hands-on skill training in physical
+  spaces
 permalink: https://www.envisioning.com/axiom/mixed-reality-instruction-rigs
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990419/axiom
 
 ## Summary
 
-AR headsets and haptics for spatial lessons and skill training.
+AR headsets with haptic feedback for hands-on skill training in physical spaces
 
 ## Description
 

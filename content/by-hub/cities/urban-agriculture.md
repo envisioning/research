@@ -2,15 +2,10 @@
 slug: urban-agriculture
 hub: cities
 title: Urban Agriculture
-summary: This solution addresses urban issues such as food insecurity, environmental
-  degradation, and urban heat islands. This approach encompasses a variety of techniques,
-  including vertical farming, underground farming, hydroponics, and rooftop gardens,
-  to cultivate food within city landscapes. By bringing food production closer to
-  urban consumers, urban agriculture reduces the dependency on long supply chains,
-  enhances food security, and minimises the carbon footprint associated with transporting
-  food over long distances.
+summary: Growing food within cities using rooftop gardens, vertical farms, and hydroponics
+  to improve food security
 permalink: https://www.envisioning.com/cities/urban-agriculture
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: applications
 trl: 8
 impact: 2
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792100-urban-agriculture.pn
 
 ## Summary
 
-This solution addresses urban issues such as food insecurity, environmental degradation, and urban heat islands. This approach encompasses a variety of techniques, including vertical farming, underground farming, hydroponics, and rooftop gardens, to cultivate food within city landscapes. By bringing food production closer to urban consumers, urban agriculture reduces the dependency on long supply chains, enhances food security, and minimises the carbon footprint associated with transporting food over long distances.
+Growing food within cities using rooftop gardens, vertical farms, and hydroponics to improve food security
 
 ## Description
 

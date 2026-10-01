@@ -2,7 +2,8 @@
 slug: federated-grid-learning
 hub: grid
 title: Federated Learning for Grid Optimization
-summary: Privacy-preserving machine learning trained across distributed grid assets.
+summary: Training machine learning models across distributed grid devices without
+  centralizing sensitive data
 permalink: https://www.envisioning.com/grid/federated-grid-learning
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435252/grid/
 
 ## Summary
 
-Privacy-preserving machine learning trained across distributed grid assets.
+Training machine learning models across distributed grid devices without centralizing sensitive data
 
 ## Description
 

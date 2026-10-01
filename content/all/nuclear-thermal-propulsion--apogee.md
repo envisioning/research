@@ -2,7 +2,7 @@
 slug: nuclear-thermal-propulsion
 hub: apogee
 title: Nuclear Thermal Propulsion
-summary: High-ISP reactors heating cryogenic propellant for deep-space transit.
+summary: Nuclear reactors heating hydrogen propellant for faster deep-space missions
 permalink: https://www.envisioning.com/apogee/nuclear-thermal-propulsion
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060619/apoge
 
 ## Summary
 
-High-ISP reactors heating cryogenic propellant for deep-space transit.
+Nuclear reactors heating hydrogen propellant for faster deep-space missions
 
 ## Description
 

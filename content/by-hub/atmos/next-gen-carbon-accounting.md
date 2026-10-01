@@ -2,7 +2,8 @@
 slug: next-gen-carbon-accounting
 hub: atmos
 title: Carbon Accounting Platforms
-summary: Supply-chain-grade emissions tracking and reporting.
+summary: Real-time emissions tracking across supply chains and operations for regulatory
+  reporting
 permalink: https://www.envisioning.com/atmos/next-gen-carbon-accounting
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764176734/atmos
 
 ## Summary
 
-Supply-chain-grade emissions tracking and reporting.
+Real-time emissions tracking across supply chains and operations for regulatory reporting
 
 ## Description
 

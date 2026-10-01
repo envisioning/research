@@ -2,13 +2,13 @@
 slug: 3d-motion-capture-from-2d-video
 hub: interface
 title: 3D Motion Capture from 2D Video
-summary: Proprietary technology automatically extracting accurate 3D motion data from
-  2D videos and converting it into robot control data (77x faster, 100x cost reduction).
+summary: Extracts 3D motion data from standard 2D video for animation and robotics
+  applications
 permalink: https://www.envisioning.com/interface/3d-motion-capture-from-2d-video
-collection: ambient-contextual-systems
+collection: software
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726243/interface/technologies/3d-motion-capture-from-2d-video-google-gemini-3-pro-image-preview-z9ns68.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765726243/inter
 
 ## Summary
 
-Proprietary technology automatically extracting accurate 3D motion data from 2D videos and converting it into robot control data (77x faster, 100x cost reduction).
+Extracts 3D motion data from standard 2D video for animation and robotics applications
 
 ## Description
 

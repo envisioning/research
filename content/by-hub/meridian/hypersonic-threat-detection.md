@@ -2,7 +2,7 @@
 slug: hypersonic-threat-detection
 hub: meridian
 title: Hypersonic Threat Detection
-summary: Early warning systems for high-speed threats.
+summary: Sensor networks tracking weapons traveling faster than Mach 5
 permalink: https://www.envisioning.com/meridian/hypersonic-threat-detection
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128658/merid
 
 ## Summary
 
-Early warning systems for high-speed threats.
+Sensor networks tracking weapons traveling faster than Mach 5
 
 ## Description
 

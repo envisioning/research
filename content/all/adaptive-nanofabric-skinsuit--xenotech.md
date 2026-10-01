@@ -2,21 +2,21 @@
 slug: adaptive-nanofabric-skinsuit
 hub: xenotech
 title: Adaptive Xenobiomimetic Skinsuit
-summary: Self-assembling nanofabric garment that clings as a second skin, tuning thermal,
-  structural, and optical properties through embedded sensing and bioelectric coupling.
+summary: Programmable nanofiber garment that adjusts thermal, structural, and optical
+  properties via bioelectric feedback
 permalink: https://www.envisioning.com/xenotech/adaptive-nanofabric-skinsuit
 collection: materials-structures
 trl: 3
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762683580/xenotech/technologies/adaptive-nanofabric-skinsuit-openai-gpt-5-gyo13c.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939870/xenotech/technologies/adaptive-nanofabric-skinsuit-imagegen-v1.png
 ---
 
 # Adaptive Xenobiomimetic Skinsuit
 
 ## Summary
 
-Self-assembling nanofabric garment that clings as a second skin, tuning thermal, structural, and optical properties through embedded sensing and bioelectric coupling.
+Programmable nanofiber garment that adjusts thermal, structural, and optical properties via bioelectric feedback
 
 ## Description
 

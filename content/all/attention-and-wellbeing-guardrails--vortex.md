@@ -2,7 +2,8 @@
 slug: attention-and-wellbeing-guardrails
 hub: vortex
 title: Attention & Wellbeing Guardrails
-summary: Mechanisms that manage screen time and emotional load.
+summary: Systems that monitor viewing habits and moderate content exposure to protect
+  user attention and emotional health
 permalink: https://www.envisioning.com/vortex/attention-and-wellbeing-guardrails
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177949/vorte
 
 ## Summary
 
-Mechanisms that manage screen time and emotional load.
+Systems that monitor viewing habits and moderate content exposure to protect user attention and emotional health
 
 ## Description
 

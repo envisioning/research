@@ -2,7 +2,8 @@
 slug: age-appropriate-immersive-design
 hub: pixels
 title: Age-Appropriate Immersive Design
-summary: Design codes limiting dark patterns and high-intensity immersion for children.
+summary: Design standards that limit dark patterns and high-intensity mechanics in
+  VR/AR for children
 permalink: https://www.envisioning.com/pixels/age-appropriate-immersive-design
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012320/pixel
 
 ## Summary
 
-Design codes limiting dark patterns and high-intensity immersion for children.
+Design standards that limit dark patterns and high-intensity mechanics in VR/AR for children
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: crowd-affect-management-platforms
 hub: impulse
 title: Crowd Affect Management Platforms
-summary: Real-time modulation of collective mood at scale.
+summary: Systems that monitor and influence emotional states of large groups in real
+  time
 permalink: https://www.envisioning.com/impulse/crowd-affect-management-platforms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133944/impul
 
 ## Summary
 
-Real-time modulation of collective mood at scale.
+Systems that monitor and influence emotional states of large groups in real time
 
 ## Description
 

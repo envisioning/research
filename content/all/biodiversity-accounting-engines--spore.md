@@ -2,7 +2,8 @@
 slug: biodiversity-accounting-engines
 hub: spore
 title: Biodiversity Accounting Engines
-summary: Software quantifying ecological impact, soil regeneration, and carbon sequestration.
+summary: Software that quantifies species richness, soil health, and carbon impact
+  for regenerative farms
 permalink: https://www.envisioning.com/spore/biodiversity-accounting-engines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179612/spore
 
 ## Summary
 
-Software quantifying ecological impact, soil regeneration, and carbon sequestration.
+Software that quantifies species richness, soil health, and carbon impact for regenerative farms
 
 ## Description
 

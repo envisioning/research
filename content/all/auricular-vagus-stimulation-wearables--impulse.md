@@ -2,7 +2,8 @@
 slug: auricular-vagus-stimulation-wearables
 hub: impulse
 title: Auricular Vagus Nerve Stimulation Wearables
-summary: Ear-worn devices modulating autonomic arousal.
+summary: Ear-worn devices that stimulate the vagus nerve to regulate stress, mood,
+  and autonomic responses
 permalink: https://www.envisioning.com/impulse/auricular-vagus-stimulation-wearables
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133479/impul
 
 ## Summary
 
-Ear-worn devices modulating autonomic arousal.
+Ear-worn devices that stimulate the vagus nerve to regulate stress, mood, and autonomic responses
 
 ## Description
 

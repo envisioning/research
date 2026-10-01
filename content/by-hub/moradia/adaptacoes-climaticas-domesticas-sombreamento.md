@@ -2,9 +2,8 @@
 slug: adaptacoes-climaticas-domesticas-sombreamento
 hub: moradia
 title: 'Adaptações Climáticas Domésticas: Sombreamento e Pinturas Refletivas'
-summary: Soluções populares e improvisadas de sombreamento, pinturas refletivas e
-  isolamento térmico em telhados, criando adaptação climática a nível doméstico sem
-  intervenção municipal.
+summary: Soluções caseiras de sombreamento e pintura refletiva para controlar temperatura
+  sem intervenção municipal
 permalink: https://www.envisioning.com/moradia/adaptacoes-climaticas-domesticas-sombreamento
 collection: materiais-componentes
 trl: 5
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668100/habit
 
 ## Summary
 
-Soluções populares e improvisadas de sombreamento, pinturas refletivas e isolamento térmico em telhados, criando adaptação climática a nível doméstico sem intervenção municipal.
+Soluções caseiras de sombreamento e pintura refletiva para controlar temperatura sem intervenção municipal
 
 ## Description
 

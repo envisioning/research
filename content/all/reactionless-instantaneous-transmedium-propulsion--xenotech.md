@@ -2,21 +2,21 @@
 slug: reactionless-instantaneous-transmedium-propulsion
 hub: xenotech
 title: Transmedium Propulsion
-summary: Propulsion systems displaying zero exhaust signatures, instantaneous acceleration
-  without inertial effects, and seamless movement between air, water, and vacuum.
+summary: Propulsion enabling instant acceleration and medium transitions without visible
+  exhaust or inertial effects
 permalink: https://www.envisioning.com/xenotech/reactionless-instantaneous-transmedium-propulsion
 collection: propulsion-physics
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760818167/xenotech/technologies/tic-tac-uap-technology.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903401/xenotech/technologies/reactionless-instantaneous-transmedium-propulsion-openrouter-google-gemini-3.1-flash-image-preview-c24ynl.png
 ---
 
 # Transmedium Propulsion
 
 ## Summary
 
-Propulsion systems displaying zero exhaust signatures, instantaneous acceleration without inertial effects, and seamless movement between air, water, and vacuum.
+Propulsion enabling instant acceleration and medium transitions without visible exhaust or inertial effects
 
 ## Description
 

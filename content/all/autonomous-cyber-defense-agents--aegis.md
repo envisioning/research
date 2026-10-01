@@ -2,7 +2,8 @@
 slug: autonomous-cyber-defense-agents
 hub: aegis
 title: Autonomous Cyber Defense Agents
-summary: Always-on agents detecting and containing intrusions at machine speed.
+summary: AI agents that detect, analyze, and neutralize cyber threats without human
+  intervention
 permalink: https://www.envisioning.com/aegis/autonomous-cyber-defense-agents
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998512/aegis
 
 ## Summary
 
-Always-on agents detecting and containing intrusions at machine speed.
+AI agents that detect, analyze, and neutralize cyber threats without human intervention
 
 ## Description
 

@@ -2,13 +2,10 @@
 slug: inclusionary-zoning
 hub: cities
 title: Inclusionary Zoning
-summary: This strategic urban planning tool addresses the critical issues of housing
-  unaffordability and socioeconomic segregation in urban areas. It requires developers
-  to include a certain percentage of affordable housing units within new residential
-  developments, ensuring that low- and moderate-income households can live in the
-  same communities as higher-income residents.
+summary: Zoning policy requiring developers to include affordable units in new residential
+  projects
 permalink: https://www.envisioning.com/cities/inclusionary-zoning
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: ethics-security
 trl: 9
 impact: 4
 investment: 3
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719220212-inclusionary-zoning.
 
 ## Summary
 
-This strategic urban planning tool addresses the critical issues of housing unaffordability and socioeconomic segregation in urban areas. It requires developers to include a certain percentage of affordable housing units within new residential developments, ensuring that low- and moderate-income households can live in the same communities as higher-income residents.
+Zoning policy requiring developers to include affordable units in new residential projects
 
 ## Description
 

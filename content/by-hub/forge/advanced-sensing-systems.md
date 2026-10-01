@@ -2,7 +2,8 @@
 slug: advanced-sensing-systems
 hub: forge
 title: Hyperspectral & Terahertz Sensing
-summary: Non-contact imaging technologies revealing hidden material properties.
+summary: Imaging across hundreds of wavelengths to identify materials and detect defects
+  invisible to standard cameras
 permalink: https://www.envisioning.com/forge/advanced-sensing-systems
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765550237/forge
 
 ## Summary
 
-Non-contact imaging technologies revealing hidden material properties.
+Imaging across hundreds of wavelengths to identify materials and detect defects invisible to standard cameras
 
 ## Description
 

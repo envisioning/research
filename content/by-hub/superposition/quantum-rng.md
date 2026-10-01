@@ -2,7 +2,8 @@
 slug: quantum-rng
 hub: superposition
 title: Quantum Random Number Generators (QRNG)
-summary: Generating true randomness from quantum physical processes.
+summary: Generating unpredictable numbers from quantum events for cryptography and
+  secure systems
 permalink: https://www.envisioning.com/superposition/quantum-rng
 collection: ethics-security
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181066/super
 
 ## Summary
 
-Generating true randomness from quantum physical processes.
+Generating unpredictable numbers from quantum events for cryptography and secure systems
 
 ## Description
 

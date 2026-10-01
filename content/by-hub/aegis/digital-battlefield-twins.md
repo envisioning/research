@@ -2,7 +2,8 @@
 slug: digital-battlefield-twins
 hub: aegis
 title: Digital Battlefield Twins
-summary: Multi-resolution simulations for predictive logistics and wargaming.
+summary: Virtual replicas of military operations that integrate real-time data for
+  predictive planning and training
 permalink: https://www.envisioning.com/aegis/digital-battlefield-twins
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996162/aegis
 
 ## Summary
 
-Multi-resolution simulations for predictive logistics and wargaming.
+Virtual replicas of military operations that integrate real-time data for predictive planning and training
 
 ## Description
 

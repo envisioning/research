@@ -2,7 +2,8 @@
 slug: geoengineering-governance
 hub: continuum
 title: Geoengineering Governance Regimes
-summary: Global oversight for solar radiation and carbon removal projects.
+summary: International frameworks for regulating climate intervention technologies
+  and their deployment
 permalink: https://www.envisioning.com/continuum/geoengineering-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126066/conti
 
 ## Summary
 
-Global oversight for solar radiation and carbon removal projects.
+International frameworks for regulating climate intervention technologies and their deployment
 
 ## Description
 

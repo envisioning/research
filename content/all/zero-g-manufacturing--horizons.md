@@ -2,9 +2,10 @@
 slug: zero-g-manufacturing
 hub: horizons
 title: Zero-G Manufacturing
-summary: Producing superior materials and components in microgravity environments.
+summary: Producing materials and components in space to achieve properties impossible
+  on Earth
 permalink: https://www.envisioning.com/horizons/zero-g-manufacturing
-collection: materials-making
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521752/horiz
 
 ## Summary
 
-Producing superior materials and components in microgravity environments.
+Producing materials and components in space to achieve properties impossible on Earth
 
 ## Description
 

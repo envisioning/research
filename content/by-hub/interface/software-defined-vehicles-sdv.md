@@ -2,21 +2,21 @@
 slug: software-defined-vehicles-sdv
 hub: interface
 title: Software-Defined Vehicles (SDV)
-summary: Vehicle architectures with consistent separation of software and hardware
-  development cycles.
+summary: Vehicles designed as computing platforms with software updates independent
+  of hardware
 permalink: https://www.envisioning.com/interface/software-defined-vehicles-sdv
-collection: consumer-electronics-platforms
+collection: software
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882220/interface/technologies/004cd30f-ea06-4b6d-aaf7-68d0de5bf799-google-gemini-3.1-flash-image-preview-fg90w4.jpg
 ---
 
 # Software-Defined Vehicles (SDV)
 
 ## Summary
 
-Vehicle architectures with consistent separation of software and hardware development cycles.
+Vehicles designed as computing platforms with software updates independent of hardware
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-fetal-imaging
 hub: cradle
 title: AI Fetal Imaging
-summary: Automated anomaly detection in ultrasounds.
+summary: Deep learning systems that detect fetal anomalies and measure biometrics
+  during prenatal ultrasounds
 permalink: https://www.envisioning.com/cradle/ai-fetal-imaging
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126257/cradl
 
 ## Summary
 
-Automated anomaly detection in ultrasounds.
+Deep learning systems that detect fetal anomalies and measure biometrics during prenatal ultrasounds
 
 ## Description
 

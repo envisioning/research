@@ -2,7 +2,8 @@
 slug: biosecurity-design-guards
 hub: continuum
 title: Biosecurity Design Guards
-summary: Automated screening for high-risk DNA, proteins, and biological constructs.
+summary: Automated screening systems that detect dangerous DNA sequences and biological
+  designs before synthesis
 permalink: https://www.envisioning.com/continuum/biosecurity-design-guards
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124811/conti
 
 ## Summary
 
-Automated screening for high-risk DNA, proteins, and biological constructs.
+Automated screening systems that detect dangerous DNA sequences and biological designs before synthesis
 
 ## Description
 

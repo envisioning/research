@@ -2,8 +2,8 @@
 slug: comercio-conveniencia-edificios-residenciais
 hub: moradia
 title: Comércio de Conveniência em Edifícios Residenciais
-summary: Mini mercados, lojas de conveniência e serviços comerciais integrados em
-  edifícios residenciais.
+summary: Espaços comerciais integrados ao térreo de prédios residenciais para serviços
+  do dia a dia
 permalink: https://www.envisioning.com/moradia/comercio-conveniencia-edificios-residenciais
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584886/habit
 
 ## Summary
 
-Mini mercados, lojas de conveniência e serviços comerciais integrados em edifícios residenciais.
+Espaços comerciais integrados ao térreo de prédios residenciais para serviços do dia a dia
 
 ## Description
 

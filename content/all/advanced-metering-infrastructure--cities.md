@@ -2,16 +2,10 @@
 slug: advanced-metering-infrastructure
 hub: cities
 title: Advanced Metering Infrastructure
-summary: This system addresses key urban challenges such as resource inefficiency,
-  high utility costs, and environmental impact. They consist of interconnected smart
-  meters, communication networks, and data management platforms. By providing real-time
-  data on electricity, water, and gas usage, these networks enable better resource
-  management, reduce wastage, and enhance disaster response. Their ability to optimise
-  resource distribution, empower consumers with detailed consumption data, and support
-  sustainable urban planning makes them crucial for the development of smart, resilient
-  cities.
+summary: Real-time utility monitoring networks that track electricity, water, and
+  gas consumption across cities
 permalink: https://www.envisioning.com/cities/advanced-metering-infrastructure
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: hardware
 trl: 9
 impact: 4
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718794403-advanced-metering-in
 
 ## Summary
 
-This system addresses key urban challenges such as resource inefficiency, high utility costs, and environmental impact. They consist of interconnected smart meters, communication networks, and data management platforms. By providing real-time data on electricity, water, and gas usage, these networks enable better resource management, reduce wastage, and enhance disaster response. Their ability to optimise resource distribution, empower consumers with detailed consumption data, and support sustainable urban planning makes them crucial for the development of smart, resilient cities.
+Real-time utility monitoring networks that track electricity, water, and gas consumption across cities
 
 ## Description
 

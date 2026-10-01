@@ -2,7 +2,8 @@
 slug: process-optimization-algo
 hub: stratum
 title: Process Optimization Algorithms
-summary: Advanced logic for maximizing yield in extraction and refining.
+summary: Adaptive algorithms that adjust industrial processes in real time to maximize
+  yield and minimize waste
 permalink: https://www.envisioning.com/stratum/process-optimization-algo
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135138/strat
 
 ## Summary
 
-Advanced logic for maximizing yield in extraction and refining.
+Adaptive algorithms that adjust industrial processes in real time to maximize yield and minimize waste
 
 ## Description
 

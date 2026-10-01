@@ -2,9 +2,10 @@
 slug: blockchain-of-things-bot
 hub: horizons
 title: Blockchain of Things (BoT)
-summary: Secure, decentralized networks for industrial IoT and supply chains.
+summary: Blockchain-secured IoT networks for transparent manufacturing and supply
+  chain tracking
 permalink: https://www.envisioning.com/horizons/blockchain-of-things-bot
-collection: intelligence-computation
+collection: software
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526107/horiz
 
 ## Summary
 
-Secure, decentralized networks for industrial IoT and supply chains.
+Blockchain-secured IoT networks for transparent manufacturing and supply chain tracking
 
 ## Description
 

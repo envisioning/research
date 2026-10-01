@@ -2,8 +2,8 @@
 slug: financial-services-regulatory-analytics
 hub: datatrends
 title: Financial Services Regulatory Analytics
-summary: Regulatory requirements driving advanced analytics for risk management, fraud
-  detection, and regulatory reporting in financial services.
+summary: Analytics tools for compliance, risk assessment, and regulatory reporting
+  in banking and finance
 permalink: https://www.envisioning.com/datatrends/financial-services-regulatory-analytics
 collection: management-foundations
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958282/datat
 
 ## Summary
 
-Regulatory requirements driving advanced analytics for risk management, fraud detection, and regulatory reporting in financial services.
+Analytics tools for compliance, risk assessment, and regulatory reporting in banking and finance
 
 ## Description
 

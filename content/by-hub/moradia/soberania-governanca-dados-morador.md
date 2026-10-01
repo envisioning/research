@@ -2,10 +2,8 @@
 slug: soberania-governanca-dados-morador
 hub: moradia
 title: Soberania e Governança de Dados do Morador
-summary: Framework ético e legal para viver em edifícios conectados, integrando assembleias
-  virtuais, conformidade LGPD, cibersegurança, gestão de vigilância e privacidade
-  como infraestrutura invisível necessária para operar tecnologias de monitoramento
-  sem violar direitos.
+summary: Frameworks éticos e legais para proteger dados pessoais em edifícios conectados
+  e condomínios digitais
 permalink: https://www.envisioning.com/moradia/soberania-governanca-dados-morador
 collection: plataformas-dados
 trl: null
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533233/habit
 
 ## Summary
 
-Framework ético e legal para viver em edifícios conectados, integrando assembleias virtuais, conformidade LGPD, cibersegurança, gestão de vigilância e privacidade como infraestrutura invisível necessária para operar tecnologias de monitoramento sem violar direitos.
+Frameworks éticos e legais para proteger dados pessoais em edifícios conectados e condomínios digitais
 
 ## Description
 

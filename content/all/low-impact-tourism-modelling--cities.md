@@ -2,16 +2,10 @@
 slug: low-impact-tourism-modelling
 hub: cities
 title: Low-Impact Tourism Modelling
-summary: This solution addresses significant environmental and societal challenges
-  posed by traditional tourism practices, such as pollution, resource depletion, and
-  cultural disruption. This innovative approach utilises advanced data analytics,
-  Geographic Information Systems (GIS), Internet of Things (IoT) sensors, and artificial
-  intelligence (AI) to collect and analyse data on tourist activities, environmental
-  conditions, and community feedback. By doing so, LITM helps city planners manage
-  and mitigate the adverse effects of tourism, optimising visitor distribution, reducing
-  overcrowding, and protecting sensitive areas.
+summary: Predictive analytics and sensors to distribute tourists, reduce overcrowding,
+  and protect urban ecosystems
 permalink: https://www.envisioning.com/cities/low-impact-tourism-modelling
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: software
 trl: 7
 impact: 2
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719324576-low-impact-tourism-m
 
 ## Summary
 
-This solution addresses significant environmental and societal challenges posed by traditional tourism practices, such as pollution, resource depletion, and cultural disruption. This innovative approach utilises advanced data analytics, Geographic Information Systems (GIS), Internet of Things (IoT) sensors, and artificial intelligence (AI) to collect and analyse data on tourist activities, environmental conditions, and community feedback. By doing so, LITM helps city planners manage and mitigate the adverse effects of tourism, optimising visitor distribution, reducing overcrowding, and protecting sensitive areas.
+Predictive analytics and sensors to distribute tourists, reduce overcrowding, and protect urban ecosystems
 
 ## Description
 

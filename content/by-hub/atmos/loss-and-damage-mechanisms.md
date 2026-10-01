@@ -2,7 +2,7 @@
 slug: loss-and-damage-mechanisms
 hub: atmos
 title: Loss & Damage and Climate Reparations Mechanisms
-summary: Financial and governance architectures for irreversible climate harms.
+summary: Compensation frameworks for climate harms beyond mitigation and adaptation
 permalink: https://www.envisioning.com/atmos/loss-and-damage-mechanisms
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010234/atmos
 
 ## Summary
 
-Financial and governance architectures for irreversible climate harms.
+Compensation frameworks for climate harms beyond mitigation and adaptation
 
 ## Description
 

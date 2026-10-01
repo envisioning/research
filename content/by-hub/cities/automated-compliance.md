@@ -2,16 +2,9 @@
 slug: automated-compliance
 hub: cities
 title: Automated Compliance
-summary: Designed to streamline and enhance the process of adhering to complex regulatory
-  requirements in urban settings, this solution leverages AI, machine learning, and
-  IoT sensors to monitor, enforce, and report on regulatory adherence in real-time.
-  This technology addresses the inefficiencies and limitations of traditional manual
-  compliance methods, ensuring safer, more efficient, and transparent urban management.
-  Automated compliance significantly contributes to sustainable urban development
-  by continuously monitoring environmental standards, infrastructure safety, and public
-  health regulations, making cities more resilient and better managed.
+summary: AI-powered systems that monitor and enforce urban regulations in real-time
 permalink: https://www.envisioning.com/cities/automated-compliance
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: software
 trl: 7
 impact: 3
 investment: 2
@@ -22,7 +15,7 @@ image_url: https://www.datocms-assets.com/134194/1718900195-envisioning-io_digit
 
 ## Summary
 
-Designed to streamline and enhance the process of adhering to complex regulatory requirements in urban settings, this solution leverages AI, machine learning, and IoT sensors to monitor, enforce, and report on regulatory adherence in real-time. This technology addresses the inefficiencies and limitations of traditional manual compliance methods, ensuring safer, more efficient, and transparent urban management. Automated compliance significantly contributes to sustainable urban development by continuously monitoring environmental standards, infrastructure safety, and public health regulations, making cities more resilient and better managed.
+AI-powered systems that monitor and enforce urban regulations in real-time
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: command-operating-system-platforms
 hub: aegis
 title: Command Operating System Platforms
-summary: Integrated workspaces unifying live operational data, agentic workflows,
-  and collaborative authoring for defense operations.
+summary: Unified web workspaces combining live data, AI workflows, and collaboration
+  for defense operations
 permalink: https://www.envisioning.com/aegis/command-operating-system-platforms
 collection: software
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768320481/aegis
 
 ## Summary
 
-Integrated workspaces unifying live operational data, agentic workflows, and collaborative authoring for defense operations.
+Unified web workspaces combining live data, AI workflows, and collaboration for defense operations
 
 ## Description
 

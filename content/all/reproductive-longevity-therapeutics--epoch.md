@@ -2,8 +2,8 @@
 slug: reproductive-longevity-therapeutics
 hub: epoch
 title: Reproductive Longevity Therapeutics
-summary: Interventions specifically targeting ovarian aging to prolong fertility and
-  delay systemic female aging.
+summary: Interventions targeting ovarian aging to extend fertility and delay menopause-related
+  decline
 permalink: https://www.envisioning.com/epoch/reproductive-longevity-therapeutics
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477847/epoch
 
 ## Summary
 
-Interventions specifically targeting ovarian aging to prolong fertility and delay systemic female aging.
+Interventions targeting ovarian aging to extend fertility and delay menopause-related decline
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cognitive-skill-amplification
 hub: axiom
 title: Cognitive Skill Amplification
-summary: Tools enhancing reasoning, memory, and metacognition.
+summary: Structured exercises and feedback systems that strengthen reasoning, memory,
+  attention, and problem-solving skills
 permalink: https://www.envisioning.com/axiom/cognitive-skill-amplification
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996033/axiom
 
 ## Summary
 
-Tools enhancing reasoning, memory, and metacognition.
+Structured exercises and feedback systems that strengthen reasoning, memory, attention, and problem-solving skills
 
 ## Description
 

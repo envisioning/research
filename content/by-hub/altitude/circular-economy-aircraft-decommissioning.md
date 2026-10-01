@@ -2,7 +2,8 @@
 slug: circular-economy-aircraft-decommissioning
 hub: altitude
 title: Circular Economy & Sustainable Aircraft Decommissioning
-summary: End-of-life recycling, remanufacturing, and material recovery for airframes.
+summary: Recycling airframes and recovering materials when aircraft retire to reduce
+  waste and reuse components
 permalink: https://www.envisioning.com/altitude/circular-economy-aircraft-decommissioning
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649069/altit
 
 ## Summary
 
-End-of-life recycling, remanufacturing, and material recovery for airframes.
+Recycling airframes and recovering materials when aircraft retire to reduce waste and reuse components
 
 ## Description
 

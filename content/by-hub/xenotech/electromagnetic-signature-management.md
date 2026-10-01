@@ -2,21 +2,21 @@
 slug: electromagnetic-signature-management
 hub: xenotech
 title: Cloaking
-summary: Technologies reducing or eliminating detection across electromagnetic spectrum—optical
-  invisibility, radar stealth, infrared masking, and multi-domain signature reduction.
+summary: Reducing detection across optical, radar, infrared, and other electromagnetic
+  sensing modes
 permalink: https://www.envisioning.com/xenotech/electromagnetic-signature-management
 collection: materials-structures
 trl: 5
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760985666/xenotech/technologies/electromagnetic-signature-management.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897792/xenotech/technologies/electromagnetic-signature-management-openrouter-google-gemini-3.1-flash-image-preview-icn7lp.png
 ---
 
 # Cloaking
 
 ## Summary
 
-Technologies reducing or eliminating detection across electromagnetic spectrum—optical invisibility, radar stealth, infrared masking, and multi-domain signature reduction.
+Reducing detection across optical, radar, infrared, and other electromagnetic sensing modes
 
 ## Description
 

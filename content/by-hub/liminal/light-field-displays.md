@@ -2,7 +2,8 @@
 slug: light-field-displays
 hub: liminal
 title: Light Field Displays
-summary: Displays generating 3D images with realistic depth cues without glasses.
+summary: Displays that recreate 3D scenes by controlling individual light rays for
+  natural depth perception
 permalink: https://www.envisioning.com/liminal/light-field-displays
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124314/limin
 
 ## Summary
 
-Displays generating 3D images with realistic depth cues without glasses.
+Displays that recreate 3D scenes by controlling individual light rays for natural depth perception
 
 ## Description
 

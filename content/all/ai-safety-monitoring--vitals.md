@@ -2,7 +2,8 @@
 slug: ai-safety-monitoring
 hub: vitals
 title: AI Safety & Performance Monitoring
-summary: Frameworks for continuous surveillance of AI tools deployed in clinical workflows.
+summary: Continuous tracking of AI diagnostic and treatment tools in real-world clinical
+  use
 permalink: https://www.envisioning.com/vitals/ai-safety-monitoring
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115311/vital
 
 ## Summary
 
-Frameworks for continuous surveillance of AI tools deployed in clinical workflows.
+Continuous tracking of AI diagnostic and treatment tools in real-world clinical use
 
 ## Description
 

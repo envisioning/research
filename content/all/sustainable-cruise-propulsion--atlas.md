@@ -2,7 +2,8 @@
 slug: sustainable-cruise-propulsion
 hub: atlas
 title: Sustainable Cruise Propulsion
-summary: Next-generation propulsion for cruise ships using LNG, fuel cells, and wind-assist.
+summary: Cleaner propulsion systems for cruise ships, combining LNG, hydrogen fuel
+  cells, and wind assistance
 permalink: https://www.envisioning.com/atlas/sustainable-cruise-propulsion
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125558/atlas
 
 ## Summary
 
-Next-generation propulsion for cruise ships using LNG, fuel cells, and wind-assist.
+Cleaner propulsion systems for cruise ships, combining LNG, hydrogen fuel cells, and wind assistance
 
 ## Description
 

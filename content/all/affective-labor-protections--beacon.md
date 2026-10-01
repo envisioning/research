@@ -2,7 +2,8 @@
 slug: affective-labor-protections
 hub: beacon
 title: Affective Labor Protection Systems
-summary: Safeguarding workers from emotional exploitation.
+summary: Workplace safeguards against emotional exhaustion in service, care, and content
+  moderation roles
 permalink: https://www.envisioning.com/beacon/affective-labor-protections
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124495/beaco
 
 ## Summary
 
-Safeguarding workers from emotional exploitation.
+Workplace safeguards against emotional exhaustion in service, care, and content moderation roles
 
 ## Description
 

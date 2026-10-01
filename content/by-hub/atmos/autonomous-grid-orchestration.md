@@ -2,7 +2,8 @@
 slug: autonomous-grid-orchestration
 hub: atmos
 title: Autonomous Grid Orchestration
-summary: RL controllers balancing renewables and demand response.
+summary: Real-time AI control systems that balance renewable energy, storage, and
+  demand across power grids
 permalink: https://www.envisioning.com/atmos/autonomous-grid-orchestration
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995597/atmos
 
 ## Summary
 
-RL controllers balancing renewables and demand response.
+Real-time AI control systems that balance renewable energy, storage, and demand across power grids
 
 ## Description
 

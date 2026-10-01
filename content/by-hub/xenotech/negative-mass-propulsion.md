@@ -2,21 +2,21 @@
 slug: negative-mass-propulsion
 hub: xenotech
 title: Negative-Mass Propulsion
-summary: Theoretical propulsion using effective negative mass—exploiting exotic matter
-  or field configurations to generate thrust violating Newton's third law.
+summary: Propulsion exploiting exotic matter or fields with negative inertia to generate
+  thrust without expelling mass
 permalink: https://www.envisioning.com/xenotech/negative-mass-propulsion
 collection: propulsion-physics
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761155212/xenotech/technologies/negative-mass-propulsion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898980/xenotech/technologies/negative-mass-propulsion-openrouter-google-gemini-3.1-flash-image-preview-arwtk9.png
 ---
 
 # Negative-Mass Propulsion
 
 ## Summary
 
-Theoretical propulsion using effective negative mass—exploiting exotic matter or field configurations to generate thrust violating Newton's third law.
+Propulsion exploiting exotic matter or fields with negative inertia to generate thrust without expelling mass
 
 ## Description
 

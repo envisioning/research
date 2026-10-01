@@ -2,7 +2,7 @@
 slug: floating-offshore-wind
 hub: grid
 title: Floating Offshore Wind Platforms
-summary: Deep-water wind turbines on floating foundations for untapped ocean energy.
+summary: Wind turbines on buoyant structures for deep-water ocean energy generation
 permalink: https://www.envisioning.com/grid/floating-offshore-wind
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131992/grid/
 
 ## Summary
 
-Deep-water wind turbines on floating foundations for untapped ocean energy.
+Wind turbines on buoyant structures for deep-water ocean energy generation
 
 ## Description
 

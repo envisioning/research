@@ -2,7 +2,8 @@
 slug: cultural-heritage-preservation
 hub: liminal
 title: Cultural Heritage Preservation
-summary: Spatial archives of endangered sites, rituals, and artifacts.
+summary: Digital replicas of endangered sites, artifacts, and cultural practices using
+  3D scanning and spatial data
 permalink: https://www.envisioning.com/liminal/cultural-heritage-preservation
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125431/limin
 
 ## Summary
 
-Spatial archives of endangered sites, rituals, and artifacts.
+Digital replicas of endangered sites, artifacts, and cultural practices using 3D scanning and spatial data
 
 ## Description
 

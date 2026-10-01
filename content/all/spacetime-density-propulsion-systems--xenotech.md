@@ -2,22 +2,21 @@
 slug: spacetime-density-propulsion-systems
 hub: xenotech
 title: Density Propulsion
-summary: Advanced propulsion systems manipulating local spacetime density rather than
-  reactive thrust, achieving inertia cancellation and right-angle acceleration through
-  torsion field generation and vacuum energy coupling.
+summary: Propulsion via local spacetime density manipulation instead of conventional
+  thrust
 permalink: https://www.envisioning.com/xenotech/spacetime-density-propulsion-systems
 collection: propulsion-physics
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761681217/xenotech/technologies/spacetime-density-propulsion-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897974/xenotech/technologies/spacetime-density-propulsion-systems-openrouter-google-gemini-3.1-flash-image-preview-1kcf1h.png
 ---
 
 # Density Propulsion
 
 ## Summary
 
-Advanced propulsion systems manipulating local spacetime density rather than reactive thrust, achieving inertia cancellation and right-angle acceleration through torsion field generation and vacuum energy coupling.
+Propulsion via local spacetime density manipulation instead of conventional thrust
 
 ## Description
 

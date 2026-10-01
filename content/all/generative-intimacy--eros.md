@@ -2,7 +2,8 @@
 slug: generative-intimacy
 hub: eros
 title: Generative Intimacy Models
-summary: LLMs fine-tuned for long-term relationship building and memory.
+summary: AI companions that remember past conversations and adapt to build long-term
+  emotional connections
 permalink: https://www.envisioning.com/eros/generative-intimacy
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124454/eros/
 
 ## Summary
 
-LLMs fine-tuned for long-term relationship building and memory.
+AI companions that remember past conversations and adapt to build long-term emotional connections
 
 ## Description
 

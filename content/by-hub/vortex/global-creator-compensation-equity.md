@@ -2,7 +2,8 @@
 slug: global-creator-compensation-equity
 hub: vortex
 title: Global Creator Compensation Equity
-summary: Fair payment systems for creators worldwide.
+summary: Payment systems designed to reduce fees and barriers for creators in developing
+  regions
 permalink: https://www.envisioning.com/vortex/global-creator-compensation-equity
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178058/vorte
 
 ## Summary
 
-Fair payment systems for creators worldwide.
+Payment systems designed to reduce fees and barriers for creators in developing regions
 
 ## Description
 

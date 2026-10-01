@@ -2,7 +2,8 @@
 slug: circular-manufacturing-systems
 hub: quadrant
 title: Circular Manufacturing Systems
-summary: Closed-loop production with embedded materials traceability.
+summary: Closed-loop production systems that track and recycle materials through their
+  entire lifecycle
 permalink: https://www.envisioning.com/quadrant/circular-manufacturing-systems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127244/quadr
 
 ## Summary
 
-Closed-loop production with embedded materials traceability.
+Closed-loop production systems that track and recycle materials through their entire lifecycle
 
 ## Description
 

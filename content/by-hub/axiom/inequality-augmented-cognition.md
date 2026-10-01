@@ -2,7 +2,8 @@
 slug: inequality-augmented-cognition
 hub: axiom
 title: Inequality in Augmented Cognition
-summary: Addressing access gaps in cognitive enhancement.
+summary: Examining how unequal access to cognitive enhancement tools may deepen educational
+  divides
 permalink: https://www.envisioning.com/axiom/inequality-augmented-cognition
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010123/axiom
 
 ## Summary
 
-Addressing access gaps in cognitive enhancement.
+Examining how unequal access to cognitive enhancement tools may deepen educational divides
 
 ## Description
 

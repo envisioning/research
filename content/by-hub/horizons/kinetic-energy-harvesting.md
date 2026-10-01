@@ -2,9 +2,10 @@
 slug: kinetic-energy-harvesting
 hub: horizons
 title: Kinetic Energy Harvesting
-summary: Converting motion from humans and environment into electrical energy.
+summary: Converting mechanical motion from people, machines, and nature into usable
+  electrical power
 permalink: https://www.envisioning.com/horizons/kinetic-energy-harvesting
-collection: energy-environment
+collection: hardware
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521316/horiz
 
 ## Summary
 
-Converting motion from humans and environment into electrical energy.
+Converting mechanical motion from people, machines, and nature into usable electrical power
 
 ## Description
 

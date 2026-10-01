@@ -2,13 +2,10 @@
 slug: porous-pavement
 hub: cities
 title: Porous Pavement
-summary: This sustainable urban technology is designed to address significant environmental
-  challenges, including stormwater management and the urban heat island effect. It
-  allows water to permeate through its surface, thereby reducing runoff, recharging
-  groundwater, mitigating flooding, improving water quality by filtering pollutants,
-  and reducing surface temperatures, creating cooler urban environments.
+summary: Permeable surface that filters stormwater, reduces flooding, and cools urban
+  environments
 permalink: https://www.envisioning.com/cities/porous-pavement
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: hardware
 trl: 9
 impact: 3
 investment: 3
@@ -19,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792144-porous-pavement.png
 
 ## Summary
 
-This sustainable urban technology is designed to address significant environmental challenges, including stormwater management and the urban heat island effect. It allows water to permeate through its surface, thereby reducing runoff, recharging groundwater, mitigating flooding, improving water quality by filtering pollutants, and reducing surface temperatures, creating cooler urban environments.
+Permeable surface that filters stormwater, reduces flooding, and cools urban environments
 
 ## Description
 

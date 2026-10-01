@@ -2,7 +2,8 @@
 slug: emotion-data-anonymizers
 hub: beacon
 title: Emotion Data Anonymization Pipelines
-summary: De-identification for high-risk affective telemetry.
+summary: Removes identifying markers from emotion-sensing data to protect psychological
+  privacy
 permalink: https://www.envisioning.com/beacon/emotion-data-anonymizers
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124445/beaco
 
 ## Summary
 
-De-identification for high-risk affective telemetry.
+Removes identifying markers from emotion-sensing data to protect psychological privacy
 
 ## Description
 

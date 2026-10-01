@@ -2,7 +2,8 @@
 slug: custody-hsm-clusters
 hub: vault
 title: Distributed Custody HSM Clusters
-summary: Hardened infrastructure for digital asset custody.
+summary: Multi-location hardware security modules that split cryptographic keys across
+  nodes to protect digital assets
 permalink: https://www.envisioning.com/vault/custody-hsm-clusters
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128019/vault
 
 ## Summary
 
-Hardened infrastructure for digital asset custody.
+Multi-location hardware security modules that split cryptographic keys across nodes to protect digital assets
 
 ## Description
 

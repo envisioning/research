@@ -2,7 +2,8 @@
 slug: artificial-womb-bonding-pods
 hub: eros
 title: Artificial Womb Bonding Pods
-summary: Interfaces for parents to bond with fetuses in ectogenesis environments.
+summary: Haptic and sensory interfaces enabling parent-fetus bonding during artificial
+  gestation
 permalink: https://www.envisioning.com/eros/artificial-womb-bonding-pods
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125392/eros/
 
 ## Summary
 
-Interfaces for parents to bond with fetuses in ectogenesis environments.
+Haptic and sensory interfaces enabling parent-fetus bonding during artificial gestation
 
 ## Description
 

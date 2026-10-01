@@ -2,7 +2,8 @@
 slug: intergenerational-experience-design
 hub: soma
 title: Intergenerational Experience Design
-summary: Platforms bridging age cohorts through shared storytelling and co-creation.
+summary: Design frameworks that bridge age gaps through shared digital and physical
+  experiences
 permalink: https://www.envisioning.com/soma/intergenerational-experience-design
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179071/soma/
 
 ## Summary
 
-Platforms bridging age cohorts through shared storytelling and co-creation.
+Design frameworks that bridge age gaps through shared digital and physical experiences
 
 ## Description
 

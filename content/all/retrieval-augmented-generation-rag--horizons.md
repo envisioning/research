@@ -2,9 +2,10 @@
 slug: retrieval-augmented-generation-rag
 hub: horizons
 title: Retrieval-Augmented Generation (RAG)
-summary: AI combining generative models with trusted external data sources.
+summary: AI systems that query external databases before generating responses to reduce
+  hallucinations
 permalink: https://www.envisioning.com/horizons/retrieval-augmented-generation-rag
-collection: intelligence-computation
+collection: software
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522034/horiz
 
 ## Summary
 
-AI combining generative models with trusted external data sources.
+AI systems that query external databases before generating responses to reduce hallucinations
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: death-doula-marketplaces
 hub: eclipse
 title: Death Doula Marketplaces
-summary: Platforms connecting families with end-of-life doulas and guides.
+summary: Digital platforms matching families with trained end-of-life companions for
+  non-medical support
 permalink: https://www.envisioning.com/eclipse/death-doula-marketplaces
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127180/eclip
 
 ## Summary
 
-Platforms connecting families with end-of-life doulas and guides.
+Digital platforms matching families with trained end-of-life companions for non-medical support
 
 ## Description
 

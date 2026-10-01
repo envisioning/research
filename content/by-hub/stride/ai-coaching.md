@@ -2,7 +2,7 @@
 slug: ai-coaching
 hub: stride
 title: Real-time AI Coaching
-summary: Automated feedback systems for immediate technique correction.
+summary: Instant feedback on form and technique using computer vision and motion sensors
 permalink: https://www.envisioning.com/stride/ai-coaching
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128511/strid
 
 ## Summary
 
-Automated feedback systems for immediate technique correction.
+Instant feedback on form and technique using computer vision and motion sensors
 
 ## Description
 

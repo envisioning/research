@@ -2,7 +2,7 @@
 slug: avatar-consent-governance
 hub: eclipse
 title: Avatar Consent Governance
-summary: Controls and policies for posthumous AI avatars.
+summary: Frameworks governing the creation and use of AI replicas of deceased individuals
 permalink: https://www.envisioning.com/eclipse/avatar-consent-governance
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435219/eclip
 
 ## Summary
 
-Controls and policies for posthumous AI avatars.
+Frameworks governing the creation and use of AI replicas of deceased individuals
 
 ## Description
 

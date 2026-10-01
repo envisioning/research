@@ -2,9 +2,8 @@
 slug: funcionarios-residindo-local-condicoes-separadas
 hub: moradia
 title: Funcionários Residindo no Local sob Condições Separadas
-summary: Funcionários de serviços (porteiros, zeladores, empregadas) residindo em
-  edifícios sob condições habitacionais separadas e distintas dos moradores, criando
-  estratificação social dentro de edifícios.
+summary: Funcionários de serviços residindo em edifícios com espaços habitacionais
+  separados dos moradores
 permalink: https://www.envisioning.com/moradia/funcionarios-residindo-local-condicoes-separadas
 collection: modelos-mercado-governanca
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668523/habit
 
 ## Summary
 
-Funcionários de serviços (porteiros, zeladores, empregadas) residindo em edifícios sob condições habitacionais separadas e distintas dos moradores, criando estratificação social dentro de edifícios.
+Funcionários de serviços residindo em edifícios com espaços habitacionais separados dos moradores
 
 ## Description
 

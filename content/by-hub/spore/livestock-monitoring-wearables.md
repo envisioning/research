@@ -2,7 +2,8 @@
 slug: livestock-monitoring-wearables
 hub: spore
 title: Livestock Monitoring Wearables
-summary: Collars tracking rumination, movement, and estrus signals.
+summary: Wearable sensors tracking animal health, behavior, and reproductive cycles
+  in real time
 permalink: https://www.envisioning.com/spore/livestock-monitoring-wearables
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179588/spore
 
 ## Summary
 
-Collars tracking rumination, movement, and estrus signals.
+Wearable sensors tracking animal health, behavior, and reproductive cycles in real time
 
 ## Description
 

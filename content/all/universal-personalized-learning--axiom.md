@@ -2,7 +2,8 @@
 slug: universal-personalized-learning
 hub: axiom
 title: Universal Personalized Learning
-summary: Continuous feeds adapting to pace, mood, and life events.
+summary: AI-driven learning feeds that adapt to individual pace, mood, goals, and
+  life context in real time
 permalink: https://www.envisioning.com/axiom/universal-personalized-learning
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995713/axiom
 
 ## Summary
 
-Continuous feeds adapting to pace, mood, and life events.
+AI-driven learning feeds that adapt to individual pace, mood, goals, and life context in real time
 
 ## Description
 

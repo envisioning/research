@@ -2,7 +2,8 @@
 slug: automated-content-moderation
 hub: prism
 title: Automated Content Moderation
-summary: AI systems filtering harmful content at scale across major platforms.
+summary: AI pipelines that filter harmful posts, images, and streams before human
+  review
 permalink: https://www.envisioning.com/prism/automated-content-moderation
 collection: ethics-security
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062705/pulse
 
 ## Summary
 
-AI systems filtering harmful content at scale across major platforms.
+AI pipelines that filter harmful posts, images, and streams before human review
 
 ## Description
 

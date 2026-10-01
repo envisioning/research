@@ -2,7 +2,8 @@
 slug: thermoplastic-composites-recyclable-airframes
 hub: altitude
 title: Thermoplastic Composites & Recyclable Airframes
-summary: Next-gen composite manufacturing enabling faster builds and circularity.
+summary: Reusable composite materials that can be melted and reformed for faster aircraft
+  production
 permalink: https://www.envisioning.com/altitude/thermoplastic-composites-recyclable-airframes
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641794/altit
 
 ## Summary
 
-Next-gen composite manufacturing enabling faster builds and circularity.
+Reusable composite materials that can be melted and reformed for faster aircraft production
 
 ## Description
 

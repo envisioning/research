@@ -2,15 +2,10 @@
 slug: cognitive-twin
 hub: cities
 title: Cognitive Twin
-summary: This advanced digital twin is augmented with cognitive computing capabilities,
-  providing a digital representation of a city's physical assets, processes, and systems.
-  Integrating AI, machine learning, and real-time data analytics, cognitive twins
-  create dynamic, self-updating models of urban environments. By simulating scenarios,
-  predicting outcomes, and enabling data-driven decision-making, they help support
-  critical urban challenges such as disaster response, resource optimization, and
-  infrastructure maintenance.
+summary: AI-powered digital model of a city that simulates scenarios and predicts
+  outcomes for planning
 permalink: https://www.envisioning.com/cities/cognitive-twin
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: software
 trl: 7
 impact: 2
 investment: 1
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719398109-cognitive-twin.png
 
 ## Summary
 
-This advanced digital twin is augmented with cognitive computing capabilities, providing a digital representation of a city's physical assets, processes, and systems. Integrating AI, machine learning, and real-time data analytics, cognitive twins create dynamic, self-updating models of urban environments. By simulating scenarios, predicting outcomes, and enabling data-driven decision-making, they help support critical urban challenges such as disaster response, resource optimization, and infrastructure maintenance.
+AI-powered digital model of a city that simulates scenarios and predicts outcomes for planning
 
 ## Description
 

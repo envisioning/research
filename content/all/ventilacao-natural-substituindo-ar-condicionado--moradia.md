@@ -2,8 +2,8 @@
 slug: ventilacao-natural-substituindo-ar-condicionado
 hub: moradia
 title: Ventilação Natural Substituindo Ar Condicionado
-summary: Substituição de ar condicionado por ventilação natural e ventiladores como
-  resposta a custos energéticos voláteis e busca por soluções de baixo consumo.
+summary: Estratégias passivas de ventilação e ventiladores substituindo climatização
+  artificial em residências
 permalink: https://www.envisioning.com/moradia/ventilacao-natural-substituindo-ar-condicionado
 collection: sistemas-prediais-automacao
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668159/habit
 
 ## Summary
 
-Substituição de ar condicionado por ventilação natural e ventiladores como resposta a custos energéticos voláteis e busca por soluções de baixo consumo.
+Estratégias passivas de ventilação e ventiladores substituindo climatização artificial em residências
 
 ## Description
 

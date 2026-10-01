@@ -2,7 +2,8 @@
 slug: lunar-mass-drivers
 hub: substrate
 title: Lunar Mass Drivers
-summary: Electromagnetic catapults for launching materials from the Moon to orbit.
+summary: Electromagnetic launchers that accelerate lunar materials to escape velocity
+  without rockets
 permalink: https://www.envisioning.com/substrate/lunar-mass-drivers
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120030/subst
 
 ## Summary
 
-Electromagnetic catapults for launching materials from the Moon to orbit.
+Electromagnetic launchers that accelerate lunar materials to escape velocity without rockets
 
 ## Description
 

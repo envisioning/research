@@ -2,8 +2,8 @@
 slug: bioelectric-morphogenetic-arrays
 hub: epoch
 title: Bioelectric Morphogenetic Arrays
-summary: Devices that map and modulate cellular bioelectric fields to guide limb and
-  organ regeneration.
+summary: Devices that map and modulate cellular voltage patterns to guide tissue and
+  organ regeneration
 permalink: https://www.envisioning.com/epoch/bioelectric-morphogenetic-arrays
 collection: hardware
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765478813/epoch
 
 ## Summary
 
-Devices that map and modulate cellular bioelectric fields to guide limb and organ regeneration.
+Devices that map and modulate cellular voltage patterns to guide tissue and organ regeneration
 
 ## Description
 

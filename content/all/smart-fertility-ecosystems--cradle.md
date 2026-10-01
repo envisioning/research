@@ -2,7 +2,8 @@
 slug: smart-fertility-ecosystems
 hub: cradle
 title: Smart Fertility Ecosystems
-summary: Data-driven conception support.
+summary: AI-powered platforms that track physiological signals to optimize conception
+  timing
 permalink: https://www.envisioning.com/cradle/smart-fertility-ecosystems
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129304/cradl
 
 ## Summary
 
-Data-driven conception support.
+AI-powered platforms that track physiological signals to optimize conception timing
 
 ## Description
 

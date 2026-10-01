@@ -2,7 +2,8 @@
 slug: lunar-regolith-processing-plants
 hub: apogee
 title: Lunar Regolith Processing Plants
-summary: ISRU systems extracting oxygen and metals from lunar soil.
+summary: Extracting oxygen, metals, and silicon from lunar soil for life support and
+  construction
 permalink: https://www.envisioning.com/apogee/lunar-regolith-processing-plants
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060741/apoge
 
 ## Summary
 
-ISRU systems extracting oxygen and metals from lunar soil.
+Extracting oxygen, metals, and silicon from lunar soil for life support and construction
 
 ## Description
 

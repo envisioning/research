@@ -2,7 +2,8 @@
 slug: autonomous-pods
 hub: atlas
 title: Autonomous Pods
-summary: Self-driving capsules for last-mile transport in airports and resorts.
+summary: Self-driving capsules for last-mile transport in airports, resorts, and controlled
+  environments
 permalink: https://www.envisioning.com/atlas/autonomous-pods
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123815/atlas
 
 ## Summary
 
-Self-driving capsules for last-mile transport in airports and resorts.
+Self-driving capsules for last-mile transport in airports, resorts, and controlled environments
 
 ## Description
 

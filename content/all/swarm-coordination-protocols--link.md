@@ -2,7 +2,8 @@
 slug: swarm-coordination-protocols
 hub: link
 title: Swarm Coordination & Multi-Agent Communication
-summary: Decentralized protocols for coordinating fleets of drones, robots, and vehicles.
+summary: Decentralized protocols enabling fleets of drones, robots, and vehicles to
+  coordinate without central control
 permalink: https://www.envisioning.com/link/swarm-coordination-protocols
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436435/link/
 
 ## Summary
 
-Decentralized protocols for coordinating fleets of drones, robots, and vehicles.
+Decentralized protocols enabling fleets of drones, robots, and vehicles to coordinate without central control
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: creator-led-game-economies
 hub: pixels
 title: Creator-Led Game Economies
-summary: Player-built modules and assets integrated into the live economy.
+summary: Platforms that let players build, sell, and earn from in-game content as
+  verified revenue partners
 permalink: https://www.envisioning.com/pixels/creator-led-game-economies
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062153/pixel
 
 ## Summary
 
-Player-built modules and assets integrated into the live economy.
+Platforms that let players build, sell, and earn from in-game content as verified revenue partners
 
 ## Description
 

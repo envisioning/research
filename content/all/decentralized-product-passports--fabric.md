@@ -2,7 +2,7 @@
 slug: decentralized-product-passports
 hub: fabric
 title: Decentralized Product Passports for Garment Traceability
-summary: Tamper-resistant digital records that travel with the item through its lifecycle.
+summary: Blockchain-based digital IDs tracking garments from raw materials to consumer
 permalink: https://www.envisioning.com/fabric/decentralized-product-passports
 collection: ethics-security
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060787/threa
 
 ## Summary
 
-Tamper-resistant digital records that travel with the item through its lifecycle.
+Blockchain-based digital IDs tracking garments from raw materials to consumer
 
 ## Description
 

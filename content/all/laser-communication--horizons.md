@@ -2,9 +2,10 @@
 slug: laser-communication
 hub: horizons
 title: Laser Communication
-summary: High-bandwidth optical data transmission for space and satellite networks.
+summary: High-bandwidth optical data transmission using laser beams for space and
+  satellite networks
 permalink: https://www.envisioning.com/horizons/laser-communication
-collection: space-extreme
+collection: hardware
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521201/horiz
 
 ## Summary
 
-High-bandwidth optical data transmission for space and satellite networks.
+High-bandwidth optical data transmission using laser beams for space and satellite networks
 
 ## Description
 

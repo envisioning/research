@@ -2,22 +2,21 @@
 slug: bioelectric-signaling-tools
 hub: xenotech
 title: Bioelectric Signaling Tools
-summary: Molecular and optical tools for reading and writing voltage gradients in
-  non-neural tissues to control morphogenesis, regeneration, and cellular behavior
-  through bioelectric manipulation.
+summary: Molecular tools for detecting and manipulating voltage patterns in tissues
+  to guide growth and regeneration
 permalink: https://www.envisioning.com/xenotech/bioelectric-signaling-tools
 collection: biology-hybridization
 trl: 5
 impact: 5
 investment: 7
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762005006/xenotech/technologies/bioelectric-signaling-tools-openai-gpt-5-u2nbqm.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939878/xenotech/technologies/bioelectric-signaling-tools-imagegen-v1.png
 ---
 
 # Bioelectric Signaling Tools
 
 ## Summary
 
-Molecular and optical tools for reading and writing voltage gradients in non-neural tissues to control morphogenesis, regeneration, and cellular behavior through bioelectric manipulation.
+Molecular tools for detecting and manipulating voltage patterns in tissues to guide growth and regeneration
 
 ## Description
 

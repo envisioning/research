@@ -2,8 +2,8 @@
 slug: ia-previsao-falhas-redes
 hub: moradia
 title: IA para Previsão de Falhas em Redes
-summary: Machine learning aplicado a dados operacionais para antecipar rompimentos
-  e interrupções.
+summary: Algoritmos que antecipam rompimentos e interrupções em redes de água, energia
+  e telecomunicações
 permalink: https://www.envisioning.com/moradia/ia-previsao-falhas-redes
 collection: plataformas-dados
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584267/habit
 
 ## Summary
 
-Machine learning aplicado a dados operacionais para antecipar rompimentos e interrupções.
+Algoritmos que antecipam rompimentos e interrupções em redes de água, energia e telecomunicações
 
 ## Description
 

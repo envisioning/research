@@ -2,7 +2,8 @@
 slug: interactive-ai-storytelling
 hub: vortex
 title: Interactive AI Storytelling
-summary: Dynamic narratives generated and adapted by AI.
+summary: AI systems that generate and adapt storylines in real-time based on user
+  choices and interactions
 permalink: https://www.envisioning.com/vortex/interactive-ai-storytelling
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127100/vorte
 
 ## Summary
 
-Dynamic narratives generated and adapted by AI.
+AI systems that generate and adapt storylines in real-time based on user choices and interactions
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: gdpr-compliance-analytics
 hub: datatrends
 title: GDPR and Data Privacy Compliance Analytics
-summary: Data protection regulations driving new analytics governance frameworks and
-  privacy-preserving data practices across industries.
+summary: Analytics frameworks ensuring GDPR compliance and privacy-preserving data
+  handling practices
 permalink: https://www.envisioning.com/datatrends/gdpr-compliance-analytics
 collection: management-foundations
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766954301/datat
 
 ## Summary
 
-Data protection regulations driving new analytics governance frameworks and privacy-preserving data practices across industries.
+Analytics frameworks ensuring GDPR compliance and privacy-preserving data handling practices
 
 ## Description
 

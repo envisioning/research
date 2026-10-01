@@ -2,7 +2,8 @@
 slug: tees
 hub: sentinel
 title: Trusted Execution Environments
-summary: Secure areas in processors guaranteeing code and data protection.
+summary: Hardware-isolated processor zones that protect sensitive code and data from
+  tampering
 permalink: https://www.envisioning.com/sentinel/tees
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461783/senti
 
 ## Summary
 
-Secure areas in processors guaranteeing code and data protection.
+Hardware-isolated processor zones that protect sensitive code and data from tampering
 
 ## Description
 

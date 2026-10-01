@@ -2,8 +2,8 @@
 slug: digital-public-infrastructure-stacks
 hub: polis
 title: Digital Public Infrastructure Stacks
-summary: Core building blocks such as ID, payments, and data exchange as shared public
-  rails.
+summary: Reusable digital layers for identity, payments, and data exchange across
+  government services
 permalink: https://www.envisioning.com/polis/digital-public-infrastructure-stacks
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441753/polis
 
 ## Summary
 
-Core building blocks such as ID, payments, and data exchange as shared public rails.
+Reusable digital layers for identity, payments, and data exchange across government services
 
 ## Description
 

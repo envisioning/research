@@ -2,8 +2,8 @@
 slug: tethered-satellite-systems
 hub: apogee
 title: Tethered Satellite Systems
-summary: Electrodynamic tethers enabling propellant-free orbit raising and debris
-  deorbit.
+summary: Long conductive cables that use Earth's magnetic field to adjust satellite
+  orbits without fuel
 permalink: https://www.envisioning.com/apogee/tethered-satellite-systems
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060721/apoge
 
 ## Summary
 
-Electrodynamic tethers enabling propellant-free orbit raising and debris deorbit.
+Long conductive cables that use Earth's magnetic field to adjust satellite orbits without fuel
 
 ## Description
 

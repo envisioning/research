@@ -2,7 +2,8 @@
 slug: lights-out-manufacturing
 hub: quadrant
 title: Lights-Out Manufacturing
-summary: Fully autonomous factories operating without human presence.
+summary: Fully automated factories running continuously with zero human supervision
+  on-site
 permalink: https://www.envisioning.com/quadrant/lights-out-manufacturing
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127109/quadr
 
 ## Summary
 
-Fully autonomous factories operating without human presence.
+Fully automated factories running continuously with zero human supervision on-site
 
 ## Description
 

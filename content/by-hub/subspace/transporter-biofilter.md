@@ -2,20 +2,21 @@
 slug: transporter-biofilter
 hub: subspace
 title: Transporter Biofilter
-summary: Pathogen and parasite screening during dematerialization.
+summary: Biosafety layer that screens and removes pathogens from matter streams during
+  transport
 permalink: https://www.envisioning.com/subspace/transporter-biofilter
 collection: biotechnology
 trl: 6
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760264722/subspaceindex/technologies/transporter-biofilter.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909261/subspace/technologies/transporter-biofilter-openrouter-google-gemini-3.1-flash-image-preview-gyue6z.png
 ---
 
 # Transporter Biofilter
 
 ## Summary
 
-Pathogen and parasite screening during dematerialization.
+Biosafety layer that screens and removes pathogens from matter streams during transport
 
 ## Description
 

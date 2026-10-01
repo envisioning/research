@@ -2,7 +2,7 @@
 slug: ultra-high-bypass-open-rotor-engines
 hub: altitude
 title: Ultra-High Bypass & Open-Rotor Engines
-summary: Next-gen propulsion architectures targeting step-change efficiency.
+summary: Turbofan designs with extreme bypass ratios and exposed rotors for fuel efficiency
 permalink: https://www.envisioning.com/altitude/ultra-high-bypass-open-rotor-engines
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641694/altit
 
 ## Summary
 
-Next-gen propulsion architectures targeting step-change efficiency.
+Turbofan designs with extreme bypass ratios and exposed rotors for fuel efficiency
 
 ## Description
 

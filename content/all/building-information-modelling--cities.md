@@ -2,15 +2,10 @@
 slug: building-information-modelling
 hub: cities
 title: 'Building Information Modelling '
-summary: BIM refers to detailed digital representations of a construction project's
-  physical and functional characteristics, which facilitate comprehensive management
-  and documentation, supporting all phases from design through construction to operational
-  life. Through the use of a unified digital model that all stakeholders access and
-  contribute to, it ensures all parties have up-to-date and accurate information.
-  BIM helps reduce errors, minimises cost overruns, and streamlines project timelines
-  by allowing for early detection of potential issues and better visualisation.
+summary: Digital 3D models that coordinate building design, construction, and operations
+  across all project stakeholders
 permalink: https://www.envisioning.com/cities/building-information-modelling
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: software
 trl: 9
 impact: 3
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719222425-building-information
 
 ## Summary
 
-BIM refers to detailed digital representations of a construction project's physical and functional characteristics, which facilitate comprehensive management and documentation, supporting all phases from design through construction to operational life. Through the use of a unified digital model that all stakeholders access and contribute to, it ensures all parties have up-to-date and accurate information. BIM helps reduce errors, minimises cost overruns, and streamlines project timelines by allowing for early detection of potential issues and better visualisation.
+Digital 3D models that coordinate building design, construction, and operations across all project stakeholders
 
 ## Description
 

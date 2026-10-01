@@ -2,8 +2,8 @@
 slug: telomerase-gene-therapy
 hub: epoch
 title: Telomerase Gene Therapy
-summary: Controlled activation of telomerase to extend cellular replicative capacity
-  without triggering cancer.
+summary: Controlled telomerase activation to extend cellular lifespan while preventing
+  cancer risk
 permalink: https://www.envisioning.com/epoch/telomerase-gene-therapy
 collection: applications
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476945/epoch
 
 ## Summary
 
-Controlled activation of telomerase to extend cellular replicative capacity without triggering cancer.
+Controlled telomerase activation to extend cellular lifespan while preventing cancer risk
 
 ## Description
 

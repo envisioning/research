@@ -2,7 +2,8 @@
 slug: social-neurofeedback-wearables
 hub: eros
 title: Social Neurofeedback Wearables
-summary: Brain-sensing headbands that reflect interpersonal synchrony in real time.
+summary: Brain-sensing headbands that measure and display interpersonal neural synchrony
+  in real time
 permalink: https://www.envisioning.com/eros/social-neurofeedback-wearables
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124929/eros/
 
 ## Summary
 
-Brain-sensing headbands that reflect interpersonal synchrony in real time.
+Brain-sensing headbands that measure and display interpersonal neural synchrony in real time
 
 ## Description
 

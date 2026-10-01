@@ -2,7 +2,8 @@
 slug: cloud-robotics-platforms
 hub: forge
 title: Cloud Robotics & Fleet Orchestration
-summary: Centralized cloud brains coordinating massive fleets of robots.
+summary: Centralized cloud infrastructure coordinating robot fleets and offloading
+  computation from individual units
 permalink: https://www.envisioning.com/forge/cloud-robotics-platforms
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118405/forge
 
 ## Summary
 
-Centralized cloud brains coordinating massive fleets of robots.
+Centralized cloud infrastructure coordinating robot fleets and offloading computation from individual units
 
 ## Description
 

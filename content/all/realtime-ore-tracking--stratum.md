@@ -2,7 +2,8 @@
 slug: realtime-ore-tracking
 hub: stratum
 title: Real-Time Ore Tracking and Grade Control
-summary: Continuous monitoring of ore quality from extraction through processing.
+summary: Sensors and analytics that monitor ore quality continuously from mine to
+  mill
 permalink: https://www.envisioning.com/stratum/realtime-ore-tracking
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135261/strat
 
 ## Summary
 
-Continuous monitoring of ore quality from extraction through processing.
+Sensors and analytics that monitor ore quality continuously from mine to mill
 
 ## Description
 

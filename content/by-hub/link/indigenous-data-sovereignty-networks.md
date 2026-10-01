@@ -2,8 +2,8 @@
 slug: indigenous-data-sovereignty-networks
 hub: link
 title: Indigenous Data Sovereignty & Community Networks
-summary: Governance frameworks ensuring indigenous communities control their connectivity
-  and data.
+summary: Community-owned networks and governance frameworks giving indigenous peoples
+  control over local connectivity and data
 permalink: https://www.envisioning.com/link/indigenous-data-sovereignty-networks
 collection: ethics-security
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179465/link/
 
 ## Summary
 
-Governance frameworks ensuring indigenous communities control their connectivity and data.
+Community-owned networks and governance frameworks giving indigenous peoples control over local connectivity and data
 
 ## Description
 

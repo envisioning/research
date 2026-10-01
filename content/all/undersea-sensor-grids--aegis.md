@@ -2,7 +2,8 @@
 slug: undersea-sensor-grids
 hub: aegis
 title: Undersea Sensor Grids & Seabed Infrastructure
-summary: Distributed acoustic and pressure sensors for maritime domain awareness.
+summary: Networked seabed sensors for continuous underwater surveillance and submarine
+  tracking
 permalink: https://www.envisioning.com/aegis/undersea-sensor-grids
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996010/aegis
 
 ## Summary
 
-Distributed acoustic and pressure sensors for maritime domain awareness.
+Networked seabed sensors for continuous underwater surveillance and submarine tracking
 
 ## Description
 

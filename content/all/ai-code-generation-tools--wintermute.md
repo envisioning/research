@@ -2,7 +2,8 @@
 slug: ai-code-generation-tools
 hub: wintermute
 title: AI Code Generation Tools
-summary: Copilot-style assistants accelerating software delivery.
+summary: LLM-powered assistants that autocomplete code, generate functions, and accelerate
+  software development
 permalink: https://www.envisioning.com/wintermute/ai-code-generation-tools
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079777/winte
 
 ## Summary
 
-Copilot-style assistants accelerating software delivery.
+LLM-powered assistants that autocomplete code, generate functions, and accelerate software development
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: lifi-optical-wireless
 hub: substrate
 title: Li-Fi & Optical Wireless Communication
-summary: Using visible light, infrared, and ultraviolet for high-speed data links.
+summary: High-speed wireless data transmission using visible light, infrared, and
+  ultraviolet instead of radio waves
 permalink: https://www.envisioning.com/substrate/lifi-optical-wireless
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177978/subst
 
 ## Summary
 
-Using visible light, infrared, and ultraviolet for high-speed data links.
+High-speed wireless data transmission using visible light, infrared, and ultraviolet instead of radio waves
 
 ## Description
 

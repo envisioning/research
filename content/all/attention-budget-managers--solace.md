@@ -2,8 +2,8 @@
 slug: attention-budget-managers
 hub: solace
 title: Cross-App Attention Budget Managers
-summary: System services that coordinate attention budgets and screen time limits
-  across devices and apps.
+summary: Coordinates attention limits across all apps and devices to prevent fragmented
+  screen-time tracking
 permalink: https://www.envisioning.com/solace/attention-budget-managers
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133950/solac
 
 ## Summary
 
-System services that coordinate attention budgets and screen time limits across devices and apps.
+Coordinates attention limits across all apps and devices to prevent fragmented screen-time tracking
 
 ## Description
 

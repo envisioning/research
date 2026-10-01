@@ -2,7 +2,8 @@
 slug: bidirectional-peripheral-interfaces
 hub: cortex
 title: Bidirectional Peripheral Interfaces
-summary: High-density cuff electrodes for muscular control and sensory restoration.
+summary: Neural cuffs that read motor commands and deliver sensory feedback through
+  peripheral nerves
 permalink: https://www.envisioning.com/cortex/bidirectional-peripheral-interfaces
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010313/corte
 
 ## Summary
 
-High-density cuff electrodes for muscular control and sensory restoration.
+Neural cuffs that read motor commands and deliver sensory feedback through peripheral nerves
 
 ## Description
 

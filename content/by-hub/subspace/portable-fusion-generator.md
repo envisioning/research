@@ -2,20 +2,21 @@
 slug: portable-fusion-generator
 hub: subspace
 title: Portable Fusion Generator
-summary: Deployable field power plant for outposts and emergencies.
+summary: Compact fusion reactor delivering megawatt power for remote bases and disaster
+  zones
 permalink: https://www.envisioning.com/subspace/portable-fusion-generator
 collection: energy
 trl: 6
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760265720/subspaceindex/technologies/portable-fusion-generator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908725/subspace/technologies/portable-fusion-generator-openrouter-google-gemini-3.1-flash-image-preview-dfs9kx.png
 ---
 
 # Portable Fusion Generator
 
 ## Summary
 
-Deployable field power plant for outposts and emergencies.
+Compact fusion reactor delivering megawatt power for remote bases and disaster zones
 
 ## Description
 

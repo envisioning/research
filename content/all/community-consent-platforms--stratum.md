@@ -2,7 +2,8 @@
 slug: community-consent-platforms
 hub: stratum
 title: Community Consent and Grievance Platforms
-summary: Digital platforms documenting consent, benefits, and grievances across projects.
+summary: Digital systems tracking community consent, benefit agreements, and complaints
+  for industrial projects
 permalink: https://www.envisioning.com/stratum/community-consent-platforms
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435095/strat
 
 ## Summary
 
-Digital platforms documenting consent, benefits, and grievances across projects.
+Digital systems tracking community consent, benefit agreements, and complaints for industrial projects
 
 ## Description
 

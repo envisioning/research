@@ -2,7 +2,8 @@
 slug: synthetic-companions-npc-societies
 hub: pixels
 title: Synthetic Companions & NPC Societies
-summary: Persistent NPCs with memory and social graphs evolving independently.
+summary: NPCs that remember players, form relationships, and evolve autonomously between
+  sessions
 permalink: https://www.envisioning.com/pixels/synthetic-companions-npc-societies
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062153/pixel
 
 ## Summary
 
-Persistent NPCs with memory and social graphs evolving independently.
+NPCs that remember players, form relationships, and evolve autonomously between sessions
 
 ## Description
 

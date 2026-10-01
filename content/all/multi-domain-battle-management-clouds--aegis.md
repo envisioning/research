@@ -2,7 +2,8 @@
 slug: multi-domain-battle-management-clouds
 hub: aegis
 title: Multi-Domain Battle Management Clouds
-summary: Federated clouds fusing tracks across all warfighting domains.
+summary: Federated cloud systems that unify sensor data and command across air, land,
+  sea, space, and cyber domains
 permalink: https://www.envisioning.com/aegis/multi-domain-battle-management-clouds
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998634/aegis
 
 ## Summary
 
-Federated clouds fusing tracks across all warfighting domains.
+Federated cloud systems that unify sensor data and command across air, land, sea, space, and cyber domains
 
 ## Description
 

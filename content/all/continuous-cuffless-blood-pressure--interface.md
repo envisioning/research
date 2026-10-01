@@ -2,20 +2,21 @@
 slug: continuous-cuffless-blood-pressure
 hub: interface
 title: Continuous Cuffless Blood Pressure
-summary: Non-invasive, calibration-free monitoring of blood pressure.
+summary: Wearable sensors that track blood pressure continuously without inflatable
+  cuffs
 permalink: https://www.envisioning.com/interface/continuous-cuffless-blood-pressure
-collection: wearables-health-sensing
+collection: applications
 trl: 9
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886608/interface/technologies/35b761e7-fa50-4462-8bd8-9a052ab4f8da-google-gemini-3.1-flash-image-preview-ggupf4.jpg
 ---
 
 # Continuous Cuffless Blood Pressure
 
 ## Summary
 
-Non-invasive, calibration-free monitoring of blood pressure.
+Wearable sensors that track blood pressure continuously without inflatable cuffs
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: iot-telematics
 hub: vault
 title: IoT Telematics & Risk Sensors
-summary: Real-time behavioral and environmental risk sensing.
+summary: Real-time sensors that monitor insured assets and environmental conditions
+  to assess risk
 permalink: https://www.envisioning.com/vault/iot-telematics
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127999/vault
 
 ## Summary
 
-Real-time behavioral and environmental risk sensing.
+Real-time sensors that monitor insured assets and environmental conditions to assess risk
 
 ## Description
 

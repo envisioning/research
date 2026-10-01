@@ -2,7 +2,8 @@
 slug: neuromorphic-event-cameras
 hub: prism
 title: Neuromorphic Event Cameras
-summary: Bio-inspired vision sensors that capture motion dynamics at microsecond latency.
+summary: Vision sensors that record brightness changes as timestamped events instead
+  of frames
 permalink: https://www.envisioning.com/prism/neuromorphic-event-cameras
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062472/pulse
 
 ## Summary
 
-Bio-inspired vision sensors that capture motion dynamics at microsecond latency.
+Vision sensors that record brightness changes as timestamped events instead of frames
 
 ## Description
 

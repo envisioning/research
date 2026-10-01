@@ -2,21 +2,21 @@
 slug: ra-material-consciousness-evolution
 hub: xenotech
 title: Consciousness Evolution
-summary: Channeled description of cosmic soul-graduation mechanisms including probability
-  vortices, harvest cycles, and vibrational sorting.
+summary: Metaphysical frameworks for soul development, density transitions, and reincarnation
+  cycles
 permalink: https://www.envisioning.com/xenotech/ra-material-consciousness-evolution
 collection: perception-cognition
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760876415/xenotech/technologies/ra-material-consciousness-evolution.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897844/xenotech/technologies/ra-material-consciousness-evolution-openrouter-google-gemini-3.1-flash-image-preview-4mnfly.png
 ---
 
 # Consciousness Evolution
 
 ## Summary
 
-Channeled description of cosmic soul-graduation mechanisms including probability vortices, harvest cycles, and vibrational sorting.
+Metaphysical frameworks for soul development, density transitions, and reincarnation cycles
 
 ## Description
 

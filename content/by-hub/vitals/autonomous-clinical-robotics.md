@@ -2,8 +2,8 @@
 slug: autonomous-clinical-robotics
 hub: vitals
 title: Autonomous Clinical Robotics
-summary: Robotic systems for medication delivery, disinfection, and logistics within
-  healthcare facilities.
+summary: Self-navigating robots handling medication delivery, disinfection, and logistics
+  in hospitals
 permalink: https://www.envisioning.com/vitals/autonomous-clinical-robotics
 collection: hardware
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116530/vital
 
 ## Summary
 
-Robotic systems for medication delivery, disinfection, and logistics within healthcare facilities.
+Self-navigating robots handling medication delivery, disinfection, and logistics in hospitals
 
 ## Description
 

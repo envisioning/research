@@ -2,7 +2,8 @@
 slug: mobility-as-a-service-superapps
 hub: atlas
 title: Mobility-as-a-Service Superapps
-summary: Unified apps bundling journey planning, ticketing, visas, and payments.
+summary: Unified platforms integrating journey planning, ticketing, visas, and payments
+  across all travel modes
 permalink: https://www.envisioning.com/atlas/mobility-as-a-service-superapps
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127219/atlas
 
 ## Summary
 
-Unified apps bundling journey planning, ticketing, visas, and payments.
+Unified platforms integrating journey planning, ticketing, visas, and payments across all travel modes
 
 ## Description
 

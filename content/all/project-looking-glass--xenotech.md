@@ -2,22 +2,21 @@
 slug: project-looking-glass
 hub: xenotech
 title: Project Looking Glass
-summary: Alleged classified program using counter-rotating mercury plasma chambers
-  to create spacetime distortion lenses and future-viewing portals through advanced
-  plasma manipulation technology.
+summary: Alleged classified temporal viewing system using counter-rotating mercury
+  plasma to distort spacetime
 permalink: https://www.envisioning.com/xenotech/project-looking-glass
 collection: temporal-dimensional
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761679916/xenotech/technologies/project-looking-glass.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902197/xenotech/technologies/project-looking-glass-openrouter-google-gemini-3.1-flash-image-preview-mokrue.png
 ---
 
 # Project Looking Glass
 
 ## Summary
 
-Alleged classified program using counter-rotating mercury plasma chambers to create spacetime distortion lenses and future-viewing portals through advanced plasma manipulation technology.
+Alleged classified temporal viewing system using counter-rotating mercury plasma to distort spacetime
 
 ## Description
 

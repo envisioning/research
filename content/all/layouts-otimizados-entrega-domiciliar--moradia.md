@@ -2,8 +2,8 @@
 slug: layouts-otimizados-entrega-domiciliar
 hub: moradia
 title: Layouts Otimizados para Entrega Domiciliar
-summary: Design de unidades habitacionais adaptado para recebimento e armazenamento
-  de entregas, criando espaços que facilitam economia de entrega e comércio eletrônico.
+summary: Espaços residenciais projetados para receber e armazenar entregas de e-commerce
+  com eficiência
 permalink: https://www.envisioning.com/moradia/layouts-otimizados-entrega-domiciliar
 collection: sistemas-prediais-automacao
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668298/habit
 
 ## Summary
 
-Design de unidades habitacionais adaptado para recebimento e armazenamento de entregas, criando espaços que facilitam economia de entrega e comércio eletrônico.
+Espaços residenciais projetados para receber e armazenar entregas de e-commerce com eficiência
 
 ## Description
 

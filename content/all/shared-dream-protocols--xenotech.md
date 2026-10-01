@@ -2,21 +2,21 @@
 slug: shared-dream-protocols
 hub: xenotech
 title: Shared Dream Protocols
-summary: Synchronized cues, pre-sleep priming, and REM-aligned prompts to test intersubjective
-  content overlap between dreamers.
+summary: Coordinated sleep experiments testing whether dreamers can share content
+  through synchronized cues and REM alignment
 permalink: https://www.envisioning.com/xenotech/shared-dream-protocols
 collection: consciousness-interface
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760951481/xenotech/technologies/shared-dream-protocols.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772905149/xenotech/technologies/shared-dream-protocols-openrouter-google-gemini-3.1-flash-image-preview-wmnibq.png
 ---
 
 # Shared Dream Protocols
 
 ## Summary
 
-Synchronized cues, pre-sleep priming, and REM-aligned prompts to test intersubjective content overlap between dreamers.
+Coordinated sleep experiments testing whether dreamers can share content through synchronized cues and REM alignment
 
 ## Description
 

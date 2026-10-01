@@ -2,7 +2,7 @@
 slug: last-mile-delivery-droids
 hub: vector
 title: Last-Mile Delivery Droids
-summary: Autonomous sidewalk robots for local package and food delivery.
+summary: Autonomous sidewalk robots delivering packages and food at walking speed
 permalink: https://www.envisioning.com/vector/last-mile-delivery-droids
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179056/vecto
 
 ## Summary
 
-Autonomous sidewalk robots for local package and food delivery.
+Autonomous sidewalk robots delivering packages and food at walking speed
 
 ## Description
 

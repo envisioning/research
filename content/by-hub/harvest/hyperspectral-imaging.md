@@ -2,7 +2,7 @@
 slug: hyperspectral-imaging
 hub: harvest
 title: Hyperspectral Imaging Sensors
-summary: Optical sensors for internal quality detection.
+summary: Sensors that detect food quality by analyzing light across hundreds of wavelengths
 permalink: https://www.envisioning.com/harvest/hyperspectral-imaging
 collection: hardware
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127977/harve
 
 ## Summary
 
-Optical sensors for internal quality detection.
+Sensors that detect food quality by analyzing light across hundreds of wavelengths
 
 ## Description
 

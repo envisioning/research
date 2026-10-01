@@ -2,8 +2,7 @@
 slug: barreiras-visuais-suavizadas-seguranca
 hub: moradia
 title: Barreiras Visuais Suavizadas para Segurança
-summary: Design de segurança que suaviza barreiras visuais em condomínios fechados,
-  criando proteção através de elementos arquitetônicos que não parecem fortificação.
+summary: Elementos arquitetônicos que protegem sem aparência de fortificação em condomínios
 permalink: https://www.envisioning.com/moradia/barreiras-visuais-suavizadas-seguranca
 collection: sistemas-prediais-automacao
 trl: 3
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668199/habit
 
 ## Summary
 
-Design de segurança que suaviza barreiras visuais em condomínios fechados, criando proteção através de elementos arquitetônicos que não parecem fortificação.
+Elementos arquitetônicos que protegem sem aparência de fortificação em condomínios
 
 ## Description
 

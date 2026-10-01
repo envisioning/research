@@ -2,7 +2,8 @@
 slug: flexible-surface-arrays
 hub: cortex
 title: Flexible Surface Arrays
-summary: Non-penetrating, conformable micro-electrocorticography (µECoG).
+summary: Ultrathin electrode arrays that conform to the brain's surface for high-resolution
+  neural recording
 permalink: https://www.envisioning.com/cortex/flexible-surface-arrays
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010202/corte
 
 ## Summary
 
-Non-penetrating, conformable micro-electrocorticography (µECoG).
+Ultrathin electrode arrays that conform to the brain's surface for high-resolution neural recording
 
 ## Description
 

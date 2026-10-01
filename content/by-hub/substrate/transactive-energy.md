@@ -2,7 +2,8 @@
 slug: transactive-energy
 hub: substrate
 title: Transactive Energy Platforms
-summary: Price-based coordination of millions of devices at the grid edge.
+summary: Market-based coordination of distributed energy devices using real-time price
+  signals
 permalink: https://www.envisioning.com/substrate/transactive-energy
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117380/subst
 
 ## Summary
 
-Price-based coordination of millions of devices at the grid edge.
+Market-based coordination of distributed energy devices using real-time price signals
 
 ## Description
 

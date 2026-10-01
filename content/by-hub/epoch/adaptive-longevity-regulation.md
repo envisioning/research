@@ -2,8 +2,8 @@
 slug: adaptive-longevity-regulation
 hub: epoch
 title: Regulatory Classification Challenges
-summary: New regulatory categories for interventions that blur the lines between drug,
-  device, and lifestyle.
+summary: Regulatory frameworks struggle to classify aging interventions that don't
+  fit drug, device, or disease models
 permalink: https://www.envisioning.com/epoch/adaptive-longevity-regulation
 collection: ethics-security
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477913/epoch
 
 ## Summary
 
-New regulatory categories for interventions that blur the lines between drug, device, and lifestyle.
+Regulatory frameworks struggle to classify aging interventions that don't fit drug, device, or disease models
 
 ## Description
 

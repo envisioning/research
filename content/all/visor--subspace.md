@@ -2,21 +2,21 @@
 slug: visor
 hub: subspace
 title: VISOR (Visual Instrument and Sensory Organ Replacement)
-summary: Optical prosthetic device providing vision across the full electromagnetic
-  spectrum.
+summary: Neural prosthetic restoring and expanding vision across the electromagnetic
+  spectrum
 permalink: https://www.envisioning.com/subspace/visor
 collection: biotechnology
 trl: 4
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216569/subspaceindex/technologies/visor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909812/subspace/technologies/visor-openrouter-google-gemini-3.1-flash-image-preview-8betcn.png
 ---
 
 # VISOR (Visual Instrument and Sensory Organ Replacement)
 
 ## Summary
 
-Optical prosthetic device providing vision across the full electromagnetic spectrum.
+Neural prosthetic restoring and expanding vision across the electromagnetic spectrum
 
 ## Description
 

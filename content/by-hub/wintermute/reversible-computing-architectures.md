@@ -2,7 +2,8 @@
 slug: reversible-computing-architectures
 hub: wintermute
 title: Reversible Computing Architectures
-summary: Low-entropy logic exploring energy-efficient AI pipelines.
+summary: Logic circuits that run backwards to recover energy instead of dissipating
+  it as heat
 permalink: https://www.envisioning.com/wintermute/reversible-computing-architectures
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080317/winte
 
 ## Summary
 
-Low-entropy logic exploring energy-efficient AI pipelines.
+Logic circuits that run backwards to recover energy instead of dissipating it as heat
 
 ## Description
 

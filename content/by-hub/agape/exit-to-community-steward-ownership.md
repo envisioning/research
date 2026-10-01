@@ -3,7 +3,6 @@ slug: exit-to-community-steward-ownership
 hub: agape
 title: Exit to Community & Steward Ownership
 summary: Companies and organizations transitioning to community ownership or steward-ownership
-  models supported by philanthropy.
 permalink: https://www.envisioning.com/agape/exit-to-community-steward-ownership
 collection: organizational-forms-ecosystems
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368661/agape
 
 ## Summary
 
-Companies and organizations transitioning to community ownership or steward-ownership models supported by philanthropy.
+Companies and organizations transitioning to community ownership or steward-ownership
 
 ## Description
 

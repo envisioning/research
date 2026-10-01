@@ -2,8 +2,8 @@
 slug: senolytic-cart-therapy
 hub: epoch
 title: Senolytic CAR-T Therapy
-summary: Engineering immune cells to target and destroy senescent 'zombie' cells that
-  accumulate with age.
+summary: Engineered immune cells that recognize and eliminate senescent cells contributing
+  to age-related decline
 permalink: https://www.envisioning.com/epoch/senolytic-cart-therapy
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477575/epoch
 
 ## Summary
 
-Engineering immune cells to target and destroy senescent 'zombie' cells that accumulate with age.
+Engineered immune cells that recognize and eliminate senescent cells contributing to age-related decline
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: quantum-financial-modeling
 hub: superposition
 title: Quantum-Accelerated Financial Modeling
-summary: Faster portfolio optimization and risk analysis using quantum amplitude estimation.
+summary: Quantum algorithms for portfolio optimization and risk analysis in financial
+  institutions
 permalink: https://www.envisioning.com/superposition/quantum-financial-modeling
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181210/super
 
 ## Summary
 
-Faster portfolio optimization and risk analysis using quantum amplitude estimation.
+Quantum algorithms for portfolio optimization and risk analysis in financial institutions
 
 ## Description
 

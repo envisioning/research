@@ -3,7 +3,6 @@ slug: narrative-lived-experience-data
 hub: agape
 title: Narrative & Lived-Experience Data
 summary: Narrative and lived-experience data valued alongside metrics, as philanthropy
-  recognizes multiple forms of evidence.
 permalink: https://www.envisioning.com/agape/narrative-lived-experience-data
 collection: knowledge-evidence-sensemaking
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419527/phila
 
 ## Summary
 
-Narrative and lived-experience data valued alongside metrics, as philanthropy recognizes multiple forms of evidence.
+Narrative and lived-experience data valued alongside metrics, as philanthropy
 
 ## Description
 

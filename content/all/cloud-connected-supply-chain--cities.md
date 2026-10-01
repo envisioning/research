@@ -2,15 +2,10 @@
 slug: cloud-connected-supply-chain
 hub: cities
 title: Cloud-Connected Supply Chain
-summary: This solution addresses critical inefficiencies in traditional supply chain
-  management, such as fragmented communication, lack of real-time visibility, and
-  delayed response times, all of which can lead to increased operational costs, delays,
-  and resource waste. By integrating cloud computing, IoT, and advanced analytics,
-  this technology creates a unified network that connects all stakeholders in the
-  supply chain, from manufacturers to end consumers, enhancing the efficiency, resilience,
-  and sustainability of supply chains.
+summary: Real-time supply chain coordination via cloud platforms connecting manufacturers
+  to consumers
 permalink: https://www.envisioning.com/cities/cloud-connected-supply-chain
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: software
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792368-cloud-connected-supp
 
 ## Summary
 
-This solution addresses critical inefficiencies in traditional supply chain management, such as fragmented communication, lack of real-time visibility, and delayed response times, all of which can lead to increased operational costs, delays, and resource waste. By integrating cloud computing, IoT, and advanced analytics, this technology creates a unified network that connects all stakeholders in the supply chain, from manufacturers to end consumers, enhancing the efficiency, resilience, and sustainability of supply chains.
+Real-time supply chain coordination via cloud platforms connecting manufacturers to consumers
 
 ## Description
 

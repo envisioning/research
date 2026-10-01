@@ -2,7 +2,8 @@
 slug: v2x-and-autonomous-mobility
 hub: link
 title: V2X & Autonomous Mobility Networks
-summary: Vehicle-to-everything connectivity for safety, traffic efficiency, and autonomy.
+summary: Real-time communication between vehicles, infrastructure, and pedestrians
+  for safer roads
 permalink: https://www.envisioning.com/link/v2x-and-autonomous-mobility
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436458/link/
 
 ## Summary
 
-Vehicle-to-everything connectivity for safety, traffic efficiency, and autonomy.
+Real-time communication between vehicles, infrastructure, and pedestrians for safer roads
 
 ## Description
 

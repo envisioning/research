@@ -2,7 +2,8 @@
 slug: lightfield-projection-systems
 hub: prism
 title: Lightfield Projection Systems
-summary: Multiplanar projector arrays reconstructing 3D scenes without headsets.
+summary: Projector arrays that emit direction-specific light to create glasses-free
+  3D scenes with parallax
 permalink: https://www.envisioning.com/prism/lightfield-projection-systems
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062582/pulse
 
 ## Summary
 
-Multiplanar projector arrays reconstructing 3D scenes without headsets.
+Projector arrays that emit direction-specific light to create glasses-free 3D scenes with parallax
 
 ## Description
 

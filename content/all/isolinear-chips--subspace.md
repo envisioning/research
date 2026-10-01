@@ -2,21 +2,21 @@
 slug: isolinear-chips
 hub: subspace
 title: Isolinear Chips
-summary: High-density optical data storage medium using isolinear circuitry for massive
-  information capacity.
+summary: Crystalline optical storage using light-based pathways for high-density data
+  encoding
 permalink: https://www.envisioning.com/subspace/isolinear-chips
 collection: computing
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208966/subspaceindex/technologies/isolinear-chips.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908212/subspace/technologies/isolinear-chips-openrouter-google-gemini-3.1-flash-image-preview-b5bp1f.png
 ---
 
 # Isolinear Chips
 
 ## Summary
 
-High-density optical data storage medium using isolinear circuitry for massive information capacity.
+Crystalline optical storage using light-based pathways for high-density data encoding
 
 ## Description
 

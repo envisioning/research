@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 3
 impact: 4
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889850/wonen/technologies/9149a33d-7ab5-4f2c-8d01-b7f7872d73e8-google-gemini-3.1-flash-image-preview-shhl5w.png
 ---
 
 # Woonzorgvisie (Housing-Care Vision)

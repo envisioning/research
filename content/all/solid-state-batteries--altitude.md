@@ -2,7 +2,8 @@
 slug: solid-state-batteries
 hub: altitude
 title: Solid-State Batteries
-summary: High-density energy storage for extended range electric flight.
+summary: Energy storage using solid electrolytes instead of flammable liquids for
+  safer, denser power
 permalink: https://www.envisioning.com/altitude/solid-state-batteries
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641669/altit
 
 ## Summary
 
-High-density energy storage for extended range electric flight.
+Energy storage using solid electrolytes instead of flammable liquids for safer, denser power
 
 ## Description
 

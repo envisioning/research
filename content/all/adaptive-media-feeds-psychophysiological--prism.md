@@ -2,7 +2,8 @@
 slug: adaptive-media-feeds-psychophysiological
 hub: prism
 title: Adaptive media feeds based on psychophysiological signals
-summary: Content streams adjusting in real time to user stress, attention, or mood.
+summary: Content streams that adjust pacing and intensity based on real-time biometric
+  signals like heart rate or attention
 permalink: https://www.envisioning.com/prism/adaptive-media-feeds-psychophysiological
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074521/pulse
 
 ## Summary
 
-Content streams adjusting in real time to user stress, attention, or mood.
+Content streams that adjust pacing and intensity based on real-time biometric signals like heart rate or attention
 
 ## Description
 

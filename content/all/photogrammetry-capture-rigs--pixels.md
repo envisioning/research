@@ -2,8 +2,8 @@
 slug: photogrammetry-capture-rigs
 hub: pixels
 title: Photogrammetry Capture Rigs
-summary: Modular multi-camera domes digitizing actors, props, and worlds at millimeter
-  accuracy.
+summary: Multi-camera arrays capturing real-world objects and actors as game-ready
+  3D assets
 permalink: https://www.envisioning.com/pixels/photogrammetry-capture-rigs
 collection: hardware
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062011/pixel
 
 ## Summary
 
-Modular multi-camera domes digitizing actors, props, and worlds at millimeter accuracy.
+Multi-camera arrays capturing real-world objects and actors as game-ready 3D assets
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: atmospheric-sensing-infrastructure
 hub: atmos
 title: Atmospheric Sensing Infrastructure
-summary: Distributed satellite constellations and urban sensor meshes.
+summary: Satellite constellations and ground sensors that map greenhouse gases and
+  air pollutants in real time
 permalink: https://www.envisioning.com/atmos/atmospheric-sensing-infrastructure
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990686/atmos
 
 ## Summary
 
-Distributed satellite constellations and urban sensor meshes.
+Satellite constellations and ground sensors that map greenhouse gases and air pollutants in real time
 
 ## Description
 

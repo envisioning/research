@@ -2,7 +2,8 @@
 slug: gamified-learning-platforms
 hub: axiom
 title: Gamified Learning Platforms
-summary: Systems like Kahoot and Classcraft boosting engagement via play.
+summary: Educational platforms using game mechanics like points, badges, and leaderboards
+  to boost student engagement
 permalink: https://www.envisioning.com/axiom/gamified-learning-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162208/axiom
 
 ## Summary
 
-Systems like Kahoot and Classcraft boosting engagement via play.
+Educational platforms using game mechanics like points, badges, and leaderboards to boost student engagement
 
 ## Description
 

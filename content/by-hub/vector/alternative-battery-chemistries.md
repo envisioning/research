@@ -2,7 +2,8 @@
 slug: alternative-battery-chemistries
 hub: vector
 title: Alternative Battery Chemistries
-summary: Sodium-ion, lithium-sulfur, and other next-gen battery technologies.
+summary: Sodium-ion, lithium-sulfur, and other battery technologies diversifying energy
+  storage beyond lithium-ion
 permalink: https://www.envisioning.com/vector/alternative-battery-chemistries
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177448/vecto
 
 ## Summary
 
-Sodium-ion, lithium-sulfur, and other next-gen battery technologies.
+Sodium-ion, lithium-sulfur, and other battery technologies diversifying energy storage beyond lithium-ion
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: subspace-jammer
 hub: subspace
 title: Subspace Jammer
-summary: Electronic-warfare system that degrades enemy FTL comms and sensors.
+summary: Electronic warfare system that disrupts FTL communications and sensor networks
+  in military space operations
 permalink: https://www.envisioning.com/subspace/subspace-jammer
 collection: communications
 trl: 7
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263823/subspaceindex/technologies/subspace-jammer.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909040/subspace/technologies/subspace-jammer-openrouter-google-gemini-3.1-flash-image-preview-yxmt3b.png
 ---
 
 # Subspace Jammer
 
 ## Summary
 
-Electronic-warfare system that degrades enemy FTL comms and sensors.
+Electronic warfare system that disrupts FTL communications and sensor networks in military space operations
 
 ## Description
 

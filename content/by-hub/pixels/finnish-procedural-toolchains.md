@@ -2,7 +2,8 @@
 slug: finnish-procedural-toolchains
 hub: pixels
 title: Finnish Procedural Game Toolchains
-summary: Procedural asset pipelines pioneered by Finnish studios.
+summary: Data-driven pipelines from Finnish studios that generate vast game worlds
+  with small teams
 permalink: https://www.envisioning.com/pixels/finnish-procedural-toolchains
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062155/pixel
 
 ## Summary
 
-Procedural asset pipelines pioneered by Finnish studios.
+Data-driven pipelines from Finnish studios that generate vast game worlds with small teams
 
 ## Description
 

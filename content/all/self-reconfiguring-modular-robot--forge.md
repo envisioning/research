@@ -2,19 +2,21 @@
 slug: self-reconfiguring-modular-robot
 hub: forge
 title: Self-Reconfiguring Modular Robot
-summary: Universal physical machines that change shape and function.
+summary: Robots built from identical modules that autonomously rearrange into different
+  shapes and functions
 permalink: https://www.envisioning.com/forge/self-reconfiguring-modular-robot
 collection: hardware
 trl: 4
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898088/forge/technologies/a8d3a798-3164-4612-8303-f293cf16ef81-google-gemini-3.1-flash-image-preview-rlw82c.jpg
 ---
 
 # Self-Reconfiguring Modular Robot
 
 ## Summary
 
-Universal physical machines that change shape and function.
+Robots built from identical modules that autonomously rearrange into different shapes and functions
 
 ## Description
 

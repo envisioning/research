@@ -9,7 +9,7 @@ collection: community-engagement
 trl: 3
 impact: 5
 investment: 5
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889017/wonen/technologies/6b1e3fb6-9dbc-4d44-a45d-79578176d0c6-google-gemini-3.1-flash-image-preview-yi0bi1.jpg
 ---
 
 # Burgerberaad (Citizens' Assemblies) for Housing

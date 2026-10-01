@@ -2,7 +2,8 @@
 slug: real-estate-data-lakes
 hub: habitat
 title: Real Estate Data Lakes
-summary: Unified data platforms aggregating property, transaction, and market intelligence.
+summary: Centralized repositories consolidating fragmented property, transaction,
+  and market data across systems
 permalink: https://www.envisioning.com/habitat/real-estate-data-lakes
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117952/habit
 
 ## Summary
 
-Unified data platforms aggregating property, transaction, and market intelligence.
+Centralized repositories consolidating fragmented property, transaction, and market data across systems
 
 ## Description
 

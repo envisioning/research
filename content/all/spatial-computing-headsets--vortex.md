@@ -2,7 +2,8 @@
 slug: spatial-computing-headsets
 hub: vortex
 title: Spatial Computing Headsets
-summary: High-resolution mixed reality headsets for passthrough stories.
+summary: Mixed reality headsets that blend digital content with real-world environments
+  for immersive storytelling
 permalink: https://www.envisioning.com/vortex/spatial-computing-headsets
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126461/vorte
 
 ## Summary
 
-High-resolution mixed reality headsets for passthrough stories.
+Mixed reality headsets that blend digital content with real-world environments for immersive storytelling
 
 ## Description
 

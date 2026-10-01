@@ -2,14 +2,13 @@
 slug: ai-audiologist-platform
 hub: interface
 title: AI Audiologist Platform
-summary: World's first AI Audiologist - self-test and education platform breaking
-  barriers for hearing loss support, redefining hearing health as vital to lifelong
-  wellness.
+summary: Self-administered hearing tests and education through AI-powered smartphone
+  platforms
 permalink: https://www.envisioning.com/interface/ai-audiologist-platform
-collection: wearables-health-sensing
+collection: applications
 trl: 6
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737548/interface/technologies/ai-audiologist-platform-google-gemini-3-pro-image-preview-cg2vx3.png
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737548/inter
 
 ## Summary
 
-World's first AI Audiologist - self-test and education platform breaking barriers for hearing loss support, redefining hearing health as vital to lifelong wellness.
+Self-administered hearing tests and education through AI-powered smartphone platforms
 
 ## Description
 

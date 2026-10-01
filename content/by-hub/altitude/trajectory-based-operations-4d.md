@@ -2,7 +2,8 @@
 slug: trajectory-based-operations-4d
 hub: altitude
 title: Trajectory-Based Operations (4D Trajectory Management)
-summary: Time-based, intent-driven ATM to increase capacity and predictability.
+summary: Air traffic management using shared 4D flight paths (lat, long, altitude,
+  time) instead of discrete clearances
 permalink: https://www.envisioning.com/altitude/trajectory-based-operations-4d
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642226/altit
 
 ## Summary
 
-Time-based, intent-driven ATM to increase capacity and predictability.
+Air traffic management using shared 4D flight paths (lat, long, altitude, time) instead of discrete clearances
 
 ## Description
 

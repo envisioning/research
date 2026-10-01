@@ -2,19 +2,20 @@
 slug: precision-guided-firearm
 hub: aegis
 title: Precision-Guided Firearm
-summary: EXACTO-style guided bullets; increased accuracy by marksmen.
+summary: Self-correcting bullets that adjust mid-flight to hit moving or distant targets
 permalink: https://www.envisioning.com/aegis/precision-guided-firearm
 collection: hardware
 trl: 5
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772963537/aegis/technologies/precision-guided-firearm-qp3gqb.jpg
 ---
 
 # Precision-Guided Firearm
 
 ## Summary
 
-EXACTO-style guided bullets; increased accuracy by marksmen.
+Self-correcting bullets that adjust mid-flight to hit moving or distant targets
 
 ## Description
 

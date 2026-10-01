@@ -2,7 +2,8 @@
 slug: cognitive-liberty-frameworks
 hub: epoch
 title: Cognitive Liberty Frameworks
-summary: Rights to mental self-determination and protection against unauthorized neuro-surveillance.
+summary: Legal and ethical protections for mental privacy and autonomy in the age
+  of neurotechnology
 permalink: https://www.envisioning.com/epoch/cognitive-liberty-frameworks
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477682/epoch
 
 ## Summary
 
-Rights to mental self-determination and protection against unauthorized neuro-surveillance.
+Legal and ethical protections for mental privacy and autonomy in the age of neurotechnology
 
 ## Description
 

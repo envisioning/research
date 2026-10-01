@@ -2,7 +2,8 @@
 slug: memorial-ar-engines
 hub: eclipse
 title: Memorial AR Engines
-summary: Augmented reality engines overlaying stories onto memorial sites.
+summary: Augmented reality systems that overlay personal stories and media onto physical
+  memorial sites
 permalink: https://www.envisioning.com/eclipse/memorial-ar-engines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126832/eclip
 
 ## Summary
 
-Augmented reality engines overlaying stories onto memorial sites.
+Augmented reality systems that overlay personal stories and media onto physical memorial sites
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: analog-in-memory-compute
 hub: wintermute
 title: Analog In-Memory Compute Chips
-summary: Chips optimized for transformer attention paths and continual learning.
+summary: Chips that compute directly in memory arrays, bypassing data transfer bottlenecks
+  for AI workloads
 permalink: https://www.envisioning.com/wintermute/analog-in-memory-compute
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980649/winte
 
 ## Summary
 
-Chips optimized for transformer attention paths and continual learning.
+Chips that compute directly in memory arrays, bypassing data transfer bottlenecks for AI workloads
 
 ## Description
 

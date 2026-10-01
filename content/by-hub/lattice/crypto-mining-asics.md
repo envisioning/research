@@ -2,7 +2,7 @@
 slug: crypto-mining-asics
 hub: lattice
 title: Crypto Mining ASICs
-summary: Application-specific rigs optimized for SHA-256 and Ethash derivatives.
+summary: Specialized hardware rigs optimized for proof-of-work blockchain mining algorithms
 permalink: https://www.envisioning.com/lattice/crypto-mining-asics
 collection: hardware
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074801/flows
 
 ## Summary
 
-Application-specific rigs optimized for SHA-256 and Ethash derivatives.
+Specialized hardware rigs optimized for proof-of-work blockchain mining algorithms
 
 ## Description
 

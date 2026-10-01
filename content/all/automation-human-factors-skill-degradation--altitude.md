@@ -2,7 +2,8 @@
 slug: automation-human-factors-skill-degradation
 hub: altitude
 title: Automation Human Factors & Skill Degradation
-summary: Managing workload, mode confusion, and manual flying proficiency over time.
+summary: Balancing pilot automation reliance with manual flying skill retention in
+  modern cockpits
 permalink: https://www.envisioning.com/altitude/automation-human-factors-skill-degradation
 collection: ethics-security
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765648983/altit
 
 ## Summary
 
-Managing workload, mode confusion, and manual flying proficiency over time.
+Balancing pilot automation reliance with manual flying skill retention in modern cockpits
 
 ## Description
 

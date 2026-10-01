@@ -2,21 +2,21 @@
 slug: magnetic-field-disruptor
 hub: xenotech
 title: Magnetic Field Disruptor
-summary: Speculative xenotechnology generating localized magnetic null zones to decouple
-  craft from planetary fields, suppress drag, and induce electronic interference effects.
+summary: Generates localized magnetic null zones to decouple craft from planetary
+  fields and enable inertia-free flight
 permalink: https://www.envisioning.com/xenotech/magnetic-field-disruptor
 collection: propulsion-physics
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762698792/xenotech/technologies/magnetic-field-disruptor-openai-gpt-5-juze7y.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898621/xenotech/technologies/magnetic-field-disruptor-openrouter-google-gemini-3.1-flash-image-preview-qx25l7.png
 ---
 
 # Magnetic Field Disruptor
 
 ## Summary
 
-Speculative xenotechnology generating localized magnetic null zones to decouple craft from planetary fields, suppress drag, and induce electronic interference effects.
+Generates localized magnetic null zones to decouple craft from planetary fields and enable inertia-free flight
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: stablecoin-corridors
 hub: vault
 title: Stablecoin Payment Corridors
-summary: Dollar-backed instant cross-border payments.
+summary: Cross-border payment networks using dollar-pegged digital currencies to bypass
+  correspondent banks
 permalink: https://www.envisioning.com/vault/stablecoin-corridors
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128751/vault
 
 ## Summary
 
-Dollar-backed instant cross-border payments.
+Cross-border payment networks using dollar-pegged digital currencies to bypass correspondent banks
 
 ## Description
 

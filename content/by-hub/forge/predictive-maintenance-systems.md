@@ -2,7 +2,7 @@
 slug: predictive-maintenance-systems
 hub: forge
 title: Predictive Maintenance Systems
-summary: IoT-enabled platforms that forecast equipment failures before they occur.
+summary: IoT platforms that forecast equipment failures to prevent unplanned downtime
 permalink: https://www.envisioning.com/forge/predictive-maintenance-systems
 collection: software
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117888/forge
 
 ## Summary
 
-IoT-enabled platforms that forecast equipment failures before they occur.
+IoT platforms that forecast equipment failures to prevent unplanned downtime
 
 ## Description
 

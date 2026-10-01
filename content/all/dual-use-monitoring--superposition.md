@@ -2,7 +2,8 @@
 slug: dual-use-monitoring
 hub: superposition
 title: Dual-Use Monitoring Frameworks
-summary: Protocols to detect malicious quantum computations without violating privacy.
+summary: Governance protocols to detect harmful quantum computing use while preserving
+  user privacy
 permalink: https://www.envisioning.com/superposition/dual-use-monitoring
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181059/super
 
 ## Summary
 
-Protocols to detect malicious quantum computations without violating privacy.
+Governance protocols to detect harmful quantum computing use while preserving user privacy
 
 ## Description
 

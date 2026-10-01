@@ -2,15 +2,10 @@
 slug: pedestrian-zone
 hub: cities
 title: Pedestrian Zone
-summary: 'By restricting or eliminating motor vehicle traffic in designated areas,
-  pedestrian zones create safer, more vibrant, and environmentally friendly urban
-  spaces. These zones enhance urban liveability by improving air quality, reducing
-  noise pollution, and encouraging walking and cycling, which contributes to public
-  health and reduces reliance on fossil fuels. Their implementation involves infrastructure
-  such as automated bollards and smart traffic management systems, ensuring that these
-  zones are functional and adaptable. '
+summary: Urban areas where motor vehicle traffic is restricted to prioritize walking,
+  cycling, and public life
 permalink: https://www.envisioning.com/cities/pedestrian-zone
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: applications
 trl: 9
 impact: 4
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792055-pedestrian-zone.png
 
 ## Summary
 
-By restricting or eliminating motor vehicle traffic in designated areas, pedestrian zones create safer, more vibrant, and environmentally friendly urban spaces. These zones enhance urban liveability by improving air quality, reducing noise pollution, and encouraging walking and cycling, which contributes to public health and reduces reliance on fossil fuels. Their implementation involves infrastructure such as automated bollards and smart traffic management systems, ensuring that these zones are functional and adaptable.
+Urban areas where motor vehicle traffic is restricted to prioritize walking, cycling, and public life
 
 ## Description
 

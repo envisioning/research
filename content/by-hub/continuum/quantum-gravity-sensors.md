@@ -2,7 +2,8 @@
 slug: quantum-gravity-sensors
 hub: continuum
 title: Quantum Gravity Sensors
-summary: Ultra-precise gravimeters for subsurface monitoring and early warning.
+summary: Atom interferometry detecting gravitational variations for subsurface monitoring
+  and hazard prediction
 permalink: https://www.envisioning.com/continuum/quantum-gravity-sensors
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124488/conti
 
 ## Summary
 
-Ultra-precise gravimeters for subsurface monitoring and early warning.
+Atom interferometry detecting gravitational variations for subsurface monitoring and hazard prediction
 
 ## Description
 

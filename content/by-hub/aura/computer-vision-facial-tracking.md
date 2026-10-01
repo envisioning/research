@@ -2,7 +2,8 @@
 slug: computer-vision-facial-tracking
 hub: aura
 title: Computer Vision for Facial Morphology
-summary: Long-term analysis of micro-expressions and volume.
+summary: AI-powered imaging that tracks facial structure, skin texture, and aging
+  patterns over time
 permalink: https://www.envisioning.com/aura/computer-vision-facial-tracking
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995631/aura/
 
 ## Summary
 
-Long-term analysis of micro-expressions and volume.
+AI-powered imaging that tracks facial structure, skin texture, and aging patterns over time
 
 ## Description
 

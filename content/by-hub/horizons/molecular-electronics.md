@@ -2,19 +2,21 @@
 slug: molecular-electronics
 hub: horizons
 title: Molecular Electronics
-summary: Electronic devices using single molecules as functional components.
+summary: Electronic devices built from individual molecules for ultra-dense, low-power
+  computing
 permalink: https://www.envisioning.com/horizons/molecular-electronics
 collection: hardware
 trl: 3
 impact: 4
 investment: 3
+image_url: null
 ---
 
 # Molecular Electronics
 
 ## Summary
 
-Electronic devices using single molecules as functional components.
+Electronic devices built from individual molecules for ultra-dense, low-power computing
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: supply-chain-analytics
 hub: datatrends
 title: Supply Chain Analytics
-summary: Optimizing supply chains using data analytics for demand forecasting, inventory
-  management, logistics optimization, and risk mitigation.
+summary: Data-driven optimization of demand forecasting, inventory, logistics, and
+  supply chain risk
 permalink: https://www.envisioning.com/datatrends/supply-chain-analytics
 collection: analytics-in-action
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730810/datat
 
 ## Summary
 
-Optimizing supply chains using data analytics for demand forecasting, inventory management, logistics optimization, and risk mitigation.
+Data-driven optimization of demand forecasting, inventory, logistics, and supply chain risk
 
 ## Description
 

@@ -3,7 +3,7 @@ slug: battery-swapping-stations
 hub: vector
 title: Battery Swapping Stations
 summary: Automated stations that exchange depleted EV batteries for fully charged
-  ones.
+  ones in minutes
 permalink: https://www.envisioning.com/vector/battery-swapping-stations
 collection: hardware
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177582/vecto
 
 ## Summary
 
-Automated stations that exchange depleted EV batteries for fully charged ones.
+Automated stations that exchange depleted EV batteries for fully charged ones in minutes
 
 ## Description
 

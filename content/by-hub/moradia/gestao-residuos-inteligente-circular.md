@@ -2,9 +2,8 @@
 slug: gestao-residuos-inteligente-circular
 hub: moradia
 title: Gestão Inteligente de Resíduos e Economia Circular
-summary: Plataformas, sensores e modelos de negócio para otimizar coleta, tratamento
-  e revalorização de resíduos urbanos e de construção, incluindo compostagem inteligente
-  e logística reversa.
+summary: Sensores, plataformas e logística reversa para otimizar coleta e reaproveitamento
+  de resíduos urbanos e de construção
 permalink: https://www.envisioning.com/moradia/gestao-residuos-inteligente-circular
 collection: cidade-infraestrutura-urbana
 trl: 3
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533161/habit
 
 ## Summary
 
-Plataformas, sensores e modelos de negócio para otimizar coleta, tratamento e revalorização de resíduos urbanos e de construção, incluindo compostagem inteligente e logística reversa.
+Sensores, plataformas e logística reversa para otimizar coleta e reaproveitamento de resíduos urbanos e de construção
 
 ## Description
 

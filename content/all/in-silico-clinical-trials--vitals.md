@@ -2,8 +2,8 @@
 slug: in-silico-clinical-trials
 hub: vitals
 title: In Silico Clinical Trials
-summary: Virtual clinical trials using digital twins to test treatments before human
-  testing.
+summary: Computational models simulating drug and device effects on virtual patient
+  populations
 permalink: https://www.envisioning.com/vitals/in-silico-clinical-trials
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463963/vital
 
 ## Summary
 
-Virtual clinical trials using digital twins to test treatments before human testing.
+Computational models simulating drug and device effects on virtual patient populations
 
 ## Description
 

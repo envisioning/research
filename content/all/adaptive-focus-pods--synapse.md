@@ -2,7 +2,8 @@
 slug: adaptive-focus-pods
 hub: synapse
 title: Adaptive Focus Pods
-summary: Smart micro-environments that reconfigure for different modes of work.
+summary: Self-contained workspaces with environmental controls optimized for different
+  cognitive tasks
 permalink: https://www.envisioning.com/synapse/adaptive-focus-pods
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111046/synap
 
 ## Summary
 
-Smart micro-environments that reconfigure for different modes of work.
+Self-contained workspaces with environmental controls optimized for different cognitive tasks
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: espacos-retiro-dentro-casas-lotadas
 hub: moradia
 title: Espaços de Retiro dentro de Casas Lotadas
-summary: Criação de espaços de retiro, calma e controle dentro de unidades habitacionais
-  densas e lotadas, criando refúgios psicológicos em ambientes de alta densidade.
+summary: Criação de refúgios de privacidade e calma dentro de moradias densas compartilhadas
+  por múltiplas pessoas
 permalink: https://www.envisioning.com/moradia/espacos-retiro-dentro-casas-lotadas
 collection: sistemas-prediais-automacao
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668641/habit
 
 ## Summary
 
-Criação de espaços de retiro, calma e controle dentro de unidades habitacionais densas e lotadas, criando refúgios psicológicos em ambientes de alta densidade.
+Criação de refúgios de privacidade e calma dentro de moradias densas compartilhadas por múltiplas pessoas
 
 ## Description
 

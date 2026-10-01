@@ -2,8 +2,8 @@
 slug: in-situ-bioprinting
 hub: epoch
 title: In-Situ Bioprinting Arms
-summary: Robotic systems capable of 3D printing skin and tissue directly onto patients
-  for rapid wound healing and regeneration.
+summary: Robotic systems that 3D print living cells and biomaterials directly onto
+  wounds for accelerated healing
 permalink: https://www.envisioning.com/epoch/in-situ-bioprinting
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477221/epoch
 
 ## Summary
 
-Robotic systems capable of 3D printing skin and tissue directly onto patients for rapid wound healing and regeneration.
+Robotic systems that 3D print living cells and biomaterials directly onto wounds for accelerated healing
 
 ## Description
 

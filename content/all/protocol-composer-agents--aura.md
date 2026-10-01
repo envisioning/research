@@ -2,7 +2,8 @@
 slug: protocol-composer-agents
 hub: aura
 title: Protocol Composer Agents
-summary: Agents that design and simulate complete enhancement stacks.
+summary: AI systems that design personalized multi-step beauty and wellness protocols
+  by combining treatments, devices, and lifes
 permalink: https://www.envisioning.com/aura/protocol-composer-agents
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995796/aura/
 
 ## Summary
 
-Agents that design and simulate complete enhancement stacks.
+AI systems that design personalized multi-step beauty and wellness protocols by combining treatments, devices, and lifes
 
 ## Description
 

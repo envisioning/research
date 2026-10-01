@@ -2,7 +2,8 @@
 slug: tidal-and-wave-energy-arrays
 hub: atmos
 title: Tidal/Wave Energy Converters
-summary: Marine turbines and point absorbers harvesting predictable ocean power.
+summary: Underwater turbines and surface devices converting ocean currents and waves
+  into electricity
 permalink: https://www.envisioning.com/atmos/tidal-and-wave-energy-arrays
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764140583/atmos
 
 ## Summary
 
-Marine turbines and point absorbers harvesting predictable ocean power.
+Underwater turbines and surface devices converting ocean currents and waves into electricity
 
 ## Description
 

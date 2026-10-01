@@ -2,7 +2,8 @@
 slug: robotic-dermal-procedures
 hub: aura
 title: Robotic Dermal Procedure Platforms
-summary: Robotic microneedling and laser systems for precision work.
+summary: Robotic arms with depth sensing perform microneedling, lasers, and injectables
+  at sub-millimeter precision
 permalink: https://www.envisioning.com/aura/robotic-dermal-procedures
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990715/aura/
 
 ## Summary
 
-Robotic microneedling and laser systems for precision work.
+Robotic arms with depth sensing perform microneedling, lasers, and injectables at sub-millimeter precision
 
 ## Description
 

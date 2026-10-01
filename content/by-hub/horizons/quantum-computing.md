@@ -2,9 +2,10 @@
 slug: quantum-computing
 hub: horizons
 title: Quantum Computing
-summary: Leveraging quantum mechanics for exponentially faster problem solving.
+summary: Harnessing quantum mechanics to solve problems beyond classical computing
+  limits
 permalink: https://www.envisioning.com/horizons/quantum-computing
-collection: intelligence-computation
+collection: hardware
 trl: 5
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522049/horiz
 
 ## Summary
 
-Leveraging quantum mechanics for exponentially faster problem solving.
+Harnessing quantum mechanics to solve problems beyond classical computing limits
 
 ## Description
 

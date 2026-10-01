@@ -2,7 +2,8 @@
 slug: ambient-learning-environments
 hub: axiom
 title: Ambient Learning Environments
-summary: Smart spaces adapting content and sensory conditions to learners.
+summary: Physical spaces that adjust lighting, sound, and content to optimize learning
+  conditions
 permalink: https://www.envisioning.com/axiom/ambient-learning-environments
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990448/axiom
 
 ## Summary
 
-Smart spaces adapting content and sensory conditions to learners.
+Physical spaces that adjust lighting, sound, and content to optimize learning conditions
 
 ## Description
 

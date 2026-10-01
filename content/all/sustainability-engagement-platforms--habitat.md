@@ -2,8 +2,8 @@
 slug: sustainability-engagement-platforms
 hub: habitat
 title: Sustainability Engagement Platforms
-summary: Gamified platforms encouraging sustainable living behaviors in residential
-  communities.
+summary: Gamified platforms that track and reward sustainable behaviors in residential
+  buildings
 permalink: https://www.envisioning.com/habitat/sustainability-engagement-platforms
 collection: applications
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768310275/habit
 
 ## Summary
 
-Gamified platforms encouraging sustainable living behaviors in residential communities.
+Gamified platforms that track and reward sustainable behaviors in residential buildings
 
 ## Description
 

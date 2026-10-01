@@ -2,7 +2,7 @@
 slug: real-time-intimacy-translation
 hub: eros
 title: Real-Time Intimacy Translation Devices
-summary: Wearable translators optimized for emotional nuance in cross-linguistic relationships.
+summary: Wearable translators that preserve emotional tone and intimacy across languages
 permalink: https://www.envisioning.com/eros/real-time-intimacy-translation
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124825/eros/
 
 ## Summary
 
-Wearable translators optimized for emotional nuance in cross-linguistic relationships.
+Wearable translators that preserve emotional tone and intimacy across languages
 
 ## Description
 

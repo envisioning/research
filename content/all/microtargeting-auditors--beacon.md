@@ -2,7 +2,8 @@
 slug: microtargeting-auditors
 hub: beacon
 title: Microtargeting Transparency Auditors
-summary: Exposing hyper-personalized manipulation.
+summary: Independent platforms that reverse-engineer and expose how algorithms personalize
+  ads and political messages
 permalink: https://www.envisioning.com/beacon/microtargeting-auditors
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126083/beaco
 
 ## Summary
 
-Exposing hyper-personalized manipulation.
+Independent platforms that reverse-engineer and expose how algorithms personalize ads and political messages
 
 ## Description
 

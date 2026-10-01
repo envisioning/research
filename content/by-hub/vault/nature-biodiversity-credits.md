@@ -2,7 +2,8 @@
 slug: nature-biodiversity-credits
 hub: vault
 title: Biodiversity & Nature Asset Markets
-summary: Tokenizing ecological services beyond carbon.
+summary: Tokenizing ecosystem services like pollination and habitat preservation as
+  tradable financial assets
 permalink: https://www.envisioning.com/vault/nature-biodiversity-credits
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128652/vault
 
 ## Summary
 
-Tokenizing ecological services beyond carbon.
+Tokenizing ecosystem services like pollination and habitat preservation as tradable financial assets
 
 ## Description
 

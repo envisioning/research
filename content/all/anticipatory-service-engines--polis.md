@@ -2,7 +2,8 @@
 slug: anticipatory-service-engines
 hub: polis
 title: Anticipatory Service Engines
-summary: Proactive delivery of public benefits based on life events.
+summary: Systems that automatically deliver public benefits when citizens become eligible,
+  without requiring applications
 permalink: https://www.envisioning.com/polis/anticipatory-service-engines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126548/polis
 
 ## Summary
 
-Proactive delivery of public benefits based on life events.
+Systems that automatically deliver public benefits when citizens become eligible, without requiring applications
 
 ## Description
 

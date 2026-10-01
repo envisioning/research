@@ -2,7 +2,8 @@
 slug: cross-platform-identity-systems
 hub: vortex
 title: Cross-Platform Identity Systems
-summary: Unified digital identities and avatars across services.
+summary: Unified digital identities and avatars that persist across multiple platforms
+  and services
 permalink: https://www.envisioning.com/vortex/cross-platform-identity-systems
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126845/vorte
 
 ## Summary
 
-Unified digital identities and avatars across services.
+Unified digital identities and avatars that persist across multiple platforms and services
 
 ## Description
 

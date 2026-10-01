@@ -2,7 +2,8 @@
 slug: radiofrequency-skin-tightening
 hub: aura
 title: Radiofrequency Skin Tightening
-summary: RF applicators stimulating dermal remodeling without surgery.
+summary: Electromagnetic energy devices that heat skin layers to stimulate collagen
+  production and tighten tissue
 permalink: https://www.envisioning.com/aura/radiofrequency-skin-tightening
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074015/aura/
 
 ## Summary
 
-RF applicators stimulating dermal remodeling without surgery.
+Electromagnetic energy devices that heat skin layers to stimulate collagen production and tighten tissue
 
 ## Description
 

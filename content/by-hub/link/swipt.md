@@ -2,7 +2,7 @@
 slug: swipt
 hub: link
 title: Simultaneous Wireless Information and Power Transfer (SWIPT)
-summary: Harvesting energy from the same radio signal used for communication.
+summary: Harvesting energy from radio signals while receiving data transmissions
 permalink: https://www.envisioning.com/link/swipt
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435876/link/
 
 ## Summary
 
-Harvesting energy from the same radio signal used for communication.
+Harvesting energy from radio signals while receiving data transmissions
 
 ## Description
 

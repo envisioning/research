@@ -2,8 +2,8 @@
 slug: fibra-optica-passiva-ftth
 hub: moradia
 title: Redes de Fibra Óptica Passiva
-summary: Infraestrutura de fibra até as unidades para banda larga, 5G backhaul e edifícios
-  conectados.
+summary: Fibra óptica direta até residências e empresas usando componentes passivos
+  sem energia
 permalink: https://www.envisioning.com/moradia/fibra-optica-passiva-ftth
 collection: cidade-infraestrutura-urbana
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583502/habit
 
 ## Summary
 
-Infraestrutura de fibra até as unidades para banda larga, 5G backhaul e edifícios conectados.
+Fibra óptica direta até residências e empresas usando componentes passivos sem energia
 
 ## Description
 

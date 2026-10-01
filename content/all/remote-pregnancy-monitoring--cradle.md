@@ -2,7 +2,7 @@
 slug: remote-pregnancy-monitoring
 hub: cradle
 title: Remote Pregnancy Monitoring
-summary: Home-based maternal-fetal surveillance.
+summary: Connected devices and apps for tracking maternal and fetal health at home
 permalink: https://www.envisioning.com/cradle/remote-pregnancy-monitoring
 collection: applications
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129286/cradl
 
 ## Summary
 
-Home-based maternal-fetal surveillance.
+Connected devices and apps for tracking maternal and fetal health at home
 
 ## Description
 

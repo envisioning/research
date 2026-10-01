@@ -2,8 +2,8 @@
 slug: consorcios-imobiliarios-informais
 hub: moradia
 title: Consórcios Imobiliários Informais
-summary: Grupos organizados para compra coletiva de terrenos ou materiais, sem estrutura
-  formal.
+summary: Compra coletiva de terrenos e materiais por grupos comunitários sem registro
+  formal
 permalink: https://www.envisioning.com/moradia/consorcios-imobiliarios-informais
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592473/habit
 
 ## Summary
 
-Grupos organizados para compra coletiva de terrenos ou materiais, sem estrutura formal.
+Compra coletiva de terrenos e materiais por grupos comunitários sem registro formal
 
 ## Description
 

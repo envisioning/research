@@ -2,8 +2,8 @@
 slug: device-independent-cryptography
 hub: superposition
 title: Device-Independent Quantum Cryptography
-summary: Protocols guaranteeing security based on physical laws, independent of hardware
-  trust.
+summary: Quantum key distribution that proves security through physics, not hardware
+  trust
 permalink: https://www.envisioning.com/superposition/device-independent-cryptography
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181135/super
 
 ## Summary
 
-Protocols guaranteeing security based on physical laws, independent of hardware trust.
+Quantum key distribution that proves security through physics, not hardware trust
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: high-resolution-machine-vision-cameras
 hub: interface
 title: High-Resolution Machine Vision Cameras
-summary: Advanced camera solutions for automotive, robotics, and industrial applications.
+summary: High-resolution cameras engineered for AI-driven automation in automotive,
+  robotics, and industrial systems
 permalink: https://www.envisioning.com/interface/high-resolution-machine-vision-cameras
-collection: spatial-computing-immersive
+collection: hardware
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889590/interface/technologies/87c15466-72e1-45d5-9821-9fd205ac2395-google-gemini-3.1-flash-image-preview-7on7v2.png
 ---
 
 # High-Resolution Machine Vision Cameras
 
 ## Summary
 
-Advanced camera solutions for automotive, robotics, and industrial applications.
+High-resolution cameras engineered for AI-driven automation in automotive, robotics, and industrial systems
 
 ## Description
 

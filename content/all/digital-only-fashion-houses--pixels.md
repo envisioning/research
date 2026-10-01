@@ -2,7 +2,8 @@
 slug: digital-only-fashion-houses
 hub: pixels
 title: Digital-Only Fashion Houses
-summary: Brands creating high-value assets exclusively for cross-platform avatars.
+summary: Couture labels designing virtual clothing and accessories for avatars across
+  games and metaverse platforms
 permalink: https://www.envisioning.com/pixels/digital-only-fashion-houses
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058985/pixel
 
 ## Summary
 
-Brands creating high-value assets exclusively for cross-platform avatars.
+Couture labels designing virtual clothing and accessories for avatars across games and metaverse platforms
 
 ## Description
 

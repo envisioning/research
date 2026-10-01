@@ -2,7 +2,8 @@
 slug: defi-regtech-and-compliance-engines
 hub: lattice
 title: RegTech & Compliance Engines for DeFi
-summary: Policy compilers turning regulations into executable protocol rules.
+summary: Systems that translate regulatory rules into enforceable smart contract policies
+  for DeFi protocols
 permalink: https://www.envisioning.com/lattice/defi-regtech-and-compliance-engines
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995657/flows
 
 ## Summary
 
-Policy compilers turning regulations into executable protocol rules.
+Systems that translate regulatory rules into enforceable smart contract policies for DeFi protocols
 
 ## Description
 

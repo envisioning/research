@@ -2,7 +2,7 @@
 slug: hydrogen-refueling-networks
 hub: vector
 title: Hydrogen Refueling Networks
-summary: Infrastructure supporting fuel cell electric vehicles (FCEVs).
+summary: High-pressure stations enabling fast refueling for fuel cell electric vehicles
 permalink: https://www.envisioning.com/vector/hydrogen-refueling-networks
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179061/vecto
 
 ## Summary
 
-Infrastructure supporting fuel cell electric vehicles (FCEVs).
+High-pressure stations enabling fast refueling for fuel cell electric vehicles
 
 ## Description
 

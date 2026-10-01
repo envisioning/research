@@ -2,8 +2,8 @@
 slug: ecommerce-personalization
 hub: datatrends
 title: E-Commerce Personalization Analytics
-summary: E-commerce platforms using advanced analytics for product recommendations,
-  dynamic pricing, and personalized shopping experiences.
+summary: Advanced analytics that tailor product recommendations, pricing, and shopping
+  experiences to individual customers
 permalink: https://www.envisioning.com/datatrends/ecommerce-personalization
 collection: analytics-in-action
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730788/datat
 
 ## Summary
 
-E-commerce platforms using advanced analytics for product recommendations, dynamic pricing, and personalized shopping experiences.
+Advanced analytics that tailor product recommendations, pricing, and shopping experiences to individual customers
 
 ## Description
 

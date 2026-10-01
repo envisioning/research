@@ -2,7 +2,8 @@
 slug: optical-interconnect-backplanes
 hub: wintermute
 title: Optical Interconnect Backplanes
-summary: Photonic fabric moving data between AI chips at terabit speeds.
+summary: Light-based data pathways connecting AI chips at terabit speeds with lower
+  power and heat
 permalink: https://www.envisioning.com/wintermute/optical-interconnect-backplanes
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080320/winte
 
 ## Summary
 
-Photonic fabric moving data between AI chips at terabit speeds.
+Light-based data pathways connecting AI chips at terabit speeds with lower power and heat
 
 ## Description
 

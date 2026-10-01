@@ -2,7 +2,8 @@
 slug: perinatal-learning-health-systems
 hub: cradle
 title: Perinatal Learning Health Systems
-summary: Continuously improving care via federated data.
+summary: Federated analytics networks that let hospitals improve maternal and neonatal
+  care without sharing patient data
 permalink: https://www.envisioning.com/cradle/perinatal-learning-health-systems
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129219/cradl
 
 ## Summary
 
-Continuously improving care via federated data.
+Federated analytics networks that let hospitals improve maternal and neonatal care without sharing patient data
 
 ## Description
 

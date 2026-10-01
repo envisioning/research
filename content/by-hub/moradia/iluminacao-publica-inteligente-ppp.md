@@ -2,8 +2,8 @@
 slug: iluminacao-publica-inteligente-ppp
 hub: moradia
 title: Iluminação Pública Inteligente e PPPs
-summary: Postes de iluminação conectados que atuam como hubs de serviços urbanos,
-  implementados via modelos de concessão/PPP.
+summary: Postes de LED conectados que funcionam como hubs de serviços urbanos via
+  PPPs
 permalink: https://www.envisioning.com/moradia/iluminacao-publica-inteligente-ppp
 collection: cidade-infraestrutura-urbana
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584195/habit
 
 ## Summary
 
-Postes de iluminação conectados que atuam como hubs de serviços urbanos, implementados via modelos de concessão/PPP.
+Postes de LED conectados que funcionam como hubs de serviços urbanos via PPPs
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: digital-olfaction-interfaces
 hub: atlas
 title: Digital Olfaction Interfaces
-summary: Transmission of scents to enhance virtual tourism and memory recall.
+summary: Devices that capture, encode, and reproduce scents digitally for immersive
+  experiences
 permalink: https://www.envisioning.com/atlas/digital-olfaction-interfaces
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127065/atlas
 
 ## Summary
 
-Transmission of scents to enhance virtual tourism and memory recall.
+Devices that capture, encode, and reproduce scents digitally for immersive experiences
 
 ## Description
 

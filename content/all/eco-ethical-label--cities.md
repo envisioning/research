@@ -2,16 +2,10 @@
 slug: eco-ethical-label
 hub: cities
 title: Eco-Ethical Label
-summary: A certification system designed to address the critical issues of environmental
-  sustainability and ethical consumerism. This solution provides a transparent and
-  reliable method for consumers to identify products that meet stringent environmental
-  and ethical standards. It evaluates the entire lifecycle of a product, from raw
-  material extraction to disposal, ensuring minimal environmental impact and adherence
-  to fair labour practices. By encouraging responsible consumption and production,
-  the eco-ethical label helps reduce the environmental footprint of urban living,
-  supports fair wages and safe working conditions, and enhances community resilience.
+summary: Certification system helping urban consumers identify products meeting environmental
+  and ethical standards
 permalink: https://www.envisioning.com/cities/eco-ethical-label
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: ethics-security
 trl: 9
 impact: 3
 investment: 3
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792926-eco-ethical-label.pn
 
 ## Summary
 
-A certification system designed to address the critical issues of environmental sustainability and ethical consumerism. This solution provides a transparent and reliable method for consumers to identify products that meet stringent environmental and ethical standards. It evaluates the entire lifecycle of a product, from raw material extraction to disposal, ensuring minimal environmental impact and adherence to fair labour practices. By encouraging responsible consumption and production, the eco-ethical label helps reduce the environmental footprint of urban living, supports fair wages and safe working conditions, and enhances community resilience.
+Certification system helping urban consumers identify products meeting environmental and ethical standards
 
 ## Description
 

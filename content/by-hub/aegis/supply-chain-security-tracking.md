@@ -2,7 +2,8 @@
 slug: supply-chain-security-tracking
 hub: aegis
 title: Supply Chain Security Tracking
-summary: RFID and blockchain-backed ledgers tracing defense logistics.
+summary: RFID, GPS, and blockchain systems that trace defense components from origin
+  to deployment
 permalink: https://www.envisioning.com/aegis/supply-chain-security-tracking
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764161893/aegis
 
 ## Summary
 
-RFID and blockchain-backed ledgers tracing defense logistics.
+RFID, GPS, and blockchain systems that trace defense components from origin to deployment
 
 ## Description
 

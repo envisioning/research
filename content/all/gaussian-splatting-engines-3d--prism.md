@@ -2,8 +2,8 @@
 slug: gaussian-splatting-engines-3d
 hub: prism
 title: 3D Gaussian Splatting Engines
-summary: Rendering algorithms enabling photorealistic real-time visualization of captured
-  scenes.
+summary: Real-time rendering of photorealistic 3D scenes from multi-view photos using
+  GPU-rasterized Gaussian splats
 permalink: https://www.envisioning.com/prism/gaussian-splatting-engines-3d
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074562/pulse
 
 ## Summary
 
-Rendering algorithms enabling photorealistic real-time visualization of captured scenes.
+Real-time rendering of photorealistic 3D scenes from multi-view photos using GPU-rasterized Gaussian splats
 
 ## Description
 

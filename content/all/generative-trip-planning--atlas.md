@@ -2,7 +2,8 @@
 slug: generative-trip-planning
 hub: atlas
 title: Generative Trip Planning
-summary: AI systems that create hyper-personalized travel itineraries.
+summary: AI systems that generate personalized travel itineraries from natural language
+  preferences
 permalink: https://www.envisioning.com/atlas/generative-trip-planning
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126082/atlas
 
 ## Summary
 
-AI systems that create hyper-personalized travel itineraries.
+AI systems that generate personalized travel itineraries from natural language preferences
 
 ## Description
 

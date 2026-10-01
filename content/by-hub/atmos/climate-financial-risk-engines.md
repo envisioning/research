@@ -2,7 +2,8 @@
 slug: climate-financial-risk-engines
 hub: atmos
 title: Climate-Aligned Financial Risk Engines
-summary: Tools that integrate physical and transition risk into financial decisions.
+summary: Quantify climate hazards and carbon policy impacts on portfolios, loans,
+  and asset valuations
 permalink: https://www.envisioning.com/atmos/climate-financial-risk-engines
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995769/atmos
 
 ## Summary
 
-Tools that integrate physical and transition risk into financial decisions.
+Quantify climate hazards and carbon policy impacts on portfolios, loans, and asset valuations
 
 ## Description
 

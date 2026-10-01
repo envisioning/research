@@ -2,7 +2,8 @@
 slug: intelligent-tutoring-systems
 hub: axiom
 title: Intelligent Tutoring Systems
-summary: Rule-based ITS delivering mastery learning at scale.
+summary: AI-powered platforms that adapt instruction to each learner's knowledge gaps
+  and pace
 permalink: https://www.envisioning.com/axiom/intelligent-tutoring-systems
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074636/axiom
 
 ## Summary
 
-Rule-based ITS delivering mastery learning at scale.
+AI-powered platforms that adapt instruction to each learner's knowledge gaps and pace
 
 ## Description
 

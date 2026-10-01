@@ -2,7 +2,8 @@
 slug: attention-economy-regulators
 hub: beacon
 title: Attention Economy Regulatory Tools
-summary: Monitoring and limiting attention extraction practices.
+summary: Regulatory frameworks to monitor and limit platforms' use of addictive design
+  patterns
 permalink: https://www.envisioning.com/beacon/attention-economy-regulators
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126027/beaco
 
 ## Summary
 
-Monitoring and limiting attention extraction practices.
+Regulatory frameworks to monitor and limit platforms' use of addictive design patterns
 
 ## Description
 

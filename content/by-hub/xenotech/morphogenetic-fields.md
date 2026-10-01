@@ -2,22 +2,21 @@
 slug: morphogenetic-fields
 hub: xenotech
 title: Morphogenetic Fields
-summary: Speculative field theory proposing non-physical information fields that guide
-  biological development, consciousness organization, and behavioral patterns across
-  species.
+summary: Proposed information fields that guide biological form, development, and
+  learned behaviors across organisms
 permalink: https://www.envisioning.com/xenotech/morphogenetic-fields
 collection: consciousness-interface
 trl: 2
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761682512/xenotech/technologies/morphogenetic-fields.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898933/xenotech/technologies/morphogenetic-fields-openrouter-google-gemini-3.1-flash-image-preview-iyfqwm.png
 ---
 
 # Morphogenetic Fields
 
 ## Summary
 
-Speculative field theory proposing non-physical information fields that guide biological development, consciousness organization, and behavioral patterns across species.
+Proposed information fields that guide biological form, development, and learned behaviors across organisms
 
 ## Description
 

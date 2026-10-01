@@ -2,7 +2,8 @@
 slug: massive-iot-connectivity-platforms
 hub: link
 title: Massive IoT Connectivity Platforms
-summary: Management and connectivity for billions of low-power devices.
+summary: Network infrastructure designed to connect billions of low-power IoT sensors
+  and devices
 permalink: https://www.envisioning.com/link/massive-iot-connectivity-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436478/link/
 
 ## Summary
 
-Management and connectivity for billions of low-power devices.
+Network infrastructure designed to connect billions of low-power IoT sensors and devices
 
 ## Description
 

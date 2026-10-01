@@ -3,7 +3,6 @@ slug: philanthropy-embedded-movements
 hub: agape
 title: Philanthropy Embedded in Movements
 summary: Philanthropy embedded inside movements rather than institutions, as giving
-  becomes more movement-aligned and grassroots.
 permalink: https://www.envisioning.com/agape/philanthropy-embedded-movements
 collection: organizational-forms-ecosystems
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372293/agape
 
 ## Summary
 
-Philanthropy embedded inside movements rather than institutions, as giving becomes more movement-aligned and grassroots.
+Philanthropy embedded inside movements rather than institutions, as giving
 
 ## Description
 

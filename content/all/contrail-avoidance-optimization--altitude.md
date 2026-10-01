@@ -2,7 +2,8 @@
 slug: contrail-avoidance-optimization
 hub: altitude
 title: Contrail Avoidance Optimization
-summary: Route and altitude optimization to reduce non-CO₂ climate forcing.
+summary: Flight path adjustments to minimize contrail formation and reduce aviation's
+  climate impact
 permalink: https://www.envisioning.com/altitude/contrail-avoidance-optimization
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642507/altit
 
 ## Summary
 
-Route and altitude optimization to reduce non-CO₂ climate forcing.
+Flight path adjustments to minimize contrail formation and reduce aviation's climate impact
 
 ## Description
 

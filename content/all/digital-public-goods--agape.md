@@ -3,7 +3,6 @@ slug: digital-public-goods
 hub: agape
 title: Digital Public Goods Funded by Philanthropy
 summary: Digital public goods funded and stewarded by philanthropy, creating infrastructure
-  that enables broader social impact.
 permalink: https://www.envisioning.com/agape/digital-public-goods
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419395/phila
 
 ## Summary
 
-Digital public goods funded and stewarded by philanthropy, creating infrastructure that enables broader social impact.
+Digital public goods funded and stewarded by philanthropy, creating infrastructure
 
 ## Description
 

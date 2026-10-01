@@ -2,8 +2,8 @@
 slug: solid-state-batteries
 hub: grid
 title: Solid-State Batteries
-summary: Battery technology using solid electrolytes for higher safety and energy
-  density.
+summary: Batteries using solid electrolytes instead of liquids for safer, denser energy
+  storage
 permalink: https://www.envisioning.com/grid/solid-state-batteries
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435023/grid/
 
 ## Summary
 
-Battery technology using solid electrolytes for higher safety and energy density.
+Batteries using solid electrolytes instead of liquids for safer, denser energy storage
 
 ## Description
 

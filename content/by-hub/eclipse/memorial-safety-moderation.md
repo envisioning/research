@@ -2,7 +2,8 @@
 slug: memorial-safety-moderation
 hub: eclipse
 title: Memorial Safety & Moderation Systems
-summary: Content and behavior moderation for digital memorial spaces.
+summary: Specialized content moderation protecting grieving users in online memorial
+  platforms
 permalink: https://www.envisioning.com/eclipse/memorial-safety-moderation
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435246/eclip
 
 ## Summary
 
-Content and behavior moderation for digital memorial spaces.
+Specialized content moderation protecting grieving users in online memorial platforms
 
 ## Description
 

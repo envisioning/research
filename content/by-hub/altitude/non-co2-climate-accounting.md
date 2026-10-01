@@ -2,7 +2,8 @@
 slug: non-co2-climate-accounting
 hub: altitude
 title: Non-CO₂ Climate Accounting & Policy
-summary: Operational and regulatory approaches for contrails, NOx, and water vapor.
+summary: Measuring and regulating aviation's non-CO₂ climate impacts like contrails,
+  NOx, and water vapor
 permalink: https://www.envisioning.com/altitude/non-co2-climate-accounting
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649029/altit
 
 ## Summary
 
-Operational and regulatory approaches for contrails, NOx, and water vapor.
+Measuring and regulating aviation's non-CO₂ climate impacts like contrails, NOx, and water vapor
 
 ## Description
 

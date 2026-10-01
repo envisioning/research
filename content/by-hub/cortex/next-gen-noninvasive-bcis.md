@@ -2,7 +2,8 @@
 slug: next-gen-noninvasive-bcis
 hub: cortex
 title: Next-Gen Noninvasive BCIs
-summary: OPM-MEG and fNIRS for wearable, high-fidelity sensing.
+summary: Wearable brain sensors using magnetic fields and light to decode neural activity
+  outside labs
 permalink: https://www.envisioning.com/cortex/next-gen-noninvasive-bcis
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010274/corte
 
 ## Summary
 
-OPM-MEG and fNIRS for wearable, high-fidelity sensing.
+Wearable brain sensors using magnetic fields and light to decode neural activity outside labs
 
 ## Description
 

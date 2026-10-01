@@ -2,7 +2,8 @@
 slug: ai-driven-atm
 hub: altitude
 title: AI-Driven Air Traffic Management
-summary: Machine learning systems for dynamic airspace optimization and routing.
+summary: Machine learning systems that dynamically optimize airspace routing and aircraft
+  flow
 permalink: https://www.envisioning.com/altitude/ai-driven-atm
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642207/altit
 
 ## Summary
 
-Machine learning systems for dynamic airspace optimization and routing.
+Machine learning systems that dynamically optimize airspace routing and aircraft flow
 
 ## Description
 

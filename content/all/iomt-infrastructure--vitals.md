@@ -2,8 +2,8 @@
 slug: iomt-infrastructure
 hub: vitals
 title: IoMT-Integrated Smart Infrastructure
-summary: Hospital environments embedded with sensors for real-time tracking of assets,
-  patients, and environmental conditions.
+summary: Sensor networks embedded in hospitals to track equipment, patients, and environmental
+  conditions in real time
 permalink: https://www.envisioning.com/vitals/iomt-infrastructure
 collection: hardware
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462091/vital
 
 ## Summary
 
-Hospital environments embedded with sensors for real-time tracking of assets, patients, and environmental conditions.
+Sensor networks embedded in hospitals to track equipment, patients, and environmental conditions in real time
 
 ## Description
 

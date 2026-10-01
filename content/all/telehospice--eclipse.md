@@ -2,7 +2,8 @@
 slug: telehospice
 hub: eclipse
 title: Telehospice Services
-summary: Remote delivery of palliative and hospice care.
+summary: Remote palliative care delivery through video consultations and home monitoring
+  devices
 permalink: https://www.envisioning.com/eclipse/telehospice
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127079/eclip
 
 ## Summary
 
-Remote delivery of palliative and hospice care.
+Remote palliative care delivery through video consultations and home monitoring devices
 
 ## Description
 

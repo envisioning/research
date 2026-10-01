@@ -2,19 +2,20 @@
 slug: 4d-film
 hub: vortex
 title: 4D Film
-summary: Theatrical experiences with sensory effects—motion, scent, mist, vibration.
+summary: Cinema with synchronized motion seats, scent, mist, and environmental effects
 permalink: https://www.envisioning.com/vortex/4d-film
 collection: applications
 trl: 8
 impact: 3
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962637/vortex/technologies/4d-film-beo8kg.jpg
 ---
 
 # 4D Film
 
 ## Summary
 
-Theatrical experiences with sensory effects—motion, scent, mist, vibration.
+Cinema with synchronized motion seats, scent, mist, and environmental effects
 
 ## Description
 

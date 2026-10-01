@@ -9,7 +9,7 @@ collection: barriers-opposition
 trl: 4
 impact: 2
 investment: 2
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882821/wonen/technologies/25c4a8a5-4966-4aed-b9f2-2f0ea65eec55-google-gemini-3.1-flash-image-preview-p1nasn.jpg
 ---
 
 # PFAS Soil Contamination

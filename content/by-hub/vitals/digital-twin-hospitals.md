@@ -2,8 +2,8 @@
 slug: digital-twin-hospitals
 hub: vitals
 title: Digital Twin Hospitals
-summary: Virtual replicas of hospital operations used to simulate workflows and optimize
-  facility design.
+summary: Virtual replicas of hospitals that simulate workflows, optimize layouts,
+  and predict operational bottlenecks
 permalink: https://www.envisioning.com/vitals/digital-twin-hospitals
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461968/vital
 
 ## Summary
 
-Virtual replicas of hospital operations used to simulate workflows and optimize facility design.
+Virtual replicas of hospitals that simulate workflows, optimize layouts, and predict operational bottlenecks
 
 ## Description
 

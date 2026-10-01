@@ -2,21 +2,21 @@
 slug: body-area-network-ban-connectivity
 hub: interface
 title: Body Area Network (BAN) Connectivity
-summary: Ultra-low-power E-field communication confined to the body surface for secure
-  wearable linking.
+summary: Secure wireless links between wearables using electric fields confined to
+  the body surface
 permalink: https://www.envisioning.com/interface/body-area-network-ban-connectivity
-collection: wearables-health-sensing
+collection: hardware
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887327/interface/technologies/5918fdd0-6de8-465e-b877-cae0ab8d9b0c-google-gemini-3.1-flash-image-preview-pmy00g.png
 ---
 
 # Body Area Network (BAN) Connectivity
 
 ## Summary
 
-Ultra-low-power E-field communication confined to the body surface for secure wearable linking.
+Secure wireless links between wearables using electric fields confined to the body surface
 
 ## Description
 

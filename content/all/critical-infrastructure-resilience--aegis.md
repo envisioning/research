@@ -2,7 +2,8 @@
 slug: critical-infrastructure-resilience
 hub: aegis
 title: Critical Infrastructure Resilience
-summary: Autonomous monitoring of grids and pipelines with islandable microgrids.
+summary: Self-healing infrastructure networks that maintain power, water, and transport
+  during disruptions
 permalink: https://www.envisioning.com/aegis/critical-infrastructure-resilience
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010117/aegis
 
 ## Summary
 
-Autonomous monitoring of grids and pipelines with islandable microgrids.
+Self-healing infrastructure networks that maintain power, water, and transport during disruptions
 
 ## Description
 

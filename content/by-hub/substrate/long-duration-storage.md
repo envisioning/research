@@ -2,7 +2,7 @@
 slug: long-duration-storage
 hub: substrate
 title: Long-Duration Energy Storage
-summary: Multi-hour and multi-day storage for renewable-heavy grids.
+summary: Multi-hour to seasonal energy storage bridging renewable generation gaps
 permalink: https://www.envisioning.com/substrate/long-duration-storage
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120036/subst
 
 ## Summary
 
-Multi-hour and multi-day storage for renewable-heavy grids.
+Multi-hour to seasonal energy storage bridging renewable generation gaps
 
 ## Description
 

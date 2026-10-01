@@ -2,21 +2,20 @@
 slug: counter-rotating-plasma-devices
 hub: xenotech
 title: Counter-Rotating Plasma
-summary: Alleged propulsion or power systems using rotating plasma cylinders in bell-shaped
-  or toroidal configurations to generate anti-gravity or spacetime manipulation effects.
+summary: Rotating plasma chambers claimed to produce anti-gravity or spacetime effects
 permalink: https://www.envisioning.com/xenotech/counter-rotating-plasma-devices
 collection: energy-systems
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760818483/xenotech/technologies/nazi-bell-die-glocke.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897935/xenotech/technologies/counter-rotating-plasma-devices-openrouter-google-gemini-3.1-flash-image-preview-ft7z7u.png
 ---
 
 # Counter-Rotating Plasma
 
 ## Summary
 
-Alleged propulsion or power systems using rotating plasma cylinders in bell-shaped or toroidal configurations to generate anti-gravity or spacetime manipulation effects.
+Rotating plasma chambers claimed to produce anti-gravity or spacetime effects
 
 ## Description
 

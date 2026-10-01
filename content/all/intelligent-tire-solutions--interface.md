@@ -2,14 +2,13 @@
 slug: intelligent-tire-solutions
 hub: interface
 title: Intelligent Tire Solutions
-summary: World's most advanced intelligent tire solutions with sensors, gateways,
-  software, and AI-based algorithms for fleet tire management, addressing one of the
-  largest operating costs for fleets.
+summary: AI-powered tire monitoring systems that track pressure, temperature, and
+  wear to reduce fleet operating costs
 permalink: https://www.envisioning.com/interface/intelligent-tire-solutions
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: null
 ---
 
@@ -17,7 +16,7 @@ image_url: null
 
 ## Summary
 
-World's most advanced intelligent tire solutions with sensors, gateways, software, and AI-based algorithms for fleet tire management, addressing one of the largest operating costs for fleets.
+AI-powered tire monitoring systems that track pressure, temperature, and wear to reduce fleet operating costs
 
 ## Description
 

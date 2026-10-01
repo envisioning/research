@@ -2,7 +2,8 @@
 slug: digital-workforce-transition
 hub: quadrant
 title: Digital Workforce Transition Platforms
-summary: Reskilling systems for Industry 4.0 job transformation.
+summary: AI-driven reskilling systems that prepare factory workers for automated production
+  roles
 permalink: https://www.envisioning.com/quadrant/digital-workforce-transition
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128389/quadr
 
 ## Summary
 
-Reskilling systems for Industry 4.0 job transformation.
+AI-driven reskilling systems that prepare factory workers for automated production roles
 
 ## Description
 

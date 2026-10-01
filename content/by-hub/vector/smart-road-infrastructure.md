@@ -2,7 +2,8 @@
 slug: smart-road-infrastructure
 hub: vector
 title: Smart Road Infrastructure
-summary: Intelligent roadways enabling Vehicle-to-Infrastructure (V2I) communication.
+summary: Roads embedded with sensors and communication systems that exchange real-time
+  data with vehicles
 permalink: https://www.envisioning.com/vector/smart-road-infrastructure
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182271/vecto
 
 ## Summary
 
-Intelligent roadways enabling Vehicle-to-Infrastructure (V2I) communication.
+Roads embedded with sensors and communication systems that exchange real-time data with vehicles
 
 ## Description
 

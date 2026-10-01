@@ -2,7 +2,8 @@
 slug: neuro-affective-headsets
 hub: soma
 title: Neuro-Affective Headsets
-summary: EEG/fNIRS devices tuned to detect emotional states.
+summary: Wearable brain sensors that detect emotional states like stress, engagement,
+  and frustration
 permalink: https://www.envisioning.com/soma/neuro-affective-headsets
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132931/soma/
 
 ## Summary
 
-EEG/fNIRS devices tuned to detect emotional states.
+Wearable brain sensors that detect emotional states like stress, engagement, and frustration
 
 ## Description
 

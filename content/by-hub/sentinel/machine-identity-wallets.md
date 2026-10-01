@@ -2,7 +2,8 @@
 slug: machine-identity-wallets
 hub: sentinel
 title: Machine Identity Wallets
-summary: Identity and credential management for autonomous AI agents and IoT.
+summary: Cryptographic identity systems enabling autonomous AI agents and IoT devices
+  to prove authorization
 permalink: https://www.envisioning.com/sentinel/machine-identity-wallets
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463142/senti
 
 ## Summary
 
-Identity and credential management for autonomous AI agents and IoT.
+Cryptographic identity systems enabling autonomous AI agents and IoT devices to prove authorization
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: plataformas-integracao-dados-urbanos
 hub: moradia
 title: Plataformas de Integração de Dados Urbanos
-summary: Sistemas que integram dados de edifícios, infraestrutura urbana e sistemas
-  de gestão urbana, incluindo interoperabilidade e despacho de resposta a falhas.
+summary: Sistemas que conectam dados de edifícios, infraestrutura e serviços urbanos
+  para planejamento integrado
 permalink: https://www.envisioning.com/moradia/plataformas-integracao-dados-urbanos
 collection: plataformas-dados
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766332902/conec
 
 ## Summary
 
-Sistemas que integram dados de edifícios, infraestrutura urbana e sistemas de gestão urbana, incluindo interoperabilidade e despacho de resposta a falhas.
+Sistemas que conectam dados de edifícios, infraestrutura e serviços urbanos para planejamento integrado
 
 ## Description
 

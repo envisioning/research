@@ -2,7 +2,8 @@
 slug: operator-cognitive-support-systems
 hub: aegis
 title: Operator Cognitive Load Management Systems
-summary: Interfaces and assistants that prioritize alerts and simplify decisions.
+summary: Adaptive interfaces that filter alerts and streamline decisions for defense
+  operators under pressure
 permalink: https://www.envisioning.com/aegis/operator-cognitive-support-systems
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998678/aegis
 
 ## Summary
 
-Interfaces and assistants that prioritize alerts and simplify decisions.
+Adaptive interfaces that filter alerts and streamline decisions for defense operators under pressure
 
 ## Description
 

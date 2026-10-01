@@ -2,7 +2,8 @@
 slug: dynamic-consent-orchestration
 hub: cradle
 title: Dynamic Consent Orchestration
-summary: Lifelong consent management for families and children.
+summary: Granular, evolving control over family health data from conception through
+  early childhood
 permalink: https://www.envisioning.com/cradle/dynamic-consent-orchestration
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131241/cradl
 
 ## Summary
 
-Lifelong consent management for families and children.
+Granular, evolving control over family health data from conception through early childhood
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: fair-labor-ugc-economies
 hub: pixels
 title: Fair Labor in UGC Economies
-summary: Protecting creators and play-laborers in virtual marketplaces.
+summary: Labor protections and revenue transparency for modders, creators, and play-to-earn
+  workers
 permalink: https://www.envisioning.com/pixels/fair-labor-ugc-economies
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012263/pixel
 
 ## Summary
 
-Protecting creators and play-laborers in virtual marketplaces.
+Labor protections and revenue transparency for modders, creators, and play-to-earn workers
 
 ## Description
 

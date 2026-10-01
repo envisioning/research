@@ -2,7 +2,8 @@
 slug: policy-as-code-governance-engines
 hub: synapse
 title: Policy-as-Code Governance Engines
-summary: Executable organizational rules that can be audited, simulated, and enforced.
+summary: Organizational rules translated into executable code for automated enforcement
+  and auditing
 permalink: https://www.envisioning.com/synapse/policy-as-code-governance-engines
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126708/synap
 
 ## Summary
 
-Executable organizational rules that can be audited, simulated, and enforced.
+Organizational rules translated into executable code for automated enforcement and auditing
 
 ## Description
 

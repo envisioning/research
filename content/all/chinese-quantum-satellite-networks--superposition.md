@@ -2,7 +2,8 @@
 slug: chinese-quantum-satellite-networks
 hub: superposition
 title: Chinese Quantum Satellite Networks
-summary: Space-based QKD constellations extending entanglement distribution globally.
+summary: Satellite constellations distributing quantum encryption keys and entanglement
+  across continents
 permalink: https://www.envisioning.com/superposition/chinese-quantum-satellite-networks
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073969/super
 
 ## Summary
 
-Space-based QKD constellations extending entanglement distribution globally.
+Satellite constellations distributing quantum encryption keys and entanglement across continents
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: piezoelectric-energy-harvesting-fibers
 hub: fabric
 title: Piezoelectric Energy-Harvesting Fibers
-summary: Energy-generating fibers converting motion into trickle-charge power.
+summary: Fibers that convert body movement into electrical power for wearable devices
 permalink: https://www.envisioning.com/fabric/piezoelectric-energy-harvesting-fibers
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060242/threa
 
 ## Summary
 
-Energy-generating fibers converting motion into trickle-charge power.
+Fibers that convert body movement into electrical power for wearable devices
 
 ## Description
 

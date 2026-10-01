@@ -2,7 +2,8 @@
 slug: quantum-flight-optimization
 hub: altitude
 title: Quantum Flight Optimization
-summary: Quantum computing algorithms for solving complex routing and scheduling problems.
+summary: Quantum computing applied to airline routing, scheduling, and fleet management
+  challenges
 permalink: https://www.envisioning.com/altitude/quantum-flight-optimization
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642622/altit
 
 ## Summary
 
-Quantum computing algorithms for solving complex routing and scheduling problems.
+Quantum computing applied to airline routing, scheduling, and fleet management challenges
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: remote-operations-centers
 hub: quadrant
 title: Remote Operations Centers
-summary: Integrated command hubs for multi-site teleoperation.
+summary: Centralized hubs for monitoring and controlling industrial operations across
+  multiple remote sites
 permalink: https://www.envisioning.com/quadrant/remote-operations-centers
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127221/quadr
 
 ## Summary
 
-Integrated command hubs for multi-site teleoperation.
+Centralized hubs for monitoring and controlling industrial operations across multiple remote sites
 
 ## Description
 

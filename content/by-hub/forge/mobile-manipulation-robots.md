@@ -2,8 +2,8 @@
 slug: mobile-manipulation-robots
 hub: forge
 title: Mobile Manipulation Robots
-summary: Robotic arms mounted on autonomous mobile bases for flexible material handling
-  and assembly.
+summary: Robotic arms on autonomous mobile bases that navigate factory floors while
+  performing assembly and handling tasks
 permalink: https://www.envisioning.com/forge/mobile-manipulation-robots
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177643/forge
 
 ## Summary
 
-Robotic arms mounted on autonomous mobile bases for flexible material handling and assembly.
+Robotic arms on autonomous mobile bases that navigate factory floors while performing assembly and handling tasks
 
 ## Description
 

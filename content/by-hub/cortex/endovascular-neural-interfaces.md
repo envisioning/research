@@ -2,7 +2,8 @@
 slug: endovascular-neural-interfaces
 hub: cortex
 title: Endovascular Neural Interfaces
-summary: Stent-electrode arrays implanted via blood vessels.
+summary: Stent-based electrodes implanted through blood vessels to record brain activity
+  without open-skull surgery
 permalink: https://www.envisioning.com/cortex/endovascular-neural-interfaces
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010163/corte
 
 ## Summary
 
-Stent-electrode arrays implanted via blood vessels.
+Stent-based electrodes implanted through blood vessels to record brain activity without open-skull surgery
 
 ## Description
 

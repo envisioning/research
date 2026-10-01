@@ -2,7 +2,8 @@
 slug: perovskite-tandem-solar
 hub: grid
 title: Perovskite & Tandem Solar Cells
-summary: Next-generation photovoltaic cells exceeding silicon efficiency limits.
+summary: High-efficiency solar cells using perovskite materials, often layered with
+  silicon for maximum light capture
 permalink: https://www.envisioning.com/grid/perovskite-tandem-solar
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131971/grid/
 
 ## Summary
 
-Next-generation photovoltaic cells exceeding silicon efficiency limits.
+High-efficiency solar cells using perovskite materials, often layered with silicon for maximum light capture
 
 ## Description
 

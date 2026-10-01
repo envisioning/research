@@ -2,7 +2,7 @@
 slug: collaborative-coding-environments
 hub: axiom
 title: Collaborative Coding Environments
-summary: Cloud IDEs like Replit and GitHub Classroom enabling pair programming.
+summary: Cloud-based IDEs enabling real-time pair programming and group coding projects
 permalink: https://www.envisioning.com/axiom/collaborative-coding-environments
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162307/axiom
 
 ## Summary
 
-Cloud IDEs like Replit and GitHub Classroom enabling pair programming.
+Cloud-based IDEs enabling real-time pair programming and group coding projects
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: privacidade-dados-espacos-publicos
 hub: moradia
 title: Privacidade de Dados em Espaços Públicos
-summary: Governança sobre a coleta e uso de dados cidadãos por sensores urbanos.
+summary: Regras e tecnologias para proteger dados pessoais coletados por sensores
+  urbanos
 permalink: https://www.envisioning.com/moradia/privacidade-dados-espacos-publicos
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584196/habit
 
 ## Summary
 
-Governança sobre a coleta e uso de dados cidadãos por sensores urbanos.
+Regras e tecnologias para proteger dados pessoais coletados por sensores urbanos
 
 ## Description
 

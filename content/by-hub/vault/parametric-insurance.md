@@ -2,7 +2,8 @@
 slug: parametric-insurance
 hub: vault
 title: Parametric & Smart Contract Insurance
-summary: Auto-executing, index-based coverage.
+summary: Insurance policies that pay out automatically when predefined conditions
+  are met
 permalink: https://www.envisioning.com/vault/parametric-insurance
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128708/vault
 
 ## Summary
 
-Auto-executing, index-based coverage.
+Insurance policies that pay out automatically when predefined conditions are met
 
 ## Description
 

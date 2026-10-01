@@ -2,8 +2,8 @@
 slug: realidade-virtual-aumentada-vendas-projeto
 hub: moradia
 title: Realidade Virtual e Aumentada para Vendas
-summary: Ferramentas imersivas que permitem clientes 'habitarem' o projeto antes da
-  construção e equipes colaborarem em modelos 3D.
+summary: Ambientes digitais 3D que permitem explorar e personalizar imóveis antes
+  da construção
 permalink: https://www.envisioning.com/moradia/realidade-virtual-aumentada-vendas-projeto
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359808/forma
 
 ## Summary
 
-Ferramentas imersivas que permitem clientes 'habitarem' o projeto antes da construção e equipes colaborarem em modelos 3D.
+Ambientes digitais 3D que permitem explorar e personalizar imóveis antes da construção
 
 ## Description
 

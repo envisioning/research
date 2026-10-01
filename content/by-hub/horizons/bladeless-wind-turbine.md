@@ -2,9 +2,10 @@
 slug: bladeless-wind-turbine
 hub: horizons
 title: Bladeless Wind Turbine
-summary: Generating wind energy through vortex-induced vibrations.
+summary: Generating electricity from wind through oscillating structures instead of
+  rotating blades
 permalink: https://www.envisioning.com/horizons/bladeless-wind-turbine
-collection: cities-mobility
+collection: hardware
 trl: 6
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526099/horiz
 
 ## Summary
 
-Generating wind energy through vortex-induced vibrations.
+Generating electricity from wind through oscillating structures instead of rotating blades
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cross-border-reproductive-governance
 hub: cradle
 title: Cross-Border Reproductive Governance
-summary: Regulatory frameworks for global fertility and birth services.
+summary: International frameworks coordinating fertility treatment and surrogacy across
+  jurisdictions
 permalink: https://www.envisioning.com/cradle/cross-border-reproductive-governance
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435233/cradl
 
 ## Summary
 
-Regulatory frameworks for global fertility and birth services.
+International frameworks coordinating fertility treatment and surrogacy across jurisdictions
 
 ## Description
 

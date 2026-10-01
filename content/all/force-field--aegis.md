@@ -2,19 +2,21 @@
 slug: force-field
 hub: aegis
 title: Force Field
-summary: Hypothetical protective barrier; plasma window experiments.
+summary: Protective barriers using plasma or electromagnetic fields to deflect projectiles
+  and radiation
 permalink: https://www.envisioning.com/aegis/force-field
 collection: applications
 trl: 2
 impact: 5
 investment: 2
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962771/aegis/technologies/force-field-eqtb7b.png
 ---
 
 # Force Field
 
 ## Summary
 
-Hypothetical protective barrier; plasma window experiments.
+Protective barriers using plasma or electromagnetic fields to deflect projectiles and radiation
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: prediction-market-protocols
 hub: lattice
 title: Prediction Market Protocols
-summary: Decentralized forecasting markets for events and on-chain metrics.
+summary: Decentralized platforms where users bet on future events to crowdsource probabilistic
+  forecasts
 permalink: https://www.envisioning.com/lattice/prediction-market-protocols
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075380/flows
 
 ## Summary
 
-Decentralized forecasting markets for events and on-chain metrics.
+Decentralized platforms where users bet on future events to crowdsource probabilistic forecasts
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: josephson-parametric-amplifiers
 hub: superposition
 title: Josephson Parametric Amplifiers
-summary: Ultra-low-noise microwave amplifiers boosting fragile qubit readout signals.
+summary: Superconducting microwave amplifiers that read qubit states with minimal
+  noise
 permalink: https://www.envisioning.com/superposition/josephson-parametric-amplifiers
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073968/super
 
 ## Summary
 
-Ultra-low-noise microwave amplifiers boosting fragile qubit readout signals.
+Superconducting microwave amplifiers that read qubit states with minimal noise
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: anti-censorship-circumvention-protocols
 hub: link
 title: Anti-Censorship & Circumvention Protocols
-summary: Technologies to maintain open communication under authoritarian regimes.
+summary: Network protocols designed to bypass state-level internet filtering and surveillance
 permalink: https://www.envisioning.com/link/anti-censorship-circumvention-protocols
 collection: ethics-security
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179486/link/
 
 ## Summary
 
-Technologies to maintain open communication under authoritarian regimes.
+Network protocols designed to bypass state-level internet filtering and surveillance
 
 ## Description
 

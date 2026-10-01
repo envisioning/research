@@ -2,7 +2,8 @@
 slug: participatory-budgeting-ai
 hub: polis
 title: Participatory Budgeting AI
-summary: AI-enhanced tools for allocating public funds based on citizen input.
+summary: AI tools that process citizen proposals and voting data to help allocate
+  public budgets
 permalink: https://www.envisioning.com/polis/participatory-budgeting-ai
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126382/polis
 
 ## Summary
 
-AI-enhanced tools for allocating public funds based on citizen input.
+AI tools that process citizen proposals and voting data to help allocate public budgets
 
 ## Description
 

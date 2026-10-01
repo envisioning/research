@@ -2,7 +2,8 @@
 slug: cognitive-liberty-rights
 hub: liminal
 title: Cognitive Liberty Rights
-summary: Legal frameworks protecting neural data and thought privacy.
+summary: Legal frameworks protecting neural data, mental privacy, and freedom of thought
+  from neurotechnology
 permalink: https://www.envisioning.com/liminal/cognitive-liberty-rights
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124506/limin
 
 ## Summary
 
-Legal frameworks protecting neural data and thought privacy.
+Legal frameworks protecting neural data, mental privacy, and freedom of thought from neurotechnology
 
 ## Description
 

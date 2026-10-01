@@ -2,7 +2,8 @@
 slug: algorithmic-transparency-auditing
 hub: vortex
 title: Algorithmic Transparency & Auditing
-summary: Tools to explain and validate recommendation decisions.
+summary: Methods to inspect and verify how streaming platforms decide what content
+  to recommend
 permalink: https://www.envisioning.com/vortex/algorithmic-transparency-auditing
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177973/vorte
 
 ## Summary
 
-Tools to explain and validate recommendation decisions.
+Methods to inspect and verify how streaming platforms decide what content to recommend
 
 ## Description
 

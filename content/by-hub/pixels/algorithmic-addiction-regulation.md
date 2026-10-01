@@ -2,7 +2,8 @@
 slug: algorithmic-addiction-regulation
 hub: pixels
 title: Algorithmic Addiction Regulation
-summary: Limits on variable ratio reinforcement schedules based on biometrics.
+summary: Policy frameworks that cap AI-driven engagement loops and reward mechanics
+  in games
 permalink: https://www.envisioning.com/pixels/algorithmic-addiction-regulation
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011727/pixel
 
 ## Summary
 
-Limits on variable ratio reinforcement schedules based on biometrics.
+Policy frameworks that cap AI-driven engagement loops and reward mechanics in games
 
 ## Description
 

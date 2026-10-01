@@ -2,7 +2,8 @@
 slug: cryptographic-acceleration-chips
 hub: lattice
 title: Cryptographic Acceleration Chips
-summary: ASICs and neuromorphic cores optimized for ZK-SNARK/STARK proving and MPC.
+summary: Specialized hardware that accelerates zero-knowledge proofs and encrypted
+  computation
 permalink: https://www.envisioning.com/lattice/cryptographic-acceleration-chips
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990422/flows
 
 ## Summary
 
-ASICs and neuromorphic cores optimized for ZK-SNARK/STARK proving and MPC.
+Specialized hardware that accelerates zero-knowledge proofs and encrypted computation
 
 ## Description
 

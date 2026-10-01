@@ -2,8 +2,8 @@
 slug: gestao-subempreiteiros-mao-obra-temporaria
 hub: moradia
 title: Plataformas de Gestão de Subempreiteiros
-summary: Marketplaces e sistemas de avaliação/pagamento para conectar obras a equipes
-  especializadas, reduzindo informalidade.
+summary: Marketplaces digitais que conectam obras a subempreiteiros qualificados com
+  avaliações e pagamentos integrados
 permalink: https://www.envisioning.com/moradia/gestao-subempreiteiros-mao-obra-temporaria
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570552/habit
 
 ## Summary
 
-Marketplaces e sistemas de avaliação/pagamento para conectar obras a equipes especializadas, reduzindo informalidade.
+Marketplaces digitais que conectam obras a subempreiteiros qualificados com avaliações e pagamentos integrados
 
 ## Description
 

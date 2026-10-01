@@ -2,8 +2,8 @@
 slug: gemeos-digitais-ambiente-construido
 hub: moradia
 title: Gêmeos Digitais do Ambiente Construído
-summary: Réplicas digitais que simulam e monitoram obras, edifícios e distritos em
-  tempo real, desde construção até operação.
+summary: Réplicas virtuais de obras e edifícios que se atualizam em tempo real com
+  dados de sensores e sistemas
 permalink: https://www.envisioning.com/moradia/gemeos-digitais-ambiente-construido
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328256/forma
 
 ## Summary
 
-Réplicas digitais que simulam e monitoram obras, edifícios e distritos em tempo real, desde construção até operação.
+Réplicas virtuais de obras e edifícios que se atualizam em tempo real com dados de sensores e sistemas
 
 ## Description
 

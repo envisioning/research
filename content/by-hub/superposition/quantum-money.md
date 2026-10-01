@@ -2,7 +2,7 @@
 slug: quantum-money
 hub: superposition
 title: Quantum Money
-summary: Unforgeable digital tokens secured by the No-Cloning Theorem.
+summary: Uncopyable digital currency using quantum states that cannot be cloned
 permalink: https://www.envisioning.com/superposition/quantum-money
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181057/super
 
 ## Summary
 
-Unforgeable digital tokens secured by the No-Cloning Theorem.
+Uncopyable digital currency using quantum states that cannot be cloned
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: autonomous-inspection-robots
 hub: forge
 title: Autonomous Inspection Robots
-summary: Mobile robots and drones performing continuous facility and asset monitoring.
+summary: Mobile robots and drones that monitor industrial facilities and equipment
+  autonomously
 permalink: https://www.envisioning.com/forge/autonomous-inspection-robots
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177685/forge
 
 ## Summary
 
-Mobile robots and drones performing continuous facility and asset monitoring.
+Mobile robots and drones that monitor industrial facilities and equipment autonomously
 
 ## Description
 

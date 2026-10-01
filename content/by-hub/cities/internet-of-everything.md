@@ -2,15 +2,10 @@
 slug: internet-of-everything
 hub: cities
 title: Internet of Everything
-summary: This technological framework expands on the Internet of Things (IoT) by encompassing
-  all elements within a city—people, processes, data, and things—facilitating efficient
-  communication and data exchange. IoE embeds sensors and communication technologies
-  into everyday objects and systems, enabling real-time data collection and automation.
-  This connectivity enhances urban infrastructure by optimising energy management,
-  improving public transportation, and bolstering healthcare services through remote
-  monitoring.
+summary: Connects people, processes, data, and devices across urban infrastructure
+  for real-time coordination
 permalink: https://www.envisioning.com/cities/internet-of-everything
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: applications
 trl: 7
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792573-internet-of-everythi
 
 ## Summary
 
-This technological framework expands on the Internet of Things (IoT) by encompassing all elements within a city—people, processes, data, and things—facilitating efficient communication and data exchange. IoE embeds sensors and communication technologies into everyday objects and systems, enabling real-time data collection and automation. This connectivity enhances urban infrastructure by optimising energy management, improving public transportation, and bolstering healthcare services through remote monitoring.
+Connects people, processes, data, and devices across urban infrastructure for real-time coordination
 
 ## Description
 

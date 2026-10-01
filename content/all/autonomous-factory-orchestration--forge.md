@@ -2,8 +2,8 @@
 slug: autonomous-factory-orchestration
 hub: forge
 title: Autonomous Factory Orchestration Platforms
-summary: AI-driven systems that coordinate machines, labor, and material flows across
-  the plant.
+summary: AI systems that dynamically coordinate machines, workers, and materials across
+  manufacturing facilities
 permalink: https://www.envisioning.com/forge/autonomous-factory-orchestration
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111449/forge
 
 ## Summary
 
-AI-driven systems that coordinate machines, labor, and material flows across the plant.
+AI systems that dynamically coordinate machines, workers, and materials across manufacturing facilities
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: dao-governance-stacks
 hub: synapse
 title: DAO Governance Stacks
-summary: Blockchain-based protocols for decentralized decision-making and ownership.
+summary: Blockchain protocols that distribute organizational control through token-based
+  voting and smart contracts
 permalink: https://www.envisioning.com/synapse/dao-governance-stacks
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126519/synap
 
 ## Summary
 
-Blockchain-based protocols for decentralized decision-making and ownership.
+Blockchain protocols that distribute organizational control through token-based voting and smart contracts
 
 ## Description
 

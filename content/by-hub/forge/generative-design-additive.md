@@ -2,7 +2,8 @@
 slug: generative-design-additive
 hub: forge
 title: Generative Design for Additive
-summary: AI-driven design processes that create optimal geometries for 3D printing.
+summary: AI algorithms that generate optimized part geometries based on manufacturing
+  constraints and performance goals
 permalink: https://www.envisioning.com/forge/generative-design-additive
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120065/forge
 
 ## Summary
 
-AI-driven design processes that create optimal geometries for 3D printing.
+AI algorithms that generate optimized part geometries based on manufacturing constraints and performance goals
 
 ## Description
 

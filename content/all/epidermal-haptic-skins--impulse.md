@@ -2,7 +2,8 @@
 slug: epidermal-haptic-skins
 hub: impulse
 title: Epidermal Haptic Skins
-summary: Ultra-thin, flexible wearable interfaces.
+summary: Ultra-thin wearable interfaces that bond to skin to deliver tactile feedback
+  and sensory input
 permalink: https://www.envisioning.com/impulse/epidermal-haptic-skins
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133454/impul
 
 ## Summary
 
-Ultra-thin, flexible wearable interfaces.
+Ultra-thin wearable interfaces that bond to skin to deliver tactile feedback and sensory input
 
 ## Description
 

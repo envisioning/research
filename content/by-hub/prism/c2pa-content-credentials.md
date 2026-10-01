@@ -2,7 +2,8 @@
 slug: c2pa-content-credentials
 hub: prism
 title: C2PA / Content Credentials
-summary: Open technical standard for digital content provenance and authenticity.
+summary: Tamper-evident metadata standard that tracks how digital media was created
+  and edited
 permalink: https://www.envisioning.com/prism/c2pa-content-credentials
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062712/pulse
 
 ## Summary
 
-Open technical standard for digital content provenance and authenticity.
+Tamper-evident metadata standard that tracks how digital media was created and edited
 
 ## Description
 

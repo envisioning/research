@@ -2,7 +2,8 @@
 slug: reality-capture-bim
 hub: habitat
 title: Reality Capture & 4D/5D BIM
-summary: Continuous site scanning linked to BIM for schedule and cost intelligence.
+summary: Automated site scanning integrated with BIM models to track construction
+  progress, schedules, and costs in real time
 permalink: https://www.envisioning.com/habitat/reality-capture-bim
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117948/habit
 
 ## Summary
 
-Continuous site scanning linked to BIM for schedule and cost intelligence.
+Automated site scanning integrated with BIM models to track construction progress, schedules, and costs in real time
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: self-optimizing-lines
 hub: forge
 title: Self-Optimizing Production Lines
-summary: AI-driven manufacturing lines that autonomously adjust for maximum efficiency.
+summary: Manufacturing systems that continuously adjust their own parameters to maximize
+  output and minimize waste
 permalink: https://www.envisioning.com/forge/self-optimizing-lines
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117887/forge
 
 ## Summary
 
-AI-driven manufacturing lines that autonomously adjust for maximum efficiency.
+Manufacturing systems that continuously adjust their own parameters to maximize output and minimize waste
 
 ## Description
 

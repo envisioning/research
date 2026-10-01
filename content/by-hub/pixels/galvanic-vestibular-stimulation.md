@@ -2,7 +2,8 @@
 slug: galvanic-vestibular-stimulation
 hub: pixels
 title: Galvanic Vestibular Stimulation (GVS)
-summary: Inducing sensations of acceleration and tilt directly in the inner ear.
+summary: Electrical stimulation of inner-ear balance organs to create motion sensations
+  in VR
 permalink: https://www.envisioning.com/pixels/galvanic-vestibular-stimulation
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062003/pixel
 
 ## Summary
 
-Inducing sensations of acceleration and tilt directly in the inner ear.
+Electrical stimulation of inner-ear balance organs to create motion sensations in VR
 
 ## Description
 

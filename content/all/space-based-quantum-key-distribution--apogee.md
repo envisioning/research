@@ -2,7 +2,8 @@
 slug: space-based-quantum-key-distribution
 hub: apogee
 title: Space-Based Quantum Key Distribution (QKD)
-summary: Satellite networks distributing un-hackable encryption keys globally.
+summary: Satellite networks distributing quantum-encrypted keys that detect interception
+  attempts
 permalink: https://www.envisioning.com/apogee/space-based-quantum-key-distribution
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011585/apoge
 
 ## Summary
 
-Satellite networks distributing un-hackable encryption keys globally.
+Satellite networks distributing quantum-encrypted keys that detect interception attempts
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: circular-vertical-farming
 hub: horizons
 title: Circular Vertical Farming
-summary: Sustainable indoor farming with closed-loop resource recycling.
+summary: Indoor farming using stacked layers, closed-loop recycling, and optimized
+  light exposure
 permalink: https://www.envisioning.com/horizons/circular-vertical-farming
-collection: energy-environment
+collection: applications
 trl: 7
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526129/horiz
 
 ## Summary
 
-Sustainable indoor farming with closed-loop resource recycling.
+Indoor farming using stacked layers, closed-loop recycling, and optimized light exposure
 
 ## Description
 

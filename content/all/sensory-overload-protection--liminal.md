@@ -2,7 +2,8 @@
 slug: sensory-overload-protection
 hub: liminal
 title: Sensory Overload Protection
-summary: Safety protocols limiting haptic and visual intensity.
+summary: Intelligent systems that monitor and limit XR stimulus intensity to prevent
+  user harm
 permalink: https://www.envisioning.com/liminal/sensory-overload-protection
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124553/limin
 
 ## Summary
 
-Safety protocols limiting haptic and visual intensity.
+Intelligent systems that monitor and limit XR stimulus intensity to prevent user harm
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: borg-nanoprobes
 hub: subspace
 title: Borg Nanoprobes
-summary: Microscopic machines used for assimilation, medical applications, and technological
-  integration.
+summary: Self-replicating nanomachines that alter biology at the cellular level for
+  assimilation and cybernetic integration
 permalink: https://www.envisioning.com/subspace/borg-nanoprobes
 collection: biotechnology
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216130/subspaceindex/technologies/borg-nanoprobes.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907579/subspace/technologies/borg-nanoprobes-openrouter-google-gemini-3.1-flash-image-preview-ghem0m.png
 ---
 
 # Borg Nanoprobes
 
 ## Summary
 
-Microscopic machines used for assimilation, medical applications, and technological integration.
+Self-replicating nanomachines that alter biology at the cellular level for assimilation and cybernetic integration
 
 ## Description
 

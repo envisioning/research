@@ -2,7 +2,7 @@
 slug: synthetic-companions
 hub: soma
 title: Synthetic Companions
-summary: AI-driven agents addressing loneliness and social isolation.
+summary: AI agents designed to provide emotional connection and combat social isolation
 permalink: https://www.envisioning.com/soma/synthetic-companions
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177984/soma/
 
 ## Summary
 
-AI-driven agents addressing loneliness and social isolation.
+AI agents designed to provide emotional connection and combat social isolation
 
 ## Description
 

@@ -2,10 +2,8 @@
 slug: cadeia-cimento-concreto-baixo-carbono
 hub: moradia
 title: Cadeia de Cimento e Concreto de Baixo Carbono
-summary: Sistema integrado de materiais cimentícios de baixo carbono que abrange cimentos
-  alternativos (LC3, geopolímeros), concretos de baixo carbono, concretos autocompactáveis,
-  concretos fotocatalíticos, agregados reciclados de RCD e outros materiais reciclados,
-  criando uma cadeia de materiais focada em ciclo de vida e baixo carbono.
+summary: Materiais cimentícios com emissões reduzidas através de formulações alternativas
+  e reciclagem
 permalink: https://www.envisioning.com/moradia/cadeia-cimento-concreto-baixo-carbono
 collection: materiais-componentes
 trl: null
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326668/forma
 
 ## Summary
 
-Sistema integrado de materiais cimentícios de baixo carbono que abrange cimentos alternativos (LC3, geopolímeros), concretos de baixo carbono, concretos autocompactáveis, concretos fotocatalíticos, agregados reciclados de RCD e outros materiais reciclados, criando uma cadeia de materiais focada em ciclo de vida e baixo carbono.
+Materiais cimentícios com emissões reduzidas através de formulações alternativas e reciclagem
 
 ## Description
 

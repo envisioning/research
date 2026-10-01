@@ -2,22 +2,21 @@
 slug: cognitive-data-recording-interfaces
 hub: xenotech
 title: Cognitive Recording
-summary: Memory-recording devices featuring headbands and helmets that read thoughts,
-  reported in entity encounters alongside emerging brain-computer interface and neural
-  recording technologies.
+summary: Devices that extract and record thoughts, memories, and cognitive data directly
+  from the brain
 permalink: https://www.envisioning.com/xenotech/cognitive-data-recording-interfaces
 collection: defense-surveillance
 trl: 4
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761735242/xenotech/technologies/cognitive-data-recording-interfaces.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897808/xenotech/technologies/cognitive-data-recording-interfaces-openrouter-google-gemini-3.1-flash-image-preview-t0v9bl.png
 ---
 
 # Cognitive Recording
 
 ## Summary
 
-Memory-recording devices featuring headbands and helmets that read thoughts, reported in entity encounters alongside emerging brain-computer interface and neural recording technologies.
+Devices that extract and record thoughts, memories, and cognitive data directly from the brain
 
 ## Description
 

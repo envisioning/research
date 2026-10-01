@@ -2,7 +2,8 @@
 slug: autonomous-threat-detection
 hub: aegis
 title: Autonomous Threat Detection
-summary: Deep-sensor pipelines spotting anomalies in communications and airspace.
+summary: AI-driven systems analyzing sensor data to identify security threats before
+  they escalate
 permalink: https://www.envisioning.com/aegis/autonomous-threat-detection
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996093/aegis
 
 ## Summary
 
-Deep-sensor pipelines spotting anomalies in communications and airspace.
+AI-driven systems analyzing sensor data to identify security threats before they escalate
 
 ## Description
 

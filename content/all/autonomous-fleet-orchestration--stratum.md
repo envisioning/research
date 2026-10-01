@@ -2,8 +2,8 @@
 slug: autonomous-fleet-orchestration
 hub: stratum
 title: Autonomous Fleet Orchestration Software
-summary: Real-time coordination layer for mixed fleets of autonomous and human-operated
-  equipment.
+summary: Coordinates mixed fleets of autonomous and human-operated mining equipment
+  in real time
 permalink: https://www.envisioning.com/stratum/autonomous-fleet-orchestration
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765135216/strat
 
 ## Summary
 
-Real-time coordination layer for mixed fleets of autonomous and human-operated equipment.
+Coordinates mixed fleets of autonomous and human-operated mining equipment in real time
 
 ## Description
 

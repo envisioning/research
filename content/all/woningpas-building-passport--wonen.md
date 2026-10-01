@@ -9,7 +9,7 @@ collection: innovation-solutions
 trl: 2
 impact: 4
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898488/wonen/technologies/9aef90c0-c611-4bff-9d75-5f384058eedf-google-gemini-3.1-flash-image-preview-p9us1d.png
 ---
 
 # Woningpas (Building Passport)

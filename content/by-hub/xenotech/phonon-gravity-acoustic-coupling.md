@@ -2,21 +2,21 @@
 slug: phonon-gravity-acoustic-coupling
 hub: xenotech
 title: Phonon Coupling
-summary: Theoretical acoustic resonance structures proposed to transduce mechanical
-  vibrations into gravitational field perturbations.
+summary: Using acoustic resonance in materials to interact with or generate gravitational
+  effects
 permalink: https://www.envisioning.com/xenotech/phonon-gravity-acoustic-coupling
 collection: propulsion-physics
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760813502/xenotech/technologies/podkletnov-gravity-shield.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899168/xenotech/technologies/phonon-gravity-acoustic-coupling-openrouter-google-gemini-3.1-flash-image-preview-10602c.png
 ---
 
 # Phonon Coupling
 
 ## Summary
 
-Theoretical acoustic resonance structures proposed to transduce mechanical vibrations into gravitational field perturbations.
+Using acoustic resonance in materials to interact with or generate gravitational effects
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: neural-radiance-fields-streaming
 hub: pixels
 title: Neural Radiance Fields (NeRF) Streaming
-summary: Real-time photorealistic environment streaming from sparse data.
+summary: Streams photorealistic 3D environments by sending compact neural models instead
+  of heavy meshes
 permalink: https://www.envisioning.com/pixels/neural-radiance-fields-streaming
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062349/pixel
 
 ## Summary
 
-Real-time photorealistic environment streaming from sparse data.
+Streams photorealistic 3D environments by sending compact neural models instead of heavy meshes
 
 ## Description
 

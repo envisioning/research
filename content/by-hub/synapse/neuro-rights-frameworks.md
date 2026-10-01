@@ -2,7 +2,7 @@
 slug: neuro-rights-frameworks
 hub: synapse
 title: Neuro-Rights Frameworks
-summary: Technical and legal standards protecting mental privacy in the workplace.
+summary: Legal and technical standards protecting mental privacy from workplace neurotechnology
 permalink: https://www.envisioning.com/synapse/neuro-rights-frameworks
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127208/synap
 
 ## Summary
 
-Technical and legal standards protecting mental privacy in the workplace.
+Legal and technical standards protecting mental privacy from workplace neurotechnology
 
 ## Description
 

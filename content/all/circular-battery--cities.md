@@ -2,15 +2,10 @@
 slug: circular-battery
 hub: cities
 title: Circular Battery
-summary: 'This energy storage solution addresses critical issues related to energy
-  waste, resource scarcity, and environmental degradation. Unlike traditional batteries
-  that often end up in landfills, circular batteries are engineered for reuse, refurbishment,
-  and recycling, creating a closed-loop lifecycle that significantly reduces electronic
-  waste and the need for raw materials. These batteries store electricity from various
-  sources, including renewable energy, and upon reaching the end of their lifecycle,
-  they are disassembled, and valuable components are recovered and reused. '
+summary: Batteries designed for reuse, refurbishment, and recycling to minimize waste
+  and resource extraction
 permalink: https://www.envisioning.com/cities/circular-battery
-collection: Au6IBOOiQBKXrd5UVZfpGg
+collection: hardware
 trl: 7
 impact: 2
 investment: 1
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792643-circular-battery.png
 
 ## Summary
 
-This energy storage solution addresses critical issues related to energy waste, resource scarcity, and environmental degradation. Unlike traditional batteries that often end up in landfills, circular batteries are engineered for reuse, refurbishment, and recycling, creating a closed-loop lifecycle that significantly reduces electronic waste and the need for raw materials. These batteries store electricity from various sources, including renewable energy, and upon reaching the end of their lifecycle, they are disassembled, and valuable components are recovered and reused.
+Batteries designed for reuse, refurbishment, and recycling to minimize waste and resource extraction
 
 ## Description
 

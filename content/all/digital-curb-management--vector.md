@@ -2,7 +2,8 @@
 slug: digital-curb-management
 hub: vector
 title: Digital Curb Management
-summary: AI-driven platforms dynamically allocating curb space for delivery and transit.
+summary: AI platforms that dynamically allocate curb space for deliveries, transit,
+  and ride-hailing
 permalink: https://www.envisioning.com/vector/digital-curb-management
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177587/vecto
 
 ## Summary
 
-AI-driven platforms dynamically allocating curb space for delivery and transit.
+AI platforms that dynamically allocate curb space for deliveries, transit, and ride-hailing
 
 ## Description
 

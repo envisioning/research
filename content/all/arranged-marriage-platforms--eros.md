@@ -2,7 +2,8 @@
 slug: arranged-marriage-platforms
 hub: eros
 title: Arranged Marriage & Family Matchmaking Platforms
-summary: Digital systems for family-mediated partner selection across cultures.
+summary: Digital platforms enabling family-involved partner selection based on cultural,
+  social, and compatibility criteria
 permalink: https://www.envisioning.com/eros/arranged-marriage-platforms
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125522/eros/
 
 ## Summary
 
-Digital systems for family-mediated partner selection across cultures.
+Digital platforms enabling family-involved partner selection based on cultural, social, and compatibility criteria
 
 ## Description
 

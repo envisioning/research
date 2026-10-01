@@ -2,7 +2,8 @@
 slug: privacy-preserving-network-analytics
 hub: link
 title: Privacy-Preserving Network Analytics
-summary: Analytics on network data without exposing individual users.
+summary: Analyzing telecom traffic patterns while protecting individual user identities
+  and behaviors
 permalink: https://www.envisioning.com/link/privacy-preserving-network-analytics
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179289/link/
 
 ## Summary
 
-Analytics on network data without exposing individual users.
+Analyzing telecom traffic patterns while protecting individual user identities and behaviors
 
 ## Description
 

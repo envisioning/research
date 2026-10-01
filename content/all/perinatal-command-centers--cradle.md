@@ -2,7 +2,8 @@
 slug: perinatal-command-centers
 hub: cradle
 title: Perinatal Command Centers
-summary: System-level coordination of pregnancies and births.
+summary: Centralized hubs coordinating maternal and neonatal care across hospital
+  networks
 permalink: https://www.envisioning.com/cradle/perinatal-command-centers
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131002/cradl
 
 ## Summary
 
-System-level coordination of pregnancies and births.
+Centralized hubs coordinating maternal and neonatal care across hospital networks
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: generative-cultural-agents
 hub: soma
 title: Generative Cultural Agents
-summary: AI generating cultural artifacts based on patterns and interaction.
+summary: AI systems that autonomously create art, music, stories, and social patterns
+  from cultural data
 permalink: https://www.envisioning.com/soma/generative-cultural-agents
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132969/soma/
 
 ## Summary
 
-AI generating cultural artifacts based on patterns and interaction.
+AI systems that autonomously create art, music, stories, and social patterns from cultural data
 
 ## Description
 

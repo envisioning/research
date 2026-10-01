@@ -2,7 +2,7 @@
 slug: voice-cloning-governance
 hub: beacon
 title: Voice Cloning Governance Systems
-summary: Detection and regulation of synthetic voice use.
+summary: Frameworks to detect, verify, and regulate synthetic voice reproductions
 permalink: https://www.envisioning.com/beacon/voice-cloning-governance
 collection: ethics-security
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125016/beaco
 
 ## Summary
 
-Detection and regulation of synthetic voice use.
+Frameworks to detect, verify, and regulate synthetic voice reproductions
 
 ## Description
 

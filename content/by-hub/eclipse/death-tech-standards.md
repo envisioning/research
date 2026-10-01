@@ -2,7 +2,8 @@
 slug: death-tech-standards
 hub: eclipse
 title: Death Tech Standards & Certification
-summary: Certification schemes for transparency, ecology, and fairness in death tech.
+summary: Industry standards ensuring ethical practices, data protection, and environmental
+  claims in end-of-life technologies
 permalink: https://www.envisioning.com/eclipse/death-tech-standards
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435285/eclip
 
 ## Summary
 
-Certification schemes for transparency, ecology, and fairness in death tech.
+Industry standards ensuring ethical practices, data protection, and environmental claims in end-of-life technologies
 
 ## Description
 

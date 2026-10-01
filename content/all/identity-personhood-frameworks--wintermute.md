@@ -2,7 +2,8 @@
 slug: identity-personhood-frameworks
 hub: wintermute
 title: Identity, Personhood & Rights Frameworks
-summary: Determining when synthetic minds qualify for agency or moral consideration.
+summary: Legal and ethical frameworks for determining AI agency, autonomy, and moral
+  status
 permalink: https://www.envisioning.com/wintermute/identity-personhood-frameworks
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763986417/winte
 
 ## Summary
 
-Determining when synthetic minds qualify for agency or moral consideration.
+Legal and ethical frameworks for determining AI agency, autonomy, and moral status
 
 ## Description
 

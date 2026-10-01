@@ -2,21 +2,21 @@
 slug: subspace-weapon
 hub: subspace
 title: Subspace Weapon
-summary: Banned technology that tears rifts in the fabric of subspace, causing permanent
-  spatial damage.
+summary: Weaponry that exploits higher-dimensional space vulnerabilities to cause
+  irreversible spatial damage
 permalink: https://www.envisioning.com/subspace/subspace-weapon
 collection: weapons
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760212724/subspaceindex/technologies/subspace-weapon.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909109/subspace/technologies/subspace-weapon-openrouter-google-gemini-3.1-flash-image-preview-ueebvq.png
 ---
 
 # Subspace Weapon
 
 ## Summary
 
-Banned technology that tears rifts in the fabric of subspace, causing permanent spatial damage.
+Weaponry that exploits higher-dimensional space vulnerabilities to cause irreversible spatial damage
 
 ## Description
 

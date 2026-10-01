@@ -2,7 +2,8 @@
 slug: biometric-processing
 hub: altitude
 title: Biometric Passenger Processing
-summary: Seamless identity verification balancing efficiency with privacy concerns.
+summary: Automated identity verification using facial recognition, fingerprints, or
+  iris scans at airport checkpoints
 permalink: https://www.envisioning.com/altitude/biometric-processing
 collection: ethics-security
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644348/altit
 
 ## Summary
 
-Seamless identity verification balancing efficiency with privacy concerns.
+Automated identity verification using facial recognition, fingerprints, or iris scans at airport checkpoints
 
 ## Description
 

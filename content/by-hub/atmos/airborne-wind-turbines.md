@@ -2,19 +2,21 @@
 slug: airborne-wind-turbines
 hub: atmos
 title: Airborne Wind Turbines
-summary: Wind power generation at higher altitudes via kites or tethered airborne systems.
+summary: Wind turbines that fly at high altitude on tethers to capture stronger, steadier
+  winds
 permalink: https://www.envisioning.com/atmos/airborne-wind-turbines
 collection: applications
 trl: 4
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774888927/atmos/technologies/62f21f93-5b8a-4983-b1a1-3f0c39d1136f-google-gemini-3.1-flash-image-preview-padx4r.jpg
 ---
 
 # Airborne Wind Turbines
 
 ## Summary
 
-Wind power generation at higher altitudes via kites or tethered airborne systems.
+Wind turbines that fly at high altitude on tethers to capture stronger, steadier winds
 
 ## Description
 

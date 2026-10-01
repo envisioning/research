@@ -2,9 +2,10 @@
 slug: explainable-artificial-intelligence-xai
 hub: horizons
 title: Explainable Artificial Intelligence (XAI)
-summary: AI systems that provide transparent, understandable reasoning.
+summary: AI systems designed to explain their decisions and reasoning in human-understandable
+  terms
 permalink: https://www.envisioning.com/horizons/explainable-artificial-intelligence-xai
-collection: intelligence-computation
+collection: software
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526845/horiz
 
 ## Summary
 
-AI systems that provide transparent, understandable reasoning.
+AI systems designed to explain their decisions and reasoning in human-understandable terms
 
 ## Description
 

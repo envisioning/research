@@ -2,7 +2,8 @@
 slug: cross-species-bonding-tech
 hub: eros
 title: Cross-Species Bonding Technologies
-summary: Interfaces for deeper connection with pets, animals, and nature.
+summary: Biosensors and AI that interpret animal behavior to strengthen human-animal
+  communication
 permalink: https://www.envisioning.com/eros/cross-species-bonding-tech
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124191/eros/
 
 ## Summary
 
-Interfaces for deeper connection with pets, animals, and nature.
+Biosensors and AI that interpret animal behavior to strengthen human-animal communication
 
 ## Description
 

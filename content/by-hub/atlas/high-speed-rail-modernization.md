@@ -2,7 +2,8 @@
 slug: high-speed-rail-modernization
 hub: atlas
 title: High-Speed Rail Modernization
-summary: Next-generation rail networks in emerging markets and cross-border corridors.
+summary: Advanced rail networks achieving 300+ km/h speeds for intercontinental passenger
+  travel
 permalink: https://www.envisioning.com/atlas/high-speed-rail-modernization
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125680/atlas
 
 ## Summary
 
-Next-generation rail networks in emerging markets and cross-border corridors.
+Advanced rail networks achieving 300+ km/h speeds for intercontinental passenger travel
 
 ## Description
 

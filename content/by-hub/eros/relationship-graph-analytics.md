@@ -2,7 +2,8 @@
 slug: relationship-graph-analytics
 hub: eros
 title: Relationship Graph Analytics
-summary: Systems that model and visualize an individual's social and intimacy networks.
+summary: Maps and analyzes your social connections using data from messages, calls,
+  and interactions
 permalink: https://www.envisioning.com/eros/relationship-graph-analytics
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124972/eros/
 
 ## Summary
 
-Systems that model and visualize an individual's social and intimacy networks.
+Maps and analyzes your social connections using data from messages, calls, and interactions
 
 ## Description
 

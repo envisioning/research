@@ -2,7 +2,8 @@
 slug: glocal-content-platforms
 hub: vortex
 title: Glocal Content Platforms
-summary: Regional storytelling with global distribution infrastructure.
+summary: Platforms that distribute region-specific stories globally using AI translation
+  and cultural adaptation
 permalink: https://www.envisioning.com/vortex/glocal-content-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127232/vorte
 
 ## Summary
 
-Regional storytelling with global distribution infrastructure.
+Platforms that distribute region-specific stories globally using AI translation and cultural adaptation
 
 ## Description
 

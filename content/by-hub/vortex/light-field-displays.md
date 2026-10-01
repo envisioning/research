@@ -2,7 +2,8 @@
 slug: light-field-displays
 hub: vortex
 title: Light Field Displays
-summary: Holographic 3D screens that require no eyewear.
+summary: Glasses-free 3D displays that recreate how light naturally travels from objects
+  in space
 permalink: https://www.envisioning.com/vortex/light-field-displays
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126395/vorte
 
 ## Summary
 
-Holographic 3D screens that require no eyewear.
+Glasses-free 3D displays that recreate how light naturally travels from objects in space
 
 ## Description
 

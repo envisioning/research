@@ -2,7 +2,8 @@
 slug: brain-computer-interface-communication
 hub: link
 title: Brain-Computer Interface Communication
-summary: Neural interfaces enabling thought-based control and communication.
+summary: Neural interfaces that translate brain signals into digital commands without
+  physical input
 permalink: https://www.envisioning.com/link/brain-computer-interface-communication
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441858/link/
 
 ## Summary
 
-Neural interfaces enabling thought-based control and communication.
+Neural interfaces that translate brain signals into digital commands without physical input
 
 ## Description
 

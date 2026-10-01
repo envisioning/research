@@ -2,7 +2,7 @@
 slug: augmentation-equity
 hub: cortex
 title: Augmentation Equity
-summary: Addressing the 'neuro-divide' between augmented and non-augmented.
+summary: Policies to prevent unequal access to cognitive enhancement technologies
 permalink: https://www.envisioning.com/cortex/augmentation-equity
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998515/corte
 
 ## Summary
 
-Addressing the 'neuro-divide' between augmented and non-augmented.
+Policies to prevent unequal access to cognitive enhancement technologies
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: neuro-adaptive-learning
 hub: impulse
 title: Neuro-Adaptive Learning Environments
-summary: Education platforms adjusting to cognitive load.
+summary: Educational platforms that adjust content difficulty and pacing based on
+  real-time cognitive load monitoring
 permalink: https://www.envisioning.com/impulse/neuro-adaptive-learning
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133855/impul
 
 ## Summary
 
-Education platforms adjusting to cognitive load.
+Educational platforms that adjust content difficulty and pacing based on real-time cognitive load monitoring
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: tokenized-rwa
 hub: vault
 title: Tokenized Real-World Assets
-summary: On-chain fractional ownership of tangible assets.
+summary: Blockchain-based digital tokens representing fractional ownership of physical
+  and financial assets
 permalink: https://www.envisioning.com/vault/tokenized-rwa
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128591/vault
 
 ## Summary
 
-On-chain fractional ownership of tangible assets.
+Blockchain-based digital tokens representing fractional ownership of physical and financial assets
 
 ## Description
 

@@ -2,9 +2,8 @@
 slug: edificios-uso-misto-resposta-pressoes-urbanas
 hub: moradia
 title: Edifícios de Uso Misto como Resposta a Pressões Urbanas
-summary: Combinação de programas residenciais e comerciais em um mesmo edifício como
-  estratégia para mitigar custo de terra, distribuir risco financeiro e responder
-  a mudanças nos padrões de uso urbano.
+summary: Combinação de usos residenciais e comerciais em um edifício para otimizar
+  terreno e diversificar receita
 permalink: https://www.envisioning.com/moradia/edificios-uso-misto-resposta-pressoes-urbanas
 collection: modelos-mercado-governanca
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766663502/habit
 
 ## Summary
 
-Combinação de programas residenciais e comerciais em um mesmo edifício como estratégia para mitigar custo de terra, distribuir risco financeiro e responder a mudanças nos padrões de uso urbano.
+Combinação de usos residenciais e comerciais em um edifício para otimizar terreno e diversificar receita
 
 ## Description
 

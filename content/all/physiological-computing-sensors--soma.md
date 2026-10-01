@@ -2,8 +2,8 @@
 slug: physiological-computing-sensors
 hub: soma
 title: Physiological Computing Sensors
-summary: Multi-parameter biosignal devices tracking HRV, GSR, respiration, and muscle
-  tension.
+summary: Sensors that measure heart rate, skin conductance, breathing, and muscle
+  tension to infer emotional and cognitive states
 permalink: https://www.envisioning.com/soma/physiological-computing-sensors
 collection: hardware
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133885/soma/
 
 ## Summary
 
-Multi-parameter biosignal devices tracking HRV, GSR, respiration, and muscle tension.
+Sensors that measure heart rate, skin conductance, breathing, and muscle tension to infer emotional and cognitive states
 
 ## Description
 

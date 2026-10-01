@@ -2,7 +2,7 @@
 slug: agri-food-blockchain
 hub: harvest
 title: Agri-Food Blockchain
-summary: Decentralized ledgers for provenance tracking.
+summary: Distributed ledger tracking food products from farm to table
 permalink: https://www.envisioning.com/harvest/agri-food-blockchain
 collection: software
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128065/harve
 
 ## Summary
 
-Decentralized ledgers for provenance tracking.
+Distributed ledger tracking food products from farm to table
 
 ## Description
 

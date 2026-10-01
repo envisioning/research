@@ -3,7 +3,6 @@ slug: open-data-commons-philanthropy
 hub: agape
 title: Open Data Commons for Philanthropic Intelligence
 summary: Open data commons for philanthropic intelligence, creating shared knowledge
-  infrastructure for the field.
 permalink: https://www.envisioning.com/agape/open-data-commons-philanthropy
 collection: knowledge-evidence-sensemaking
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371823/agape
 
 ## Summary
 
-Open data commons for philanthropic intelligence, creating shared knowledge infrastructure for the field.
+Open data commons for philanthropic intelligence, creating shared knowledge
 
 ## Description
 

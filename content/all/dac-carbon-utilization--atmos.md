@@ -2,7 +2,7 @@
 slug: dac-carbon-utilization
 hub: atmos
 title: Direct Air Capture & Utilization
-summary: Modular DAC skids integrated with conversion reactors.
+summary: Captures CO₂ from ambient air and converts it into fuels, materials, or chemicals
 permalink: https://www.envisioning.com/atmos/dac-carbon-utilization
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990601/atmos
 
 ## Summary
 
-Modular DAC skids integrated with conversion reactors.
+Captures CO₂ from ambient air and converts it into fuels, materials, or chemicals
 
 ## Description
 

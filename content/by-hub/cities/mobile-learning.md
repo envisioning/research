@@ -2,14 +2,10 @@
 slug: mobile-learning
 hub: cities
 title: Mobile Learning
-summary: M-learning provides a solution by leveraging mobile devices to deliver educational
-  content and resources anytime and anywhere, transcending the limitations of physical
-  classrooms. This technology utilises smartphones and tablets to offer interactive
-  lessons, real-time assessments, and multimedia content through dedicated apps and
-  web-based platforms. It ensures learning continuity during crises and supports vocational
-  training for economic recovery.
+summary: Educational content and assessments delivered via smartphones and tablets
+  for flexible, on-demand learning
 permalink: https://www.envisioning.com/cities/mobile-learning
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: applications
 trl: 9
 impact: 4
 investment: 3
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719216059-mobile-learning.png
 
 ## Summary
 
-M-learning provides a solution by leveraging mobile devices to deliver educational content and resources anytime and anywhere, transcending the limitations of physical classrooms. This technology utilises smartphones and tablets to offer interactive lessons, real-time assessments, and multimedia content through dedicated apps and web-based platforms. It ensures learning continuity during crises and supports vocational training for economic recovery.
+Educational content and assessments delivered via smartphones and tablets for flexible, on-demand learning
 
 ## Description
 

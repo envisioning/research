@@ -2,8 +2,8 @@
 slug: consent-management
 hub: sentinel
 title: Consent Management Platforms
-summary: Systems ensuring compliant, auditable user consent for data collection and
-  sharing.
+summary: Systems that capture, store, and enforce user consent for data collection
+  across digital platforms
 permalink: https://www.envisioning.com/sentinel/consent-management
 collection: applications
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461547/senti
 
 ## Summary
 
-Systems ensuring compliant, auditable user consent for data collection and sharing.
+Systems that capture, store, and enforce user consent for data collection across digital platforms
 
 ## Description
 

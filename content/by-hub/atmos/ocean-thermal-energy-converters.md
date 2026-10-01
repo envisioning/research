@@ -2,7 +2,8 @@
 slug: ocean-thermal-energy-converters
 hub: atmos
 title: Ocean Thermal Energy Conversion
-summary: Floating platforms tapping tropical temperature gradients.
+summary: Harvesting ocean temperature differences to generate continuous baseload
+  power
 permalink: https://www.envisioning.com/atmos/ocean-thermal-energy-converters
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764140580/atmos
 
 ## Summary
 
-Floating platforms tapping tropical temperature gradients.
+Harvesting ocean temperature differences to generate continuous baseload power
 
 ## Description
 

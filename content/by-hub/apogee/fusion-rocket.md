@@ -2,19 +2,21 @@
 slug: fusion-rocket
 hub: apogee
 title: Fusion Rocket
-summary: Spacecraft propulsion using fusion for fast interplanetary travel.
+summary: Spacecraft propulsion using controlled fusion reactions for faster interplanetary
+  missions
 permalink: https://www.envisioning.com/apogee/fusion-rocket
 collection: hardware
 trl: 2
 impact: 5
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886625/apogee/technologies/3607f73e-067f-4a8b-80a0-269331a78e7d-google-gemini-3.1-flash-image-preview-ev8q0b.png
 ---
 
 # Fusion Rocket
 
 ## Summary
 
-Spacecraft propulsion using fusion for fast interplanetary travel.
+Spacecraft propulsion using controlled fusion reactions for faster interplanetary missions
 
 ## Description
 

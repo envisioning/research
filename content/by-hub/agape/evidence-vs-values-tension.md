@@ -3,7 +3,6 @@ slug: evidence-vs-values-tension
 hub: agape
 title: Tension Between Evidence-Based & Values-Based Action
 summary: Tension between evidence-based and values-based action, as philanthropy navigates
-  what counts as legitimate justification.
 permalink: https://www.envisioning.com/agape/evidence-vs-values-tension
 collection: knowledge-evidence-sensemaking
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371847/agape
 
 ## Summary
 
-Tension between evidence-based and values-based action, as philanthropy navigates what counts as legitimate justification.
+Tension between evidence-based and values-based action, as philanthropy navigates
 
 ## Description
 

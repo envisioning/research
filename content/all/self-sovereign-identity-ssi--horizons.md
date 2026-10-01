@@ -2,9 +2,10 @@
 slug: self-sovereign-identity-ssi
 hub: horizons
 title: Self-Sovereign Identity (SSI)
-summary: Decentralized identity giving users control over their personal data.
+summary: Decentralized digital identity model where users own and control their credentials
+  without central authorities
 permalink: https://www.envisioning.com/horizons/self-sovereign-identity-ssi
-collection: society-culture
+collection: ethics-security
 trl: 5
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522025/horiz
 
 ## Summary
 
-Decentralized identity giving users control over their personal data.
+Decentralized digital identity model where users own and control their credentials without central authorities
 
 ## Description
 

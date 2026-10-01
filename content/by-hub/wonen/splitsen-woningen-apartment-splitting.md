@@ -9,7 +9,7 @@ collection: innovation-solutions
 trl: 2
 impact: 3
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889721/wonen/technologies/8b9ea9f0-c331-4957-90ea-65348af82129-google-gemini-3.1-flash-image-preview-ls0kgi.png
 ---
 
 # Splitsen van Woningen (Apartment Splitting)

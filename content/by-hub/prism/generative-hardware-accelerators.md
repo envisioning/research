@@ -2,8 +2,8 @@
 slug: generative-hardware-accelerators
 hub: prism
 title: Generative Hardware Accelerators
-summary: Specialized silicon architectures optimized for local execution of diffusion
-  and LLM models.
+summary: Specialized chips that run AI image, text, and audio models locally on phones
+  and cameras
 permalink: https://www.envisioning.com/prism/generative-hardware-accelerators
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062471/pulse
 
 ## Summary
 
-Specialized silicon architectures optimized for local execution of diffusion and LLM models.
+Specialized chips that run AI image, text, and audio models locally on phones and cameras
 
 ## Description
 

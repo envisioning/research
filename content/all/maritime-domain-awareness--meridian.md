@@ -2,7 +2,8 @@
 slug: maritime-domain-awareness
 hub: meridian
 title: Maritime Domain Awareness
-summary: Persistent monitoring of strategic waters.
+summary: Integrated surveillance systems tracking vessel movements and activities
+  across strategic waters
 permalink: https://www.envisioning.com/meridian/maritime-domain-awareness
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435119/merid
 
 ## Summary
 
-Persistent monitoring of strategic waters.
+Integrated surveillance systems tracking vessel movements and activities across strategic waters
 
 ## Description
 

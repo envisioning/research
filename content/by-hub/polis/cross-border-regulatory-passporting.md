@@ -2,7 +2,8 @@
 slug: cross-border-regulatory-passporting
 hub: polis
 title: Cross-Border Regulatory Passporting
-summary: Mutual recognition frameworks for regulatory compliance across jurisdictions.
+summary: Mutual recognition frameworks that let businesses use home-country licenses
+  across partner jurisdictions
 permalink: https://www.envisioning.com/polis/cross-border-regulatory-passporting
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127306/polis
 
 ## Summary
 
-Mutual recognition frameworks for regulatory compliance across jurisdictions.
+Mutual recognition frameworks that let businesses use home-country licenses across partner jurisdictions
 
 ## Description
 

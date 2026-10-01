@@ -2,7 +2,8 @@
 slug: skin-tone-matching-ai
 hub: aura
 title: Skin Tone Matching AI
-summary: Computer vision engines recommending foundation shades across undertones.
+summary: Computer vision that analyzes skin tone and undertone to recommend foundation
+  shades
 permalink: https://www.envisioning.com/aura/skin-tone-matching-ai
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060231/aura/
 
 ## Summary
 
-Computer vision engines recommending foundation shades across undertones.
+Computer vision that analyzes skin tone and undertone to recommend foundation shades
 
 ## Description
 

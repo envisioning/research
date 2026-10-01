@@ -2,7 +2,8 @@
 slug: provenance-tracking
 hub: sentinel
 title: Supply Chain & Document Provenance Tracking
-summary: End-to-end traceability of assets and documents to secure origin and integrity.
+summary: Immutable audit trails that verify the origin and journey of physical goods
+  and digital documents
 permalink: https://www.envisioning.com/sentinel/provenance-tracking
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461909/senti
 
 ## Summary
 
-End-to-end traceability of assets and documents to secure origin and integrity.
+Immutable audit trails that verify the origin and journey of physical goods and digital documents
 
 ## Description
 

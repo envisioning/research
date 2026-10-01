@@ -2,7 +2,7 @@
 slug: digital-twin-of-organization
 hub: synapse
 title: Digital Twin of Organization (DTO)
-summary: Simulation models for predicting the impact of organizational changes.
+summary: Real-time virtual replica of an organization's operations, teams, and workflows
 permalink: https://www.envisioning.com/synapse/digital-twin-of-organization
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126808/synap
 
 ## Summary
 
-Simulation models for predicting the impact of organizational changes.
+Real-time virtual replica of an organization's operations, teams, and workflows
 
 ## Description
 

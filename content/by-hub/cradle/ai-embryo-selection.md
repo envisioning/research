@@ -2,7 +2,8 @@
 slug: ai-embryo-selection
 hub: cradle
 title: AI Embryo Selection
-summary: Computer vision scoring of IVF embryos.
+summary: Deep learning algorithms that analyze time-lapse embryo images to predict
+  IVF success rates
 permalink: https://www.envisioning.com/cradle/ai-embryo-selection
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129144/cradl
 
 ## Summary
 
-Computer vision scoring of IVF embryos.
+Deep learning algorithms that analyze time-lapse embryo images to predict IVF success rates
 
 ## Description
 

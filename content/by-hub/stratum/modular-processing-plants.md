@@ -2,7 +2,8 @@
 slug: modular-processing-plants
 hub: stratum
 title: Modular and Containerized Processing Plants
-summary: Portable, scalable mineral processing units for remote and stranded deposits.
+summary: Shipping-container-sized mineral processing units deployable to remote mining
+  sites
 permalink: https://www.envisioning.com/stratum/modular-processing-plants
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133083/strat
 
 ## Summary
 
-Portable, scalable mineral processing units for remote and stranded deposits.
+Shipping-container-sized mineral processing units deployable to remote mining sites
 
 ## Description
 

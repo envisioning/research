@@ -2,7 +2,8 @@
 slug: power-to-x
 hub: grid
 title: Power-to-X (PtX) Fuels
-summary: Converting renewable electricity into synthetic fuels and chemical feedstocks.
+summary: Converting renewable electricity into synthetic fuels, hydrogen, and chemical
+  feedstocks for storage and transport
 permalink: https://www.envisioning.com/grid/power-to-x
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435883/grid/
 
 ## Summary
 
-Converting renewable electricity into synthetic fuels and chemical feedstocks.
+Converting renewable electricity into synthetic fuels, hydrogen, and chemical feedstocks for storage and transport
 
 ## Description
 

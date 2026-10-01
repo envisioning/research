@@ -2,7 +2,8 @@
 slug: algorithmic-energy-justice
 hub: grid
 title: Algorithmic Energy Justice
-summary: AI auditing to prevent bias in energy distribution and planning.
+summary: Auditing AI systems to ensure fair energy access and resource allocation
+  across communities
 permalink: https://www.envisioning.com/grid/algorithmic-energy-justice
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113855/grid/
 
 ## Summary
 
-AI auditing to prevent bias in energy distribution and planning.
+Auditing AI systems to ensure fair energy access and resource allocation across communities
 
 ## Description
 

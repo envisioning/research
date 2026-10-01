@@ -2,21 +2,21 @@
 slug: bearden-meg-scalar-weapons
 hub: xenotech
 title: Electromagnetic Generator
-summary: Thomas Bearden's claimed over-unity Motionless Electromagnetic Generator
-  and weaponized scalar wave systems.
+summary: Claimed over-unity energy devices and scalar wave weapons based on unconventional
+  electromagnetic theory
 permalink: https://www.envisioning.com/xenotech/bearden-meg-scalar-weapons
 collection: energy-systems
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760820280/xenotech/technologies/searl-effect-generator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898189/xenotech/technologies/bearden-meg-scalar-weapons-openrouter-google-gemini-3.1-flash-image-preview-925z6z.png
 ---
 
 # Electromagnetic Generator
 
 ## Summary
 
-Thomas Bearden's claimed over-unity Motionless Electromagnetic Generator and weaponized scalar wave systems.
+Claimed over-unity energy devices and scalar wave weapons based on unconventional electromagnetic theory
 
 ## Description
 

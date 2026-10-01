@@ -2,8 +2,8 @@
 slug: rotating-detonation-engines
 hub: apogee
 title: Rotating Detonation Rocket Engines (RDRE)
-summary: Pressure-gain combustion engines offering higher efficiency than traditional
-  rockets.
+summary: Continuous detonation waves in annular chambers for more efficient rocket
+  propulsion
 permalink: https://www.envisioning.com/apogee/rotating-detonation-engines
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180750/apoge
 
 ## Summary
 
-Pressure-gain combustion engines offering higher efficiency than traditional rockets.
+Continuous detonation waves in annular chambers for more efficient rocket propulsion
 
 ## Description
 

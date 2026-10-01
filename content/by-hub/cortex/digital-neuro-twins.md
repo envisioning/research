@@ -2,7 +2,8 @@
 slug: digital-neuro-twins
 hub: cortex
 title: Digital Neuro-Twins
-summary: Individualized computational models of neural dynamics.
+summary: Personalized brain simulations for testing treatments before applying them
+  to patients
 permalink: https://www.envisioning.com/cortex/digital-neuro-twins
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990863/corte
 
 ## Summary
 
-Individualized computational models of neural dynamics.
+Personalized brain simulations for testing treatments before applying them to patients
 
 ## Description
 

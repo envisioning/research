@@ -2,9 +2,10 @@
 slug: evtol-systems
 hub: horizons
 title: eVTOL Systems
-summary: Electric vertical takeoff aircraft for urban air mobility.
+summary: Electric aircraft enabling vertical takeoff and landing for short-range urban
+  transportation
 permalink: https://www.envisioning.com/horizons/evtol-systems
-collection: cities-mobility
+collection: hardware
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764527009/horiz
 
 ## Summary
 
-Electric vertical takeoff aircraft for urban air mobility.
+Electric aircraft enabling vertical takeoff and landing for short-range urban transportation
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: fault-tolerant-quantum-computing
 hub: superposition
 title: Fault-Tolerant Quantum Computing
-summary: Fault-tolerant quantum computing aims to enable reliable quantum computations
-  by correcting errors in real-time, crucial for scaling quantum processors.
+summary: Error correction systems enabling reliable quantum computations at scale
+  despite qubit noise
 permalink: https://www.envisioning.com/superposition/fault-tolerant-quantum-computing
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764669200/super
 
 ## Summary
 
-Fault-tolerant quantum computing aims to enable reliable quantum computations by correcting errors in real-time, crucial for scaling quantum processors.
+Error correction systems enabling reliable quantum computations at scale despite qubit noise
 
 ## Description
 

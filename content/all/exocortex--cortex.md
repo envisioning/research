@@ -2,19 +2,21 @@
 slug: exocortex
 hub: cortex
 title: Exocortex
-summary: External cognitive augmentation—hardware and software extending mental capacity.
+summary: External systems that extend memory, reasoning, and cognitive capacity beyond
+  the brain
 permalink: https://www.envisioning.com/cortex/exocortex
 collection: applications
 trl: 5
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889128/cortex/technologies/7282d479-a419-41eb-adfe-ee2c6debd510-google-gemini-3.1-flash-image-preview-jkmk02.jpg
 ---
 
 # Exocortex
 
 ## Summary
 
-External cognitive augmentation—hardware and software extending mental capacity.
+External systems that extend memory, reasoning, and cognitive capacity beyond the brain
 
 ## Description
 

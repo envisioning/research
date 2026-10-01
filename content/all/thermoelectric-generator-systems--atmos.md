@@ -2,7 +2,8 @@
 slug: thermoelectric-generator-systems
 hub: atmos
 title: Thermoelectric Generators
-summary: Solid-state modules converting industrial waste heat to electricity.
+summary: Solid-state devices converting waste heat from industrial processes into
+  electricity
 permalink: https://www.envisioning.com/atmos/thermoelectric-generator-systems
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764140603/atmos
 
 ## Summary
 
-Solid-state modules converting industrial waste heat to electricity.
+Solid-state devices converting waste heat from industrial processes into electricity
 
 ## Description
 

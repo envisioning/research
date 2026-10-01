@@ -2,7 +2,8 @@
 slug: full-stack-age-reversal-programs
 hub: aura
 title: Full-Stack Age Reversal Programs
-summary: Combined protocols targeting systemic and aesthetic aging.
+summary: Integrated protocols combining cellular, metabolic, and aesthetic interventions
+  to address aging holistically
 permalink: https://www.envisioning.com/aura/full-stack-age-reversal-programs
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998529/aura/
 
 ## Summary
 
-Combined protocols targeting systemic and aesthetic aging.
+Integrated protocols combining cellular, metabolic, and aesthetic interventions to address aging holistically
 
 ## Description
 

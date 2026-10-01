@@ -2,7 +2,8 @@
 slug: homomorphic-signatures
 hub: sentinel
 title: Homomorphic Signatures
-summary: Signatures allowing validation of computations on signed data without decryption.
+summary: Cryptographic signatures that remain valid after computations are performed
+  on signed data
 permalink: https://www.envisioning.com/sentinel/homomorphic-signatures
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463136/senti
 
 ## Summary
 
-Signatures allowing validation of computations on signed data without decryption.
+Cryptographic signatures that remain valid after computations are performed on signed data
 
 ## Description
 

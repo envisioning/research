@@ -2,7 +2,8 @@
 slug: algorithmic-governance
 hub: soma
 title: Algorithmic Governance
-summary: Systems for managing community rules in virtual societies.
+summary: Automated rule enforcement and decision-making systems for online communities
+  using smart contracts and AI
 permalink: https://www.envisioning.com/soma/algorithmic-governance
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133058/soma/
 
 ## Summary
 
-Systems for managing community rules in virtual societies.
+Automated rule enforcement and decision-making systems for online communities using smart contracts and AI
 
 ## Description
 

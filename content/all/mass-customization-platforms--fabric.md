@@ -2,7 +2,8 @@
 slug: mass-customization-platforms
 hub: fabric
 title: Mass Customization Manufacturing Platforms
-summary: Data-driven production lines enabling personalized sizing at scale.
+summary: Production systems that combine body data with flexible manufacturing to
+  create made-to-measure garments at scale
 permalink: https://www.envisioning.com/fabric/mass-customization-platforms
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059464/threa
 
 ## Summary
 
-Data-driven production lines enabling personalized sizing at scale.
+Production systems that combine body data with flexible manufacturing to create made-to-measure garments at scale
 
 ## Description
 

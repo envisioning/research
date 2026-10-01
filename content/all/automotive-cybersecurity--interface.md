@@ -2,20 +2,21 @@
 slug: automotive-cybersecurity
 hub: interface
 title: Automotive Cybersecurity
-summary: Advanced cybersecurity solutions for software-defined vehicles.
+summary: Multi-layered security protecting connected vehicles from cyber threats and
+  unauthorized access
 permalink: https://www.envisioning.com/interface/automotive-cybersecurity
-collection: consumer-electronics-platforms
+collection: applications
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887030/interface/technologies/481fc8de-1e68-4034-b48b-a28df54162c4-google-gemini-3.1-flash-image-preview-n08yqn.png
 ---
 
 # Automotive Cybersecurity
 
 ## Summary
 
-Advanced cybersecurity solutions for software-defined vehicles.
+Multi-layered security protecting connected vehicles from cyber threats and unauthorized access
 
 ## Description
 

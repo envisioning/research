@@ -2,7 +2,8 @@
 slug: itdr
 hub: sentinel
 title: Identity Threat Detection & Response
-summary: Real-time detection and mitigation of identity-based attacks and compromises.
+summary: Continuous monitoring and response system for identity-based security threats
+  across user credentials and access
 permalink: https://www.envisioning.com/sentinel/itdr
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463136/senti
 
 ## Summary
 
-Real-time detection and mitigation of identity-based attacks and compromises.
+Continuous monitoring and response system for identity-based security threats across user credentials and access
 
 ## Description
 

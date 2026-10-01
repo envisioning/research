@@ -2,9 +2,10 @@
 slug: crispr-cas9
 hub: horizons
 title: CRISPR-Cas9
-summary: Precise gene-editing tool for modifying DNA sequences.
+summary: Bacterial-derived system for cutting and editing DNA at precise locations
+  in living cells
 permalink: https://www.envisioning.com/horizons/crispr-cas9
-collection: life-health
+collection: hardware
 trl: 7
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526657/horiz
 
 ## Summary
 
-Precise gene-editing tool for modifying DNA sequences.
+Bacterial-derived system for cutting and editing DNA at precise locations in living cells
 
 ## Description
 

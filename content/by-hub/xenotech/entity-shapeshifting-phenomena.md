@@ -2,22 +2,21 @@
 slug: entity-shapeshifting-phenomena
 hub: xenotech
 title: Entity Shapeshifting Phenomena
-summary: Consistent reports of beings changing physical appearance in entity encounters,
-  abduction research, and cryptid sightings spanning multiple witness accounts and
-  cultural traditions.
+summary: Reports of beings rapidly changing physical form across paranormal encounters
+  and witness testimony
 permalink: https://www.envisioning.com/xenotech/entity-shapeshifting-phenomena
 collection: consciousness-interface
 trl: 3
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761682245/xenotech/technologies/entity-shapeshifting-phenomena.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898263/xenotech/technologies/entity-shapeshifting-phenomena-openrouter-google-gemini-3.1-flash-image-preview-7xg259.png
 ---
 
 # Entity Shapeshifting Phenomena
 
 ## Summary
 
-Consistent reports of beings changing physical appearance in entity encounters, abduction research, and cryptid sightings spanning multiple witness accounts and cultural traditions.
+Reports of beings rapidly changing physical form across paranormal encounters and witness testimony
 
 ## Description
 

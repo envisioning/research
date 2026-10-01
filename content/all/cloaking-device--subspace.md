@@ -2,20 +2,21 @@
 slug: cloaking-device
 hub: subspace
 title: Cloaking Device
-summary: Technology that renders a vessel undetectable to sensors and visual observation.
+summary: Systems that hide objects from sensors and sight by bending light and masking
+  emissions
 permalink: https://www.envisioning.com/subspace/cloaking-device
 collection: defense
 trl: 5
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760208143/subspaceindex/technologies/cloaking-device.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907658/subspace/technologies/cloaking-device-openrouter-google-gemini-3.1-flash-image-preview-dlvo41.png
 ---
 
 # Cloaking Device
 
 ## Summary
 
-Technology that renders a vessel undetectable to sensors and visual observation.
+Systems that hide objects from sensors and sight by bending light and masking emissions
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: cognitive-liberty-rights
 hub: pixels
 title: Cognitive Liberty Rights
-summary: Legal frameworks protecting neural data from game developers.
+summary: Legal protections for brain data collected through gaming interfaces
 permalink: https://www.envisioning.com/pixels/cognitive-liberty-rights
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011702/pixel
 
 ## Summary
 
-Legal frameworks protecting neural data from game developers.
+Legal protections for brain data collected through gaming interfaces
 
 ## Description
 

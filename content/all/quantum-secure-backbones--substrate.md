@@ -2,7 +2,8 @@
 slug: quantum-secure-backbones
 hub: substrate
 title: Quantum-Secure Communication Backbones
-summary: Backhaul networks hardened with quantum key distribution.
+summary: Network infrastructure protected against quantum computing threats using
+  quantum key distribution
 permalink: https://www.envisioning.com/substrate/quantum-secure-backbones
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117919/subst
 
 ## Summary
 
-Backhaul networks hardened with quantum key distribution.
+Network infrastructure protected against quantum computing threats using quantum key distribution
 
 ## Description
 

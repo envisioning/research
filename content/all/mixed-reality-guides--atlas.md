@@ -2,7 +2,8 @@
 slug: mixed-reality-guides
 hub: atlas
 title: Mixed Reality Cultural Guides
-summary: AR/MR overlays providing real-time translation, historical context, and navigation.
+summary: AR/MR overlays delivering real-time translation, historical context, and
+  navigation for travelers
 permalink: https://www.envisioning.com/atlas/mixed-reality-guides
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127110/atlas
 
 ## Summary
 
-AR/MR overlays providing real-time translation, historical context, and navigation.
+AR/MR overlays delivering real-time translation, historical context, and navigation for travelers
 
 ## Description
 

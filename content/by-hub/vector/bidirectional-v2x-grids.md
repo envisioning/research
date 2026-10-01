@@ -2,7 +2,8 @@
 slug: bidirectional-v2x-grids
 hub: vector
 title: Bidirectional V2X Grids
-summary: Vehicle-to-Everything systems allowing EVs to stabilize the power grid.
+summary: Two-way charging systems that let EVs supply power back to homes, buildings,
+  and the grid
 permalink: https://www.envisioning.com/vector/bidirectional-v2x-grids
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177585/vecto
 
 ## Summary
 
-Vehicle-to-Everything systems allowing EVs to stabilize the power grid.
+Two-way charging systems that let EVs supply power back to homes, buildings, and the grid
 
 ## Description
 

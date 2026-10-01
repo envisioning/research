@@ -3,7 +3,6 @@ slug: impact-measurement-fatigue
 hub: agape
 title: Impact Measurement Fatigue & Reporting Burden
 summary: Growing recognition that excessive impact measurement requirements burden
-  grantees and may not improve outcomes.
 permalink: https://www.envisioning.com/agape/impact-measurement-fatigue
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367765/agape
 
 ## Summary
 
-Growing recognition that excessive impact measurement requirements burden grantees and may not improve outcomes.
+Growing recognition that excessive impact measurement requirements burden
 
 ## Description
 

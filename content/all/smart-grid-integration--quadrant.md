@@ -2,7 +2,8 @@
 slug: smart-grid-integration
 hub: quadrant
 title: Smart Grid Integration
-summary: Bidirectional energy management for industrial facilities.
+summary: Bidirectional energy systems that let factories actively manage power flow
+  with the grid
 permalink: https://www.envisioning.com/quadrant/smart-grid-integration
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124007/quadr
 
 ## Summary
 
-Bidirectional energy management for industrial facilities.
+Bidirectional energy systems that let factories actively manage power flow with the grid
 
 ## Description
 

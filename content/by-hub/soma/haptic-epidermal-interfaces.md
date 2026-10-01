@@ -2,7 +2,8 @@
 slug: haptic-epidermal-interfaces
 hub: soma
 title: Haptic Epidermal Interfaces
-summary: Ultra-thin, skin-like sensors and actuators for realistic touch feedback.
+summary: Skin-adhered sensors and actuators that deliver touch, pressure, and thermal
+  feedback
 permalink: https://www.envisioning.com/soma/haptic-epidermal-interfaces
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132895/soma/
 
 ## Summary
 
-Ultra-thin, skin-like sensors and actuators for realistic touch feedback.
+Skin-adhered sensors and actuators that deliver touch, pressure, and thermal feedback
 
 ## Description
 

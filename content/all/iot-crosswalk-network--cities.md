@@ -2,15 +2,10 @@
 slug: iot-crosswalk-network
 hub: cities
 title: IoT Crosswalk Network
-summary: This solution integrates various IoT components, including sensors, cameras,
-  and smart traffic lights, to monitor and manage crosswalk activity in real-time.
-  When a pedestrian approaches a crosswalk, the sensors detect their presence and
-  communicate with traffic lights to ensure they turn red, stopping vehicles and allowing
-  safe passage. By leveraging real-time data and predictive algorithms, IoT Crosswalk
-  Networks not only reduce accidents but also improve traffic flow and promote accessibility
-  by adapting signal timings based on actual traffic conditions.
+summary: Connected sensors and traffic signals that detect pedestrians and adjust
+  crossing times in real-time
 permalink: https://www.envisioning.com/cities/iot-crosswalk-network
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: hardware
 trl: 7
 impact: 2
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718787874-iot-crosswalk-networ
 
 ## Summary
 
-This solution integrates various IoT components, including sensors, cameras, and smart traffic lights, to monitor and manage crosswalk activity in real-time. When a pedestrian approaches a crosswalk, the sensors detect their presence and communicate with traffic lights to ensure they turn red, stopping vehicles and allowing safe passage. By leveraging real-time data and predictive algorithms, IoT Crosswalk Networks not only reduce accidents but also improve traffic flow and promote accessibility by adapting signal timings based on actual traffic conditions.
+Connected sensors and traffic signals that detect pedestrians and adjust crossing times in real-time
 
 ## Description
 

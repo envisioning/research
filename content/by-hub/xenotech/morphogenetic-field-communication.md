@@ -2,21 +2,21 @@
 slug: morphogenetic-field-communication
 hub: xenotech
 title: Morphic Fields
-summary: Proposed information transfer through Sheldrake's morphogenetic fields enabling
-  species-wide knowledge sharing.
+summary: Hypothetical fields enabling organisms to share learned behaviors across
+  distances without physical contact
 permalink: https://www.envisioning.com/xenotech/morphogenetic-field-communication
 collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760823225/xenotech/technologies/morphogenetic-field-communication.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898919/xenotech/technologies/morphogenetic-field-communication-openrouter-google-gemini-3.1-flash-image-preview-ee7ldo.png
 ---
 
 # Morphic Fields
 
 ## Summary
 
-Proposed information transfer through Sheldrake's morphogenetic fields enabling species-wide knowledge sharing.
+Hypothetical fields enabling organisms to share learned behaviors across distances without physical contact
 
 ## Description
 

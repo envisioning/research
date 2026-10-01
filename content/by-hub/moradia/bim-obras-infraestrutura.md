@@ -2,8 +2,8 @@
 slug: bim-obras-infraestrutura
 hub: moradia
 title: BIM para Obras e Infraestrutura
-summary: Modelagem digital integrada de construção e infraestrutura com dimensões
-  de custo, ciclo de vida e gestão de ativos urbanos.
+summary: Modelagem digital integrada de edifícios e infraestrutura urbana com dados
+  de custo e ciclo de vida
 permalink: https://www.envisioning.com/moradia/bim-obras-infraestrutura
 collection: plataformas-dados
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328219/forma
 
 ## Summary
 
-Modelagem digital integrada de construção e infraestrutura com dimensões de custo, ciclo de vida e gestão de ativos urbanos.
+Modelagem digital integrada de edifícios e infraestrutura urbana com dados de custo e ciclo de vida
 
 ## Description
 

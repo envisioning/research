@@ -2,7 +2,8 @@
 slug: hardened-refuge-infrastructure
 hub: continuum
 title: Hardened Refuge Infrastructure
-summary: Global networks of deep, autonomous civilizational refuges.
+summary: Self-sustaining underground facilities designed to preserve civilization
+  through catastrophic events
 permalink: https://www.envisioning.com/continuum/hardened-refuge-infrastructure
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124412/conti
 
 ## Summary
 
-Global networks of deep, autonomous civilizational refuges.
+Self-sustaining underground facilities designed to preserve civilization through catastrophic events
 
 ## Description
 

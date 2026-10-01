@@ -2,22 +2,21 @@
 slug: nasa-eagleworks-warp-studies
 hub: xenotech
 title: Eagleworks Warp
-summary: Official NASA research program investigating practical implementation of
-  Alcubierre warp drive mechanics, plus relativistic analysis of UAP performance through
-  local spacetime manipulation.
+summary: NASA lab research into practical warp drive mechanics and spacetime manipulation
+  detection
 permalink: https://www.envisioning.com/xenotech/nasa-eagleworks-warp-studies
 collection: propulsion-physics
 trl: 2
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760983661/xenotech/technologies/nasa-eagleworks-warp-studies.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787787499/xenotech/technologies/nasa-eagleworks-warp-studies-imagegen-v1.png
 ---
 
 # Eagleworks Warp
 
 ## Summary
 
-Official NASA research program investigating practical implementation of Alcubierre warp drive mechanics, plus relativistic analysis of UAP performance through local spacetime manipulation.
+NASA lab research into practical warp drive mechanics and spacetime manipulation detection
 
 ## Description
 

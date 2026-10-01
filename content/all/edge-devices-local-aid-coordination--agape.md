@@ -3,7 +3,6 @@ slug: edge-devices-local-aid-coordination
 hub: agape
 title: Edge Devices for Local Aid Coordination
 summary: Distributed computing devices enabling offline and remote coordination of
-  aid delivery in areas with limited connectivity.
 permalink: https://www.envisioning.com/agape/edge-devices-local-aid-coordination
 collection: technology-infrastructure
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368030/agape
 
 ## Summary
 
-Distributed computing devices enabling offline and remote coordination of aid delivery in areas with limited connectivity.
+Distributed computing devices enabling offline and remote coordination of
 
 ## Description
 

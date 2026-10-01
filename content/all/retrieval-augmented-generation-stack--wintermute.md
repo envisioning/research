@@ -2,7 +2,8 @@
 slug: retrieval-augmented-generation-stack
 hub: wintermute
 title: Retrieval-Augmented Generation Stack
-summary: Tooling for grounded LLM answers over private corpora.
+summary: Combines LLMs with vector search to ground AI answers in verified sources
+  and reduce hallucinations
 permalink: https://www.envisioning.com/wintermute/retrieval-augmented-generation-stack
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080449/winte
 
 ## Summary
 
-Tooling for grounded LLM answers over private corpora.
+Combines LLMs with vector search to ground AI answers in verified sources and reduce hallucinations
 
 ## Description
 

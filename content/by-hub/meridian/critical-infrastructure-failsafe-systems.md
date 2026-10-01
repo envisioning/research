@@ -2,7 +2,8 @@
 slug: critical-infrastructure-failsafe-systems
 hub: meridian
 title: Critical Infrastructure Failsafe Systems
-summary: Graceful degradation under attack or failure.
+summary: Layered control systems that prevent single failures from cascading across
+  essential infrastructure networks
 permalink: https://www.envisioning.com/meridian/critical-infrastructure-failsafe-systems
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131152/merid
 
 ## Summary
 
-Graceful degradation under attack or failure.
+Layered control systems that prevent single failures from cascading across essential infrastructure networks
 
 ## Description
 

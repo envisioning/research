@@ -2,8 +2,8 @@
 slug: modern-data-stack
 hub: datatrends
 title: Modern Data Stack
-summary: Cloud-native, modular data infrastructure enabling faster analytics development
-  with best-of-breed tools for ingestion, transformation, and visualization.
+summary: Cloud-native, modular data infrastructure using specialized tools for ingestion,
+  storage, transformation, and visualizat
 permalink: https://www.envisioning.com/datatrends/modern-data-stack
 collection: agile-infrastructure
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730720/datat
 
 ## Summary
 
-Cloud-native, modular data infrastructure enabling faster analytics development with best-of-breed tools for ingestion, transformation, and visualization.
+Cloud-native, modular data infrastructure using specialized tools for ingestion, storage, transformation, and visualizat
 
 ## Description
 

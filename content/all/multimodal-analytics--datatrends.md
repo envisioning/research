@@ -2,8 +2,8 @@
 slug: multimodal-analytics
 hub: datatrends
 title: Multimodal Analytics
-summary: Analyzing and integrating multiple data types (text, images, audio, video)
-  to generate richer insights and enable new applications.
+summary: Integrating text, images, audio, and video data to uncover insights single-format
+  analysis would miss
 permalink: https://www.envisioning.com/datatrends/multimodal-analytics
 collection: decision-intelligence-ai
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593430/datat
 
 ## Summary
 
-Analyzing and integrating multiple data types (text, images, audio, video) to generate richer insights and enable new applications.
+Integrating text, images, audio, and video data to uncover insights single-format analysis would miss
 
 ## Description
 

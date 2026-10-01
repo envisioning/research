@@ -2,7 +2,8 @@
 slug: ritual-and-ceremony-design-tools
 hub: soma
 title: Ritual and Ceremony Design Tools
-summary: Frameworks for creating meaningful shared experiences in digital spaces.
+summary: Platforms for designing meaningful ceremonial experiences in virtual and
+  hybrid spaces
 permalink: https://www.envisioning.com/soma/ritual-and-ceremony-design-tools
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177862/soma/
 
 ## Summary
 
-Frameworks for creating meaningful shared experiences in digital spaces.
+Platforms for designing meaningful ceremonial experiences in virtual and hybrid spaces
 
 ## Description
 

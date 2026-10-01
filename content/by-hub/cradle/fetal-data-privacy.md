@@ -2,7 +2,7 @@
 slug: fetal-data-privacy
 hub: cradle
 title: Fetal Data Privacy
-summary: Protecting unborn biometric data.
+summary: Safeguarding genetic and biometric information collected before birth
 permalink: https://www.envisioning.com/cradle/fetal-data-privacy
 collection: ethics-security
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131120/cradl
 
 ## Summary
 
-Protecting unborn biometric data.
+Safeguarding genetic and biometric information collected before birth
 
 ## Description
 

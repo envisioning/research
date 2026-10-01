@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 6
 impact: 5
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774883149/agora/technologies/31a2ecec-f0a5-4dfb-bf6d-88ebb3cfea07-google-gemini-3.1-flash-image-preview-t078vl.jpg
 ---
 
 # Data Minimization & Purpose Limitation Controls

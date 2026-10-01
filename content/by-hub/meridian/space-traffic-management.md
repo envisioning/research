@@ -2,7 +2,8 @@
 slug: space-traffic-management
 hub: meridian
 title: Space Traffic Management
-summary: Coordination systems for orbital safety.
+summary: Coordination systems preventing satellite collisions and tracking debris
+  in Earth's orbit
 permalink: https://www.envisioning.com/meridian/space-traffic-management
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128678/merid
 
 ## Summary
 
-Coordination systems for orbital safety.
+Coordination systems preventing satellite collisions and tracking debris in Earth's orbit
 
 ## Description
 

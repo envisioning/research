@@ -2,7 +2,8 @@
 slug: neural-interface-headsets
 hub: liminal
 title: Neural Interface Headsets
-summary: XR headsets integrated with non-invasive Brain-Computer Interfaces (BCI).
+summary: XR headsets with built-in brain-computer interfaces for thought-based control
+  of virtual environments
 permalink: https://www.envisioning.com/liminal/neural-interface-headsets
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124343/limin
 
 ## Summary
 
-XR headsets integrated with non-invasive Brain-Computer Interfaces (BCI).
+XR headsets with built-in brain-computer interfaces for thought-based control of virtual environments
 
 ## Description
 

@@ -2,19 +2,21 @@
 slug: flywheel-energy-storage
 hub: atmos
 title: Flywheel Energy Storage
-summary: Kinetic energy storage in rotating mass for power quality and short-duration backup.
+summary: Stores energy in a spinning rotor for grid frequency regulation and short-duration
+  backup power
 permalink: https://www.envisioning.com/atmos/flywheel-energy-storage
 collection: applications
 trl: 7
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886742/atmos/technologies/3e2a82c2-73d2-460e-aab5-e35e17c05cec-google-gemini-3.1-flash-image-preview-rf8lr5.png
 ---
 
 # Flywheel Energy Storage
 
 ## Summary
 
-Kinetic energy storage in rotating mass for power quality and short-duration backup.
+Stores energy in a spinning rotor for grid frequency regulation and short-duration backup power
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: positronic-brain
 hub: subspace
 title: Positronic Brain
-summary: Advanced neural network based on positronic pathways enabling sentient artificial
-  intelligence.
+summary: Antimatter-based neural architecture theorized to enable conscious artificial
+  intelligence
 permalink: https://www.envisioning.com/subspace/positronic-brain
 collection: computing
 trl: 7
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760258709/subspaceindex/technologies/positronic-brain.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908745/subspace/technologies/positronic-brain-openrouter-google-gemini-3.1-flash-image-preview-8ed0a8.png
 ---
 
 # Positronic Brain
 
 ## Summary
 
-Advanced neural network based on positronic pathways enabling sentient artificial intelligence.
+Antimatter-based neural architecture theorized to enable conscious artificial intelligence
 
 ## Description
 

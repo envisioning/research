@@ -2,12 +2,13 @@
 slug: ai-powered-edge-sensors-for-indoor-accidents
 hub: interface
 title: AI-Powered Edge Sensors for Indoor Accidents
-summary: Sensors that detect and alert on indoor accidents using edge AI processing.
+summary: Cameras and sensors that detect falls, medical emergencies, and hazards indoors
+  using on-device AI
 permalink: https://www.envisioning.com/interface/ai-powered-edge-sensors-for-indoor-accidents
-collection: ambient-contextual-systems
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730940/interface/technologies/ai-powered-edge-sensors-for-indoor-accidents-google-gemini-3-pro-image-preview-aeby05.jpg
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730940/inter
 
 ## Summary
 
-Sensors that detect and alert on indoor accidents using edge AI processing.
+Cameras and sensors that detect falls, medical emergencies, and hazards indoors using on-device AI
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: therapeutic-game-interventions
 hub: pixels
 title: Therapeutic Game Interventions
-summary: Clinically validated games for mental health and neurorehabilitation.
+summary: Clinically validated games that treat ADHD, anxiety, and stroke recovery
+  through FDA-cleared mechanics
 permalink: https://www.envisioning.com/pixels/therapeutic-game-interventions
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011486/pixel
 
 ## Summary
 
-Clinically validated games for mental health and neurorehabilitation.
+Clinically validated games that treat ADHD, anxiety, and stroke recovery through FDA-cleared mechanics
 
 ## Description
 

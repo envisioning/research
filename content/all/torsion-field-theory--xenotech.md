@@ -2,22 +2,21 @@
 slug: torsion-field-theory
 hub: xenotech
 title: Torsion Field Theory
-summary: Speculative field theory proposing spacetime torsion as fundamental force
-  enabling consciousness-matter interaction, psychokinesis, and exotic propulsion
-  mechanisms.
+summary: Theoretical framework proposing spacetime torsion as a mechanism for consciousness-matter
+  interaction and exotic propuls
 permalink: https://www.envisioning.com/xenotech/torsion-field-theory
 collection: consciousness-interface
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761682370/xenotech/technologies/torsion-field-theory.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903387/xenotech/technologies/torsion-field-theory-openrouter-google-gemini-3.1-flash-image-preview-zmy3on.png
 ---
 
 # Torsion Field Theory
 
 ## Summary
 
-Speculative field theory proposing spacetime torsion as fundamental force enabling consciousness-matter interaction, psychokinesis, and exotic propulsion mechanisms.
+Theoretical framework proposing spacetime torsion as a mechanism for consciousness-matter interaction and exotic propuls
 
 ## Description
 

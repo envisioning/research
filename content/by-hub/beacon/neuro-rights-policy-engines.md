@@ -2,7 +2,7 @@
 slug: neuro-rights-policy-engines
 hub: beacon
 title: Neuro-Rights Policy Engines
-summary: Machine-readable constraints on brain-data use.
+summary: Automated enforcement of brain-data privacy rules and neuro-rights protections
 permalink: https://www.envisioning.com/beacon/neuro-rights-policy-engines
 collection: ethics-security
 trl: 2
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124465/beaco
 
 ## Summary
 
-Machine-readable constraints on brain-data use.
+Automated enforcement of brain-data privacy rules and neuro-rights protections
 
 ## Description
 

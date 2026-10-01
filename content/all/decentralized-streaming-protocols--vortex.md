@@ -2,7 +2,7 @@
 slug: decentralized-streaming-protocols
 hub: vortex
 title: Decentralized Streaming Protocols
-summary: Peer-to-peer content delivery networks.
+summary: Peer-to-peer networks that distribute video content without centralized servers
 permalink: https://www.envisioning.com/vortex/decentralized-streaming-protocols
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127186/vorte
 
 ## Summary
 
-Peer-to-peer content delivery networks.
+Peer-to-peer networks that distribute video content without centralized servers
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-accelerated-science-platforms
 hub: wintermute
 title: AI-Accelerated Science Platforms
-summary: Closed-loop labs where agents design, run, and interpret experiments.
+summary: Autonomous AI systems that design, execute, and analyze scientific experiments
+  in robotic labs
 permalink: https://www.envisioning.com/wintermute/ai-accelerated-science-platforms
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985726/winte
 
 ## Summary
 
-Closed-loop labs where agents design, run, and interpret experiments.
+Autonomous AI systems that design, execute, and analyze scientific experiments in robotic labs
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: structural-energy-storage-composites
 hub: altitude
 title: Structural Energy Storage Composites
-summary: Multifunctional airframe materials that double as batteries or supercapacitors.
+summary: Carbon fiber composites that store electrical energy while bearing structural
+  loads in aircraft
 permalink: https://www.envisioning.com/altitude/structural-energy-storage-composites
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649385/altit
 
 ## Summary
 
-Multifunctional airframe materials that double as batteries or supercapacitors.
+Carbon fiber composites that store electrical energy while bearing structural loads in aircraft
 
 ## Description
 

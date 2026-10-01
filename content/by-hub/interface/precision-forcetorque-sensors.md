@@ -2,21 +2,21 @@
 slug: precision-forcetorque-sensors
 hub: interface
 title: Precision Force/Torque Sensors
-summary: Advanced sensors for robotic applications requiring precise force and torque
-  measurement.
+summary: Sensors that measure forces and torques in robotics for safe, precise object
+  handling
 permalink: https://www.envisioning.com/interface/precision-forcetorque-sensors
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887392/interface/technologies/5ae16364-5408-4d7c-8d84-b5db1240378f-google-gemini-3.1-flash-image-preview-h9ivrk.jpg
 ---
 
 # Precision Force/Torque Sensors
 
 ## Summary
 
-Advanced sensors for robotic applications requiring precise force and torque measurement.
+Sensors that measure forces and torques in robotics for safe, precise object handling
 
 ## Description
 

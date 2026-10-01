@@ -2,9 +2,10 @@
 slug: space-based-solar-power
 hub: horizons
 title: Space-Based Solar Power
-summary: Orbital solar arrays beaming clean energy back to Earth.
+summary: Orbital solar arrays transmitting continuous clean energy to Earth via microwave
+  beams
 permalink: https://www.envisioning.com/horizons/space-based-solar-power
-collection: energy-environment
+collection: hardware
 trl: 3
 impact: 5
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521861/horiz
 
 ## Summary
 
-Orbital solar arrays beaming clean energy back to Earth.
+Orbital solar arrays transmitting continuous clean energy to Earth via microwave beams
 
 ## Description
 

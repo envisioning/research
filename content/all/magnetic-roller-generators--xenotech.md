@@ -2,21 +2,21 @@
 slug: magnetic-roller-generators
 hub: xenotech
 title: Magnetic Rollers
-summary: Rotating magnetic roller systems claimed to generate continuous power output
-  exceeding input energy and producing levitation effects through magnetic field interactions.
+summary: Rotating magnetic roller arrays claimed to produce over-unity power and levitation
+  through field interactions
 permalink: https://www.envisioning.com/xenotech/magnetic-roller-generators
 collection: energy-systems
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760820280/xenotech/technologies/searl-effect-generator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898638/xenotech/technologies/magnetic-roller-generators-openrouter-google-gemini-3.1-flash-image-preview-6jw178.png
 ---
 
 # Magnetic Rollers
 
 ## Summary
 
-Rotating magnetic roller systems claimed to generate continuous power output exceeding input energy and producing levitation effects through magnetic field interactions.
+Rotating magnetic roller arrays claimed to produce over-unity power and levitation through field interactions
 
 ## Description
 

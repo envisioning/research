@@ -2,7 +2,8 @@
 slug: neuro-augmentation-ethics
 hub: stride
 title: Neurotech & Augmentation Ethics
-summary: Guidelines for brain interfaces and assistive robotics in competitive sport.
+summary: Ethical frameworks for brain-computer interfaces and augmented prosthetics
+  in competitive athletics
 permalink: https://www.envisioning.com/stride/neuro-augmentation-ethics
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177952/strid
 
 ## Summary
 
-Guidelines for brain interfaces and assistive robotics in competitive sport.
+Ethical frameworks for brain-computer interfaces and augmented prosthetics in competitive athletics
 
 ## Description
 

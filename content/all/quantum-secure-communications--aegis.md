@@ -2,7 +2,7 @@
 slug: quantum-secure-communications
 hub: aegis
 title: Quantum-Secure Communications
-summary: Post-quantum cryptography stacks and quantum key distribution.
+summary: Encryption methods designed to withstand attacks from quantum computers
 permalink: https://www.envisioning.com/aegis/quantum-secure-communications
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996119/aegis
 
 ## Summary
 
-Post-quantum cryptography stacks and quantum key distribution.
+Encryption methods designed to withstand attacks from quantum computers
 
 ## Description
 

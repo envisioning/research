@@ -2,7 +2,8 @@
 slug: defense-exoskeletons
 hub: aegis
 title: Exoskeletons & Load-Bearing Augmentation
-summary: Powered exosuits reducing fatigue and enabling heavier protection.
+summary: Wearable robotic systems that reduce soldier fatigue and enable heavier armor
+  loads
 permalink: https://www.envisioning.com/aegis/defense-exoskeletons
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995670/aegis
 
 ## Summary
 
-Powered exosuits reducing fatigue and enabling heavier protection.
+Wearable robotic systems that reduce soldier fatigue and enable heavier armor loads
 
 ## Description
 

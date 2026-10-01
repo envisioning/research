@@ -2,7 +2,7 @@
 slug: post-quantum-cryptanalysis
 hub: superposition
 title: Post-Quantum Cryptanalysis Tools
-summary: Testing classical cryptographic algorithms against quantum attack vectors.
+summary: Software for testing encryption algorithms against quantum computer attacks
 permalink: https://www.envisioning.com/superposition/post-quantum-cryptanalysis
 collection: ethics-security
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181143/super
 
 ## Summary
 
-Testing classical cryptographic algorithms against quantum attack vectors.
+Software for testing encryption algorithms against quantum computer attacks
 
 ## Description
 

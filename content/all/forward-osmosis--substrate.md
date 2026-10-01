@@ -2,7 +2,8 @@
 slug: forward-osmosis
 hub: substrate
 title: Forward Osmosis Systems
-summary: Low-energy membrane processes using natural osmotic gradients.
+summary: Membrane water treatment driven by osmotic gradients instead of high-pressure
+  pumps
 permalink: https://www.envisioning.com/substrate/forward-osmosis
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118427/subst
 
 ## Summary
 
-Low-energy membrane processes using natural osmotic gradients.
+Membrane water treatment driven by osmotic gradients instead of high-pressure pumps
 
 ## Description
 

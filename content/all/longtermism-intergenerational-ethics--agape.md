@@ -3,7 +3,6 @@ slug: longtermism-intergenerational-ethics
 hub: agape
 title: Longtermism & Intergenerational Ethics Debates
 summary: Philosophical and practical debates about prioritizing future generations
-  and the ethics of longtermist philanthropy.
 permalink: https://www.envisioning.com/agape/longtermism-intergenerational-ethics
 collection: culture-values-narratives
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368491/agape
 
 ## Summary
 
-Philosophical and practical debates about prioritizing future generations and the ethics of longtermist philanthropy.
+Philosophical and practical debates about prioritizing future generations
 
 ## Description
 

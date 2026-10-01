@@ -2,7 +2,8 @@
 slug: regenerative-agriculture-mrv
 hub: harvest
 title: Regenerative Agriculture MRV
-summary: Monitoring, reporting, and verification for soil and biodiversity.
+summary: Verifying soil carbon, biodiversity, and water outcomes from regenerative
+  farming practices
 permalink: https://www.envisioning.com/harvest/regenerative-agriculture-mrv
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128577/harve
 
 ## Summary
 
-Monitoring, reporting, and verification for soil and biodiversity.
+Verifying soil carbon, biodiversity, and water outcomes from regenerative farming practices
 
 ## Description
 

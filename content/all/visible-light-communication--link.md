@@ -2,7 +2,8 @@
 slug: visible-light-communication
 hub: link
 title: Visible Light Communication (VLiFi)
-summary: High-speed data transmission using LED lighting infrastructure.
+summary: Data transmission through rapid LED light modulation invisible to the human
+  eye
 permalink: https://www.envisioning.com/link/visible-light-communication
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435079/link/
 
 ## Summary
 
-High-speed data transmission using LED lighting infrastructure.
+Data transmission through rapid LED light modulation invisible to the human eye
 
 ## Description
 

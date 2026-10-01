@@ -9,7 +9,7 @@ collection: innovation-solutions
 trl: 2
 impact: 5
 investment: 5
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898228/wonen/technologies/ad427024-470c-43bd-b69a-a49f7698b37e-google-gemini-3.1-flash-image-preview-hot6qa.png
 ---
 
 # Zorgwoningen (Care-Integrated Living)

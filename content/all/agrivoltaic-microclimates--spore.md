@@ -2,7 +2,8 @@
 slug: agrivoltaic-microclimates
 hub: spore
 title: Agrivoltaic Systems
-summary: Co-locating solar energy generation with crop production for mutual benefit.
+summary: Solar panels integrated into farmland to generate energy while protecting
+  crops beneath
 permalink: https://www.envisioning.com/spore/agrivoltaic-microclimates
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179621/spore
 
 ## Summary
 
-Co-locating solar energy generation with crop production for mutual benefit.
+Solar panels integrated into farmland to generate energy while protecting crops beneath
 
 ## Description
 

@@ -2,10 +2,7 @@
 slug: infraestrutura-redes-fluxo-nova-geracao
 hub: moradia
 title: Infraestrutura de Redes de Fluxo de Nova Geração
-summary: Sistemas integrados de redes de água, esgoto e dutos que combinam materiais
-  avançados (PEAD, PRFV) com métodos de instalação não-destrutivos (HDD, pipe bursting),
-  reduzindo perdas, corrosão, impacto urbano e aumentando durabilidade e vida útil
-  das redes.
+summary: Redes de água e esgoto com materiais resistentes e instalação sem escavação
 permalink: https://www.envisioning.com/moradia/infraestrutura-redes-fluxo-nova-geracao
 collection: cidade-infraestrutura-urbana
 trl: 4
@@ -18,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583524/habit
 
 ## Summary
 
-Sistemas integrados de redes de água, esgoto e dutos que combinam materiais avançados (PEAD, PRFV) com métodos de instalação não-destrutivos (HDD, pipe bursting), reduzindo perdas, corrosão, impacto urbano e aumentando durabilidade e vida útil das redes.
+Redes de água e esgoto com materiais resistentes e instalação sem escavação
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: shape-memory-alloy-textiles
 hub: fabric
 title: Shape-Memory Alloy Textiles
-summary: Fabrics embedded with Nitinol wires that change shape when heated.
+summary: Fabrics with embedded wires that autonomously reshape when heated by body
+  or ambient temperature
 permalink: https://www.envisioning.com/fabric/shape-memory-alloy-textiles
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763898415/threa
 
 ## Summary
 
-Fabrics embedded with Nitinol wires that change shape when heated.
+Fabrics with embedded wires that autonomously reshape when heated by body or ambient temperature
 
 ## Description
 

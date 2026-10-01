@@ -2,8 +2,8 @@
 slug: locacao-residencial-institucional-multifamily
 hub: moradia
 title: Locação Residencial Institucional
-summary: Edifícios projetados e geridos exclusivamente para locação de longo prazo
-  por fundos imobiliários e investidores institucionais.
+summary: Edifícios residenciais construídos e geridos por fundos e investidores para
+  locação de longo prazo
 permalink: https://www.envisioning.com/moradia/locacao-residencial-institucional-multifamily
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766579850/habit
 
 ## Summary
 
-Edifícios projetados e geridos exclusivamente para locação de longo prazo por fundos imobiliários e investidores institucionais.
+Edifícios residenciais construídos e geridos por fundos e investidores para locação de longo prazo
 
 ## Description
 

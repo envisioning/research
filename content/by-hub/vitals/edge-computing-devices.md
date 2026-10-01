@@ -2,8 +2,8 @@
 slug: edge-computing-devices
 hub: vitals
 title: Edge-Computing Medical Devices
-summary: Medical devices that process critical data locally to ensure low latency
-  and continuous operation.
+summary: Medical devices that process patient data locally for real-time response
+  without cloud dependency
 permalink: https://www.envisioning.com/vitals/edge-computing-devices
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463966/vital
 
 ## Summary
 
-Medical devices that process critical data locally to ensure low latency and continuous operation.
+Medical devices that process patient data locally for real-time response without cloud dependency
 
 ## Description
 

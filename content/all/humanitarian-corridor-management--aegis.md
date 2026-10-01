@@ -2,7 +2,8 @@
 slug: humanitarian-corridor-management
 hub: aegis
 title: Humanitarian Corridors & Protected Zone Management
-summary: Tooling to designate, monitor, and enforce protected areas in conflict.
+summary: Systems to establish, monitor, and enforce safe zones and evacuation routes
+  in conflict areas
 permalink: https://www.envisioning.com/aegis/humanitarian-corridor-management
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010290/aegis
 
 ## Summary
 
-Tooling to designate, monitor, and enforce protected areas in conflict.
+Systems to establish, monitor, and enforce safe zones and evacuation routes in conflict areas
 
 ## Description
 

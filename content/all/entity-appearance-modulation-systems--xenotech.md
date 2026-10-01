@@ -2,21 +2,21 @@
 slug: entity-appearance-modulation-systems
 hub: xenotech
 title: Appearance Modulation
-summary: Alleged perception manipulation technologies enabling entities to appear
-  as humans, animals, or other forms to witnesses without physical transformation.
+summary: Perception manipulation allowing entities to appear in different forms to
+  witnesses without physical change
 permalink: https://www.envisioning.com/xenotech/entity-appearance-modulation-systems
 collection: consciousness-interface
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760984449/xenotech/technologies/entity-appearance-modulation-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897209/xenotech/technologies/entity-appearance-modulation-systems-openrouter-google-gemini-3.1-flash-image-preview-5oc06m.png
 ---
 
 # Appearance Modulation
 
 ## Summary
 
-Alleged perception manipulation technologies enabling entities to appear as humans, animals, or other forms to witnesses without physical transformation.
+Perception manipulation allowing entities to appear in different forms to witnesses without physical change
 
 ## Description
 

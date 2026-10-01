@@ -2,7 +2,8 @@
 slug: biometric-health-monitoring
 hub: synapse
 title: Biometric Health Monitoring
-summary: Wearables and sensors for tracking workforce physiological wellbeing.
+summary: Workplace sensors and wearables that track employee physiological signals
+  and stress indicators
 permalink: https://www.envisioning.com/synapse/biometric-health-monitoring
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126397/synap
 
 ## Summary
 
-Wearables and sensors for tracking workforce physiological wellbeing.
+Workplace sensors and wearables that track employee physiological signals and stress indicators
 
 ## Description
 

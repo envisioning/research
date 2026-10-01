@@ -2,7 +2,8 @@
 slug: closed-loop-life-support
 hub: continuum
 title: Closed-Loop Life Support (ECLSS)
-summary: Regenerative systems for indefinite survival in isolated environments.
+summary: Regenerative systems that recycle air, water, and waste for long-term habitation
+  in isolated environments
 permalink: https://www.envisioning.com/continuum/closed-loop-life-support
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124916/conti
 
 ## Summary
 
-Regenerative systems for indefinite survival in isolated environments.
+Regenerative systems that recycle air, water, and waste for long-term habitation in isolated environments
 
 ## Description
 

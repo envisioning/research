@@ -2,7 +2,8 @@
 slug: adaptive-coastal-megaprojects
 hub: continuum
 title: Adaptive Coastal Megaprojects
-summary: Dynamic sea walls, surge barriers, and sponge-city retrofits.
+summary: Reconfigurable flood barriers and nature-based defenses that adapt to changing
+  sea levels and storms
 permalink: https://www.envisioning.com/continuum/adaptive-coastal-megaprojects
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123957/conti
 
 ## Summary
 
-Dynamic sea walls, surge barriers, and sponge-city retrofits.
+Reconfigurable flood barriers and nature-based defenses that adapt to changing sea levels and storms
 
 ## Description
 

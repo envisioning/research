@@ -2,7 +2,8 @@
 slug: deep-and-closed-loop-geothermal
 hub: atmos
 title: Deep and Closed-Loop Geothermal Systems
-summary: Next-generation geothermal for firm, location-flexible renewable baseload.
+summary: Drilling deep into hot rock or circulating sealed fluids to harvest geothermal
+  heat anywhere
 permalink: https://www.envisioning.com/atmos/deep-and-closed-loop-geothermal
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990889/atmos
 
 ## Summary
 
-Next-generation geothermal for firm, location-flexible renewable baseload.
+Drilling deep into hot rock or circulating sealed fluids to harvest geothermal heat anywhere
 
 ## Description
 

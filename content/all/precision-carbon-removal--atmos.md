@@ -2,7 +2,8 @@
 slug: precision-carbon-removal
 hub: atmos
 title: Precision Carbon Removal & Restoration
-summary: Drone reforestation and bioengineered algae strains.
+summary: Drone swarms and bioengineered organisms that accelerate reforestation and
+  carbon capture
 permalink: https://www.envisioning.com/atmos/precision-carbon-removal
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998437/atmos
 
 ## Summary
 
-Drone reforestation and bioengineered algae strains.
+Drone swarms and bioengineered organisms that accelerate reforestation and carbon capture
 
 ## Description
 

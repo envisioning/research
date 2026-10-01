@@ -2,7 +2,8 @@
 slug: bioactive-ingredient-safety
 hub: aura
 title: Bioactive Ingredient Safety
-summary: Oversight for next-gen peptides and viral vectors.
+summary: Regulatory frameworks for novel peptides, exosomes, and bioactive compounds
+  in beauty products
 permalink: https://www.envisioning.com/aura/bioactive-ingredient-safety
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010154/aura/
 
 ## Summary
 
-Oversight for next-gen peptides and viral vectors.
+Regulatory frameworks for novel peptides, exosomes, and bioactive compounds in beauty products
 
 ## Description
 

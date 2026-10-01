@@ -2,8 +2,8 @@
 slug: divisao-aluguel-estoque-existente
 hub: moradia
 title: Divisão de Aluguel no Estoque Existente
-summary: Acordos informais de divisão de aluguel e compartilhamento de unidades habitacionais
-  existentes, criando modelos de locação adaptativos fora do mercado formal.
+summary: Compartilhamento informal de moradia onde múltiplas pessoas dividem aluguel
+  e espaço fora do mercado formal
 permalink: https://www.envisioning.com/moradia/divisao-aluguel-estoque-existente
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668003/habit
 
 ## Summary
 
-Acordos informais de divisão de aluguel e compartilhamento de unidades habitacionais existentes, criando modelos de locação adaptativos fora do mercado formal.
+Compartilhamento informal de moradia onde múltiplas pessoas dividem aluguel e espaço fora do mercado formal
 
 ## Description
 

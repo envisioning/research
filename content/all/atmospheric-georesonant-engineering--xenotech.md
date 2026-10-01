@@ -2,21 +2,21 @@
 slug: atmospheric-georesonant-engineering
 hub: xenotech
 title: Atmospheric Control
-summary: Technologies claimed to manipulate weather, ionosphere, and planetary resonance
-  systems through electromagnetic or subtle energy means.
+summary: Claimed methods to alter weather or ionospheric conditions using electromagnetic
+  or orgone energy systems
 permalink: https://www.envisioning.com/xenotech/atmospheric-georesonant-engineering
 collection: temporal-dimensional
 trl: 2
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760821390/xenotech/technologies/cloudbusters-reich.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897236/xenotech/technologies/atmospheric-georesonant-engineering-openrouter-google-gemini-3.1-flash-image-preview-y8sl64.png
 ---
 
 # Atmospheric Control
 
 ## Summary
 
-Technologies claimed to manipulate weather, ionosphere, and planetary resonance systems through electromagnetic or subtle energy means.
+Claimed methods to alter weather or ionospheric conditions using electromagnetic or orgone energy systems
 
 ## Description
 

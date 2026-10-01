@@ -2,8 +2,8 @@
 slug: public-sector-ai-models
 hub: datatrends
 title: Public Sector AI Language Models
-summary: Government-developed AI language models designed for public sector applications,
-  addressing sovereignty, transparency, and domain-specific needs.
+summary: Government-built language models ensuring data sovereignty and transparency
+  for public services
 permalink: https://www.envisioning.com/datatrends/public-sector-ai-models
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593311/datat
 
 ## Summary
 
-Government-developed AI language models designed for public sector applications, addressing sovereignty, transparency, and domain-specific needs.
+Government-built language models ensuring data sovereignty and transparency for public services
 
 ## Description
 

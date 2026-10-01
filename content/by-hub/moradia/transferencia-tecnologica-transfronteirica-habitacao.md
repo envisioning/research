@@ -2,8 +2,8 @@
 slug: transferencia-tecnologica-transfronteirica-habitacao
 hub: moradia
 title: Transferência Tecnológica em Habitação Acessível
-summary: Fluxo reverso de inovação onde habitação acessível brasileira exporta design
-  e engenharia, não apenas importa técnicas estrangeiras.
+summary: Empresas brasileiras exportam design e técnicas de construção para habitação
+  acessível em outros países
 permalink: https://www.envisioning.com/moradia/transferencia-tecnologica-transfronteirica-habitacao
 collection: modelos-mercado-governanca
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766599016/habit
 
 ## Summary
 
-Fluxo reverso de inovação onde habitação acessível brasileira exporta design e engenharia, não apenas importa técnicas estrangeiras.
+Empresas brasileiras exportam design e técnicas de construção para habitação acessível em outros países
 
 ## Description
 

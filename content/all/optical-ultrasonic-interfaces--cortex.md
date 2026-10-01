@@ -2,7 +2,7 @@
 slug: optical-ultrasonic-interfaces
 hub: cortex
 title: Optical & Ultrasonic Interfaces
-summary: Read/write neural activity without penetrating tissue.
+summary: Light and sound waves that modulate neural activity without implants or surgery
 permalink: https://www.envisioning.com/cortex/optical-ultrasonic-interfaces
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010224/corte
 
 ## Summary
 
-Read/write neural activity without penetrating tissue.
+Light and sound waves that modulate neural activity without implants or surgery
 
 ## Description
 

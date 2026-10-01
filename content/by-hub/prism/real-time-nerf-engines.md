@@ -2,7 +2,7 @@
 slug: real-time-nerf-engines
 hub: prism
 title: Real-Time NeRF Engines
-summary: Optimized neural radiance field pipelines for live 3D reconstruction.
+summary: Live 3D scene capture and rendering from multiple camera angles in real time
 permalink: https://www.envisioning.com/prism/real-time-nerf-engines
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062621/pulse
 
 ## Summary
 
-Optimized neural radiance field pipelines for live 3D reconstruction.
+Live 3D scene capture and rendering from multiple camera angles in real time
 
 ## Description
 

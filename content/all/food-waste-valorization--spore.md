@@ -2,7 +2,8 @@
 slug: food-waste-valorization
 hub: spore
 title: Food Waste Valorization
-summary: Converting peels and pulp into bioplastics, feed, and ingredients.
+summary: Transforming agricultural byproducts into bioplastics, animal feed, and food
+  ingredients
 permalink: https://www.envisioning.com/spore/food-waste-valorization
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096086/spore
 
 ## Summary
 
-Converting peels and pulp into bioplastics, feed, and ingredients.
+Transforming agricultural byproducts into bioplastics, animal feed, and food ingredients
 
 ## Description
 

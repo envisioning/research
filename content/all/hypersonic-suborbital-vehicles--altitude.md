@@ -2,8 +2,8 @@
 slug: hypersonic-suborbital-vehicles
 hub: altitude
 title: Hypersonic & Space Plane Vehicles
-summary: Mach 5+ aircraft and reusable suborbital systems for intercontinental rapid
-  transit.
+summary: Mach 5+ aircraft using scramjets and hybrid propulsion for rapid intercontinental
+  travel
 permalink: https://www.envisioning.com/altitude/hypersonic-suborbital-vehicles
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642180/altit
 
 ## Summary
 
-Mach 5+ aircraft and reusable suborbital systems for intercontinental rapid transit.
+Mach 5+ aircraft using scramjets and hybrid propulsion for rapid intercontinental travel
 
 ## Description
 

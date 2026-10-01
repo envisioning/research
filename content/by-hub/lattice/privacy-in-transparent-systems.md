@@ -2,7 +2,7 @@
 slug: privacy-in-transparent-systems
 hub: lattice
 title: Privacy in Transparent Systems
-summary: Balancing open ledgers with protection against economic profiling.
+summary: Techniques to prevent transaction tracking and profiling on public blockchains
 permalink: https://www.envisioning.com/lattice/privacy-in-transparent-systems
 collection: ethics-security
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010164/flows
 
 ## Summary
 
-Balancing open ledgers with protection against economic profiling.
+Techniques to prevent transaction tracking and profiling on public blockchains
 
 ## Description
 

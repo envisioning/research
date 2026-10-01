@@ -2,7 +2,8 @@
 slug: climate-risk-analytics
 hub: vault
 title: Climate & Catastrophe Risk Modeling
-summary: Forward-looking climate scenario analysis.
+summary: Quantifies financial exposure to environmental hazards using climate data
+  and probabilistic models
 permalink: https://www.envisioning.com/vault/climate-risk-analytics
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129171/vault
 
 ## Summary
 
-Forward-looking climate scenario analysis.
+Quantifies financial exposure to environmental hazards using climate data and probabilistic models
 
 ## Description
 

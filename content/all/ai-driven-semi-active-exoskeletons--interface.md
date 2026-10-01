@@ -2,14 +2,13 @@
 slug: ai-driven-semi-active-exoskeletons
 hub: interface
 title: AI-Driven Semi-Active Exoskeletons
-summary: Industrial exoskeletons with AI machine learning algorithms for automatic
-  activation, reducing biomechanical strain and protecting workers in manual handling,
-  improving health, safety, and long-term workforce sustainability.
+summary: Wearable exoskeletons that activate support only when AI detects strain during
+  lifting or bending
 permalink: https://www.envisioning.com/interface/ai-driven-semi-active-exoskeletons
-collection: consumer-electronics-platforms
+collection: applications
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739167/interface/technologies/ai-driven-semi-active-exoskeletons-google-gemini-3-pro-image-preview-017v80.jpg
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739167/inter
 
 ## Summary
 
-Industrial exoskeletons with AI machine learning algorithms for automatic activation, reducing biomechanical strain and protecting workers in manual handling, improving health, safety, and long-term workforce sustainability.
+Wearable exoskeletons that activate support only when AI detects strain during lifting or bending
 
 ## Description
 

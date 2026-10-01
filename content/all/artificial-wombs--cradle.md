@@ -2,7 +2,8 @@
 slug: artificial-wombs
 hub: cradle
 title: Artificial Wombs
-summary: Extracorporeal life support for premature infants.
+summary: Life-support systems that replicate the womb environment for extremely premature
+  infants
 permalink: https://www.envisioning.com/cradle/artificial-wombs
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126023/cradl
 
 ## Summary
 
-Extracorporeal life support for premature infants.
+Life-support systems that replicate the womb environment for extremely premature infants
 
 ## Description
 

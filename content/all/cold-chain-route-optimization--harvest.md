@@ -2,7 +2,8 @@
 slug: cold-chain-route-optimization
 hub: harvest
 title: Cold Chain Route Optimization
-summary: Optimization engines for temperature-constrained logistics.
+summary: Algorithms that plan delivery routes while maintaining required temperatures
+  for perishable goods
 permalink: https://www.envisioning.com/harvest/cold-chain-route-optimization
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128450/harve
 
 ## Summary
 
-Optimization engines for temperature-constrained logistics.
+Algorithms that plan delivery routes while maintaining required temperatures for perishable goods
 
 ## Description
 

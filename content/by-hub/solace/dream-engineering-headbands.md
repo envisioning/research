@@ -2,8 +2,8 @@
 slug: dream-engineering-headbands
 hub: solace
 title: Targeted Memory Reactivation (TMR) Headbands
-summary: Sleep wearables that use sensory cues to modify emotional memories during
-  REM.
+summary: Sleep headbands that use cues during REM to weaken traumatic memories or
+  reinforce positive ones
 permalink: https://www.envisioning.com/solace/dream-engineering-headbands
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133908/solac
 
 ## Summary
 
-Sleep wearables that use sensory cues to modify emotional memories during REM.
+Sleep headbands that use cues during REM to weaken traumatic memories or reinforce positive ones
 
 ## Description
 

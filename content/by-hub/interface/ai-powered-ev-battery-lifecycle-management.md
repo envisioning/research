@@ -2,13 +2,13 @@
 slug: ai-powered-ev-battery-lifecycle-management
 hub: interface
 title: AI-Powered EV Battery Lifecycle Management
-summary: Platforms for managing EV battery performance, health, and optimization throughout
-  lifecycle.
+summary: AI systems that monitor, optimize, and extend EV battery health from first
+  use to recycling
 permalink: https://www.envisioning.com/interface/ai-powered-ev-battery-lifecycle-management
-collection: consumer-electronics-platforms
+collection: applications
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730952/interface/technologies/ai-powered-ev-battery-lifecycle-management-google-gemini-3-pro-image-preview-fnzqpq.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730952/inter
 
 ## Summary
 
-Platforms for managing EV battery performance, health, and optimization throughout lifecycle.
+AI systems that monitor, optimize, and extend EV battery health from first use to recycling
 
 ## Description
 

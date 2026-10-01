@@ -3,7 +3,6 @@ slug: impact-measurement-models
 hub: agape
 title: Impact-Measurement Models
 summary: Computational systems for quantifying and tracking social outcomes, enabling
-  data-driven assessment of philanthropic interventions.
 permalink: https://www.envisioning.com/agape/impact-measurement-models
 collection: technology-infrastructure
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367911/agape
 
 ## Summary
 
-Computational systems for quantifying and tracking social outcomes, enabling data-driven assessment of philanthropic interventions.
+Computational systems for quantifying and tracking social outcomes, enabling
 
 ## Description
 

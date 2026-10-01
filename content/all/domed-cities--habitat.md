@@ -2,19 +2,21 @@
 slug: domed-cities
 hub: habitat
 title: Domed Cities
-summary: Enclosed urban environments with climate control; planned for Mall of the World and space colonization.
+summary: Enclosed urban structures with controlled climates for extreme environments
+  and space habitats
 permalink: https://www.envisioning.com/habitat/domed-cities
 collection: applications
 trl: 4
 impact: 4
 investment: 4
+image_url: null
 ---
 
 # Domed Cities
 
 ## Summary
 
-Enclosed urban environments with climate control; planned for Mall of the World and space colonization.
+Enclosed urban structures with controlled climates for extreme environments and space habitats
 
 ## Description
 

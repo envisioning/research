@@ -2,21 +2,21 @@
 slug: akashic-field-tech
 hub: xenotech
 title: Akashic Fields
-summary: Devices proposed to interface with the Akashic Records—universal information
-  field.
+summary: Proposed devices to access a hypothetical universal information field through
+  quantum or scalar wave methods
 permalink: https://www.envisioning.com/xenotech/akashic-field-tech
 collection: perception-cognition
 trl: 1
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760819528/xenotech/technologies/akashic-field-tech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897065/xenotech/technologies/akashic-field-tech-openrouter-google-gemini-3.1-flash-image-preview-oprnep.png
 ---
 
 # Akashic Fields
 
 ## Summary
 
-Devices proposed to interface with the Akashic Records—universal information field.
+Proposed devices to access a hypothetical universal information field through quantum or scalar wave methods
 
 ## Description
 

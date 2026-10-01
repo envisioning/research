@@ -2,20 +2,20 @@
 slug: matter-antimatter-reactor
 hub: subspace
 title: Matter-Antimatter Reactor
-summary: Primary power generation system utilizing controlled matter-antimatter annihilation.
+summary: Controlled annihilation of matter and antimatter for maximum energy conversion
 permalink: https://www.envisioning.com/subspace/matter-antimatter-reactor
 collection: energy
 trl: 4
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210675/subspaceindex/technologies/matter-antimatter-reactor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908373/subspace/technologies/matter-antimatter-reactor-openrouter-google-gemini-3.1-flash-image-preview-1hox3y.png
 ---
 
 # Matter-Antimatter Reactor
 
 ## Summary
 
-Primary power generation system utilizing controlled matter-antimatter annihilation.
+Controlled annihilation of matter and antimatter for maximum energy conversion
 
 ## Description
 

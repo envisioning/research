@@ -2,9 +2,10 @@
 slug: solar-glass
 hub: horizons
 title: Solar Glass
-summary: Transparent photovoltaic glass turning windows into power generators.
+summary: Transparent photovoltaic glass that generates electricity while functioning
+  as windows
 permalink: https://www.envisioning.com/horizons/solar-glass
-collection: energy-environment
+collection: hardware
 trl: 8
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522031/horiz
 
 ## Summary
 
-Transparent photovoltaic glass turning windows into power generators.
+Transparent photovoltaic glass that generates electricity while functioning as windows
 
 ## Description
 

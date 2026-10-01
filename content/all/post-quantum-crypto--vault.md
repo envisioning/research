@@ -2,7 +2,7 @@
 slug: post-quantum-crypto
 hub: vault
 title: Post-Quantum Cryptography
-summary: Quantum-resistant security protocols.
+summary: Encryption methods designed to withstand attacks from quantum computers
 permalink: https://www.envisioning.com/vault/post-quantum-crypto
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128131/vault
 
 ## Summary
 
-Quantum-resistant security protocols.
+Encryption methods designed to withstand attacks from quantum computers
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: wireless-power-transfer
 hub: substrate
 title: Wireless Power Transfer Infrastructure
-summary: Inductive, resonant, and RF systems eliminating cables for robotics and IoT.
+summary: Electromagnetic systems delivering electricity without cables across spaces
+  and devices
 permalink: https://www.envisioning.com/substrate/wireless-power-transfer
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117378/subst
 
 ## Summary
 
-Inductive, resonant, and RF systems eliminating cables for robotics and IoT.
+Electromagnetic systems delivering electricity without cables across spaces and devices
 
 ## Description
 

@@ -2,21 +2,20 @@
 slug: zero-point-energy-module
 hub: subspace
 title: Zero-Point Energy Module
-summary: Experimental system extracting power from quantum vacuum fluctuations in
-  space-time.
+summary: Harnessing quantum vacuum fluctuations for continuous power generation
 permalink: https://www.envisioning.com/subspace/zero-point-energy-module
 collection: energy
 trl: 1
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760217627/subspaceindex/technologies/zero-point-energy-module.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772910271/subspace/technologies/zero-point-energy-module-openrouter-google-gemini-3.1-flash-image-preview-wkeavk.png
 ---
 
 # Zero-Point Energy Module
 
 ## Summary
 
-Experimental system extracting power from quantum vacuum fluctuations in space-time.
+Harnessing quantum vacuum fluctuations for continuous power generation
 
 ## Description
 

@@ -9,7 +9,7 @@ collection: innovation-solutions
 trl: 3
 impact: 3
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882911/wonen/technologies/261020c6-a405-4940-85ff-3917a5ffdfd4-google-gemini-3.1-flash-image-preview-00qxsz.jpg
 ---
 
 # Industrialized Construction at Scale (Procurement + Standardization)

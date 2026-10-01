@@ -2,19 +2,21 @@
 slug: magnetorheological-fluid
 hub: forge
 title: Magnetorheological Fluid
-summary: Fluids whose viscosity changes with magnetic field; seismic damping applications.
+summary: Fluids that change viscosity under magnetic fields for adaptive damping and
+  control systems
 permalink: https://www.envisioning.com/forge/magnetorheological-fluid
 collection: materials
 trl: 6
 impact: 4
 investment: 3
+image_url: null
 ---
 
 # Magnetorheological Fluid
 
 ## Summary
 
-Fluids whose viscosity changes with magnetic field; seismic damping applications.
+Fluids that change viscosity under magnetic fields for adaptive damping and control systems
 
 ## Description
 

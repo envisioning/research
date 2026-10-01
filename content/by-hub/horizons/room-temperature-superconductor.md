@@ -2,9 +2,9 @@
 slug: room-temperature-superconductor
 hub: horizons
 title: Room-Temperature Superconductor
-summary: Materials conducting electricity with zero resistance at ambient temperatures.
+summary: Materials that conduct electricity without resistance at normal temperatures
 permalink: https://www.envisioning.com/horizons/room-temperature-superconductor
-collection: materials-making
+collection: hardware
 trl: 2
 impact: 5
 investment: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522028/horiz
 
 ## Summary
 
-Materials conducting electricity with zero resistance at ambient temperatures.
+Materials that conduct electricity without resistance at normal temperatures
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: transdermal-beauty-patches
 hub: aura
 title: Transdermal Beauty Patches
-summary: Slow-release patches delivering actives overnight.
+summary: Hydrogel or microneedle patches delivering skincare actives through the skin
+  over 6–12 hours
 permalink: https://www.envisioning.com/aura/transdermal-beauty-patches
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074453/aura/
 
 ## Summary
 
-Slow-release patches delivering actives overnight.
+Hydrogel or microneedle patches delivering skincare actives through the skin over 6–12 hours
 
 ## Description
 

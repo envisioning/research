@@ -2,7 +2,8 @@
 slug: supply-chain-traceability-platforms
 hub: fabric
 title: Supply Chain Traceability Platforms
-summary: Chain-of-custody ledgers meeting EU digital product passport requirements.
+summary: Digital systems tracking garments from fiber to retail using RFID, QR codes,
+  and blockchain
 permalink: https://www.envisioning.com/fabric/supply-chain-traceability-platforms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059656/threa
 
 ## Summary
 
-Chain-of-custody ledgers meeting EU digital product passport requirements.
+Digital systems tracking garments from fiber to retail using RFID, QR codes, and blockchain
 
 ## Description
 

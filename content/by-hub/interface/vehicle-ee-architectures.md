@@ -2,21 +2,21 @@
 slug: vehicle-ee-architectures
 hub: interface
 title: Vehicle E/E Architectures
-summary: Modern electrical/electronic architectures orchestrating sensors, actuators,
-  ECUs, and communication networks.
+summary: Integrated electrical systems managing sensors, computers, and networks in
+  modern vehicles
 permalink: https://www.envisioning.com/interface/vehicle-ee-architectures
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897646/interface/technologies/944cc550-4a1e-4012-86eb-6069cc4bce57-google-gemini-3.1-flash-image-preview-3ndrt3.jpg
 ---
 
 # Vehicle E/E Architectures
 
 ## Summary
 
-Modern electrical/electronic architectures orchestrating sensors, actuators, ECUs, and communication networks.
+Integrated electrical systems managing sensors, computers, and networks in modern vehicles
 
 ## Description
 

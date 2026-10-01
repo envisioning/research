@@ -2,19 +2,20 @@
 slug: optical-computing
 hub: horizons
 title: Optical Computing
-summary: Computing using light instead of electrons; some integrated-circuit components developed.
+summary: Computing with photons instead of electrons for faster, lower-power processing
 permalink: https://www.envisioning.com/horizons/optical-computing
 collection: hardware
 trl: 4
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897755/horizons/technologies/9a43e4b4-68ba-4c11-ae61-dfaa8d2363e1-google-gemini-3.1-flash-image-preview-j7jbdh.png
 ---
 
 # Optical Computing
 
 ## Summary
 
-Computing using light instead of electrons; some integrated-circuit components developed.
+Computing with photons instead of electrons for faster, lower-power processing
 
 ## Description
 

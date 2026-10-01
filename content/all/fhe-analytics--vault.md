@@ -2,7 +2,7 @@
 slug: fhe-analytics
 hub: vault
 title: Fully Homomorphic Encryption (FHE)
-summary: Computation on encrypted data without decryption.
+summary: Performing computations on encrypted data without ever decrypting it
 permalink: https://www.envisioning.com/vault/fhe-analytics
 collection: software
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128147/vault
 
 ## Summary
 
-Computation on encrypted data without decryption.
+Performing computations on encrypted data without ever decrypting it
 
 ## Description
 

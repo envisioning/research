@@ -2,9 +2,10 @@
 slug: hydrogen-infrastructure-for-heavy-transport
 hub: horizons
 title: Hydrogen Infrastructure for Heavy Transport
-summary: Production and fueling systems for hydrogen-powered heavy vehicles.
+summary: Production, storage, and refueling systems enabling hydrogen-powered trucks,
+  buses, trains, and ships
 permalink: https://www.envisioning.com/horizons/hydrogen-infrastructure-for-heavy-transport
-collection: cities-mobility
+collection: hardware
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764527029/horiz
 
 ## Summary
 
-Production and fueling systems for hydrogen-powered heavy vehicles.
+Production, storage, and refueling systems enabling hydrogen-powered trucks, buses, trains, and ships
 
 ## Description
 

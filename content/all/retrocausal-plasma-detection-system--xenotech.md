@@ -2,21 +2,21 @@
 slug: retrocausal-plasma-detection-system
 hub: xenotech
 title: Plasma Detection
-summary: Soviet experimental apparatus using rotating plasma rings to detect alleged
-  phase deviations in local time flow and record retrocausal data echoes.
+summary: Rotating plasma apparatus claimed to detect retrocausal signals and temporal
+  phase deviations
 permalink: https://www.envisioning.com/xenotech/retrocausal-plasma-detection-system
 collection: temporal-dimensional
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761065509/xenotech/technologies/retrocausal-plasma-detection-system.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772899224/xenotech/technologies/retrocausal-plasma-detection-system-openrouter-google-gemini-3.1-flash-image-preview-3as2hx.png
 ---
 
 # Plasma Detection
 
 ## Summary
 
-Soviet experimental apparatus using rotating plasma rings to detect alleged phase deviations in local time flow and record retrocausal data echoes.
+Rotating plasma apparatus claimed to detect retrocausal signals and temporal phase deviations
 
 ## Description
 

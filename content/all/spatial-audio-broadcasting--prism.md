@@ -2,8 +2,8 @@
 slug: spatial-audio-broadcasting
 hub: prism
 title: Spatial Audio Broadcasting
-summary: Dolby Atmos and Sony 360RA live pipelines delivering object-based sound at
-  scale.
+summary: Object-based audio pipelines that preserve 3D sound metadata from studio
+  to listener's device
 permalink: https://www.envisioning.com/prism/spatial-audio-broadcasting
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069307/pulse
 
 ## Summary
 
-Dolby Atmos and Sony 360RA live pipelines delivering object-based sound at scale.
+Object-based audio pipelines that preserve 3D sound metadata from studio to listener's device
 
 ## Description
 

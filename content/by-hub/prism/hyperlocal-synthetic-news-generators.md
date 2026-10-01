@@ -2,8 +2,8 @@
 slug: hyperlocal-synthetic-news-generators
 hub: prism
 title: Hyperlocal synthetic news generators
-summary: Models producing neighborhood-level reporting validated against live data
-  streams.
+summary: AI systems that generate neighborhood news from city data feeds and public
+  records
 permalink: https://www.envisioning.com/prism/hyperlocal-synthetic-news-generators
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062639/pulse
 
 ## Summary
 
-Models producing neighborhood-level reporting validated against live data streams.
+AI systems that generate neighborhood news from city data feeds and public records
 
 ## Description
 

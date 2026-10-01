@@ -2,7 +2,7 @@
 slug: haptic-telepresence
 hub: eros
 title: Haptic Telepresence Systems
-summary: Networked devices that transmit touch, kiss, and embrace sensations.
+summary: Networked devices transmitting touch sensations between distant people
 permalink: https://www.envisioning.com/eros/haptic-telepresence
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124349/eros/
 
 ## Summary
 
-Networked devices that transmit touch, kiss, and embrace sensations.
+Networked devices transmitting touch sensations between distant people
 
 ## Description
 

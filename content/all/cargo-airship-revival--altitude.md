@@ -2,7 +2,8 @@
 slug: cargo-airship-revival
 hub: altitude
 title: Modern Cargo Airships
-summary: Hybrid airships for heavy-lift to remote sites without runways.
+summary: Helium-lifted aircraft designed to deliver heavy cargo to areas lacking runways
+  or infrastructure
 permalink: https://www.envisioning.com/altitude/cargo-airship-revival
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642161/altit
 
 ## Summary
 
-Hybrid airships for heavy-lift to remote sites without runways.
+Helium-lifted aircraft designed to deliver heavy cargo to areas lacking runways or infrastructure
 
 ## Description
 

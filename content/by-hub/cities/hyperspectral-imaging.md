@@ -2,14 +2,10 @@
 slug: hyperspectral-imaging
 hub: cities
 title: Hyperspectral Imaging
-summary: 'A remote sensing technology that captures and processes information across
-  a wide spectrum of light, far beyond the capabilities of the human eye and traditional
-  imaging systems. This enables the identification of materials, detection of chemical
-  compositions, and assessment of various physical properties with high precision.
-  It enhances environmental monitoring by detecting pollutants in air and water and
-  assessing vegetation health, aiding in pollution control and green space management. '
+summary: Captures light across hundreds of wavelengths to identify materials and monitor
+  urban environments
 permalink: https://www.envisioning.com/cities/hyperspectral-imaging
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: hardware
 trl: 9
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792963-hyperspectral-imagin
 
 ## Summary
 
-A remote sensing technology that captures and processes information across a wide spectrum of light, far beyond the capabilities of the human eye and traditional imaging systems. This enables the identification of materials, detection of chemical compositions, and assessment of various physical properties with high precision. It enhances environmental monitoring by detecting pollutants in air and water and assessing vegetation health, aiding in pollution control and green space management.
+Captures light across hundreds of wavelengths to identify materials and monitor urban environments
 
 ## Description
 

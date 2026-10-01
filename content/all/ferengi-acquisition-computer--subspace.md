@@ -2,20 +2,21 @@
 slug: ferengi-acquisition-computer
 hub: subspace
 title: Acquisition Computers / Profit Algorithms
-summary: Predictive economic systems used for trade negotiation and market analysis.
+summary: AI systems that optimize trade negotiations through predictive modeling and
+  market analysis
 permalink: https://www.envisioning.com/subspace/ferengi-acquisition-computer
 collection: computing
 trl: 8
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760266313/subspaceindex/technologies/ferengi-acquisition-computer.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907395/subspace/technologies/ferengi-acquisition-computer-openrouter-google-gemini-3.1-flash-image-preview-k2lada.png
 ---
 
 # Acquisition Computers / Profit Algorithms
 
 ## Summary
 
-Predictive economic systems used for trade negotiation and market analysis.
+AI systems that optimize trade negotiations through predictive modeling and market analysis
 
 ## Description
 

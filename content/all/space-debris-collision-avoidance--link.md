@@ -2,7 +2,8 @@
 slug: space-debris-collision-avoidance
 hub: link
 title: Space Debris & Collision Avoidance for Mega-Constellations
-summary: Systems to prevent orbital debris and satellite collisions.
+summary: Tracking and maneuvering systems that prevent satellite collisions in crowded
+  low Earth orbit
 permalink: https://www.envisioning.com/link/space-debris-collision-avoidance
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182332/link/
 
 ## Summary
 
-Systems to prevent orbital debris and satellite collisions.
+Tracking and maneuvering systems that prevent satellite collisions in crowded low Earth orbit
 
 ## Description
 

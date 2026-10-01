@@ -2,8 +2,8 @@
 slug: vision-language-robots
 hub: forge
 title: Vision-Language-Action Robots
-summary: Industrial robots powered by foundation models that understand language,
-  vision, and action jointly.
+summary: Industrial robots that interpret visual scenes, language commands, and physical
+  tasks through unified AI models
 permalink: https://www.envisioning.com/forge/vision-language-robots
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117895/forge
 
 ## Summary
 
-Industrial robots powered by foundation models that understand language, vision, and action jointly.
+Industrial robots that interpret visual scenes, language commands, and physical tasks through unified AI models
 
 ## Description
 

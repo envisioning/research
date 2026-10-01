@@ -2,7 +2,8 @@
 slug: biophilic-generative-design
 hub: solace
 title: Biophilic Generative Design
-summary: AI architecture tools that optimize built environments for biological wellbeing.
+summary: AI architecture tools that generate building designs optimized for human
+  biological wellbeing
 permalink: https://www.envisioning.com/solace/biophilic-generative-design
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436452/solac
 
 ## Summary
 
-AI architecture tools that optimize built environments for biological wellbeing.
+AI architecture tools that generate building designs optimized for human biological wellbeing
 
 ## Description
 

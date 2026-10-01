@@ -2,7 +2,8 @@
 slug: autonomous-public-transit
 hub: vector
 title: Autonomous Public Transit
-summary: Self-driving buses and shuttles for mass transit systems.
+summary: Self-driving buses and shuttles that navigate urban routes using AI and sensor
+  arrays
 permalink: https://www.envisioning.com/vector/autonomous-public-transit
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177452/vecto
 
 ## Summary
 
-Self-driving buses and shuttles for mass transit systems.
+Self-driving buses and shuttles that navigate urban routes using AI and sensor arrays
 
 ## Description
 

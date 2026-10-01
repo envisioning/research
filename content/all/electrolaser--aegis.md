@@ -2,19 +2,20 @@
 slug: electrolaser
 hub: aegis
 title: Electrolaser
-summary: Laser-guided electrical discharge for non-lethal or directed energy applications.
+summary: Laser-ionized channels for directed electrical discharge in defense applications
 permalink: https://www.envisioning.com/aegis/electrolaser
 collection: hardware
 trl: 4
 impact: 3
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962732/aegis/technologies/electrolaser-ocempk.png
 ---
 
 # Electrolaser
 
 ## Summary
 
-Laser-guided electrical discharge for non-lethal or directed energy applications.
+Laser-ionized channels for directed electrical discharge in defense applications
 
 ## Description
 

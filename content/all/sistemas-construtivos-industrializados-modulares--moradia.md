@@ -2,8 +2,8 @@
 slug: sistemas-construtivos-industrializados-modulares
 hub: moradia
 title: Sistemas Construtivos Industrializados e Modulares
-summary: Componentes pré-fabricados, modulares e sistemas construtivos leves (pré-moldados,
-  steel frame, módulos) que aceleram construção e reduzem desperdício.
+summary: Componentes pré-fabricados e sistemas leves que aceleram obras e reduzem
+  desperdício no canteiro
 permalink: https://www.envisioning.com/moradia/sistemas-construtivos-industrializados-modulares
 collection: materiais-componentes
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326734/forma
 
 ## Summary
 
-Componentes pré-fabricados, modulares e sistemas construtivos leves (pré-moldados, steel frame, módulos) que aceleram construção e reduzem desperdício.
+Componentes pré-fabricados e sistemas leves que aceleram obras e reduzem desperdício no canteiro
 
 ## Description
 

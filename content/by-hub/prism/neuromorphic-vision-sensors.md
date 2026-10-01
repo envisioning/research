@@ -2,7 +2,8 @@
 slug: neuromorphic-vision-sensors
 hub: prism
 title: Neuromorphic Vision Sensors
-summary: Event-based vision chips capturing only change for microsecond motion fidelity.
+summary: Event-driven vision chips with on-sensor neural processing for real-time
+  motion and edge detection
 permalink: https://www.envisioning.com/prism/neuromorphic-vision-sensors
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062574/pulse
 
 ## Summary
 
-Event-based vision chips capturing only change for microsecond motion fidelity.
+Event-driven vision chips with on-sensor neural processing for real-time motion and edge detection
 
 ## Description
 

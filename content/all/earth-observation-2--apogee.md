@@ -2,7 +2,7 @@
 slug: earth-observation-2
 hub: apogee
 title: Earth Observation 2.0
-summary: Next-gen monitoring with hyperspectral imaging and onboard AI.
+summary: High-cadence satellite imaging with onboard AI for real-time Earth monitoring
 permalink: https://www.envisioning.com/apogee/earth-observation-2
 collection: applications
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145070/apoge
 
 ## Summary
 
-Next-gen monitoring with hyperspectral imaging and onboard AI.
+High-cadence satellite imaging with onboard AI for real-time Earth monitoring
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cad-cam-patternmaking-systems
 hub: fabric
 title: CAD/CAM Patternmaking and Marker Systems
-summary: Mature digital tools for pattern drafting, grading, and marker making.
+summary: Digital pattern drafting, grading, and cutting layout software for apparel
+  manufacturing
 permalink: https://www.envisioning.com/fabric/cad-cam-patternmaking-systems
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059742/threa
 
 ## Summary
 
-Mature digital tools for pattern drafting, grading, and marker making.
+Digital pattern drafting, grading, and cutting layout software for apparel manufacturing
 
 ## Description
 

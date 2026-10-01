@@ -2,7 +2,7 @@
 slug: code-native-foundation-models
 hub: wintermute
 title: Code-Native Foundation Models
-summary: Models specialized for program synthesis, repair, and verification.
+summary: AI models trained on code repositories to generate, debug, and refactor software
 permalink: https://www.envisioning.com/wintermute/code-native-foundation-models
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985434/winte
 
 ## Summary
 
-Models specialized for program synthesis, repair, and verification.
+AI models trained on code repositories to generate, debug, and refactor software
 
 ## Description
 

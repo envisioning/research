@@ -2,7 +2,8 @@
 slug: phytomining
 hub: stratum
 title: Phytomining and Agromining
-summary: Farming hyperaccumulator plants to harvest metals from soil.
+summary: Using metal-absorbing plants to extract valuable minerals from contaminated
+  or low-grade soils
 permalink: https://www.envisioning.com/stratum/phytomining
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179212/strat
 
 ## Summary
 
-Farming hyperaccumulator plants to harvest metals from soil.
+Using metal-absorbing plants to extract valuable minerals from contaminated or low-grade soils
 
 ## Description
 

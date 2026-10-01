@@ -2,8 +2,8 @@
 slug: individual-room-investment-platforms
 hub: habitat
 title: Individual Room Investment Platforms
-summary: Micro-investment platforms enabling fractional ownership of individual student
-  housing units with rental guarantees.
+summary: Fractional ownership of student housing rooms through digital tokenization
+  and micro-investment
 permalink: https://www.envisioning.com/habitat/individual-room-investment-platforms
 collection: applications
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768310202/habit
 
 ## Summary
 
-Micro-investment platforms enabling fractional ownership of individual student housing units with rental guarantees.
+Fractional ownership of student housing rooms through digital tokenization and micro-investment
 
 ## Description
 

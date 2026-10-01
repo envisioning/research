@@ -2,7 +2,8 @@
 slug: personal-emotion-vaults
 hub: beacon
 title: Personal Emotion Data Vaults
-summary: User-owned vaults for multi-modal affective data.
+summary: Encrypted, user-controlled storage for biometric emotion data from voice,
+  facial cues, and physiological signals
 permalink: https://www.envisioning.com/beacon/personal-emotion-vaults
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124401/beaco
 
 ## Summary
 
-User-owned vaults for multi-modal affective data.
+Encrypted, user-controlled storage for biometric emotion data from voice, facial cues, and physiological signals
 
 ## Description
 

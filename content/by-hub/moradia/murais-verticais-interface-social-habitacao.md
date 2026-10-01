@@ -2,10 +2,8 @@
 slug: murais-verticais-interface-social-habitacao
 hub: moradia
 title: Murais Verticais como Interface Social da Habitação
-summary: Aplicação de murais de grande escala em edifícios residenciais para humanizar
-  habitação densa, injetar identidade cultural e melhorar qualidade de vida percebida
-  sem reestruturação física, sinalizando mudança para dimensões simbólicas e emocionais
-  da habitação.
+summary: Murais de grande escala em fachadas residenciais para criar identidade cultural
+  e marcos visuais em habitação densa
 permalink: https://www.envisioning.com/moradia/murais-verticais-interface-social-habitacao
 collection: cidade-infraestrutura-urbana
 trl: 4
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766665115/habit
 
 ## Summary
 
-Aplicação de murais de grande escala em edifícios residenciais para humanizar habitação densa, injetar identidade cultural e melhorar qualidade de vida percebida sem reestruturação física, sinalizando mudança para dimensões simbólicas e emocionais da habitação.
+Murais de grande escala em fachadas residenciais para criar identidade cultural e marcos visuais em habitação densa
 
 ## Description
 

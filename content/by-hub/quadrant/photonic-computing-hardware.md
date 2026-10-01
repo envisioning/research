@@ -2,7 +2,8 @@
 slug: photonic-computing-hardware
 hub: quadrant
 title: Photonic Computing Hardware
-summary: Light-based processors for ultra-fast AI inference.
+summary: Processors using light instead of electrons for faster, more efficient AI
+  computation
 permalink: https://www.envisioning.com/quadrant/photonic-computing-hardware
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126546/quadr
 
 ## Summary
 
-Light-based processors for ultra-fast AI inference.
+Processors using light instead of electrons for faster, more efficient AI computation
 
 ## Description
 

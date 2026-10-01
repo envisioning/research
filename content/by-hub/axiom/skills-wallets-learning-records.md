@@ -2,7 +2,8 @@
 slug: skills-wallets-learning-records
 hub: axiom
 title: Skills Wallets & Learning Records
-summary: Portable, verifiable records of skills across school, work, and life.
+summary: Unified digital records that track and verify skills gained across education,
+  work, and informal learning
 permalink: https://www.envisioning.com/axiom/skills-wallets-learning-records
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996191/axiom
 
 ## Summary
 
-Portable, verifiable records of skills across school, work, and life.
+Unified digital records that track and verify skills gained across education, work, and informal learning
 
 ## Description
 

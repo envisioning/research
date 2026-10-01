@@ -2,7 +2,8 @@
 slug: oneiric-rights-management
 hub: beacon
 title: Oneiric Rights Management
-summary: Privacy and governance for dream incubation technology.
+summary: Governance frameworks protecting cognitive privacy during sleep and dream
+  incubation
 permalink: https://www.envisioning.com/beacon/oneiric-rights-management
 collection: ethics-security
 trl: 1
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124816/beaco
 
 ## Summary
 
-Privacy and governance for dream incubation technology.
+Governance frameworks protecting cognitive privacy during sleep and dream incubation
 
 ## Description
 

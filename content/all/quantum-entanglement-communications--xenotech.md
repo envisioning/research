@@ -2,21 +2,21 @@
 slug: quantum-entanglement-communications
 hub: xenotech
 title: Quantum Entanglement
-summary: Space communication via quantum entanglement—evaluating whether non-local
-  quantum correlations enable FTL information transfer.
+summary: Using entangled particles to test whether quantum correlations can transmit
+  information faster than light
 permalink: https://www.envisioning.com/xenotech/quantum-entanglement-communications
 collection: perception-cognition
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761154823/xenotech/technologies/quantum-entanglement-communications.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902213/xenotech/technologies/quantum-entanglement-communications-openrouter-google-gemini-3.1-flash-image-preview-ig180p.png
 ---
 
 # Quantum Entanglement
 
 ## Summary
 
-Space communication via quantum entanglement—evaluating whether non-local quantum correlations enable FTL information transfer.
+Using entangled particles to test whether quantum correlations can transmit information faster than light
 
 ## Description
 

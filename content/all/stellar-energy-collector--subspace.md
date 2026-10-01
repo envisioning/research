@@ -2,21 +2,21 @@
 slug: stellar-energy-collector
 hub: subspace
 title: Stellar Energy Collection Array
-summary: Technology for harvesting energy directly from stellar radiation and solar
-  winds.
+summary: Harvesting energy from stellar radiation, particle emissions, and solar wind
+  streams
 permalink: https://www.envisioning.com/subspace/stellar-energy-collector
 collection: energy
 trl: 6
 impact: 1
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760217511/subspaceindex/technologies/stellar-energy-collector.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908987/subspace/technologies/stellar-energy-collector-openrouter-google-gemini-3.1-flash-image-preview-xfi36p.png
 ---
 
 # Stellar Energy Collection Array
 
 ## Summary
 
-Technology for harvesting energy directly from stellar radiation and solar winds.
+Harvesting energy from stellar radiation, particle emissions, and solar wind streams
 
 ## Description
 

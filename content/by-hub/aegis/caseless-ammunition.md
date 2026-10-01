@@ -2,19 +2,20 @@
 slug: caseless-ammunition
 hub: aegis
 title: Caseless Ammunition
-summary: Ammunition without brass cases; lighter, cheaper; field tests and limited commercialization.
+summary: Ammunition without metal cases, reducing weight and cost for military logistics
 permalink: https://www.envisioning.com/aegis/caseless-ammunition
 collection: hardware
 trl: 6
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772962691/aegis/technologies/caseless-ammunition-kogjzd.jpg
 ---
 
 # Caseless Ammunition
 
 ## Summary
 
-Ammunition without brass cases; lighter, cheaper; field tests and limited commercialization.
+Ammunition without metal cases, reducing weight and cost for military logistics
 
 ## Description
 

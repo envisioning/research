@@ -2,7 +2,8 @@
 slug: bystander-consent-protocols
 hub: liminal
 title: Bystander Consent Protocols
-summary: Standards for protecting people who are not wearing devices.
+summary: Privacy frameworks for people captured by spatial computing devices without
+  their participation
 permalink: https://www.envisioning.com/liminal/bystander-consent-protocols
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123774/limin
 
 ## Summary
 
-Standards for protecting people who are not wearing devices.
+Privacy frameworks for people captured by spatial computing devices without their participation
 
 ## Description
 

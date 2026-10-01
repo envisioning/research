@@ -2,7 +2,8 @@
 slug: responsible-recommendation-systems
 hub: vortex
 title: Responsible Recommendation Systems
-summary: Governed algorithms for fair and transparent discovery.
+summary: Recommendation algorithms designed for fairness, transparency, and diverse
+  content discovery
 permalink: https://www.envisioning.com/vortex/responsible-recommendation-systems
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177899/vorte
 
 ## Summary
 
-Governed algorithms for fair and transparent discovery.
+Recommendation algorithms designed for fairness, transparency, and diverse content discovery
 
 ## Description
 

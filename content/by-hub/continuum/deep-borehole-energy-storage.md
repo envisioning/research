@@ -2,7 +2,8 @@
 slug: deep-borehole-energy-storage
 hub: continuum
 title: Deep-Borehole Energy Storage
-summary: Grid-scale storage using deep shafts and gravity.
+summary: Stores grid energy by lifting heavy masses in deep vertical shafts using
+  gravity
 permalink: https://www.envisioning.com/continuum/deep-borehole-energy-storage
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124387/conti
 
 ## Summary
 
-Grid-scale storage using deep shafts and gravity.
+Stores grid energy by lifting heavy masses in deep vertical shafts using gravity
 
 ## Description
 

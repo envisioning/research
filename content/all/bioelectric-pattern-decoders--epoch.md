@@ -2,8 +2,8 @@
 slug: bioelectric-pattern-decoders
 hub: epoch
 title: Bioelectric Pattern Decoders
-summary: AI models that interpret the voltage states of cell clusters to predict and
-  control morphological outcomes.
+summary: AI models that read cellular voltage patterns to predict tissue formation
+  and guide regeneration
 permalink: https://www.envisioning.com/epoch/bioelectric-pattern-decoders
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772619896/epoch
 
 ## Summary
 
-AI models that interpret the voltage states of cell clusters to predict and control morphological outcomes.
+AI models that read cellular voltage patterns to predict tissue formation and guide regeneration
 
 ## Description
 

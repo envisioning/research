@@ -2,19 +2,21 @@
 slug: twistronics
 hub: horizons
 title: Twistronics
-summary: Controlling electronic properties by twisting stacked 2D materials.
+summary: Tuning electronic properties by twisting stacked 2D materials at precise
+  angles
 permalink: https://www.envisioning.com/horizons/twistronics
 collection: hardware
 trl: 4
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898443/horizons/technologies/b98bc2b4-a66c-4e62-aac7-5055f16f2512-google-gemini-3.1-flash-image-preview-gmy6ip.png
 ---
 
 # Twistronics
 
 ## Summary
 
-Controlling electronic properties by twisting stacked 2D materials.
+Tuning electronic properties by twisting stacked 2D materials at precise angles
 
 ## Description
 

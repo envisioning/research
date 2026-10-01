@@ -2,7 +2,8 @@
 slug: llm-game-masters
 hub: pixels
 title: Large Language Model Game Masters
-summary: AI systems managing dynamic, non-linear narratives and rules.
+summary: AI dungeon masters that improvise dialogue, quests, and rulings in real time
+  for solo or multiplayer RPGs
 permalink: https://www.envisioning.com/pixels/llm-game-masters
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062303/pixel
 
 ## Summary
 
-AI systems managing dynamic, non-linear narratives and rules.
+AI dungeon masters that improvise dialogue, quests, and rulings in real time for solo or multiplayer RPGs
 
 ## Description
 

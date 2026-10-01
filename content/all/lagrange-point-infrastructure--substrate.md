@@ -2,7 +2,8 @@
 slug: lagrange-point-infrastructure
 hub: substrate
 title: Lagrange Point Stations
-summary: Permanent outposts at gravitationally stable orbital locations.
+summary: Permanent space stations positioned at gravitationally stable points between
+  celestial bodies
 permalink: https://www.envisioning.com/substrate/lagrange-point-infrastructure
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178114/subst
 
 ## Summary
 
-Permanent outposts at gravitationally stable orbital locations.
+Permanent space stations positioned at gravitationally stable points between celestial bodies
 
 ## Description
 

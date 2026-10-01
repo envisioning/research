@@ -2,7 +2,8 @@
 slug: tele-nicu
 hub: cradle
 title: Tele-NICU Platforms
-summary: Remote specialized neonatal care.
+summary: Remote neonatal intensive care connecting community hospitals with specialist
+  teams
 permalink: https://www.envisioning.com/cradle/tele-nicu
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129259/cradl
 
 ## Summary
 
-Remote specialized neonatal care.
+Remote neonatal intensive care connecting community hospitals with specialist teams
 
 ## Description
 

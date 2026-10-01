@@ -2,21 +2,21 @@
 slug: biophoton-consciousness-systems
 hub: xenotech
 title: Biophoton Communication
-summary: Ultra-weak photon emission from living cells proposed as quantum information
-  channel and consciousness substrate.
+summary: Ultra-weak light emissions from living cells studied as potential biological
+  signaling mechanism
 permalink: https://www.envisioning.com/xenotech/biophoton-consciousness-systems
 collection: biology-hybridization
 trl: 4
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760815000/xenotech/technologies/binaural-beats-entrainment.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897722/xenotech/technologies/biophoton-consciousness-systems-openrouter-google-gemini-3.1-flash-image-preview-ihx4vu.png
 ---
 
 # Biophoton Communication
 
 ## Summary
 
-Ultra-weak photon emission from living cells proposed as quantum information channel and consciousness substrate.
+Ultra-weak light emissions from living cells studied as potential biological signaling mechanism
 
 ## Description
 

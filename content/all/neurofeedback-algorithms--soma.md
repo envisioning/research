@@ -2,7 +2,8 @@
 slug: neurofeedback-algorithms
 hub: soma
 title: Neurofeedback Algorithms
-summary: Real-time brain state monitoring and regulation training systems.
+summary: Real-time brain activity monitoring that trains users to self-regulate neural
+  patterns
 permalink: https://www.envisioning.com/soma/neurofeedback-algorithms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177788/soma/
 
 ## Summary
 
-Real-time brain state monitoring and regulation training systems.
+Real-time brain activity monitoring that trains users to self-regulate neural patterns
 
 ## Description
 

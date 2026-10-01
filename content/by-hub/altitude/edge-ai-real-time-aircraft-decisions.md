@@ -2,7 +2,8 @@
 slug: edge-ai-real-time-aircraft-decisions
 hub: altitude
 title: Edge AI for Real-Time Onboard Decisions
-summary: Low-latency inference at the aircraft for safety-critical autonomy functions.
+summary: Machine learning models running locally on aircraft hardware for split-second
+  autonomous flight decisions
 permalink: https://www.envisioning.com/altitude/edge-ai-real-time-aircraft-decisions
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643099/altit
 
 ## Summary
 
-Low-latency inference at the aircraft for safety-critical autonomy functions.
+Machine learning models running locally on aircraft hardware for split-second autonomous flight decisions
 
 ## Description
 

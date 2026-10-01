@@ -2,7 +2,8 @@
 slug: on-demand-bespoke-tailoring
 hub: fabric
 title: On-Demand Bespoke Tailoring
-summary: Custom-fit garments produced via mobile body scanning and automated cutting.
+summary: Mobile body scanning and automated cutting systems that produce custom-fit
+  garments on demand
 permalink: https://www.envisioning.com/fabric/on-demand-bespoke-tailoring
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062592/threa
 
 ## Summary
 
-Custom-fit garments produced via mobile body scanning and automated cutting.
+Mobile body scanning and automated cutting systems that produce custom-fit garments on demand
 
 ## Description
 

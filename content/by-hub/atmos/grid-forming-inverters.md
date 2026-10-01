@@ -2,8 +2,8 @@
 slug: grid-forming-inverters
 hub: atmos
 title: Grid-Forming Inverters
-summary: Advanced inverters that provide virtual inertia and stabilize renewable-heavy
-  grids.
+summary: Inverters that stabilize grids by mimicking synchronous generators without
+  spinning mass
 permalink: https://www.envisioning.com/atmos/grid-forming-inverters
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763991008/atmos
 
 ## Summary
 
-Advanced inverters that provide virtual inertia and stabilize renewable-heavy grids.
+Inverters that stabilize grids by mimicking synchronous generators without spinning mass
 
 ## Description
 

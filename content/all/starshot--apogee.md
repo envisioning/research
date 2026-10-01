@@ -2,19 +2,21 @@
 slug: starshot
 hub: apogee
 title: Starshot
-summary: Breakthrough Starshot; uncrewed interstellar probes via laser-driven sails.
+summary: Laser-propelled light sails accelerating gram-scale probes to 20% light speed
+  for interstellar flybys
 permalink: https://www.envisioning.com/apogee/starshot
 collection: applications
 trl: 2
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889443/apogee/technologies/7ff0f79e-64a9-46f9-b1ab-23ae96c7072c-google-gemini-3.1-flash-image-preview-b68rbe.jpg
 ---
 
 # Starshot
 
 ## Summary
 
-Breakthrough Starshot; uncrewed interstellar probes via laser-driven sails.
+Laser-propelled light sails accelerating gram-scale probes to 20% light speed for interstellar flybys
 
 ## Description
 

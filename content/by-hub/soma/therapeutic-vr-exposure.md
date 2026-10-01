@@ -2,7 +2,8 @@
 slug: therapeutic-vr-exposure
 hub: soma
 title: Therapeutic VR Exposure
-summary: Immersive environments for treating PTSD and anxiety.
+summary: Controlled virtual environments for gradual exposure therapy in PTSD, phobias,
+  and anxiety disorders
 permalink: https://www.envisioning.com/soma/therapeutic-vr-exposure
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133009/soma/
 
 ## Summary
 
-Immersive environments for treating PTSD and anxiety.
+Controlled virtual environments for gradual exposure therapy in PTSD, phobias, and anxiety disorders
 
 ## Description
 

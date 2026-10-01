@@ -2,8 +2,8 @@
 slug: ai-education-impact-analytics
 hub: datatrends
 title: AI Impact Analytics in Education
-summary: Analyzing the dual nature of AI in education as both a valuable learning
-  ally and a potential facilitator of academic dishonesty.
+summary: Measuring AI's effects on learning outcomes, academic integrity, and teaching
+  methods
 permalink: https://www.envisioning.com/datatrends/ai-education-impact-analytics
 collection: management-foundations
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593262/datat
 
 ## Summary
 
-Analyzing the dual nature of AI in education as both a valuable learning ally and a potential facilitator of academic dishonesty.
+Measuring AI's effects on learning outcomes, academic integrity, and teaching methods
 
 ## Description
 

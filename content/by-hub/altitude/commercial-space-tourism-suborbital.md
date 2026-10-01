@@ -2,7 +2,7 @@
 slug: commercial-space-tourism-suborbital
 hub: altitude
 title: Commercial Space Tourism & Suborbital Flights
-summary: High-altitude experience flights blurring the line between aviation and space.
+summary: Passenger flights to the edge of space for weightlessness and Earth views
 permalink: https://www.envisioning.com/altitude/commercial-space-tourism-suborbital
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644268/altit
 
 ## Summary
 
-High-altitude experience flights blurring the line between aviation and space.
+Passenger flights to the edge of space for weightlessness and Earth views
 
 ## Description
 

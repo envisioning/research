@@ -3,7 +3,6 @@ slug: dao-philanthropic-organizations
 hub: agape
 title: DAO-Based Philanthropic Organizations
 summary: Decentralized autonomous organizations enabling collective giving and governance
-  through blockchain-based coordination mechanisms.
 permalink: https://www.envisioning.com/agape/dao-philanthropic-organizations
 collection: technology-infrastructure
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368196/agape
 
 ## Summary
 
-Decentralized autonomous organizations enabling collective giving and governance through blockchain-based coordination mechanisms.
+Decentralized autonomous organizations enabling collective giving and governance
 
 ## Description
 

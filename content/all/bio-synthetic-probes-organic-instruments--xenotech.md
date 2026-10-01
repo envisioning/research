@@ -2,22 +2,21 @@
 slug: bio-synthetic-probes-organic-instruments
 hub: xenotech
 title: Bio-Synthetic Probes
-summary: Semi-living, self-directed biological instruments constructed from bio-engineered
-  tissue integrated with nanoscopic filaments for autonomous biological sampling and
-  neurological procedures.
+summary: Self-directed hybrid probes combining living tissue with nanoscale filaments
+  for autonomous sampling
 permalink: https://www.envisioning.com/xenotech/bio-synthetic-probes-organic-instruments
 collection: materials-structures
 trl: 3
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761680980/xenotech/technologies/bio-synthetic-probes-organic-instruments.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938707/xenotech/technologies/bio-synthetic-probes-organic-instruments-imagegen-v1.png
 ---
 
 # Bio-Synthetic Probes
 
 ## Summary
 
-Semi-living, self-directed biological instruments constructed from bio-engineered tissue integrated with nanoscopic filaments for autonomous biological sampling and neurological procedures.
+Self-directed hybrid probes combining living tissue with nanoscale filaments for autonomous sampling
 
 ## Description
 

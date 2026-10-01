@@ -2,17 +2,10 @@
 slug: right-to-mobility
 hub: cities
 title: Right to Mobility
-summary: 'This concept addresses the persistent challenges of urban inequality and
-  accessibility by ensuring that all residents have equitable access to safe, affordable,
-  and sustainable transportation systems. It aims to overcome the disparities in urban
-  mobility that often disadvantage vulnerable populations, such as the elderly, people
-  with disabilities, and low-income residents, who struggle to access essential services,
-  employment, and social opportunities. By prioritising accessibility, inclusivity,
-  and sustainability, the Right to Mobility not only improves social equity within
-  cities but also contributes to reducing carbon emissions and fostering economic
-  resilience. '
+summary: Ensuring equitable access to safe, affordable, and sustainable transportation
+  for all urban residents
 permalink: https://www.envisioning.com/cities/right-to-mobility
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: ethics-security
 trl: 8
 impact: 2
 investment: 2
@@ -23,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869577-right-to-mobility.pn
 
 ## Summary
 
-This concept addresses the persistent challenges of urban inequality and accessibility by ensuring that all residents have equitable access to safe, affordable, and sustainable transportation systems. It aims to overcome the disparities in urban mobility that often disadvantage vulnerable populations, such as the elderly, people with disabilities, and low-income residents, who struggle to access essential services, employment, and social opportunities. By prioritising accessibility, inclusivity, and sustainability, the Right to Mobility not only improves social equity within cities but also contributes to reducing carbon emissions and fostering economic resilience.
+Ensuring equitable access to safe, affordable, and sustainable transportation for all urban residents
 
 ## Description
 

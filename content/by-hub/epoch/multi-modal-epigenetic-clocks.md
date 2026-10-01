@@ -2,21 +2,21 @@
 slug: multi-modal-epigenetic-clocks
 hub: epoch
 title: Multi-Modal Epigenetic Clocks
-summary: Next-generation biological age predictors integrating methylation, transcriptomics,
-  proteomics, and imaging data.
+summary: Biological age predictors combining methylation, gene expression, proteins,
+  and imaging data
 permalink: https://www.envisioning.com/epoch/multi-modal-epigenetic-clocks
 collection: software
 trl: 7
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898373/epoch/technologies/b77fa663-51c5-4040-8892-b9465029008f-google-gemini-3.1-flash-image-preview-7cwq9q.png
 ---
 
 # Multi-Modal Epigenetic Clocks
 
 ## Summary
 
-Next-generation biological age predictors integrating methylation, transcriptomics, proteomics, and imaging data.
+Biological age predictors combining methylation, gene expression, proteins, and imaging data
 
 ## Description
 

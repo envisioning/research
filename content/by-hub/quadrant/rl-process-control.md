@@ -2,7 +2,8 @@
 slug: rl-process-control
 hub: quadrant
 title: Reinforcement Learning Process Control
-summary: Self-learning control policies for complex industrial processes.
+summary: AI agents that learn optimal control strategies for non-linear industrial
+  systems through trial and error
 permalink: https://www.envisioning.com/quadrant/rl-process-control
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126783/quadr
 
 ## Summary
 
-Self-learning control policies for complex industrial processes.
+AI agents that learn optimal control strategies for non-linear industrial systems through trial and error
 
 ## Description
 

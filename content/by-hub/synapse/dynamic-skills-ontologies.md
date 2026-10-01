@@ -2,7 +2,8 @@
 slug: dynamic-skills-ontologies
 hub: synapse
 title: Dynamic Skills Ontologies
-summary: AI-driven systems that map and update the organization's collective capabilities.
+summary: Living maps of organizational capabilities that update automatically from
+  work patterns and outputs
 permalink: https://www.envisioning.com/synapse/dynamic-skills-ontologies
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126540/synap
 
 ## Summary
 
-AI-driven systems that map and update the organization's collective capabilities.
+Living maps of organizational capabilities that update automatically from work patterns and outputs
 
 ## Description
 

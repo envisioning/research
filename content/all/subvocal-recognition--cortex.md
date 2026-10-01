@@ -2,19 +2,20 @@
 slug: subvocal-recognition
 hub: cortex
 title: Subvocal Recognition
-summary: Detecting speech from neuromuscular signals without audible output.
+summary: Decoding intended speech from throat or brain signals without sound
 permalink: https://www.envisioning.com/cortex/subvocal-recognition
 collection: applications
 trl: 5
 impact: 4
 investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897930/cortex/technologies/9e2a0f07-0b0c-44aa-a970-370575583195-google-gemini-3.1-flash-image-preview-oxwjsr.jpg
 ---
 
 # Subvocal Recognition
 
 ## Summary
 
-Detecting speech from neuromuscular signals without audible output.
+Decoding intended speech from throat or brain signals without sound
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: social-license-indices
 hub: stratum
 title: Social License to Operate (SLO) Indices
-summary: Quantified metrics measuring community sentiment and trust.
+summary: Quantified metrics tracking community acceptance and trust in industrial
+  operations
 permalink: https://www.envisioning.com/stratum/social-license-indices
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435246/strat
 
 ## Summary
 
-Quantified metrics measuring community sentiment and trust.
+Quantified metrics tracking community acceptance and trust in industrial operations
 
 ## Description
 

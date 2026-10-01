@@ -2,9 +2,10 @@
 slug: wi-fi-sensing
 hub: horizons
 title: Wi-fi Sensing
-summary: Using Wi-Fi signals to monitor environmental conditions and occupancy.
+summary: Detecting motion, occupancy, and environmental changes through existing Wi-Fi
+  signal analysis
 permalink: https://www.envisioning.com/horizons/wi-fi-sensing
-collection: cities-mobility
+collection: hardware
 trl: 5
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521790/horiz
 
 ## Summary
 
-Using Wi-Fi signals to monitor environmental conditions and occupancy.
+Detecting motion, occupancy, and environmental changes through existing Wi-Fi signal analysis
 
 ## Description
 

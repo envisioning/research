@@ -2,7 +2,7 @@
 slug: visual-neuroprostheses
 hub: cortex
 title: Visual Neuroprostheses
-summary: Restoring sight via cortical or retinal stimulation.
+summary: Neural implants that restore vision by stimulating the retina or visual cortex
 permalink: https://www.envisioning.com/cortex/visual-neuroprostheses
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995732/corte
 
 ## Summary
 
-Restoring sight via cortical or retinal stimulation.
+Neural implants that restore vision by stimulating the retina or visual cortex
 
 ## Description
 

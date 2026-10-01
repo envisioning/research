@@ -2,7 +2,8 @@
 slug: injectable-delivery-innovations
 hub: aura
 title: Injectable Delivery Innovations
-summary: Needle-free jet microinjectors and programmable implants.
+summary: Needle-free injectors and programmable implants for precise, sustained delivery
+  of aesthetic actives
 permalink: https://www.envisioning.com/aura/injectable-delivery-innovations
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990373/aura/
 
 ## Summary
 
-Needle-free jet microinjectors and programmable implants.
+Needle-free injectors and programmable implants for precise, sustained delivery of aesthetic actives
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: energy-burden-reduction
 hub: grid
 title: Energy Burden Reduction Programs
-summary: Targeted interventions lowering energy costs for low-income households.
+summary: Coordinated interventions reducing disproportionate energy costs for low-income
+  households
 permalink: https://www.envisioning.com/grid/energy-burden-reduction
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436089/grid/
 
 ## Summary
 
-Targeted interventions lowering energy costs for low-income households.
+Coordinated interventions reducing disproportionate energy costs for low-income households
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: satellite-methane-monitoring
 hub: grid
 title: Satellite Methane Monitoring
-summary: Space-based detection of methane leaks from gas infrastructure.
+summary: Space-based sensors detect methane leaks from pipelines and gas infrastructure
 permalink: https://www.envisioning.com/grid/satellite-methane-monitoring
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435277/grid/
 
 ## Summary
 
-Space-based detection of methane leaks from gas infrastructure.
+Space-based sensors detect methane leaks from pipelines and gas infrastructure
 
 ## Description
 

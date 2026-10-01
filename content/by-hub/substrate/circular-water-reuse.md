@@ -2,7 +2,8 @@
 slug: circular-water-reuse
 hub: substrate
 title: District-Scale Circular Water Reuse
-summary: Closed-loop systems that reclaim and recycle water within urban districts.
+summary: Closed-loop systems that capture, treat, and redistribute water within defined
+  urban areas
 permalink: https://www.envisioning.com/substrate/circular-water-reuse
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118430/subst
 
 ## Summary
 
-Closed-loop systems that reclaim and recycle water within urban districts.
+Closed-loop systems that capture, treat, and redistribute water within defined urban areas
 
 ## Description
 

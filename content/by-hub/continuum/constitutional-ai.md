@@ -2,7 +2,8 @@
 slug: constitutional-ai
 hub: continuum
 title: Constitutional AI Frameworks
-summary: Embedding human rights and safety rules into AI models.
+summary: Embedding ethical principles and safety constraints directly into AI systems
+  during training
 permalink: https://www.envisioning.com/continuum/constitutional-ai
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125477/conti
 
 ## Summary
 
-Embedding human rights and safety rules into AI models.
+Embedding ethical principles and safety constraints directly into AI systems during training
 
 ## Description
 

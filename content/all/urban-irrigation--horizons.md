@@ -2,9 +2,10 @@
 slug: urban-irrigation
 hub: horizons
 title: Urban Irrigation
-summary: Smart water systems for cooling cities and managing flood risks.
+summary: Sensor-controlled water systems that cool urban surfaces and manage heat
+  through targeted irrigation
 permalink: https://www.envisioning.com/horizons/urban-irrigation
-collection: cities-mobility
+collection: hardware
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521855/horiz
 
 ## Summary
 
-Smart water systems for cooling cities and managing flood risks.
+Sensor-controlled water systems that cool urban surfaces and manage heat through targeted irrigation
 
 ## Description
 

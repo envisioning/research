@@ -2,7 +2,8 @@
 slug: environmental-justice-frameworks
 hub: atmos
 title: Environmental Justice Frameworks
-summary: Ensuring fair distribution of mitigation and adaptation benefits.
+summary: Policy tools embedding equity into climate action through impact assessments
+  and community benefit agreements
 permalink: https://www.envisioning.com/atmos/environmental-justice-frameworks
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010164/atmos
 
 ## Summary
 
-Ensuring fair distribution of mitigation and adaptation benefits.
+Policy tools embedding equity into climate action through impact assessments and community benefit agreements
 
 ## Description
 

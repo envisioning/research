@@ -2,7 +2,8 @@
 slug: portable-volumetric-capture-rigs
 hub: vortex
 title: Portable Volumetric Capture Rigs
-summary: Affordable, mobile gear for 3D content creation.
+summary: Mobile camera arrays that capture subjects as navigable 3D models from multiple
+  angles
 permalink: https://www.envisioning.com/vortex/portable-volumetric-capture-rigs
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126600/vorte
 
 ## Summary
 
-Affordable, mobile gear for 3D content creation.
+Mobile camera arrays that capture subjects as navigable 3D models from multiple angles
 
 ## Description
 

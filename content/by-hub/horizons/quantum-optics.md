@@ -2,9 +2,10 @@
 slug: quantum-optics
 hub: horizons
 title: Quantum Optics
-summary: Manipulating light at the quantum scale for sensing and computing.
+summary: Studying and manipulating light's quantum properties for ultra-precise sensing,
+  secure communication, and photonic compu
 permalink: https://www.envisioning.com/horizons/quantum-optics
-collection: intelligence-computation
+collection: hardware
 trl: 4
 impact: 5
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522049/horiz
 
 ## Summary
 
-Manipulating light at the quantum scale for sensing and computing.
+Studying and manipulating light's quantum properties for ultra-precise sensing, secure communication, and photonic compu
 
 ## Description
 

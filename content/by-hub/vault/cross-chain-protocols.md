@@ -2,7 +2,8 @@
 slug: cross-chain-protocols
 hub: vault
 title: Cross-Chain Interoperability Protocols
-summary: Atomic settlement across blockchain networks.
+summary: Protocols enabling direct asset and data transfers between different blockchain
+  networks
 permalink: https://www.envisioning.com/vault/cross-chain-protocols
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128386/vault
 
 ## Summary
 
-Atomic settlement across blockchain networks.
+Protocols enabling direct asset and data transfers between different blockchain networks
 
 ## Description
 

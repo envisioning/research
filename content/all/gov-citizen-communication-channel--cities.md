@@ -2,14 +2,10 @@
 slug: gov-citizen-communication-channel
 hub: cities
 title: Gov-Citizen Communication Channel
-summary: This comprehensive digital platform streamlines interactions between government
-  entities and citizens. It integrates various tools such as mobile applications,
-  web portals, and interactive kiosks to facilitate multiple touchpoints for engagement.
-  Citizens can report issues, access municipal services, and participate in community
-  decision-making processes through the platform, which enhances civic engagement
-  and government responsiveness.
+summary: Digital platforms connecting residents with city services, issue reporting,
+  and civic participation
 permalink: https://www.envisioning.com/cities/gov-citizen-communication-channel
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: applications
 trl: 8
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719240662-gov-citizen-communic
 
 ## Summary
 
-This comprehensive digital platform streamlines interactions between government entities and citizens. It integrates various tools such as mobile applications, web portals, and interactive kiosks to facilitate multiple touchpoints for engagement. Citizens can report issues, access municipal services, and participate in community decision-making processes through the platform, which enhances civic engagement and government responsiveness.
+Digital platforms connecting residents with city services, issue reporting, and civic participation
 
 ## Description
 

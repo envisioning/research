@@ -2,7 +2,8 @@
 slug: biometric-privacy
 hub: stride
 title: Biometric Data Rights
-summary: Frameworks for protecting athlete physiological data ownership.
+summary: Legal frameworks governing ownership and privacy of athlete physiological
+  data from wearables and sensors
 permalink: https://www.envisioning.com/stride/biometric-privacy
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128616/strid
 
 ## Summary
 
-Frameworks for protecting athlete physiological data ownership.
+Legal frameworks governing ownership and privacy of athlete physiological data from wearables and sensors
 
 ## Description
 

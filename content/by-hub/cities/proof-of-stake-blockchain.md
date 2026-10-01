@@ -2,15 +2,10 @@
 slug: proof-of-stake-blockchain
 hub: cities
 title: Proof-of-Stake Blockchain
-summary: Proof-of-Stake (PoS) is a consensus mechanism that addresses critical energy
-  consumption issues and scalability inherent in traditional blockchain systems like
-  Proof-of-Work (PoW). PoS significantly reduces the computational power and electricity
-  required for blockchain operations by selecting validators based on the number of
-  tokens they hold and are willing to stake as collateral. This method not only conserves
-  energy but also enhances transaction speed and scalability, making it more suitable
-  for various urban applications.
+summary: Energy-efficient blockchain consensus that validates transactions through
+  staked tokens rather than computation
 permalink: https://www.envisioning.com/cities/proof-of-stake-blockchain
-collection: Fo_8Rp1ESF6lBoRbIg0suw
+collection: software
 trl: 9
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792679-proof-of-stake-block
 
 ## Summary
 
-Proof-of-Stake (PoS) is a consensus mechanism that addresses critical energy consumption issues and scalability inherent in traditional blockchain systems like Proof-of-Work (PoW). PoS significantly reduces the computational power and electricity required for blockchain operations by selecting validators based on the number of tokens they hold and are willing to stake as collateral. This method not only conserves energy but also enhances transaction speed and scalability, making it more suitable for various urban applications.
+Energy-efficient blockchain consensus that validates transactions through staked tokens rather than computation
 
 ## Description
 

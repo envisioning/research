@@ -2,8 +2,8 @@
 slug: ai-code-generation-analytics
 hub: datatrends
 title: AI Code Generation Analytics
-summary: AI-powered programming assistants that generate, analyze, and optimize code,
-  transforming software development workflows.
+summary: AI assistants that generate, complete, and review code from natural language
+  prompts
 permalink: https://www.envisioning.com/datatrends/ai-code-generation-analytics
 collection: analytics-in-action
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768769366/datat
 
 ## Summary
 
-AI-powered programming assistants that generate, analyze, and optimize code, transforming software development workflows.
+AI assistants that generate, complete, and review code from natural language prompts
 
 ## Description
 

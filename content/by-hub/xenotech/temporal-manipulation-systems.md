@@ -9,7 +9,7 @@ collection: temporal-dimensional
 trl: 1
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760984321/xenotech/technologies/temporal-displacement-missing-time-tech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903280/xenotech/technologies/temporal-manipulation-systems-openrouter-google-gemini-3.1-flash-image-preview-2hmon6.png
 ---
 
 # Temporal Manipulation

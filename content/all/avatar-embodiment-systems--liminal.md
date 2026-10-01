@@ -2,7 +2,7 @@
 slug: avatar-embodiment-systems
 hub: liminal
 title: Avatar Embodiment Systems
-summary: Pipelines mapping human motion and expression into virtual bodies.
+summary: Real-time systems translating human motion and expression into digital avatars
 permalink: https://www.envisioning.com/liminal/avatar-embodiment-systems
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123772/limin
 
 ## Summary
 
-Pipelines mapping human motion and expression into virtual bodies.
+Real-time systems translating human motion and expression into digital avatars
 
 ## Description
 

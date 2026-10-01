@@ -2,7 +2,8 @@
 slug: biometric-consent-ledgers
 hub: beacon
 title: Biometric Consent Ledgers
-summary: Immutable logs for physiological data permissions.
+summary: Immutable records tracking permissions for biometric and physiological data
+  collection
 permalink: https://www.envisioning.com/beacon/biometric-consent-ledgers
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124382/beaco
 
 ## Summary
 
-Immutable logs for physiological data permissions.
+Immutable records tracking permissions for biometric and physiological data collection
 
 ## Description
 

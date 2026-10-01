@@ -2,7 +2,8 @@
 slug: retinal-projection-systems
 hub: liminal
 title: Retinal Projection Systems
-summary: Ultra-compact displays projecting directly onto the retina.
+summary: Laser-based displays that beam images directly onto the retina, bypassing
+  external screens
 permalink: https://www.envisioning.com/liminal/retinal-projection-systems
 collection: hardware
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124842/limin
 
 ## Summary
 
-Ultra-compact displays projecting directly onto the retina.
+Laser-based displays that beam images directly onto the retina, bypassing external screens
 
 ## Description
 

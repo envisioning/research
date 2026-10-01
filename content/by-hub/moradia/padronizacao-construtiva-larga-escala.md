@@ -2,7 +2,8 @@
 slug: padronizacao-construtiva-larga-escala
 hub: moradia
 title: Padronização Construtiva em Larga Escala
-summary: Padronização de componentes e processos para produção em massa.
+summary: Componentes modulares e processos repetíveis para construção habitacional
+  em massa
 permalink: https://www.envisioning.com/moradia/padronizacao-construtiva-larga-escala
 collection: materiais-componentes
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766579809/habit
 
 ## Summary
 
-Padronização de componentes e processos para produção em massa.
+Componentes modulares e processos repetíveis para construção habitacional em massa
 
 ## Description
 

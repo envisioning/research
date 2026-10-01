@@ -2,7 +2,7 @@
 slug: sbsp
 hub: substrate
 title: Space-Based Solar Power (SBSP)
-summary: Orbital solar arrays beaming clean energy wirelessly to Earth.
+summary: Orbital solar arrays that beam continuous clean energy wirelessly to Earth
 permalink: https://www.envisioning.com/substrate/sbsp
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117639/subst
 
 ## Summary
 
-Orbital solar arrays beaming clean energy wirelessly to Earth.
+Orbital solar arrays that beam continuous clean energy wirelessly to Earth
 
 ## Description
 

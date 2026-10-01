@@ -2,20 +2,20 @@
 slug: eps-conduits
 hub: subspace
 title: EPS Conduits
-summary: Electro-Plasma System distributing power throughout the vessel.
+summary: Plasma-based power distribution network for spacecraft energy systems
 permalink: https://www.envisioning.com/subspace/eps-conduits
 collection: energy
 trl: 7
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760210907/subspaceindex/technologies/eps-conduits.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908007/subspace/technologies/eps-conduits-openrouter-google-gemini-3.1-flash-image-preview-rqq80p.png
 ---
 
 # EPS Conduits
 
 ## Summary
 
-Electro-Plasma System distributing power throughout the vessel.
+Plasma-based power distribution network for spacecraft energy systems
 
 ## Description
 

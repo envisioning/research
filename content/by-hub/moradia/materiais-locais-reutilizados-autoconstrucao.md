@@ -2,7 +2,8 @@
 slug: materiais-locais-reutilizados-autoconstrucao
 hub: moradia
 title: Materiais Locais e Reutilizados em Autoconstrução
-summary: Uso de materiais de baixo custo, reciclados ou locais em construções informais.
+summary: Materiais reciclados, doados ou locais adaptados para construção informal
+  de baixo custo
 permalink: https://www.envisioning.com/moradia/materiais-locais-reutilizados-autoconstrucao
 collection: materiais-componentes
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592138/habit
 
 ## Summary
 
-Uso de materiais de baixo custo, reciclados ou locais em construções informais.
+Materiais reciclados, doados ou locais adaptados para construção informal de baixo custo
 
 ## Description
 

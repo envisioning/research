@@ -2,7 +2,8 @@
 slug: cyber-physical-defense
 hub: aegis
 title: Cyber-Physical Defense Integration
-summary: Adaptive security layers binding OT, IoT, and IT infrastructure.
+summary: Unified security architecture protecting interconnected IT, OT, and IoT systems
+  from cyber-physical threats
 permalink: https://www.envisioning.com/aegis/cyber-physical-defense
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010162/aegis
 
 ## Summary
 
-Adaptive security layers binding OT, IoT, and IT infrastructure.
+Unified security architecture protecting interconnected IT, OT, and IoT systems from cyber-physical threats
 
 ## Description
 

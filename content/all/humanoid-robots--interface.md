@@ -2,22 +2,21 @@
 slug: humanoid-robots
 hub: interface
 title: Humanoid Robots
-summary: Advanced humanoid robots with proprietary gearless actuators and generative
-  AI, creating "A Robot for All" platform capable of performing diverse tasks in human
-  environments, targeting industrial sectors.
+summary: Bipedal robots designed to work in human spaces using AI-driven movement
+  and task adaptation
 permalink: https://www.envisioning.com/interface/humanoid-robots
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886668/interface/technologies/39f65690-be4f-4e5e-a8f6-b416c8f06a14-google-gemini-3.1-flash-image-preview-5780jk.jpg
 ---
 
 # Humanoid Robots
 
 ## Summary
 
-Advanced humanoid robots with proprietary gearless actuators and generative AI, creating "A Robot for All" platform capable of performing diverse tasks in human environments, targeting industrial sectors.
+Bipedal robots designed to work in human spaces using AI-driven movement and task adaptation
 
 ## Description
 

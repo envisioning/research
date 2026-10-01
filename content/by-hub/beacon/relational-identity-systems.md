@@ -2,7 +2,8 @@
 slug: relational-identity-systems
 hub: beacon
 title: Relational Identity Systems
-summary: Non-Western models of contextual, social identity.
+summary: Digital identity frameworks that reflect contextual, relationship-based models
+  from non-Western cultures
 permalink: https://www.envisioning.com/beacon/relational-identity-systems
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281650/beaco
 
 ## Summary
 
-Non-Western models of contextual, social identity.
+Digital identity frameworks that reflect contextual, relationship-based models from non-Western cultures
 
 ## Description
 

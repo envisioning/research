@@ -2,7 +2,8 @@
 slug: dna-based-skincare
 hub: aura
 title: DNA-Based Skincare
-summary: Regimens tailored to genetic tests covering collagen, pigmentation, detox.
+summary: Skincare regimens personalized through genetic testing for aging, pigmentation,
+  and skin health
 permalink: https://www.envisioning.com/aura/dna-based-skincare
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074478/aura/
 
 ## Summary
 
-Regimens tailored to genetic tests covering collagen, pigmentation, detox.
+Skincare regimens personalized through genetic testing for aging, pigmentation, and skin health
 
 ## Description
 

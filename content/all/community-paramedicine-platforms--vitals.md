@@ -2,8 +2,8 @@
 slug: community-paramedicine-platforms
 hub: vitals
 title: Community Paramedicine & Mobile Integrated Health
-summary: Programs that redeploy EMS teams to deliver scheduled, preventive, and post-discharge
-  care in the community.
+summary: EMS teams delivering preventive care, chronic disease management, and post-discharge
+  support in patients' homes
 permalink: https://www.envisioning.com/vitals/community-paramedicine-platforms
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441663/vital
 
 ## Summary
 
-Programs that redeploy EMS teams to deliver scheduled, preventive, and post-discharge care in the community.
+EMS teams delivering preventive care, chronic disease management, and post-discharge support in patients' homes
 
 ## Description
 

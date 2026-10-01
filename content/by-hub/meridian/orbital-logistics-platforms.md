@@ -2,7 +2,8 @@
 slug: orbital-logistics-platforms
 hub: meridian
 title: Orbital Logistics Platforms
-summary: Infrastructure for maintaining space dominance.
+summary: Orbital service stations that refuel, repair, and reposition satellites in
+  space
 permalink: https://www.envisioning.com/meridian/orbital-logistics-platforms
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128568/merid
 
 ## Summary
 
-Infrastructure for maintaining space dominance.
+Orbital service stations that refuel, repair, and reposition satellites in space
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: auditoria-transparencia-contratos-ppp
 hub: moradia
 title: Auditoria e Transparência em Contratos de PPP
-summary: Governança sobre metas, indicadores e prestação de contas em concessões de
-  longo prazo.
+summary: Governança de metas e prestação de contas em concessões habitacionais de
+  longo prazo
 permalink: https://www.envisioning.com/moradia/auditoria-transparencia-contratos-ppp
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360295/conec
 
 ## Summary
 
-Governança sobre metas, indicadores e prestação de contas em concessões de longo prazo.
+Governança de metas e prestação de contas em concessões habitacionais de longo prazo
 
 ## Description
 

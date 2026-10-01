@@ -2,7 +2,8 @@
 slug: software-supply-chain-security-sbom
 hub: altitude
 title: Software Supply Chain Security (SBOM, Provenance, Updates)
-summary: Preventing compromise of avionics and ground systems via dependencies.
+summary: Verifying and tracking software components in avionics and ground systems
+  to prevent malicious code
 permalink: https://www.envisioning.com/altitude/software-supply-chain-security-sbom
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649005/altit
 
 ## Summary
 
-Preventing compromise of avionics and ground systems via dependencies.
+Verifying and tracking software components in avionics and ground systems to prevent malicious code
 
 ## Description
 

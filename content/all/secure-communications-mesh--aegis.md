@@ -2,7 +2,8 @@
 slug: secure-communications-mesh
 hub: aegis
 title: Secure Communications Mesh
-summary: Self-healing tactical networks operating under jamming.
+summary: Decentralized tactical networks that maintain connectivity under jamming
+  and infrastructure loss
 permalink: https://www.envisioning.com/aegis/secure-communications-mesh
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075656/aegis
 
 ## Summary
 
-Self-healing tactical networks operating under jamming.
+Decentralized tactical networks that maintain connectivity under jamming and infrastructure loss
 
 ## Description
 

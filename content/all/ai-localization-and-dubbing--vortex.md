@@ -2,7 +2,8 @@
 slug: ai-localization-and-dubbing
 hub: vortex
 title: AI Localization & Dubbing Engines
-summary: Real-time translation, lip-sync, and voice cloning for global releases.
+summary: Neural translation, voice cloning, and lip-sync automation for multilingual
+  content distribution
 permalink: https://www.envisioning.com/vortex/ai-localization-and-dubbing
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126748/vorte
 
 ## Summary
 
-Real-time translation, lip-sync, and voice cloning for global releases.
+Neural translation, voice cloning, and lip-sync automation for multilingual content distribution
 
 ## Description
 

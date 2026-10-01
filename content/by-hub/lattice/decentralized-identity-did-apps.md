@@ -2,7 +2,8 @@
 slug: decentralized-identity-did-apps
 hub: lattice
 title: Decentralized Identity (DID) Applications
-summary: Wallet-native identity credentials controlling access and compliance.
+summary: Wallet-based credentials for privacy-preserving identity verification and
+  access control
 permalink: https://www.envisioning.com/lattice/decentralized-identity-did-apps
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179945/latti
 
 ## Summary
 
-Wallet-native identity credentials controlling access and compliance.
+Wallet-based credentials for privacy-preserving identity verification and access control
 
 ## Description
 

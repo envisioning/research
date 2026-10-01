@@ -2,20 +2,21 @@
 slug: plasma-weapon
 hub: subspace
 title: Plasma Weapon
-summary: Romulan and Cardassian directed energy weapon firing superheated plasma bolts.
+summary: Directed energy weapon that fires magnetically-contained bolts of superheated
+  ionized gas
 permalink: https://www.envisioning.com/subspace/plasma-weapon
 collection: weapons
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760213314/subspaceindex/technologies/plasma-weapon.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908692/subspace/technologies/plasma-weapon-openrouter-google-gemini-3.1-flash-image-preview-2kktk2.png
 ---
 
 # Plasma Weapon
 
 ## Summary
 
-Romulan and Cardassian directed energy weapon firing superheated plasma bolts.
+Directed energy weapon that fires magnetically-contained bolts of superheated ionized gas
 
 ## Description
 

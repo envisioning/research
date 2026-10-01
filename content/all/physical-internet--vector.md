@@ -2,8 +2,8 @@
 slug: physical-internet
 hub: vector
 title: Physical Internet
-summary: Open global logistics system based on physical, digital, and operational
-  interconnectivity.
+summary: Standardized modular logistics network enabling shared routing of goods across
+  open infrastructure
 permalink: https://www.envisioning.com/vector/physical-internet
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182257/vecto
 
 ## Summary
 
-Open global logistics system based on physical, digital, and operational interconnectivity.
+Standardized modular logistics network enabling shared routing of goods across open infrastructure
 
 ## Description
 

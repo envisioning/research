@@ -2,8 +2,8 @@
 slug: quantum-intermediate-representation
 hub: superposition
 title: Quantum Intermediate Representation (QIR)
-summary: Standardized low-level representation allowing interoperability between languages
-  and hardware.
+summary: Common format enabling quantum programs to run across different languages
+  and hardware platforms
 permalink: https://www.envisioning.com/superposition/quantum-intermediate-representation
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181266/super
 
 ## Summary
 
-Standardized low-level representation allowing interoperability between languages and hardware.
+Common format enabling quantum programs to run across different languages and hardware platforms
 
 ## Description
 

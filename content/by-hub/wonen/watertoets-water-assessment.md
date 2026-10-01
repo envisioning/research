@@ -9,7 +9,7 @@ collection: barriers-opposition
 trl: 3
 impact: 3
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889075/wonen/technologies/6f512542-97f5-422b-8513-80d48cd14a66-google-gemini-3.1-flash-image-preview-q2wu1z.jpg
 ---
 
 # Watertoets (Water Assessment)

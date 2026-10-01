@@ -2,8 +2,8 @@
 slug: circular-manufacturing-systems
 hub: forge
 title: Circular Manufacturing Systems
-summary: Closed-loop production models that recover, refurbish, and remanufacture
-  products.
+summary: Closed-loop production networks that recover and remanufacture materials
+  to eliminate waste
 permalink: https://www.envisioning.com/forge/circular-manufacturing-systems
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118396/forge
 
 ## Summary
 
-Closed-loop production models that recover, refurbish, and remanufacture products.
+Closed-loop production networks that recover and remanufacture materials to eliminate waste
 
 ## Description
 

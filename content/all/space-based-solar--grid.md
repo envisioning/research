@@ -2,7 +2,8 @@
 slug: space-based-solar
 hub: grid
 title: Space-Based Solar Power
-summary: Orbital solar arrays beaming energy to Earth via microwaves or lasers.
+summary: Orbital solar arrays that capture continuous sunlight and beam energy to
+  Earth wirelessly
 permalink: https://www.envisioning.com/grid/space-based-solar
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435956/grid/
 
 ## Summary
 
-Orbital solar arrays beaming energy to Earth via microwaves or lasers.
+Orbital solar arrays that capture continuous sunlight and beam energy to Earth wirelessly
 
 ## Description
 

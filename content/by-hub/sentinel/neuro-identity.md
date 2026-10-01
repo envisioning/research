@@ -2,7 +2,8 @@
 slug: neuro-identity
 hub: sentinel
 title: Neuro-Identity Interfaces
-summary: Brain-Computer Interfaces for authentication via unique neural signatures.
+summary: Authentication using unique brain activity patterns captured through neural
+  sensors
 permalink: https://www.envisioning.com/sentinel/neuro-identity
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462025/senti
 
 ## Summary
 
-Brain-Computer Interfaces for authentication via unique neural signatures.
+Authentication using unique brain activity patterns captured through neural sensors
 
 ## Description
 

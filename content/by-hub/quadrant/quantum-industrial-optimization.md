@@ -2,7 +2,8 @@
 slug: quantum-industrial-optimization
 hub: quadrant
 title: Quantum Computing for Industrial Optimization
-summary: Quantum processors solving intractable scheduling and routing.
+summary: Quantum processors tackling complex scheduling, routing, and optimization
+  problems in manufacturing
 permalink: https://www.envisioning.com/quadrant/quantum-industrial-optimization
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126477/quadr
 
 ## Summary
 
-Quantum processors solving intractable scheduling and routing.
+Quantum processors tackling complex scheduling, routing, and optimization problems in manufacturing
 
 ## Description
 

@@ -2,10 +2,8 @@
 slug: fachadas-animadas-presenca-urbana-noturna
 hub: moradia
 title: Fachadas Animadas e Presença Urbana Noturna
-summary: Iluminação programável de fachadas transformando edifícios residenciais e
-  de uso misto em atores urbanos baseados em tempo, estendendo habitação para a noite
-  e introduzindo humor, identidade e orientação através de luz dinâmica ao invés de
-  forma física.
+summary: Iluminação programável que transforma fachadas em superfícies expressivas
+  durante a noite
 permalink: https://www.envisioning.com/moradia/fachadas-animadas-presenca-urbana-noturna
 collection: cidade-infraestrutura-urbana
 trl: 3
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766665161/habit
 
 ## Summary
 
-Iluminação programável de fachadas transformando edifícios residenciais e de uso misto em atores urbanos baseados em tempo, estendendo habitação para a noite e introduzindo humor, identidade e orientação através de luz dinâmica ao invés de forma física.
+Iluminação programável que transforma fachadas em superfícies expressivas durante a noite
 
 ## Description
 

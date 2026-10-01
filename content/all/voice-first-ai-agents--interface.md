@@ -2,12 +2,13 @@
 slug: voice-first-ai-agents
 hub: interface
 title: Voice-First AI Agents
-summary: Conversational LLM interfaces embedded in industrial and consumer workflows.
+summary: Conversational AI systems that use natural language for hands-free interaction
+  with devices and services
 permalink: https://www.envisioning.com/interface/voice-first-ai-agents
-collection: advanced-interaction-modalities
+collection: software
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742732/interface/technologies/voice-first-ai-agents-google-gemini-3-pro-image-preview-v34d13.jpg
 ---
 
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742732/inter
 
 ## Summary
 
-Conversational LLM interfaces embedded in industrial and consumer workflows.
+Conversational AI systems that use natural language for hands-free interaction with devices and services
 
 ## Description
 

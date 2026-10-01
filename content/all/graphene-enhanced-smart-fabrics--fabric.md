@@ -2,8 +2,8 @@
 slug: graphene-enhanced-smart-fabrics
 hub: fabric
 title: Graphene-Enhanced Smart Fabrics
-summary: Ultra-thin conductive layers enabling sensing, heating, or energy storage
-  in textiles.
+summary: Conductive nanolayers that add sensing, heating, or energy storage to flexible
+  textiles
 permalink: https://www.envisioning.com/fabric/graphene-enhanced-smart-fabrics
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058231/threa
 
 ## Summary
 
-Ultra-thin conductive layers enabling sensing, heating, or energy storage in textiles.
+Conductive nanolayers that add sensing, heating, or energy storage to flexible textiles
 
 ## Description
 

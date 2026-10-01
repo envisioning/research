@@ -2,21 +2,21 @@
 slug: breakthrough-flight-cockpits
 hub: xenotech
 title: Human Factors
-summary: Cockpit design for breakthrough flight—human-machine interfaces assuming
-  warp drives, inertial modification, or non-Newtonian aerospace become operational.
+summary: Cockpit design and crew interfaces for hypothetical spacecraft using warp
+  drives or inertial modification
 permalink: https://www.envisioning.com/xenotech/breakthrough-flight-cockpits
 collection: energy-systems
 trl: 2
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761154945/xenotech/technologies/breakthrough-flight-cockpits.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898453/xenotech/technologies/breakthrough-flight-cockpits-openrouter-google-gemini-3.1-flash-image-preview-1z49dd.png
 ---
 
 # Human Factors
 
 ## Summary
 
-Cockpit design for breakthrough flight—human-machine interfaces assuming warp drives, inertial modification, or non-Newtonian aerospace become operational.
+Cockpit design and crew interfaces for hypothetical spacecraft using warp drives or inertial modification
 
 ## Description
 

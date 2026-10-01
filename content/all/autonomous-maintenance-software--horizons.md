@@ -2,9 +2,10 @@
 slug: autonomous-maintenance-software
 hub: horizons
 title: Autonomous Maintenance Software
-summary: AI-driven systems for self-monitoring and repairing urban infrastructure.
+summary: Self-monitoring infrastructure that detects issues and triggers automated
+  repairs using AI and IoT sensors
 permalink: https://www.envisioning.com/horizons/autonomous-maintenance-software
-collection: intelligence-computation
+collection: software
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521653/horiz
 
 ## Summary
 
-AI-driven systems for self-monitoring and repairing urban infrastructure.
+Self-monitoring infrastructure that detects issues and triggers automated repairs using AI and IoT sensors
 
 ## Description
 

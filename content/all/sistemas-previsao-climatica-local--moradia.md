@@ -2,7 +2,8 @@
 slug: sistemas-previsao-climatica-local
 hub: moradia
 title: Sistemas de Previsão Climática Local
-summary: Plataformas de previsão climática específicas para áreas urbanas locais.
+summary: Previsões meteorológicas em escala de bairro usando sensores urbanos e modelos
+  de alta resolução
 permalink: https://www.envisioning.com/moradia/sistemas-previsao-climatica-local
 collection: plataformas-dados
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583672/habit
 
 ## Summary
 
-Plataformas de previsão climática específicas para áreas urbanas locais.
+Previsões meteorológicas em escala de bairro usando sensores urbanos e modelos de alta resolução
 
 ## Description
 

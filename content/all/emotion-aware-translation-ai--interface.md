@@ -2,13 +2,13 @@
 slug: emotion-aware-translation-ai
 hub: interface
 title: Emotion-Aware Translation AI
-summary: World's first AI platform that translates not just words, but tone, nuance,
-  and emotion across 7,000+ languages with cultural intent understanding.
+summary: AI translation that preserves emotional tone and cultural context across
+  languages
 permalink: https://www.envisioning.com/interface/emotion-aware-translation-ai
-collection: advanced-interaction-modalities
+collection: software
 trl: 6
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737609/interface/technologies/emotion-aware-translation-ai-google-gemini-3-pro-image-preview-5038me.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737609/inter
 
 ## Summary
 
-World's first AI platform that translates not just words, but tone, nuance, and emotion across 7,000+ languages with cultural intent understanding.
+AI translation that preserves emotional tone and cultural context across languages
 
 ## Description
 

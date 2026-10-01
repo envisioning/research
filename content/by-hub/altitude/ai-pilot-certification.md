@@ -2,7 +2,8 @@
 slug: ai-pilot-certification
 hub: altitude
 title: AI Pilot / Autonomy Certification Frameworks
-summary: Evidence standards for safety, accountability, and limitations of autonomy.
+summary: Standards for proving AI flight systems are safe, accountable, and aware
+  of their limits
 permalink: https://www.envisioning.com/altitude/ai-pilot-certification
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765648894/altit
 
 ## Summary
 
-Evidence standards for safety, accountability, and limitations of autonomy.
+Standards for proving AI flight systems are safe, accountable, and aware of their limits
 
 ## Description
 

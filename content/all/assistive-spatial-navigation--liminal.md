@@ -2,7 +2,8 @@
 slug: assistive-spatial-navigation
 hub: liminal
 title: Assistive Spatial Navigation
-summary: XR systems for blind, low-vision, and mobility-impaired users.
+summary: XR systems that guide blind, low-vision, and mobility-impaired users through
+  physical spaces
 permalink: https://www.envisioning.com/liminal/assistive-spatial-navigation
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123767/limin
 
 ## Summary
 
-XR systems for blind, low-vision, and mobility-impaired users.
+XR systems that guide blind, low-vision, and mobility-impaired users through physical spaces
 
 ## Description
 

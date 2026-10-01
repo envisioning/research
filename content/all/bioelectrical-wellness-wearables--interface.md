@@ -2,21 +2,21 @@
 slug: bioelectrical-wellness-wearables
 hub: interface
 title: Bioelectrical Wellness Wearables
-summary: Smart textiles delivering gentle microcurrent stimulation for body shaping
-  and wellness.
+summary: Wearable fabrics delivering microcurrent stimulation for muscle toning and
+  circulation
 permalink: https://www.envisioning.com/interface/bioelectrical-wellness-wearables
-collection: wearables-health-sensing
+collection: hardware
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889553/interface/technologies/86df997e-c079-43dd-97cf-7af5d12ca191-google-gemini-3.1-flash-image-preview-0ucolq.jpg
 ---
 
 # Bioelectrical Wellness Wearables
 
 ## Summary
 
-Smart textiles delivering gentle microcurrent stimulation for body shaping and wellness.
+Wearable fabrics delivering microcurrent stimulation for muscle toning and circulation
 
 ## Description
 

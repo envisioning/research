@@ -2,7 +2,8 @@
 slug: orbital-edge-cloud
 hub: apogee
 title: Orbital Edge Cloud Computing
-summary: Data centers in orbit processing raw sensor data at the source.
+summary: Satellites with onboard processing power that analyze Earth observation data
+  before transmission
 permalink: https://www.envisioning.com/apogee/orbital-edge-cloud
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011681/apoge
 
 ## Summary
 
-Data centers in orbit processing raw sensor data at the source.
+Satellites with onboard processing power that analyze Earth observation data before transmission
 
 ## Description
 

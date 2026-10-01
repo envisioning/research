@@ -2,15 +2,12 @@
 slug: ai-based-signal-processing-for-hearing
 hub: interface
 title: AI-Based Signal Processing for Hearing
-summary: Technologies enhancing speech clarity in noisy environments, featuring Denoiser,
-  Beamformer, Echo Canceller, and Coneformer™ for voice isolation by angle and distance,
-  optimized for low-latency, low-power DSPs/SoCs such as Airoha, Qualcomm, NXP, BES,
-  Wuqi, ARM, and STMicro.
+summary: AI algorithms that isolate speech from noise in hearing devices and earbuds
 permalink: https://www.envisioning.com/interface/ai-based-signal-processing-for-hearing
-collection: wearables-health-sensing
+collection: software
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739180/interface/technologies/ai-based-signal-processing-for-hearing-google-gemini-3-pro-image-preview-ve237y.png
 ---
 
@@ -18,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765739180/inter
 
 ## Summary
 
-Technologies enhancing speech clarity in noisy environments, featuring Denoiser, Beamformer, Echo Canceller, and Coneformer™ for voice isolation by angle and distance, optimized for low-latency, low-power DSPs/SoCs such as Airoha, Qualcomm, NXP, BES, Wuqi, ARM, and STMicro.
+AI algorithms that isolate speech from noise in hearing devices and earbuds
 
 ## Description
 

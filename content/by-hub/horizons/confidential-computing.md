@@ -2,9 +2,9 @@
 slug: confidential-computing
 hub: horizons
 title: Confidential Computing
-summary: Secure data processing within isolated hardware enclaves.
+summary: Hardware-isolated environments that encrypt data during active processing
 permalink: https://www.envisioning.com/horizons/confidential-computing
-collection: intelligence-computation
+collection: software
 trl: 6
 impact: 5
 investment: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526148/horiz
 
 ## Summary
 
-Secure data processing within isolated hardware enclaves.
+Hardware-isolated environments that encrypt data during active processing
 
 ## Description
 

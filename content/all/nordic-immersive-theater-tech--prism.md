@@ -2,7 +2,8 @@
 slug: nordic-immersive-theater-tech
 hub: prism
 title: Nordic Immersive Theater Tech
-summary: Multi-sensory theater infrastructures blending scent, haptics, and projection.
+summary: Theater systems using scent, biofeedback, and projection to create wellness-focused
+  immersive experiences
 permalink: https://www.envisioning.com/prism/nordic-immersive-theater-tech
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069432/pulse
 
 ## Summary
 
-Multi-sensory theater infrastructures blending scent, haptics, and projection.
+Theater systems using scent, biofeedback, and projection to create wellness-focused immersive experiences
 
 ## Description
 

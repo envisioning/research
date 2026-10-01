@@ -2,9 +2,10 @@
 slug: circular-battery
 hub: horizons
 title: Circular Battery
-summary: Sustainable batteries designed for reuse, refurbishment, and recycling.
+summary: Batteries engineered for reuse, refurbishment, and material recovery across
+  multiple lifecycles
 permalink: https://www.envisioning.com/horizons/circular-battery
-collection: energy-environment
+collection: hardware
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526132/horiz
 
 ## Summary
 
-Sustainable batteries designed for reuse, refurbishment, and recycling.
+Batteries engineered for reuse, refurbishment, and material recovery across multiple lifecycles
 
 ## Description
 

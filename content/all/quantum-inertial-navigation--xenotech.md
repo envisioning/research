@@ -2,21 +2,21 @@
 slug: quantum-inertial-navigation
 hub: xenotech
 title: Quantum Navigation
-summary: Non-GPS navigation using quantum sensing, inertial reference frames, or exotic
-  coordinate systems—enabling autonomous navigation without external signals.
+summary: Self-contained positioning using quantum sensors or inertial systems, no
+  GPS or external signals required
 permalink: https://www.envisioning.com/xenotech/quantum-inertial-navigation
 collection: temporal-dimensional
 trl: 5
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760815410/xenotech/technologies/quantum-teleportation.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939882/xenotech/technologies/quantum-inertial-navigation-imagegen-v1.png
 ---
 
 # Quantum Navigation
 
 ## Summary
 
-Non-GPS navigation using quantum sensing, inertial reference frames, or exotic coordinate systems—enabling autonomous navigation without external signals.
+Self-contained positioning using quantum sensors or inertial systems, no GPS or external signals required
 
 ## Description
 

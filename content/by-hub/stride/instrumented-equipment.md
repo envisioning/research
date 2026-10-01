@@ -2,7 +2,8 @@
 slug: instrumented-equipment
 hub: stride
 title: Instrumented Balls, Bats & Rackets
-summary: Embedded IMUs measuring spin, impact, and swing kinematics in equipment.
+summary: Sensors embedded in sports gear to track spin, impact force, and swing mechanics
+  in real time
 permalink: https://www.envisioning.com/stride/instrumented-equipment
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128087/strid
 
 ## Summary
 
-Embedded IMUs measuring spin, impact, and swing kinematics in equipment.
+Sensors embedded in sports gear to track spin, impact force, and swing mechanics in real time
 
 ## Description
 

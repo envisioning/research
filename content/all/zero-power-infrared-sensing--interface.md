@@ -2,13 +2,13 @@
 slug: zero-power-infrared-sensing
 hub: interface
 title: Zero-Power Infrared Sensing
-summary: '"Wake-up" sensors that consume effectively no battery power in standby,
-  utilizing signal energy to activate.'
+summary: Infrared motion sensors that draw zero standby power, waking only when detecting
+  heat signatures
 permalink: https://www.envisioning.com/interface/zero-power-infrared-sensing
-collection: ambient-contextual-systems
+collection: hardware
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743299/interface/technologies/zero-power-infrared-sensing-google-gemini-3-pro-image-preview-yx4llv.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743299/inter
 
 ## Summary
 
-"Wake-up" sensors that consume effectively no battery power in standby, utilizing signal energy to activate.
+Infrared motion sensors that draw zero standby power, waking only when detecting heat signatures
 
 ## Description
 

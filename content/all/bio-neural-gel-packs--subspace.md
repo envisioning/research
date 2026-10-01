@@ -2,21 +2,21 @@
 slug: bio-neural-gel-packs
 hub: subspace
 title: Bio-Neural Gel Packs
-summary: Organic computing substrate using cultured neural tissue for enhanced processing
-  speed and adaptability.
+summary: Cultured neural tissue as computing substrate for parallel processing and
+  pattern recognition
 permalink: https://www.envisioning.com/subspace/bio-neural-gel-packs
 collection: computing
 trl: 5
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760213421/subspaceindex/technologies/bio-neural-gel-packs.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907486/subspace/technologies/bio-neural-gel-packs-openrouter-google-gemini-3.1-flash-image-preview-umdfr0.png
 ---
 
 # Bio-Neural Gel Packs
 
 ## Summary
 
-Organic computing substrate using cultured neural tissue for enhanced processing speed and adaptability.
+Cultured neural tissue as computing substrate for parallel processing and pattern recognition
 
 ## Description
 

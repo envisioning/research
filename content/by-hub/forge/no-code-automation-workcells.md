@@ -2,8 +2,8 @@
 slug: no-code-automation-workcells
 hub: forge
 title: No-Code Automation Workcells
-summary: Demonstration-based and no-code tools that let operators configure automation
-  without programming.
+summary: Automation systems configured by demonstration instead of code, enabling
+  faster deployment
 permalink: https://www.envisioning.com/forge/no-code-automation-workcells
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120082/forge
 
 ## Summary
 
-Demonstration-based and no-code tools that let operators configure automation without programming.
+Automation systems configured by demonstration instead of code, enabling faster deployment
 
 ## Description
 

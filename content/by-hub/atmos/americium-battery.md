@@ -2,19 +2,21 @@
 slug: americium-battery
 hub: atmos
 title: Americium Battery
-summary: Radioisotope power source using americium-241 for long-duration missions.
+summary: Nuclear battery using americium-241 for decades-long space missions beyond
+  solar reach
 permalink: https://www.envisioning.com/atmos/americium-battery
 collection: hardware
 trl: 4
 impact: 4
 investment: 3
+image_url: null
 ---
 
 # Americium Battery
 
 ## Summary
 
-Radioisotope power source using americium-241 for long-duration missions.
+Nuclear battery using americium-241 for decades-long space missions beyond solar reach
 
 ## Description
 

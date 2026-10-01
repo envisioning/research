@@ -2,7 +2,8 @@
 slug: multisensory-synchronization-protocols
 hub: prism
 title: Multi-Sensory Synchronization Protocols
-summary: Timing protocols aligning visuals, audio, scent, and haptics across devices.
+summary: Timing protocols that align visuals, audio, haptics, scent, and lighting
+  across devices
 permalink: https://www.envisioning.com/prism/multisensory-synchronization-protocols
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062615/pulse
 
 ## Summary
 
-Timing protocols aligning visuals, audio, scent, and haptics across devices.
+Timing protocols that align visuals, audio, haptics, scent, and lighting across devices
 
 ## Description
 

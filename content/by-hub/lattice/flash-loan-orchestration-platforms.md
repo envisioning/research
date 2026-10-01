@@ -2,7 +2,7 @@
 slug: flash-loan-orchestration-platforms
 hub: lattice
 title: Flash Loan Platforms
-summary: Uncollateralized, single-block credit rails for arbitrage and liquidation.
+summary: Uncollateralized loans borrowed and repaid in a single blockchain transaction
 permalink: https://www.envisioning.com/lattice/flash-loan-orchestration-platforms
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075383/flows
 
 ## Summary
 
-Uncollateralized, single-block credit rails for arbitrage and liquidation.
+Uncollateralized loans borrowed and repaid in a single blockchain transaction
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: genesis-device
 hub: subspace
 title: Genesis Device
-summary: Experimental terraforming technology capable of rapidly reorganizing matter
-  to create life-supporting planets.
+summary: Rapid planetary transformation through matter reorganization at the subatomic
+  level
 permalink: https://www.envisioning.com/subspace/genesis-device
 collection: weapons
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760212602/subspaceindex/technologies/genesis-device.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908044/subspace/technologies/genesis-device-openrouter-google-gemini-3.1-flash-image-preview-fti1ur.png
 ---
 
 # Genesis Device
 
 ## Summary
 
-Experimental terraforming technology capable of rapidly reorganizing matter to create life-supporting planets.
+Rapid planetary transformation through matter reorganization at the subatomic level
 
 ## Description
 

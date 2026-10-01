@@ -2,7 +2,7 @@
 slug: organizational-sensing-fabrics
 hub: synapse
 title: Organizational Sensing Fabrics
-summary: Dense sensor networks that map how space, time, and teams are actually used.
+summary: Sensor networks that track how teams use physical workspace in real time
 permalink: https://www.envisioning.com/synapse/organizational-sensing-fabrics
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126423/synap
 
 ## Summary
 
-Dense sensor networks that map how space, time, and teams are actually used.
+Sensor networks that track how teams use physical workspace in real time
 
 ## Description
 

@@ -2,10 +2,8 @@
 slug: modelos-hibridos-posse-regularizacao-digital
 hub: moradia
 title: Modelos Híbridos de Posse e Regularização Digital
-summary: Sistema integrado de regularização fundiária que reconhece e trabalha com
-  a realidade de posse vs. propriedade, combinando ZEIS, usucapião, titulação progressiva,
-  regularização fundiária digital e modelos de posse, criando abordagens híbridas
-  para titulação e segurança jurídica.
+summary: Integra ZEIS, usucapião e titulação digital para reconhecer e regularizar
+  formas diversas de posse habitacional
 permalink: https://www.envisioning.com/moradia/modelos-hibridos-posse-regularizacao-digital
 collection: modelos-mercado-governanca
 trl: 4
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582767/habit
 
 ## Summary
 
-Sistema integrado de regularização fundiária que reconhece e trabalha com a realidade de posse vs. propriedade, combinando ZEIS, usucapião, titulação progressiva, regularização fundiária digital e modelos de posse, criando abordagens híbridas para titulação e segurança jurídica.
+Integra ZEIS, usucapião e titulação digital para reconhecer e regularizar formas diversas de posse habitacional
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: immersive-workspaces-and-classrooms
 hub: soma
 title: Immersive Workspaces and Classrooms
-summary: Persistent XR environments for collaborative work, learning, and cultural
-  exchange.
+summary: Persistent XR environments blending physical and digital spaces for collaborative
+  work and learning
 permalink: https://www.envisioning.com/soma/immersive-workspaces-and-classrooms
 collection: applications
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177915/soma/
 
 ## Summary
 
-Persistent XR environments for collaborative work, learning, and cultural exchange.
+Persistent XR environments blending physical and digital spaces for collaborative work and learning
 
 ## Description
 

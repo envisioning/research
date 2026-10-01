@@ -2,19 +2,21 @@
 slug: spintronics
 hub: horizons
 title: Spintronics
-summary: Electronics using electron spin rather than charge; working prototypes in memory.
+summary: Electronics leveraging electron spin for faster, low-power memory and logic
+  devices
 permalink: https://www.envisioning.com/horizons/spintronics
 collection: hardware
 trl: 6
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882873/horizons/technologies/25f87d5f-758b-48f3-be6c-88d73d1105f9-google-gemini-3.1-flash-image-preview-np6q35.jpg
 ---
 
 # Spintronics
 
 ## Summary
 
-Electronics using electron spin rather than charge; working prototypes in memory.
+Electronics leveraging electron spin for faster, low-power memory and logic devices
 
 ## Description
 

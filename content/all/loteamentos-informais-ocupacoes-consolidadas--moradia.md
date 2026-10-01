@@ -2,8 +2,8 @@
 slug: loteamentos-informais-ocupacoes-consolidadas
 hub: moradia
 title: Loteamentos Informais e Ocupações Consolidadas
-summary: Assentamentos informais que se consolidam ao longo do tempo, criando tecido
-  urbano sem planejamento formal.
+summary: Assentamentos urbanos que se desenvolvem sem aprovação formal, mas criam
+  bairros funcionais ao longo do tempo
 permalink: https://www.envisioning.com/moradia/loteamentos-informais-ocupacoes-consolidadas
 collection: modelos-mercado-governanca
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592054/habit
 
 ## Summary
 
-Assentamentos informais que se consolidam ao longo do tempo, criando tecido urbano sem planejamento formal.
+Assentamentos urbanos que se desenvolvem sem aprovação formal, mas criam bairros funcionais ao longo do tempo
 
 ## Description
 

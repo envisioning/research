@@ -2,7 +2,7 @@
 slug: closed-loop-neonatal-ventilation
 hub: cradle
 title: Closed-Loop Neonatal Ventilation
-summary: Automated ventilators for fragile newborn lungs.
+summary: Ventilators that auto-adjust oxygen and pressure for preterm infants
 permalink: https://www.envisioning.com/cradle/closed-loop-neonatal-ventilation
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126229/cradl
 
 ## Summary
 
-Automated ventilators for fragile newborn lungs.
+Ventilators that auto-adjust oxygen and pressure for preterm infants
 
 ## Description
 

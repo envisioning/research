@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 7
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887231/agora/technologies/5564805c-a93e-4293-b746-ad098b8b8b7e-google-gemini-3.1-flash-image-preview-z8aslf.png
 ---
 
 # Differential Privacy for Public Statistics

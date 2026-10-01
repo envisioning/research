@@ -2,8 +2,8 @@
 slug: reframing-narrativas-habitacao-popular
 hub: moradia
 title: Reframing de Narrativas sobre Habitação Popular
-summary: Reposicionamento de habitação em massa como algo que pode ser desejável,
-  rápida e bem projetada, desafiando suposições entranhadas na política urbana brasileira.
+summary: Reposicionar habitação em massa como desejável, rápida e bem projetada, não
+  apenas funcional e barata
 permalink: https://www.envisioning.com/moradia/reframing-narrativas-habitacao-popular
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766599052/habit
 
 ## Summary
 
-Reposicionamento de habitação em massa como algo que pode ser desejável, rápida e bem projetada, desafiando suposições entranhadas na política urbana brasileira.
+Reposicionar habitação em massa como desejável, rápida e bem projetada, não apenas funcional e barata
 
 ## Description
 

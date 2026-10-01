@@ -2,9 +2,10 @@
 slug: elastocalorics
 hub: horizons
 title: Elastocalorics
-summary: Solid-state cooling materials that replace harmful refrigerants.
+summary: Solid-state cooling using shape-memory alloys that heat and cool under mechanical
+  stress
 permalink: https://www.envisioning.com/horizons/elastocalorics
-collection: materials-making
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521360/horiz
 
 ## Summary
 
-Solid-state cooling materials that replace harmful refrigerants.
+Solid-state cooling using shape-memory alloys that heat and cool under mechanical stress
 
 ## Description
 

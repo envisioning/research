@@ -2,7 +2,8 @@
 slug: social-recovery-wallet-stacks
 hub: lattice
 title: Social Recovery Wallets
-summary: Smart contract wallets with guardian-based key recovery.
+summary: Smart contract wallets that let trusted contacts help recover lost keys without
+  custodians
 permalink: https://www.envisioning.com/lattice/social-recovery-wallet-stacks
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075381/flows
 
 ## Summary
 
-Smart contract wallets with guardian-based key recovery.
+Smart contract wallets that let trusted contacts help recover lost keys without custodians
 
 ## Description
 

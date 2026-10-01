@@ -2,21 +2,21 @@
 slug: quantum-singularity-core
 hub: subspace
 title: Quantum Singularity Power Core
-summary: Romulan power source using an artificial black hole to generate massive energy
-  output.
+summary: Artificial black hole reactor generating starship power through quantum gravitational
+  effects
 permalink: https://www.envisioning.com/subspace/quantum-singularity-core
 collection: energy
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760217747/subspaceindex/technologies/quantum-singularity-core.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908780/subspace/technologies/quantum-singularity-core-openrouter-google-gemini-3.1-flash-image-preview-1xntgg.png
 ---
 
 # Quantum Singularity Power Core
 
 ## Summary
 
-Romulan power source using an artificial black hole to generate massive energy output.
+Artificial black hole reactor generating starship power through quantum gravitational effects
 
 ## Description
 

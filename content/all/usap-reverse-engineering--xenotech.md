@@ -2,21 +2,21 @@
 slug: usap-reverse-engineering
 hub: xenotech
 title: Reverse Engineering
-summary: Alleged Unacknowledged Special Access Programs studying recovered non-human
-  technology.
+summary: Classified programs allegedly studying recovered non-human craft and propulsion
+  systems
 permalink: https://www.envisioning.com/xenotech/usap-reverse-engineering
 collection: defense-surveillance
 trl: 1
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760820657/xenotech/technologies/usap-reverse-engineering.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902990/xenotech/technologies/usap-reverse-engineering-openrouter-google-gemini-3.1-flash-image-preview-9j1zz9.png
 ---
 
 # Reverse Engineering
 
 ## Summary
 
-Alleged Unacknowledged Special Access Programs studying recovered non-human technology.
+Classified programs allegedly studying recovered non-human craft and propulsion systems
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: electric-taxiing-systems
 hub: altitude
 title: Electric Taxiing Systems
-summary: Taxi without main engines to cut fuel, noise, and emissions on the ground.
+summary: Electric motors in landing gear or autonomous tugs move aircraft on the ground
+  without jet engines
 permalink: https://www.envisioning.com/altitude/electric-taxiing-systems
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643189/altit
 
 ## Summary
 
-Taxi without main engines to cut fuel, noise, and emissions on the ground.
+Electric motors in landing gear or autonomous tugs move aircraft on the ground without jet engines
 
 ## Description
 

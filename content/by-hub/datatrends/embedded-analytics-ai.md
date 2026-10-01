@@ -2,7 +2,7 @@
 slug: embedded-analytics-ai
 hub: datatrends
 title: Embedded Analytics & AI
-summary: Integrating insights directly into business apps to close the action loop.
+summary: Integrating analytics and AI directly into operational apps where work happens
 permalink: https://www.envisioning.com/datatrends/embedded-analytics-ai
 collection: decision-intelligence-ai
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767373208/datat
 
 ## Summary
 
-Integrating insights directly into business apps to close the action loop.
+Integrating analytics and AI directly into operational apps where work happens
 
 ## Description
 

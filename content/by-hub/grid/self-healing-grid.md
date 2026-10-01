@@ -2,7 +2,8 @@
 slug: self-healing-grid
 hub: grid
 title: Self-Healing Grid Algorithms
-summary: AI-driven systems that automatically detect faults and reroute power.
+summary: AI systems that detect grid faults and automatically reroute power to maintain
+  reliability
 permalink: https://www.envisioning.com/grid/self-healing-grid
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435148/grid/
 
 ## Summary
 
-AI-driven systems that automatically detect faults and reroute power.
+AI systems that detect grid faults and automatically reroute power to maintain reliability
 
 ## Description
 

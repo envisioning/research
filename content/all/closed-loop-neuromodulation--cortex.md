@@ -2,7 +2,8 @@
 slug: closed-loop-neuromodulation
 hub: cortex
 title: Closed-Loop Neuromodulation Algorithms
-summary: Adaptive stimulation based on pathological biomarkers.
+summary: Real-time neural monitoring that triggers stimulation only when pathological
+  activity is detected
 permalink: https://www.envisioning.com/cortex/closed-loop-neuromodulation
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990786/corte
 
 ## Summary
 
-Adaptive stimulation based on pathological biomarkers.
+Real-time neural monitoring that triggers stimulation only when pathological activity is detected
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cryonics-consent-frameworks
 hub: eclipse
 title: Cryonics Consent & Revival Frameworks
-summary: Legal and ethical protocols for suspension, storage, and potential revival.
+summary: Legal protocols governing cryopreservation consent, storage rights, and future
+  revival scenarios
 permalink: https://www.envisioning.com/eclipse/cryonics-consent-frameworks
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435315/eclip
 
 ## Summary
 
-Legal and ethical protocols for suspension, storage, and potential revival.
+Legal protocols governing cryopreservation consent, storage rights, and future revival scenarios
 
 ## Description
 

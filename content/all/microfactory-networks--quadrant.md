@@ -2,7 +2,8 @@
 slug: microfactory-networks
 hub: quadrant
 title: Microfactory Networks
-summary: Distributed local manufacturing hubs for on-demand production.
+summary: Compact, automated manufacturing cells that produce goods locally from digital
+  designs
 permalink: https://www.envisioning.com/quadrant/microfactory-networks
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128053/quadr
 
 ## Summary
 
-Distributed local manufacturing hubs for on-demand production.
+Compact, automated manufacturing cells that produce goods locally from digital designs
 
 ## Description
 

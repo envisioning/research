@@ -2,21 +2,21 @@
 slug: schauberger-implosion-technology
 hub: xenotech
 title: Vortex Implosion
-summary: Vortex-based water and air manipulation devices claiming over-unity energy
-  from implosion.
+summary: Spiral flow devices claiming energy extraction through centripetal vortex
+  motion in fluids
 permalink: https://www.envisioning.com/xenotech/schauberger-implosion-technology
 collection: energy-systems
 trl: 2
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760820721/xenotech/technologies/schauberger-implosion-technology.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903495/xenotech/technologies/schauberger-implosion-technology-openrouter-google-gemini-3.1-flash-image-preview-j6ldjj.png
 ---
 
 # Vortex Implosion
 
 ## Summary
 
-Vortex-based water and air manipulation devices claiming over-unity energy from implosion.
+Spiral flow devices claiming energy extraction through centripetal vortex motion in fluids
 
 ## Description
 

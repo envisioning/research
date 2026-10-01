@@ -2,20 +2,21 @@
 slug: personal-shield
 hub: subspace
 title: Personal Force Field
-summary: Individual shield generator creating protective energy barrier around a person.
+summary: Wearable shield generator creating a protective energy barrier around an
+  individual
 permalink: https://www.envisioning.com/subspace/personal-shield
 collection: defense
 trl: 5
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760212195/subspaceindex/technologies/personal-shield.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908615/subspace/technologies/personal-shield-openrouter-google-gemini-3.1-flash-image-preview-4y6o42.png
 ---
 
 # Personal Force Field
 
 ## Summary
 
-Individual shield generator creating protective energy barrier around a person.
+Wearable shield generator creating a protective energy barrier around an individual
 
 ## Description
 

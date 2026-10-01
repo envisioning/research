@@ -2,7 +2,8 @@
 slug: generative-physics-engines
 hub: liminal
 title: Generative Physics Engines
-summary: AI-driven simulation adapting physical laws for virtual interactions.
+summary: Machine learning models that infer and adapt physical behaviors in virtual
+  environments in real-time
 permalink: https://www.envisioning.com/liminal/generative-physics-engines
 collection: software
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124431/limin
 
 ## Summary
 
-AI-driven simulation adapting physical laws for virtual interactions.
+Machine learning models that infer and adapt physical behaviors in virtual environments in real-time
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: pattern-enhancer
 hub: subspace
 title: Transport Pattern Enhancer
-summary: Field generator improving transporter lock and signal clarity through interference.
+summary: Field generator that strengthens transporter signal coherence during matter-energy
+  conversion
 permalink: https://www.envisioning.com/subspace/pattern-enhancer
 collection: engineering
 trl: 5
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760217192/subspaceindex/technologies/pattern-enhancer.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909225/subspace/technologies/pattern-enhancer-openrouter-google-gemini-3.1-flash-image-preview-8snxtm.png
 ---
 
 # Transport Pattern Enhancer
 
 ## Summary
 
-Field generator improving transporter lock and signal clarity through interference.
+Field generator that strengthens transporter signal coherence during matter-energy conversion
 
 ## Description
 

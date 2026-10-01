@@ -2,8 +2,8 @@
 slug: plataformas-gestao-perdas-agua-nrw
 hub: moradia
 title: Plataformas de Redução de Perdas de Água
-summary: Analytics e controle para reduzir água não faturada via setorização e gestão
-  de pressão.
+summary: Sensoriamento e automação para detectar vazamentos e reduzir água não faturada
+  em redes urbanas
 permalink: https://www.envisioning.com/moradia/plataformas-gestao-perdas-agua-nrw
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584221/habit
 
 ## Summary
 
-Analytics e controle para reduzir água não faturada via setorização e gestão de pressão.
+Sensoriamento e automação para detectar vazamentos e reduzir água não faturada em redes urbanas
 
 ## Description
 

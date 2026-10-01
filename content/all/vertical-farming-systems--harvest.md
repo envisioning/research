@@ -2,7 +2,8 @@
 slug: vertical-farming-systems
 hub: harvest
 title: Vertical Farming Systems
-summary: High-density urban controlled agriculture.
+summary: Stacked indoor crop production with controlled climate and soilless growing
+  methods
 permalink: https://www.envisioning.com/harvest/vertical-farming-systems
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128141/harve
 
 ## Summary
 
-High-density urban controlled agriculture.
+Stacked indoor crop production with controlled climate and soilless growing methods
 
 ## Description
 

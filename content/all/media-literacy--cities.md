@@ -2,15 +2,10 @@
 slug: media-literacy
 hub: cities
 title: Media Literacy
-summary: This solution addresses the growing challenge of navigating the vast and
-  complex digital information landscape. It equips individuals with the skills to
-  critically evaluate and effectively engage with digital media, thereby combating
-  misinformation, enhancing civic participation, and fostering informed decision-making.
-  Media literacy is particularly vital for vulnerable groups such as children, teenagers,
-  and newly connected populations, including those in remote or Indigenous communities,
-  who are often more susceptible to digital exploitation and misinformation.
+summary: Programs that teach critical evaluation of digital information and media
+  sources
 permalink: https://www.envisioning.com/cities/media-literacy
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: ethics-security
 trl: 6
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869548-media-literacy.png
 
 ## Summary
 
-This solution addresses the growing challenge of navigating the vast and complex digital information landscape. It equips individuals with the skills to critically evaluate and effectively engage with digital media, thereby combating misinformation, enhancing civic participation, and fostering informed decision-making. Media literacy is particularly vital for vulnerable groups such as children, teenagers, and newly connected populations, including those in remote or Indigenous communities, who are often more susceptible to digital exploitation and misinformation.
+Programs that teach critical evaluation of digital information and media sources
 
 ## Description
 

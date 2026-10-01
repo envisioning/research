@@ -2,21 +2,21 @@
 slug: ai-powered-breastfeeding-monitor
 hub: interface
 title: AI-Powered Breastfeeding Monitor
-summary: World's first accurate breastfeeding monitor with patented inbuilt flow measurement,
-  empowering women to achieve breastfeeding goals through accurate information.
+summary: Sensors and AI that measure milk flow during breastfeeding to track infant
+  intake
 permalink: https://www.envisioning.com/interface/ai-powered-breastfeeding-monitor
-collection: wearables-health-sensing
+collection: applications
 trl: 6
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889465/interface/technologies/81a27e6b-3123-46ce-942f-b6dbd2041dce-google-gemini-3.1-flash-image-preview-wnak7u.png
 ---
 
 # AI-Powered Breastfeeding Monitor
 
 ## Summary
 
-World's first accurate breastfeeding monitor with patented inbuilt flow measurement, empowering women to achieve breastfeeding goals through accurate information.
+Sensors and AI that measure milk flow during breastfeeding to track infant intake
 
 ## Description
 

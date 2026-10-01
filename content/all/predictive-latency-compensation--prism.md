@@ -2,7 +2,8 @@
 slug: predictive-latency-compensation
 hub: prism
 title: Predictive Latency Compensation
-summary: AI engines that render future frames locally to eliminate perceived lag.
+summary: Local rendering of predicted frames to mask network lag in cloud gaming and
+  VR streaming
 permalink: https://www.envisioning.com/prism/predictive-latency-compensation
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074565/pulse
 
 ## Summary
 
-AI engines that render future frames locally to eliminate perceived lag.
+Local rendering of predicted frames to mask network lag in cloud gaming and VR streaming
 
 ## Description
 

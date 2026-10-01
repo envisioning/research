@@ -2,7 +2,8 @@
 slug: synthetic-lineage-trackers
 hub: beacon
 title: Synthetic Lineage Trackers
-summary: Tracking how AI personas copy, fork, and evolve.
+summary: Documenting the creation, modification, and distribution history of AI-generated
+  personas
 permalink: https://www.envisioning.com/beacon/synthetic-lineage-trackers
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126258/beaco
 
 ## Summary
 
-Tracking how AI personas copy, fork, and evolve.
+Documenting the creation, modification, and distribution history of AI-generated personas
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: solid-state-transformers
 hub: grid
 title: Solid-State Transformers
-summary: Power-electronic transformers for precise, flexible voltage conversion and
-  control.
+summary: Semiconductor-based transformers enabling precise voltage control and bidirectional
+  power flow in modern grids
 permalink: https://www.envisioning.com/grid/solid-state-transformers
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131883/grid/
 
 ## Summary
 
-Power-electronic transformers for precise, flexible voltage conversion and control.
+Semiconductor-based transformers enabling precise voltage control and bidirectional power flow in modern grids
 
 ## Description
 

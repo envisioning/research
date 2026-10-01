@@ -2,7 +2,8 @@
 slug: autonomous-agroecological-farms
 hub: spore
 title: Autonomous Agroecological Farms
-summary: Closed-loop farms where robots manage polyculture beds and nutrient recovery.
+summary: Robot-managed polyculture farms that mimic natural ecosystems while recovering
+  nutrients in closed loops
 permalink: https://www.envisioning.com/spore/autonomous-agroecological-farms
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179678/spore
 
 ## Summary
 
-Closed-loop farms where robots manage polyculture beds and nutrient recovery.
+Robot-managed polyculture farms that mimic natural ecosystems while recovering nutrients in closed loops
 
 ## Description
 

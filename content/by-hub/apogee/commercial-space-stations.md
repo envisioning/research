@@ -2,7 +2,8 @@
 slug: commercial-space-stations
 hub: apogee
 title: Commercial Space Stations
-summary: Privately operated orbital platforms for research, tourism, and manufacturing.
+summary: Privately operated orbital platforms for research, manufacturing, and tourism
+  in Low Earth Orbit
 permalink: https://www.envisioning.com/apogee/commercial-space-stations
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012384/apoge
 
 ## Summary
 
-Privately operated orbital platforms for research, tourism, and manufacturing.
+Privately operated orbital platforms for research, manufacturing, and tourism in Low Earth Orbit
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: organizational-ai-cogovernance
 hub: wintermute
 title: Organizational AI Co-Governance Systems
-summary: Agent collectives embedded in enterprises to simulate and route decisions.
+summary: AI agent networks that simulate decisions and route governance across enterprise
+  structures
 permalink: https://www.envisioning.com/wintermute/organizational-ai-cogovernance
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763986349/winte
 
 ## Summary
 
-Agent collectives embedded in enterprises to simulate and route decisions.
+AI agent networks that simulate decisions and route governance across enterprise structures
 
 ## Description
 

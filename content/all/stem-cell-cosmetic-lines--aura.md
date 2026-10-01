@@ -2,7 +2,8 @@
 slug: stem-cell-cosmetic-lines
 hub: aura
 title: Stem Cell Cosmetics
-summary: Growth factor-rich formulations derived from plant or human stem cells.
+summary: Skincare formulations using bioactive molecules from cultured stem cells
+  to stimulate repair and rejuvenation
 permalink: https://www.envisioning.com/aura/stem-cell-cosmetic-lines
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074458/aura/
 
 ## Summary
 
-Growth factor-rich formulations derived from plant or human stem cells.
+Skincare formulations using bioactive molecules from cultured stem cells to stimulate repair and rejuvenation
 
 ## Description
 

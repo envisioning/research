@@ -2,7 +2,8 @@
 slug: digital-commons-governance
 hub: continuum
 title: Digital Commons Governance
-summary: Stewarding shared digital infrastructure as public goods.
+summary: Collective stewardship frameworks for shared digital infrastructure and public
+  resources
 permalink: https://www.envisioning.com/continuum/digital-commons-governance
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126140/conti
 
 ## Summary
 
-Stewarding shared digital infrastructure as public goods.
+Collective stewardship frameworks for shared digital infrastructure and public resources
 
 ## Description
 

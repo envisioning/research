@@ -2,7 +2,8 @@
 slug: predictive-maintenance-4-0
 hub: quadrant
 title: Predictive Maintenance 4.0
-summary: Self-healing systems that predict and fix issues before failure.
+summary: AI-driven systems that forecast equipment failures using real-time sensor
+  data and machine learning
 permalink: https://www.envisioning.com/quadrant/predictive-maintenance-4-0
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127152/quadr
 
 ## Summary
 
-Self-healing systems that predict and fix issues before failure.
+AI-driven systems that forecast equipment failures using real-time sensor data and machine learning
 
 ## Description
 

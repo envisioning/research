@@ -2,7 +2,8 @@
 slug: mechanistic-interpretability-toolchains
 hub: wintermute
 title: Mechanistic Interpretability Toolchains
-summary: Infrastructure to inspect, visualize, and edit internal model circuits.
+summary: Tools to reverse-engineer neural network circuits, neurons, and decision
+  pathways in AI models
 permalink: https://www.envisioning.com/wintermute/mechanistic-interpretability-toolchains
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079496/winte
 
 ## Summary
 
-Infrastructure to inspect, visualize, and edit internal model circuits.
+Tools to reverse-engineer neural network circuits, neurons, and decision pathways in AI models
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: mining-beam-extraction
 hub: xenotech
 title: Mining Beam Extraction
-summary: Light-based mineral extraction technology that vaporizes rock and separates
-  elements without physical drilling, allegedly derived from alien mining equipment.
+summary: Energy beam technology claimed to vaporize rock for selective mineral extraction
+  without drilling
 permalink: https://www.envisioning.com/xenotech/mining-beam-extraction
 collection: materials-structures
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762026098/xenotech/technologies/mining-beam-extraction-openai-gpt-5-w2uvs1.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898901/xenotech/technologies/mining-beam-extraction-openrouter-google-gemini-3.1-flash-image-preview-enc4wi.png
 ---
 
 # Mining Beam Extraction
 
 ## Summary
 
-Light-based mineral extraction technology that vaporizes rock and separates elements without physical drilling, allegedly derived from alien mining equipment.
+Energy beam technology claimed to vaporize rock for selective mineral extraction without drilling
 
 ## Description
 

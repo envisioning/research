@@ -2,8 +2,7 @@
 slug: negociacoes-zoneamento-retroativas
 hub: moradia
 title: Negociações de Zoneamento Retroativas
-summary: Processos de negociação e regularização de construções e usos que ocorreram
-  sem licenças ou em desacordo com zoneamento, criando regularização após construção.
+summary: Legalização de construções irregulares através de ajustes no zoneamento urbano
 permalink: https://www.envisioning.com/moradia/negociacoes-zoneamento-retroativas
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668563/habit
 
 ## Summary
 
-Processos de negociação e regularização de construções e usos que ocorreram sem licenças ou em desacordo com zoneamento, criando regularização após construção.
+Legalização de construções irregulares através de ajustes no zoneamento urbano
 
 ## Description
 

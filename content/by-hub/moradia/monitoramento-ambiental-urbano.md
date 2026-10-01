@@ -2,8 +2,8 @@
 slug: monitoramento-ambiental-urbano
 hub: moradia
 title: Monitoramento Ambiental Urbano
-summary: Sensores e sistemas para monitoramento de qualidade do ar, ruído e outros
-  parâmetros ambientais.
+summary: Redes de sensores distribuídos que medem qualidade do ar, ruído e clima em
+  tempo real nas cidades
 permalink: https://www.envisioning.com/moradia/monitoramento-ambiental-urbano
 collection: cidade-infraestrutura-urbana
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328640/conec
 
 ## Summary
 
-Sensores e sistemas para monitoramento de qualidade do ar, ruído e outros parâmetros ambientais.
+Redes de sensores distribuídos que medem qualidade do ar, ruído e clima em tempo real nas cidades
 
 ## Description
 

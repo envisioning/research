@@ -2,21 +2,21 @@
 slug: subspace-relay-network
 hub: subspace
 title: Subspace Relay Network
-summary: Infrastructure of automated relay stations extending faster-than-light communication
-  range across the galaxy.
+summary: Automated relay stations that extend faster-than-light communication across
+  galactic distances
 permalink: https://www.envisioning.com/subspace/subspace-relay-network
 collection: communications
 trl: 7
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760213742/subspaceindex/technologies/subspace-relay-network.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909074/subspace/technologies/subspace-relay-network-openrouter-google-gemini-3.1-flash-image-preview-j0m6la.png
 ---
 
 # Subspace Relay Network
 
 ## Summary
 
-Infrastructure of automated relay stations extending faster-than-light communication range across the galaxy.
+Automated relay stations that extend faster-than-light communication across galactic distances
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: programmable-data-planes
 hub: link
 title: Programmable Data Planes (SDN/P4)
-summary: Software-defined forwarding planes that can be reprogrammed in the field.
+summary: Network hardware that can be reprogrammed to handle new protocols without
+  replacing chips
 permalink: https://www.envisioning.com/link/programmable-data-planes
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436049/link/
 
 ## Summary
 
-Software-defined forwarding planes that can be reprogrammed in the field.
+Network hardware that can be reprogrammed to handle new protocols without replacing chips
 
 ## Description
 

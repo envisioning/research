@@ -2,7 +2,8 @@
 slug: collective-memory-systems
 hub: soma
 title: Collective Memory Systems
-summary: Platforms for community-scale archival, storytelling, and remembrance.
+summary: Distributed platforms enabling communities to archive, share, and preserve
+  cultural knowledge across generations
 permalink: https://www.envisioning.com/soma/collective-memory-systems
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177768/soma/
 
 ## Summary
 
-Platforms for community-scale archival, storytelling, and remembrance.
+Distributed platforms enabling communities to archive, share, and preserve cultural knowledge across generations
 
 ## Description
 

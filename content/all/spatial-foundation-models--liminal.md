@@ -2,7 +2,8 @@
 slug: spatial-foundation-models
 hub: liminal
 title: Spatial Foundation Models
-summary: Multimodal LLMs trained on 3D spatial and embodied data.
+summary: AI models trained on 3D environments to understand spatial relationships
+  and physical interactions
 permalink: https://www.envisioning.com/liminal/spatial-foundation-models
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124932/limin
 
 ## Summary
 
-Multimodal LLMs trained on 3D spatial and embodied data.
+AI models trained on 3D environments to understand spatial relationships and physical interactions
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: new-zealand-launch-infrastructure
 hub: apogee
 title: New Zealand Launch Infrastructure
-summary: Electron-class pads offering flexible, rapid smallsat launches.
+summary: Orbital launch sites in New Zealand enabling frequent small satellite missions
 permalink: https://www.envisioning.com/apogee/new-zealand-launch-infrastructure
 collection: applications
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145076/apoge
 
 ## Summary
 
-Electron-class pads offering flexible, rapid smallsat launches.
+Orbital launch sites in New Zealand enabling frequent small satellite missions
 
 ## Description
 

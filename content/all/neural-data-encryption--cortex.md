@@ -2,7 +2,8 @@
 slug: neural-data-encryption
 hub: cortex
 title: Neural Data Encryption Standards
-summary: Protocols for securing raw neural data at the source.
+summary: Cryptographic protocols that encrypt brain recordings directly on neural
+  interface devices
 permalink: https://www.envisioning.com/cortex/neural-data-encryption
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998463/corte
 
 ## Summary
 
-Protocols for securing raw neural data at the source.
+Cryptographic protocols that encrypt brain recordings directly on neural interface devices
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: implantable-neural-dust
 hub: cortex
 title: Implantable Neural Dust
-summary: Microscale wireless motes sprinkled through neural tissue.
+summary: Wireless grain-sized sensors injected into neural tissue to record brain
+  activity
 permalink: https://www.envisioning.com/cortex/implantable-neural-dust
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062677/corte
 
 ## Summary
 
-Microscale wireless motes sprinkled through neural tissue.
+Wireless grain-sized sensors injected into neural tissue to record brain activity
 
 ## Description
 

@@ -2,9 +2,10 @@
 slug: living-fungal-sensor
 hub: horizons
 title: Living Fungal Sensor
-summary: Biohybrid sensors using mycelium for real-time environmental monitoring.
+summary: Mycelium networks integrated with electronics to detect pollutants, humidity,
+  and chemical changes
 permalink: https://www.envisioning.com/horizons/living-fungal-sensor
-collection: energy-environment
+collection: hardware
 trl: 3
 impact: 3
 investment: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521244/horiz
 
 ## Summary
 
-Biohybrid sensors using mycelium for real-time environmental monitoring.
+Mycelium networks integrated with electronics to detect pollutants, humidity, and chemical changes
 
 ## Description
 

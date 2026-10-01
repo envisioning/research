@@ -2,7 +2,8 @@
 slug: theory-of-mind-protocols
 hub: wintermute
 title: Theory-of-Mind Protocols
-summary: Negotiation, delegation, and inference between artificial agents.
+summary: Frameworks enabling AI agents to infer and reason about other agents' beliefs,
+  goals, and intentions
 permalink: https://www.envisioning.com/wintermute/theory-of-mind-protocols
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763981036/winte
 
 ## Summary
 
-Negotiation, delegation, and inference between artificial agents.
+Frameworks enabling AI agents to infer and reason about other agents' beliefs, goals, and intentions
 
 ## Description
 

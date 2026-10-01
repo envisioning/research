@@ -2,7 +2,8 @@
 slug: uterine-monitoring-patches
 hub: cradle
 title: Wearable Uterine Monitoring Patches
-summary: Continuous EMG and hemodynamic sensing of the uterus.
+summary: Flexible abdominal patches that track uterine contractions and blood flow
+  during pregnancy
 permalink: https://www.envisioning.com/cradle/uterine-monitoring-patches
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126167/cradl
 
 ## Summary
 
-Continuous EMG and hemodynamic sensing of the uterus.
+Flexible abdominal patches that track uterine contractions and blood flow during pregnancy
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cloud-edge-hybrid-consoles
 hub: pixels
 title: Cloud-Edge Hybrid Consoles
-summary: Microconsoles offloading rendering to edge GPU clusters.
+summary: Compact game devices that stream rendering from nearby edge servers for high-end
+  visuals anywhere
 permalink: https://www.envisioning.com/pixels/cloud-edge-hybrid-consoles
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062225/pixel
 
 ## Summary
 
-Microconsoles offloading rendering to edge GPU clusters.
+Compact game devices that stream rendering from nearby edge servers for high-end visuals anywhere
 
 ## Description
 

@@ -2,15 +2,10 @@
 slug: govcloud
 hub: cities
 title: GovCloud
-summary: A specialised cloud computing platform designed to address the unique needs
-  of government and municipal organisations. It solves several critical problems related
-  to data management, security, and compliance. GovCloud centralises data storage,
-  processing, and analysis in a secure, scalable environment, ensuring that sensitive
-  information is protected and accessible only to authorised users. The platform integrates
-  data from various municipal departments into a unified system, enabling seamless
-  data sharing and collaboration.
+summary: Secure cloud infrastructure built for government data storage, compliance,
+  and inter-agency collaboration
 permalink: https://www.envisioning.com/cities/govcloud
-collection: GXJauPRaSeG77TPJH4DieQ
+collection: software
 trl: 9
 impact: 4
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719240920-govcloud.png
 
 ## Summary
 
-A specialised cloud computing platform designed to address the unique needs of government and municipal organisations. It solves several critical problems related to data management, security, and compliance. GovCloud centralises data storage, processing, and analysis in a secure, scalable environment, ensuring that sensitive information is protected and accessible only to authorised users. The platform integrates data from various municipal departments into a unified system, enabling seamless data sharing and collaboration.
+Secure cloud infrastructure built for government data storage, compliance, and inter-agency collaboration
 
 ## Description
 

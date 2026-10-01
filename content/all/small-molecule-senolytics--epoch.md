@@ -2,7 +2,8 @@
 slug: small-molecule-senolytics
 hub: epoch
 title: Small-Molecule Senolytics
-summary: Drugs that selectively eliminate senescent cells accumulating in aging tissues.
+summary: Drugs that selectively clear senescent cells to reduce age-related inflammation
+  and tissue damage
 permalink: https://www.envisioning.com/epoch/small-molecule-senolytics
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477856/epoch
 
 ## Summary
 
-Drugs that selectively eliminate senescent cells accumulating in aging tissues.
+Drugs that selectively clear senescent cells to reduce age-related inflammation and tissue damage
 
 ## Description
 

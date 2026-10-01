@@ -2,9 +2,8 @@
 slug: transformacao-socio-espacial-design-participativo-agencia-comunitaria
 hub: moradia
 title: Transformação Sócio-espacial e Design Participativo
-summary: Abordagens de design e arquitetura que combinam transformação física do espaço
-  com empoderamento comunitário, reconhecendo moradores como agentes ativos na produção
-  e gestão de seus territórios.
+summary: Processos de design urbano onde comunidades definem, co-projetam e gerenciam
+  seus próprios espaços
 permalink: https://www.envisioning.com/moradia/transformacao-socio-espacial-design-participativo-agencia-comunitaria
 collection: modelos-mercado-governanca
 trl: 3
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598489/habit
 
 ## Summary
 
-Abordagens de design e arquitetura que combinam transformação física do espaço com empoderamento comunitário, reconhecendo moradores como agentes ativos na produção e gestão de seus territórios.
+Processos de design urbano onde comunidades definem, co-projetam e gerenciam seus próprios espaços
 
 ## Description
 

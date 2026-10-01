@@ -3,7 +3,6 @@ slug: water-scarcity-resource-conflicts
 hub: agape
 title: Water Scarcity & Resource-Driven Conflicts
 summary: Growing water scarcity driving conflict, migration, and humanitarian crises
-  requiring philanthropic response.
 permalink: https://www.envisioning.com/agape/water-scarcity-resource-conflicts
 collection: geopolitics-planet-polycrisis
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368444/agape
 
 ## Summary
 
-Growing water scarcity driving conflict, migration, and humanitarian crises requiring philanthropic response.
+Growing water scarcity driving conflict, migration, and humanitarian crises
 
 ## Description
 

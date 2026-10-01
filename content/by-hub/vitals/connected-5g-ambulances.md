@@ -2,8 +2,8 @@
 slug: connected-5g-ambulances
 hub: vitals
 title: 5G/6G-Connected Smart Ambulances
-summary: Ultra-high-bandwidth mobile units enabling real-time diagnostics and remote
-  guidance during transport.
+summary: Mobile emergency units with real-time diagnostics and remote physician guidance
+  during patient transport
 permalink: https://www.envisioning.com/vitals/connected-5g-ambulances
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115306/vital
 
 ## Summary
 
-Ultra-high-bandwidth mobile units enabling real-time diagnostics and remote guidance during transport.
+Mobile emergency units with real-time diagnostics and remote physician guidance during patient transport
 
 ## Description
 

@@ -2,22 +2,21 @@
 slug: intent-based-control-interfaces
 hub: xenotech
 title: Intent-Based Control Interfaces
-summary: Comprehensive neural and consciousness-based control systems including biological
-  interfaces, thought-responsive panels, and quantum field coupling for direct mental
-  control of craft systems.
+summary: Direct mental control of vehicles and systems through neural interfaces and
+  consciousness-based coupling
 permalink: https://www.envisioning.com/xenotech/intent-based-control-interfaces
 collection: perception-cognition
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762697926/xenotech/technologies/intent-based-control-interfaces-openai-gpt-5-uovnbb.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898511/xenotech/technologies/intent-based-control-interfaces-openrouter-google-gemini-3.1-flash-image-preview-wulun8.png
 ---
 
 # Intent-Based Control Interfaces
 
 ## Summary
 
-Comprehensive neural and consciousness-based control systems including biological interfaces, thought-responsive panels, and quantum field coupling for direct mental control of craft systems.
+Direct mental control of vehicles and systems through neural interfaces and consciousness-based coupling
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: smart-playing-surfaces
 hub: stride
 title: Smart Playing Surfaces
-summary: Fields, courts, and tracks with embedded force and position sensors.
+summary: Fields and courts with embedded sensors that measure force, position, and
+  movement during play
 permalink: https://www.envisioning.com/stride/smart-playing-surfaces
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128047/strid
 
 ## Summary
 
-Fields, courts, and tracks with embedded force and position sensors.
+Fields and courts with embedded sensors that measure force, position, and movement during play
 
 ## Description
 

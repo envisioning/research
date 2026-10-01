@@ -2,7 +2,8 @@
 slug: anti-surveillance-fashion
 hub: fabric
 title: Anti-Surveillance Fashion (CV Dazzle)
-summary: Patterns and textiles designed to confuse computer vision algorithms.
+summary: Garments and patterns designed to disrupt facial recognition and automated
+  tracking systems
 permalink: https://www.envisioning.com/fabric/anti-surveillance-fashion
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058389/threa
 
 ## Summary
 
-Patterns and textiles designed to confuse computer vision algorithms.
+Garments and patterns designed to disrupt facial recognition and automated tracking systems
 
 ## Description
 

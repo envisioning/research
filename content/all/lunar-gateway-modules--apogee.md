@@ -2,7 +2,8 @@
 slug: lunar-gateway-modules
 hub: apogee
 title: Lunar Gateway Modules
-summary: Cislunar habitat and logistics nodes under Artemis program.
+summary: International space station modules orbiting the Moon for crew staging and
+  deep-space research
 permalink: https://www.envisioning.com/apogee/lunar-gateway-modules
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180850/apoge
 
 ## Summary
 
-Cislunar habitat and logistics nodes under Artemis program.
+International space station modules orbiting the Moon for crew staging and deep-space research
 
 ## Description
 

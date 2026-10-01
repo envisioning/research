@@ -2,7 +2,7 @@
 slug: influence-transparency-ledgers
 hub: beacon
 title: Influence Transparency Ledgers
-summary: Recording when, how, and why users were nudged.
+summary: Immutable records of when and how platforms attempt to influence user decisions
 permalink: https://www.envisioning.com/beacon/influence-transparency-ledgers
 collection: software
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125611/beaco
 
 ## Summary
 
-Recording when, how, and why users were nudged.
+Immutable records of when and how platforms attempt to influence user decisions
 
 ## Description
 

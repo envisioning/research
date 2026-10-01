@@ -2,7 +2,8 @@
 slug: ai-native-ran
 hub: substrate
 title: AI-Native Radio Access Networks
-summary: Self-optimizing radio networks that learn and adapt in real time.
+summary: Radio networks that use embedded AI to continuously optimize signal transmission
+  and coverage
 permalink: https://www.envisioning.com/substrate/ai-native-ran
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117037/subst
 
 ## Summary
 
-Self-optimizing radio networks that learn and adapt in real time.
+Radio networks that use embedded AI to continuously optimize signal transmission and coverage
 
 ## Description
 

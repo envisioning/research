@@ -2,7 +2,8 @@
 slug: immersive-self-perception-models
 hub: aura
 title: Immersive Self-Perception Models
-summary: AR/VR engines linking digital appearance to real tissue states.
+summary: AR/VR simulations of appearance changes based on real biomarker data and
+  treatment outcomes
 permalink: https://www.envisioning.com/aura/immersive-self-perception-models
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995865/aura/
 
 ## Summary
 
-AR/VR engines linking digital appearance to real tissue states.
+AR/VR simulations of appearance changes based on real biomarker data and treatment outcomes
 
 ## Description
 

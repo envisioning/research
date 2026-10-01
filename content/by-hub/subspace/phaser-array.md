@@ -2,21 +2,21 @@
 slug: phaser-array
 hub: subspace
 title: Phaser Array
-summary: Directed energy weapons using nadion particles to deliver variable-yield
-  energy beams.
+summary: Directed energy weapon system firing modulated beams of fictional nadion
+  particles
 permalink: https://www.envisioning.com/subspace/phaser-array
 collection: weapons
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760207464/subspaceindex/technologies/phaser-array.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908646/subspace/technologies/phaser-array-openrouter-google-gemini-3.1-flash-image-preview-gvhfx8.png
 ---
 
 # Phaser Array
 
 ## Summary
 
-Directed energy weapons using nadion particles to deliver variable-yield energy beams.
+Directed energy weapon system firing modulated beams of fictional nadion particles
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: genomic-selection-tools
 hub: spore
 title: Genomic Selection Tools
-summary: Analytics accelerating breeding via SNP-based predictions.
+summary: Machine learning models that predict crop traits from DNA to speed up plant
+  breeding
 permalink: https://www.envisioning.com/spore/genomic-selection-tools
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179678/spore
 
 ## Summary
 
-Analytics accelerating breeding via SNP-based predictions.
+Machine learning models that predict crop traits from DNA to speed up plant breeding
 
 ## Description
 

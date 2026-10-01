@@ -2,7 +2,8 @@
 slug: edge-compute-nodes
 hub: link
 title: Edge Compute Nodes (MEC)
-summary: Mini data centers colocated with base stations for ultra-low latency.
+summary: Computing infrastructure at cell towers that processes data locally for faster
+  response times
 permalink: https://www.envisioning.com/link/edge-compute-nodes
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182549/link/
 
 ## Summary
 
-Mini data centers colocated with base stations for ultra-low latency.
+Computing infrastructure at cell towers that processes data locally for faster response times
 
 ## Description
 

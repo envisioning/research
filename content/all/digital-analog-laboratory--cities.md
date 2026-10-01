@@ -2,14 +2,10 @@
 slug: digital-analog-laboratory
 hub: cities
 title: Digital-Analog Laboratory
-summary: To preserve collective and individual memories trapped in outdated media
-  formats, this hybrid facility combines digital and analogue computing technologies
-  to convert, store, and safeguard a wide range of obsolete media, such as tapes,
-  films, and older digital formats, into modern digital files. By leveraging advanced
-  digitisation techniques, the laboratory ensures that invaluable historical and personal
-  records are protected from deterioration and remain accessible.
+summary: Hybrid facility that digitizes obsolete media formats to preserve historical
+  and personal records
 permalink: https://www.envisioning.com/cities/digital-analog-laboratory
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: applications
 trl: 8
 impact: 4
 investment: 3
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718805458-digital-analog-labor
 
 ## Summary
 
-To preserve collective and individual memories trapped in outdated media formats, this hybrid facility combines digital and analogue computing technologies to convert, store, and safeguard a wide range of obsolete media, such as tapes, films, and older digital formats, into modern digital files. By leveraging advanced digitisation techniques, the laboratory ensures that invaluable historical and personal records are protected from deterioration and remain accessible.
+Hybrid facility that digitizes obsolete media formats to preserve historical and personal records
 
 ## Description
 

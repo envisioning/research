@@ -2,10 +2,8 @@
 slug: gestao-hidrica-ciclo-fechado-resiliente
 hub: moradia
 title: Gestão Hídrica de Ciclo Fechado e Resiliente
-summary: Sistemas integrados de gestão hídrica que combinam medição inteligente, detecção
-  de vazamentos, captação de água de chuva, reuso de águas cinzas, tratamento descentralizado,
-  armazenamento doméstico e contratos de performance, criando ciclos hídricos fechados
-  e resilientes em edifícios e distritos.
+summary: Sistemas integrados que captam, tratam e reutilizam água localmente, reduzindo
+  dependência de redes urbanas
 permalink: https://www.envisioning.com/moradia/gestao-hidrica-ciclo-fechado-resiliente
 collection: cidade-infraestrutura-urbana
 trl: 3
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533390/habit
 
 ## Summary
 
-Sistemas integrados de gestão hídrica que combinam medição inteligente, detecção de vazamentos, captação de água de chuva, reuso de águas cinzas, tratamento descentralizado, armazenamento doméstico e contratos de performance, criando ciclos hídricos fechados e resilientes em edifícios e distritos.
+Sistemas integrados que captam, tratam e reutilizam água localmente, reduzindo dependência de redes urbanas
 
 ## Description
 

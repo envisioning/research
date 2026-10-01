@@ -2,8 +2,8 @@
 slug: data-driven-culture-transformation
 hub: datatrends
 title: Data-Driven Culture Transformation
-summary: Organizational change initiatives to build data-driven decision-making culture,
-  moving from intuition-based to evidence-based approaches.
+summary: Organizational initiatives shifting decision-making from intuition to evidence-based
+  analytics
 permalink: https://www.envisioning.com/datatrends/data-driven-culture-transformation
 collection: strategic-culture-literacy
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730686/datat
 
 ## Summary
 
-Organizational change initiatives to build data-driven decision-making culture, moving from intuition-based to evidence-based approaches.
+Organizational initiatives shifting decision-making from intuition to evidence-based analytics
 
 ## Description
 

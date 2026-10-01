@@ -2,7 +2,8 @@
 slug: modular-satellite-architectures
 hub: apogee
 title: Modular Satellite Architectures
-summary: Plug-and-play satellite designs for rapid reconfiguration.
+summary: Standardized satellite platforms with swappable components for on-orbit upgrades
+  and mission changes
 permalink: https://www.envisioning.com/apogee/modular-satellite-architectures
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060613/apoge
 
 ## Summary
 
-Plug-and-play satellite designs for rapid reconfiguration.
+Standardized satellite platforms with swappable components for on-orbit upgrades and mission changes
 
 ## Description
 

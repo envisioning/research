@@ -2,7 +2,8 @@
 slug: cold-chain-supply-monitoring
 hub: spore
 title: Supply Chain Cold Monitoring
-summary: IoT trackers logging temperature from farm to consumer.
+summary: IoT sensors tracking temperature and conditions across cold food and pharma
+  supply chains
 permalink: https://www.envisioning.com/spore/cold-chain-supply-monitoring
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095849/spore
 
 ## Summary
 
-IoT trackers logging temperature from farm to consumer.
+IoT sensors tracking temperature and conditions across cold food and pharma supply chains
 
 ## Description
 

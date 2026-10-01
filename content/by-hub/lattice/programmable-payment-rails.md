@@ -2,7 +2,8 @@
 slug: programmable-payment-rails
 hub: lattice
 title: Programmable Payment Rails
-summary: Context-aware payments triggered by sensors, usage, or tasks.
+summary: Payment systems that execute transactions automatically based on usage, conditions,
+  or real-time data
 permalink: https://www.envisioning.com/lattice/programmable-payment-rails
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996081/flows
 
 ## Summary
 
-Context-aware payments triggered by sensors, usage, or tasks.
+Payment systems that execute transactions automatically based on usage, conditions, or real-time data
 
 ## Description
 

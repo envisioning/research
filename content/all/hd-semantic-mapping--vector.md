@@ -2,7 +2,8 @@
 slug: hd-semantic-mapping
 hub: vector
 title: HD Semantic Mapping
-summary: Living, self-updating 3D maps for autonomous navigation.
+summary: 3D maps with contextual layers that help autonomous vehicles understand road
+  environments
 permalink: https://www.envisioning.com/vector/hd-semantic-mapping
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179063/vecto
 
 ## Summary
 
-Living, self-updating 3D maps for autonomous navigation.
+3D maps with contextual layers that help autonomous vehicles understand road environments
 
 ## Description
 

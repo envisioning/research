@@ -3,7 +3,6 @@ slug: ethical-dilemmas-contested-contexts
 hub: agape
 title: Ethical Dilemmas in Contested Contexts
 summary: Ethical dilemmas of funding in contested or authoritarian contexts, as philanthropy
-  faces hard choices about where to operate.
 permalink: https://www.envisioning.com/agape/ethical-dilemmas-contested-contexts
 collection: geopolitics-planet-polycrisis
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372117/agape
 
 ## Summary
 
-Ethical dilemmas of funding in contested or authoritarian contexts, as philanthropy faces hard choices about where to operate.
+Ethical dilemmas of funding in contested or authoritarian contexts, as philanthropy
 
 ## Description
 

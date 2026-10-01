@@ -2,9 +2,10 @@
 slug: active-debris-removal
 hub: horizons
 title: Active Debris Removal
-summary: Robotic systems for capturing and removing space junk.
+summary: Robotic spacecraft that capture and de-orbit defunct satellites and orbital
+  debris
 permalink: https://www.envisioning.com/horizons/active-debris-removal
-collection: space-extreme
+collection: hardware
 trl: 5
 impact: 5
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521449/horiz
 
 ## Summary
 
-Robotic systems for capturing and removing space junk.
+Robotic spacecraft that capture and de-orbit defunct satellites and orbital debris
 
 ## Description
 

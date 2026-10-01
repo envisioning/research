@@ -2,7 +2,8 @@
 slug: virtual-power-plants
 hub: substrate
 title: Virtual Power Plants (VPPs)
-summary: Cloud-based aggregation of distributed energy resources.
+summary: Software that coordinates distributed energy assets like solar, batteries,
+  and EVs as a unified grid resource
 permalink: https://www.envisioning.com/substrate/virtual-power-plants
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117382/subst
 
 ## Summary
 
-Cloud-based aggregation of distributed energy resources.
+Software that coordinates distributed energy assets like solar, batteries, and EVs as a unified grid resource
 
 ## Description
 

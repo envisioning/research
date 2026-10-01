@@ -2,7 +2,8 @@
 slug: biosignal-jewelry
 hub: eros
 title: Bio-signal Shared Jewelry
-summary: Connected accessories that transmit real-time heartbeat and touch.
+summary: Wearable accessories that transmit heartbeat and touch sensations between
+  distant partners
 permalink: https://www.envisioning.com/eros/biosignal-jewelry
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124380/eros/
 
 ## Summary
 
-Connected accessories that transmit real-time heartbeat and touch.
+Wearable accessories that transmit heartbeat and touch sensations between distant partners
 
 ## Description
 

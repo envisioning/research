@@ -2,7 +2,7 @@
 slug: preterm-prediction-ai
 hub: cradle
 title: Preterm Prediction AI
-summary: Predictive models for delivery timing.
+summary: AI models that forecast preterm birth risk using clinical data and biomarkers
 permalink: https://www.envisioning.com/cradle/preterm-prediction-ai
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126277/cradl
 
 ## Summary
 
-Predictive models for delivery timing.
+AI models that forecast preterm birth risk using clinical data and biomarkers
 
 ## Description
 

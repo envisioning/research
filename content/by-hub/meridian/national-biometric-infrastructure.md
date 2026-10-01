@@ -2,7 +2,8 @@
 slug: national-biometric-infrastructure
 hub: meridian
 title: National Biometric Infrastructure
-summary: Identity systems for borders and security.
+summary: Nationwide systems linking biometric databases for identity verification
+  and border control
 permalink: https://www.envisioning.com/meridian/national-biometric-infrastructure
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129296/merid
 
 ## Summary
 
-Identity systems for borders and security.
+Nationwide systems linking biometric databases for identity verification and border control
 
 ## Description
 

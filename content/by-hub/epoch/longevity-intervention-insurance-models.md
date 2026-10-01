@@ -2,8 +2,8 @@
 slug: longevity-intervention-insurance-models
 hub: epoch
 title: Longevity Intervention Insurance Models
-summary: Financial and insurance frameworks for covering preventative and rejuvenation
-  therapies.
+summary: Insurance frameworks designed to cover preventative aging therapies and rejuvenation
+  treatments
 permalink: https://www.envisioning.com/epoch/longevity-intervention-insurance-models
 collection: ethics-security
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772621026/epoch
 
 ## Summary
 
-Financial and insurance frameworks for covering preventative and rejuvenation therapies.
+Insurance frameworks designed to cover preventative aging therapies and rejuvenation treatments
 
 ## Description
 

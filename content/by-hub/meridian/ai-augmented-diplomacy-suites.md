@@ -2,7 +2,8 @@
 slug: ai-augmented-diplomacy-suites
 hub: meridian
 title: AI-Augmented Diplomacy Suites
-summary: Decision support for negotiations and treaties.
+summary: Decision support systems that analyze precedents and language to guide treaty
+  negotiations
 permalink: https://www.envisioning.com/meridian/ai-augmented-diplomacy-suites
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123709/merid
 
 ## Summary
 
-Decision support for negotiations and treaties.
+Decision support systems that analyze precedents and language to guide treaty negotiations
 
 ## Description
 

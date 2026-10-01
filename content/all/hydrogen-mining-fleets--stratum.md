@@ -2,7 +2,8 @@
 slug: hydrogen-mining-fleets
 hub: stratum
 title: Hydrogen-Powered Mining Fleets
-summary: Decarbonizing heavy machinery with green hydrogen fuel cells.
+summary: Replacing diesel mining equipment with hydrogen fuel cell powertrains to
+  cut emissions
 permalink: https://www.envisioning.com/stratum/hydrogen-mining-fleets
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178000/strat
 
 ## Summary
 
-Decarbonizing heavy machinery with green hydrogen fuel cells.
+Replacing diesel mining equipment with hydrogen fuel cell powertrains to cut emissions
 
 ## Description
 

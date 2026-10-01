@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 4
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889397/agora/technologies/7dc2591e-3068-460a-9f03-b8a629bc923e-google-gemini-3.1-flash-image-preview-n85pzx.jpg
 ---
 
 # Coercion Resistance & Anti Vote-Buying Safeguards

@@ -2,7 +2,8 @@
 slug: brain-to-brain-communication
 hub: cortex
 title: Brain-to-Brain Communication
-summary: Direct transfer of information between nervous systems.
+summary: Direct neural transmission of thoughts or commands between brains via networked
+  interfaces
 permalink: https://www.envisioning.com/cortex/brain-to-brain-communication
 collection: applications
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180200/corte
 
 ## Summary
 
-Direct transfer of information between nervous systems.
+Direct neural transmission of thoughts or commands between brains via networked interfaces
 
 ## Description
 

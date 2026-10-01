@@ -2,7 +2,8 @@
 slug: green-hydrogen-networks
 hub: substrate
 title: Green Hydrogen Distribution Networks
-summary: Dedicated pipelines and storage hubs for renewable hydrogen transport.
+summary: Pipelines and storage systems designed to transport renewable hydrogen safely
+  at scale
 permalink: https://www.envisioning.com/substrate/green-hydrogen-networks
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118428/subst
 
 ## Summary
 
-Dedicated pipelines and storage hubs for renewable hydrogen transport.
+Pipelines and storage systems designed to transport renewable hydrogen safely at scale
 
 ## Description
 

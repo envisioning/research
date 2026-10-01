@@ -2,8 +2,8 @@
 slug: inteligencia-artificial-ambiente-construido
 hub: moradia
 title: Inteligência Artificial no Ambiente Construído
-summary: IA aplicada a projeto (copilots BIM), planejamento de obras, operação condominial
-  e automação de processos no ambiente construído.
+summary: Algoritmos e machine learning aplicados a projeto BIM, planejamento de obras
+  e gestão condominial
 permalink: https://www.envisioning.com/moradia/inteligencia-artificial-ambiente-construido
 collection: plataformas-dados
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766332841/forma
 
 ## Summary
 
-IA aplicada a projeto (copilots BIM), planejamento de obras, operação condominial e automação de processos no ambiente construído.
+Algoritmos e machine learning aplicados a projeto BIM, planejamento de obras e gestão condominial
 
 ## Description
 

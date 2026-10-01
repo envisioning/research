@@ -2,15 +2,10 @@
 slug: more-than-human-rights
 hub: cities
 title: More-than-human Rights
-summary: To create urban environments that are inclusive and supportive of both human
-  and non-human life, this emerging framework integrates the legal and ethical recognition
-  of the rights of animals, plants, and ecosystems into urban planning. This solution
-  aims to ensure that cities are designed to support diverse forms of life. By incorporating
-  green infrastructures such as urban wetlands, green roofs, and wildlife corridors,
-  this technology mitigates environmental impacts, enhances biodiversity, and improves
-  public health and well-being.
+summary: Legal frameworks granting rights to animals, plants, and ecosystems in urban
+  planning and design
 permalink: https://www.envisioning.com/cities/more-than-human-rights
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: ethics-security
 trl: 6
 impact: 1
 investment: 1
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719218007-more-than-human-righ
 
 ## Summary
 
-To create urban environments that are inclusive and supportive of both human and non-human life, this emerging framework integrates the legal and ethical recognition of the rights of animals, plants, and ecosystems into urban planning. This solution aims to ensure that cities are designed to support diverse forms of life. By incorporating green infrastructures such as urban wetlands, green roofs, and wildlife corridors, this technology mitigates environmental impacts, enhances biodiversity, and improves public health and well-being.
+Legal frameworks granting rights to animals, plants, and ecosystems in urban planning and design
 
 ## Description
 

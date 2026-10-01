@@ -2,21 +2,21 @@
 slug: autonomous-vehicle-simulation
 hub: interface
 title: Autonomous Vehicle Simulation
-summary: Supervised GenAI simulation platforms for AV, ADAS, drones, and robotics
-  development, accelerating training, testing, validation, and certification.
+summary: Virtual testing environments using AI to train and validate autonomous vehicles
+  and robotics
 permalink: https://www.envisioning.com/interface/autonomous-vehicle-simulation
-collection: consumer-electronics-platforms
+collection: software
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774886995/interface/technologies/4526655d-94f6-4a9a-9329-e819211d81e1-google-gemini-3.1-flash-image-preview-1ou48j.png
 ---
 
 # Autonomous Vehicle Simulation
 
 ## Summary
 
-Supervised GenAI simulation platforms for AV, ADAS, drones, and robotics development, accelerating training, testing, validation, and certification.
+Virtual testing environments using AI to train and validate autonomous vehicles and robotics
 
 ## Description
 

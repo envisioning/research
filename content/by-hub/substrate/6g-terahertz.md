@@ -2,7 +2,8 @@
 slug: 6g-terahertz
 hub: substrate
 title: 6G Terahertz Communication
-summary: Ultra-high-speed wireless using the terahertz spectrum.
+summary: Wireless networks operating in terahertz frequencies for ultra-fast data
+  transmission
 permalink: https://www.envisioning.com/substrate/6g-terahertz
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117048/subst
 
 ## Summary
 
-Ultra-high-speed wireless using the terahertz spectrum.
+Wireless networks operating in terahertz frequencies for ultra-fast data transmission
 
 ## Description
 

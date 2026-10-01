@@ -2,7 +2,8 @@
 slug: electromagnetic-exposure-health-monitoring
 hub: link
 title: Electromagnetic Exposure & Health Monitoring
-summary: Real-time monitoring and guidelines for RF radiation exposure.
+summary: Distributed sensors and wearables tracking real-time RF radiation exposure
+  from wireless networks
 permalink: https://www.envisioning.com/link/electromagnetic-exposure-health-monitoring
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182309/link/
 
 ## Summary
 
-Real-time monitoring and guidelines for RF radiation exposure.
+Distributed sensors and wearables tracking real-time RF radiation exposure from wireless networks
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: bacterial-cellulose-production
 hub: fabric
 title: Bacterial Cellulose Production
-summary: Fermented cellulose sheets offering kombucha leather alternatives.
+summary: Microorganism-grown cellulose sheets as sustainable leather alternatives
 permalink: https://www.envisioning.com/fabric/bacterial-cellulose-production
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060242/threa
 
 ## Summary
 
-Fermented cellulose sheets offering kombucha leather alternatives.
+Microorganism-grown cellulose sheets as sustainable leather alternatives
 
 ## Description
 

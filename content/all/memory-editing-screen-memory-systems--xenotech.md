@@ -2,22 +2,21 @@
 slug: memory-editing-screen-memory-systems
 hub: xenotech
 title: Memory Modulation
-summary: Alleged post-encounter memory modification technologies for narrative rewriting,
-  screen-memory implantation, and episodic memory synchronization across multiple
-  subjects.
+summary: Technologies claimed to alter, implant, or synchronize memories after anomalous
+  encounters
 permalink: https://www.envisioning.com/xenotech/memory-editing-screen-memory-systems
 collection: consciousness-interface
 trl: 4
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760946821/xenotech/technologies/memory-editing-screen-memory-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898748/xenotech/technologies/memory-editing-screen-memory-systems-openrouter-google-gemini-3.1-flash-image-preview-1g76nr.png
 ---
 
 # Memory Modulation
 
 ## Summary
 
-Alleged post-encounter memory modification technologies for narrative rewriting, screen-memory implantation, and episodic memory synchronization across multiple subjects.
+Technologies claimed to alter, implant, or synchronize memories after anomalous encounters
 
 ## Description
 

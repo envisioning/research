@@ -2,7 +2,8 @@
 slug: spectator-integrated-esports-platforms
 hub: pixels
 title: Spectator-Integrated Esports Platforms
-summary: Broadcasts where viewers can influence matches and in-arena experiences.
+summary: Esports broadcasts that let viewers trigger in-game events, choose camera
+  angles, and interact with live matches
 permalink: https://www.envisioning.com/pixels/spectator-integrated-esports-platforms
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011000/pixel
 
 ## Summary
 
-Broadcasts where viewers can influence matches and in-arena experiences.
+Esports broadcasts that let viewers trigger in-game events, choose camera angles, and interact with live matches
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: e-residency-programs
 hub: polis
 title: E-Residency Programs
-summary: Transnational digital identities enabling cross-border entrepreneurship.
+summary: Government-issued digital identities for non-residents to access services
+  and start businesses remotely
 permalink: https://www.envisioning.com/polis/e-residency-programs
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126742/polis
 
 ## Summary
 
-Transnational digital identities enabling cross-border entrepreneurship.
+Government-issued digital identities for non-residents to access services and start businesses remotely
 
 ## Description
 

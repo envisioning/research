@@ -2,7 +2,7 @@
 slug: autonomous-regolith-construction
 hub: substrate
 title: Autonomous Regolith Construction
-summary: Robotic 3D-printing of habitats and infrastructure using local soil.
+summary: Robotic systems that 3D-print structures from lunar or planetary soil
 permalink: https://www.envisioning.com/substrate/autonomous-regolith-construction
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117155/subst
 
 ## Summary
 
-Robotic 3D-printing of habitats and infrastructure using local soil.
+Robotic systems that 3D-print structures from lunar or planetary soil
 
 ## Description
 

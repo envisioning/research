@@ -2,8 +2,8 @@
 slug: ethical-governance-ai-agents
 hub: datatrends
 title: Ethical Governance Among AI Agents
-summary: Developing frameworks for ethical behavior and decision-making when multiple
-  AI agents interact in autonomous systems.
+summary: Frameworks for ethical decision-making when autonomous AI agents interact
+  without human oversight
 permalink: https://www.envisioning.com/datatrends/ethical-governance-ai-agents
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768160261/datat
 
 ## Summary
 
-Developing frameworks for ethical behavior and decision-making when multiple AI agents interact in autonomous systems.
+Frameworks for ethical decision-making when autonomous AI agents interact without human oversight
 
 ## Description
 

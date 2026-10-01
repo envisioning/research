@@ -2,7 +2,8 @@
 slug: decentralized-compute-markets
 hub: prism
 title: Decentralized Compute Markets
-summary: Networks for renting consumer GPU power for distributed media rendering.
+summary: Peer-to-peer marketplaces that let creators rent idle GPUs for rendering
+  and AI tasks
 permalink: https://www.envisioning.com/prism/decentralized-compute-markets
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073967/pulse
 
 ## Summary
 
-Networks for renting consumer GPU power for distributed media rendering.
+Peer-to-peer marketplaces that let creators rent idle GPUs for rendering and AI tasks
 
 ## Description
 

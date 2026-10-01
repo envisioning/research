@@ -2,19 +2,21 @@
 slug: cashierless-stores
 hub: interface
 title: Cashierless Stores
-summary: Retail environments using computer vision and sensors for frictionless checkout.
+summary: Retail environments using computer vision and sensors to eliminate checkout
+  lines
 permalink: https://www.envisioning.com/interface/cashierless-stores
 collection: applications
 trl: 6
-impact: 4
-investment: 5
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887104/interface/technologies/50695b2b-98be-4fa1-aed2-2823b7363702-google-gemini-3.1-flash-image-preview-exy9w2.jpg
 ---
 
 # Cashierless Stores
 
 ## Summary
 
-Retail environments using computer vision and sensors for frictionless checkout.
+Retail environments using computer vision and sensors to eliminate checkout lines
 
 ## Description
 

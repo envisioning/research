@@ -2,7 +2,8 @@
 slug: autonomous-delivery
 hub: harvest
 title: Autonomous Last-Mile Delivery
-summary: Robots and drones for food distribution.
+summary: Self-driving robots and drones delivering food and groceries directly to
+  consumers
 permalink: https://www.envisioning.com/harvest/autonomous-delivery
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128167/harve
 
 ## Summary
 
-Robots and drones for food distribution.
+Self-driving robots and drones delivering food and groceries directly to consumers
 
 ## Description
 

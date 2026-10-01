@@ -2,7 +2,8 @@
 slug: dynamic-line-rating
 hub: grid
 title: Dynamic Line Rating (DLR)
-summary: Real-time thermal monitoring to safely increase transmission line capacity.
+summary: Real-time monitoring that adjusts transmission line capacity based on weather
+  conditions
 permalink: https://www.envisioning.com/grid/dynamic-line-rating
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435305/grid/
 
 ## Summary
 
-Real-time thermal monitoring to safely increase transmission line capacity.
+Real-time monitoring that adjusts transmission line capacity based on weather conditions
 
 ## Description
 

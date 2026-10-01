@@ -2,7 +2,8 @@
 slug: fluid-antenna-systems
 hub: link
 title: Fluid Antenna Systems
-summary: Liquid metal antennas that reshape to optimize signal reception.
+summary: Antennas using liquid metal that physically reshape to adapt signal reception
+  in real time
 permalink: https://www.envisioning.com/link/fluid-antenna-systems
 collection: hardware
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435850/link/
 
 ## Summary
 
-Liquid metal antennas that reshape to optimize signal reception.
+Antennas using liquid metal that physically reshape to adapt signal reception in real time
 
 ## Description
 

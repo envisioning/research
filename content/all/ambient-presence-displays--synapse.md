@@ -2,7 +2,8 @@
 slug: ambient-presence-displays
 hub: synapse
 title: Ambient Presence Displays
-summary: Peripheral devices providing non-intrusive awareness of team status.
+summary: Peripheral displays that signal remote teammates' availability without interrupting
+  workflow
 permalink: https://www.envisioning.com/synapse/ambient-presence-displays
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126375/synap
 
 ## Summary
 
-Peripheral devices providing non-intrusive awareness of team status.
+Peripheral displays that signal remote teammates' availability without interrupting workflow
 
 ## Description
 

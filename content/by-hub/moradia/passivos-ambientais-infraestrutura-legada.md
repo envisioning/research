@@ -2,7 +2,7 @@
 slug: passivos-ambientais-infraestrutura-legada
 hub: moradia
 title: Passivos Ambientais de Infraestrutura Legada
-summary: Contaminação de solo, águas e riscos de saúde por redes antigas e abandonadas.
+summary: Contaminação persistente de solo e água por redes urbanas antigas e abandonadas
 permalink: https://www.envisioning.com/moradia/passivos-ambientais-infraestrutura-legada
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591752/habit
 
 ## Summary
 
-Contaminação de solo, águas e riscos de saúde por redes antigas e abandonadas.
+Contaminação persistente de solo e água por redes urbanas antigas e abandonadas
 
 ## Description
 

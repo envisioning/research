@@ -2,8 +2,8 @@
 slug: ai-demand-forecasting
 hub: grid
 title: AI Demand Forecasting & Load Prediction
-summary: Machine learning models predicting electricity demand with unprecedented
-  accuracy.
+summary: Machine learning models that predict electricity consumption patterns for
+  grid operators and utilities
 permalink: https://www.envisioning.com/grid/ai-demand-forecasting
 collection: software
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113856/grid/
 
 ## Summary
 
-Machine learning models predicting electricity demand with unprecedented accuracy.
+Machine learning models that predict electricity consumption patterns for grid operators and utilities
 
 ## Description
 

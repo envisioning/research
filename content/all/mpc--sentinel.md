@@ -2,7 +2,7 @@
 slug: mpc
 hub: sentinel
 title: Secure Multi-Party Computation
-summary: Joint computation on private inputs without revealing them.
+summary: Joint computation on private data without exposing individual inputs to participants
 permalink: https://www.envisioning.com/sentinel/mpc
 collection: ethics-security
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461925/senti
 
 ## Summary
 
-Joint computation on private inputs without revealing them.
+Joint computation on private data without exposing individual inputs to participants
 
 ## Description
 

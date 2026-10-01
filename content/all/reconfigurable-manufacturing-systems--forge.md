@@ -2,7 +2,7 @@
 slug: reconfigurable-manufacturing-systems
 hub: forge
 title: Reconfigurable Manufacturing Systems (RMS)
-summary: Modular production platforms that rapidly adapt to new products and volumes.
+summary: Modular production lines that reorganize quickly for new products or volumes
 permalink: https://www.envisioning.com/forge/reconfigurable-manufacturing-systems
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177649/forge
 
 ## Summary
 
-Modular production platforms that rapidly adapt to new products and volumes.
+Modular production lines that reorganize quickly for new products or volumes
 
 ## Description
 

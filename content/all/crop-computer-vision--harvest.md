@@ -2,7 +2,8 @@
 slug: crop-computer-vision
 hub: harvest
 title: Crop Computer Vision
-summary: Deep learning for pest and disease detection.
+summary: Automated plant health monitoring using deep learning to identify pests,
+  diseases, and deficiencies
 permalink: https://www.envisioning.com/harvest/crop-computer-vision
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128095/harve
 
 ## Summary
 
-Deep learning for pest and disease detection.
+Automated plant health monitoring using deep learning to identify pests, diseases, and deficiencies
 
 ## Description
 

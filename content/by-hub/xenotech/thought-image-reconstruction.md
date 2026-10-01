@@ -2,21 +2,21 @@
 slug: thought-image-reconstruction
 hub: xenotech
 title: Thought-Image Reconstruction
-summary: Technologies attempting to capture or reconstruct mental imagery and cognitive
-  content through remote or non-invasive detection of brain activity.
+summary: Capturing mental imagery by detecting brain activity patterns remotely or
+  non-invasively
 permalink: https://www.envisioning.com/xenotech/thought-image-reconstruction
 collection: perception-cognition
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760822471/xenotech/technologies/tesla-thought-photography.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903321/xenotech/technologies/thought-image-reconstruction-openrouter-google-gemini-3.1-flash-image-preview-fn2bko.png
 ---
 
 # Thought-Image Reconstruction
 
 ## Summary
 
-Technologies attempting to capture or reconstruct mental imagery and cognitive content through remote or non-invasive detection of brain activity.
+Capturing mental imagery by detecting brain activity patterns remotely or non-invasively
 
 ## Description
 

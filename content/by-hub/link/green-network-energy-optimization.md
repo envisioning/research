@@ -2,7 +2,8 @@
 slug: green-network-energy-optimization
 hub: link
 title: Green Network Energy Optimization
-summary: AI and automation to minimize energy consumption across telecom infrastructure.
+summary: AI-driven systems that reduce power consumption in telecom networks based
+  on real-time traffic patterns
 permalink: https://www.envisioning.com/link/green-network-energy-optimization
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436344/link/
 
 ## Summary
 
-AI and automation to minimize energy consumption across telecom infrastructure.
+AI-driven systems that reduce power consumption in telecom networks based on real-time traffic patterns
 
 ## Description
 

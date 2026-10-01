@@ -2,8 +2,8 @@
 slug: retrofit-platforms
 hub: habitat
 title: Smart Retrofit Platforms
-summary: Preconfigured hardware–software kits to modernize legacy building stock at
-  scale.
+summary: Modular kits that add sensors, controls, and connectivity to older buildings
+  without major construction
 permalink: https://www.envisioning.com/habitat/retrofit-platforms
 collection: applications
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117944/habit
 
 ## Summary
 
-Preconfigured hardware–software kits to modernize legacy building stock at scale.
+Modular kits that add sensors, controls, and connectivity to older buildings without major construction
 
 ## Description
 

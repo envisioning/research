@@ -2,7 +2,8 @@
 slug: cross-border-relationship-rights
 hub: eros
 title: Cross-Border Relationship Jurisdiction
-summary: Legal frameworks for relationships spanning national boundaries.
+summary: Legal frameworks governing intimate relationships that span multiple countries
+  and legal systems
 permalink: https://www.envisioning.com/eros/cross-border-relationship-rights
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124196/eros/
 
 ## Summary
 
-Legal frameworks for relationships spanning national boundaries.
+Legal frameworks governing intimate relationships that span multiple countries and legal systems
 
 ## Description
 

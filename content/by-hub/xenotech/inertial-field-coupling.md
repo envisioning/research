@@ -2,21 +2,21 @@
 slug: inertial-field-coupling
 hub: xenotech
 title: Inertial Field Coupling
-summary: Theoretical propulsion systems manipulating inertial properties through electromagnetic
-  field interactions and vacuum engineering.
+summary: Propulsion concepts that manipulate inertia through electromagnetic fields
+  and vacuum interactions
 permalink: https://www.envisioning.com/xenotech/inertial-field-coupling
 collection: propulsion-physics
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655801/xenotech/technologies/inertial-field-coupling.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898484/xenotech/technologies/inertial-field-coupling-openrouter-google-gemini-3.1-flash-image-preview-nzg6u1.png
 ---
 
 # Inertial Field Coupling
 
 ## Summary
 
-Theoretical propulsion systems manipulating inertial properties through electromagnetic field interactions and vacuum engineering.
+Propulsion concepts that manipulate inertia through electromagnetic fields and vacuum interactions
 
 ## Description
 

@@ -2,21 +2,20 @@
 slug: xenobots-synthetic-living-constructs
 hub: xenotech
 title: Xenobots
-summary: Living programmable organisms created from frog cells and designed via evolutionary
-  algorithms to perform specific tasks such as locomotion, cargo transport, and self-replication.
+summary: Living robots built from frog cells that can move, carry cargo, and self-replicate
 permalink: https://www.envisioning.com/xenotech/xenobots-synthetic-living-constructs
 collection: biology-hybridization
 trl: 5
 impact: 5
 investment: 6
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762004931/xenotech/technologies/xenobots-synthetic-living-constructs-openai-gpt-5-xg6408.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903564/xenotech/technologies/xenobots-synthetic-living-constructs-openrouter-google-gemini-3.1-flash-image-preview-hif1ef.png
 ---
 
 # Xenobots
 
 ## Summary
 
-Living programmable organisms created from frog cells and designed via evolutionary algorithms to perform specific tasks such as locomotion, cargo transport, and self-replication.
+Living robots built from frog cells that can move, carry cargo, and self-replicate
 
 ## Description
 

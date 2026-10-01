@@ -2,7 +2,8 @@
 slug: simulation-based-work-training-platforms
 hub: pixels
 title: Simulation-Based Work Training Platforms
-summary: Enterprise-grade game engines for operational and safety training.
+summary: Game engines that replicate factories and facilities for risk-free operational
+  training
 permalink: https://www.envisioning.com/pixels/simulation-based-work-training-platforms
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011505/pixel
 
 ## Summary
 
-Enterprise-grade game engines for operational and safety training.
+Game engines that replicate factories and facilities for risk-free operational training
 
 ## Description
 

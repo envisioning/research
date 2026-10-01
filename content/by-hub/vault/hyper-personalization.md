@@ -2,7 +2,8 @@
 slug: hyper-personalization
 hub: vault
 title: Hyper-Personalized Financial Products
-summary: Generative AI for bespoke banking.
+summary: AI-generated banking products tailored to individual financial profiles and
+  goals
 permalink: https://www.envisioning.com/vault/hyper-personalization
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129210/vault
 
 ## Summary
 
-Generative AI for bespoke banking.
+AI-generated banking products tailored to individual financial profiles and goals
 
 ## Description
 

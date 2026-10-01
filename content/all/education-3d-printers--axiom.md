@@ -2,7 +2,7 @@
 slug: education-3d-printers
 hub: axiom
 title: 3D Printers for Education
-summary: Classroom-safe printers for STEM prototyping.
+summary: Desktop fabrication systems designed for safe classroom use in STEM learning
 permalink: https://www.envisioning.com/axiom/education-3d-printers
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059777/axiom
 
 ## Summary
 
-Classroom-safe printers for STEM prototyping.
+Desktop fabrication systems designed for safe classroom use in STEM learning
 
 ## Description
 

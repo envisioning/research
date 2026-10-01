@@ -2,7 +2,8 @@
 slug: biomanufacturing
 hub: forge
 title: Biomanufacturing & Synthetic Biology
-summary: Using biological systems to grow materials and chemicals instead of extraction.
+summary: Engineering microorganisms to produce materials and chemicals through cellular
+  processes
 permalink: https://www.envisioning.com/forge/biomanufacturing
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118393/forge
 
 ## Summary
 
-Using biological systems to grow materials and chemicals instead of extraction.
+Engineering microorganisms to produce materials and chemicals through cellular processes
 
 ## Description
 

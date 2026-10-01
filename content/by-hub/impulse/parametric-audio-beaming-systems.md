@@ -2,7 +2,8 @@
 slug: parametric-audio-beaming-systems
 hub: impulse
 title: Parametric Audio Beaming Systems
-summary: Highly directional sound beams targeting individuals.
+summary: Directional sound delivery using ultrasonic waves to target specific listeners
+  without ambient spillover
 permalink: https://www.envisioning.com/impulse/parametric-audio-beaming-systems
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133506/impul
 
 ## Summary
 
-Highly directional sound beams targeting individuals.
+Directional sound delivery using ultrasonic waves to target specific listeners without ambient spillover
 
 ## Description
 

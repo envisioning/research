@@ -2,20 +2,21 @@
 slug: borg-vinculum
 hub: subspace
 title: Vinculum
-summary: Central processing unit harmonizing drone thoughts and filtering individuality.
+summary: Distributed consciousness processor harmonizing thoughts across networked
+  drones
 permalink: https://www.envisioning.com/subspace/borg-vinculum
 collection: computing
 trl: 6
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263276/subspaceindex/technologies/borg-vinculum.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909721/subspace/technologies/borg-vinculum-openrouter-google-gemini-3.1-flash-image-preview-s6h7sf.png
 ---
 
 # Vinculum
 
 ## Summary
 
-Central processing unit harmonizing drone thoughts and filtering individuality.
+Distributed consciousness processor harmonizing thoughts across networked drones
 
 ## Description
 

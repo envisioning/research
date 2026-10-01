@@ -2,7 +2,8 @@
 slug: generative-mine-design
 hub: stratum
 title: Generative Mine Design Software
-summary: AI algorithms autonomously generating optimal mine layouts.
+summary: AI-driven software that automatically generates and optimizes mine layouts
+  based on geological, safety, and economic con
 permalink: https://www.envisioning.com/stratum/generative-mine-design
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177903/strat
 
 ## Summary
 
-AI algorithms autonomously generating optimal mine layouts.
+AI-driven software that automatically generates and optimizes mine layouts based on geological, safety, and economic con
 
 ## Description
 

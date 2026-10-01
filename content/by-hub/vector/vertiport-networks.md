@@ -2,7 +2,8 @@
 slug: vertiport-networks
 hub: vector
 title: Vertiport Networks
-summary: Infrastructure hubs for VTOL and urban air mobility integration.
+summary: Dedicated landing hubs designed for electric air taxis and VTOL aircraft
+  in cities
 permalink: https://www.envisioning.com/vector/vertiport-networks
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441619/vecto
 
 ## Summary
 
-Infrastructure hubs for VTOL and urban air mobility integration.
+Dedicated landing hubs designed for electric air taxis and VTOL aircraft in cities
 
 ## Description
 

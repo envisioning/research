@@ -2,13 +2,13 @@
 slug: millimeter-level-3d-indoor-positioning
 hub: interface
 title: Millimeter-Level 3D Indoor Positioning
-summary: World's first infinitely scalable, millimeter-accurate 3D positioning system
-  with full 6DoF orientation using patented acoustic sensors.
+summary: Acoustic sensor arrays that track position and orientation indoors to millimeter
+  precision
 permalink: https://www.envisioning.com/interface/millimeter-level-3d-indoor-positioning
-collection: ambient-contextual-systems
+collection: hardware
 trl: 6
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743375/interface/technologies/millimeter-level-3d-indoor-positioning-google-gemini-3-pro-image-preview-iyq4e3.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743375/inter
 
 ## Summary
 
-World's first infinitely scalable, millimeter-accurate 3D positioning system with full 6DoF orientation using patented acoustic sensors.
+Acoustic sensor arrays that track position and orientation indoors to millimeter precision
 
 ## Description
 

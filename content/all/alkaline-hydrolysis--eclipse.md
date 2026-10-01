@@ -2,7 +2,8 @@
 slug: alkaline-hydrolysis
 hub: eclipse
 title: Alkaline Hydrolysis Units
-summary: Systems for water-based cremation using heat, pressure, and alkali.
+summary: Water-based cremation using heat, pressure, and alkaline solution to accelerate
+  decomposition
 permalink: https://www.envisioning.com/eclipse/alkaline-hydrolysis
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126387/eclip
 
 ## Summary
 
-Systems for water-based cremation using heat, pressure, and alkali.
+Water-based cremation using heat, pressure, and alkaline solution to accelerate decomposition
 
 ## Description
 

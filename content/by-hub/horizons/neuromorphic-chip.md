@@ -2,10 +2,10 @@
 slug: neuromorphic-chip
 hub: horizons
 title: Neuromorphic Chip
-summary: Brain-inspired processors mimicking biological neurons for efficient, real-time
-  AI.
+summary: Brain-inspired processors that integrate memory and computation for energy-efficient
+  AI
 permalink: https://www.envisioning.com/horizons/neuromorphic-chip
-collection: intelligence-computation
+collection: hardware
 trl: 4
 impact: 5
 investment: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521010/horiz
 
 ## Summary
 
-Brain-inspired processors mimicking biological neurons for efficient, real-time AI.
+Brain-inspired processors that integrate memory and computation for energy-efficient AI
 
 ## Description
 

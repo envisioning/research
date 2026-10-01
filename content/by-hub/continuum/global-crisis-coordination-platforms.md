@@ -2,7 +2,7 @@
 slug: global-crisis-coordination-platforms
 hub: continuum
 title: Global Crisis Coordination Platforms
-summary: Digital backbones for transnational crisis management and resource routing.
+summary: Interoperable systems for cross-border disaster response and resource mobilization
 permalink: https://www.envisioning.com/continuum/global-crisis-coordination-platforms
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124661/conti
 
 ## Summary
 
-Digital backbones for transnational crisis management and resource routing.
+Interoperable systems for cross-border disaster response and resource mobilization
 
 ## Description
 

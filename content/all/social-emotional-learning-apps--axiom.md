@@ -2,7 +2,8 @@
 slug: social-emotional-learning-apps
 hub: axiom
 title: Social-Emotional Learning Apps
-summary: Mobile programs teaching mindfulness, empathy, and conflict resolution.
+summary: Mobile platforms delivering structured lessons in self-awareness, empathy,
+  and emotional regulation
 permalink: https://www.envisioning.com/axiom/social-emotional-learning-apps
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162266/axiom
 
 ## Summary
 
-Mobile programs teaching mindfulness, empathy, and conflict resolution.
+Mobile platforms delivering structured lessons in self-awareness, empathy, and emotional regulation
 
 ## Description
 

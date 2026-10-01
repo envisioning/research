@@ -2,7 +2,8 @@
 slug: programmable-matter-4d-printing
 hub: quadrant
 title: 4D Printing & Programmable Matter
-summary: Smart materials that self-assemble or reshape over time.
+summary: 3D-printed objects that transform shape or properties when triggered by heat,
+  light, or moisture
 permalink: https://www.envisioning.com/quadrant/programmable-matter-4d-printing
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123922/quadr
 
 ## Summary
 
-Smart materials that self-assemble or reshape over time.
+3D-printed objects that transform shape or properties when triggered by heat, light, or moisture
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: bias-auditors
 hub: vault
 title: Algorithmic Bias Detection & Auditing
-summary: Fairness monitoring for AI-driven finance.
+summary: Tools that identify and measure unfair treatment in AI-powered lending, underwriting,
+  and risk models
 permalink: https://www.envisioning.com/vault/bias-auditors
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129257/vault
 
 ## Summary
 
-Fairness monitoring for AI-driven finance.
+Tools that identify and measure unfair treatment in AI-powered lending, underwriting, and risk models
 
 ## Description
 

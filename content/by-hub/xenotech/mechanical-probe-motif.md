@@ -2,22 +2,21 @@
 slug: mechanical-probe-motif
 hub: xenotech
 title: Mechanical Probe
-summary: The persistent technological motif of slender, autonomous mechanical or biomechanical
-  probes with wire-cage tips used for biological sampling and neurological procedures
-  in abduction encounters.
+summary: Slender autonomous probes with wire-cage tips reported in abduction encounter
+  testimonies for biological sampling
 permalink: https://www.envisioning.com/xenotech/mechanical-probe-motif
 collection: materials-structures
 trl: 1
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761656100/xenotech/technologies/mechanical-probe-motif.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898716/xenotech/technologies/mechanical-probe-motif-openrouter-google-gemini-3.1-flash-image-preview-eeg5bx.png
 ---
 
 # Mechanical Probe
 
 ## Summary
 
-The persistent technological motif of slender, autonomous mechanical or biomechanical probes with wire-cage tips used for biological sampling and neurological procedures in abduction encounters.
+Slender autonomous probes with wire-cage tips reported in abduction encounter testimonies for biological sampling
 
 ## Description
 

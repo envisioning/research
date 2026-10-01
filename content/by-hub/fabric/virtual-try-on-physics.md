@@ -2,7 +2,7 @@
 slug: virtual-try-on-physics
 hub: fabric
 title: Virtual Try-On with Physics Simulation
-summary: Real-time, physically accurate digital fitting tools for e-commerce.
+summary: Simulates fabric drape and fit on digital avatars for online clothing shopping
 permalink: https://www.envisioning.com/fabric/virtual-try-on-physics
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059794/threa
 
 ## Summary
 
-Real-time, physically accurate digital fitting tools for e-commerce.
+Simulates fabric drape and fit on digital avatars for online clothing shopping
 
 ## Description
 

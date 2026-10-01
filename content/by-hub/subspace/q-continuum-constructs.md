@@ -2,21 +2,20 @@
 slug: q-continuum-constructs
 hub: subspace
 title: Q Continuum Spatial Constructs
-summary: Extradimensional spaces and structures existing outside conventional space-time
-  physics.
+summary: Extradimensional realms beyond conventional space-time and physical laws
 permalink: https://www.envisioning.com/subspace/q-continuum-constructs
 collection: engineering
 trl: 1
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760269386/subspaceindex/technologies/q-continuum-constructs.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908762/subspace/technologies/q-continuum-constructs-openrouter-google-gemini-3.1-flash-image-preview-8sg90u.png
 ---
 
 # Q Continuum Spatial Constructs
 
 ## Summary
 
-Extradimensional spaces and structures existing outside conventional space-time physics.
+Extradimensional realms beyond conventional space-time and physical laws
 
 ## Description
 

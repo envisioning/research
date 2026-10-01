@@ -2,7 +2,8 @@
 slug: digital-thread-graph
 hub: quadrant
 title: Digital Thread Knowledge Graphs
-summary: Unified data models linking design, production, and operations.
+summary: Semantically linked data across design, manufacturing, and operations for
+  full product lifecycle traceability
 permalink: https://www.envisioning.com/quadrant/digital-thread-graph
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126836/quadr
 
 ## Summary
 
-Unified data models linking design, production, and operations.
+Semantically linked data across design, manufacturing, and operations for full product lifecycle traceability
 
 ## Description
 

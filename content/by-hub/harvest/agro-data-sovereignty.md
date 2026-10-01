@@ -2,7 +2,8 @@
 slug: agro-data-sovereignty
 hub: harvest
 title: Agro-Data Sovereignty
-summary: Frameworks ensuring farmer data ownership.
+summary: Frameworks ensuring farmers retain ownership and control of their agricultural
+  data
 permalink: https://www.envisioning.com/harvest/agro-data-sovereignty
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128189/harve
 
 ## Summary
 
-Frameworks ensuring farmer data ownership.
+Frameworks ensuring farmers retain ownership and control of their agricultural data
 
 ## Description
 

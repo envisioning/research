@@ -2,7 +2,8 @@
 slug: federated-affective-learning
 hub: beacon
 title: Federated Affective Learning
-summary: On-device training for emotion-recognition models.
+summary: Privacy-preserving emotion recognition trained locally on user devices without
+  centralizing biometric data
 permalink: https://www.envisioning.com/beacon/federated-affective-learning
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124425/beaco
 
 ## Summary
 
-On-device training for emotion-recognition models.
+Privacy-preserving emotion recognition trained locally on user devices without centralizing biometric data
 
 ## Description
 

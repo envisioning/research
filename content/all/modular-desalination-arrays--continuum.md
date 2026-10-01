@@ -2,7 +2,8 @@
 slug: modular-desalination-arrays
 hub: continuum
 title: Modular Desalination Arrays
-summary: Scalable, energy-efficient freshwater generation systems.
+summary: Containerized freshwater systems that scale to local demand in water-scarce
+  regions
 permalink: https://www.envisioning.com/continuum/modular-desalination-arrays
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124527/conti
 
 ## Summary
 
-Scalable, energy-efficient freshwater generation systems.
+Containerized freshwater systems that scale to local demand in water-scarce regions
 
 ## Description
 

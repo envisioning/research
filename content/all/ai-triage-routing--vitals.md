@@ -2,8 +2,8 @@
 slug: ai-triage-routing
 hub: vitals
 title: AI-Triage & Patient Routing
-summary: Intelligent systems that assess symptoms remotely and direct patients to
-  the optimal care setting.
+summary: Automated symptom assessment and care-setting recommendations using conversational
+  AI
 permalink: https://www.envisioning.com/vitals/ai-triage-routing
 collection: applications
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115309/vital
 
 ## Summary
 
-Intelligent systems that assess symptoms remotely and direct patients to the optimal care setting.
+Automated symptom assessment and care-setting recommendations using conversational AI
 
 ## Description
 

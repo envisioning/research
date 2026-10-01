@@ -2,7 +2,8 @@
 slug: intimacy-algorithm-audits
 hub: eros
 title: Intimacy Algorithm Audit Tooling
-summary: Frameworks and tools to audit recommendation engines that shape relationships.
+summary: Tools to inspect and evaluate the algorithms that determine who meets whom
+  on dating and social platforms
 permalink: https://www.envisioning.com/eros/intimacy-algorithm-audits
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125624/eros/
 
 ## Summary
 
-Frameworks and tools to audit recommendation engines that shape relationships.
+Tools to inspect and evaluate the algorithms that determine who meets whom on dating and social platforms
 
 ## Description
 

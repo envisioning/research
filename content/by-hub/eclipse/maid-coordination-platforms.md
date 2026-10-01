@@ -2,7 +2,8 @@
 slug: maid-coordination-platforms
 hub: eclipse
 title: Medical Assistance in Dying (MAiD) Platforms
-summary: End-to-end coordination for legal assisted death services.
+summary: Digital systems coordinating eligibility, assessments, and documentation
+  for legal assisted death services
 permalink: https://www.envisioning.com/eclipse/maid-coordination-platforms
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127261/eclip
 
 ## Summary
 
-End-to-end coordination for legal assisted death services.
+Digital systems coordinating eligibility, assessments, and documentation for legal assisted death services
 
 ## Description
 

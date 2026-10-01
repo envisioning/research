@@ -2,22 +2,21 @@
 slug: lenr-cold-fusion
 hub: xenotech
 title: Cold Fusion
-summary: Low Energy Nuclear Reactions (LENR) claiming nuclear fusion at near room
-  temperature through metal-hydrogen systems, electrolytic processes, and acoustic
-  cavitation approaches.
+summary: Nuclear reactions claimed to occur at room temperature using metal-hydrogen
+  systems and electrolysis
 permalink: https://www.envisioning.com/xenotech/lenr-cold-fusion
 collection: propulsion-physics
 trl: 4
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761682078/xenotech/technologies/lenr-cold-fusion.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897821/xenotech/technologies/lenr-cold-fusion-openrouter-google-gemini-3.1-flash-image-preview-sm3akt.png
 ---
 
 # Cold Fusion
 
 ## Summary
 
-Low Energy Nuclear Reactions (LENR) claiming nuclear fusion at near room temperature through metal-hydrogen systems, electrolytic processes, and acoustic cavitation approaches.
+Nuclear reactions claimed to occur at room temperature using metal-hydrogen systems and electrolysis
 
 ## Description
 

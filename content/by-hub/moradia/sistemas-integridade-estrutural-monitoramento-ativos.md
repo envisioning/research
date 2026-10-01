@@ -2,10 +2,8 @@
 slug: sistemas-integridade-estrutural-monitoramento-ativos
 hub: moradia
 title: Sistemas de Integridade Estrutural e Monitoramento de Ativos
-summary: Sistemas integrados de monitoramento estrutural que combinam materiais anticorrosão
-  (FRP, fibra de basalto) com sensores embarcados em fundações e estruturas críticas,
-  permitindo monitoramento em tempo real, detecção precoce de problemas e aumento
-  de durabilidade e vida útil.
+summary: Monitoramento contínuo de estruturas com sensores embarcados e materiais
+  anticorrosão para maior durabilidade
 permalink: https://www.envisioning.com/moradia/sistemas-integridade-estrutural-monitoramento-ativos
 collection: sistemas-prediais-automacao
 trl: 2
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766570454/habit
 
 ## Summary
 
-Sistemas integrados de monitoramento estrutural que combinam materiais anticorrosão (FRP, fibra de basalto) com sensores embarcados em fundações e estruturas críticas, permitindo monitoramento em tempo real, detecção precoce de problemas e aumento de durabilidade e vida útil.
+Monitoramento contínuo de estruturas com sensores embarcados e materiais anticorrosão para maior durabilidade
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: university-partnership-management-systems
 hub: habitat
 title: University Partnership Management Systems
-summary: Integration platforms managing relationships and agreements between housing
-  providers and educational institutions.
+summary: Platforms coordinating housing agreements, student data, and academic calendars
+  between universities and providers
 permalink: https://www.envisioning.com/habitat/university-partnership-management-systems
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768310305/habit
 
 ## Summary
 
-Integration platforms managing relationships and agreements between housing providers and educational institutions.
+Platforms coordinating housing agreements, student data, and academic calendars between universities and providers
 
 ## Description
 

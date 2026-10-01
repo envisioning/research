@@ -2,7 +2,8 @@
 slug: railgun-artillery
 hub: aegis
 title: Railgun Artillery
-summary: Electromagnetic launchers firing projectiles at hypersonic speeds.
+summary: Electromagnetic launchers propelling projectiles at hypersonic speeds without
+  chemical propellants
 permalink: https://www.envisioning.com/aegis/railgun-artillery
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074975/aegis
 
 ## Summary
 
-Electromagnetic launchers firing projectiles at hypersonic speeds.
+Electromagnetic launchers propelling projectiles at hypersonic speeds without chemical propellants
 
 ## Description
 

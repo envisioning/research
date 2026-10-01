@@ -2,7 +2,8 @@
 slug: adaptive-matchmaking-engines
 hub: pixels
 title: Adaptive Matchmaking Engines
-summary: Cross-platform skill models balancing fairness, latency, and party play.
+summary: Matchmaking systems that balance skill, latency, play style, and social fit
+  in real time
 permalink: https://www.envisioning.com/pixels/adaptive-matchmaking-engines
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062290/pixel
 
 ## Summary
 
-Cross-platform skill models balancing fairness, latency, and party play.
+Matchmaking systems that balance skill, latency, play style, and social fit in real time
 
 ## Description
 

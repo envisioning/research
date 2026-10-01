@@ -2,7 +2,7 @@
 slug: algorithmic-accountability
 hub: meridian
 title: Algorithmic Accountability
-summary: Ensuring trusted government AI.
+summary: Frameworks and audits ensuring government AI systems operate fairly and transparently
 permalink: https://www.envisioning.com/meridian/algorithmic-accountability
 collection: ethics-security
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123725/merid
 
 ## Summary
 
-Ensuring trusted government AI.
+Frameworks and audits ensuring government AI systems operate fairly and transparently
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: environmental-impact-analytics
 hub: quadrant
 title: Environmental Impact Analytics
-summary: Real-time ESG monitoring and carbon accounting.
+summary: Real-time monitoring systems that track emissions, resource use, and environmental
+  footprint across operations
 permalink: https://www.envisioning.com/quadrant/environmental-impact-analytics
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128369/quadr
 
 ## Summary
 
-Real-time ESG monitoring and carbon accounting.
+Real-time monitoring systems that track emissions, resource use, and environmental footprint across operations
 
 ## Description
 

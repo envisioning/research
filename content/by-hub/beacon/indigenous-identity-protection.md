@@ -2,7 +2,8 @@
 slug: indigenous-identity-protection
 hub: beacon
 title: Indigenous Identity Protection Frameworks
-summary: Safeguarding collective and cultural identity rights.
+summary: Digital governance systems that protect indigenous collective identity and
+  cultural knowledge rights
 permalink: https://www.envisioning.com/beacon/indigenous-identity-protection
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281571/beaco
 
 ## Summary
 
-Safeguarding collective and cultural identity rights.
+Digital governance systems that protect indigenous collective identity and cultural knowledge rights
 
 ## Description
 

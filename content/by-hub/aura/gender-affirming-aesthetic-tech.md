@@ -2,7 +2,8 @@
 slug: gender-affirming-aesthetic-tech
 hub: aura
 title: Gender-Affirming Aesthetic Tech Stacks
-summary: Integrated technologies for gender-affirming transitions.
+summary: Coordinated medical, aesthetic, and digital tools supporting comprehensive
+  gender transitions
 permalink: https://www.envisioning.com/aura/gender-affirming-aesthetic-tech
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998621/aura/
 
 ## Summary
 
-Integrated technologies for gender-affirming transitions.
+Coordinated medical, aesthetic, and digital tools supporting comprehensive gender transitions
 
 ## Description
 

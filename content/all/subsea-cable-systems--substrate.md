@@ -2,7 +2,8 @@
 slug: subsea-cable-systems
 hub: substrate
 title: Subsea Cable Systems & Underwater IoT
-summary: Next-generation transoceanic fiber cables with integrated sensing and robotics.
+summary: Fiber-optic cables that transmit global data and monitor ocean conditions
+  simultaneously
 permalink: https://www.envisioning.com/substrate/subsea-cable-systems
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117636/subst
 
 ## Summary
 
-Next-generation transoceanic fiber cables with integrated sensing and robotics.
+Fiber-optic cables that transmit global data and monitor ocean conditions simultaneously
 
 ## Description
 

@@ -2,14 +2,10 @@
 slug: wooden-skyscraper
 hub: cities
 title: Wooden Skyscraper
-summary: Wooden skyscrapers address the high carbon emissions of traditional construction
-  materials like steel and concrete. These skyscrapers utilise engineered wood products
-  such as cross-laminated timber (CLT) and glued laminated timber (glulam), which
-  are strong, flexible, and sustainable. The primary environmental benefit of wooden
-  skyscrapers is their ability to sequester carbon dioxide, thus reducing the overall
-  carbon footprint of urban buildings.
+summary: High-rise buildings constructed from engineered timber to reduce construction
+  carbon emissions
 permalink: https://www.envisioning.com/cities/wooden-skyscraper
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: hardware
 trl: 8
 impact: 2
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718369398-wooden-skyscraper.pn
 
 ## Summary
 
-Wooden skyscrapers address the high carbon emissions of traditional construction materials like steel and concrete. These skyscrapers utilise engineered wood products such as cross-laminated timber (CLT) and glued laminated timber (glulam), which are strong, flexible, and sustainable. The primary environmental benefit of wooden skyscrapers is their ability to sequester carbon dioxide, thus reducing the overall carbon footprint of urban buildings.
+High-rise buildings constructed from engineered timber to reduce construction carbon emissions
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: metaphasic-shields
 hub: subspace
 title: Metaphasic Shields
-summary: Advanced shielding technology allowing vessels to withstand the intense radiation
-  within stellar coronas.
+summary: Shielding that lets spacecraft survive inside a star's corona by downshifting
+  radiation
 permalink: https://www.envisioning.com/subspace/metaphasic-shields
 collection: defense
 trl: 5
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760211633/subspaceindex/technologies/metaphasic-shields.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908407/subspace/technologies/metaphasic-shields-openrouter-google-gemini-3.1-flash-image-preview-qaw77t.png
 ---
 
 # Metaphasic Shields
 
 ## Summary
 
-Advanced shielding technology allowing vessels to withstand the intense radiation within stellar coronas.
+Shielding that lets spacecraft survive inside a star's corona by downshifting radiation
 
 ## Description
 

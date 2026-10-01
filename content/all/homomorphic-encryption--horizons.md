@@ -2,9 +2,10 @@
 slug: homomorphic-encryption
 hub: horizons
 title: Homomorphic Encryption
-summary: Processing encrypted data without ever decrypting it.
+summary: Computing on encrypted data without decrypting it first, preserving privacy
+  throughout processing
 permalink: https://www.envisioning.com/horizons/homomorphic-encryption
-collection: intelligence-computation
+collection: software
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526588/horiz
 
 ## Summary
 
-Processing encrypted data without ever decrypting it.
+Computing on encrypted data without decrypting it first, preserving privacy throughout processing
 
 ## Description
 

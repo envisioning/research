@@ -2,8 +2,8 @@
 slug: risco-juridico-moradia-informal
 hub: moradia
 title: Risco Jurídico da Moradia Informal
-summary: Insegurança jurídica que limita investimentos e acesso a serviços em moradias
-  sem título.
+summary: Insegurança jurídica em moradias sem título que limita investimentos e acesso
+  a serviços básicos
 permalink: https://www.envisioning.com/moradia/risco-juridico-moradia-informal
 collection: modelos-mercado-governanca
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592232/habit
 
 ## Summary
 
-Insegurança jurídica que limita investimentos e acesso a serviços em moradias sem título.
+Insegurança jurídica em moradias sem título que limita investimentos e acesso a serviços básicos
 
 ## Description
 

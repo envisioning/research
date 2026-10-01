@@ -2,21 +2,21 @@
 slug: subspace-anomaly-detector
 hub: subspace
 title: Subspace Anomaly Detector
-summary: Specialized sensors for identifying distortions and unusual phenomena in
-  subspace fabric.
+summary: Specialized sensors for detecting distortions, rifts, and exotic phenomena
+  in theoretical subspace layers
 permalink: https://www.envisioning.com/subspace/subspace-anomaly-detector
 collection: sensors
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760215932/subspaceindex/technologies/subspace-anomaly-detector.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909019/subspace/technologies/subspace-anomaly-detector-openrouter-google-gemini-3.1-flash-image-preview-gpy201.png
 ---
 
 # Subspace Anomaly Detector
 
 ## Summary
 
-Specialized sensors for identifying distortions and unusual phenomena in subspace fabric.
+Specialized sensors for detecting distortions, rifts, and exotic phenomena in theoretical subspace layers
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: continuous-authentication
 hub: sentinel
 title: Continuous Authentication Systems
-summary: Real-time identity verification using behavioral and contextual signals.
+summary: Real-time identity verification throughout a session using behavioral and
+  contextual signals
 permalink: https://www.envisioning.com/sentinel/continuous-authentication
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461585/senti
 
 ## Summary
 
-Real-time identity verification using behavioral and contextual signals.
+Real-time identity verification throughout a session using behavioral and contextual signals
 
 ## Description
 

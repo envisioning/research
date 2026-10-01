@@ -2,21 +2,21 @@
 slug: uap-acoustic-profile
 hub: xenotech
 title: Acoustic Profile Management
-summary: Managed or absent acoustics—near-silent operation at speed, pressure-only
-  signatures, and infrasonic hum or vibration felt more than heard.
+summary: Control or suppression of acoustic signatures during high-speed flight and
+  extreme maneuvers
 permalink: https://www.envisioning.com/xenotech/uap-acoustic-profile
 collection: defense-surveillance
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761768003/xenotech/technologies/uap-acoustic-profile.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772894661/xenotech/technologies/uap-acoustic-profile-openrouter-google-gemini-3.1-flash-image-preview-lxvawf.png
 ---
 
 # Acoustic Profile Management
 
 ## Summary
 
-Managed or absent acoustics—near-silent operation at speed, pressure-only signatures, and infrasonic hum or vibration felt more than heard.
+Control or suppression of acoustic signatures during high-speed flight and extreme maneuvers
 
 ## Description
 

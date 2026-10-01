@@ -2,22 +2,21 @@
 slug: on-device-ai-bio-signal-processing
 hub: interface
 title: On-Device AI Bio-Signal Processing
-summary: Semiconductor-based on-device AI bio-signal processing solutions analyzing
-  and interpreting biometric signals from sensors, minimizing cloud dependence for
-  real-time, low-power, security-focused medical devices.
+summary: Chips that analyze heart, brain, and muscle signals locally without cloud
+  connectivity
 permalink: https://www.envisioning.com/interface/on-device-ai-bio-signal-processing
-collection: wearables-health-sensing
+collection: software
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887279/interface/technologies/58b2aad8-a8a3-4040-ad83-aa454967d5dd-google-gemini-3.1-flash-image-preview-mkcaa4.png
 ---
 
 # On-Device AI Bio-Signal Processing
 
 ## Summary
 
-Semiconductor-based on-device AI bio-signal processing solutions analyzing and interpreting biometric signals from sensors, minimizing cloud dependence for real-time, low-power, security-focused medical devices.
+Chips that analyze heart, brain, and muscle signals locally without cloud connectivity
 
 ## Description
 

@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 3
 impact: 3
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774898070/wonen/technologies/a784e303-8afe-479e-935f-83c41f1737f0-google-gemini-3.1-flash-image-preview-jma4vy.png
 ---
 
 # Pacte Logement 2.0

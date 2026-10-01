@@ -2,7 +2,8 @@
 slug: neuro-rights-privacy
 hub: vortex
 title: Neuro-Rights & Privacy
-summary: Protection of neural data from BCI devices.
+summary: Legal and technical frameworks safeguarding neural data from brain-computer
+  interfaces
 permalink: https://www.envisioning.com/vortex/neuro-rights-privacy
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127331/vorte
 
 ## Summary
 
-Protection of neural data from BCI devices.
+Legal and technical frameworks safeguarding neural data from brain-computer interfaces
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: intergenerational-equity-frameworks
 hub: epoch
 title: Intergenerational Equity Frameworks
-summary: Policies addressing the social, economic, and resource implications of dramatically
-  extended lifespans.
+summary: Policy frameworks balancing resource allocation and opportunity across multiple
+  coexisting generations
 permalink: https://www.envisioning.com/epoch/intergenerational-equity-frameworks
 collection: ethics-security
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620969/epoch
 
 ## Summary
 
-Policies addressing the social, economic, and resource implications of dramatically extended lifespans.
+Policy frameworks balancing resource allocation and opportunity across multiple coexisting generations
 
 ## Description
 

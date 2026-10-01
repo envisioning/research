@@ -2,8 +2,8 @@
 slug: adms-automacao-distribuicao
 hub: moradia
 title: Automação e Gestão Avançada da Distribuição
-summary: Sistemas para operar a rede elétrica com automação, reconfiguração e análise
-  em tempo real.
+summary: Plataformas integradas para monitorar, controlar e otimizar redes de distribuição
+  elétrica em tempo real
 permalink: https://www.envisioning.com/moradia/adms-automacao-distribuicao
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766583693/habit
 
 ## Summary
 
-Sistemas para operar a rede elétrica com automação, reconfiguração e análise em tempo real.
+Plataformas integradas para monitorar, controlar e otimizar redes de distribuição elétrica em tempo real
 
 ## Description
 

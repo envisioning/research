@@ -2,7 +2,8 @@
 slug: solid-state-transformers
 hub: substrate
 title: Solid-State Transformers (SSTs)
-summary: Intelligent power electronics replacing traditional magnetic transformers.
+summary: Power electronics that convert voltage with digital control, replacing magnetic
+  transformers
 permalink: https://www.envisioning.com/substrate/solid-state-transformers
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117633/subst
 
 ## Summary
 
-Intelligent power electronics replacing traditional magnetic transformers.
+Power electronics that convert voltage with digital control, replacing magnetic transformers
 
 ## Description
 

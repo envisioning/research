@@ -2,8 +2,8 @@
 slug: visao-computacional-ambiente-construido
 hub: moradia
 title: Visão Computacional no Ambiente Construído
-summary: IA aplicada a vídeo/imagens para segurança, controle de acesso, qualidade
-  e segurança em edifícios e canteiros.
+summary: IA que analisa vídeo e imagens para segurança, acesso e fiscalização em edifícios
+  e canteiros de obra
 permalink: https://www.envisioning.com/moradia/visao-computacional-ambiente-construido
 collection: sistemas-prediais-automacao
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766326775/habit
 
 ## Summary
 
-IA aplicada a vídeo/imagens para segurança, controle de acesso, qualidade e segurança em edifícios e canteiros.
+IA que analisa vídeo e imagens para segurança, acesso e fiscalização em edifícios e canteiros de obra
 
 ## Description
 

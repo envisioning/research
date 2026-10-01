@@ -2,7 +2,8 @@
 slug: space-based-solar-power
 hub: apogee
 title: Space-Based Solar Power (SBSP)
-summary: Orbital arrays beaming clean solar energy wirelessly to Earth.
+summary: Orbital solar arrays transmitting continuous clean energy to Earth via microwave
+  beams
 permalink: https://www.envisioning.com/apogee/space-based-solar-power
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011630/apoge
 
 ## Summary
 
-Orbital arrays beaming clean solar energy wirelessly to Earth.
+Orbital solar arrays transmitting continuous clean energy to Earth via microwave beams
 
 ## Description
 

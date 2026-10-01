@@ -2,7 +2,8 @@
 slug: gaze-contingent-displays
 hub: soma
 title: Gaze-Contingent Displays
-summary: Eye-tracking systems that adapt content based on attention and pupil response.
+summary: Displays that adjust visual content in real-time based on where and how you
+  look
 permalink: https://www.envisioning.com/soma/gaze-contingent-displays
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133933/soma/
 
 ## Summary
 
-Eye-tracking systems that adapt content based on attention and pupil response.
+Displays that adjust visual content in real-time based on where and how you look
 
 ## Description
 

@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 6
 impact: 5
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1773224801/agora/technologies/algorithmic-transparency-and-explainability-zs62qt.png
 ---
 
 # Algorithmic Transparency & Explainability

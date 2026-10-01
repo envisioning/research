@@ -2,7 +2,7 @@
 slug: volumetric-fog-displays
 hub: pixels
 title: Volumetric Fog Displays
-summary: Mist-based projection surfaces creating 3D visuals in free space.
+summary: Aerosol screens that project interactive 3D images suspended in mid-air
 permalink: https://www.envisioning.com/pixels/volumetric-fog-displays
 collection: hardware
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062008/pixel
 
 ## Summary
 
-Mist-based projection surfaces creating 3D visuals in free space.
+Aerosol screens that project interactive 3D images suspended in mid-air
 
 ## Description
 

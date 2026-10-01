@@ -2,9 +2,10 @@
 slug: machine-learning-weather-forecasting
 hub: horizons
 title: Machine Learning Weather Forecasting
-summary: AI-driven models for precise, hyper-local weather prediction.
+summary: AI models trained on weather data to predict conditions faster and more accurately
+  than physics-based forecasts
 permalink: https://www.envisioning.com/horizons/machine-learning-weather-forecasting
-collection: intelligence-computation
+collection: software
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526806/horiz
 
 ## Summary
 
-AI-driven models for precise, hyper-local weather prediction.
+AI models trained on weather data to predict conditions faster and more accurately than physics-based forecasts
 
 ## Description
 

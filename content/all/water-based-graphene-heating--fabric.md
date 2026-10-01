@@ -2,7 +2,8 @@
 slug: water-based-graphene-heating
 hub: fabric
 title: Water-Based Graphene Heating Fabric
-summary: Conductive graphene integration for efficient, low-bulk thermal regulation.
+summary: Graphene-coated textiles that generate uniform heat when powered, replacing
+  bulky wire systems
 permalink: https://www.envisioning.com/fabric/water-based-graphene-heating
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763898746/threa
 
 ## Summary
 
-Conductive graphene integration for efficient, low-bulk thermal regulation.
+Graphene-coated textiles that generate uniform heat when powered, replacing bulky wire systems
 
 ## Description
 

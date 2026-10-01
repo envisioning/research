@@ -2,15 +2,10 @@
 slug: ar-workforce-assistance
 hub: cities
 title: AR Workforce Assistance
-summary: 'This solution enhances productivity, reduces operational errors, and provides
-  real-time solutions in sectors like construction, maintenance, and emergency response.
-  This technology overlays digital information onto the physical world via smart glasses
-  or mobile devices, offering workers interactive 3D visuals and data directly in
-  their field of vision. By integrating AR with IoT sensors and AI, cities can manage
-  resources sustainably, ensure public safety, and engage communities in urban planning,
-  thereby promoting more resilient, inclusive, and sustainable urban environments. '
+summary: Overlays digital instructions and data onto workers' field of view via smart
+  glasses or mobile devices
 permalink: https://www.envisioning.com/cities/ar-workforce-assistance
-collection: MERASA3PSRqe_h1nRlMfsQ
+collection: applications
 trl: 7
 impact: 2
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1725958264-ar-workforce-assista
 
 ## Summary
 
-This solution enhances productivity, reduces operational errors, and provides real-time solutions in sectors like construction, maintenance, and emergency response. This technology overlays digital information onto the physical world via smart glasses or mobile devices, offering workers interactive 3D visuals and data directly in their field of vision. By integrating AR with IoT sensors and AI, cities can manage resources sustainably, ensure public safety, and engage communities in urban planning, thereby promoting more resilient, inclusive, and sustainable urban environments.
+Overlays digital instructions and data onto workers' field of view via smart glasses or mobile devices
 
 ## Description
 

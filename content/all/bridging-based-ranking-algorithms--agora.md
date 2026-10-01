@@ -8,7 +8,7 @@ collection: software
 trl: 6
 impact: 5
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882663/agora/technologies/1e789fa9-f6ed-4fe2-a556-5332112d35af-google-gemini-3.1-flash-image-preview-y1bnp2.jpg
 ---
 
 # Bridging-Based Ranking Algorithms

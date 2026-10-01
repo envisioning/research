@@ -2,19 +2,21 @@
 slug: vehicular-communication-systems
 hub: atlas
 title: Vehicular Communication Systems
-summary: V2V, V2I for traffic management, emergency vehicles, driver assistance.
+summary: Vehicle-to-vehicle and vehicle-to-infrastructure communication for traffic
+  coordination and safety
 permalink: https://www.envisioning.com/atlas/vehicular-communication-systems
 collection: hardware
 trl: 6
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887159/atlas/technologies/510e9262-0228-47c5-93da-ab5dc41afe91-google-gemini-3.1-flash-image-preview-k03qtm.png
 ---
 
 # Vehicular Communication Systems
 
 ## Summary
 
-V2V, V2I for traffic management, emergency vehicles, driver assistance.
+Vehicle-to-vehicle and vehicle-to-infrastructure communication for traffic coordination and safety
 
 ## Description
 

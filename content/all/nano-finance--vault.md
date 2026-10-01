@@ -2,7 +2,8 @@
 slug: nano-finance
 hub: vault
 title: Nano-Finance & Micro-Insurance
-summary: Ultra-small-ticket financial products for emerging markets.
+summary: Ultra-small financial products and insurance for underserved populations
+  in emerging markets
 permalink: https://www.envisioning.com/vault/nano-finance
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129104/vault
 
 ## Summary
 
-Ultra-small-ticket financial products for emerging markets.
+Ultra-small financial products and insurance for underserved populations in emerging markets
 
 ## Description
 

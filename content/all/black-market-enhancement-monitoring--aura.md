@@ -2,7 +2,8 @@
 slug: black-market-enhancement-monitoring
 hub: aura
 title: Black-Market Enhancement Monitoring
-summary: Detection of unsafe underground enhancement ecosystems.
+summary: Systems tracking unsafe underground aesthetic enhancements and unregulated
+  body modification practices
 permalink: https://www.envisioning.com/aura/black-market-enhancement-monitoring
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010257/aura/
 
 ## Summary
 
-Detection of unsafe underground enhancement ecosystems.
+Systems tracking unsafe underground aesthetic enhancements and unregulated body modification practices
 
 ## Description
 

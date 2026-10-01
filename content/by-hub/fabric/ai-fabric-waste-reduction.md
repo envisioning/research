@@ -2,7 +2,8 @@
 slug: ai-fabric-waste-reduction
 hub: fabric
 title: AI-Driven Fabric Waste Reduction
-summary: Intelligent systems optimizing cutting and inventory to minimize scrap.
+summary: Machine learning systems that optimize fabric cutting patterns and inventory
+  to minimize textile waste
 permalink: https://www.envisioning.com/fabric/ai-fabric-waste-reduction
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058314/threa
 
 ## Summary
 
-Intelligent systems optimizing cutting and inventory to minimize scrap.
+Machine learning systems that optimize fabric cutting patterns and inventory to minimize textile waste
 
 ## Description
 

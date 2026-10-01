@@ -2,16 +2,10 @@
 slug: plug-and-play-solar-panel
 hub: cities
 title: Plug-and-Play Solar Panel
-summary: Designed to make solar energy more accessible and user-friendly, this solution
-  addresses significant barriers to solar energy adoption, such as the high costs
-  and complexity of traditional solar installations. These panels are pre-configured,
-  easy to install, and can be plugged directly into a standard electrical outlet,
-  allowing users to start generating their own electricity almost immediately. This
-  technology helps reduce reliance on fossil fuels, lowers carbon emissions, and promotes
-  energy independence, particularly in urban areas where space and infrastructure
-  constraints often limit renewable energy options.
+summary: Pre-configured solar panels that connect directly to standard outlets for
+  instant home electricity generation
 permalink: https://www.envisioning.com/cities/plug-and-play-solar-panel
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1724869568-plug-and-play-solar-
 
 ## Summary
 
-Designed to make solar energy more accessible and user-friendly, this solution addresses significant barriers to solar energy adoption, such as the high costs and complexity of traditional solar installations. These panels are pre-configured, easy to install, and can be plugged directly into a standard electrical outlet, allowing users to start generating their own electricity almost immediately. This technology helps reduce reliance on fossil fuels, lowers carbon emissions, and promotes energy independence, particularly in urban areas where space and infrastructure constraints often limit renewable energy options.
+Pre-configured solar panels that connect directly to standard outlets for instant home electricity generation
 
 ## Description
 

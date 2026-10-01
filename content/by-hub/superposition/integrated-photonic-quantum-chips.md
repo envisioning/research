@@ -2,8 +2,7 @@
 slug: integrated-photonic-quantum-chips
 hub: superposition
 title: Integrated Photonic Quantum Chips
-summary: Compact quantum processors on photonic integrated circuits, enabling scalable
-  processing at room temperature.
+summary: Quantum processors using light-based circuits that operate at room temperature
 permalink: https://www.envisioning.com/superposition/integrated-photonic-quantum-chips
 collection: hardware
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069261/super
 
 ## Summary
 
-Compact quantum processors on photonic integrated circuits, enabling scalable processing at room temperature.
+Quantum processors using light-based circuits that operate at room temperature
 
 ## Description
 

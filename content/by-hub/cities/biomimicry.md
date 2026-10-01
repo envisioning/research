@@ -2,14 +2,10 @@
 slug: biomimicry
 hub: cities
 title: Biomimicry
-summary: Biomimicry involves studying nature's forms, processes, and systems and applying
-  these principles to human design. This interdisciplinary approach draws from biology,
-  engineering, architecture, and materials science to develop technologies harmonising
-  with the natural world. Examples include energy-efficient buildings, sustainable
-  urban water systems, and innovative waste management solutions. By leveraging nature-inspired
-  designs, biomimicry can help create more sustainable, resilient, and liveable cities. 
+summary: Applying nature's patterns and strategies to solve urban design and infrastructure
+  challenges
 permalink: https://www.envisioning.com/cities/biomimicry
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: applications
 trl: 6
 impact: 2
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718787026-biomimicry.png
 
 ## Summary
 
-Biomimicry involves studying nature's forms, processes, and systems and applying these principles to human design. This interdisciplinary approach draws from biology, engineering, architecture, and materials science to develop technologies harmonising with the natural world. Examples include energy-efficient buildings, sustainable urban water systems, and innovative waste management solutions. By leveraging nature-inspired designs, biomimicry can help create more sustainable, resilient, and liveable cities.
+Applying nature's patterns and strategies to solve urban design and infrastructure challenges
 
 ## Description
 

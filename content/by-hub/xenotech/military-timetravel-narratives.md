@@ -2,21 +2,21 @@
 slug: military-timetravel-narratives
 hub: xenotech
 title: Time-Travel Narratives
-summary: Alleged secret military programs involving time portals, temporal vortexes,
-  and time displacement technology.
+summary: Claims of classified military experiments in temporal manipulation using
+  exotic electromagnetic systems
 permalink: https://www.envisioning.com/xenotech/military-timetravel-narratives
 collection: temporal-dimensional
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760815204/xenotech/technologies/philadelphia-experiment-tech.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903355/xenotech/technologies/military-timetravel-narratives-openrouter-google-gemini-3.1-flash-image-preview-pl5boj.png
 ---
 
 # Time-Travel Narratives
 
 ## Summary
 
-Alleged secret military programs involving time portals, temporal vortexes, and time displacement technology.
+Claims of classified military experiments in temporal manipulation using exotic electromagnetic systems
 
 ## Description
 

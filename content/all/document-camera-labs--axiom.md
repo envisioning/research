@@ -2,7 +2,8 @@
 slug: document-camera-labs
 hub: axiom
 title: Document Cameras
-summary: High-res overhead cameras for live demonstrations and digitizing work.
+summary: Overhead cameras that display physical objects and documents in real-time
+  for classroom instruction
 permalink: https://www.envisioning.com/axiom/document-camera-labs
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059777/axiom
 
 ## Summary
 
-High-res overhead cameras for live demonstrations and digitizing work.
+Overhead cameras that display physical objects and documents in real-time for classroom instruction
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: closed-loop-water-systems
 hub: stratum
 title: Closed-Loop Water Recycling Systems
-summary: High-recovery water circuits minimizing freshwater intake and discharge.
+summary: Industrial water circuits that recover and reuse 90%+ of process water in
+  mining and heavy industry
 permalink: https://www.envisioning.com/stratum/closed-loop-water-systems
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178053/strat
 
 ## Summary
 
-High-recovery water circuits minimizing freshwater intake and discharge.
+Industrial water circuits that recover and reuse 90%+ of process water in mining and heavy industry
 
 ## Description
 

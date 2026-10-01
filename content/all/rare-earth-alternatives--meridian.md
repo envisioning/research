@@ -2,7 +2,7 @@
 slug: rare-earth-alternatives
 hub: meridian
 title: Rare Earth Alternatives
-summary: Materials independence from concentrated supply chains.
+summary: Substitute materials for rare earth elements to reduce supply chain dependencies
 permalink: https://www.envisioning.com/meridian/rare-earth-alternatives
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131238/merid
 
 ## Summary
 
-Materials independence from concentrated supply chains.
+Substitute materials for rare earth elements to reduce supply chain dependencies
 
 ## Description
 

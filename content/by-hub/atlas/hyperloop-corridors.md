@@ -2,7 +2,8 @@
 slug: hyperloop-corridors
 hub: atlas
 title: Hyperloop Corridors
-summary: Vacuum-assisted, ultra-high-speed transport systems connecting major hubs.
+summary: Low-pressure tube networks enabling ultra-high-speed ground travel between
+  cities
 permalink: https://www.envisioning.com/atlas/hyperloop-corridors
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125438/atlas
 
 ## Summary
 
-Vacuum-assisted, ultra-high-speed transport systems connecting major hubs.
+Low-pressure tube networks enabling ultra-high-speed ground travel between cities
 
 ## Description
 

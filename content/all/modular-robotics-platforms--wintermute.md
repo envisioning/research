@@ -2,7 +2,7 @@
 slug: modular-robotics-platforms
 hub: wintermute
 title: Modular Robotics Platforms
-summary: Robots with multimodal perception (event cameras, tactile skins).
+summary: Robots built from swappable components and sensors for rapid task reconfiguration
 permalink: https://www.envisioning.com/wintermute/modular-robotics-platforms
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980714/winte
 
 ## Summary
 
-Robots with multimodal perception (event cameras, tactile skins).
+Robots built from swappable components and sensors for rapid task reconfiguration
 
 ## Description
 

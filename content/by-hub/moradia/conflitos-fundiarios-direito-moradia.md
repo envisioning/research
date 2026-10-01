@@ -2,8 +2,8 @@
 slug: conflitos-fundiarios-direito-moradia
 hub: moradia
 title: Conflitos Fundiários e Direito à Moradia
-summary: Instrumentos jurídicos, mediação e políticas para lidar com ocupações, despejos
-  e disputas de terra urbana e rural.
+summary: Instrumentos jurídicos e políticas para mediar disputas de terra, ocupações
+  e despejos urbanos e rurais
 permalink: https://www.envisioning.com/moradia/conflitos-fundiarios-direito-moradia
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359898/forma
 
 ## Summary
 
-Instrumentos jurídicos, mediação e políticas para lidar com ocupações, despejos e disputas de terra urbana e rural.
+Instrumentos jurídicos e políticas para mediar disputas de terra, ocupações e despejos urbanos e rurais
 
 ## Description
 

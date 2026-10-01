@@ -2,8 +2,8 @@
 slug: multimodal-emotion-ai
 hub: soma
 title: Multimodal Emotion AI
-summary: Cross-cultural algorithms interpreting affect from multiple biosignals and
-  expressions.
+summary: Algorithms that interpret emotions by analyzing facial expressions, voice,
+  body language, and biosignals together
 permalink: https://www.envisioning.com/soma/multimodal-emotion-ai
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132950/soma/
 
 ## Summary
 
-Cross-cultural algorithms interpreting affect from multiple biosignals and expressions.
+Algorithms that interpret emotions by analyzing facial expressions, voice, body language, and biosignals together
 
 ## Description
 

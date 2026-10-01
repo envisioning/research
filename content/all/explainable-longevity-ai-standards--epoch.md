@@ -2,8 +2,8 @@
 slug: explainable-longevity-ai-standards
 hub: epoch
 title: Longevity Model Interpretability Standards
-summary: Requirements for transparency in digital twins and aging clocks to avoid
-  misdiagnosis or incorrect predictions.
+summary: Transparency requirements for AI aging models to ensure explainable predictions
+  about biological age and disease risk
 permalink: https://www.envisioning.com/epoch/explainable-longevity-ai-standards
 collection: ethics-security
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772621055/epoch
 
 ## Summary
 
-Requirements for transparency in digital twins and aging clocks to avoid misdiagnosis or incorrect predictions.
+Transparency requirements for AI aging models to ensure explainable predictions about biological age and disease risk
 
 ## Description
 

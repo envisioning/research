@@ -2,19 +2,21 @@
 slug: agricultural-drones
 hub: spore
 title: Agricultural Drones
-summary: UAVs for crop monitoring, spraying, seeding, and precision agriculture data collection.
+summary: Unmanned aerial vehicles that monitor crop health and apply treatments with
+  precision
 permalink: https://www.envisioning.com/spore/agricultural-drones
 collection: applications
 trl: 7
 impact: 4
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887296/spore/technologies/58ccd0d7-b817-422a-8c6e-cc324fa4fc97-google-gemini-3.1-flash-image-preview-0rb1m4.png
 ---
 
 # Agricultural Drones
 
 ## Summary
 
-UAVs for crop monitoring, spraying, seeding, and precision agriculture data collection.
+Unmanned aerial vehicles that monitor crop health and apply treatments with precision
 
 ## Description
 

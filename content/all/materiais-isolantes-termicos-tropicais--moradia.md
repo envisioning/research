@@ -2,7 +2,7 @@
 slug: materiais-isolantes-termicos-tropicais
 hub: moradia
 title: Materiais Isolantes Térmicos Tropicais
-summary: Materiais de isolamento térmico otimizados para clima tropical brasileiro.
+summary: Isolamento térmico adaptado ao calor e umidade do clima tropical brasileiro
 permalink: https://www.envisioning.com/moradia/materiais-isolantes-termicos-tropicais
 collection: materiais-componentes
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766327205/forma
 
 ## Summary
 
-Materiais de isolamento térmico otimizados para clima tropical brasileiro.
+Isolamento térmico adaptado ao calor e umidade do clima tropical brasileiro
 
 ## Description
 

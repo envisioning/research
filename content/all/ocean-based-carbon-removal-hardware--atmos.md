@@ -2,7 +2,8 @@
 slug: ocean-based-carbon-removal-hardware
 hub: atmos
 title: Ocean-Based Carbon Removal Hardware
-summary: Electrochemical and biological systems for ocean alkalinity and blue carbon.
+summary: Electrochemical reactors and macroalgae farms that enhance ocean CO₂ uptake
+  and sequestration
 permalink: https://www.envisioning.com/atmos/ocean-based-carbon-removal-hardware
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763991094/atmos
 
 ## Summary
 
-Electrochemical and biological systems for ocean alkalinity and blue carbon.
+Electrochemical reactors and macroalgae farms that enhance ocean CO₂ uptake and sequestration
 
 ## Description
 

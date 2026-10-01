@@ -2,7 +2,8 @@
 slug: climate-migration-protocols
 hub: continuum
 title: Climate Migration Governance
-summary: International frameworks for displacement and climate refugees.
+summary: Legal frameworks and policies for populations displaced by environmental
+  change
 permalink: https://www.envisioning.com/continuum/climate-migration-protocols
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126031/conti
 
 ## Summary
 
-International frameworks for displacement and climate refugees.
+Legal frameworks and policies for populations displaced by environmental change
 
 ## Description
 

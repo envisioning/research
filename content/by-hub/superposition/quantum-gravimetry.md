@@ -2,7 +2,8 @@
 slug: quantum-gravimetry
 hub: superposition
 title: Quantum Gravimetry
-summary: Using atom interferometry for precise underground mapping and civil engineering.
+summary: Atom interferometry for precise gravity measurements in underground mapping
+  and infrastructure
 permalink: https://www.envisioning.com/superposition/quantum-gravimetry
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181169/super
 
 ## Summary
 
-Using atom interferometry for precise underground mapping and civil engineering.
+Atom interferometry for precise gravity measurements in underground mapping and infrastructure
 
 ## Description
 

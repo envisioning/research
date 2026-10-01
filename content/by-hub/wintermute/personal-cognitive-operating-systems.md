@@ -2,7 +2,8 @@
 slug: personal-cognitive-operating-systems
 hub: wintermute
 title: Personal Cognitive Operating Systems
-summary: Always-on agent stacks that mediate information, tasks, and memory for individuals.
+summary: AI platforms that manage your information, tasks, and memory as a personalized
+  digital assistant
 permalink: https://www.envisioning.com/wintermute/personal-cognitive-operating-systems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985754/winte
 
 ## Summary
 
-Always-on agent stacks that mediate information, tasks, and memory for individuals.
+AI platforms that manage your information, tasks, and memory as a personalized digital assistant
 
 ## Description
 

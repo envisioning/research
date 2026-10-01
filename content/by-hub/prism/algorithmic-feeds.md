@@ -2,8 +2,8 @@
 slug: algorithmic-feeds
 hub: prism
 title: Algorithmic Discovery Feeds
-summary: AI-driven content streams replacing social graphs as the primary discovery
-  layer.
+summary: AI-driven content streams that rank media by predicted engagement rather
+  than social connections
 permalink: https://www.envisioning.com/prism/algorithmic-feeds
 collection: applications
 trl: 9
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073970/pulse
 
 ## Summary
 
-AI-driven content streams replacing social graphs as the primary discovery layer.
+AI-driven content streams that rank media by predicted engagement rather than social connections
 
 ## Description
 

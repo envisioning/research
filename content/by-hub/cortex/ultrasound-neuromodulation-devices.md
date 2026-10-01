@@ -2,7 +2,8 @@
 slug: ultrasound-neuromodulation-devices
 hub: cortex
 title: Ultrasound Neuromodulation Devices
-summary: Focused ultrasound transducers for non-invasive deep brain stimulation.
+summary: Non-invasive brain stimulation using focused ultrasound to modulate deep
+  neural circuits
 permalink: https://www.envisioning.com/cortex/ultrasound-neuromodulation-devices
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062654/corte
 
 ## Summary
 
-Focused ultrasound transducers for non-invasive deep brain stimulation.
+Non-invasive brain stimulation using focused ultrasound to modulate deep neural circuits
 
 ## Description
 

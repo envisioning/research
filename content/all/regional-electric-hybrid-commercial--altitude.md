@@ -2,7 +2,8 @@
 slug: regional-electric-hybrid-commercial
 hub: altitude
 title: Regional Electric & Hybrid-Electric Commercial Aviation
-summary: Zero/low-emission 9–50 seat aircraft for short-haul routes.
+summary: Battery and hybrid-electric aircraft for 9–50 passengers on short-haul regional
+  routes
 permalink: https://www.envisioning.com/altitude/regional-electric-hybrid-commercial
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644223/altit
 
 ## Summary
 
-Zero/low-emission 9–50 seat aircraft for short-haul routes.
+Battery and hybrid-electric aircraft for 9–50 passengers on short-haul regional routes
 
 ## Description
 

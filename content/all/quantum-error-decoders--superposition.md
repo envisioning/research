@@ -2,7 +2,8 @@
 slug: quantum-error-decoders
 hub: superposition
 title: Quantum Error Correction Decoders
-summary: Real-time algorithms that identify and correct errors from syndrome measurements.
+summary: Real-time algorithms that identify and fix quantum computing errors from
+  syndrome measurements
 permalink: https://www.envisioning.com/superposition/quantum-error-decoders
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181244/super
 
 ## Summary
 
-Real-time algorithms that identify and correct errors from syndrome measurements.
+Real-time algorithms that identify and fix quantum computing errors from syndrome measurements
 
 ## Description
 

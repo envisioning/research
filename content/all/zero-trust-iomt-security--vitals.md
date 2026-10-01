@@ -2,8 +2,8 @@
 slug: zero-trust-iomt-security
 hub: vitals
 title: Zero-Trust IoMT Security
-summary: Security frameworks for medical devices that verify every transaction to
-  prevent cyberattacks.
+summary: Continuous verification frameworks that treat every medical device interaction
+  as potentially untrusted
 permalink: https://www.envisioning.com/vitals/zero-trust-iomt-security
 collection: ethics-security
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765115376/vital
 
 ## Summary
 
-Security frameworks for medical devices that verify every transaction to prevent cyberattacks.
+Continuous verification frameworks that treat every medical device interaction as potentially untrusted
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: autonomous-field-robots
 hub: harvest
 title: Autonomous Field Robots
-summary: Multi-task robots for harvesting and crop care.
+summary: Mobile robots that navigate fields to harvest crops, remove weeds, and monitor
+  plant health
 permalink: https://www.envisioning.com/harvest/autonomous-field-robots
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128378/harve
 
 ## Summary
 
-Multi-task robots for harvesting and crop care.
+Mobile robots that navigate fields to harvest crops, remove weeds, and monitor plant health
 
 ## Description
 

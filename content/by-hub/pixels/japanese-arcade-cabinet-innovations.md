@@ -2,7 +2,8 @@
 slug: japanese-arcade-cabinet-innovations
 hub: pixels
 title: Japanese Arcade Cabinet Innovations
-summary: Rhythm and motion cabinets with immersive peripherals and staging.
+summary: Physical arcade cabinets with touch wheels, hydraulic seats, and environmental
+  effects for rhythm and battle games
 permalink: https://www.envisioning.com/pixels/japanese-arcade-cabinet-innovations
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062154/pixel
 
 ## Summary
 
-Rhythm and motion cabinets with immersive peripherals and staging.
+Physical arcade cabinets with touch wheels, hydraulic seats, and environmental effects for rhythm and battle games
 
 ## Description
 

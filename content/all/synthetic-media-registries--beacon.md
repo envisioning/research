@@ -2,7 +2,8 @@
 slug: synthetic-media-registries
 hub: beacon
 title: Synthetic Media Registries
-summary: Global indexes of declared AI-generated content.
+summary: Distributed databases tracking AI-generated content provenance and creation
+  metadata
 permalink: https://www.envisioning.com/beacon/synthetic-media-registries
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124944/beaco
 
 ## Summary
 
-Global indexes of declared AI-generated content.
+Distributed databases tracking AI-generated content provenance and creation metadata
 
 ## Description
 

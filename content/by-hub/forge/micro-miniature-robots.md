@@ -2,7 +2,8 @@
 slug: micro-miniature-robots
 hub: forge
 title: Micro and Miniature Robots
-summary: Sub-millimeter to centimeter-scale robots for precision assembly and inspection.
+summary: Sub-millimeter to centimeter-scale robots for precision tasks in confined
+  or delicate environments
 permalink: https://www.envisioning.com/forge/micro-miniature-robots
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177666/forge
 
 ## Summary
 
-Sub-millimeter to centimeter-scale robots for precision assembly and inspection.
+Sub-millimeter to centimeter-scale robots for precision tasks in confined or delicate environments
 
 ## Description
 

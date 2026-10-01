@@ -2,9 +2,10 @@
 slug: power-beaming
 hub: horizons
 title: Power Beaming
-summary: Wireless energy transmission using focused electromagnetic waves.
+summary: Wireless energy transmission using focused electromagnetic waves like microwaves
+  or lasers
 permalink: https://www.envisioning.com/horizons/power-beaming
-collection: energy-environment
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521337/horiz
 
 ## Summary
 
-Wireless energy transmission using focused electromagnetic waves.
+Wireless energy transmission using focused electromagnetic waves like microwaves or lasers
 
 ## Description
 

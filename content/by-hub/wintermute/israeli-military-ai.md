@@ -2,7 +2,8 @@
 slug: israeli-military-ai
 hub: wintermute
 title: Israeli Military AI Applications
-summary: Autonomous target identification and mission planning systems.
+summary: AI systems for target identification, drone operations, and mission planning
+  in defense contexts
 permalink: https://www.envisioning.com/wintermute/israeli-military-ai
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079771/winte
 
 ## Summary
 
-Autonomous target identification and mission planning systems.
+AI systems for target identification, drone operations, and mission planning in defense contexts
 
 ## Description
 

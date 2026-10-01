@@ -2,7 +2,8 @@
 slug: chinese-mobile-gaming-optimization
 hub: pixels
 title: Chinese Mobile Gaming Optimization
-summary: 5G edge streaming and device tuning for massive mobile titles.
+summary: Edge computing and chipset partnerships that bring console-quality games
+  to budget Android devices
 permalink: https://www.envisioning.com/pixels/chinese-mobile-gaming-optimization
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062152/pixel
 
 ## Summary
 
-5G edge streaming and device tuning for massive mobile titles.
+Edge computing and chipset partnerships that bring console-quality games to budget Android devices
 
 ## Description
 

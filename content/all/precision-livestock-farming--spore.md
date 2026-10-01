@@ -2,7 +2,8 @@
 slug: precision-livestock-farming
 hub: spore
 title: Precision Livestock Farming Platforms
-summary: Analytics optimizing feed, welfare, and emissions.
+summary: Sensor-driven analytics that optimize livestock feed, health monitoring,
+  and emissions tracking
 permalink: https://www.envisioning.com/spore/precision-livestock-farming
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095848/spore
 
 ## Summary
 
-Analytics optimizing feed, welfare, and emissions.
+Sensor-driven analytics that optimize livestock feed, health monitoring, and emissions tracking
 
 ## Description
 

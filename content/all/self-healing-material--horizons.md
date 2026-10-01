@@ -2,9 +2,9 @@
 slug: self-healing-material
 hub: horizons
 title: Self-healing Material
-summary: Materials that autonomously repair cracks and damage.
+summary: Materials that autonomously repair cracks and damage without external intervention
 permalink: https://www.envisioning.com/horizons/self-healing-material
-collection: materials-making
+collection: hardware
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764522034/horiz
 
 ## Summary
 
-Materials that autonomously repair cracks and damage.
+Materials that autonomously repair cracks and damage without external intervention
 
 ## Description
 

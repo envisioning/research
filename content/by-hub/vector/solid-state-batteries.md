@@ -2,8 +2,8 @@
 slug: solid-state-batteries
 hub: vector
 title: Solid-State Batteries
-summary: Next-generation batteries using solid electrolytes for higher safety and
-  density.
+summary: Batteries using solid electrolytes instead of liquids for safer, denser energy
+  storage
 permalink: https://www.envisioning.com/vector/solid-state-batteries
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182252/vecto
 
 ## Summary
 
-Next-generation batteries using solid electrolytes for higher safety and density.
+Batteries using solid electrolytes instead of liquids for safer, denser energy storage
 
 ## Description
 

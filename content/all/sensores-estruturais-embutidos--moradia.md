@@ -2,7 +2,8 @@
 slug: sensores-estruturais-embutidos
 hub: moradia
 title: Sensores Estruturais Embutidos
-summary: Sensores integrados em estruturas para monitoramento de saúde e segurança.
+summary: Monitoramento contínuo da integridade de edifícios e infraestrutura via sensores
+  nos materiais
 permalink: https://www.envisioning.com/moradia/sensores-estruturais-embutidos
 collection: sistemas-prediais-automacao
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766328182/forma
 
 ## Summary
 
-Sensores integrados em estruturas para monitoramento de saúde e segurança.
+Monitoramento contínuo da integridade de edifícios e infraestrutura via sensores nos materiais
 
 ## Description
 

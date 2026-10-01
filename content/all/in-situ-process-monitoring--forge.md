@@ -2,8 +2,8 @@
 slug: in-situ-process-monitoring
 hub: forge
 title: In-Situ Process Monitoring and Closed-Loop Control
-summary: Real-time sensing and control loops embedded directly into manufacturing
-  processes.
+summary: Real-time sensors and feedback loops that adjust manufacturing parameters
+  during production
 permalink: https://www.envisioning.com/forge/in-situ-process-monitoring
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765550224/forge
 
 ## Summary
 
-Real-time sensing and control loops embedded directly into manufacturing processes.
+Real-time sensors and feedback loops that adjust manufacturing parameters during production
 
 ## Description
 

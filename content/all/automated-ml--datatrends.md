@@ -2,8 +2,8 @@
 slug: automated-ml
 hub: datatrends
 title: Automated Machine Learning (AutoML)
-summary: Democratizing machine learning by automating model selection, feature engineering,
-  and hyperparameter tuning.
+summary: Automates model selection, feature engineering, and hyperparameter tuning
+  to simplify ML workflows
 permalink: https://www.envisioning.com/datatrends/automated-ml
 collection: decision-intelligence-ai
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958571/datat
 
 ## Summary
 
-Democratizing machine learning by automating model selection, feature engineering, and hyperparameter tuning.
+Automates model selection, feature engineering, and hyperparameter tuning to simplify ML workflows
 
 ## Description
 

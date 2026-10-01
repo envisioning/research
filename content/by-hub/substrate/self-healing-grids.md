@@ -2,8 +2,8 @@
 slug: self-healing-grids
 hub: substrate
 title: Self-Healing Grid Automation
-summary: Autonomous protection and restoration systems that reconfigure the grid in
-  real time.
+summary: Autonomous systems that detect grid faults and reroute power without human
+  intervention
 permalink: https://www.envisioning.com/substrate/self-healing-grids
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117664/subst
 
 ## Summary
 
-Autonomous protection and restoration systems that reconfigure the grid in real time.
+Autonomous systems that detect grid faults and reroute power without human intervention
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: rydberg-atom-radio-receivers
 hub: link
 title: Rydberg Atom Radio Receivers
-summary: Quantum sensors using excited atoms for ultra-sensitive radio detection.
+summary: Quantum sensors using highly excited atoms to detect radio signals across
+  extreme bandwidths
 permalink: https://www.envisioning.com/link/rydberg-atom-radio-receivers
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435279/link/
 
 ## Summary
 
-Quantum sensors using excited atoms for ultra-sensitive radio detection.
+Quantum sensors using highly excited atoms to detect radio signals across extreme bandwidths
 
 ## Description
 

@@ -2,9 +2,8 @@
 slug: rituais-orgulho-edificios-quarteiroes
 hub: moradia
 title: Rituais de Orgulho em Edifícios e Quarteirões
-summary: Práticas rituais e simbólicas que expressam orgulho e identidade em relação
-  a edifícios e quarteirões, criando apropriação emocional e pertencimento através
-  de símbolos e rituais.
+summary: Práticas simbólicas que criam pertencimento e identidade coletiva em edifícios
+  e quarteirões
 permalink: https://www.envisioning.com/moradia/rituais-orgulho-edificios-quarteiroes
 collection: modelos-mercado-governanca
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668444/habit
 
 ## Summary
 
-Práticas rituais e simbólicas que expressam orgulho e identidade em relação a edifícios e quarteirões, criando apropriação emocional e pertencimento através de símbolos e rituais.
+Práticas simbólicas que criam pertencimento e identidade coletiva em edifícios e quarteirões
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: emotional-contagion-models
 hub: soma
 title: Emotional Contagion Models
-summary: Simulations of how affect spreads through social networks and crowds.
+summary: Simulations of how emotions spread through social networks using computational
+  models
 permalink: https://www.envisioning.com/soma/emotional-contagion-models
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177884/soma/
 
 ## Summary
 
-Simulations of how affect spreads through social networks and crowds.
+Simulations of how emotions spread through social networks using computational models
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: agent-based-physics-simulators
 hub: pixels
 title: Agent-Based Physics & Ecosystem Simulators
-summary: Persistent worlds built from autonomous agents and hyperreal physics.
+summary: Autonomous NPCs and real-time physics that evolve ecosystems independently
+  of player presence
 permalink: https://www.envisioning.com/pixels/agent-based-physics-simulators
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062347/pixel
 
 ## Summary
 
-Persistent worlds built from autonomous agents and hyperreal physics.
+Autonomous NPCs and real-time physics that evolve ecosystems independently of player presence
 
 ## Description
 

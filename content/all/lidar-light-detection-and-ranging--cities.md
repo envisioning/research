@@ -2,14 +2,10 @@
 slug: lidar-light-detection-and-ranging
 hub: cities
 title: LiDAR (Light Detection and Ranging)
-summary: This advanced remote sensing method uses laser pulses to measure distances
-  and create highly accurate three-dimensional maps of the environment. These maps
-  provide detailed spatial data that are invaluable for urban planning, transportation
-  systems, and environmental management. By providing precise, real-time data, LiDAR
-  allows for improvement in public services and the development of adaptive strategies
-  for climate change impacts.
+summary: Laser-based mapping that creates precise 3D models of urban environments
+  and infrastructure
 permalink: https://www.envisioning.com/cities/lidar-light-detection-and-ranging
-collection: eqx5A-DjQA2cenosRlhVdA
+collection: hardware
 trl: 9
 impact: 4
 investment: 3
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719221522-lidar.png
 
 ## Summary
 
-This advanced remote sensing method uses laser pulses to measure distances and create highly accurate three-dimensional maps of the environment. These maps provide detailed spatial data that are invaluable for urban planning, transportation systems, and environmental management. By providing precise, real-time data, LiDAR allows for improvement in public services and the development of adaptive strategies for climate change impacts.
+Laser-based mapping that creates precise 3D models of urban environments and infrastructure
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: population-health-analytics
 hub: vitals
 title: Population Health Analytics Platforms
-summary: Analytics layers that stratify patient populations by risk to guide proactive
-  interventions.
+summary: Platforms that stratify patient populations by risk to guide proactive care
+  and resource allocation
 permalink: https://www.envisioning.com/vitals/population-health-analytics
 collection: software
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116422/vital
 
 ## Summary
 
-Analytics layers that stratify patient populations by risk to guide proactive interventions.
+Platforms that stratify patient populations by risk to guide proactive care and resource allocation
 
 ## Description
 

@@ -2,19 +2,21 @@
 slug: ground-level-power-supply
 hub: atlas
 title: Ground-Level Power Supply
-summary: Electric roads charging vehicles while driving; Trafikverkets Elvägar.
+summary: In-road charging systems that power electric vehicles continuously while
+  driving
 permalink: https://www.envisioning.com/atlas/ground-level-power-supply
 collection: hardware
 trl: 6
 impact: 5
 investment: 5
+image_url: null
 ---
 
 # Ground-Level Power Supply
 
 ## Summary
 
-Electric roads charging vehicles while driving; Trafikverkets Elvägar.
+In-road charging systems that power electric vehicles continuously while driving
 
 ## Description
 

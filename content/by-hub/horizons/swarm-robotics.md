@@ -2,9 +2,10 @@
 slug: swarm-robotics
 hub: horizons
 title: Swarm Robotics
-summary: Coordinated groups of simple robots acting as a collective.
+summary: Large groups of simple robots coordinating through local rules to solve complex
+  tasks collectively
 permalink: https://www.envisioning.com/horizons/swarm-robotics
-collection: materials-making
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521860/horiz
 
 ## Summary
 
-Coordinated groups of simple robots acting as a collective.
+Large groups of simple robots coordinating through local rules to solve complex tasks collectively
 
 ## Description
 

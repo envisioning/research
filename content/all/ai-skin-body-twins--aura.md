@@ -2,7 +2,8 @@
 slug: ai-skin-body-twins
 hub: aura
 title: AI Skin & Body Twins
-summary: Predictive models simulating physiological responses.
+summary: Digital replicas of skin and body that predict responses to products, lifestyle,
+  and environment
 permalink: https://www.envisioning.com/aura/ai-skin-body-twins
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990908/aura/
 
 ## Summary
 
-Predictive models simulating physiological responses.
+Digital replicas of skin and body that predict responses to products, lifestyle, and environment
 
 ## Description
 

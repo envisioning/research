@@ -2,7 +2,8 @@
 slug: virtual-nature-therapy
 hub: solace
 title: Virtual Nature Therapy
-summary: Immersive VR environments for psychological restoration.
+summary: VR simulations of natural environments designed to reduce stress and support
+  mental health recovery
 permalink: https://www.envisioning.com/solace/virtual-nature-therapy
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133034/solac
 
 ## Summary
 
-Immersive VR environments for psychological restoration.
+VR simulations of natural environments designed to reduce stress and support mental health recovery
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: lights-out-manufacturing
 hub: forge
 title: Lights-Out Manufacturing
-summary: Fully autonomous factories operating 24/7 without human presence on the floor.
+summary: Fully automated factories running continuously without human workers on-site
 permalink: https://www.envisioning.com/forge/lights-out-manufacturing
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765550214/forge
 
 ## Summary
 
-Fully autonomous factories operating 24/7 without human presence on the floor.
+Fully automated factories running continuously without human workers on-site
 
 ## Description
 

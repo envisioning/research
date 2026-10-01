@@ -2,8 +2,8 @@
 slug: floating-homes-climate-adaptation
 hub: atmos
 title: Floating Homes for Climate Adaptation
-summary: Floating homes offer a sustainable solution to housing shortages and flood
-  risks exacerbated by climate change, particularly in low-lying areas like the Netherlands.
+summary: Buoyant structures that rise with water levels to adapt to flooding and sea
+  level rise
 permalink: https://www.envisioning.com/atmos/floating-homes-climate-adaptation
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764680629/atmos
 
 ## Summary
 
-Floating homes offer a sustainable solution to housing shortages and flood risks exacerbated by climate change, particularly in low-lying areas like the Netherlands.
+Buoyant structures that rise with water levels to adapt to flooding and sea level rise
 
 ## Description
 

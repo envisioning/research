@@ -2,21 +2,21 @@
 slug: quantum-integer-flow-ethics
 hub: xenotech
 title: Integer Flow
-summary: Proposed planetary-scale quantum field allegedly measuring collective consciousness
-  quality and moral behavior.
+summary: Proposed quantum field linking planetary consciousness to measurable moral
+  and ethical behavior
 permalink: https://www.envisioning.com/xenotech/quantum-integer-flow-ethics
 collection: consciousness-interface
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761471017/xenotech/technologies/quantum-integer-flow-ethics.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898497/xenotech/technologies/quantum-integer-flow-ethics-openrouter-google-gemini-3.1-flash-image-preview-qw19wc.png
 ---
 
 # Integer Flow
 
 ## Summary
 
-Proposed planetary-scale quantum field allegedly measuring collective consciousness quality and moral behavior.
+Proposed quantum field linking planetary consciousness to measurable moral and ethical behavior
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: enhancement-therapy-boundary-standards
 hub: epoch
 title: Enhancement vs. Therapy Boundary Standards
-summary: Ethical guidelines distinguishing medical treatment from human enhancement
-  in longevity context.
+summary: Ethical frameworks distinguishing medical treatment from capability enhancement
+  in longevity interventions
 permalink: https://www.envisioning.com/epoch/enhancement-therapy-boundary-standards
 collection: ethics-security
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620911/epoch
 
 ## Summary
 
-Ethical guidelines distinguishing medical treatment from human enhancement in longevity context.
+Ethical frameworks distinguishing medical treatment from capability enhancement in longevity interventions
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: acoustic-pest-monitoring
 hub: spore
 title: Acoustic Pest Monitoring Networks
-summary: Microphones detecting specific insect wing-beat frequencies to target interventions.
+summary: Distributed microphones that identify crop pests by sound to trigger targeted
+  interventions
 permalink: https://www.envisioning.com/spore/acoustic-pest-monitoring
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095955/spore
 
 ## Summary
 
-Microphones detecting specific insect wing-beat frequencies to target interventions.
+Distributed microphones that identify crop pests by sound to trigger targeted interventions
 
 ## Description
 

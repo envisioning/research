@@ -3,7 +3,6 @@ slug: citizen-science-distributed-research
 hub: agape
 title: Citizen Science & Community-Generated Evidence
 summary: Growth of citizen science and community-generated research that challenges
-  traditional knowledge hierarchies.
 permalink: https://www.envisioning.com/agape/citizen-science-distributed-research
 collection: knowledge-evidence-sensemaking
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367802/agape
 
 ## Summary
 
-Growth of citizen science and community-generated research that challenges traditional knowledge hierarchies.
+Growth of citizen science and community-generated research that challenges
 
 ## Description
 

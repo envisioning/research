@@ -2,8 +2,8 @@
 slug: plataformas-mobilidade-integrada-maas
 hub: moradia
 title: Plataformas de Mobilidade Integrada
-summary: Sistemas que unificam planejamento, reserva e pagamento de diferentes modais,
-  integrando edifícios com sistemas de mobilidade urbana.
+summary: Unifica planejamento, reserva e pagamento de diferentes modais de transporte
+  em uma única interface digital
 permalink: https://www.envisioning.com/moradia/plataformas-mobilidade-integrada-maas
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584212/habit
 
 ## Summary
 
-Sistemas que unificam planejamento, reserva e pagamento de diferentes modais, integrando edifícios com sistemas de mobilidade urbana.
+Unifica planejamento, reserva e pagamento de diferentes modais de transporte em uma única interface digital
 
 ## Description
 

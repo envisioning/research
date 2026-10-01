@@ -2,7 +2,8 @@
 slug: swarm-coordination-protocols
 hub: apogee
 title: Swarm Coordination Protocols
-summary: Networking stacks for distributed satellite formations and robotic fleets.
+summary: Networking and control software enabling satellite formations and robotic
+  fleets to coordinate autonomously
 permalink: https://www.envisioning.com/apogee/swarm-coordination-protocols
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180727/apoge
 
 ## Summary
 
-Networking stacks for distributed satellite formations and robotic fleets.
+Networking and control software enabling satellite formations and robotic fleets to coordinate autonomously
 
 ## Description
 

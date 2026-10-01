@@ -2,8 +2,8 @@
 slug: nitrogen-vacancy-diamond-sensors
 hub: superposition
 title: Nitrogen-Vacancy Diamond Sensors
-summary: Room-temperature quantum sensors measuring magnetic and electric fields with
-  extreme precision.
+summary: Quantum sensors using diamond defects to measure magnetic and electric fields
+  at room temperature
 permalink: https://www.envisioning.com/superposition/nitrogen-vacancy-diamond-sensors
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764073949/super
 
 ## Summary
 
-Room-temperature quantum sensors measuring magnetic and electric fields with extreme precision.
+Quantum sensors using diamond defects to measure magnetic and electric fields at room temperature
 
 ## Description
 

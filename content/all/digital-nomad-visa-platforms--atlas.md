@@ -2,7 +2,8 @@
 slug: digital-nomad-visa-platforms
 hub: atlas
 title: Digital Nomad Visa Platforms
-summary: Streamlined application and compliance systems for remote work visas.
+summary: Integrated systems managing visa applications and compliance for location-independent
+  remote workers
 permalink: https://www.envisioning.com/atlas/digital-nomad-visa-platforms
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127143/atlas
 
 ## Summary
 
-Streamlined application and compliance systems for remote work visas.
+Integrated systems managing visa applications and compliance for location-independent remote workers
 
 ## Description
 

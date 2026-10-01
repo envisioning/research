@@ -2,7 +2,8 @@
 slug: regenerative-tourism-marketplaces
 hub: atlas
 title: Regenerative Tourism Marketplaces
-summary: Platforms steering demand toward community-owned, low-impact experiences.
+summary: Booking platforms that prioritize verified community-owned and low-impact
+  travel experiences
 permalink: https://www.envisioning.com/atlas/regenerative-tourism-marketplaces
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127268/atlas
 
 ## Summary
 
-Platforms steering demand toward community-owned, low-impact experiences.
+Booking platforms that prioritize verified community-owned and low-impact travel experiences
 
 ## Description
 

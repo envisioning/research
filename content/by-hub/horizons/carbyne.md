@@ -2,9 +2,10 @@
 slug: carbyne
 hub: horizons
 title: Carbyne
-summary: Ultra-strong linear carbon chains with exceptional conductivity.
+summary: One-dimensional carbon chains potentially stronger than diamond with high
+  conductivity
 permalink: https://www.envisioning.com/horizons/carbyne
-collection: materials-making
+collection: hardware
 trl: 3
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526120/horiz
 
 ## Summary
 
-Ultra-strong linear carbon chains with exceptional conductivity.
+One-dimensional carbon chains potentially stronger than diamond with high conductivity
 
 ## Description
 

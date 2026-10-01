@@ -3,7 +3,6 @@ slug: climate-adaptation-funding
 hub: agape
 title: Climate Adaptation Funding Surpassing Mitigation
 summary: Climate adaptation funding surpassing mitigation, with disaster philanthropy
-  becoming permanent rather than episodic.
 permalink: https://www.envisioning.com/agape/climate-adaptation-funding
 collection: geopolitics-planet-polycrisis
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419238/phila
 
 ## Summary
 
-Climate adaptation funding surpassing mitigation, with disaster philanthropy becoming permanent rather than episodic.
+Climate adaptation funding surpassing mitigation, with disaster philanthropy
 
 ## Description
 

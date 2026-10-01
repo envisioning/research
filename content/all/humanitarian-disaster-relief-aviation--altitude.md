@@ -2,7 +2,8 @@
 slug: humanitarian-disaster-relief-aviation
 hub: altitude
 title: Humanitarian & Disaster Relief Aviation
-summary: Rapid-deploy cargo drones, airships, and eVTOL for crisis response.
+summary: Autonomous aircraft delivering emergency supplies to disaster zones without
+  runways
 permalink: https://www.envisioning.com/altitude/humanitarian-disaster-relief-aviation
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765644302/altit
 
 ## Summary
 
-Rapid-deploy cargo drones, airships, and eVTOL for crisis response.
+Autonomous aircraft delivering emergency supplies to disaster zones without runways
 
 ## Description
 

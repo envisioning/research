@@ -2,7 +2,8 @@
 slug: space-domain-awareness
 hub: aegis
 title: Space Domain Awareness & Orbital Security
-summary: Integrated tracking of satellites, debris, and suspicious maneuvers.
+summary: Tracking satellites, debris, and threats in Earth's increasingly crowded
+  orbital environment
 permalink: https://www.envisioning.com/aegis/space-domain-awareness
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010204/aegis
 
 ## Summary
 
-Integrated tracking of satellites, debris, and suspicious maneuvers.
+Tracking satellites, debris, and threats in Earth's increasingly crowded orbital environment
 
 ## Description
 

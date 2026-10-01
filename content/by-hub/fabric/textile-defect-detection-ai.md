@@ -2,7 +2,7 @@
 slug: textile-defect-detection-ai
 hub: fabric
 title: Textile Defect Detection AI
-summary: Computer vision inspecting fabric rolls in real time on Asian lines.
+summary: Computer vision systems that inspect fabric for flaws during production
 permalink: https://www.envisioning.com/fabric/textile-defect-detection-ai
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059648/threa
 
 ## Summary
 
-Computer vision inspecting fabric rolls in real time on Asian lines.
+Computer vision systems that inspect fabric for flaws during production
 
 ## Description
 

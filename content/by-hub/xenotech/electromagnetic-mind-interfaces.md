@@ -2,22 +2,21 @@
 slug: electromagnetic-mind-interfaces
 hub: xenotech
 title: Mind Interfaces
-summary: Technologies using electromagnetic fields for neural stimulation, auditory
-  transmission, and alleged thought communication including V2K, synthetic telepathy,
-  and brain-computer interfaces.
+summary: Electromagnetic neural stimulation methods, from verified brain-computer
+  interfaces to contested remote thought communic
 permalink: https://www.envisioning.com/xenotech/electromagnetic-mind-interfaces
 collection: consciousness-interface
 trl: 4
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760817712/xenotech/technologies/voice-to-skull-v2k.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898884/xenotech/technologies/electromagnetic-mind-interfaces-openrouter-google-gemini-3.1-flash-image-preview-ktq4x7.png
 ---
 
 # Mind Interfaces
 
 ## Summary
 
-Technologies using electromagnetic fields for neural stimulation, auditory transmission, and alleged thought communication including V2K, synthetic telepathy, and brain-computer interfaces.
+Electromagnetic neural stimulation methods, from verified brain-computer interfaces to contested remote thought communic
 
 ## Description
 

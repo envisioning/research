@@ -2,7 +2,7 @@
 slug: space-tether-systems
 hub: substrate
 title: Space Tether Systems
-summary: Momentum-exchange cables that fling payloads without expending fuel.
+summary: Long cables in orbit that transfer momentum to move spacecraft without propellant
 permalink: https://www.envisioning.com/substrate/space-tether-systems
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117636/subst
 
 ## Summary
 
-Momentum-exchange cables that fling payloads without expending fuel.
+Long cables in orbit that transfer momentum to move spacecraft without propellant
 
 ## Description
 

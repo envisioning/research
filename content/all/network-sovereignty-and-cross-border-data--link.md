@@ -2,7 +2,8 @@
 slug: network-sovereignty-and-cross-border-data
 hub: link
 title: Network Sovereignty & Cross-Border Data Control
-summary: Controls over where connectivity paths and traffic are allowed to flow.
+summary: Technical and policy controls that restrict where network traffic flows and
+  data crosses borders
 permalink: https://www.envisioning.com/link/network-sovereignty-and-cross-border-data
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179403/link/
 
 ## Summary
 
-Controls over where connectivity paths and traffic are allowed to flow.
+Technical and policy controls that restrict where network traffic flows and data crosses borders
 
 ## Description
 

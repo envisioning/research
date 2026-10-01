@@ -2,7 +2,7 @@
 slug: leo-lunar-infrastructure
 hub: apogee
 title: LEO & Lunar Infrastructure
-summary: Stations and constellations supporting earth and lunar operations.
+summary: Permanent orbital stations and networks enabling sustained Earth-Moon operations
 permalink: https://www.envisioning.com/apogee/leo-lunar-infrastructure
 collection: applications
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145077/apoge
 
 ## Summary
 
-Stations and constellations supporting earth and lunar operations.
+Permanent orbital stations and networks enabling sustained Earth-Moon operations
 
 ## Description
 

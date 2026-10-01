@@ -2,7 +2,8 @@
 slug: generative-curricula-systems
 hub: axiom
 title: Generative Curricula Systems
-summary: Engines building custom syllabi and project-based modules.
+summary: AI platforms that generate personalized lesson plans, exercises, and learning
+  modules for students
 permalink: https://www.envisioning.com/axiom/generative-curricula-systems
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990827/axiom
 
 ## Summary
 
-Engines building custom syllabi and project-based modules.
+AI platforms that generate personalized lesson plans, exercises, and learning modules for students
 
 ## Description
 

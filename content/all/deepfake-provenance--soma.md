@@ -2,7 +2,8 @@
 slug: deepfake-provenance
 hub: soma
 title: Deepfake Provenance
-summary: Systems to verify authenticity of digital media and avatars.
+summary: Verification systems that trace the origin and authenticity of digital media
+  and synthetic avatars
 permalink: https://www.envisioning.com/soma/deepfake-provenance
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133765/soma/
 
 ## Summary
 
-Systems to verify authenticity of digital media and avatars.
+Verification systems that trace the origin and authenticity of digital media and synthetic avatars
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: biosignal-authentication
 hub: soma
 title: Biosignal Authentication
-summary: Identity verification using unique affective and physiological signatures.
+summary: Identity verification through continuous monitoring of cardiac rhythms, gait,
+  and stress responses
 permalink: https://www.envisioning.com/soma/biosignal-authentication
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133975/soma/
 
 ## Summary
 
-Identity verification using unique affective and physiological signatures.
+Identity verification through continuous monitoring of cardiac rhythms, gait, and stress responses
 
 ## Description
 

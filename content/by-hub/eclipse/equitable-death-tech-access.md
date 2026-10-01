@@ -2,7 +2,8 @@
 slug: equitable-death-tech-access
 hub: eclipse
 title: Equitable Death Tech Access
-summary: Frameworks ensuring death tech reaches underserved populations.
+summary: Frameworks ensuring death tech reaches underserved populations through equitable
+  access models
 permalink: https://www.envisioning.com/eclipse/equitable-death-tech-access
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435344/eclip
 
 ## Summary
 
-Frameworks ensuring death tech reaches underserved populations.
+Frameworks ensuring death tech reaches underserved populations through equitable access models
 
 ## Description
 

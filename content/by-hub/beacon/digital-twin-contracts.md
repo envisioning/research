@@ -2,7 +2,8 @@
 slug: digital-twin-contracts
 hub: beacon
 title: Digital Twin Smart Contracts
-summary: Governing the use of AI likeness.
+summary: Legal-technical frameworks governing consent and compensation for AI-generated
+  likenesses
 permalink: https://www.envisioning.com/beacon/digital-twin-contracts
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126192/beaco
 
 ## Summary
 
-Governing the use of AI likeness.
+Legal-technical frameworks governing consent and compensation for AI-generated likenesses
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: piezoelectric-energy-harvesting-yarns
 hub: fabric
 title: Piezoelectric Energy Harvesting Yarns
-summary: Flexible yarns that generate electricity from motion.
+summary: Yarns that convert body movement into electrical power through piezoelectric
+  materials
 permalink: https://www.envisioning.com/fabric/piezoelectric-energy-harvesting-yarns
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058612/threa
 
 ## Summary
 
-Flexible yarns that generate electricity from motion.
+Yarns that convert body movement into electrical power through piezoelectric materials
 
 ## Description
 

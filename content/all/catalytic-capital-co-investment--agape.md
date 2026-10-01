@@ -3,7 +3,6 @@ slug: catalytic-capital-co-investment
 hub: agape
 title: Catalytic Capital to Unlock Co-Investment
 summary: Use of catalytic capital to unlock public/private co-investment, using philanthropy
-  to mobilize larger pools of capital.
 permalink: https://www.envisioning.com/agape/catalytic-capital-co-investment
 collection: capital-instruments-economic
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371752/agape
 
 ## Summary
 
-Use of catalytic capital to unlock public/private co-investment, using philanthropy to mobilize larger pools of capital.
+Use of catalytic capital to unlock public/private co-investment, using philanthropy
 
 ## Description
 

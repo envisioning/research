@@ -2,14 +2,10 @@
 slug: living-fungal-sensor
 hub: cities
 title: Living Fungal Sensor
-summary: Also known as a biohybrid or mycelium-based sensor, this solution merges
-  living organisms with electronic sensing to monitor pollution, soil degradation,
-  and climate-driven risks. Built upon the mycelium, these devices can detect variations
-  in humidity, temperature, pH, and toxic compounds through electrical signals. Unlike
-  conventional silicon sensors, fungal systems are biodegradable, self-repairing,
-  and extremely low-energy.
+summary: Biodegradable sensors using mycelium networks to detect pollution, humidity,
+  and soil health in urban environments
 permalink: https://www.envisioning.com/cities/living-fungal-sensor
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 3
 impact: 2
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1759843813-living-fungal-sensor
 
 ## Summary
 
-Also known as a biohybrid or mycelium-based sensor, this solution merges living organisms with electronic sensing to monitor pollution, soil degradation, and climate-driven risks. Built upon the mycelium, these devices can detect variations in humidity, temperature, pH, and toxic compounds through electrical signals. Unlike conventional silicon sensors, fungal systems are biodegradable, self-repairing, and extremely low-energy.
+Biodegradable sensors using mycelium networks to detect pollution, humidity, and soil health in urban environments
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: biometric-template-protection
 hub: beacon
 title: Biometric Template Protection Systems
-summary: Irreversible, privacy-preserving biometric verification.
+summary: Irreversible encryption of biometric data to prevent permanent identity compromise
 permalink: https://www.envisioning.com/beacon/biometric-template-protection
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281708/beaco
 
 ## Summary
 
-Irreversible, privacy-preserving biometric verification.
+Irreversible encryption of biometric data to prevent permanent identity compromise
 
 ## Description
 

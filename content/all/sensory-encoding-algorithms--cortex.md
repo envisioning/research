@@ -2,7 +2,8 @@
 slug: sensory-encoding-algorithms
 hub: cortex
 title: Sensory Encoding Algorithms
-summary: Translating digital data into neural stimulation patterns.
+summary: Converts digital sensor data into neural stimulation patterns the brain can
+  interpret as sensory input
 permalink: https://www.envisioning.com/cortex/sensory-encoding-algorithms
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990957/corte
 
 ## Summary
 
-Translating digital data into neural stimulation patterns.
+Converts digital sensor data into neural stimulation patterns the brain can interpret as sensory input
 
 ## Description
 

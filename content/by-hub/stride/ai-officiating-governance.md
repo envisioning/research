@@ -2,7 +2,8 @@
 slug: ai-officiating-governance
 hub: stride
 title: AI Officiating Governance
-summary: Standards for transparency, appeal, and accountability in automated calls.
+summary: Frameworks ensuring transparency and accountability in AI-powered sports
+  officiating systems
 permalink: https://www.envisioning.com/stride/ai-officiating-governance
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128688/strid
 
 ## Summary
 
-Standards for transparency, appeal, and accountability in automated calls.
+Frameworks ensuring transparency and accountability in AI-powered sports officiating systems
 
 ## Description
 

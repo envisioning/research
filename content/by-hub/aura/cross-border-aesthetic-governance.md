@@ -2,7 +2,8 @@
 slug: cross-border-aesthetic-governance
 hub: aura
 title: Cross-Border Aesthetic Governance
-summary: Regulatory patchworks for beauty and enhancement travel.
+summary: Regulatory frameworks for managing cross-border aesthetic procedures and
+  enhancement travel
 permalink: https://www.envisioning.com/aura/cross-border-aesthetic-governance
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010277/aura/
 
 ## Summary
 
-Regulatory patchworks for beauty and enhancement travel.
+Regulatory frameworks for managing cross-border aesthetic procedures and enhancement travel
 
 ## Description
 

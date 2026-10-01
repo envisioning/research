@@ -2,7 +2,8 @@
 slug: universal-interaction-layers
 hub: pixels
 title: Universal Interaction Layers
-summary: Cross-device input frameworks unifying voice, gesture, and neural inputs.
+summary: Middleware that translates touch, voice, gesture, and neural inputs into
+  a unified schema for games
 permalink: https://www.envisioning.com/pixels/universal-interaction-layers
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062342/pixel
 
 ## Summary
 
-Cross-device input frameworks unifying voice, gesture, and neural inputs.
+Middleware that translates touch, voice, gesture, and neural inputs into a unified schema for games
 
 ## Description
 

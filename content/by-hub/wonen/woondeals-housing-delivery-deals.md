@@ -9,7 +9,7 @@ collection: governance-permitting
 trl: 4
 impact: 3
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889093/wonen/technologies/71cabab2-c8c4-4987-ba1b-8b87d832d2bc-google-gemini-3.1-flash-image-preview-l9w9kh.jpg
 ---
 
 # Woondeals (Housing Delivery Deals)

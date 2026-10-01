@@ -2,7 +2,8 @@
 slug: digital-twin-mobility
 hub: vector
 title: Digital Twin Mobility
-summary: Real-time virtual replicas of urban transportation systems.
+summary: Dynamic virtual replicas of transportation networks fed by real-time sensor
+  and vehicle data
 permalink: https://www.envisioning.com/vector/digital-twin-mobility
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177593/vecto
 
 ## Summary
 
-Real-time virtual replicas of urban transportation systems.
+Dynamic virtual replicas of transportation networks fed by real-time sensor and vehicle data
 
 ## Description
 

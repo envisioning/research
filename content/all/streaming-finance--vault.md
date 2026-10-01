@@ -2,7 +2,8 @@
 slug: streaming-finance
 hub: vault
 title: Programmable Streaming Finance
-summary: Continuous, real-time money streaming.
+summary: Continuous money flows that replace batch payments with real-time streaming
+  transactions
 permalink: https://www.envisioning.com/vault/streaming-finance
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128679/vault
 
 ## Summary
 
-Continuous, real-time money streaming.
+Continuous money flows that replace batch payments with real-time streaming transactions
 
 ## Description
 

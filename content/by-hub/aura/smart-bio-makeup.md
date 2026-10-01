@@ -2,7 +2,8 @@
 slug: smart-bio-makeup
 hub: aura
 title: Smart Bio-Makeup
-summary: Formulations adapting to pH and temperature.
+summary: Makeup formulations that change color, finish, or coverage based on skin
+  chemistry and environment
 permalink: https://www.envisioning.com/aura/smart-bio-makeup
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996125/aura/
 
 ## Summary
 
-Formulations adapting to pH and temperature.
+Makeup formulations that change color, finish, or coverage based on skin chemistry and environment
 
 ## Description
 

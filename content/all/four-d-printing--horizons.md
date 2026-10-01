@@ -2,9 +2,10 @@
 slug: four-d-printing
 hub: horizons
 title: 4D Printing
-summary: Smart materials that change shape or function over time.
+summary: 3D-printed objects that transform shape or function when exposed to environmental
+  triggers
 permalink: https://www.envisioning.com/horizons/four-d-printing
-collection: materials-making
+collection: hardware
 trl: 5
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521261/horiz
 
 ## Summary
 
-Smart materials that change shape or function over time.
+3D-printed objects that transform shape or function when exposed to environmental triggers
 
 ## Description
 

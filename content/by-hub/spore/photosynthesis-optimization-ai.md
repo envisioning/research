@@ -2,8 +2,8 @@
 slug: photosynthesis-optimization-ai
 hub: spore
 title: Photosynthesis Optimization AI
-summary: Computational biology tools re-engineering metabolic pathways for higher
-  efficiency.
+summary: AI-driven redesign of plant enzymes and metabolic pathways to boost photosynthetic
+  efficiency
 permalink: https://www.envisioning.com/spore/photosynthesis-optimization-ai
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096042/spore
 
 ## Summary
 
-Computational biology tools re-engineering metabolic pathways for higher efficiency.
+AI-driven redesign of plant enzymes and metabolic pathways to boost photosynthetic efficiency
 
 ## Description
 

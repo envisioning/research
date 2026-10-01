@@ -2,7 +2,7 @@
 slug: direct-air-capture
 hub: grid
 title: Direct Air Capture (DAC) Integration
-summary: Industrial systems removing CO₂ directly from the atmosphere powered by renewables.
+summary: Chemical systems that extract CO₂ from ambient air for sequestration or reuse
 permalink: https://www.envisioning.com/grid/direct-air-capture
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435105/grid/
 
 ## Summary
 
-Industrial systems removing CO₂ directly from the atmosphere powered by renewables.
+Chemical systems that extract CO₂ from ambient air for sequestration or reuse
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ingredient-level-bioeffect-simulators
 hub: aura
 title: Ingredient-Level Bioeffect Simulators
-summary: Systems mapping compound interactions with microbiomes.
+summary: Computational platforms predicting how cosmetic ingredients interact with
+  individual skin biology
 permalink: https://www.envisioning.com/aura/ingredient-level-bioeffect-simulators
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990935/aura/
 
 ## Summary
 
-Systems mapping compound interactions with microbiomes.
+Computational platforms predicting how cosmetic ingredients interact with individual skin biology
 
 ## Description
 

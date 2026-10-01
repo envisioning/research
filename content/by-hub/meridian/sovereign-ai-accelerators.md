@@ -2,7 +2,8 @@
 slug: sovereign-ai-accelerators
 hub: meridian
 title: Sovereign AI Accelerators
-summary: Domestically produced high-performance computing chips.
+summary: AI chips designed and manufactured domestically to reduce foreign technology
+  dependence
 permalink: https://www.envisioning.com/meridian/sovereign-ai-accelerators
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128523/merid
 
 ## Summary
 
-Domestically produced high-performance computing chips.
+AI chips designed and manufactured domestically to reduce foreign technology dependence
 
 ## Description
 

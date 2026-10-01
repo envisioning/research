@@ -2,7 +2,8 @@
 slug: wearable-biometric-emotion-recorders
 hub: prism
 title: Wearable biometric emotion recorders
-summary: Sensing devices capturing continuous affect data to inform adaptive media.
+summary: Wearable sensors that track emotional responses in real time to personalize
+  media experiences
 permalink: https://www.envisioning.com/prism/wearable-biometric-emotion-recorders
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062476/pulse
 
 ## Summary
 
-Sensing devices capturing continuous affect data to inform adaptive media.
+Wearable sensors that track emotional responses in real time to personalize media experiences
 
 ## Description
 

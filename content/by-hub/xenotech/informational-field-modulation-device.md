@@ -2,22 +2,21 @@
 slug: informational-field-modulation-device
 hub: xenotech
 title: Field Modulation
-summary: Soviet prototype using modulated microwaves and rotating magnetic plates
-  to project coherent informational fields allegedly altering observer subjective
-  perception and mood.
+summary: Alleged Soviet device using modulated microwaves and rotating magnets to
+  influence mood and perception
 permalink: https://www.envisioning.com/xenotech/informational-field-modulation-device
 collection: consciousness-interface
 trl: 3
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761065375/xenotech/technologies/informational-field-modulation-device.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898358/xenotech/technologies/informational-field-modulation-device-openrouter-google-gemini-3.1-flash-image-preview-5avwkk.png
 ---
 
 # Field Modulation
 
 ## Summary
 
-Soviet prototype using modulated microwaves and rotating magnetic plates to project coherent informational fields allegedly altering observer subjective perception and mood.
+Alleged Soviet device using modulated microwaves and rotating magnets to influence mood and perception
 
 ## Description
 

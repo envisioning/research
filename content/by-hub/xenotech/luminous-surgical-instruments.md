@@ -2,21 +2,21 @@
 slug: luminous-surgical-instruments
 hub: xenotech
 title: Luminous Surgical Instruments
-summary: Alleged surgical tools made of light that operate autonomously or under mental
-  control, reported in abduction encounters alongside emerging photonic medical technologies.
+summary: Surgical tools made of light, reported in abduction accounts and explored
+  in photonic medicine research
 permalink: https://www.envisioning.com/xenotech/luminous-surgical-instruments
 collection: biology-hybridization
 trl: 3
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761402291/xenotech/technologies/luminous-surgical-instruments.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898601/xenotech/technologies/luminous-surgical-instruments-openrouter-google-gemini-3.1-flash-image-preview-izs7q3.png
 ---
 
 # Luminous Surgical Instruments
 
 ## Summary
 
-Alleged surgical tools made of light that operate autonomously or under mental control, reported in abduction encounters alongside emerging photonic medical technologies.
+Surgical tools made of light, reported in abduction accounts and explored in photonic medicine research
 
 ## Description
 

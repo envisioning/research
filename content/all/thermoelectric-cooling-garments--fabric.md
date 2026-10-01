@@ -2,7 +2,8 @@
 slug: thermoelectric-cooling-garments
 hub: fabric
 title: Thermoelectric Cooling Garments
-summary: Wearables using solid-state modules for active cooling and heating.
+summary: Garments with solid-state modules that actively cool or heat the wearer on
+  demand
 permalink: https://www.envisioning.com/fabric/thermoelectric-cooling-garments
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059810/threa
 
 ## Summary
 
-Wearables using solid-state modules for active cooling and heating.
+Garments with solid-state modules that actively cool or heat the wearer on demand
 
 ## Description
 

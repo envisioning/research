@@ -2,7 +2,8 @@
 slug: autonomous-construction-robotics
 hub: habitat
 title: Autonomous Construction Robotics
-summary: Robotic systems for automated bricklaying, welding, and material handling.
+summary: Robotic systems that automate bricklaying, welding, and material handling
+  on construction sites
 permalink: https://www.envisioning.com/habitat/autonomous-construction-robotics
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117074/habit
 
 ## Summary
 
-Robotic systems for automated bricklaying, welding, and material handling.
+Robotic systems that automate bricklaying, welding, and material handling on construction sites
 
 ## Description
 

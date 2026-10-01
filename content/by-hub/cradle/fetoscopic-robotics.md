@@ -2,7 +2,7 @@
 slug: fetoscopic-robotics
 hub: cradle
 title: Fetoscopic Surgical Robotics
-summary: Robotic assistance for in utero procedures.
+summary: Robotic systems enabling minimally invasive surgery on fetuses before birth
 permalink: https://www.envisioning.com/cradle/fetoscopic-robotics
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126202/cradl
 
 ## Summary
 
-Robotic assistance for in utero procedures.
+Robotic systems enabling minimally invasive surgery on fetuses before birth
 
 ## Description
 

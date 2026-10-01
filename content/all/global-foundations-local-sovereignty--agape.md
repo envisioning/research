@@ -3,7 +3,6 @@ slug: global-foundations-local-sovereignty
 hub: agape
 title: Global Foundations vs. Local Sovereignty
 summary: Tensions between global foundations and local sovereignty, as international
-  philanthropy navigates power dynamics and cultural contexts.
 permalink: https://www.envisioning.com/agape/global-foundations-local-sovereignty
 collection: power-agency-governance
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371967/agape
 
 ## Summary
 
-Tensions between global foundations and local sovereignty, as international philanthropy navigates power dynamics and cultural contexts.
+Tensions between global foundations and local sovereignty, as international
 
 ## Description
 

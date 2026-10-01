@@ -2,7 +2,8 @@
 slug: multi-scale-climate-simulation
 hub: atmos
 title: Multi-Scale Climate Simulation Engines
-summary: AI-assisted Earth system models and regional digital twins.
+summary: AI-enhanced climate models simulating weather and climate from global to
+  city scale
 permalink: https://www.envisioning.com/atmos/multi-scale-climate-simulation
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763991186/atmos
 
 ## Summary
 
-AI-assisted Earth system models and regional digital twins.
+AI-enhanced climate models simulating weather and climate from global to city scale
 
 ## Description
 

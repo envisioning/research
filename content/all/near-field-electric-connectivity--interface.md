@@ -2,13 +2,13 @@
 slug: near-field-electric-connectivity
 hub: interface
 title: Near-Field Electric Connectivity
-summary: Secure, short-range (5-25cm) data links using electric fields for touch-to-pair
-  and access control.
+summary: Data transfer using electric fields instead of radio waves for secure device
+  pairing within 5–25 cm
 permalink: https://www.envisioning.com/interface/near-field-electric-connectivity
-collection: ambient-contextual-systems
+collection: hardware
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743348/interface/technologies/near-field-electric-connectivity-google-gemini-3-pro-image-preview-4qf0c8.png
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743348/inter
 
 ## Summary
 
-Secure, short-range (5-25cm) data links using electric fields for touch-to-pair and access control.
+Data transfer using electric fields instead of radio waves for secure device pairing within 5–25 cm
 
 ## Description
 

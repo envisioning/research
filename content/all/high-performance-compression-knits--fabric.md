@@ -2,7 +2,8 @@
 slug: high-performance-compression-knits
 hub: fabric
 title: High-Performance Stretch and Compression Knits
-summary: Mature elastane and warp-knit structures for support and recovery.
+summary: Engineered knits delivering graduated compression for athletic support and
+  medical therapy
 permalink: https://www.envisioning.com/fabric/high-performance-compression-knits
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058619/threa
 
 ## Summary
 
-Mature elastane and warp-knit structures for support and recovery.
+Engineered knits delivering graduated compression for athletic support and medical therapy
 
 ## Description
 

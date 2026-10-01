@@ -2,7 +2,8 @@
 slug: onchain-regulatory-monitoring
 hub: polis
 title: On-Chain Regulatory Monitoring
-summary: Analytics and policy enforcement layers for blockchain-based economic activity.
+summary: Tools that track blockchain transactions to enforce financial regulations
+  and detect illicit activity
 permalink: https://www.envisioning.com/polis/onchain-regulatory-monitoring
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127221/polis
 
 ## Summary
 
-Analytics and policy enforcement layers for blockchain-based economic activity.
+Tools that track blockchain transactions to enforce financial regulations and detect illicit activity
 
 ## Description
 

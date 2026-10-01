@@ -2,7 +2,7 @@
 slug: loot-box-gambling-convergence
 hub: pixels
 title: Loot Box & Gambling Convergence
-summary: Regulatory responses to gambling-like mechanics in games.
+summary: Regulatory frameworks treating randomized in-game rewards as gambling
 permalink: https://www.envisioning.com/pixels/loot-box-gambling-convergence
 collection: ethics-security
 trl: 8
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012281/pixel
 
 ## Summary
 
-Regulatory responses to gambling-like mechanics in games.
+Regulatory frameworks treating randomized in-game rewards as gambling
 
 ## Description
 

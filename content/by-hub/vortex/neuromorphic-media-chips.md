@@ -2,7 +2,8 @@
 slug: neuromorphic-media-chips
 hub: vortex
 title: Neuromorphic Media Chips
-summary: Brain-inspired processors for on-device AI inference.
+summary: Brain-inspired chips that process video and audio with neural efficiency
+  on streaming devices
 permalink: https://www.envisioning.com/vortex/neuromorphic-media-chips
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126572/vorte
 
 ## Summary
 
-Brain-inspired processors for on-device AI inference.
+Brain-inspired chips that process video and audio with neural efficiency on streaming devices
 
 ## Description
 

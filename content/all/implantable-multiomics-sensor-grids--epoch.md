@@ -2,8 +2,8 @@
 slug: implantable-multiomics-sensor-grids
 hub: epoch
 title: Implantable Multi-Omics Sensor Grids
-summary: Networks of implanted biosensors that continuously track molecular aging
-  markers across the body.
+summary: Networks of implanted biosensors continuously tracking molecular aging markers
+  across the body
 permalink: https://www.envisioning.com/epoch/implantable-multiomics-sensor-grids
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765477289/epoch
 
 ## Summary
 
-Networks of implanted biosensors that continuously track molecular aging markers across the body.
+Networks of implanted biosensors continuously tracking molecular aging markers across the body
 
 ## Description
 

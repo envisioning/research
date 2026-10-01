@@ -2,22 +2,21 @@
 slug: contactless-biometric-screening
 hub: interface
 title: Contactless Biometric Screening
-summary: AI-based contactless biometric screening using remote photoplethysmography
-  (rPPG), making health monitoring accessible in non-clinical settings such as public
-  facilities, corporate wellness programs, and smart-city environments.
+summary: AI-powered video analysis that measures heart rate, oxygen levels, and stress
+  from facial skin color changes
 permalink: https://www.envisioning.com/interface/contactless-biometric-screening
-collection: wearables-health-sensing
+collection: applications
 trl: 5
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889481/interface/technologies/83308957-84a3-4e5a-9d59-f201187a1d78-google-gemini-3.1-flash-image-preview-8moogq.png
 ---
 
 # Contactless Biometric Screening
 
 ## Summary
 
-AI-based contactless biometric screening using remote photoplethysmography (rPPG), making health monitoring accessible in non-clinical settings such as public facilities, corporate wellness programs, and smart-city environments.
+AI-powered video analysis that measures heart rate, oxygen levels, and stress from facial skin color changes
 
 ## Description
 

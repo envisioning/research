@@ -2,8 +2,8 @@
 slug: blended-care-orchestration
 hub: solace
 title: Blended Care Orchestration Systems
-summary: Platforms that coordinate human clinicians, coaches, and digital therapeutics
-  into a single care journey.
+summary: Coordinates clinicians, coaches, and digital tools into unified treatment
+  pathways
 permalink: https://www.envisioning.com/solace/blended-care-orchestration
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436525/solac
 
 ## Summary
 
-Platforms that coordinate human clinicians, coaches, and digital therapeutics into a single care journey.
+Coordinates clinicians, coaches, and digital tools into unified treatment pathways
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: electro-aerodynamic-propulsion
 hub: altitude
 title: Electro-Aerodynamic (Ion) Propulsion
-summary: Silent, solid-state propulsion using ionic wind instead of moving parts.
+summary: Propulsion using electric fields to accelerate ionized air molecules instead
+  of mechanical engines
 permalink: https://www.envisioning.com/altitude/electro-aerodynamic-propulsion
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765649181/altit
 
 ## Summary
 
-Silent, solid-state propulsion using ionic wind instead of moving parts.
+Propulsion using electric fields to accelerate ionized air molecules instead of mechanical engines
 
 ## Description
 

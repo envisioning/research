@@ -2,7 +2,8 @@
 slug: zero-knowledge-compliance-layers
 hub: polis
 title: Zero-Knowledge Compliance Layers
-summary: Cryptographic proofs for verifying status without revealing data.
+summary: Cryptographic systems proving regulatory compliance without exposing underlying
+  personal or financial data
 permalink: https://www.envisioning.com/polis/zero-knowledge-compliance-layers
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126694/polis
 
 ## Summary
 
-Cryptographic proofs for verifying status without revealing data.
+Cryptographic systems proving regulatory compliance without exposing underlying personal or financial data
 
 ## Description
 

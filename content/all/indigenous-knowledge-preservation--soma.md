@@ -2,8 +2,8 @@
 slug: indigenous-knowledge-preservation
 hub: soma
 title: Indigenous Knowledge Preservation
-summary: Culturally-centered platforms for oral tradition, language, and ecological
-  knowledge.
+summary: Digital platforms designed to preserve oral traditions, languages, and ecological
+  knowledge on Indigenous terms
 permalink: https://www.envisioning.com/soma/indigenous-knowledge-preservation
 collection: applications
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178028/soma/
 
 ## Summary
 
-Culturally-centered platforms for oral tradition, language, and ecological knowledge.
+Digital platforms designed to preserve oral traditions, languages, and ecological knowledge on Indigenous terms
 
 ## Description
 

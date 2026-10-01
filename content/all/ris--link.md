@@ -2,7 +2,8 @@
 slug: ris
 hub: link
 title: Reconfigurable Intelligent Surfaces (RIS)
-summary: Metamaterials that actively reflect and steer radio signals.
+summary: Electronically controllable surfaces that dynamically reflect and shape wireless
+  signals
 permalink: https://www.envisioning.com/link/ris
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132144/link/
 
 ## Summary
 
-Metamaterials that actively reflect and steer radio signals.
+Electronically controllable surfaces that dynamically reflect and shape wireless signals
 
 ## Description
 

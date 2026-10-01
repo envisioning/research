@@ -2,7 +2,8 @@
 slug: ai-property-valuation
 hub: habitat
 title: AI Property Valuation
-summary: Machine learning algorithms for real-time, high-precision asset appraisal.
+summary: Machine learning algorithms that appraise real estate value in real time
+  with high precision
 permalink: https://www.envisioning.com/habitat/ai-property-valuation
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117061/habit
 
 ## Summary
 
-Machine learning algorithms for real-time, high-precision asset appraisal.
+Machine learning algorithms that appraise real estate value in real time with high precision
 
 ## Description
 

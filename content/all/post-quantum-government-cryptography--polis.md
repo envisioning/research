@@ -2,7 +2,8 @@
 slug: post-quantum-government-cryptography
 hub: polis
 title: Post-Quantum Government Cryptography
-summary: Quantum-resistant encryption protecting long-term state secrets.
+summary: Quantum-resistant encryption safeguarding government communications and classified
+  data
 permalink: https://www.envisioning.com/polis/post-quantum-government-cryptography
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126818/polis
 
 ## Summary
 
-Quantum-resistant encryption protecting long-term state secrets.
+Quantum-resistant encryption safeguarding government communications and classified data
 
 ## Description
 

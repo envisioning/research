@@ -2,7 +2,7 @@
 slug: deepfake-detection
 hub: sentinel
 title: Deepfake Detection Platforms
-summary: AI systems analyzing media to identify synthetic or manipulated content.
+summary: AI systems that analyze media to identify synthetic or manipulated content
 permalink: https://www.envisioning.com/sentinel/deepfake-detection
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463922/senti
 
 ## Summary
 
-AI systems analyzing media to identify synthetic or manipulated content.
+AI systems that analyze media to identify synthetic or manipulated content
 
 ## Description
 

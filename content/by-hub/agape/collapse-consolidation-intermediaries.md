@@ -3,7 +3,6 @@ slug: collapse-consolidation-intermediaries
 hub: agape
 title: Collapse or Consolidation of Traditional Intermediaries
 summary: Collapse or consolidation of traditional intermediaries, as direct giving
-  and platform models disrupt traditional structures.
 permalink: https://www.envisioning.com/agape/collapse-consolidation-intermediaries
 collection: organizational-forms-ecosystems
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372343/agape
 
 ## Summary
 
-Collapse or consolidation of traditional intermediaries, as direct giving and platform models disrupt traditional structures.
+Collapse or consolidation of traditional intermediaries, as direct giving
 
 ## Description
 

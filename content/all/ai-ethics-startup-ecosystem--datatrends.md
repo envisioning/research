@@ -2,8 +2,8 @@
 slug: ai-ethics-startup-ecosystem
 hub: datatrends
 title: AI Ethics in Startup Ecosystems
-summary: The emergence of AI ethics as a competitive differentiator and essential
-  practice for AI startups building responsible technology.
+summary: Embedding ethical AI practices as competitive advantage and investor requirement
+  in startup development
 permalink: https://www.envisioning.com/datatrends/ai-ethics-startup-ecosystem
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768160280/datat
 
 ## Summary
 
-The emergence of AI ethics as a competitive differentiator and essential practice for AI startups building responsible technology.
+Embedding ethical AI practices as competitive advantage and investor requirement in startup development
 
 ## Description
 

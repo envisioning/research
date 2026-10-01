@@ -2,14 +2,13 @@
 slug: emotion-driven-conversational-ai
 hub: interface
 title: Emotion-Driven Conversational AI
-summary: Conversational AI framework that interprets conversations and emotions in
-  real-time, turning emotion and intent into next-best actions for customer support
-  automation.
+summary: AI that detects emotion in text and voice to personalize customer support
+  responses
 permalink: https://www.envisioning.com/interface/emotion-driven-conversational-ai
-collection: advanced-interaction-modalities
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730746/interface/technologies/emotion-driven-conversational-ai-google-gemini-3-pro-image-preview-htgawh.jpg
 ---
 
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765730746/inter
 
 ## Summary
 
-Conversational AI framework that interprets conversations and emotions in real-time, turning emotion and intent into next-best actions for customer support automation.
+AI that detects emotion in text and voice to personalize customer support responses
 
 ## Description
 

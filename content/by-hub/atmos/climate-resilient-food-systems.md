@@ -2,7 +2,8 @@
 slug: climate-resilient-food-systems
 hub: atmos
 title: Climate-Resilient Food Systems
-summary: Controlled environment agriculture and precision farming resilient to extremes.
+summary: Integrating controlled-environment agriculture, precision farming, and climate
+  analytics to secure food production under
 permalink: https://www.envisioning.com/atmos/climate-resilient-food-systems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998552/atmos
 
 ## Summary
 
-Controlled environment agriculture and precision farming resilient to extremes.
+Integrating controlled-environment agriculture, precision farming, and climate analytics to secure food production under
 
 ## Description
 

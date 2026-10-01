@@ -2,7 +2,8 @@
 slug: digital-afterlife-rights
 hub: soma
 title: Digital Afterlife Rights
-summary: Legal frameworks governing posthumous data, AI resurrection, and memorials.
+summary: Legal frameworks governing posthumous data usage, AI representations, and
+  digital legacies
 permalink: https://www.envisioning.com/soma/digital-afterlife-rights
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179304/soma/
 
 ## Summary
 
-Legal frameworks governing posthumous data, AI resurrection, and memorials.
+Legal frameworks governing posthumous data usage, AI representations, and digital legacies
 
 ## Description
 

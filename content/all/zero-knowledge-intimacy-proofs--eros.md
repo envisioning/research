@@ -2,7 +2,8 @@
 slug: zero-knowledge-intimacy-proofs
 hub: eros
 title: Zero-Knowledge Intimacy Proofs
-summary: Privacy-preserving verification of health, consent, and compatibility.
+summary: Cryptographic verification of health status or consent without revealing
+  personal details
 permalink: https://www.envisioning.com/eros/zero-knowledge-intimacy-proofs
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124023/eros/
 
 ## Summary
 
-Privacy-preserving verification of health, consent, and compatibility.
+Cryptographic verification of health status or consent without revealing personal details
 
 ## Description
 

@@ -2,13 +2,13 @@
 slug: ai-sleep-bots
 hub: interface
 title: AI Sleep Bots
-summary: AI-powered solutions for enhancing sleep health and addressing snoring issues,
-  including CES 2025 award-winning AI Mopill.
+summary: AI systems that monitor sleep patterns and intervene to reduce snoring and
+  improve rest quality
 permalink: https://www.envisioning.com/interface/ai-sleep-bots
-collection: wearables-health-sensing
+collection: applications
 trl: 7
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737538/interface/technologies/ai-sleep-bots-google-gemini-3-pro-image-preview-4zqbls.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737538/inter
 
 ## Summary
 
-AI-powered solutions for enhancing sleep health and addressing snoring issues, including CES 2025 award-winning AI Mopill.
+AI systems that monitor sleep patterns and intervene to reduce snoring and improve rest quality
 
 ## Description
 

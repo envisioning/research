@@ -2,7 +2,8 @@
 slug: death-care-environmental-monitoring
 hub: eclipse
 title: Death Care Environmental Monitoring
-summary: Real-time tracking of ecological impact of death practices.
+summary: Sensor networks tracking pollution and resource use from burials, cremation,
+  and funeral practices
 permalink: https://www.envisioning.com/eclipse/death-care-environmental-monitoring
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435364/eclip
 
 ## Summary
 
-Real-time tracking of ecological impact of death practices.
+Sensor networks tracking pollution and resource use from burials, cremation, and funeral practices
 
 ## Description
 

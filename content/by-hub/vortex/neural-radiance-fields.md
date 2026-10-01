@@ -2,7 +2,7 @@
 slug: neural-radiance-fields
 hub: vortex
 title: Neural Radiance Fields (NeRFs)
-summary: AI rendering for photorealistic 3D scene generation.
+summary: Neural networks that reconstruct photorealistic 3D scenes from 2D photos
 permalink: https://www.envisioning.com/vortex/neural-radiance-fields
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126626/vorte
 
 ## Summary
 
-AI rendering for photorealistic 3D scene generation.
+Neural networks that reconstruct photorealistic 3D scenes from 2D photos
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: ai-core-banking
 hub: vault
 title: AI-Native Core Banking Systems
-summary: Cloud-native, intelligent banking platforms.
+summary: Banking platforms built with AI at their core, replacing legacy infrastructure
 permalink: https://www.envisioning.com/vault/ai-core-banking
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128572/vault
 
 ## Summary
 
-Cloud-native, intelligent banking platforms.
+Banking platforms built with AI at their core, replacing legacy infrastructure
 
 ## Description
 

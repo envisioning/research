@@ -2,8 +2,8 @@
 slug: interoperable-data-fabrics
 hub: vitals
 title: Interoperable Data Fabrics
-summary: Unified data layers that connect disparate health systems to create a single,
-  longitudinal patient record.
+summary: Unified data layers connecting disparate health systems into a single longitudinal
+  patient record
 permalink: https://www.envisioning.com/vitals/interoperable-data-fabrics
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462075/vital
 
 ## Summary
 
-Unified data layers that connect disparate health systems to create a single, longitudinal patient record.
+Unified data layers connecting disparate health systems into a single longitudinal patient record
 
 ## Description
 

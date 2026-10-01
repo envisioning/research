@@ -2,9 +2,10 @@
 slug: integrated-autonomous-energy-grid
 hub: horizons
 title: Integrated Autonomous Energy Grid
-summary: Self-managing power grids optimizing renewable energy flows.
+summary: Self-managing power systems that balance renewable sources, storage, and
+  demand using AI
 permalink: https://www.envisioning.com/horizons/integrated-autonomous-energy-grid
-collection: intelligence-computation
+collection: hardware
 trl: 7
 impact: 4
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526762/horiz
 
 ## Summary
 
-Self-managing power grids optimizing renewable energy flows.
+Self-managing power systems that balance renewable sources, storage, and demand using AI
 
 ## Description
 

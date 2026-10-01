@@ -2,8 +2,8 @@
 slug: community-codesign-platforms
 hub: solace
 title: Community Co-Design Platforms
-summary: Digital platforms enabling residents to co-design public spaces, policies,
-  and services.
+summary: Digital platforms enabling residents to collaboratively shape public spaces,
+  policies, and local services
 permalink: https://www.envisioning.com/solace/community-codesign-platforms
 collection: applications
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436502/solac
 
 ## Summary
 
-Digital platforms enabling residents to co-design public spaces, policies, and services.
+Digital platforms enabling residents to collaboratively shape public spaces, policies, and local services
 
 ## Description
 

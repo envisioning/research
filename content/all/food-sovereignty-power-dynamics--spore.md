@@ -2,7 +2,8 @@
 slug: food-sovereignty-power-dynamics
 hub: spore
 title: Food Sovereignty & Power Dynamics
-summary: Preventing concentration of control within seed and synthetic biology platforms.
+summary: Preserving farmer and community control over seeds, genetics, and agricultural
+  decision-making
 permalink: https://www.envisioning.com/spore/food-sovereignty-power-dynamics
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095996/spore
 
 ## Summary
 
-Preventing concentration of control within seed and synthetic biology platforms.
+Preserving farmer and community control over seeds, genetics, and agricultural decision-making
 
 ## Description
 

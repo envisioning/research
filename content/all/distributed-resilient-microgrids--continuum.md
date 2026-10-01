@@ -2,7 +2,7 @@
 slug: distributed-resilient-microgrids
 hub: continuum
 title: Distributed Resilient Microgrids
-summary: Islandable local energy networks that self-heal during grid shocks.
+summary: Local power networks that disconnect and self-heal when the main grid fails
 permalink: https://www.envisioning.com/continuum/distributed-resilient-microgrids
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124983/conti
 
 ## Summary
 
-Islandable local energy networks that self-heal during grid shocks.
+Local power networks that disconnect and self-heal when the main grid fails
 
 ## Description
 

@@ -2,14 +2,13 @@
 slug: computer-vision-ai-for-msk-health
 hub: interface
 title: Computer Vision AI for MSK Health
-summary: Proprietary technology transforming ordinary webcams into biomechanics assessment
-  tools, enabling automated physiotherapy assessment without expensive equipment,
-  revolutionizing preventive care and reducing healthcare costs.
+summary: AI that turns webcams into movement analysis tools for physical therapy and
+  injury prevention
 permalink: https://www.envisioning.com/interface/computer-vision-ai-for-msk-health
-collection: wearables-health-sensing
+collection: applications
 trl: 5
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: null
 ---
 
@@ -17,7 +16,7 @@ image_url: null
 
 ## Summary
 
-Proprietary technology transforming ordinary webcams into biomechanics assessment tools, enabling automated physiotherapy assessment without expensive equipment, revolutionizing preventive care and reducing healthcare costs.
+AI that turns webcams into movement analysis tools for physical therapy and injury prevention
 
 ## Description
 

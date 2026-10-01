@@ -2,7 +2,7 @@
 slug: voice-driven-game-control
 hub: pixels
 title: Voice-Driven Game Control Systems
-summary: NLP command layers translating natural speech into in-game actions.
+summary: Natural-language interfaces that turn spoken commands into in-game actions
 permalink: https://www.envisioning.com/pixels/voice-driven-game-control
 collection: software
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062360/pixel
 
 ## Summary
 
-NLP command layers translating natural speech into in-game actions.
+Natural-language interfaces that turn spoken commands into in-game actions
 
 ## Description
 

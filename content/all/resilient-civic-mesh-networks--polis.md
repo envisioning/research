@@ -2,7 +2,8 @@
 slug: resilient-civic-mesh-networks
 hub: polis
 title: Resilient Civic Mesh Networks
-summary: Decentralized connectivity for critical services during infrastructure failures.
+summary: Self-healing networks that maintain local connectivity when centralized infrastructure
+  fails
 permalink: https://www.envisioning.com/polis/resilient-civic-mesh-networks
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441821/polis
 
 ## Summary
 
-Decentralized connectivity for critical services during infrastructure failures.
+Self-healing networks that maintain local connectivity when centralized infrastructure fails
 
 ## Description
 

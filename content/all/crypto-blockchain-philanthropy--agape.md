@@ -3,7 +3,6 @@ slug: crypto-blockchain-philanthropy
 hub: agape
 title: Cryptocurrency & Blockchain in Philanthropy
 summary: Emergence of crypto donations, smart contracts for giving, and blockchain-based
-  transparency in philanthropic flows.
 permalink: https://www.envisioning.com/agape/crypto-blockchain-philanthropy
 collection: capital-instruments-economic
 trl: 1
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367701/agape
 
 ## Summary
 
-Emergence of crypto donations, smart contracts for giving, and blockchain-based transparency in philanthropic flows.
+Emergence of crypto donations, smart contracts for giving, and blockchain-based
 
 ## Description
 

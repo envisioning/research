@@ -2,8 +2,8 @@
 slug: dynamic-consent-management
 hub: vitals
 title: Dynamic Consent & Data Governance
-summary: Fine-grained consent systems that adapt to evolving data uses and patient
-  preferences.
+summary: Adaptive patient consent systems that adjust permissions as healthcare data
+  uses evolve over time
 permalink: https://www.envisioning.com/vitals/dynamic-consent-management
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463971/vital
 
 ## Summary
 
-Fine-grained consent systems that adapt to evolving data uses and patient preferences.
+Adaptive patient consent systems that adjust permissions as healthcare data uses evolve over time
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: judicializacao-inadimplencia-ia
 hub: moradia
 title: Judicialização da Inadimplência Assistida por IA
-summary: Automação de cobranças, negociações e ações judiciais com scoring e priorização.
+summary: Algoritmos que classificam devedores e automatizam cobranças e ações judiciais
+  por inadimplência
 permalink: https://www.envisioning.com/moradia/judicializacao-inadimplencia-ia
 collection: plataformas-dados
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766537026/habit
 
 ## Summary
 
-Automação de cobranças, negociações e ações judiciais com scoring e priorização.
+Algoritmos que classificam devedores e automatizam cobranças e ações judiciais por inadimplência
 
 ## Description
 

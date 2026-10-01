@@ -2,7 +2,8 @@
 slug: directed-energy-systems
 hub: aegis
 title: Directed-Energy Systems
-summary: High-power solid-state lasers and compact microwave emitters.
+summary: Focused energy beams for missile defense, counter-drone operations, and disabling
+  electronics
 permalink: https://www.envisioning.com/aegis/directed-energy-systems
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990703/aegis
 
 ## Summary
 
-High-power solid-state lasers and compact microwave emitters.
+Focused energy beams for missile defense, counter-drone operations, and disabling electronics
 
 ## Description
 

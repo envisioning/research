@@ -2,21 +2,21 @@
 slug: russian-biocommunication-research
 hub: xenotech
 title: Biocommunication Research
-summary: Soviet-era parapsychological instrumentation studying biological electromagnetic
-  fields and non-local consciousness effects.
+summary: Soviet-era research programs investigating telepathy, remote influence, and
+  consciousness using electromagnetic instrume
 permalink: https://www.envisioning.com/xenotech/russian-biocommunication-research
 collection: biology-hybridization
 trl: 4
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760814516/xenotech/technologies/psi-amplifiers.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897314/xenotech/technologies/russian-biocommunication-research-openrouter-google-gemini-3.1-flash-image-preview-zumsze.png
 ---
 
 # Biocommunication Research
 
 ## Summary
 
-Soviet-era parapsychological instrumentation studying biological electromagnetic fields and non-local consciousness effects.
+Soviet-era research programs investigating telepathy, remote influence, and consciousness using electromagnetic instrume
 
 ## Description
 

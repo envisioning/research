@@ -2,22 +2,21 @@
 slug: nazca-metal-plaques
 hub: xenotech
 title: Nazca Mummies Metal Plaques
-summary: Reported metal implants embedded within Nazca mummy remains, allegedly containing
-  anomalous alloys with aluminum, tin, silver, copper, cadmium and osmium compositions
-  inconsistent with known pre-Columbian metallurgy.
+summary: Metal implants reportedly found in Nazca mummies, claimed to contain alloy
+  compositions unknown to pre-Columbian culture
 permalink: https://www.envisioning.com/xenotech/nazca-metal-plaques
 collection: materials-structures
 trl: 2
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761683038/xenotech/technologies/nazca-metal-plaques.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898967/xenotech/technologies/nazca-metal-plaques-openrouter-google-gemini-3.1-flash-image-preview-lct1sb.png
 ---
 
 # Nazca Mummies Metal Plaques
 
 ## Summary
 
-Reported metal implants embedded within Nazca mummy remains, allegedly containing anomalous alloys with aluminum, tin, silver, copper, cadmium and osmium compositions inconsistent with known pre-Columbian metallurgy.
+Metal implants reportedly found in Nazca mummies, claimed to contain alloy compositions unknown to pre-Columbian culture
 
 ## Description
 

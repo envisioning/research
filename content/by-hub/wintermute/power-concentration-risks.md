@@ -2,7 +2,8 @@
 slug: power-concentration-risks
 hub: wintermute
 title: Power Concentration & Autonomy Risks
-summary: Transparency requirements for synthetic decision-makers.
+summary: Frameworks for governing AI influence, preventing cognitive monopolies, and
+  ensuring decision transparency
 permalink: https://www.envisioning.com/wintermute/power-concentration-risks
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763986553/winte
 
 ## Summary
 
-Transparency requirements for synthetic decision-makers.
+Frameworks for governing AI influence, preventing cognitive monopolies, and ensuring decision transparency
 
 ## Description
 

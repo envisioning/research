@@ -2,21 +2,21 @@
 slug: chroniton-torpedo
 hub: subspace
 title: Chroniton Torpedo
-summary: Temporal weapon utilizing chroniton particles to phase through conventional
-  shields.
+summary: Weapon that uses hypothetical time particles to bypass shields by shifting
+  through temporal phases
 permalink: https://www.envisioning.com/subspace/chroniton-torpedo
 collection: weapons
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760274220/subspaceindex/technologies/chroniton-torpedo.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907641/subspace/technologies/chroniton-torpedo-openrouter-google-gemini-3.1-flash-image-preview-aa21l1.png
 ---
 
 # Chroniton Torpedo
 
 ## Summary
 
-Temporal weapon utilizing chroniton particles to phase through conventional shields.
+Weapon that uses hypothetical time particles to bypass shields by shifting through temporal phases
 
 ## Description
 

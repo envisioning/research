@@ -2,7 +2,8 @@
 slug: composable-value-layer-protocols
 hub: lattice
 title: Composable Value Layer Protocols
-summary: Account abstraction and modular settlement for programmable payments.
+summary: Modular blockchain layers enabling programmable payments across networks
+  through flexible accounts and intent routing
 permalink: https://www.envisioning.com/lattice/composable-value-layer-protocols
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990755/flows
 
 ## Summary
 
-Account abstraction and modular settlement for programmable payments.
+Modular blockchain layers enabling programmable payments across networks through flexible accounts and intent routing
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: parenting-copilot-platforms
 hub: cradle
 title: Parenting Copilot Platforms
-summary: AI-augmented guidance for new caregivers.
+summary: AI assistants offering personalized guidance for early childhood care and
+  development
 permalink: https://www.envisioning.com/cradle/parenting-copilot-platforms
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131035/cradl
 
 ## Summary
 
-AI-augmented guidance for new caregivers.
+AI assistants offering personalized guidance for early childhood care and development
 
 ## Description
 

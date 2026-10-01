@@ -2,7 +2,8 @@
 slug: cross-border-eid
 hub: sentinel
 title: Cross-Border eID Schemes
-summary: Interoperable electronic identity systems spanning countries and regions.
+summary: Electronic identity systems that work across national borders through technical
+  and legal frameworks
 permalink: https://www.envisioning.com/sentinel/cross-border-eid
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461956/senti
 
 ## Summary
 
-Interoperable electronic identity systems spanning countries and regions.
+Electronic identity systems that work across national borders through technical and legal frameworks
 
 ## Description
 

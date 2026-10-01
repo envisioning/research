@@ -2,7 +2,8 @@
 slug: biodynamic-lighting-systems
 hub: solace
 title: Biodynamic Lighting Systems
-summary: Intelligent lighting that mimics natural daylight to support circadian rhythms.
+summary: Lighting that shifts color and intensity throughout the day to align with
+  natural circadian rhythms
 permalink: https://www.envisioning.com/solace/biodynamic-lighting-systems
 collection: hardware
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132923/solac
 
 ## Summary
 
-Intelligent lighting that mimics natural daylight to support circadian rhythms.
+Lighting that shifts color and intensity throughout the day to align with natural circadian rhythms
 
 ## Description
 

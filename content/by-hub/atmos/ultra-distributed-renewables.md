@@ -2,7 +2,8 @@
 slug: ultra-distributed-renewables
 hub: atmos
 title: Ultra-Distributed Renewables
-summary: Building-integrated PV and plug-and-play community microgrids.
+summary: Turning rooftops, facades, and appliances into networked power sources with
+  building-integrated solar and plug-and-play
 permalink: https://www.envisioning.com/atmos/ultra-distributed-renewables
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996149/atmos
 
 ## Summary
 
-Building-integrated PV and plug-and-play community microgrids.
+Turning rooftops, facades, and appliances into networked power sources with building-integrated solar and plug-and-play
 
 ## Description
 

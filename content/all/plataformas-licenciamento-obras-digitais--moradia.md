@@ -2,8 +2,8 @@
 slug: plataformas-licenciamento-obras-digitais
 hub: moradia
 title: Plataformas de Licenciamento e Fiscalização
-summary: Sistemas online para aprovar projetos, emitir alvarás e rastrear intervenções
-  em vias.
+summary: Sistemas digitais que centralizam aprovação de obras, emissão de alvarás
+  e fiscalização urbana
 permalink: https://www.envisioning.com/moradia/plataformas-licenciamento-obras-digitais
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360200/conec
 
 ## Summary
 
-Sistemas online para aprovar projetos, emitir alvarás e rastrear intervenções em vias.
+Sistemas digitais que centralizam aprovação de obras, emissão de alvarás e fiscalização urbana
 
 ## Description
 

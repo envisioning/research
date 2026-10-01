@@ -2,7 +2,8 @@
 slug: indian-small-launch-vehicles
 hub: apogee
 title: Indian Small Launch Vehicles
-summary: PSLV/SSLV programs providing cost-effective access for smallsats.
+summary: Cost-effective launch systems optimized for small satellites and polar orbit
+  access
 permalink: https://www.envisioning.com/apogee/indian-small-launch-vehicles
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764145097/apoge
 
 ## Summary
 
-PSLV/SSLV programs providing cost-effective access for smallsats.
+Cost-effective launch systems optimized for small satellites and polar orbit access
 
 ## Description
 

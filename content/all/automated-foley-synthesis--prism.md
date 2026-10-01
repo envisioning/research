@@ -2,7 +2,7 @@
 slug: automated-foley-synthesis
 hub: prism
 title: Automated Foley Synthesis
-summary: AI models generating frame-perfect sound effects from video pixel data.
+summary: AI-generated sound effects synchronized frame-by-frame to video content
 permalink: https://www.envisioning.com/prism/automated-foley-synthesis
 collection: software
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074568/pulse
 
 ## Summary
 
-AI models generating frame-perfect sound effects from video pixel data.
+AI-generated sound effects synchronized frame-by-frame to video content
 
 ## Description
 

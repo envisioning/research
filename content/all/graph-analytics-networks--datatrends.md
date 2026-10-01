@@ -2,8 +2,8 @@
 slug: graph-analytics-networks
 hub: datatrends
 title: Graph Analytics for Network Analysis
-summary: Analyzing relationships and networks in social media, supply chains, fraud
-  detection, and knowledge graphs.
+summary: Analyzing relationships and connections between entities in networks like
+  social media, supply chains, and fraud detecti
 permalink: https://www.envisioning.com/datatrends/graph-analytics-networks
 collection: decision-intelligence-ai
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958554/datat
 
 ## Summary
 
-Analyzing relationships and networks in social media, supply chains, fraud detection, and knowledge graphs.
+Analyzing relationships and connections between entities in networks like social media, supply chains, and fraud detecti
 
 ## Description
 

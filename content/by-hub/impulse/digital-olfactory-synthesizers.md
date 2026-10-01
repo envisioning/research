@@ -2,7 +2,7 @@
 slug: digital-olfactory-synthesizers
 hub: impulse
 title: Digital Olfactory Synthesizers
-summary: Devices generating precise scent combinations.
+summary: Devices that blend scent compounds on demand to create custom odor profiles
 permalink: https://www.envisioning.com/impulse/digital-olfactory-synthesizers
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133434/impul
 
 ## Summary
 
-Devices generating precise scent combinations.
+Devices that blend scent compounds on demand to create custom odor profiles
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: genomic-microbial-design-platforms
 hub: spore
 title: Genomic & Microbial Design Platforms
-summary: Generative models for engineering symbiotic microbes and AI-guided crop breeding.
+summary: AI-driven platforms that engineer crop genomes and symbiotic microbes for
+  resilience and yield
 permalink: https://www.envisioning.com/spore/genomic-microbial-design-platforms
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179613/spore
 
 ## Summary
 
-Generative models for engineering symbiotic microbes and AI-guided crop breeding.
+AI-driven platforms that engineer crop genomes and symbiotic microbes for resilience and yield
 
 ## Description
 

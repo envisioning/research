@@ -2,7 +2,8 @@
 slug: stratospheric-aerosol-injection
 hub: continuum
 title: Stratospheric Aerosol Injection
-summary: High-altitude platforms for solar radiation management.
+summary: Dispersing reflective aerosols in the stratosphere to reduce incoming solar
+  radiation
 permalink: https://www.envisioning.com/continuum/stratospheric-aerosol-injection
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124029/conti
 
 ## Summary
 
-High-altitude platforms for solar radiation management.
+Dispersing reflective aerosols in the stratosphere to reduce incoming solar radiation
 
 ## Description
 

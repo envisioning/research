@@ -2,21 +2,21 @@
 slug: element-115-power-system
 hub: xenotech
 title: Element 115 Power Source
-summary: Alleged primary power source of alien craft using controlled decay of Element
-  115 to generate self-sustaining gravitational fields for propulsion and energy.
+summary: Claimed alien energy system using Element 115 decay to generate gravity-based
+  propulsion and power
 permalink: https://www.envisioning.com/xenotech/element-115-power-system
 collection: energy-systems
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762026339/xenotech/technologies/element-115-power-system-openai-gpt-5-9fro2w.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898205/xenotech/technologies/element-115-power-system-openrouter-google-gemini-3.1-flash-image-preview-ks03ro.png
 ---
 
 # Element 115 Power Source
 
 ## Summary
 
-Alleged primary power source of alien craft using controlled decay of Element 115 to generate self-sustaining gravitational fields for propulsion and energy.
+Claimed alien energy system using Element 115 decay to generate gravity-based propulsion and power
 
 ## Description
 

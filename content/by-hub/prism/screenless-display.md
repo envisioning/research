@@ -2,19 +2,21 @@
 slug: screenless-display
 hub: prism
 title: Screenless Display
-summary: Virtual retinal display, bionic contact lens, augmented reality without traditional screens.
+summary: Projecting images directly onto the retina or into space without physical
+  screens
 permalink: https://www.envisioning.com/prism/screenless-display
 collection: hardware
 trl: 5
 impact: 5
 investment: 4
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889768/prism/technologies/8cec58c7-557b-4aa8-bbc1-aeaf88a9e4fe-google-gemini-3.1-flash-image-preview-e6tehw.jpg
 ---
 
 # Screenless Display
 
 ## Summary
 
-Virtual retinal display, bionic contact lens, augmented reality without traditional screens.
+Projecting images directly onto the retina or into space without physical screens
 
 ## Description
 

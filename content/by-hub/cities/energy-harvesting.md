@@ -2,16 +2,10 @@
 slug: energy-harvesting
 hub: cities
 title: Energy Harvesting
-summary: This solution addresses the problem of reliance on finite energy sources
-  like batteries and external power supplies. The aim is to capture ambient energy
-  from sources such as solar radiation, thermal gradients, vibrations, and radiofrequency
-  waves, converting them into usable electrical power. Doing so enables devices to
-  operate autonomously, often for their entire lifespan, without the need for external
-  power or frequent battery replacements. By integrating energy harvesting devices
-  into urban infrastructure, cities can power smart sensors, public lighting, and
-  transportation systems, enhancing sustainability and resilience.
+summary: Capturing ambient energy from solar, thermal, vibration, and RF sources to
+  power urban devices autonomously
 permalink: https://www.envisioning.com/cities/energy-harvesting
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 6
 impact: 2
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792742-energy-harvesting.pn
 
 ## Summary
 
-This solution addresses the problem of reliance on finite energy sources like batteries and external power supplies. The aim is to capture ambient energy from sources such as solar radiation, thermal gradients, vibrations, and radiofrequency waves, converting them into usable electrical power. Doing so enables devices to operate autonomously, often for their entire lifespan, without the need for external power or frequent battery replacements. By integrating energy harvesting devices into urban infrastructure, cities can power smart sensors, public lighting, and transportation systems, enhancing sustainability and resilience.
+Capturing ambient energy from solar, thermal, vibration, and RF sources to power urban devices autonomously
 
 ## Description
 

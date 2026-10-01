@@ -2,7 +2,8 @@
 slug: plant-based-meat-alternatives
 hub: spore
 title: Plant-Based Meat Alternatives
-summary: Extruded proteins with heme analogs for mainstream adoption.
+summary: Plant proteins processed to replicate the taste, texture, and nutrition of
+  animal meat
 permalink: https://www.envisioning.com/spore/plant-based-meat-alternatives
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096087/spore
 
 ## Summary
 
-Extruded proteins with heme analogs for mainstream adoption.
+Plant proteins processed to replicate the taste, texture, and nutrition of animal meat
 
 ## Description
 

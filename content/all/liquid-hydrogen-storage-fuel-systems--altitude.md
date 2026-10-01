@@ -2,7 +2,7 @@
 slug: liquid-hydrogen-storage-fuel-systems
 hub: altitude
 title: Liquid Hydrogen Storage & Fuel Systems
-summary: Cryogenic tanks, insulation, and fuel handling for hydrogen-powered aircraft.
+summary: Cryogenic tanks and fuel handling systems enabling hydrogen-powered aircraft
 permalink: https://www.envisioning.com/altitude/liquid-hydrogen-storage-fuel-systems
 collection: hardware
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641622/altit
 
 ## Summary
 
-Cryogenic tanks, insulation, and fuel handling for hydrogen-powered aircraft.
+Cryogenic tanks and fuel handling systems enabling hydrogen-powered aircraft
 
 ## Description
 

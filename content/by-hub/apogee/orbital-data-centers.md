@@ -2,7 +2,8 @@
 slug: orbital-data-centers
 hub: apogee
 title: Orbital Data Centers
-summary: Microgravity computing platforms leveraging passive cooling.
+summary: Space-based computing facilities using vacuum conditions for passive thermal
+  management
 permalink: https://www.envisioning.com/apogee/orbital-data-centers
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180899/apoge
 
 ## Summary
 
-Microgravity computing platforms leveraging passive cooling.
+Space-based computing facilities using vacuum conditions for passive thermal management
 
 ## Description
 

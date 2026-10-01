@@ -2,7 +2,8 @@
 slug: concessoes-ppps-saneamento
 hub: moradia
 title: Concessões e PPPs no Saneamento
-summary: Reorganização de investimentos e operação para universalização e eficiência.
+summary: Transferência da operação de água e esgoto para empresas privadas via contratos
+  de longo prazo
 permalink: https://www.envisioning.com/moradia/concessoes-ppps-saneamento
 collection: modelos-mercado-governanca
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584875/habit
 
 ## Summary
 
-Reorganização de investimentos e operação para universalização e eficiência.
+Transferência da operação de água e esgoto para empresas privadas via contratos de longo prazo
 
 ## Description
 

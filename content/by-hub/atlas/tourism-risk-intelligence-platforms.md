@@ -2,8 +2,8 @@
 slug: tourism-risk-intelligence-platforms
 hub: atlas
 title: Tourism Risk Intelligence Platforms
-summary: Geospatial analytics aggregating health, climate, and geopolitical risk for
-  travelers.
+summary: Geospatial analytics aggregating health, climate, and geopolitical data to
+  assess travel risks
 permalink: https://www.envisioning.com/atlas/tourism-risk-intelligence-platforms
 collection: software
 trl: 7
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123980/atlas
 
 ## Summary
 
-Geospatial analytics aggregating health, climate, and geopolitical risk for travelers.
+Geospatial analytics aggregating health, climate, and geopolitical data to assess travel risks
 
 ## Description
 

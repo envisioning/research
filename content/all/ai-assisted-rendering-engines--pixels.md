@@ -2,8 +2,8 @@
 slug: ai-assisted-rendering-engines
 hub: pixels
 title: AI-Assisted Rendering Engines for 3D Production
-summary: AI is transforming the rendering process in 3D production by optimizing workloads
-  and enhancing creative workflows across multiple rendering engines.
+summary: Machine learning models that accelerate 3D rendering by denoising, optimizing
+  light calculations, and reducing render ti
 permalink: https://www.envisioning.com/pixels/ai-assisted-rendering-engines
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764408372/pixel
 
 ## Summary
 
-AI is transforming the rendering process in 3D production by optimizing workloads and enhancing creative workflows across multiple rendering engines.
+Machine learning models that accelerate 3D rendering by denoising, optimizing light calculations, and reducing render ti
 
 ## Description
 

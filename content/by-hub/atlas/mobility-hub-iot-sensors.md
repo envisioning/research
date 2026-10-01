@@ -2,7 +2,8 @@
 slug: mobility-hub-iot-sensors
 hub: atlas
 title: Mobility Hub IoT Sensors
-summary: Dense sensor networks embedded in airports, stations, and ports.
+summary: Interconnected devices tracking passenger flow, air quality, and operations
+  across transport facilities
 permalink: https://www.envisioning.com/atlas/mobility-hub-iot-sensors
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125586/atlas
 
 ## Summary
 
-Dense sensor networks embedded in airports, stations, and ports.
+Interconnected devices tracking passenger flow, air quality, and operations across transport facilities
 
 ## Description
 

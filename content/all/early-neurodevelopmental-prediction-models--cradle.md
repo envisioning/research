@@ -2,7 +2,8 @@
 slug: early-neurodevelopmental-prediction-models
 hub: cradle
 title: Early Neurodevelopmental Prediction Models
-summary: Forecasting cognitive and motor outcomes from neonatal data.
+summary: AI models that forecast developmental risks using neonatal brain scans, biosignals,
+  and movement data
 permalink: https://www.envisioning.com/cradle/early-neurodevelopmental-prediction-models
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129238/cradl
 
 ## Summary
 
-Forecasting cognitive and motor outcomes from neonatal data.
+AI models that forecast developmental risks using neonatal brain scans, biosignals, and movement data
 
 ## Description
 

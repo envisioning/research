@@ -2,22 +2,21 @@
 slug: casimir-techniques
 hub: xenotech
 title: Casimir Techniques
-summary: Precision-engineered metallic cavities exploiting quantum vacuum fluctuations
-  to generate measurable forces, with applications in micro-actuators, propulsion,
-  and energy extraction research.
+summary: Engineered metallic cavities that harness quantum vacuum forces for micro-actuators
+  and propulsion research
 permalink: https://www.envisioning.com/xenotech/casimir-techniques
 collection: propulsion-physics
 trl: 3
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655023/xenotech/technologies/zero-point-energy.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897761/xenotech/technologies/casimir-techniques-openrouter-google-gemini-3.1-flash-image-preview-ke51yb.png
 ---
 
 # Casimir Techniques
 
 ## Summary
 
-Precision-engineered metallic cavities exploiting quantum vacuum fluctuations to generate measurable forces, with applications in micro-actuators, propulsion, and energy extraction research.
+Engineered metallic cavities that harness quantum vacuum forces for micro-actuators and propulsion research
 
 ## Description
 

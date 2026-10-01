@@ -2,22 +2,21 @@
 slug: exotic-isotope-power-cells-stable-isotope-reactors
 hub: xenotech
 title: Isotope Power
-summary: Long-life micro-reactors using unknown isotope decay channels with efficiency
-  orders of magnitude beyond fission, based on Trinity case materials and Vallée-Nolan
-  analysis.
+summary: Micro-reactors using anomalous isotope decay channels for long-duration energy
+  generation
 permalink: https://www.envisioning.com/xenotech/exotic-isotope-power-cells-stable-isotope-reactors
 collection: materials-structures
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761403784/xenotech/technologies/exotic-isotope-power-cells-stable-isotope-reactors.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898526/xenotech/technologies/exotic-isotope-power-cells-stable-isotope-reactors-openrouter-google-gemini-3.1-flash-image-preview-18xl2n.png
 ---
 
 # Isotope Power
 
 ## Summary
 
-Long-life micro-reactors using unknown isotope decay channels with efficiency orders of magnitude beyond fission, based on Trinity case materials and Vallée-Nolan analysis.
+Micro-reactors using anomalous isotope decay channels for long-duration energy generation
 
 ## Description
 

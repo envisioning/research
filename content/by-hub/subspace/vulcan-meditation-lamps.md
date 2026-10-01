@@ -2,21 +2,21 @@
 slug: vulcan-meditation-lamps
 hub: subspace
 title: Vulcan Meditation Lamps
-summary: Meditation aids using harmonic light and sound frequencies to facilitate
-  deep mental focus.
+summary: Ceremonial devices using calibrated light and subsonic tones to support deep
+  meditation practice
 permalink: https://www.envisioning.com/subspace/vulcan-meditation-lamps
 collection: biotechnology
 trl: 9
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760268343/subspaceindex/technologies/vulcan-meditation-lamps.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772910101/subspace/technologies/vulcan-meditation-lamps-openrouter-google-gemini-3.1-flash-image-preview-m53n07.png
 ---
 
 # Vulcan Meditation Lamps
 
 ## Summary
 
-Meditation aids using harmonic light and sound frequencies to facilitate deep mental focus.
+Ceremonial devices using calibrated light and subsonic tones to support deep meditation practice
 
 ## Description
 

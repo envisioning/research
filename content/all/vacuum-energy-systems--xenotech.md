@@ -2,22 +2,21 @@
 slug: vacuum-energy-systems
 hub: xenotech
 title: Vacuum Energy Systems
-summary: Over-unity energy converters claiming to extract net energy from quantum
-  vacuum fluctuations through electromagnetic resonance, electrolytic processes, and
-  unconventional energy conversion mechanisms.
+summary: Devices claiming to extract usable energy from quantum vacuum fluctuations
+  or electromagnetic resonance
 permalink: https://www.envisioning.com/xenotech/vacuum-energy-systems
 collection: propulsion-physics
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761681982/xenotech/technologies/vacuum-energy-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903440/xenotech/technologies/vacuum-energy-systems-openrouter-google-gemini-3.1-flash-image-preview-uskk2n.png
 ---
 
 # Vacuum Energy Systems
 
 ## Summary
 
-Over-unity energy converters claiming to extract net energy from quantum vacuum fluctuations through electromagnetic resonance, electrolytic processes, and unconventional energy conversion mechanisms.
+Devices claiming to extract usable energy from quantum vacuum fluctuations or electromagnetic resonance
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: phaser-rifle
 hub: subspace
 title: Compression Phaser Rifle
-summary: Infantry-scale phaser with extended range and variable settings.
+summary: Shoulder-fired directed-energy weapon with adjustable intensity and extended
+  effective range
 permalink: https://www.envisioning.com/subspace/phaser-rifle
 collection: weapons
 trl: 6
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760261455/subspaceindex/technologies/phaser-rifle.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907705/subspace/technologies/phaser-rifle-openrouter-google-gemini-3.1-flash-image-preview-98aoyb.png
 ---
 
 # Compression Phaser Rifle
 
 ## Summary
 
-Infantry-scale phaser with extended range and variable settings.
+Shoulder-fired directed-energy weapon with adjustable intensity and extended effective range
 
 ## Description
 

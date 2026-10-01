@@ -2,15 +2,10 @@
 slug: integrated-public-alert-and-warning-system
 hub: cities
 title: Integrated Public Alert and Warning System
-summary: 'A comprehensive communication system that provides timely and effective
-  dissemination of emergency information. IPAWS integrates multiple communication
-  channels, including mobile phones, radio, television, and internet platforms, to
-  ensure that emergency alerts reach a broad audience swiftly and reliably. The system
-  addresses the shortcomings of traditional alert methods by providing real-time,
-  authenticated information about imminent threats such as natural disasters, public
-  safety emergencies, and health crises. '
+summary: Multi-channel emergency alert system delivering real-time warnings across
+  mobile, broadcast, and internet platforms
 permalink: https://www.envisioning.com/cities/integrated-public-alert-and-warning-system
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: applications
 trl: 9
 impact: 3
 investment: 3
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719405970-integrated-public-al
 
 ## Summary
 
-A comprehensive communication system that provides timely and effective dissemination of emergency information. IPAWS integrates multiple communication channels, including mobile phones, radio, television, and internet platforms, to ensure that emergency alerts reach a broad audience swiftly and reliably. The system addresses the shortcomings of traditional alert methods by providing real-time, authenticated information about imminent threats such as natural disasters, public safety emergencies, and health crises.
+Multi-channel emergency alert system delivering real-time warnings across mobile, broadcast, and internet platforms
 
 ## Description
 

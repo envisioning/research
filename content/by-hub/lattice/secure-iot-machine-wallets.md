@@ -2,7 +2,8 @@
 slug: secure-iot-machine-wallets
 hub: lattice
 title: Secure IoT & Machine Wallets
-summary: Edge devices with embedded identities for autonomous machine transactions.
+summary: Edge devices with cryptographic identities that transact and record data
+  autonomously on blockchains
 permalink: https://www.envisioning.com/lattice/secure-iot-machine-wallets
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990451/flows
 
 ## Summary
 
-Edge devices with embedded identities for autonomous machine transactions.
+Edge devices with cryptographic identities that transact and record data autonomously on blockchains
 
 ## Description
 

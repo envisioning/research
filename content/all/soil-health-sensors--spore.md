@@ -2,8 +2,8 @@
 slug: soil-health-sensors
 hub: spore
 title: Soil Health Sensors & Microbiome Monitors
-summary: In-situ probes providing real-time data on microbial diversity and soil carbon
-  dynamics.
+summary: Real-time probes tracking microbial activity, carbon flux, and nutrient cycles
+  in agricultural soil
 permalink: https://www.envisioning.com/spore/soil-health-sensors
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764096031/spore
 
 ## Summary
 
-In-situ probes providing real-time data on microbial diversity and soil carbon dynamics.
+Real-time probes tracking microbial activity, carbon flux, and nutrient cycles in agricultural soil
 
 ## Description
 

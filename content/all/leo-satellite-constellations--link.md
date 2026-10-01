@@ -2,7 +2,8 @@
 slug: leo-satellite-constellations
 hub: link
 title: LEO Satellite Constellations
-summary: Swarm-like low-Earth orbit satellites for global broadband coverage.
+summary: Networks of low-orbit satellites delivering high-speed internet to underserved
+  and remote areas
 permalink: https://www.envisioning.com/link/leo-satellite-constellations
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182490/link/
 
 ## Summary
 
-Swarm-like low-Earth orbit satellites for global broadband coverage.
+Networks of low-orbit satellites delivering high-speed internet to underserved and remote areas
 
 ## Description
 

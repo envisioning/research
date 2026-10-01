@@ -2,8 +2,8 @@
 slug: trapped-ion-processors
 hub: superposition
 title: Trapped-Ion Quantum Processors
-summary: High-fidelity qubits using ions confined by electromagnetic fields, known
-  for long coherence times.
+summary: Quantum processors using electromagnetically trapped ions for high-precision,
+  stable qubits
 permalink: https://www.envisioning.com/superposition/trapped-ion-processors
 collection: hardware
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069265/super
 
 ## Summary
 
-High-fidelity qubits using ions confined by electromagnetic fields, known for long coherence times.
+Quantum processors using electromagnetically trapped ions for high-precision, stable qubits
 
 ## Description
 

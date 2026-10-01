@@ -2,7 +2,8 @@
 slug: small-modular-reactors
 hub: substrate
 title: Small Modular Reactors (SMRs)
-summary: Factory-built nuclear reactors with simplified designs and enhanced safety.
+summary: Factory-built nuclear reactors designed for modular deployment and scalable
+  power generation
 permalink: https://www.envisioning.com/substrate/small-modular-reactors
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117640/subst
 
 ## Summary
 
-Factory-built nuclear reactors with simplified designs and enhanced safety.
+Factory-built nuclear reactors designed for modular deployment and scalable power generation
 
 ## Description
 

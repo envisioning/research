@@ -2,7 +2,8 @@
 slug: worker-safety-monitoring-systems
 hub: quadrant
 title: Worker Safety Monitoring Systems
-summary: Real-time sensing to prevent injuries and unsafe conditions.
+summary: Real-time sensors and computer vision that detect workplace hazards and unsafe
+  worker behavior
 permalink: https://www.envisioning.com/quadrant/worker-safety-monitoring-systems
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123986/quadr
 
 ## Summary
 
-Real-time sensing to prevent injuries and unsafe conditions.
+Real-time sensors and computer vision that detect workplace hazards and unsafe worker behavior
 
 ## Description
 

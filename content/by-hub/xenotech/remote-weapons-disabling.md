@@ -2,22 +2,21 @@
 slug: remote-weapons-disabling
 hub: xenotech
 title: Remote Weapons System Disabling
-summary: Reported UAP capability to remotely disable conventional weapons, aircraft
-  avionics, radar systems, and military electronics—including fighter jet weapon lockouts
-  and targeting system failures during encounters.
+summary: Reported UAP capability to remotely disable aircraft avionics, weapons systems,
+  and military electronics during encounte
 permalink: https://www.envisioning.com/xenotech/remote-weapons-disabling
 collection: defense-surveillance
 trl: 5
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762002821/xenotech/technologies/remote-weapons-disabling-openai-gpt-5-r8bp8m.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902926/xenotech/technologies/remote-weapons-disabling-openrouter-google-gemini-3.1-flash-image-preview-9wnmu3.png
 ---
 
 # Remote Weapons System Disabling
 
 ## Summary
 
-Reported UAP capability to remotely disable conventional weapons, aircraft avionics, radar systems, and military electronics—including fighter jet weapon lockouts and targeting system failures during encounters.
+Reported UAP capability to remotely disable aircraft avionics, weapons systems, and military electronics during encounte
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: accessible-tourism-assistants
 hub: atlas
 title: Accessible Tourism Assistants
-summary: AI-powered tools ensuring inclusive travel for people with disabilities.
+summary: AI tools that personalize travel planning and navigation for travelers with
+  disabilities
 permalink: https://www.envisioning.com/atlas/accessible-tourism-assistants
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123811/atlas
 
 ## Summary
 
-AI-powered tools ensuring inclusive travel for people with disabilities.
+AI tools that personalize travel planning and navigation for travelers with disabilities
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: cognitive-sensory-enhancement
 hub: aura
 title: Cognitive & Sensory Enhancement
-summary: Mood-adjustive fragrances and neurocosmetics.
+summary: Fragrances and skincare formulated to influence mood, focus, and stress while
+  treating skin
 permalink: https://www.envisioning.com/aura/cognitive-sensory-enhancement
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996172/aura/
 
 ## Summary
 
-Mood-adjustive fragrances and neurocosmetics.
+Fragrances and skincare formulated to influence mood, focus, and stress while treating skin
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: data-product-thinking
 hub: datatrends
 title: Data Product Thinking
-summary: Treating data assets as products with clear ownership, documentation, and
-  service levels, improving data discoverability and usability.
+summary: Applying product management principles to data assets with ownership, SLAs,
+  and user feedback
 permalink: https://www.envisioning.com/datatrends/data-product-thinking
 collection: valuation-productization
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593475/datat
 
 ## Summary
 
-Treating data assets as products with clear ownership, documentation, and service levels, improving data discoverability and usability.
+Applying product management principles to data assets with ownership, SLAs, and user feedback
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: infraestrutura-5g-edificios-governanca
 hub: moradia
 title: Infraestrutura 5G em Edifícios e Governança
-summary: Instalação de antenas 5G em edifícios para monetização e cobertura, incluindo
-  questões de saúde, regulação e governança predial.
+summary: Instalação de antenas 5G em edifícios para monetização de espaço e cobertura
+  de rede
 permalink: https://www.envisioning.com/moradia/infraestrutura-5g-edificios-governanca
 collection: cidade-infraestrutura-urbana
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359953/habit
 
 ## Summary
 
-Instalação de antenas 5G em edifícios para monetização e cobertura, incluindo questões de saúde, regulação e governança predial.
+Instalação de antenas 5G em edifícios para monetização de espaço e cobertura de rede
 
 ## Description
 

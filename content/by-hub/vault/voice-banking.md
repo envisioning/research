@@ -2,7 +2,8 @@
 slug: voice-banking
 hub: vault
 title: Voice & Conversational Banking
-summary: AI-powered voice interfaces for financial services.
+summary: Natural language interfaces enabling banking transactions through voice commands
+  or chat
 permalink: https://www.envisioning.com/vault/voice-banking
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129150/vault
 
 ## Summary
 
-AI-powered voice interfaces for financial services.
+Natural language interfaces enabling banking transactions through voice commands or chat
 
 ## Description
 

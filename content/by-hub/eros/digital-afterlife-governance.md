@@ -2,7 +2,8 @@
 slug: digital-afterlife-governance
 hub: eros
 title: Digital Afterlife Governance
-summary: Legal and ethical frameworks for posthumous data, avatars, and grief technologies.
+summary: Legal and ethical frameworks for managing posthumous data, digital avatars,
+  and AI representations
 permalink: https://www.envisioning.com/eros/digital-afterlife-governance
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124204/eros/
 
 ## Summary
 
-Legal and ethical frameworks for posthumous data, avatars, and grief technologies.
+Legal and ethical frameworks for managing posthumous data, digital avatars, and AI representations
 
 ## Description
 

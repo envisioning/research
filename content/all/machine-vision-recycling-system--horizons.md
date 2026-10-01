@@ -2,9 +2,10 @@
 slug: machine-vision-recycling-system
 hub: horizons
 title: Machine Vision Recycling System
-summary: AI and robotics automating waste sorting and material recovery.
+summary: AI-powered cameras and robotics that identify and sort recyclables from waste
+  streams
 permalink: https://www.envisioning.com/horizons/machine-vision-recycling-system
-collection: energy-environment
+collection: hardware
 trl: 6
 impact: 3
 investment: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526744/horiz
 
 ## Summary
 
-AI and robotics automating waste sorting and material recovery.
+AI-powered cameras and robotics that identify and sort recyclables from waste streams
 
 ## Description
 

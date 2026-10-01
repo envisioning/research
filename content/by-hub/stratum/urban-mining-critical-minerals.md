@@ -2,7 +2,8 @@
 slug: urban-mining-critical-minerals
 hub: stratum
 title: Urban Mining for Critical Minerals
-summary: Industrial-scale recovery of metals from end-of-life products and waste streams.
+summary: Recovering critical metals from electronic waste and industrial scrap at
+  industrial scale
 permalink: https://www.envisioning.com/stratum/urban-mining-critical-minerals
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178074/strat
 
 ## Summary
 
-Industrial-scale recovery of metals from end-of-life products and waste streams.
+Recovering critical metals from electronic waste and industrial scrap at industrial scale
 
 ## Description
 

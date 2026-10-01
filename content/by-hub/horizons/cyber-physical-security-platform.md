@@ -2,9 +2,10 @@
 slug: cyber-physical-security-platform
 hub: horizons
 title: Cyber-Physical Security Platform
-summary: Integrated protection for connected physical systems.
+summary: Unified threat detection and response across digital networks and physical
+  control systems
 permalink: https://www.envisioning.com/horizons/cyber-physical-security-platform
-collection: cities-mobility
+collection: ethics-security
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526656/horiz
 
 ## Summary
 
-Integrated protection for connected physical systems.
+Unified threat detection and response across digital networks and physical control systems
 
 ## Description
 

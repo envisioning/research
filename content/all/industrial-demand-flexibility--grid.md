@@ -2,7 +2,8 @@
 slug: industrial-demand-flexibility
 hub: grid
 title: Industrial Demand Flexibility
-summary: Coordinating energy-intensive industrial loads to provide grid services.
+summary: Energy-intensive facilities adjust power use in real time to stabilize the
+  grid and reduce costs
 permalink: https://www.envisioning.com/grid/industrial-demand-flexibility
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435933/grid/
 
 ## Summary
 
-Coordinating energy-intensive industrial loads to provide grid services.
+Energy-intensive facilities adjust power use in real time to stabilize the grid and reduce costs
 
 ## Description
 

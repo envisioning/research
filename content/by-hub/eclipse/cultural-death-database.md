@@ -2,7 +2,8 @@
 slug: cultural-death-database
 hub: eclipse
 title: Cultural Death Practice Database
-summary: Global repository of death rituals, customs, and protocols.
+summary: Open repository documenting death rituals, mourning customs, and memorial
+  practices across global cultures
 permalink: https://www.envisioning.com/eclipse/cultural-death-database
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126909/eclip
 
 ## Summary
 
-Global repository of death rituals, customs, and protocols.
+Open repository documenting death rituals, mourning customs, and memorial practices across global cultures
 
 ## Description
 

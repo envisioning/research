@@ -2,9 +2,8 @@
 slug: solucoes-informais-padroes-de-fato
 hub: moradia
 title: Soluções Informais Tornando-se Padrões de Fato
-summary: Práticas de construção e uso que surgem informalmente e se tornam padrões
-  aceitos e normalizados antes da regulação formal, onde inovação habitacional emerge
-  no gap entre necessidade e governança.
+summary: Práticas de construção informais que se normalizam antes de serem regulamentadas
+  oficialmente
 permalink: https://www.envisioning.com/moradia/solucoes-informais-padroes-de-fato
 collection: modelos-mercado-governanca
 trl: 5
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766784393/morad
 
 ## Summary
 
-Práticas de construção e uso que surgem informalmente e se tornam padrões aceitos e normalizados antes da regulação formal, onde inovação habitacional emerge no gap entre necessidade e governança.
+Práticas de construção informais que se normalizam antes de serem regulamentadas oficialmente
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: obras-modulares-infraestrutura-rapida
 hub: moradia
 title: Obras Modulares para Infraestrutura Rápida
-summary: Construção modular de infraestrutura urbana para implantação acelerada.
+summary: Infraestrutura urbana pré-fabricada em fábrica e montada rapidamente no local
 permalink: https://www.envisioning.com/moradia/obras-modulares-infraestrutura-rapida
 collection: materiais-componentes
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766359827/forma
 
 ## Summary
 
-Construção modular de infraestrutura urbana para implantação acelerada.
+Infraestrutura urbana pré-fabricada em fábrica e montada rapidamente no local
 
 ## Description
 

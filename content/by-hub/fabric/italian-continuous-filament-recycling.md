@@ -2,7 +2,8 @@
 slug: italian-continuous-filament-recycling
 hub: fabric
 title: Italian Continuous Filament Recycling
-summary: High-speed spinning lines reforming waste yarn into premium filaments.
+summary: Converting textile waste into premium-grade continuous filaments through
+  advanced extrusion
 permalink: https://www.envisioning.com/fabric/italian-continuous-filament-recycling
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059652/threa
 
 ## Summary
 
-High-speed spinning lines reforming waste yarn into premium filaments.
+Converting textile waste into premium-grade continuous filaments through advanced extrusion
 
 ## Description
 

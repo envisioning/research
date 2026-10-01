@@ -2,7 +2,8 @@
 slug: hydrogen-airport-fueling-infrastructure
 hub: altitude
 title: Hydrogen Airport Fueling Infrastructure
-summary: Cryogenic storage, liquefaction, dispensing, and safety systems at airports.
+summary: Cryogenic systems for storing and dispensing liquid hydrogen fuel to aircraft
+  at airports
 permalink: https://www.envisioning.com/altitude/hydrogen-airport-fueling-infrastructure
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643284/altit
 
 ## Summary
 
-Cryogenic storage, liquefaction, dispensing, and safety systems at airports.
+Cryogenic systems for storing and dispensing liquid hydrogen fuel to aircraft at airports
 
 ## Description
 

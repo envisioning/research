@@ -2,21 +2,21 @@
 slug: schumann-resonance-isolation-chamber
 hub: xenotech
 title: Schumann Isolation
-summary: Large metallic sphere operating at 7.83 Hz to induce resonance between biological
-  fields and Earth's electromagnetic baseline, reported in Soviet consciousness research.
+summary: Spherical chamber tuned to Earth's 7.83 Hz frequency for biological field
+  experiments in Soviet research
 permalink: https://www.envisioning.com/xenotech/schumann-resonance-isolation-chamber
 collection: consciousness-interface
 trl: 3
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761065246/xenotech/technologies/schumann-resonance-isolation-chamber.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903039/xenotech/technologies/schumann-resonance-isolation-chamber-openrouter-google-gemini-3.1-flash-image-preview-c29lq1.png
 ---
 
 # Schumann Isolation
 
 ## Summary
 
-Large metallic sphere operating at 7.83 Hz to induce resonance between biological fields and Earth's electromagnetic baseline, reported in Soviet consciousness research.
+Spherical chamber tuned to Earth's 7.83 Hz frequency for biological field experiments in Soviet research
 
 ## Description
 

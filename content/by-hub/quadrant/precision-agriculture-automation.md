@@ -2,7 +2,8 @@
 slug: precision-agriculture-automation
 hub: quadrant
 title: Precision Agriculture Automation
-summary: AI-driven farming with robotics and sensor fusion.
+summary: AI-driven robots and sensors that monitor crops and automate field operations
+  in real time
 permalink: https://www.envisioning.com/quadrant/precision-agriculture-automation
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127971/quadr
 
 ## Summary
 
-AI-driven farming with robotics and sensor fusion.
+AI-driven robots and sensors that monitor crops and automate field operations in real time
 
 ## Description
 

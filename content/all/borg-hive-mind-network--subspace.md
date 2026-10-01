@@ -2,21 +2,21 @@
 slug: borg-hive-mind-network
 hub: subspace
 title: Borg Hive Mind / Subspace Network
-summary: Galaxy-spanning subspace communications array enabling instantaneous coordination
-  among all drones.
+summary: Galaxy-spanning network enabling instantaneous coordination across millions
+  of cybernetic drones
 permalink: https://www.envisioning.com/subspace/borg-hive-mind-network
 collection: communications
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263715/subspaceindex/technologies/borg-hive-mind-network.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907538/subspace/technologies/borg-hive-mind-network-openrouter-google-gemini-3.1-flash-image-preview-wl5vyt.png
 ---
 
 # Borg Hive Mind / Subspace Network
 
 ## Summary
 
-Galaxy-spanning subspace communications array enabling instantaneous coordination among all drones.
+Galaxy-spanning network enabling instantaneous coordination across millions of cybernetic drones
 
 ## Description
 

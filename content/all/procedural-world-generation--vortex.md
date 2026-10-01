@@ -2,7 +2,8 @@
 slug: procedural-world-generation
 hub: vortex
 title: Procedural World Generation Engines
-summary: Algorithms that create infinite, coherent virtual environments.
+summary: Algorithms that auto-generate terrain, vegetation, and architecture for virtual
+  worlds
 permalink: https://www.envisioning.com/vortex/procedural-world-generation
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126877/vorte
 
 ## Summary
 
-Algorithms that create infinite, coherent virtual environments.
+Algorithms that auto-generate terrain, vegetation, and architecture for virtual worlds
 
 ## Description
 

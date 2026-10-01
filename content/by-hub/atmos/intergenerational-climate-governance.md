@@ -2,7 +2,8 @@
 slug: intergenerational-climate-governance
 hub: atmos
 title: Intergenerational Governance for Long-Lived Interventions
-summary: Institutions that internalize long-term impacts of infrastructure and geoengineering.
+summary: Governance frameworks that represent future generations in decisions on climate
+  and infrastructure
 permalink: https://www.envisioning.com/atmos/intergenerational-climate-governance
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010286/atmos
 
 ## Summary
 
-Institutions that internalize long-term impacts of infrastructure and geoengineering.
+Governance frameworks that represent future generations in decisions on climate and infrastructure
 
 ## Description
 

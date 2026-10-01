@@ -2,7 +2,8 @@
 slug: explainable-ai
 hub: vault
 title: Explainable AI for Financial Decisions
-summary: Transparent, auditable machine learning.
+summary: Machine learning models that reveal how they reach financial decisions for
+  compliance and trust
 permalink: https://www.envisioning.com/vault/explainable-ai
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129298/vault
 
 ## Summary
 
-Transparent, auditable machine learning.
+Machine learning models that reveal how they reach financial decisions for compliance and trust
 
 ## Description
 

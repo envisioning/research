@@ -2,9 +2,9 @@
 slug: post-quantum-cryptography
 hub: horizons
 title: Post-Quantum Cryptography
-summary: Encryption algorithms resistant to quantum computer attacks.
+summary: Encryption methods designed to withstand attacks from quantum computers
 permalink: https://www.envisioning.com/horizons/post-quantum-cryptography
-collection: intelligence-computation
+collection: software
 trl: 4
 impact: 5
 investment: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526911/horiz
 
 ## Summary
 
-Encryption algorithms resistant to quantum computer attacks.
+Encryption methods designed to withstand attacks from quantum computers
 
 ## Description
 

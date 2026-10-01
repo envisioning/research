@@ -2,7 +2,8 @@
 slug: laminar-flow-active-boundary-layer-control
 hub: altitude
 title: Laminar Flow & Active Boundary-Layer Control
-summary: Drag-reduction via natural laminar flow, suction, and active flow control.
+summary: Maintaining smooth airflow over aircraft surfaces to reduce drag and improve
+  fuel efficiency
 permalink: https://www.envisioning.com/altitude/laminar-flow-active-boundary-layer-control
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641771/altit
 
 ## Summary
 
-Drag-reduction via natural laminar flow, suction, and active flow control.
+Maintaining smooth airflow over aircraft surfaces to reduce drag and improve fuel efficiency
 
 ## Description
 

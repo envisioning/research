@@ -2,7 +2,8 @@
 slug: data-sovereignty
 hub: aura
 title: Data Sovereignty
-summary: Rights over facial scans and biological profiles.
+summary: Ownership frameworks for facial scans, biomarker profiles, and biometric
+  beauty data
 permalink: https://www.envisioning.com/aura/data-sovereignty
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010198/aura/
 
 ## Summary
 
-Rights over facial scans and biological profiles.
+Ownership frameworks for facial scans, biomarker profiles, and biometric beauty data
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: quantum-workforce-optimizers
 hub: synapse
 title: Quantum Workforce Optimizers
-summary: Quantum computing systems solving intractable scheduling and resource allocation
-  problems.
+summary: Quantum computing applied to complex workforce scheduling and resource allocation
+  at enterprise scale
 permalink: https://www.envisioning.com/synapse/quantum-workforce-optimizers
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126467/synap
 
 ## Summary
 
-Quantum computing systems solving intractable scheduling and resource allocation problems.
+Quantum computing applied to complex workforce scheduling and resource allocation at enterprise scale
 
 ## Description
 

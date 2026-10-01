@@ -2,7 +2,8 @@
 slug: superconducting-transmission
 hub: grid
 title: Superconducting Power Cables
-summary: High-temperature superconductor cables for zero-loss power transmission.
+summary: Cables using superconductors cooled to cryogenic temperatures to eliminate
+  transmission losses
 permalink: https://www.envisioning.com/grid/superconducting-transmission
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116595/grid/
 
 ## Summary
 
-High-temperature superconductor cables for zero-loss power transmission.
+Cables using superconductors cooled to cryogenic temperatures to eliminate transmission losses
 
 ## Description
 

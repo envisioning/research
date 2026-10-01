@@ -2,7 +2,8 @@
 slug: quantum-safe-identity
 hub: vault
 title: Quantum-Resistant Digital Identity
-summary: Future-proof identity and authentication.
+summary: Identity systems using post-quantum cryptography to resist future quantum
+  attacks
 permalink: https://www.envisioning.com/vault/quantum-safe-identity
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131131/vault
 
 ## Summary
 
-Future-proof identity and authentication.
+Identity systems using post-quantum cryptography to resist future quantum attacks
 
 ## Description
 

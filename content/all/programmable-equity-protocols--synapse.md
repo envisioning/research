@@ -2,7 +2,7 @@
 slug: programmable-equity-protocols
 hub: synapse
 title: Programmable Equity Protocols
-summary: Dynamic ownership structures that automatically rebalance based on contribution.
+summary: Ownership structures that automatically adjust based on real-time contributions
 permalink: https://www.envisioning.com/synapse/programmable-equity-protocols
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126870/synap
 
 ## Summary
 
-Dynamic ownership structures that automatically rebalance based on contribution.
+Ownership structures that automatically adjust based on real-time contributions
 
 ## Description
 

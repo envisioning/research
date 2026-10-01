@@ -2,7 +2,8 @@
 slug: autonomous-swarm-systems
 hub: meridian
 title: Autonomous Swarm Systems
-summary: Coordinated drone networks for ISR and strike.
+summary: Coordinated networks of autonomous drones that share intelligence and adapt
+  collectively to mission conditions
 permalink: https://www.envisioning.com/meridian/autonomous-swarm-systems
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435048/merid
 
 ## Summary
 
-Coordinated drone networks for ISR and strike.
+Coordinated networks of autonomous drones that share intelligence and adapt collectively to mission conditions
 
 ## Description
 

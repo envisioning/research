@@ -2,7 +2,8 @@
 slug: clinic-orchestration-platforms
 hub: aura
 title: Clinic Orchestration Platforms
-summary: Software unifying imaging, inventory, and outcome tracking.
+summary: Software integrating patient data, imaging, devices, and analytics across
+  aesthetic clinic workflows
 permalink: https://www.envisioning.com/aura/clinic-orchestration-platforms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996031/aura/
 
 ## Summary
 
-Software unifying imaging, inventory, and outcome tracking.
+Software integrating patient data, imaging, devices, and analytics across aesthetic clinic workflows
 
 ## Description
 

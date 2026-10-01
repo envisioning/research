@@ -2,7 +2,8 @@
 slug: green-burial-planning
 hub: eclipse
 title: Green Burial Planning Networks
-summary: End-to-end planning tools for low-impact, ecological burials.
+summary: Digital platforms connecting families with eco-friendly burial options and
+  natural disposition sites
 permalink: https://www.envisioning.com/eclipse/green-burial-planning
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127209/eclip
 
 ## Summary
 
-End-to-end planning tools for low-impact, ecological burials.
+Digital platforms connecting families with eco-friendly burial options and natural disposition sites
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: critical-infrastructure-cyber-resilience
 hub: grid
 title: Critical Infrastructure Cyber Resilience
-summary: Integrated frameworks for protecting energy assets from advanced cyber threats.
+summary: Frameworks protecting energy systems from cyber attacks that could cause
+  blackouts or physical damage
 permalink: https://www.envisioning.com/grid/critical-infrastructure-cyber-resilience
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765113962/grid/
 
 ## Summary
 
-Integrated frameworks for protecting energy assets from advanced cyber threats.
+Frameworks protecting energy systems from cyber attacks that could cause blackouts or physical damage
 
 ## Description
 

@@ -9,7 +9,7 @@ collection: community-engagement
 trl: 2
 impact: 4
 investment: 4
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897910/wonen/technologies/9dea9aeb-132a-4028-94c1-f3264326455c-google-gemini-3.1-flash-image-preview-v1u2er.jpg
 ---
 
 # Woonprotest (Housing Activism)

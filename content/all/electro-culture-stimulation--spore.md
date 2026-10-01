@@ -2,7 +2,8 @@
 slug: electro-culture-stimulation
 hub: spore
 title: Electro-Culture Growth Stimulation
-summary: Using weak electric fields to accelerate plant growth and nutrient uptake.
+summary: Applying low-voltage currents or electrostatic fields to plants to enhance
+  nutrient uptake and growth
 permalink: https://www.envisioning.com/spore/electro-culture-stimulation
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764095958/spore
 
 ## Summary
 
-Using weak electric fields to accelerate plant growth and nutrient uptake.
+Applying low-voltage currents or electrostatic fields to plants to enhance nutrient uptake and growth
 
 ## Description
 

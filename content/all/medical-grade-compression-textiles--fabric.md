@@ -2,7 +2,8 @@
 slug: medical-grade-compression-textiles
 hub: fabric
 title: Medical-Grade Compression Textiles
-summary: Graduated compression garments with embedded sensing for clinical monitoring.
+summary: Therapeutic garments with graduated pressure and embedded biosensors for
+  clinical monitoring
 permalink: https://www.envisioning.com/fabric/medical-grade-compression-textiles
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059796/threa
 
 ## Summary
 
-Graduated compression garments with embedded sensing for clinical monitoring.
+Therapeutic garments with graduated pressure and embedded biosensors for clinical monitoring
 
 ## Description
 

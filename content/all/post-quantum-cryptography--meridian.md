@@ -2,7 +2,7 @@
 slug: post-quantum-cryptography
 hub: meridian
 title: Post-Quantum Cryptography
-summary: Algorithms resistant to quantum attacks.
+summary: Encryption algorithms designed to withstand attacks from quantum computers
 permalink: https://www.envisioning.com/meridian/post-quantum-cryptography
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128589/merid
 
 ## Summary
 
-Algorithms resistant to quantum attacks.
+Encryption algorithms designed to withstand attacks from quantum computers
 
 ## Description
 

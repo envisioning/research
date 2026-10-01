@@ -2,9 +2,8 @@
 slug: fachada-ativa-instrumento-regulatorio-densificacao
 hub: moradia
 title: Fachada Ativa como Instrumento Regulatório de Densificação
-summary: Incorporação de atividade comercial ou de serviços no térreo como requisito
-  regulatório para legitimar densificação e uso intensivo do solo, criando interface
-  entre edifício e espaço público.
+summary: Exigência de comércio ou serviços no térreo como condição para aprovar maior
+  densidade urbana
 permalink: https://www.envisioning.com/moradia/fachada-ativa-instrumento-regulatorio-densificacao
 collection: modelos-mercado-governanca
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766663523/habit
 
 ## Summary
 
-Incorporação de atividade comercial ou de serviços no térreo como requisito regulatório para legitimar densificação e uso intensivo do solo, criando interface entre edifício e espaço público.
+Exigência de comércio ou serviços no térreo como condição para aprovar maior densidade urbana
 
 ## Description
 

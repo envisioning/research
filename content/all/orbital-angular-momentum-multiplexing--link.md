@@ -2,7 +2,8 @@
 slug: orbital-angular-momentum-multiplexing
 hub: link
 title: Orbital Angular Momentum (OAM) Multiplexing
-summary: Twisting radio waves to create infinite new communication channels.
+summary: Encoding data in the helical twist of radio waves to multiply wireless channel
+  capacity
 permalink: https://www.envisioning.com/link/orbital-angular-momentum-multiplexing
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435259/link/
 
 ## Summary
 
-Twisting radio waves to create infinite new communication channels.
+Encoding data in the helical twist of radio waves to multiply wireless channel capacity
 
 ## Description
 

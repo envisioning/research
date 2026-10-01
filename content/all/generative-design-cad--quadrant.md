@@ -2,7 +2,8 @@
 slug: generative-design-cad
 hub: quadrant
 title: Generative Design & Simulation CAD
-summary: AI copilots for engineering design and validation.
+summary: AI-driven CAD tools that generate and validate design alternatives based
+  on engineering constraints
 permalink: https://www.envisioning.com/quadrant/generative-design-cad
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126858/quadr
 
 ## Summary
 
-AI copilots for engineering design and validation.
+AI-driven CAD tools that generate and validate design alternatives based on engineering constraints
 
 ## Description
 

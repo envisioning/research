@@ -2,7 +2,8 @@
 slug: community-care-networks
 hub: eros
 title: Community Care Network Infrastructure
-summary: Platforms for organizing mutual aid, childcare, and collective support.
+summary: Digital platforms that coordinate and distribute care work like childcare,
+  elder support, and meal preparation across co
 permalink: https://www.envisioning.com/eros/community-care-networks
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125576/eros/
 
 ## Summary
 
-Platforms for organizing mutual aid, childcare, and collective support.
+Digital platforms that coordinate and distribute care work like childcare, elder support, and meal preparation across co
 
 ## Description
 

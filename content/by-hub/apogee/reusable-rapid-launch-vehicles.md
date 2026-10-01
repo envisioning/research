@@ -2,7 +2,8 @@
 slug: reusable-rapid-launch-vehicles
 hub: apogee
 title: Reusable & Rapid-Launch Vehicles
-summary: Fully reusable rocket stages optimized for high-frequency launch cycles.
+summary: Rocket systems designed for same-vehicle relaunch within days instead of
+  months
 permalink: https://www.envisioning.com/apogee/reusable-rapid-launch-vehicles
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060607/apoge
 
 ## Summary
 
-Fully reusable rocket stages optimized for high-frequency launch cycles.
+Rocket systems designed for same-vehicle relaunch within days instead of months
 
 ## Description
 

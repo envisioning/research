@@ -2,8 +2,8 @@
 slug: whole-organ-regeneration-bioreactors
 hub: epoch
 title: Whole-Organ Regeneration Bioreactors
-summary: Perfusion bioreactors that repair, rejuvenate, and recellularize donor or
-  patient organs ex vivo.
+summary: Perfusion systems that repair and rejuvenate donor organs outside the body
+  for transplantation
 permalink: https://www.envisioning.com/epoch/whole-organ-regeneration-bioreactors
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476619/epoch
 
 ## Summary
 
-Perfusion bioreactors that repair, rejuvenate, and recellularize donor or patient organs ex vivo.
+Perfusion systems that repair and rejuvenate donor organs outside the body for transplantation
 
 ## Description
 

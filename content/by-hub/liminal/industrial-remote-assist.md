@@ -2,7 +2,8 @@
 slug: industrial-remote-assist
 hub: liminal
 title: Industrial Remote Assist
-summary: AR-guided maintenance and repair with over-the-shoulder experts.
+summary: Real-time AR overlays connecting field technicians with remote experts for
+  guided repairs
 permalink: https://www.envisioning.com/liminal/industrial-remote-assist
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125004/limin
 
 ## Summary
 
-AR-guided maintenance and repair with over-the-shoulder experts.
+Real-time AR overlays connecting field technicians with remote experts for guided repairs
 
 ## Description
 

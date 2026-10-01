@@ -2,21 +2,21 @@
 slug: gravitational-wave-communications
 hub: xenotech
 title: Gravitational Waves
-summary: Proposed communications using modulated gravitational waves with spacetime
-  sculpting techniques enabling compact receivers.
+summary: Information transmission using modulated gravitational waves that can pass
+  through matter
 permalink: https://www.envisioning.com/xenotech/gravitational-wave-communications
 collection: perception-cognition
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760983832/xenotech/technologies/gravitational-wave-communications.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898390/xenotech/technologies/gravitational-wave-communications-openrouter-google-gemini-3.1-flash-image-preview-v1ybah.png
 ---
 
 # Gravitational Waves
 
 ## Summary
 
-Proposed communications using modulated gravitational waves with spacetime sculpting techniques enabling compact receivers.
+Information transmission using modulated gravitational waves that can pass through matter
 
 ## Description
 

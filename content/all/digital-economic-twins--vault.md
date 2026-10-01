@@ -2,7 +2,8 @@
 slug: digital-economic-twins
 hub: vault
 title: Digital Economic Twins
-summary: Macro-economic simulation for systemic stress testing.
+summary: Virtual replicas of economic systems that simulate millions of agents to
+  test policy and market scenarios
 permalink: https://www.envisioning.com/vault/digital-economic-twins
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128299/vault
 
 ## Summary
 
-Macro-economic simulation for systemic stress testing.
+Virtual replicas of economic systems that simulate millions of agents to test policy and market scenarios
 
 ## Description
 

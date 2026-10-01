@@ -2,20 +2,20 @@
 slug: stasis-field
 hub: subspace
 title: Stasis Field
-summary: Localized temporal/biophysical suspension for patients and specimens.
+summary: Suspends biological and chemical processes within a defined space for preservation
 permalink: https://www.envisioning.com/subspace/stasis-field
 collection: biotechnology
 trl: 6
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760268613/subspaceindex/technologies/stasis-field.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908973/subspace/technologies/stasis-field-openrouter-google-gemini-3.1-flash-image-preview-105bmg.png
 ---
 
 # Stasis Field
 
 ## Summary
 
-Localized temporal/biophysical suspension for patients and specimens.
+Suspends biological and chemical processes within a defined space for preservation
 
 ## Description
 

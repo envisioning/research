@@ -2,7 +2,8 @@
 slug: indian-regional-language-ai-dubbing
 hub: prism
 title: Indian Regional Language AI Dubbing
-summary: AI localization stacks translating media into dozens of Indian languages.
+summary: AI systems that translate and dub video content into dozens of Indian regional
+  languages
 permalink: https://www.envisioning.com/prism/indian-regional-language-ai-dubbing
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764057176/pulse
 
 ## Summary
 
-AI localization stacks translating media into dozens of Indian languages.
+AI systems that translate and dub video content into dozens of Indian regional languages
 
 ## Description
 

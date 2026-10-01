@@ -2,7 +2,8 @@
 slug: federated-learning-networks
 hub: forge
 title: Federated Learning Networks
-summary: Collaborative AI training across multiple factories without sharing raw data.
+summary: Trains AI models across multiple factories while keeping proprietary data
+  local and secure
 permalink: https://www.envisioning.com/forge/federated-learning-networks
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177838/forge
 
 ## Summary
 
-Collaborative AI training across multiple factories without sharing raw data.
+Trains AI models across multiple factories while keeping proprietary data local and secure
 
 ## Description
 

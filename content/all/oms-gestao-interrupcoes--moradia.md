@@ -2,8 +2,8 @@
 slug: oms-gestao-interrupcoes
 hub: moradia
 title: Gestão de Interrupções e Recomposição
-summary: Sistemas para detecção, despacho e recomposição rápida após falhas em serviços
-  essenciais.
+summary: Sistemas que detectam, localizam e restauram falhas em redes de infraestrutura
+  essencial
 permalink: https://www.envisioning.com/moradia/oms-gestao-interrupcoes
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584176/habit
 
 ## Summary
 
-Sistemas para detecção, despacho e recomposição rápida após falhas em serviços essenciais.
+Sistemas que detectam, localizam e restauram falhas em redes de infraestrutura essencial
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: synthetic-relationship-disclosure
 hub: solace
 title: Synthetic Relationship Disclosure
-summary: Protocols ensuring users know when they are interacting with AI.
+summary: Standards and design patterns that clearly identify AI agents in digital
+  conversations
 permalink: https://www.envisioning.com/solace/synthetic-relationship-disclosure
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436628/solac
 
 ## Summary
 
-Protocols ensuring users know when they are interacting with AI.
+Standards and design patterns that clearly identify AI agents in digital conversations
 
 ## Description
 

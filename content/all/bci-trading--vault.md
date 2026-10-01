@@ -2,7 +2,7 @@
 slug: bci-trading
 hub: vault
 title: Brain-Computer Interface (BCI) Trading
-summary: Direct neural interfaces for high-frequency interaction.
+summary: Trading systems controlled by neural signals instead of keyboards or mice
 permalink: https://www.envisioning.com/vault/bci-trading
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128069/vault
 
 ## Summary
 
-Direct neural interfaces for high-frequency interaction.
+Trading systems controlled by neural signals instead of keyboards or mice
 
 ## Description
 

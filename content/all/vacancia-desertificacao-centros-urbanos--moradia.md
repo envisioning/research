@@ -2,8 +2,8 @@
 slug: vacancia-desertificacao-centros-urbanos
 hub: moradia
 title: Vacância e Desertificação de Centros Urbanos Pós-Pandemia
-summary: Desafio de reocupação de áreas centrais com alta vacância comercial, exigindo
-  conversão de usos e políticas de revitalização.
+summary: Esvaziamento de áreas centrais urbanas após a pandemia, exigindo conversão
+  de imóveis comerciais e novas políticas de us
 permalink: https://www.envisioning.com/moradia/vacancia-desertificacao-centros-urbanos
 collection: modelos-mercado-governanca
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766582861/habit
 
 ## Summary
 
-Desafio de reocupação de áreas centrais com alta vacância comercial, exigindo conversão de usos e políticas de revitalização.
+Esvaziamento de áreas centrais urbanas após a pandemia, exigindo conversão de imóveis comerciais e novas políticas de us
 
 ## Description
 

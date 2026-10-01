@@ -2,7 +2,8 @@
 slug: quantum-illumination
 hub: superposition
 title: Quantum Illumination (Radar)
-summary: Enhancing target detection in noisy environments using entangled photons.
+summary: Radar using entangled photon pairs to detect targets through heavy noise
+  and interference
 permalink: https://www.envisioning.com/superposition/quantum-illumination
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181137/super
 
 ## Summary
 
-Enhancing target detection in noisy environments using entangled photons.
+Radar using entangled photon pairs to detect targets through heavy noise and interference
 
 ## Description
 

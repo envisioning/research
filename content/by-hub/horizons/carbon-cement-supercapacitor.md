@@ -2,9 +2,10 @@
 slug: carbon-cement-supercapacitor
 hub: horizons
 title: Carbon-Cement Supercapacitor
-summary: Energy-storing concrete structures for distributed urban power.
+summary: Concrete mixed with conductive carbon to store and discharge electrical energy
+  in buildings
 permalink: https://www.envisioning.com/horizons/carbon-cement-supercapacitor
-collection: energy-environment
+collection: hardware
 trl: 4
 impact: 3
 investment: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526107/horiz
 
 ## Summary
 
-Energy-storing concrete structures for distributed urban power.
+Concrete mixed with conductive carbon to store and discharge electrical energy in buildings
 
 ## Description
 

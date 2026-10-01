@@ -2,7 +2,8 @@
 slug: myco-architectural-memorials
 hub: eclipse
 title: Myco-Architectural Memorials
-summary: Living, grown memorial structures made from fungal mycelium.
+summary: Memorial structures grown from fungal mycelium and agricultural waste as
+  living tributes
 permalink: https://www.envisioning.com/eclipse/myco-architectural-memorials
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126719/eclip
 
 ## Summary
 
-Living, grown memorial structures made from fungal mycelium.
+Memorial structures grown from fungal mycelium and agricultural waste as living tributes
 
 ## Description
 

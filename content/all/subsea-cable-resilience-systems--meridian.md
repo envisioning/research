@@ -2,7 +2,8 @@
 slug: subsea-cable-resilience-systems
 hub: meridian
 title: Subsea Cable Resilience Systems
-summary: Monitoring and hardening of undersea data arteries.
+summary: Monitoring and protection systems for undersea fiber-optic cables carrying
+  global internet traffic
 permalink: https://www.envisioning.com/meridian/subsea-cable-resilience-systems
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129107/merid
 
 ## Summary
 
-Monitoring and hardening of undersea data arteries.
+Monitoring and protection systems for undersea fiber-optic cables carrying global internet traffic
 
 ## Description
 

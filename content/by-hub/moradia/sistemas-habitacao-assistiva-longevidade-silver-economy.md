@@ -2,10 +2,8 @@
 slug: sistemas-habitacao-assistiva-longevidade-silver-economy
 hub: moradia
 title: Sistemas de Habitação Assistiva e Longevidade (Silver Economy)
-summary: Tecnologias de adaptação de moradia para idosos e pessoas com mobilidade
-  reduzida, incluindo sensores de queda, automação de iluminação circadiana, sistemas
-  de monitoramento de saúde e adaptações físicas, criando um mercado maior que o de
-  'Casas Inteligentes' genéricas.
+summary: Adaptações residenciais e tecnologias de monitoramento para idosos e pessoas
+  com mobilidade reduzida
 permalink: https://www.envisioning.com/moradia/sistemas-habitacao-assistiva-longevidade-silver-economy
 collection: sistemas-prediais-automacao
 trl: 3
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766783975/morad
 
 ## Summary
 
-Tecnologias de adaptação de moradia para idosos e pessoas com mobilidade reduzida, incluindo sensores de queda, automação de iluminação circadiana, sistemas de monitoramento de saúde e adaptações físicas, criando um mercado maior que o de 'Casas Inteligentes' genéricas.
+Adaptações residenciais e tecnologias de monitoramento para idosos e pessoas com mobilidade reduzida
 
 ## Description
 

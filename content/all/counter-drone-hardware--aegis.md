@@ -2,7 +2,8 @@
 slug: counter-drone-hardware
 hub: aegis
 title: Counter-Drone Systems
-summary: RF, laser, and kinetic interceptors neutralizing sUAS threats.
+summary: Integrated RF, laser, and kinetic systems that neutralize hostile drones
+  and swarms
 permalink: https://www.envisioning.com/aegis/counter-drone-hardware
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074963/aegis
 
 ## Summary
 
-RF, laser, and kinetic interceptors neutralizing sUAS threats.
+Integrated RF, laser, and kinetic systems that neutralize hostile drones and swarms
 
 ## Description
 

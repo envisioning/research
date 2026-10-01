@@ -2,7 +2,8 @@
 slug: cbdcs-and-hybrid-settlement-rails
 hub: lattice
 title: CBDCs & Hybrid Settlement Rails
-summary: Programmable central bank money coexisting with stablecoins and RTGS.
+summary: Digital central bank money working alongside stablecoins and traditional
+  settlement systems
 permalink: https://www.envisioning.com/lattice/cbdcs-and-hybrid-settlement-rails
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998485/flows
 
 ## Summary
 
-Programmable central bank money coexisting with stablecoins and RTGS.
+Digital central bank money working alongside stablecoins and traditional settlement systems
 
 ## Description
 

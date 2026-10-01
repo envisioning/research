@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 7
 impact: 5
 investment: 3
-image_url: null
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882947/agora/technologies/27c1b3fb-2e34-4fc2-9e49-1597a4a80044-google-gemini-3.1-flash-image-preview-do0cr7.jpg
 ---
 
 # Anti-Gerrymandering Detection & Litigation Support

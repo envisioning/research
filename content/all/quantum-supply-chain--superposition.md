@@ -2,7 +2,7 @@
 slug: quantum-supply-chain
 hub: superposition
 title: Quantum Supply Chain Verification
-summary: Ensuring the hardware integrity of quantum chips and components.
+summary: Inspecting quantum chips for tampering and hardware trojans during manufacturing
 permalink: https://www.envisioning.com/superposition/quantum-supply-chain
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764181289/super
 
 ## Summary
 
-Ensuring the hardware integrity of quantum chips and components.
+Inspecting quantum chips for tampering and hardware trojans during manufacturing
 
 ## Description
 

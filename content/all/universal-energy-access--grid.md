@@ -2,7 +2,8 @@
 slug: universal-energy-access
 hub: grid
 title: Universal Energy Access Initiatives
-summary: Decentralized solutions and policy frameworks ensuring electricity for all.
+summary: Decentralized energy systems and policies bringing electricity to underserved
+  communities
 permalink: https://www.envisioning.com/grid/universal-energy-access
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116609/grid/
 
 ## Summary
 
-Decentralized solutions and policy frameworks ensuring electricity for all.
+Decentralized energy systems and policies bringing electricity to underserved communities
 
 ## Description
 

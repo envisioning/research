@@ -2,8 +2,8 @@
 slug: airline-disruption-recovery-ai
 hub: altitude
 title: Airline Disruption Recovery AI
-summary: Optimization for crew, aircraft, and passenger recovery during irregular
-  ops.
+summary: AI systems that coordinate crew, aircraft, and passenger logistics when flights
+  are disrupted
 permalink: https://www.envisioning.com/altitude/airline-disruption-recovery-ai
 collection: software
 trl: 8
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642575/altit
 
 ## Summary
 
-Optimization for crew, aircraft, and passenger recovery during irregular ops.
+AI systems that coordinate crew, aircraft, and passenger logistics when flights are disrupted
 
 ## Description
 

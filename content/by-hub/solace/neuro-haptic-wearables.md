@@ -2,7 +2,8 @@
 slug: neuro-haptic-wearables
 hub: solace
 title: Neuro-Haptic Wearables
-summary: Devices delivering tactile stimulation to regulate nervous system response.
+summary: Wearables using vibration patterns to calm the nervous system and reduce
+  stress
 permalink: https://www.envisioning.com/solace/neuro-haptic-wearables
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132901/solac
 
 ## Summary
 
-Devices delivering tactile stimulation to regulate nervous system response.
+Wearables using vibration patterns to calm the nervous system and reduce stress
 
 ## Description
 

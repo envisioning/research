@@ -2,7 +2,8 @@
 slug: simulation-authoring-tools
 hub: axiom
 title: Simulation Authoring Tools for Educators
-summary: No-code tools for designing branching scenarios and roleplays.
+summary: No-code platforms for creating interactive learning simulations and branching
+  scenarios
 permalink: https://www.envisioning.com/axiom/simulation-authoring-tools
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763995671/axiom
 
 ## Summary
 
-No-code tools for designing branching scenarios and roleplays.
+No-code platforms for creating interactive learning simulations and branching scenarios
 
 ## Description
 

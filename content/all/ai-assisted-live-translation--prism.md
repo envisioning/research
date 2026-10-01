@@ -2,7 +2,7 @@
 slug: ai-assisted-live-translation
 hub: prism
 title: AI-Assisted Live Translation
-summary: Real-time dubbing stacks syncing speech, tone, and lip movement across languages.
+summary: Real-time speech translation with voice cloning and lip-sync across languages
 permalink: https://www.envisioning.com/prism/ai-assisted-live-translation
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069331/pulse
 
 ## Summary
 
-Real-time dubbing stacks syncing speech, tone, and lip movement across languages.
+Real-time speech translation with voice cloning and lip-sync across languages
 
 ## Description
 

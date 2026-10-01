@@ -2,7 +2,7 @@
 slug: thz-antennas
 hub: link
 title: Terahertz (THz) Antennas
-summary: Ultra-high frequency antennas enabling Terabit-per-second speeds.
+summary: Antennas operating at 0.1–10 THz for ultra-high-speed wireless data transmission
 permalink: https://www.envisioning.com/link/thz-antennas
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132187/link/
 
 ## Summary
 
-Ultra-high frequency antennas enabling Terabit-per-second speeds.
+Antennas operating at 0.1–10 THz for ultra-high-speed wireless data transmission
 
 ## Description
 

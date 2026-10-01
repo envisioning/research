@@ -2,7 +2,8 @@
 slug: satellite-servicing-robots
 hub: apogee
 title: Satellite Servicing Robots
-summary: On-orbit vehicles refueling, repairing, or relocating client spacecraft.
+summary: Autonomous spacecraft that dock with satellites to refuel, repair, or reposition
+  them in orbit
 permalink: https://www.envisioning.com/apogee/satellite-servicing-robots
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180831/apoge
 
 ## Summary
 
-On-orbit vehicles refueling, repairing, or relocating client spacecraft.
+Autonomous spacecraft that dock with satellites to refuel, repair, or reposition them in orbit
 
 ## Description
 

@@ -2,8 +2,8 @@
 slug: autonomous-heavy-equipment
 hub: habitat
 title: Autonomous Heavy Equipment
-summary: Self-driving excavators, trucks, and loaders orchestrated from central control
-  rooms.
+summary: Self-operating excavators, trucks, and dozers controlled remotely for safer,
+  more efficient construction
 permalink: https://www.envisioning.com/habitat/autonomous-heavy-equipment
 collection: hardware
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117146/habit
 
 ## Summary
 
-Self-driving excavators, trucks, and loaders orchestrated from central control rooms.
+Self-operating excavators, trucks, and dozers controlled remotely for safer, more efficient construction
 
 ## Description
 

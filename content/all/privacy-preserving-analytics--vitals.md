@@ -2,8 +2,7 @@
 slug: privacy-preserving-analytics
 hub: vitals
 title: Privacy-Preserving Health Analytics
-summary: Techniques like federated learning and differential privacy that enable cross-institutional
-  insights without sharing raw data.
+summary: Analyzing patient data across institutions without exposing individual records
 permalink: https://www.envisioning.com/vitals/privacy-preserving-analytics
 collection: ethics-security
 trl: 5
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765116415/vital
 
 ## Summary
 
-Techniques like federated learning and differential privacy that enable cross-institutional insights without sharing raw data.
+Analyzing patient data across institutions without exposing individual records
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: morphing-wing-structures
 hub: altitude
 title: Morphing Wing Structures
-summary: Adaptive wing designs that change shape in real-time for optimal aerodynamics.
+summary: Wings that continuously adjust their shape during flight to optimize aerodynamics
+  across flight conditions
 permalink: https://www.envisioning.com/altitude/morphing-wing-structures
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765641733/altit
 
 ## Summary
 
-Adaptive wing designs that change shape in real-time for optimal aerodynamics.
+Wings that continuously adjust their shape during flight to optimize aerodynamics across flight conditions
 
 ## Description
 

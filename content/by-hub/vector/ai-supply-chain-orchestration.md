@@ -2,7 +2,8 @@
 slug: ai-supply-chain-orchestration
 hub: vector
 title: AI Supply Chain Orchestration
-summary: Autonomous AI platforms managing end-to-end logistics operations.
+summary: AI systems that autonomously coordinate and optimize logistics operations
+  across supply chains
 permalink: https://www.envisioning.com/vector/ai-supply-chain-orchestration
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177457/vecto
 
 ## Summary
 
-Autonomous AI platforms managing end-to-end logistics operations.
+AI systems that autonomously coordinate and optimize logistics operations across supply chains
 
 ## Description
 

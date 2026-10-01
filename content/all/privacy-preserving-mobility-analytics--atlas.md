@@ -2,7 +2,8 @@
 slug: privacy-preserving-mobility-analytics
 hub: atlas
 title: Privacy-Preserving Mobility Analytics
-summary: Techniques to analyze traveler flows without exposing individual identities.
+summary: Analyzing traveler movement patterns and booking data while protecting individual
+  privacy
 permalink: https://www.envisioning.com/atlas/privacy-preserving-mobility-analytics
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765221204/atlas
 
 ## Summary
 
-Techniques to analyze traveler flows without exposing individual identities.
+Analyzing traveler movement patterns and booking data while protecting individual privacy
 
 ## Description
 

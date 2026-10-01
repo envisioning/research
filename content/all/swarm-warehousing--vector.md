@@ -2,7 +2,8 @@
 slug: swarm-warehousing
 hub: vector
 title: Swarm Robotics Warehousing
-summary: Decentralized fleets of robots collaborating to manage inventory.
+summary: Decentralized robot fleets that coordinate through local interactions to
+  automate warehouse operations
 permalink: https://www.envisioning.com/vector/swarm-warehousing
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765182296/vecto
 
 ## Summary
 
-Decentralized fleets of robots collaborating to manage inventory.
+Decentralized robot fleets that coordinate through local interactions to automate warehouse operations
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: smart-textile-sensors
 hub: liminal
 title: Smart Textile Sensors
-summary: Fabric-integrated sensors for full-body spatial tracking.
+summary: Fabric-embedded sensors that track body movement, posture, and gestures in
+  real time
 permalink: https://www.envisioning.com/liminal/smart-textile-sensors
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124870/limin
 
 ## Summary
 
-Fabric-integrated sensors for full-body spatial tracking.
+Fabric-embedded sensors that track body movement, posture, and gestures in real time
 
 ## Description
 

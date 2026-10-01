@@ -2,21 +2,21 @@
 slug: quantum-vacuum-plasma-thrusters
 hub: xenotech
 title: Quantum Vacuum Plasma Thrusters
-summary: Propulsion systems utilizing virtual particle interactions and quantum vacuum
-  plasma effects for reactionless thrust generation.
+summary: Propulsion systems that extract thrust from quantum vacuum fluctuations without
+  traditional fuel
 permalink: https://www.envisioning.com/xenotech/quantum-vacuum-plasma-thrusters
 collection: propulsion-physics
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655689/xenotech/technologies/quantum-vacuum-plasma-thrusters.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902254/xenotech/technologies/quantum-vacuum-plasma-thrusters-openrouter-google-gemini-3.1-flash-image-preview-iaasng.png
 ---
 
 # Quantum Vacuum Plasma Thrusters
 
 ## Summary
 
-Propulsion systems utilizing virtual particle interactions and quantum vacuum plasma effects for reactionless thrust generation.
+Propulsion systems that extract thrust from quantum vacuum fluctuations without traditional fuel
 
 ## Description
 

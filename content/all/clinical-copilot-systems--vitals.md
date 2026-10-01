@@ -2,7 +2,8 @@
 slug: clinical-copilot-systems
 hub: vitals
 title: Clinical Decision Co-Pilot Systems
-summary: Generative AI assistants embedded in EHRs to support real-time clinical decision-making.
+summary: AI assistants embedded in EHRs that provide real-time, patient-specific clinical
+  recommendations
 permalink: https://www.envisioning.com/vitals/clinical-copilot-systems
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441645/vital
 
 ## Summary
 
-Generative AI assistants embedded in EHRs to support real-time clinical decision-making.
+AI assistants embedded in EHRs that provide real-time, patient-specific clinical recommendations
 
 ## Description
 

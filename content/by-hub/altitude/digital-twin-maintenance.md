@@ -2,7 +2,8 @@
 slug: digital-twin-maintenance
 hub: altitude
 title: Digital Twin Maintenance
-summary: Virtual replicas of aircraft for predictive health monitoring and simulation.
+summary: Virtual aircraft replicas that mirror real-time sensor data for predictive
+  maintenance and simulation
 permalink: https://www.envisioning.com/altitude/digital-twin-maintenance
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765642553/altit
 
 ## Summary
 
-Virtual replicas of aircraft for predictive health monitoring and simulation.
+Virtual aircraft replicas that mirror real-time sensor data for predictive maintenance and simulation
 
 ## Description
 

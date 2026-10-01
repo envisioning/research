@@ -2,21 +2,21 @@
 slug: low-latency-video-codecs
 hub: interface
 title: Low-Latency Video Codecs
-summary: JPEG XS implementations for pristine, sub-millisecond video transport over
-  standard networks.
+summary: Video compression optimized for real-time streaming with sub-millisecond
+  delay
 permalink: https://www.envisioning.com/interface/low-latency-video-codecs
-collection: consumer-electronics-platforms
+collection: software
 trl: 4
-impact: null
-investment: null
-image_url: null
+impact: 3
+investment: 3
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774897828/interface/technologies/9ccf2c31-2ea8-44e3-b863-b06b1a034a63-google-gemini-3.1-flash-image-preview-vu42le.jpg
 ---
 
 # Low-Latency Video Codecs
 
 ## Summary
 
-JPEG XS implementations for pristine, sub-millisecond video transport over standard networks.
+Video compression optimized for real-time streaming with sub-millisecond delay
 
 ## Description
 

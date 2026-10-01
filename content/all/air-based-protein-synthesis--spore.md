@@ -2,7 +2,8 @@
 slug: air-based-protein-synthesis
 hub: spore
 title: Air-Based Protein Synthesis
-summary: Food production from CO2, electricity, and hydrogenotrophic microbes.
+summary: Producing edible protein from CO2 and renewable electricity using gas-fermenting
+  microbes
 permalink: https://www.envisioning.com/spore/air-based-protein-synthesis
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179636/spore
 
 ## Summary
 
-Food production from CO2, electricity, and hydrogenotrophic microbes.
+Producing edible protein from CO2 and renewable electricity using gas-fermenting microbes
 
 ## Description
 

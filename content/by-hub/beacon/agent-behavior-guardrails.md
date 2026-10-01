@@ -2,7 +2,8 @@
 slug: agent-behavior-guardrails
 hub: beacon
 title: Agent Behavior Guardrails
-summary: Runtime constraints for human-representing AI agents.
+summary: Runtime constraints ensuring AI agents acting on your behalf stay within
+  defined behavioral boundaries
 permalink: https://www.envisioning.com/beacon/agent-behavior-guardrails
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765281525/beaco
 
 ## Summary
 
-Runtime constraints for human-representing AI agents.
+Runtime constraints ensuring AI agents acting on your behalf stay within defined behavioral boundaries
 
 ## Description
 

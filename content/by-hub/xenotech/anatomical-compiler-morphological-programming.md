@@ -2,22 +2,21 @@
 slug: anatomical-compiler-morphological-programming
 hub: xenotech
 title: Anatomical Compiler
-summary: Computational system for designing biological forms by specifying desired
-  anatomical outcomes and automatically generating bioelectric interventions needed
-  to achieve them.
+summary: Software that translates desired biological forms into the bioelectric signals
+  needed to grow them
 permalink: https://www.envisioning.com/xenotech/anatomical-compiler-morphological-programming
 collection: biology-hybridization
 trl: 3
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1762005163/xenotech/technologies/anatomical-compiler-morphological-programming-openai-gpt-5-nwuu70.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939876/xenotech/technologies/anatomical-compiler-morphological-programming-imagegen-v1.png
 ---
 
 # Anatomical Compiler
 
 ## Summary
 
-Computational system for designing biological forms by specifying desired anatomical outcomes and automatically generating bioelectric interventions needed to achieve them.
+Software that translates desired biological forms into the bioelectric signals needed to grow them
 
 ## Description
 

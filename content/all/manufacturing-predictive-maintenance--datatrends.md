@@ -2,7 +2,8 @@
 slug: manufacturing-predictive-maintenance
 hub: datatrends
 title: Predictive Maintenance Analytics
-summary: Analyzing sensor data to predict failures before they occur in heavy industry.
+summary: Analyzing sensor data to forecast equipment failures and optimize maintenance
+  schedules
 permalink: https://www.envisioning.com/datatrends/manufacturing-predictive-maintenance
 collection: analytics-in-action
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1767372810/datat
 
 ## Summary
 
-Analyzing sensor data to predict failures before they occur in heavy industry.
+Analyzing sensor data to forecast equipment failures and optimize maintenance schedules
 
 ## Description
 

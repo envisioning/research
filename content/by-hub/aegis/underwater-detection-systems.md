@@ -2,7 +2,8 @@
 slug: underwater-detection-systems
 hub: aegis
 title: Underwater Detection Systems
-summary: Deployable sonar arrays and autonomous vehicles for littoral defense.
+summary: Sonar arrays and autonomous platforms that monitor coastal waters and maritime
+  infrastructure
 permalink: https://www.envisioning.com/aegis/underwater-detection-systems
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764161810/aegis
 
 ## Summary
 
-Deployable sonar arrays and autonomous vehicles for littoral defense.
+Sonar arrays and autonomous platforms that monitor coastal waters and maritime infrastructure
 
 ## Description
 

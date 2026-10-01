@@ -2,7 +2,7 @@
 slug: atmospheric-water-harvesting
 hub: substrate
 title: Atmospheric Water Harvesting
-summary: Extracting drinkable water from air using advanced materials and sorbents.
+summary: Extracting drinkable water from air using advanced sorbent materials
 permalink: https://www.envisioning.com/substrate/atmospheric-water-harvesting
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117050/subst
 
 ## Summary
 
-Extracting drinkable water from air using advanced materials and sorbents.
+Extracting drinkable water from air using advanced sorbent materials
 
 ## Description
 

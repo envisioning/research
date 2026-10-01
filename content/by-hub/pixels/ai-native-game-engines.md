@@ -2,7 +2,8 @@
 slug: ai-native-game-engines
 hub: pixels
 title: AI-Native Game Engines
-summary: Engines generating real-time environments and narrative arcs.
+summary: Game engines that procedurally generate worlds, characters, and stories from
+  player actions in real time
 permalink: https://www.envisioning.com/pixels/ai-native-game-engines
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062351/pixel
 
 ## Summary
 
-Engines generating real-time environments and narrative arcs.
+Game engines that procedurally generate worlds, characters, and stories from player actions in real time
 
 ## Description
 

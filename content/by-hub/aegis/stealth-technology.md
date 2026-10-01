@@ -2,19 +2,20 @@
 slug: stealth-technology
 hub: aegis
 title: Stealth Technology
-summary: Radar-absorbent materials and design for reduced detectability.
+summary: Reducing radar and sensor signatures through materials, shaping, and countermeasures
 permalink: https://www.envisioning.com/aegis/stealth-technology
 collection: hardware
 trl: 9
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772963557/aegis/technologies/stealth-technology-vqqojv.jpg
 ---
 
 # Stealth Technology
 
 ## Summary
 
-Radar-absorbent materials and design for reduced detectability.
+Reducing radar and sensor signatures through materials, shaping, and countermeasures
 
 ## Description
 

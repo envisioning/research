@@ -2,7 +2,8 @@
 slug: synthetic-identity-detection
 hub: sentinel
 title: Synthetic Identity Detection
-summary: AI systems identifying fabricated identities combining real and fake data.
+summary: AI systems that detect fraudulent identities built from mixed real and fake
+  personal data
 permalink: https://www.envisioning.com/sentinel/synthetic-identity-detection
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765461800/senti
 
 ## Summary
 
-AI systems identifying fabricated identities combining real and fake data.
+AI systems that detect fraudulent identities built from mixed real and fake personal data
 
 ## Description
 

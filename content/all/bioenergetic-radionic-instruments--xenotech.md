@@ -2,21 +2,21 @@
 slug: bioenergetic-radionic-instruments
 hub: xenotech
 title: Radionic Instruments
-summary: Devices claiming to detect, diagnose, and treat through subtle energy, electromagnetic
-  frequencies, or consciousness-mediated mechanisms.
+summary: Instruments using electromagnetic frequencies or operator intention to diagnose
+  and treat conditions
 permalink: https://www.envisioning.com/xenotech/bioenergetic-radionic-instruments
 collection: biology-hybridization
 trl: 3
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760814099/xenotech/technologies/orgone-accumulator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772902895/xenotech/technologies/bioenergetic-radionic-instruments-openrouter-google-gemini-3.1-flash-image-preview-z3mog7.png
 ---
 
 # Radionic Instruments
 
 ## Summary
 
-Devices claiming to detect, diagnose, and treat through subtle energy, electromagnetic frequencies, or consciousness-mediated mechanisms.
+Instruments using electromagnetic frequencies or operator intention to diagnose and treat conditions
 
 ## Description
 

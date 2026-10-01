@@ -2,20 +2,21 @@
 slug: neural-interface-implant
 hub: subspace
 title: Neural Interface Implant
-summary: Cybernetic implant enabling direct brain-computer interface and data transfer.
+summary: Direct brain-computer connection via surgically implanted electrodes for
+  bidirectional data exchange
 permalink: https://www.envisioning.com/subspace/neural-interface-implant
 collection: biotechnology
 trl: 5
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216689/subspaceindex/technologies/neural-interface-implant.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908548/subspace/technologies/neural-interface-implant-openrouter-google-gemini-3.1-flash-image-preview-nmd9ea.png
 ---
 
 # Neural Interface Implant
 
 ## Summary
 
-Cybernetic implant enabling direct brain-computer interface and data transfer.
+Direct brain-computer connection via surgically implanted electrodes for bidirectional data exchange
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: district-electrified-heat
 hub: grid
 title: District Electrified Heat Systems
-summary: Large-scale heat pump and thermal network solutions for buildings and industry.
+summary: Electric heat pumps and thermal networks delivering centralized heating to
+  buildings and industry
 permalink: https://www.envisioning.com/grid/district-electrified-heat
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435907/grid/
 
 ## Summary
 
-Large-scale heat pump and thermal network solutions for buildings and industry.
+Electric heat pumps and thermal networks delivering centralized heating to buildings and industry
 
 ## Description
 

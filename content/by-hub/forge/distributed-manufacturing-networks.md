@@ -2,7 +2,8 @@
 slug: distributed-manufacturing-networks
 hub: forge
 title: Distributed Manufacturing Networks
-summary: Hyperlocal production ecosystems that bring manufacturing closer to end customers.
+summary: Geographically dispersed production facilities positioned near end markets
+  for demand-responsive manufacturing
 permalink: https://www.envisioning.com/forge/distributed-manufacturing-networks
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118406/forge
 
 ## Summary
 
-Hyperlocal production ecosystems that bring manufacturing closer to end customers.
+Geographically dispersed production facilities positioned near end markets for demand-responsive manufacturing
 
 ## Description
 

@@ -2,20 +2,21 @@
 slug: tetryon-beam
 hub: subspace
 title: Tetryon Beam Emitter
-summary: Directed-energy system using subspace-coupled tetryons.
+summary: Directed-energy weapon using hypothetical subspace-coupled particles to penetrate
+  shields
 permalink: https://www.envisioning.com/subspace/tetryon-beam
 collection: weapons
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760269771/subspaceindex/technologies/tetryon-beam.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909154/subspace/technologies/tetryon-beam-openrouter-google-gemini-3.1-flash-image-preview-670tz7.png
 ---
 
 # Tetryon Beam Emitter
 
 ## Summary
 
-Directed-energy system using subspace-coupled tetryons.
+Directed-energy weapon using hypothetical subspace-coupled particles to penetrate shields
 
 ## Description
 

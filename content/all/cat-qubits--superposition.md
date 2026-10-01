@@ -2,8 +2,7 @@
 slug: cat-qubits
 hub: superposition
 title: Cat Qubits
-summary: Bosonic qubits encoded in superconducting cavities that exhibit biased noise
-  channels.
+summary: Quantum bits in superconducting cavities that suppress bit-flip errors exponentially
 permalink: https://www.envisioning.com/superposition/cat-qubits
 collection: hardware
 trl: 3
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069389/super
 
 ## Summary
 
-Bosonic qubits encoded in superconducting cavities that exhibit biased noise channels.
+Quantum bits in superconducting cavities that suppress bit-flip errors exponentially
 
 ## Description
 

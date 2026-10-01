@@ -2,8 +2,8 @@
 slug: produtividade-construcao-civil
 hub: moradia
 title: Produtividade da Construção Civil
-summary: Desafios e oportunidades para aumentar produtividade do setor construtivo
-  brasileiro.
+summary: Análise dos gargalos de produtividade no setor construtivo brasileiro e caminhos
+  para modernização
 permalink: https://www.envisioning.com/moradia/produtividade-construcao-civil
 collection: modelos-mercado-governanca
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766580068/habit
 
 ## Summary
 
-Desafios e oportunidades para aumentar produtividade do setor construtivo brasileiro.
+Análise dos gargalos de produtividade no setor construtivo brasileiro e caminhos para modernização
 
 ## Description
 

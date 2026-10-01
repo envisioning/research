@@ -2,7 +2,8 @@
 slug: in-space-refueling-depots
 hub: apogee
 title: In-Space Refueling Depots
-summary: Orbital propellant depots and tanker tugs enabling reusable deep-space architectures.
+summary: Orbital fuel stations that store and transfer propellant between spacecraft
+  in orbit
 permalink: https://www.envisioning.com/apogee/in-space-refueling-depots
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011738/apoge
 
 ## Summary
 
-Orbital propellant depots and tanker tugs enabling reusable deep-space architectures.
+Orbital fuel stations that store and transfer propellant between spacecraft in orbit
 
 ## Description
 

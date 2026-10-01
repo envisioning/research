@@ -2,7 +2,7 @@
 slug: urban-air-mobility
 hub: altitude
 title: Urban Air Mobility (UAM)
-summary: On-demand electric air taxi networks for intra-city transportation.
+summary: Electric air taxi networks using eVTOL aircraft for on-demand urban flights
 permalink: https://www.envisioning.com/altitude/urban-air-mobility
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643121/altit
 
 ## Summary
 
-On-demand electric air taxi networks for intra-city transportation.
+Electric air taxi networks using eVTOL aircraft for on-demand urban flights
 
 ## Description
 

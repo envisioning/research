@@ -2,8 +2,8 @@
 slug: pbsa-management-platforms
 hub: habitat
 title: PBSA Management Platforms
-summary: Specialized property management systems for purpose-built student accommodation
-  with academic calendar integration.
+summary: Property management software designed for student housing with semester-based
+  leasing and university integration
 permalink: https://www.envisioning.com/habitat/pbsa-management-platforms
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768310153/habit
 
 ## Summary
 
-Specialized property management systems for purpose-built student accommodation with academic calendar integration.
+Property management software designed for student housing with semester-based leasing and university integration
 
 ## Description
 

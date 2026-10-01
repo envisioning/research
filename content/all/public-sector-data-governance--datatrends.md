@@ -2,8 +2,8 @@
 slug: public-sector-data-governance
 hub: datatrends
 title: Public Sector Data Governance
-summary: Government initiatives to improve data governance, transparency, and open
-  data practices across public institutions.
+summary: Frameworks for managing, protecting, and sharing government data across public
+  institutions
 permalink: https://www.envisioning.com/datatrends/public-sector-data-governance
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958250/datat
 
 ## Summary
 
-Government initiatives to improve data governance, transparency, and open data practices across public institutions.
+Frameworks for managing, protecting, and sharing government data across public institutions
 
 ## Description
 

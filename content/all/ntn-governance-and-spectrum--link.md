@@ -2,7 +2,8 @@
 slug: ntn-governance-and-spectrum
 hub: link
 title: Non-Terrestrial Network Governance & Spectrum
-summary: Policy and coordination frameworks for satellite mega-constellations.
+summary: Regulatory frameworks for managing spectrum and orbital slots in satellite
+  mega-constellations
 permalink: https://www.envisioning.com/link/ntn-governance-and-spectrum
 collection: ethics-security
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765179369/link/
 
 ## Summary
 
-Policy and coordination frameworks for satellite mega-constellations.
+Regulatory frameworks for managing spectrum and orbital slots in satellite mega-constellations
 
 ## Description
 

@@ -2,7 +2,7 @@
 slug: integrated-access-backhaul
 hub: link
 title: Integrated Access & Backhaul (IAB)
-summary: Wireless relay chains that extend coverage without fiber backhaul.
+summary: Wireless relay nodes that extend 5G coverage without requiring fiber backhaul
 permalink: https://www.envisioning.com/link/integrated-access-backhaul
 collection: hardware
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435209/link/
 
 ## Summary
 
-Wireless relay chains that extend coverage without fiber backhaul.
+Wireless relay nodes that extend 5G coverage without requiring fiber backhaul
 
 ## Description
 

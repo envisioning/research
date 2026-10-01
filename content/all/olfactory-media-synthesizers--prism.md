@@ -2,7 +2,7 @@
 slug: olfactory-media-synthesizers
 hub: prism
 title: Olfactory Media Synthesizers
-summary: Digital scent transmission devices for immersive emotional reinforcement.
+summary: Devices that synthesize and release scents in sync with media to deepen immersion
 permalink: https://www.envisioning.com/prism/olfactory-media-synthesizers
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062494/pulse
 
 ## Summary
 
-Digital scent transmission devices for immersive emotional reinforcement.
+Devices that synthesize and release scents in sync with media to deepen immersion
 
 ## Description
 

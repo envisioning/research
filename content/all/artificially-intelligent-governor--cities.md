@@ -2,14 +2,10 @@
 slug: artificially-intelligent-governor
 hub: cities
 title: Artificially Intelligent Governor
-summary: An advanced AI system designed to enhance urban governance by leveraging
-  big data, machine learning, and predictive analytics. This technology addresses
-  urban issues like inefficiencies in infrastructure management, delayed responses
-  to problems, and the inability to adapt swiftly to changing urban dynamics. By integrating
-  various data sources, including real-time traffic information, environmental sensors,
-  and social media trends, the AIG provides a comprehensive overview of city operations.
+summary: AI system that analyzes urban data to optimize city operations and governance
+  decisions
 permalink: https://www.envisioning.com/cities/artificially-intelligent-governor
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: software
 trl: 5
 impact: 1
 investment: 1
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1718792166-artificially-intelli
 
 ## Summary
 
-An advanced AI system designed to enhance urban governance by leveraging big data, machine learning, and predictive analytics. This technology addresses urban issues like inefficiencies in infrastructure management, delayed responses to problems, and the inability to adapt swiftly to changing urban dynamics. By integrating various data sources, including real-time traffic information, environmental sensors, and social media trends, the AIG provides a comprehensive overview of city operations.
+AI system that analyzes urban data to optimize city operations and governance decisions
 
 ## Description
 

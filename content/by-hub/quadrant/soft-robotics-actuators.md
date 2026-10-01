@@ -2,7 +2,8 @@
 slug: soft-robotics-actuators
 hub: quadrant
 title: Soft Robotics Actuators
-summary: Compliant materials for safe, adaptable human-robot interaction.
+summary: Flexible actuators using compliant materials that bend and conform for safer
+  human interaction
 permalink: https://www.envisioning.com/quadrant/soft-robotics-actuators
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124018/quadr
 
 ## Summary
 
-Compliant materials for safe, adaptable human-robot interaction.
+Flexible actuators using compliant materials that bend and conform for safer human interaction
 
 ## Description
 

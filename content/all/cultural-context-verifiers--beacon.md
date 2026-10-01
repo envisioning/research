@@ -2,7 +2,8 @@
 slug: cultural-context-verifiers
 hub: beacon
 title: Cultural Context Verification Layers
-summary: Preventing harmful decontextualization of content.
+summary: AI systems that detect when content is shared outside its original cultural
+  context
 permalink: https://www.envisioning.com/beacon/cultural-context-verifiers
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125405/beaco
 
 ## Summary
 
-Preventing harmful decontextualization of content.
+AI systems that detect when content is shared outside its original cultural context
 
 ## Description
 

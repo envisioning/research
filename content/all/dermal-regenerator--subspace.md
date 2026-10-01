@@ -2,21 +2,20 @@
 slug: dermal-regenerator
 hub: subspace
 title: Dermal Regenerator
-summary: Handheld medical device for accelerated healing of wounds, burns, and tissue
-  damage.
+summary: Handheld device using energy fields to accelerate wound and tissue healing
 permalink: https://www.envisioning.com/subspace/dermal-regenerator
 collection: biotechnology
 trl: 6
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760216240/subspaceindex/technologies/dermal-regenerator.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772907801/subspace/technologies/dermal-regenerator-openrouter-google-gemini-3.1-flash-image-preview-21rgmd.png
 ---
 
 # Dermal Regenerator
 
 ## Summary
 
-Handheld medical device for accelerated healing of wounds, burns, and tissue damage.
+Handheld device using energy fields to accelerate wound and tissue healing
 
 ## Description
 

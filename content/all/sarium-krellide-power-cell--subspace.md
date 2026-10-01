@@ -2,20 +2,21 @@
 slug: sarium-krellide-power-cell
 hub: subspace
 title: Sarium Krellide Power Cell
-summary: High-density rechargeable cell for portable equipment.
+summary: Fictional ultra-dense battery using exotic materials for advanced portable
+  power
 permalink: https://www.envisioning.com/subspace/sarium-krellide-power-cell
 collection: energy
 trl: 9
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760274029/subspaceindex/technologies/sarium-krellide-power-cell.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772908906/subspace/technologies/sarium-krellide-power-cell-openrouter-google-gemini-3.1-flash-image-preview-zvg3w7.png
 ---
 
 # Sarium Krellide Power Cell
 
 ## Summary
 
-High-density rechargeable cell for portable equipment.
+Fictional ultra-dense battery using exotic materials for advanced portable power
 
 ## Description
 

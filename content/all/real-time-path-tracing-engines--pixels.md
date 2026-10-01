@@ -2,8 +2,8 @@
 slug: real-time-path-tracing-engines
 hub: pixels
 title: Real-Time Path Tracing Engines
-summary: GPU-accelerated engines delivering full-path traced lighting in interactive
-  scenes.
+summary: GPU-accelerated rendering that traces light paths for photorealistic game
+  visuals at playable frame rates
 permalink: https://www.envisioning.com/pixels/real-time-path-tracing-engines
 collection: software
 trl: 6
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062231/pixel
 
 ## Summary
 
-GPU-accelerated engines delivering full-path traced lighting in interactive scenes.
+GPU-accelerated rendering that traces light paths for photorealistic game visuals at playable frame rates
 
 ## Description
 

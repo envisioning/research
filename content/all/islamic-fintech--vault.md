@@ -2,7 +2,8 @@
 slug: islamic-fintech
 hub: vault
 title: Islamic Fintech & Shariah-Compliant Platforms
-summary: Digital finance adhering to Islamic law.
+summary: Digital banking and investment platforms designed to comply with Islamic
+  law principles
 permalink: https://www.envisioning.com/vault/islamic-fintech
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129126/vault
 
 ## Summary
 
-Digital finance adhering to Islamic law.
+Digital banking and investment platforms designed to comply with Islamic law principles
 
 ## Description
 

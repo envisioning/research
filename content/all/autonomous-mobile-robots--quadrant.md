@@ -2,7 +2,8 @@
 slug: autonomous-mobile-robots
 hub: quadrant
 title: Autonomous Mobile Robots
-summary: Self-navigating vehicles for intra-plant logistics.
+summary: Self-navigating robots that move materials through factories without fixed
+  tracks or guides
 permalink: https://www.envisioning.com/quadrant/autonomous-mobile-robots
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765123922/quadr
 
 ## Summary
 
-Self-navigating vehicles for intra-plant logistics.
+Self-navigating robots that move materials through factories without fixed tracks or guides
 
 ## Description
 

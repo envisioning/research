@@ -2,7 +2,8 @@
 slug: electric-maritime-ferries
 hub: atlas
 title: Electric Maritime Ferries
-summary: Battery-powered ferries for island and coastal mobility.
+summary: Battery-powered passenger vessels replacing diesel ferries on short-sea and
+  island routes
 permalink: https://www.envisioning.com/atlas/electric-maritime-ferries
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125610/atlas
 
 ## Summary
 
-Battery-powered ferries for island and coastal mobility.
+Battery-powered passenger vessels replacing diesel ferries on short-sea and island routes
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: affective-obfuscation
 hub: beacon
 title: Affective Obfuscation Layers
-summary: Middleware to prevent unauthorized emotion analysis.
+summary: Middleware that blocks unauthorized emotion detection from facial expressions
+  in video
 permalink: https://www.envisioning.com/beacon/affective-obfuscation
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124355/beaco
 
 ## Summary
 
-Middleware to prevent unauthorized emotion analysis.
+Middleware that blocks unauthorized emotion detection from facial expressions in video
 
 ## Description
 

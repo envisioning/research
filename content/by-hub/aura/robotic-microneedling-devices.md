@@ -2,7 +2,8 @@
 slug: robotic-microneedling-devices
 hub: aura
 title: Microneedling Devices
-summary: Motorized dermal pens and stamps delivering collagen induction therapy.
+summary: Motorized pens creating micro-injuries to stimulate collagen production and
+  skin renewal
 permalink: https://www.envisioning.com/aura/robotic-microneedling-devices
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074013/aura/
 
 ## Summary
 
-Motorized dermal pens and stamps delivering collagen induction therapy.
+Motorized pens creating micro-injuries to stimulate collagen production and skin renewal
 
 ## Description
 

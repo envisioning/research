@@ -2,7 +2,7 @@
 slug: space-tourism-capsules
 hub: apogee
 title: Space Tourism Capsules
-summary: Suborbital and orbital passenger systems entering commercial service.
+summary: Commercial passenger vehicles for suborbital and orbital spaceflight experiences
 permalink: https://www.envisioning.com/apogee/space-tourism-capsules
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180869/apoge
 
 ## Summary
 
-Suborbital and orbital passenger systems entering commercial service.
+Commercial passenger vehicles for suborbital and orbital spaceflight experiences
 
 ## Description
 

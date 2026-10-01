@@ -2,7 +2,8 @@
 slug: portable-science-labs
 hub: axiom
 title: Portable Science Labs
-summary: Suitcase labs bundling microscopes, sensors, and AR overlays.
+summary: Compact lab kits with sensors, microscopes, and AR software for science education
+  anywhere
 permalink: https://www.envisioning.com/axiom/portable-science-labs
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764162119/axiom
 
 ## Summary
 
-Suitcase labs bundling microscopes, sensors, and AR overlays.
+Compact lab kits with sensors, microscopes, and AR software for science education anywhere
 
 ## Description
 

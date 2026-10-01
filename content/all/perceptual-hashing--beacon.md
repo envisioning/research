@@ -2,7 +2,7 @@
 slug: perceptual-hashing
 hub: beacon
 title: Perceptual Hashing Watermarks
-summary: Resilient invisible signals for AI content.
+summary: Invisible markers embedded in AI content that survive editing and manipulation
 permalink: https://www.envisioning.com/beacon/perceptual-hashing
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124870/beaco
 
 ## Summary
 
-Resilient invisible signals for AI content.
+Invisible markers embedded in AI content that survive editing and manipulation
 
 ## Description
 

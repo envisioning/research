@@ -2,7 +2,8 @@
 slug: agentic-workflow-orchestrators
 hub: synapse
 title: Agentic Workflow Orchestrators
-summary: Autonomous AI agents that manage and execute complex business processes.
+summary: AI systems that autonomously plan, execute, and adapt multi-step business
+  processes without constant human input
 permalink: https://www.envisioning.com/synapse/agentic-workflow-orchestrators
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111101/synap
 
 ## Summary
 
-Autonomous AI agents that manage and execute complex business processes.
+AI systems that autonomously plan, execute, and adapt multi-step business processes without constant human input
 
 ## Description
 

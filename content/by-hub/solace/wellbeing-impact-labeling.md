@@ -2,8 +2,8 @@
 slug: wellbeing-impact-labeling
 hub: solace
 title: Wellbeing Impact Labeling Schemes
-summary: Labeling standards that rate digital products on their psychological and
-  social impact.
+summary: Standardized ratings that reveal how digital products affect mental health
+  and social wellbeing
 permalink: https://www.envisioning.com/solace/wellbeing-impact-labeling
 collection: ethics-security
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765436544/solac
 
 ## Summary
 
-Labeling standards that rate digital products on their psychological and social impact.
+Standardized ratings that reveal how digital products affect mental health and social wellbeing
 
 ## Description
 

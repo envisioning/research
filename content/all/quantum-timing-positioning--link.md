@@ -2,7 +2,7 @@
 slug: quantum-timing-positioning
 hub: link
 title: Quantum Timing & Positioning Systems
-summary: Ultra-precise atomic sensors as alternatives to satellite GPS.
+summary: Navigation and timing using quantum sensors instead of satellite signals
 permalink: https://www.envisioning.com/link/quantum-timing-positioning
 collection: hardware
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435160/link/
 
 ## Summary
 
-Ultra-precise atomic sensors as alternatives to satellite GPS.
+Navigation and timing using quantum sensors instead of satellite signals
 
 ## Description
 

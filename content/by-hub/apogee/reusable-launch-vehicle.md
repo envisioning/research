@@ -2,19 +2,21 @@
 slug: reusable-launch-vehicle
 hub: apogee
 title: Reusable Launch Vehicle
-summary: Rockets that return and land for reuse; commercial deployment.
+summary: Rockets designed to land and fly again, cutting launch costs for satellite
+  and cargo missions
 permalink: https://www.envisioning.com/apogee/reusable-launch-vehicle
 collection: hardware
 trl: 9
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774882564/apogee/technologies/14c0558c-7a13-494f-b759-50f44fd8f519-google-gemini-3.1-flash-image-preview-9476fh.jpg
 ---
 
 # Reusable Launch Vehicle
 
 ## Summary
 
-Rockets that return and land for reuse; commercial deployment.
+Rockets designed to land and fly again, cutting launch costs for satellite and cargo missions
 
 ## Description
 

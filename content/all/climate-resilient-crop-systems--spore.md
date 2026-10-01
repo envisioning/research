@@ -2,7 +2,8 @@
 slug: climate-resilient-crop-systems
 hub: spore
 title: Climate-Resilient Crop Systems
-summary: Drought-tolerant crops and seed coatings with microbial consortia.
+summary: Drought-tolerant crops enhanced with microbial seed coatings for extreme
+  weather adaptation
 permalink: https://www.envisioning.com/spore/climate-resilient-crop-systems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179630/spore
 
 ## Summary
 
-Drought-tolerant crops and seed coatings with microbial consortia.
+Drought-tolerant crops enhanced with microbial seed coatings for extreme weather adaptation
 
 ## Description
 

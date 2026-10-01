@@ -2,8 +2,8 @@
 slug: healthcare-data-privacy
 hub: datatrends
 title: Healthcare Data Privacy Analytics
-summary: Balancing healthcare analytics innovation with patient privacy under data
-  protection regulations and medical confidentiality requirements.
+summary: Privacy-preserving techniques that enable clinical insights while maintaining
+  patient confidentiality and regulatory com
 permalink: https://www.envisioning.com/datatrends/healthcare-data-privacy
 collection: management-foundations
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958421/datat
 
 ## Summary
 
-Balancing healthcare analytics innovation with patient privacy under data protection regulations and medical confidentiality requirements.
+Privacy-preserving techniques that enable clinical insights while maintaining patient confidentiality and regulatory com
 
 ## Description
 

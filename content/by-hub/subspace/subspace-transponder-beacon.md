@@ -2,20 +2,21 @@
 slug: subspace-transponder-beacon
 hub: subspace
 title: Subspace Transponder Beacon
-summary: Autonomous locator and messaging node with long-duration power.
+summary: Autonomous deep-space relay for navigation and encrypted messaging in remote
+  or contested zones
 permalink: https://www.envisioning.com/subspace/subspace-transponder-beacon
 collection: communications
 trl: 6
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263945/subspaceindex/technologies/subspace-transponder-beacon.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909090/subspace/technologies/subspace-transponder-beacon-openrouter-google-gemini-3.1-flash-image-preview-rooof9.png
 ---
 
 # Subspace Transponder Beacon
 
 ## Summary
 
-Autonomous locator and messaging node with long-duration power.
+Autonomous deep-space relay for navigation and encrypted messaging in remote or contested zones
 
 ## Description
 

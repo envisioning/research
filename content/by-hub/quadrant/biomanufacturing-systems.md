@@ -2,7 +2,8 @@
 slug: biomanufacturing-systems
 hub: quadrant
 title: Biomanufacturing Systems
-summary: Engineered organisms producing industrial materials and chemicals.
+summary: Genetically engineered microorganisms producing materials through programmed
+  metabolic pathways
 permalink: https://www.envisioning.com/quadrant/biomanufacturing-systems
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127290/quadr
 
 ## Summary
 
-Engineered organisms producing industrial materials and chemicals.
+Genetically engineered microorganisms producing materials through programmed metabolic pathways
 
 ## Description
 

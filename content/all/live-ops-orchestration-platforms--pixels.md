@@ -2,7 +2,8 @@
 slug: live-ops-orchestration-platforms
 hub: pixels
 title: Live Ops Orchestration Platforms
-summary: Tooling for experiments, events, and economy tweaks without redeploys.
+summary: Control planes for real-time game tuning, events, and A/B tests without client
+  patches
 permalink: https://www.envisioning.com/pixels/live-ops-orchestration-platforms
 collection: software
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062297/pixel
 
 ## Summary
 
-Tooling for experiments, events, and economy tweaks without redeploys.
+Control planes for real-time game tuning, events, and A/B tests without client patches
 
 ## Description
 

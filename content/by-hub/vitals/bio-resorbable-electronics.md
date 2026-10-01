@@ -2,8 +2,8 @@
 slug: bio-resorbable-electronics
 hub: vitals
 title: Bio-Resorbable Electronics
-summary: Transient electronic sensors and implants that dissolve safely in the body
-  after their function is complete.
+summary: Medical implants and sensors engineered to dissolve harmlessly in the body
+  after use
 permalink: https://www.envisioning.com/vitals/bio-resorbable-electronics
 collection: hardware
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441636/vital
 
 ## Summary
 
-Transient electronic sensors and implants that dissolve safely in the body after their function is complete.
+Medical implants and sensors engineered to dissolve harmlessly in the body after use
 
 ## Description
 

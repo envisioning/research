@@ -2,21 +2,21 @@
 slug: ball-lightning-containment
 hub: xenotech
 title: Ball Lightning
-summary: Soviet and Western laboratory attempts to create and stabilize self-sustaining
-  plasma spheres, with reported UAP behavioral similarities.
+summary: Laboratory attempts to create and stabilize luminous plasma spheres observed
+  in nature
 permalink: https://www.envisioning.com/xenotech/ball-lightning-containment
 collection: propulsion-physics
 trl: 4
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760984898/xenotech/technologies/ball-lightning-containment.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938705/xenotech/technologies/ball-lightning-containment-imagegen-v1.png
 ---
 
 # Ball Lightning
 
 ## Summary
 
-Soviet and Western laboratory attempts to create and stabilize self-sustaining plasma spheres, with reported UAP behavioral similarities.
+Laboratory attempts to create and stabilize luminous plasma spheres observed in nature
 
 ## Description
 

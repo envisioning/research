@@ -2,7 +2,8 @@
 slug: synthetic-companions
 hub: wintermute
 title: Synthetic Companions
-summary: Persistent digital beings with personal memory and adaptive relational styles.
+summary: AI systems designed for long-term emotional relationships with persistent
+  memory and adaptive personalities
 permalink: https://www.envisioning.com/wintermute/synthetic-companions
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180425/winte
 
 ## Summary
 
-Persistent digital beings with personal memory and adaptive relational styles.
+AI systems designed for long-term emotional relationships with persistent memory and adaptive personalities
 
 ## Description
 

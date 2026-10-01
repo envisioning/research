@@ -2,7 +2,7 @@
 slug: neonatal-tele-rehabilitation
 hub: cradle
 title: Neonatal Tele-Rehabilitation
-summary: Remote developmental therapies for high-risk infants.
+summary: Remote developmental therapy for high-risk infants in their home environment
 permalink: https://www.envisioning.com/cradle/neonatal-tele-rehabilitation
 collection: applications
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131064/cradl
 
 ## Summary
 
-Remote developmental therapies for high-risk infants.
+Remote developmental therapy for high-risk infants in their home environment
 
 ## Description
 

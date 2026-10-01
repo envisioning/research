@@ -2,14 +2,10 @@
 slug: sponge-city
 hub: cities
 title: Sponge City
-summary: A transformative urban water management that addresses problems associated
-  with increased urbanisation and climate change—namely, urban flooding, water scarcity,
-  and pollution. This strategy involves retrofitting urban environments with natural
-  and engineered features that mimic natural water processes. Key elements include
-  permeable pavements, green roofs, rain gardens, and artificial wetlands, which work
-  collectively to absorb, filter, and store rainwater.
+summary: Urban design using permeable surfaces and green infrastructure to absorb,
+  filter, and store rainwater naturally
 permalink: https://www.envisioning.com/cities/sponge-city
-collection: H6ZGfOAGRYiyQnO0zdvKVA
+collection: applications
 trl: 6
 impact: 3
 investment: 2
@@ -20,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719393258-sponge-city.png
 
 ## Summary
 
-A transformative urban water management that addresses problems associated with increased urbanisation and climate change—namely, urban flooding, water scarcity, and pollution. This strategy involves retrofitting urban environments with natural and engineered features that mimic natural water processes. Key elements include permeable pavements, green roofs, rain gardens, and artificial wetlands, which work collectively to absorb, filter, and store rainwater.
+Urban design using permeable surfaces and green infrastructure to absorb, filter, and store rainwater naturally
 
 ## Description
 

@@ -2,21 +2,21 @@
 slug: ra-material-travel-mechanics
 hub: xenotech
 title: Density Travel
-summary: Channeled metaphysical framework describing travel via time/space coordinate
-  adjustment, density-shifting materialization, and light-body vehicles.
+summary: Channeled framework for interdimensional travel through density shifts and
+  consciousness-based coordinates
 permalink: https://www.envisioning.com/xenotech/ra-material-travel-mechanics
 collection: temporal-dimensional
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760876314/xenotech/technologies/ra-material-travel-mechanics.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897988/xenotech/technologies/ra-material-travel-mechanics-openrouter-google-gemini-3.1-flash-image-preview-4mq80t.png
 ---
 
 # Density Travel
 
 ## Summary
 
-Channeled metaphysical framework describing travel via time/space coordinate adjustment, density-shifting materialization, and light-body vehicles.
+Channeled framework for interdimensional travel through density shifts and consciousness-based coordinates
 
 ## Description
 

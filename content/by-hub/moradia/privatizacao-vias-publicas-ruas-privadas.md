@@ -2,8 +2,8 @@
 slug: privatizacao-vias-publicas-ruas-privadas
 hub: moradia
 title: Privatização de Vias Públicas e Ruas Privadas
-summary: Venda ou concessão de ruas públicas para empresas privadas, criando vias
-  privadas com controle de acesso e gestão empresarial.
+summary: Concessão de ruas públicas para gestão privada com controle de acesso e restrições
+  de uso
 permalink: https://www.envisioning.com/moradia/privatizacao-vias-publicas-ruas-privadas
 collection: modelos-mercado-governanca
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766591792/habit
 
 ## Summary
 
-Venda ou concessão de ruas públicas para empresas privadas, criando vias privadas com controle de acesso e gestão empresarial.
+Concessão de ruas públicas para gestão privada com controle de acesso e restrições de uso
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: interactive-documentary-platforms
 hub: vortex
 title: Interactive Documentary Platforms
-summary: Non-fiction storytelling with branching and data layers.
+summary: Non-fiction storytelling platforms with branching narratives and interactive
+  data layers
 permalink: https://www.envisioning.com/vortex/interactive-documentary-platforms
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127209/vorte
 
 ## Summary
 
-Non-fiction storytelling with branching and data layers.
+Non-fiction storytelling platforms with branching narratives and interactive data layers
 
 ## Description
 

@@ -2,22 +2,21 @@
 slug: dimensional-bubble-chambers
 hub: xenotech
 title: Dimensional Chambers
-summary: Self-contained perceptual and spatial constructs creating localized spacetime
-  pockets stabilized by electromagnetic resonance for psychological testing, acclimation,
-  and reality overlay during encounters.
+summary: Self-contained spatial pockets using EM fields for immersive psychological
+  testing and perception training
 permalink: https://www.envisioning.com/xenotech/dimensional-bubble-chambers
 collection: consciousness-interface
 trl: 3
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761681453/xenotech/technologies/dimensional-bubble-chambers.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898001/xenotech/technologies/dimensional-bubble-chambers-openrouter-google-gemini-3.1-flash-image-preview-p1j8iu.png
 ---
 
 # Dimensional Chambers
 
 ## Summary
 
-Self-contained perceptual and spatial constructs creating localized spacetime pockets stabilized by electromagnetic resonance for psychological testing, acclimation, and reality overlay during encounters.
+Self-contained spatial pockets using EM fields for immersive psychological testing and perception training
 
 ## Description
 

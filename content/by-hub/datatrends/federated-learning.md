@@ -2,8 +2,8 @@
 slug: federated-learning
 hub: datatrends
 title: Federated Learning for Distributed Analytics
-summary: Training machine learning models across decentralized data sources without
-  centralizing sensitive information, enabling collaborative analytics.
+summary: Training ML models across decentralized sources while keeping sensitive data
+  local
 permalink: https://www.envisioning.com/datatrends/federated-learning
 collection: decision-intelligence-ai
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766958588/datat
 
 ## Summary
 
-Training machine learning models across decentralized data sources without centralizing sensitive information, enabling collaborative analytics.
+Training ML models across decentralized sources while keeping sensitive data local
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: light-field-holographic-displays
 hub: pixels
 title: Light Field Holographic Displays
-summary: Glass-free 3D visualization for shared gaming experiences.
+summary: Glasses-free 3D displays that render volumetric game scenes players can view
+  from any angle
 permalink: https://www.envisioning.com/pixels/light-field-holographic-displays
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062001/pixel
 
 ## Summary
 
-Glass-free 3D visualization for shared gaming experiences.
+Glasses-free 3D displays that render volumetric game scenes players can view from any angle
 
 ## Description
 

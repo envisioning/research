@@ -2,20 +2,21 @@
 slug: transporter-pattern-buffer-storage
 hub: subspace
 title: Transporter Pattern Buffer (Extended)
-summary: Extended pattern storage for suspended animation and rescue.
+summary: Long-term quantum-state storage for matter streams during transport or suspended
+  animation
 permalink: https://www.envisioning.com/subspace/transporter-pattern-buffer-storage
 collection: computing
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760263609/subspaceindex/technologies/transporter-pattern-buffer-storage.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772909275/subspace/technologies/transporter-pattern-buffer-storage-openrouter-google-gemini-3.1-flash-image-preview-exhp1b.png
 ---
 
 # Transporter Pattern Buffer (Extended)
 
 ## Summary
 
-Extended pattern storage for suspended animation and rescue.
+Long-term quantum-state storage for matter streams during transport or suspended animation
 
 ## Description
 

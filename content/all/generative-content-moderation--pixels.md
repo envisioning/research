@@ -2,7 +2,8 @@
 slug: generative-content-moderation
 hub: pixels
 title: Generative Content Moderation
-summary: Screening AI-generated content to prevent harm.
+summary: AI systems that screen player-created game assets for harmful or infringing
+  content in real time
 permalink: https://www.envisioning.com/pixels/generative-content-moderation
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011660/pixel
 
 ## Summary
 
-Screening AI-generated content to prevent harm.
+AI systems that screen player-created game assets for harmful or infringing content in real time
 
 ## Description
 

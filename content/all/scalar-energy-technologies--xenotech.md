@@ -2,21 +2,21 @@
 slug: scalar-energy-technologies
 hub: xenotech
 title: Scalar Energy Technologies
-summary: Controversial electromagnetic systems claiming to operate through longitudinal
-  scalar waves for energy transmission, spacetime engineering, and consciousness coupling.
+summary: Longitudinal wave systems claiming energy transmission and spacetime effects
+  beyond standard electromagnetism
 permalink: https://www.envisioning.com/xenotech/scalar-energy-technologies
 collection: propulsion-physics
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761030412/xenotech/technologies/scalar-energy-technologies.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903003/xenotech/technologies/scalar-energy-technologies-openrouter-google-gemini-3.1-flash-image-preview-hv1gre.png
 ---
 
 # Scalar Energy Technologies
 
 ## Summary
 
-Controversial electromagnetic systems claiming to operate through longitudinal scalar waves for energy transmission, spacetime engineering, and consciousness coupling.
+Longitudinal wave systems claiming energy transmission and spacetime effects beyond standard electromagnetism
 
 ## Description
 

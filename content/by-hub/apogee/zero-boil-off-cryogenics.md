@@ -2,7 +2,8 @@
 slug: zero-boil-off-cryogenics
 hub: apogee
 title: Zero-Boil-Off Cryogenic Storage
-summary: Active thermal control systems preventing propellant loss on long missions.
+summary: Active cooling systems that eliminate cryogenic propellant evaporation during
+  extended space missions
 permalink: https://www.envisioning.com/apogee/zero-boil-off-cryogenics
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011555/apoge
 
 ## Summary
 
-Active thermal control systems preventing propellant loss on long missions.
+Active cooling systems that eliminate cryogenic propellant evaporation during extended space missions
 
 ## Description
 

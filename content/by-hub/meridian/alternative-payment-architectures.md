@@ -2,7 +2,7 @@
 slug: alternative-payment-architectures
 hub: meridian
 title: Alternative Payment Architectures
-summary: Non-dollar settlement systems.
+summary: Cross-border payment systems that bypass dollar-based settlement infrastructure
 permalink: https://www.envisioning.com/meridian/alternative-payment-architectures
 collection: software
 trl: 6
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131060/merid
 
 ## Summary
 
-Non-dollar settlement systems.
+Cross-border payment systems that bypass dollar-based settlement infrastructure
 
 ## Description
 

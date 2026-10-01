@@ -2,8 +2,8 @@
 slug: topological-qubits
 hub: superposition
 title: Topological Qubits
-summary: Fault-tolerant qubits based on topological phases of matter, offering inherent
-  protection against local errors.
+summary: Qubits using exotic matter phases to resist quantum errors without heavy
+  correction overhead
 permalink: https://www.envisioning.com/superposition/topological-qubits
 collection: hardware
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069263/super
 
 ## Summary
 
-Fault-tolerant qubits based on topological phases of matter, offering inherent protection against local errors.
+Qubits using exotic matter phases to resist quantum errors without heavy correction overhead
 
 ## Description
 

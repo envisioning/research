@@ -2,7 +2,8 @@
 slug: strategic-digital-twin-engines
 hub: meridian
 title: Strategic Digital Twin Engines
-summary: Simulating systemic shocks and escalation paths.
+summary: Modeling how economic, military, cyber, and information systems interact
+  during crises
 permalink: https://www.envisioning.com/meridian/strategic-digital-twin-engines
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129349/merid
 
 ## Summary
 
-Simulating systemic shocks and escalation paths.
+Modeling how economic, military, cyber, and information systems interact during crises
 
 ## Description
 

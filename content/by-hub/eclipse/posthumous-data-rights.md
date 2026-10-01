@@ -2,7 +2,7 @@
 slug: posthumous-data-rights
 hub: eclipse
 title: Posthumous Data Privacy
-summary: Frameworks for ownership and consent of deceased data.
+summary: Legal and ethical frameworks governing digital information after death
 permalink: https://www.envisioning.com/eclipse/posthumous-data-rights
 collection: ethics-security
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435154/eclip
 
 ## Summary
 
-Frameworks for ownership and consent of deceased data.
+Legal and ethical frameworks governing digital information after death
 
 ## Description
 

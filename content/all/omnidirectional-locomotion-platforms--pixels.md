@@ -2,7 +2,8 @@
 slug: omnidirectional-locomotion-platforms
 hub: pixels
 title: Omnidirectional Locomotion Platforms
-summary: Low-friction treadmills and motion rigs for natural walking in VR.
+summary: Harness-suspended treadmills that let players walk naturally while staying
+  in place
 permalink: https://www.envisioning.com/pixels/omnidirectional-locomotion-platforms
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062217/pixel
 
 ## Summary
 
-Low-friction treadmills and motion rigs for natural walking in VR.
+Harness-suspended treadmills that let players walk naturally while staying in place
 
 ## Description
 

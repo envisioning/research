@@ -2,8 +2,8 @@
 slug: algorithmic-permitting-systems
 hub: habitat
 title: Algorithmic Permitting Systems
-summary: AI systems that instantly verify architectural plans against local zoning
-  codes.
+summary: AI systems that verify architectural plans against zoning codes and building
+  regulations instantly
 permalink: https://www.envisioning.com/habitat/algorithmic-permitting-systems
 collection: software
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117073/habit
 
 ## Summary
 
-AI systems that instantly verify architectural plans against local zoning codes.
+AI systems that verify architectural plans against zoning codes and building regulations instantly
 
 ## Description
 

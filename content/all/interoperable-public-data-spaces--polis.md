@@ -2,8 +2,8 @@
 slug: interoperable-public-data-spaces
 hub: polis
 title: Interoperable Public Data Spaces
-summary: Shared data infrastructure enabling secure cross-agency and cross-border
-  collaboration.
+summary: Shared infrastructure enabling secure data exchange across government agencies
+  and borders
 permalink: https://www.envisioning.com/polis/interoperable-public-data-spaces
 collection: software
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126894/polis
 
 ## Summary
 
-Shared data infrastructure enabling secure cross-agency and cross-border collaboration.
+Shared infrastructure enabling secure data exchange across government agencies and borders
 
 ## Description
 

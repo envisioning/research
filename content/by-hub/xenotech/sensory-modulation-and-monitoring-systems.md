@@ -2,21 +2,20 @@
 slug: sensory-modulation-and-monitoring-systems
 hub: xenotech
 title: Sensory Modulation
-summary: Witness accounts describing technology that can both read and manipulate
-  human sensory perception across all modalities.
+summary: Technologies reportedly capable of reading and altering human sensory perception
 permalink: https://www.envisioning.com/xenotech/sensory-modulation-and-monitoring-systems
 collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761398191/xenotech/technologies/sensory-modulation-and-monitoring-systems.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903107/xenotech/technologies/sensory-modulation-and-monitoring-systems-openrouter-google-gemini-3.1-flash-image-preview-u6oo59.png
 ---
 
 # Sensory Modulation
 
 ## Summary
 
-Witness accounts describing technology that can both read and manipulate human sensory perception across all modalities.
+Technologies reportedly capable of reading and altering human sensory perception
 
 ## Description
 

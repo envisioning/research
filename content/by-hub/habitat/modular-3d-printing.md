@@ -2,7 +2,8 @@
 slug: modular-3d-printing
 hub: habitat
 title: Modular 3D Printing
-summary: On-site additive manufacturing for rapid structural fabrication.
+summary: Large-scale robotic systems that print buildings layer-by-layer on construction
+  sites
 permalink: https://www.envisioning.com/habitat/modular-3d-printing
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765118465/habit
 
 ## Summary
 
-On-site additive manufacturing for rapid structural fabrication.
+Large-scale robotic systems that print buildings layer-by-layer on construction sites
 
 ## Description
 

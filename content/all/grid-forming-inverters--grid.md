@@ -2,7 +2,8 @@
 slug: grid-forming-inverters
 hub: grid
 title: Grid-Forming Inverters
-summary: Advanced power electronics that provide synthetic inertia and voltage control.
+summary: Power electronics that actively stabilize grid voltage and frequency without
+  rotating generators
 permalink: https://www.envisioning.com/grid/grid-forming-inverters
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131859/grid/
 
 ## Summary
 
-Advanced power electronics that provide synthetic inertia and voltage control.
+Power electronics that actively stabilize grid voltage and frequency without rotating generators
 
 ## Description
 

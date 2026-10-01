@@ -2,8 +2,8 @@
 slug: eapm-gis-gestao-ativos
 hub: moradia
 title: Gestão de Ativos com GIS
-summary: Inventário e manutenção de ativos urbanos integrando cadastro técnico, mapas
-  e ordens de serviço.
+summary: Sistemas que combinam mapas digitais com cadastros técnicos para gerenciar
+  infraestrutura urbana
 permalink: https://www.envisioning.com/moradia/eapm-gis-gestao-ativos
 collection: plataformas-dados
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584245/habit
 
 ## Summary
 
-Inventário e manutenção de ativos urbanos integrando cadastro técnico, mapas e ordens de serviço.
+Sistemas que combinam mapas digitais com cadastros técnicos para gerenciar infraestrutura urbana
 
 ## Description
 

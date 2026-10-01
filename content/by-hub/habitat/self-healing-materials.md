@@ -2,8 +2,8 @@
 slug: self-healing-materials
 hub: habitat
 title: Self-Healing Materials
-summary: Concrete and composites that autonomously repair cracks and extend service
-  life.
+summary: Materials that autonomously repair structural damage to extend infrastructure
+  lifespan
 permalink: https://www.envisioning.com/habitat/self-healing-materials
 collection: hardware
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117956/habit
 
 ## Summary
 
-Concrete and composites that autonomously repair cracks and extend service life.
+Materials that autonomously repair structural damage to extend infrastructure lifespan
 
 ## Description
 

@@ -2,8 +2,7 @@
 slug: vertiport-networks
 hub: habitat
 title: Vertiport Networks
-summary: Infrastructure nodes designed for electric vertical takeoff and landing (eVTOL)
-  aircraft.
+summary: Compact urban landing hubs designed for electric air taxis and vertical aircraft
 permalink: https://www.envisioning.com/habitat/vertiport-networks
 collection: hardware
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117386/habit
 
 ## Summary
 
-Infrastructure nodes designed for electric vertical takeoff and landing (eVTOL) aircraft.
+Compact urban landing hubs designed for electric air taxis and vertical aircraft
 
 ## Description
 

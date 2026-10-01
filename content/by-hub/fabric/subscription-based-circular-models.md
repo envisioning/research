@@ -2,7 +2,8 @@
 slug: subscription-based-circular-models
 hub: fabric
 title: Subscription-Based Circular Models
-summary: Tech-enabled rental and subscription platforms for garment access.
+summary: Monthly garment rental platforms that extend product lifecycles through shared
+  access
 permalink: https://www.envisioning.com/fabric/subscription-based-circular-models
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062519/threa
 
 ## Summary
 
-Tech-enabled rental and subscription platforms for garment access.
+Monthly garment rental platforms that extend product lifecycles through shared access
 
 ## Description
 

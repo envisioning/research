@@ -2,7 +2,8 @@
 slug: sustainable-streaming-infrastructure
 hub: vortex
 title: Sustainable Streaming Infrastructure
-summary: Green data centers and energy-efficient delivery networks.
+summary: Energy-efficient data centers and networks designed to reduce streaming's
+  carbon footprint
 permalink: https://www.envisioning.com/vortex/sustainable-streaming-infrastructure
 collection: ethics-security
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178031/vorte
 
 ## Summary
 
-Green data centers and energy-efficient delivery networks.
+Energy-efficient data centers and networks designed to reduce streaming's carbon footprint
 
 ## Description
 

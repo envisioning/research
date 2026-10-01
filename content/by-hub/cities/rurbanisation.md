@@ -2,16 +2,10 @@
 slug: rurbanisation
 hub: cities
 title: Rurbanisation
-summary: This concept creates balanced, self-sustaining communities that combine the
-  benefits of both urban and rural living environments. By decentralising urban growth,
-  rurbanisation alleviates pressure on urban infrastructures, reduces pollution, and
-  enhances the quality of life for inhabitants. It involves developing infrastructure
-  and services in rural areas, such as high-speed internet, healthcare facilities,
-  and educational institutions, making them attractive alternatives to urban centres.
-  The approach not only supports local economies and job creation but also fosters
-  social cohesion by bridging the gap between urban and rural lifestyles.
+summary: Blending urban amenities with rural living to create balanced, self-sustaining
+  communities
 permalink: https://www.envisioning.com/cities/rurbanisation
-collection: cx3PaKCxTwyemqGwHgWjsg
+collection: applications
 trl: 7
 impact: 2
 investment: 2
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719404614-rurbanisation.png
 
 ## Summary
 
-This concept creates balanced, self-sustaining communities that combine the benefits of both urban and rural living environments. By decentralising urban growth, rurbanisation alleviates pressure on urban infrastructures, reduces pollution, and enhances the quality of life for inhabitants. It involves developing infrastructure and services in rural areas, such as high-speed internet, healthcare facilities, and educational institutions, making them attractive alternatives to urban centres. The approach not only supports local economies and job creation but also fosters social cohesion by bridging the gap between urban and rural lifestyles.
+Blending urban amenities with rural living to create balanced, self-sustaining communities
 
 ## Description
 

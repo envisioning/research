@@ -2,22 +2,21 @@
 slug: sourceless-illumination-field-emission
 hub: xenotech
 title: Sourceless Lighting
-summary: Self-illuminating architectural systems featuring uniform ambient glow without
-  visible light sources, reported in entity encounters alongside emerging electroluminescent
-  and field-emission lighting technologies.
+summary: Uniform ambient illumination from surfaces without visible light sources
+  or fixtures
 permalink: https://www.envisioning.com/xenotech/sourceless-illumination-field-emission
 collection: materials-structures
 trl: 4
 impact: 2
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761387289/xenotech/technologies/sourceless-illumination-field-emission.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903158/xenotech/technologies/sourceless-illumination-field-emission-openrouter-google-gemini-3.1-flash-image-preview-c47v09.png
 ---
 
 # Sourceless Lighting
 
 ## Summary
 
-Self-illuminating architectural systems featuring uniform ambient glow without visible light sources, reported in entity encounters alongside emerging electroluminescent and field-emission lighting technologies.
+Uniform ambient illumination from surfaces without visible light sources or fixtures
 
 ## Description
 

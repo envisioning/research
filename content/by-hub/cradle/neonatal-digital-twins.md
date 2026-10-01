@@ -2,7 +2,7 @@
 slug: neonatal-digital-twins
 hub: cradle
 title: Neonatal Digital Twins
-summary: Virtual physiological models for infants.
+summary: Real-time virtual models of newborn physiology to guide intensive care decisions
 permalink: https://www.envisioning.com/cradle/neonatal-digital-twins
 collection: software
 trl: 3
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765129120/cradl
 
 ## Summary
 
-Virtual physiological models for infants.
+Real-time virtual models of newborn physiology to guide intensive care decisions
 
 ## Description
 

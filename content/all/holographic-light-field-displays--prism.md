@@ -2,8 +2,8 @@
 slug: holographic-light-field-displays
 hub: prism
 title: Holographic Light-Field Displays
-summary: Glasses-free 3D visualization hardware delivering distinct views to multiple
-  observers.
+summary: Glasses-free 3D displays that reconstruct light fields for natural depth
+  perception
 permalink: https://www.envisioning.com/prism/holographic-light-field-displays
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764057635/pulse
 
 ## Summary
 
-Glasses-free 3D visualization hardware delivering distinct views to multiple observers.
+Glasses-free 3D displays that reconstruct light fields for natural depth perception
 
 ## Description
 

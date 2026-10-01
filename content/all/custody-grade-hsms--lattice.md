@@ -2,7 +2,8 @@
 slug: custody-grade-hsms
 hub: lattice
 title: Custody-Grade Hardware Security Modules
-summary: HSMs specialized for institutional wallets, MPC, and settlement.
+summary: Hardened appliances securing institutional crypto keys through multi-party
+  computation and key sharding
 permalink: https://www.envisioning.com/lattice/custody-grade-hsms
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763990597/flows
 
 ## Summary
 
-HSMs specialized for institutional wallets, MPC, and settlement.
+Hardened appliances securing institutional crypto keys through multi-party computation and key sharding
 
 ## Description
 

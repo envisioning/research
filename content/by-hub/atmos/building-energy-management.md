@@ -2,7 +2,8 @@
 slug: building-energy-management
 hub: atmos
 title: Building Energy Management Systems
-summary: Integrated controls optimizing HVAC, lighting, and storage.
+summary: AI-driven platforms coordinating HVAC, lighting, and storage to cut energy
+  costs and grid demand
 permalink: https://www.envisioning.com/atmos/building-energy-management
 collection: software
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764176741/atmos
 
 ## Summary
 
-Integrated controls optimizing HVAC, lighting, and storage.
+AI-driven platforms coordinating HVAC, lighting, and storage to cut energy costs and grid demand
 
 ## Description
 

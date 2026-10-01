@@ -2,7 +2,8 @@
 slug: molecular-communication-iobn
 hub: link
 title: Molecular Communication & Internet of Bio-Nano Things
-summary: Encoding information in molecules for transmission within biological environments.
+summary: Using molecules as information carriers to enable communication at the nanoscale
+  in biological systems
 permalink: https://www.envisioning.com/link/molecular-communication-iobn
 collection: hardware
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435232/link/
 
 ## Summary
 
-Encoding information in molecules for transmission within biological environments.
+Using molecules as information carriers to enable communication at the nanoscale in biological systems
 
 ## Description
 

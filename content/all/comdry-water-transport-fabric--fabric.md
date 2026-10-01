@@ -2,8 +2,8 @@
 slug: comdry-water-transport-fabric
 hub: fabric
 title: ComDry™ Unidirectional Water-Transport Fabric
-summary: Advanced textile technology for superior moisture management in performance
-  wear.
+summary: Engineered fabric that pulls sweat away from skin in one direction for faster
+  drying
 permalink: https://www.envisioning.com/fabric/comdry-water-transport-fabric
 collection: hardware
 trl: 9
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058612/threa
 
 ## Summary
 
-Advanced textile technology for superior moisture management in performance wear.
+Engineered fabric that pulls sweat away from skin in one direction for faster drying
 
 ## Description
 

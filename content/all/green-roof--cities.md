@@ -2,16 +2,10 @@
 slug: green-roof
 hub: cities
 title: Green Roof
-summary: 'Also known as living roofs or eco-roofs, these systems consist of a vegetative
-  layer grown on a rooftop, incorporating a waterproof membrane, a drainage system,
-  a growing medium, and plants. They provide multiple environmental benefits, including
-  improving air quality by filtering pollutants and CO2, mitigating urban heat islands
-  by reducing surface temperatures, and managing stormwater through rainwater absorption.
-  Additionally, green roofs enhance urban biodiversity by creating habitats for various
-  species, and they improve the aesthetic and social value of buildings by offering
-  recreational spaces and community gardens. '
+summary: Vegetated rooftop systems that cool buildings, manage stormwater, and create
+  urban habitats
 permalink: https://www.envisioning.com/cities/green-roof
-collection: eKPLqrZGQK6buJZR4i71rg
+collection: hardware
 trl: 9
 impact: 3
 investment: 3
@@ -22,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719301334-green-roof.png
 
 ## Summary
 
-Also known as living roofs or eco-roofs, these systems consist of a vegetative layer grown on a rooftop, incorporating a waterproof membrane, a drainage system, a growing medium, and plants. They provide multiple environmental benefits, including improving air quality by filtering pollutants and CO2, mitigating urban heat islands by reducing surface temperatures, and managing stormwater through rainwater absorption. Additionally, green roofs enhance urban biodiversity by creating habitats for various species, and they improve the aesthetic and social value of buildings by offering recreational spaces and community gardens.
+Vegetated rooftop systems that cool buildings, manage stormwater, and create urban habitats
 
 ## Description
 

@@ -2,13 +2,13 @@
 slug: next-gen-connectivity
 hub: interface
 title: Next-Gen Connectivity
-summary: 6G-ready substrates, Terahertz (THz) comms, and Reconfigurable Intelligent
-  Surfaces (RIS) for future networks.
+summary: Terahertz frequencies, intelligent surfaces, and advanced substrates enabling
+  ultra-fast wireless networks
 permalink: https://www.envisioning.com/interface/next-gen-connectivity
-collection: consumer-electronics-platforms
+collection: hardware
 trl: 2
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743454/interface/technologies/next-gen-connectivity-google-gemini-3-pro-image-preview-r4gkum.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765743454/inter
 
 ## Summary
 
-6G-ready substrates, Terahertz (THz) comms, and Reconfigurable Intelligent Surfaces (RIS) for future networks.
+Terahertz frequencies, intelligent surfaces, and advanced substrates enabling ultra-fast wireless networks
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: neural-foundation-models
 hub: cortex
 title: Neural Foundation Models
-summary: Pre-trained models on massive datasets of brain recordings.
+summary: AI models pre-trained on brain recordings to enable faster, personalized
+  neural decoding
 permalink: https://www.envisioning.com/cortex/neural-foundation-models
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010353/corte
 
 ## Summary
 
-Pre-trained models on massive datasets of brain recordings.
+AI models pre-trained on brain recordings to enable faster, personalized neural decoding
 
 ## Description
 

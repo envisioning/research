@@ -2,7 +2,8 @@
 slug: network-digital-twin
 hub: link
 title: Network Digital Twin
-summary: Real-time virtual replica of the entire network infrastructure.
+summary: Virtual replica of telecom infrastructure for real-time monitoring and predictive
+  management
 permalink: https://www.envisioning.com/link/network-digital-twin
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765177667/link/
 
 ## Summary
 
-Real-time virtual replica of the entire network infrastructure.
+Virtual replica of telecom infrastructure for real-time monitoring and predictive management
 
 ## Description
 

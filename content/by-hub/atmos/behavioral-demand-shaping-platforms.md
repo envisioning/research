@@ -2,7 +2,8 @@
 slug: behavioral-demand-shaping-platforms
 hub: atmos
 title: Behavioral Demand-Shaping Platforms
-summary: Orchestrating flexible loads to follow clean generation and avoid peaks.
+summary: Nudges and automation that shift electricity use to match renewable supply
+  and cut peak demand
 permalink: https://www.envisioning.com/atmos/behavioral-demand-shaping-platforms
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996046/atmos
 
 ## Summary
 
-Orchestrating flexible loads to follow clean generation and avoid peaks.
+Nudges and automation that shift electricity use to match renewable supply and cut peak demand
 
 ## Description
 

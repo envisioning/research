@@ -2,7 +2,8 @@
 slug: led-light-therapy-masks
 hub: aura
 title: LED Light Therapy Masks
-summary: Consumer-grade photobiomodulation helmets with FDA clearance.
+summary: Wearable LED devices delivering targeted light wavelengths for skin rejuvenation
+  and acne treatment
 permalink: https://www.envisioning.com/aura/led-light-therapy-masks
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074539/aura/
 
 ## Summary
 
-Consumer-grade photobiomodulation helmets with FDA clearance.
+Wearable LED devices delivering targeted light wavelengths for skin rejuvenation and acne treatment
 
 ## Description
 

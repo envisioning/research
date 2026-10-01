@@ -2,10 +2,8 @@
 slug: ecossistemas-autoconstrucao-tecnologica
 hub: moradia
 title: Ecossistemas de Autoconstrução Tecnológica
-summary: Sistemas integrados que reconhecem e aprimoram a autoconstrução como modelo
-  predominante, combinando ferramentas digitais de suporte técnico, mutirões habitacionais,
-  sistemas de crédito informal, construção incremental e expansões verticais como
-  um ecossistema que atualiza a informalidade ao invés de eliminá-la.
+summary: Plataformas digitais que apoiam famílias na autoconstrução gradual de suas
+  casas
 permalink: https://www.envisioning.com/moradia/ecossistemas-autoconstrucao-tecnologica
 collection: modelos-mercado-governanca
 trl: 4
@@ -18,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766579830/habit
 
 ## Summary
 
-Sistemas integrados que reconhecem e aprimoram a autoconstrução como modelo predominante, combinando ferramentas digitais de suporte técnico, mutirões habitacionais, sistemas de crédito informal, construção incremental e expansões verticais como um ecossistema que atualiza a informalidade ao invés de eliminá-la.
+Plataformas digitais que apoiam famílias na autoconstrução gradual de suas casas
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: on-belt-ore-sorting
 hub: stratum
 title: On-Belt Ore Sorting Systems
-summary: High-throughput sensors separating ore and waste in real time on conveyors.
+summary: Sensor arrays on conveyors that separate valuable ore from waste rock during
+  transport
 permalink: https://www.envisioning.com/stratum/on-belt-ore-sorting
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765132986/strat
 
 ## Summary
 
-High-throughput sensors separating ore and waste in real time on conveyors.
+Sensor arrays on conveyors that separate valuable ore from waste rock during transport
 
 ## Description
 

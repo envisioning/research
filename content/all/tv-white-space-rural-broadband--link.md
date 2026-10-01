@@ -2,7 +2,8 @@
 slug: tv-white-space-rural-broadband
 hub: link
 title: TV White Space & Rural Broadband
-summary: Reusing unused TV spectrum for long-range, cost-effective connectivity.
+summary: Repurposing unused TV frequencies for affordable long-range internet in underserved
+  areas
 permalink: https://www.envisioning.com/link/tv-white-space-rural-broadband
 collection: applications
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765441772/link/
 
 ## Summary
 
-Reusing unused TV spectrum for long-range, cost-effective connectivity.
+Repurposing unused TV frequencies for affordable long-range internet in underserved areas
 
 ## Description
 

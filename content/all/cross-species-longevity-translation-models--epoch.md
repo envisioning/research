@@ -2,8 +2,8 @@
 slug: cross-species-longevity-translation-models
 hub: epoch
 title: Cross-Species Longevity Translation Models
-summary: AI systems that translate longevity interventions from model organisms to
-  human therapeutics.
+summary: AI systems translating lifespan-extending discoveries from lab organisms
+  to human therapies
 permalink: https://www.envisioning.com/epoch/cross-species-longevity-translation-models
 collection: software
 trl: 5
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1772620072/epoch
 
 ## Summary
 
-AI systems that translate longevity interventions from model organisms to human therapeutics.
+AI systems translating lifespan-extending discoveries from lab organisms to human therapies
 
 ## Description
 

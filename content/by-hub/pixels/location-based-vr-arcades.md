@@ -2,7 +2,8 @@
 slug: location-based-vr-arcades
 hub: pixels
 title: Location-Based VR Arcades
-summary: Warehouse-scale free-roam VR venues popular across Asian markets.
+summary: Warehouse-scale VR arenas with haptic floors, tracked props, and multiplayer
+  free-roam experiences
 permalink: https://www.envisioning.com/pixels/location-based-vr-arcades
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062279/pixel
 
 ## Summary
 
-Warehouse-scale free-roam VR venues popular across Asian markets.
+Warehouse-scale VR arenas with haptic floors, tracked props, and multiplayer free-roam experiences
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: proof-of-personhood
 hub: sentinel
 title: Proof of Personhood Protocols
-summary: Cryptographic mechanisms to distinguish unique humans from AI agents.
+summary: Cryptographic verification that distinguishes unique humans from bots and
+  AI agents
 permalink: https://www.envisioning.com/sentinel/proof-of-personhood
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765462023/senti
 
 ## Summary
 
-Cryptographic mechanisms to distinguish unique humans from AI agents.
+Cryptographic verification that distinguishes unique humans from bots and AI agents
 
 ## Description
 

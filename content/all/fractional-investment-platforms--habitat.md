@@ -2,7 +2,7 @@
 slug: fractional-investment-platforms
 hub: habitat
 title: Fractional Investment Platforms
-summary: Tokenized real estate assets allowing democratized access to property ownership.
+summary: Platforms dividing property ownership into tradable digital shares via blockchain
 permalink: https://www.envisioning.com/habitat/fractional-investment-platforms
 collection: applications
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117664/habit
 
 ## Summary
 
-Tokenized real estate assets allowing democratized access to property ownership.
+Platforms dividing property ownership into tradable digital shares via blockchain
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: synthetic-data-platforms
 hub: vault
 title: Synthetic Data Generation Platforms
-summary: Privacy-preserving data for AI training.
+summary: AI-generated datasets that replicate real financial patterns without exposing
+  customer information
 permalink: https://www.envisioning.com/vault/synthetic-data-platforms
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128554/vault
 
 ## Summary
 
-Privacy-preserving data for AI training.
+AI-generated datasets that replicate real financial patterns without exposing customer information
 
 ## Description
 

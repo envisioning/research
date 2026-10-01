@@ -2,7 +2,8 @@
 slug: persistent-ar-cloud-layers
 hub: prism
 title: Persistent AR Cloud Layers
-summary: Shared, permanent digital annotations anchored to physical locations.
+summary: Shared digital content anchored to real-world locations, visible across devices
+  and sessions
 permalink: https://www.envisioning.com/prism/persistent-ar-cloud-layers
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074862/pulse
 
 ## Summary
 
-Shared, permanent digital annotations anchored to physical locations.
+Shared digital content anchored to real-world locations, visible across devices and sessions
 
 ## Description
 

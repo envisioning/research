@@ -2,7 +2,7 @@
 slug: real-time-language-translation
 hub: wintermute
 title: Real-Time Language Translation Layers
-summary: Sub-second speech translation powering multilingual collaboration.
+summary: Sub-second speech translation enabling natural multilingual conversation
 permalink: https://www.envisioning.com/wintermute/real-time-language-translation
 collection: applications
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764079851/winte
 
 ## Summary
 
-Sub-second speech translation powering multilingual collaboration.
+Sub-second speech translation enabling natural multilingual conversation
 
 ## Description
 

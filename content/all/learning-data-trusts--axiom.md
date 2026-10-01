@@ -2,7 +2,8 @@
 slug: learning-data-trusts
 hub: axiom
 title: Learning Data Trusts & Stewardship Models
-summary: Shared governance and stewardship of learner data and models.
+summary: Shared governance frameworks that give learners control over their educational
+  data and its use
 permalink: https://www.envisioning.com/axiom/learning-data-trusts
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010145/axiom
 
 ## Summary
 
-Shared governance and stewardship of learner data and models.
+Shared governance frameworks that give learners control over their educational data and its use
 
 ## Description
 

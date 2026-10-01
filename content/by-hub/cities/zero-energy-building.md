@@ -2,16 +2,9 @@
 slug: zero-energy-building
 hub: cities
 title: Zero-energy Building
-summary: 'These advanced structures are designed to produce as much energy as they
-  consume, primarily through renewable energy sources. This technology helps reduce
-  greenhouse gas emissions, lower energy consumption, and promote sustainable urban
-  development. ZEBs achieve high energy efficiency through state-of-the-art insulation,
-  energy-efficient HVAC systems, and smart home technologies, which minimise energy
-  loss and optimise usage. As a result, they significantly cut down on carbon emissions
-  and operational energy costs, contributing to environmental sustainability and economic
-  resilience. '
+summary: Buildings that generate as much renewable energy as they consume annually
 permalink: https://www.envisioning.com/cities/zero-energy-building
-collection: M7CFmLD9Qx2KxloytEYe6w
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -22,7 +15,7 @@ image_url: https://www.datocms-assets.com/134194/1718806127-zero-energy-building
 
 ## Summary
 
-These advanced structures are designed to produce as much energy as they consume, primarily through renewable energy sources. This technology helps reduce greenhouse gas emissions, lower energy consumption, and promote sustainable urban development. ZEBs achieve high energy efficiency through state-of-the-art insulation, energy-efficient HVAC systems, and smart home technologies, which minimise energy loss and optimise usage. As a result, they significantly cut down on carbon emissions and operational energy costs, contributing to environmental sustainability and economic resilience.
+Buildings that generate as much renewable energy as they consume annually
 
 ## Description
 

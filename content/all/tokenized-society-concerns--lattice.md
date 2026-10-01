@@ -2,7 +2,8 @@
 slug: tokenized-society-concerns
 hub: lattice
 title: Tokenized Society Concerns
-summary: Ethical limits of hyper-financializing interactions and reputation.
+summary: Ethical boundaries for financializing social interactions, reputation, and
+  civic participation
 permalink: https://www.envisioning.com/lattice/tokenized-society-concerns
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010207/flows
 
 ## Summary
 
-Ethical limits of hyper-financializing interactions and reputation.
+Ethical boundaries for financializing social interactions, reputation, and civic participation
 
 ## Description
 

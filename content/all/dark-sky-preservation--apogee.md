@@ -2,7 +2,8 @@
 slug: dark-sky-preservation
 hub: apogee
 title: Dark Sky Preservation Standards
-summary: Engineering and policy measures to reduce satellite brightness.
+summary: Technical and regulatory measures to minimize satellite light pollution for
+  astronomy and night sky access
 permalink: https://www.envisioning.com/apogee/dark-sky-preservation
 collection: ethics-security
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011721/apoge
 
 ## Summary
 
-Engineering and policy measures to reduce satellite brightness.
+Technical and regulatory measures to minimize satellite light pollution for astronomy and night sky access
 
 ## Description
 

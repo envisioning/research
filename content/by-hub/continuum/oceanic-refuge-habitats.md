@@ -2,7 +2,8 @@
 slug: oceanic-refuge-habitats
 hub: continuum
 title: Oceanic Refuge Habitats
-summary: Semi-autonomous marine platforms for habitation and research.
+summary: Self-sufficient floating platforms designed for long-term ocean habitation
+  and research
 permalink: https://www.envisioning.com/continuum/oceanic-refuge-habitats
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124171/conti
 
 ## Summary
 
-Semi-autonomous marine platforms for habitation and research.
+Self-sufficient floating platforms designed for long-term ocean habitation and research
 
 ## Description
 

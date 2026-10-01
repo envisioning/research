@@ -2,7 +2,8 @@
 slug: automated-essay-scoring
 hub: axiom
 title: Automated Essay Scoring
-summary: NLP engines grading writing with explainable rubrics.
+summary: AI systems that grade essays and written work using natural language processing
+  and rubrics
 permalink: https://www.envisioning.com/axiom/automated-essay-scoring
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074658/axiom
 
 ## Summary
 
-NLP engines grading writing with explainable rubrics.
+AI systems that grade essays and written work using natural language processing and rubrics
 
 ## Description
 

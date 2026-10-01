@@ -2,8 +2,8 @@
 slug: space-based-ai-infrastructure
 hub: apogee
 title: Space-Based AI Infrastructure with Solar-Powered Satellites
-summary: Project Suncatcher aims to create a scalable AI compute infrastructure in
-  space using solar-powered satellites equipped with TPUs.
+summary: Orbital AI compute network powered by solar energy and connected via optical
+  links
 permalink: https://www.envisioning.com/apogee/space-based-ai-infrastructure
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764411165/apoge
 
 ## Summary
 
-Project Suncatcher aims to create a scalable AI compute infrastructure in space using solar-powered satellites equipped with TPUs.
+Orbital AI compute network powered by solar energy and connected via optical links
 
 ## Description
 

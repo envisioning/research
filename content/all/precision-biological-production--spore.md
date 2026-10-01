@@ -2,7 +2,8 @@
 slug: precision-biological-production
 hub: spore
 title: Precision Biological Production
-summary: Fermentation-driven proteins and engineered fungi for food and biomaterials.
+summary: Engineered microbes producing proteins, fats, and biomaterials through controlled
+  fermentation
 permalink: https://www.envisioning.com/spore/precision-biological-production
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179676/spore
 
 ## Summary
 
-Fermentation-driven proteins and engineered fungi for food and biomaterials.
+Engineered microbes producing proteins, fats, and biomaterials through controlled fermentation
 
 ## Description
 

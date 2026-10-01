@@ -2,7 +2,8 @@
 slug: modular-decentralized-treatment
 hub: substrate
 title: Modular Decentralized Treatment Plants
-summary: Containerized, plug-and-play water and wastewater treatment systems.
+summary: Containerized water treatment units that can be deployed independently or
+  networked across communities
 permalink: https://www.envisioning.com/substrate/modular-decentralized-treatment
 collection: hardware
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120029/subst
 
 ## Summary
 
-Containerized, plug-and-play water and wastewater treatment systems.
+Containerized water treatment units that can be deployed independently or networked across communities
 
 ## Description
 

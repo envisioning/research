@@ -2,15 +2,10 @@
 slug: portable-air-monitoring-tracker
 hub: cities
 title: Portable Air Monitoring Tracker
-summary: These compact monitors continuously measure and report on air quality by
-  detecting various pollutants, including particulate matter, nitrogen dioxide, ozone,
-  and volatile organic compounds. Equipped with advanced sensors and wireless communication
-  technologies, these trackers provide real-time, location-specific air quality data
-  accessible via mobile applications or web portals. By empowering individuals and
-  communities with detailed air quality information, these devices facilitate informed
-  decisions and protective measures against pollution exposure.
+summary: Wearable sensors that track local air pollution levels and send alerts to
+  your phone
 permalink: https://www.envisioning.com/cities/portable-air-monitoring-tracker
-collection: LraSdVa2SxO6f6elFo3w1w
+collection: hardware
 trl: 8
 impact: 3
 investment: 2
@@ -21,7 +16,7 @@ image_url: https://www.datocms-assets.com/134194/1719226758-portable-air-monitor
 
 ## Summary
 
-These compact monitors continuously measure and report on air quality by detecting various pollutants, including particulate matter, nitrogen dioxide, ozone, and volatile organic compounds. Equipped with advanced sensors and wireless communication technologies, these trackers provide real-time, location-specific air quality data accessible via mobile applications or web portals. By empowering individuals and communities with detailed air quality information, these devices facilitate informed decisions and protective measures against pollution exposure.
+Wearable sensors that track local air pollution levels and send alerts to your phone
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: influence-transparency-registries
 hub: impulse
 title: Influence Transparency Registries
-summary: Public catalogs of active persuasive systems.
+summary: Public databases documenting persuasive technologies operating in commercial
+  and digital spaces
 permalink: https://www.envisioning.com/impulse/influence-transparency-registries
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435087/impul
 
 ## Summary
 
-Public catalogs of active persuasive systems.
+Public databases documenting persuasive technologies operating in commercial and digital spaces
 
 ## Description
 

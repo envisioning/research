@@ -3,7 +3,6 @@ slug: networked-philanthropic-entities
 hub: agape
 title: Networked & Temporary Philanthropic Entities
 summary: Networked, temporary, or pop-up philanthropic entities, with foundations
-  acting as conveners rather than funders.
 permalink: https://www.envisioning.com/agape/networked-philanthropic-entities
 collection: organizational-forms-ecosystems
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419417/phila
 
 ## Summary
 
-Networked, temporary, or pop-up philanthropic entities, with foundations acting as conveners rather than funders.
+Networked, temporary, or pop-up philanthropic entities, with foundations
 
 ## Description
 

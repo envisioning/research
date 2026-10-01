@@ -2,16 +2,13 @@
 slug: emotion-driven-ai-companions
 hub: interface
 title: Emotion-Driven AI Companions
-summary: AI companions merging multimodal intelligence with digital and physical presence,
-  building emotionally intelligent systems that understand users through voice, vision,
-  and behavior, offering personalized support and meaningful daily companionship.
-  Includes desktop companion robots, emotional support robots, and health companion
-  platforms for older adults and care teams.
+summary: AI systems that detect and respond to human emotions through voice, vision,
+  and behavior analysis
 permalink: https://www.envisioning.com/interface/emotion-driven-ai-companions
-collection: spatial-computing-immersive
+collection: software
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737598/interface/technologies/emotion-driven-ai-companions-google-gemini-3-pro-image-preview-zku4gl.jpg
 ---
 
@@ -19,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765737598/inter
 
 ## Summary
 
-AI companions merging multimodal intelligence with digital and physical presence, building emotionally intelligent systems that understand users through voice, vision, and behavior, offering personalized support and meaningful daily companionship. Includes desktop companion robots, emotional support robots, and health companion platforms for older adults and care teams.
+AI systems that detect and respond to human emotions through voice, vision, and behavior analysis
 
 ## Description
 

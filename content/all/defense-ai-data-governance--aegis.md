@@ -2,7 +2,8 @@
 slug: defense-ai-data-governance
 hub: aegis
 title: Data Governance for Defense AI
-summary: Standards for sourcing, redaction, and bias control in defense datasets.
+summary: Frameworks ensuring defense AI training data meets legal, ethical, and security
+  standards
 permalink: https://www.envisioning.com/aegis/defense-ai-data-governance
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010662/aegis
 
 ## Summary
 
-Standards for sourcing, redaction, and bias control in defense datasets.
+Frameworks ensuring defense AI training data meets legal, ethical, and security standards
 
 ## Description
 

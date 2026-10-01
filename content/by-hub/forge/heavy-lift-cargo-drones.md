@@ -2,7 +2,8 @@
 slug: heavy-lift-cargo-drones
 hub: forge
 title: Heavy-Lift Autonomous Cargo Drones
-summary: Large-scale VTOL drones for middle-mile logistics and hard-to-reach areas.
+summary: Industrial VTOL aircraft that autonomously transport 100–500+ kg payloads
+  across middle-mile routes
 permalink: https://www.envisioning.com/forge/heavy-lift-cargo-drones
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120058/forge
 
 ## Summary
 
-Large-scale VTOL drones for middle-mile logistics and hard-to-reach areas.
+Industrial VTOL aircraft that autonomously transport 100–500+ kg payloads across middle-mile routes
 
 ## Description
 

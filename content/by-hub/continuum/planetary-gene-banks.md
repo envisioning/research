@@ -2,7 +2,8 @@
 slug: planetary-gene-banks
 hub: continuum
 title: Planetary Gene Banks
-summary: Distributed vaults preserving global biodiversity and critical genotypes.
+summary: Distributed cryogenic vaults safeguarding Earth's genetic diversity across
+  species and ecosystems
 permalink: https://www.envisioning.com/continuum/planetary-gene-banks
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125005/conti
 
 ## Summary
 
-Distributed vaults preserving global biodiversity and critical genotypes.
+Distributed cryogenic vaults safeguarding Earth's genetic diversity across species and ecosystems
 
 ## Description
 

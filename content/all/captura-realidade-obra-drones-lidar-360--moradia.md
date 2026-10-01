@@ -2,8 +2,8 @@
 slug: captura-realidade-obra-drones-lidar-360
 hub: moradia
 title: Captura de Realidade de Obras
-summary: Documentação e medição do canteiro em alta frequência para comparar 'as-built'
-  vs 'as-planned' e reduzir retrabalho.
+summary: Documentação digital do canteiro com drones e scanners para comparar planejado
+  vs executado
 permalink: https://www.envisioning.com/moradia/captura-realidade-obra-drones-lidar-360
 collection: plataformas-dados
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766538747/habit
 
 ## Summary
 
-Documentação e medição do canteiro em alta frequência para comparar 'as-built' vs 'as-planned' e reduzir retrabalho.
+Documentação digital do canteiro com drones e scanners para comparar planejado vs executado
 
 ## Description
 

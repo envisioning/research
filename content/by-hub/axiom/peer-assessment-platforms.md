@@ -2,7 +2,8 @@
 slug: peer-assessment-platforms
 hub: axiom
 title: Peer Assessment Platforms
-summary: Structured peer review workflows with rubric guidance.
+summary: Student-to-student feedback systems with rubrics and calibration for consistent
+  peer review
 permalink: https://www.envisioning.com/axiom/peer-assessment-platforms
 collection: software
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074652/axiom
 
 ## Summary
 
-Structured peer review workflows with rubric guidance.
+Student-to-student feedback systems with rubrics and calibration for consistent peer review
 
 ## Description
 

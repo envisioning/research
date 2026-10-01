@@ -2,8 +2,8 @@
 slug: collaborative-truth-verification-platforms
 hub: prism
 title: Collaborative truth-verification platforms
-summary: Consumer-facing systems where claims are jointly vetted using AI + human
-  social proof.
+summary: Systems combining AI analysis and crowd review to verify factual claims and
+  publish audit trails
 permalink: https://www.envisioning.com/prism/collaborative-truth-verification-platforms
 collection: applications
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074500/pulse
 
 ## Summary
 
-Consumer-facing systems where claims are jointly vetted using AI + human social proof.
+Systems combining AI analysis and crowd review to verify factual claims and publish audit trails
 
 ## Description
 

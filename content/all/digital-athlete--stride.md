@@ -2,7 +2,8 @@
 slug: digital-athlete
 hub: stride
 title: AI Digital Athlete Twins
-summary: Virtual simulations of athletes for injury prediction and workload management.
+summary: Virtual replicas of athletes built from sensor data to predict injuries and
+  optimize training loads
 permalink: https://www.envisioning.com/stride/digital-athlete
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128142/strid
 
 ## Summary
 
-Virtual simulations of athletes for injury prediction and workload management.
+Virtual replicas of athletes built from sensor data to predict injuries and optimize training loads
 
 ## Description
 

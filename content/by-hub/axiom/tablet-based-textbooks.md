@@ -2,7 +2,8 @@
 slug: tablet-based-textbooks
 hub: axiom
 title: Tablet-Based Textbooks
-summary: Rugged tablets preloaded with curriculum and adaptive readers.
+summary: Durable tablets preloaded with interactive curriculum, replacing traditional
+  textbooks
 permalink: https://www.envisioning.com/axiom/tablet-based-textbooks
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764059772/axiom
 
 ## Summary
 
-Rugged tablets preloaded with curriculum and adaptive readers.
+Durable tablets preloaded with interactive curriculum, replacing traditional textbooks
 
 ## Description
 

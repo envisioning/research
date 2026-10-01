@@ -2,7 +2,8 @@
 slug: factory-safety-compliance-monitoring
 hub: fabric
 title: Factory Safety and Compliance Monitoring Systems
-summary: Audits, sensors, and reporting platforms overseeing worker safety and standards.
+summary: Real-time monitoring and audit systems ensuring worker safety and regulatory
+  compliance in textile factories
 permalink: https://www.envisioning.com/fabric/factory-safety-compliance-monitoring
 collection: ethics-security
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058311/threa
 
 ## Summary
 
-Audits, sensors, and reporting platforms overseeing worker safety and standards.
+Real-time monitoring and audit systems ensuring worker safety and regulatory compliance in textile factories
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: sustainability-certification-schemes
 hub: fabric
 title: Sustainability and Labor Certification Schemes
-summary: Standards like Fair Trade and GOTS governing ethical and environmental practices.
+summary: Verified standards for ethical labor, organic materials, and environmental
+  compliance in apparel production
 permalink: https://www.envisioning.com/fabric/sustainability-certification-schemes
 collection: ethics-security
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058320/threa
 
 ## Summary
 
-Standards like Fair Trade and GOTS governing ethical and environmental practices.
+Verified standards for ethical labor, organic materials, and environmental compliance in apparel production
 
 ## Description
 

@@ -3,7 +3,6 @@ slug: migration-displacement-statelessness
 hub: agape
 title: Migration, Displacement & Statelessness
 summary: Migration, displacement, and statelessness shaping priorities, as forced
-  movement becomes a defining feature of 2045.
 permalink: https://www.envisioning.com/agape/migration-displacement-statelessness
 collection: geopolitics-planet-polycrisis
 trl: 2
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372074/agape
 
 ## Summary
 
-Migration, displacement, and statelessness shaping priorities, as forced movement becomes a defining feature of 2045.
+Migration, displacement, and statelessness shaping priorities, as forced
 
 ## Description
 

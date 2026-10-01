@@ -2,7 +2,7 @@
 slug: inverse-rendering-engines
 hub: liminal
 title: Inverse Rendering Engines
-summary: Material and lighting estimation from real-world observations.
+summary: Extracts 3D geometry, materials, and lighting from photographs and video
 permalink: https://www.envisioning.com/liminal/inverse-rendering-engines
 collection: software
 trl: 4
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765124955/limin
 
 ## Summary
 
-Material and lighting estimation from real-world observations.
+Extracts 3D geometry, materials, and lighting from photographs and video
 
 ## Description
 

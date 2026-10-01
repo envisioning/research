@@ -2,7 +2,8 @@
 slug: credentialing-verification
 hub: axiom
 title: Credentialing & Verification
-summary: Standards for skills from synthetic training.
+summary: Validating skills acquired through simulations, VR training, and virtual
+  learning environments
 permalink: https://www.envisioning.com/axiom/credentialing-verification
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764010103/axiom
 
 ## Summary
 
-Standards for skills from synthetic training.
+Validating skills acquired through simulations, VR training, and virtual learning environments
 
 ## Description
 

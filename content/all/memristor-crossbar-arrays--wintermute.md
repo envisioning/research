@@ -2,7 +2,8 @@
 slug: memristor-crossbar-arrays
 hub: wintermute
 title: Memristor Crossbar Arrays
-summary: Resistive memory arrays executing MAC operations natively.
+summary: Programmable resistive grids that compute neural network operations directly
+  in memory
 permalink: https://www.envisioning.com/wintermute/memristor-crossbar-arrays
 collection: hardware
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764080317/winte
 
 ## Summary
 
-Resistive memory arrays executing MAC operations natively.
+Programmable resistive grids that compute neural network operations directly in memory
 
 ## Description
 

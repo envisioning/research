@@ -2,7 +2,8 @@
 slug: decentralized-autonomous-markets
 hub: lattice
 title: Decentralized Autonomous Markets
-summary: Markets run by algorithmic controllers adjusting incentives dynamically.
+summary: Algorithmic controllers that dynamically adjust fees and liquidity across
+  unified trading environments
 permalink: https://www.envisioning.com/lattice/decentralized-autonomous-markets
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996170/flows
 
 ## Summary
 
-Markets run by algorithmic controllers adjusting incentives dynamically.
+Algorithmic controllers that dynamically adjust fees and liquidity across unified trading environments
 
 ## Description
 

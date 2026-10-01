@@ -2,7 +2,8 @@
 slug: identity-inventory-interoperability
 hub: pixels
 title: Identity & Inventory Interoperability Layers
-summary: Standards enabling avatar and asset portability across universes.
+summary: Middleware and standards that let players carry avatars, items, and progress
+  between different games
 permalink: https://www.envisioning.com/pixels/identity-inventory-interoperability
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062340/pixel
 
 ## Summary
 
-Standards enabling avatar and asset portability across universes.
+Middleware and standards that let players carry avatars, items, and progress between different games
 
 ## Description
 

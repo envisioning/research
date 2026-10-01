@@ -2,7 +2,8 @@
 slug: biohybrid-constructs
 hub: wintermute
 title: Biohybrid Constructs
-summary: Living neuronal cultures interfacing with silicon controllers.
+summary: Living neurons interfaced with silicon controllers for hybrid biological-artificial
+  computation
 permalink: https://www.envisioning.com/wintermute/biohybrid-constructs
 collection: hardware
 trl: 2
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763980783/winte
 
 ## Summary
 
-Living neuronal cultures interfacing with silicon controllers.
+Living neurons interfaced with silicon controllers for hybrid biological-artificial computation
 
 ## Description
 

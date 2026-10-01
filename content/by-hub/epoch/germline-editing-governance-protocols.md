@@ -2,8 +2,8 @@
 slug: germline-editing-governance-protocols
 hub: epoch
 title: Germline Editing Governance Protocols
-summary: Global standards governing the safe and ethical use of heritable genome editing
-  for disease prevention and lifespan extension.
+summary: International frameworks regulating heritable genome modifications in human
+  embryos and reproductive cells
 permalink: https://www.envisioning.com/epoch/germline-editing-governance-protocols
 collection: ethics-security
 trl: 2
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765478748/epoch
 
 ## Summary
 
-Global standards governing the safe and ethical use of heritable genome editing for disease prevention and lifespan extension.
+International frameworks regulating heritable genome modifications in human embryos and reproductive cells
 
 ## Description
 

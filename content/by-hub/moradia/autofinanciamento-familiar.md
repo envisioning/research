@@ -2,8 +2,8 @@
 slug: autofinanciamento-familiar
 hub: moradia
 title: Autofinanciamento Familiar
-summary: Financiamento da construção através de poupança familiar e recursos próprios,
-  sem acesso ao sistema bancário.
+summary: Famílias financiam construção com poupança própria e recursos informais,
+  fora do sistema bancário
 permalink: https://www.envisioning.com/moradia/autofinanciamento-familiar
 collection: modelos-mercado-governanca
 trl: null
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766573331/habit
 
 ## Summary
 
-Financiamento da construção através de poupança familiar e recursos próprios, sem acesso ao sistema bancário.
+Famílias financiam construção com poupança própria e recursos informais, fora do sistema bancário
 
 ## Description
 

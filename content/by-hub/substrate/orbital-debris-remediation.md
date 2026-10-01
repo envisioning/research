@@ -2,7 +2,8 @@
 slug: orbital-debris-remediation
 hub: substrate
 title: Orbital Debris Remediation Systems
-summary: Active capture and de-orbiting of space junk to protect infrastructure.
+summary: Systems that capture and remove defunct satellites and debris from Earth's
+  orbit
 permalink: https://www.envisioning.com/substrate/orbital-debris-remediation
 collection: hardware
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117944/subst
 
 ## Summary
 
-Active capture and de-orbiting of space junk to protect infrastructure.
+Systems that capture and remove defunct satellites and debris from Earth's orbit
 
 ## Description
 

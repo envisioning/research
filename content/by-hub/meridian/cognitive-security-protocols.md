@@ -2,7 +2,8 @@
 slug: cognitive-security-protocols
 hub: meridian
 title: Cognitive Security Protocols
-summary: Defense against influence operations.
+summary: Frameworks detecting and countering influence operations that exploit cognitive
+  vulnerabilities
 permalink: https://www.envisioning.com/meridian/cognitive-security-protocols
 collection: ethics-security
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765128716/merid
 
 ## Summary
 
-Defense against influence operations.
+Frameworks detecting and countering influence operations that exploit cognitive vulnerabilities
 
 ## Description
 

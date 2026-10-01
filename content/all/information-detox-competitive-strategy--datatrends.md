@@ -2,8 +2,7 @@
 slug: information-detox-competitive-strategy
 hub: datatrends
 title: Information Detox as Competitive Strategy
-summary: Organizations strategically limiting information consumption and filtering
-  noise to improve decision-making quality and competitive advantage.
+summary: Limiting information intake and filtering noise to sharpen decision quality
 permalink: https://www.envisioning.com/datatrends/information-detox-competitive-strategy
 collection: strategic-culture-literacy
 trl: 4
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593338/datat
 
 ## Summary
 
-Organizations strategically limiting information consumption and filtering noise to improve decision-making quality and competitive advantage.
+Limiting information intake and filtering noise to sharpen decision quality
 
 ## Description
 

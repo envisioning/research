@@ -2,7 +2,8 @@
 slug: epigenetic-anti-aging-serums
 hub: aura
 title: Epigenetic Anti-Aging Serums
-summary: Topicals activating NAD+, sirtuins, and methylation pathways.
+summary: Topical formulations targeting gene expression markers to slow cellular skin
+  aging
 permalink: https://www.envisioning.com/aura/epigenetic-anti-aging-serums
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764074500/aura/
 
 ## Summary
 
-Topicals activating NAD+, sirtuins, and methylation pathways.
+Topical formulations targeting gene expression markers to slow cellular skin aging
 
 ## Description
 

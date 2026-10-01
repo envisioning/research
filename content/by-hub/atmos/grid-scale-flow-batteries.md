@@ -2,7 +2,8 @@
 slug: grid-scale-flow-batteries
 hub: atmos
 title: Flow Batteries
-summary: Vanadium and zinc-bromine chemistries for multi-hour storage.
+summary: Liquid electrolyte batteries that decouple power and energy for long-duration
+  grid storage
 permalink: https://www.envisioning.com/atmos/grid-scale-flow-batteries
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764140582/atmos
 
 ## Summary
 
-Vanadium and zinc-bromine chemistries for multi-hour storage.
+Liquid electrolyte batteries that decouple power and energy for long-duration grid storage
 
 ## Description
 

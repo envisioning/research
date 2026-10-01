@@ -2,8 +2,8 @@
 slug: tangible-affective-interfaces
 hub: soma
 title: Tangible Affective Interfaces
-summary: Physical objects that sense and communicate emotion through shape, texture,
-  and temperature.
+summary: Physical objects that change shape, texture, or temperature to sense and
+  express emotion
 permalink: https://www.envisioning.com/soma/tangible-affective-interfaces
 collection: hardware
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133956/soma/
 
 ## Summary
 
-Physical objects that sense and communicate emotion through shape, texture, and temperature.
+Physical objects that change shape, texture, or temperature to sense and express emotion
 
 ## Description
 

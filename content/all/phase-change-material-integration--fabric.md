@@ -2,7 +2,8 @@
 slug: phase-change-material-integration
 hub: fabric
 title: Phase-Change Material Integration
-summary: Microencapsulated PCMs storing and releasing heat for thermal regulation.
+summary: Microencapsulated materials that absorb and release heat to regulate fabric
+  temperature
 permalink: https://www.envisioning.com/fabric/phase-change-material-integration
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764058626/threa
 
 ## Summary
 
-Microencapsulated PCMs storing and releasing heat for thermal regulation.
+Microencapsulated materials that absorb and release heat to regulate fabric temperature
 
 ## Description
 

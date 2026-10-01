@@ -2,7 +2,7 @@
 slug: soft-robotic-grippers
 hub: harvest
 title: Soft Robotic Grippers
-summary: Compliant manipulators for delicate produce.
+summary: Flexible grippers that handle delicate produce without bruising or damage
 permalink: https://www.envisioning.com/harvest/soft-robotic-grippers
 collection: hardware
 trl: 7
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127950/harve
 
 ## Summary
 
-Compliant manipulators for delicate produce.
+Flexible grippers that handle delicate produce without bruising or damage
 
 ## Description
 

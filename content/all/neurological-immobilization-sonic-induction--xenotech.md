@@ -2,22 +2,20 @@
 slug: neurological-immobilization-sonic-induction
 hub: xenotech
 title: Sonic Immobilization
-summary: Psychophysical immobilization devices featuring sleep paralysis tones and
-  sonic immobilizers, reported in entity encounters alongside emerging neural disruption
-  and non-lethal weapon technologies.
+summary: Sound-based systems that disrupt neural activity to induce temporary paralysis
 permalink: https://www.envisioning.com/xenotech/neurological-immobilization-sonic-induction
 collection: perception-cognition
 trl: 4
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761386900/xenotech/technologies/neurological-immobilization-sonic-induction.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903142/xenotech/technologies/neurological-immobilization-sonic-induction-openrouter-google-gemini-3.1-flash-image-preview-c41ut7.png
 ---
 
 # Sonic Immobilization
 
 ## Summary
 
-Psychophysical immobilization devices featuring sleep paralysis tones and sonic immobilizers, reported in entity encounters alongside emerging neural disruption and non-lethal weapon technologies.
+Sound-based systems that disrupt neural activity to induce temporary paralysis
 
 ## Description
 

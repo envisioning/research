@@ -2,9 +2,9 @@
 slug: artificially-intelligent-governor
 hub: horizons
 title: Artificially Intelligent Governor
-summary: AI systems assisting in data-driven urban governance and policy.
+summary: AI systems that analyze city data to recommend or automate urban policy decisions
 permalink: https://www.envisioning.com/horizons/artificially-intelligent-governor
-collection: cities-mobility
+collection: software
 trl: 6
 impact: 3
 investment: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764521646/horiz
 
 ## Summary
 
-AI systems assisting in data-driven urban governance and policy.
+AI systems that analyze city data to recommend or automate urban policy decisions
 
 ## Description
 

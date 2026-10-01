@@ -2,7 +2,8 @@
 slug: operacao-orientada-dados-uso
 hub: moradia
 title: Operação Orientada por Dados de Uso
-summary: Modelo operacional que utiliza dados de uso para otimizar serviços e recursos.
+summary: Gestão de edifícios que ajusta serviços em tempo real com base em padrões
+  reais de ocupação e consumo
 permalink: https://www.envisioning.com/moradia/operacao-orientada-dados-uso
 collection: modelos-mercado-governanca
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360007/habit
 
 ## Summary
 
-Modelo operacional que utiliza dados de uso para otimizar serviços e recursos.
+Gestão de edifícios que ajusta serviços em tempo real com base em padrões reais de ocupação e consumo
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: organoid-biocomputing
 hub: quadrant
 title: Organoid Intelligence (Biocomputing)
-summary: Biological processors using lab-grown brain cultures.
+summary: Computing systems using lab-grown neural tissue to process information through
+  biological networks
 permalink: https://www.envisioning.com/quadrant/organoid-biocomputing
 collection: hardware
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126698/quadr
 
 ## Summary
 
-Biological processors using lab-grown brain cultures.
+Computing systems using lab-grown neural tissue to process information through biological networks
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: neurodiversity-inclusive-interfaces
 hub: soma
 title: Neurodiversity-Inclusive Interfaces
-summary: Adaptive systems designed for autistic, ADHD, and sensory-processing differences.
+summary: Adaptive interfaces designed for autistic, ADHD, dyslexic, and sensory-processing
+  differences
 permalink: https://www.envisioning.com/soma/neurodiversity-inclusive-interfaces
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178088/soma/
 
 ## Summary
 
-Adaptive systems designed for autistic, ADHD, and sensory-processing differences.
+Adaptive interfaces designed for autistic, ADHD, dyslexic, and sensory-processing differences
 
 ## Description
 

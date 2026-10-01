@@ -2,7 +2,8 @@
 slug: hvdc-supergrids
 hub: grid
 title: HVDC Supergrids
-summary: High-Voltage Direct Current networks for long-distance transmission.
+summary: Long-distance power transmission networks using direct current to minimize
+  energy losses
 permalink: https://www.envisioning.com/grid/hvdc-supergrids
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765131838/grid/
 
 ## Summary
 
-High-Voltage Direct Current networks for long-distance transmission.
+Long-distance power transmission networks using direct current to minimize energy losses
 
 ## Description
 

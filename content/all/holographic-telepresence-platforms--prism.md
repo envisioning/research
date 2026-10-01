@@ -2,7 +2,8 @@
 slug: holographic-telepresence-platforms
 hub: prism
 title: Holographic Telepresence Platforms
-summary: Life-size volumetric calling rooms sharing realistic avatars between cities.
+summary: Life-size volumetric video calls in dedicated pods with depth cameras and
+  LED walls
 permalink: https://www.envisioning.com/prism/holographic-telepresence-platforms
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764069358/pulse
 
 ## Summary
 
-Life-size volumetric calling rooms sharing realistic avatars between cities.
+Life-size volumetric video calls in dedicated pods with depth cameras and LED walls
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: ai-market-analytics-design
 hub: fabric
 title: AI-Driven Design and Market Analytics
-summary: Deep learning tools forecasting demand to guide design decisions.
+summary: Machine learning platforms that analyze trends and consumer data to forecast
+  apparel demand
 permalink: https://www.envisioning.com/fabric/ai-market-analytics-design
 collection: applications
 trl: 9
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060797/threa
 
 ## Summary
 
-Deep learning tools forecasting demand to guide design decisions.
+Machine learning platforms that analyze trends and consumer data to forecast apparel demand
 
 ## Description
 

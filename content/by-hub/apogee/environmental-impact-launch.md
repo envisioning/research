@@ -2,7 +2,7 @@
 slug: environmental-impact-launch
 hub: apogee
 title: Environmental Impact of Launch Cadence
-summary: Assessing and mitigating the atmospheric footprint of rocket launches.
+summary: Tracking atmospheric effects from increasing rocket launch frequency
 permalink: https://www.envisioning.com/apogee/environmental-impact-launch
 collection: ethics-security
 trl: 5
@@ -15,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764060888/apoge
 
 ## Summary
 
-Assessing and mitigating the atmospheric footprint of rocket launches.
+Tracking atmospheric effects from increasing rocket launch frequency
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: smart-leak-detection
 hub: substrate
 title: Smart Leak Detection Networks
-summary: Continuous sensing of distribution networks to detect leaks and bursts.
+summary: Continuous sensor networks that detect water leaks and bursts in distribution
+  infrastructure
 permalink: https://www.envisioning.com/substrate/smart-leak-detection
 collection: hardware
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117645/subst
 
 ## Summary
 
-Continuous sensing of distribution networks to detect leaks and bursts.
+Continuous sensor networks that detect water leaks and bursts in distribution infrastructure
 
 ## Description
 

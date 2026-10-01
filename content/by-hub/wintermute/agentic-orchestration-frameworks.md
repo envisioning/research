@@ -2,7 +2,8 @@
 slug: agentic-orchestration-frameworks
 hub: wintermute
 title: Agentic Orchestration Frameworks
-summary: Tool-using agents coordinated via high-level workflows and policies.
+summary: Infrastructure for coordinating multiple AI agents across complex workflows
+  and task delegation
 permalink: https://www.envisioning.com/wintermute/agentic-orchestration-frameworks
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763985406/winte
 
 ## Summary
 
-Tool-using agents coordinated via high-level workflows and policies.
+Infrastructure for coordinating multiple AI agents across complex workflows and task delegation
 
 ## Description
 

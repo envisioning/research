@@ -2,7 +2,8 @@
 slug: adversary-digital-twins
 hub: aegis
 title: Adversary Digital Twins
-summary: Continuously updated behavior models of adversary forces and doctrine.
+summary: Real-time virtual models of enemy forces, tactics, and doctrine for strategic
+  planning
 permalink: https://www.envisioning.com/aegis/adversary-digital-twins
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763998589/aegis
 
 ## Summary
 
-Continuously updated behavior models of adversary forces and doctrine.
+Real-time virtual models of enemy forces, tactics, and doctrine for strategic planning
 
 ## Description
 

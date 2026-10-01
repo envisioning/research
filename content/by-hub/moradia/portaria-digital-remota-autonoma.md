@@ -2,8 +2,8 @@
 slug: portaria-digital-remota-autonoma
 hub: moradia
 title: Portaria Digital, Remota e Autônoma
-summary: Sistemas de comunicação IP, centrais remotas e autoatendimento que transformam
-  portarias físicas em operações digitais, remotas ou autônomas.
+summary: Portarias operadas remotamente ou por autoatendimento via interfones IP,
+  câmeras e validação digital
 permalink: https://www.envisioning.com/moradia/portaria-digital-remota-autonoma
 collection: sistemas-prediais-automacao
 trl: 4
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766327355/habit
 
 ## Summary
 
-Sistemas de comunicação IP, centrais remotas e autoatendimento que transformam portarias físicas em operações digitais, remotas ou autônomas.
+Portarias operadas remotamente ou por autoatendimento via interfones IP, câmeras e validação digital
 
 ## Description
 

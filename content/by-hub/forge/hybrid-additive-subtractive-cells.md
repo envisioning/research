@@ -2,8 +2,7 @@
 slug: hybrid-additive-subtractive-cells
 hub: forge
 title: Hybrid Additive-Subtractive Manufacturing Cells
-summary: Integrated machines that combine 3D printing with CNC machining in a single
-  setup.
+summary: Machines that 3D print and CNC mill parts in one setup for tighter tolerances
 permalink: https://www.envisioning.com/forge/hybrid-additive-subtractive-cells
 collection: hardware
 trl: 6
@@ -16,7 +15,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765120050/forge
 
 ## Summary
 
-Integrated machines that combine 3D printing with CNC machining in a single setup.
+Machines that 3D print and CNC mill parts in one setup for tighter tolerances
 
 ## Description
 

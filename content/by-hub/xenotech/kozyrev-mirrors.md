@@ -2,21 +2,21 @@
 slug: kozyrev-mirrors
 hub: xenotech
 title: Kozyrev Mirrors
-summary: Aluminum spiral chambers allegedly concentrating torsion fields and enabling
-  anomalous consciousness effects.
+summary: Curved aluminum chambers claimed to amplify psychic abilities and alter time
+  perception
 permalink: https://www.envisioning.com/xenotech/kozyrev-mirrors
 collection: perception-cognition
 trl: 2
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1760819424/xenotech/technologies/kozyrev-mirrors.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898557/xenotech/technologies/kozyrev-mirrors-openrouter-google-gemini-3.1-flash-image-preview-lsyfri.png
 ---
 
 # Kozyrev Mirrors
 
 ## Summary
 
-Aluminum spiral chambers allegedly concentrating torsion fields and enabling anomalous consciousness effects.
+Curved aluminum chambers claimed to amplify psychic abilities and alter time perception
 
 ## Description
 

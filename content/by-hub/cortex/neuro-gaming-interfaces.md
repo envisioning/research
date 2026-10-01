@@ -2,7 +2,8 @@
 slug: neuro-gaming-interfaces
 hub: cortex
 title: Neuro-Gaming Interfaces
-summary: Direct neural control for immersive entertainment.
+summary: Brain-computer interfaces that let players control games with thoughts and
+  mental states
 permalink: https://www.envisioning.com/cortex/neuro-gaming-interfaces
 collection: applications
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1763996089/corte
 
 ## Summary
 
-Direct neural control for immersive entertainment.
+Brain-computer interfaces that let players control games with thoughts and mental states
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: synthetic-fuel-production
 hub: atmos
 title: Synthetic Fuel (E-Fuel) Production
-summary: Power-to-liquid plants manufacturing e-kerosene and methanol.
+summary: Converting renewable electricity and captured CO₂ into drop-in aviation and
+  marine fuels
 permalink: https://www.envisioning.com/atmos/synthetic-fuel-production
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764178817/atmos
 
 ## Summary
 
-Power-to-liquid plants manufacturing e-kerosene and methanol.
+Converting renewable electricity and captured CO₂ into drop-in aviation and marine fuels
 
 ## Description
 

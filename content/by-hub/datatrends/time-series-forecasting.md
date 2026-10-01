@@ -2,8 +2,8 @@
 slug: time-series-forecasting
 hub: datatrends
 title: Advanced Time Series Forecasting
-summary: Next-generation methods for predicting future values in time-dependent data,
-  critical for demand forecasting, financial modeling, and operations.
+summary: Predicting future values from time-dependent data using statistical and machine
+  learning methods
 permalink: https://www.envisioning.com/datatrends/time-series-forecasting
 collection: decision-intelligence-ai
 trl: 3
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593413/datat
 
 ## Summary
 
-Next-generation methods for predicting future values in time-dependent data, critical for demand forecasting, financial modeling, and operations.
+Predicting future values from time-dependent data using statistical and machine learning methods
 
 ## Description
 

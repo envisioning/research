@@ -2,7 +2,8 @@
 slug: mev-protection-protocols
 hub: lattice
 title: MEV Protection Protocols
-summary: Ordering services and encryption schemes mitigating front-running.
+summary: Systems that shield traders from front-running and sandwich attacks in decentralized
+  exchanges
 permalink: https://www.envisioning.com/lattice/mev-protection-protocols
 collection: software
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764075380/flows
 
 ## Summary
 
-Ordering services and encryption schemes mitigating front-running.
+Systems that shield traders from front-running and sandwich attacks in decentralized exchanges
 
 ## Description
 

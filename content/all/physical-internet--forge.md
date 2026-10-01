@@ -2,7 +2,8 @@
 slug: physical-internet
 hub: forge
 title: Physical Internet (PI)
-summary: An open, global logistics system based on standard interconnectivity.
+summary: Standardized, modular logistics network that routes cargo like data packets
+  across carriers and modes
 permalink: https://www.envisioning.com/forge/physical-internet
 collection: applications
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117913/forge
 
 ## Summary
 
-An open, global logistics system based on standard interconnectivity.
+Standardized, modular logistics network that routes cargo like data packets across carriers and modes
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: spatial-access-equity
 hub: liminal
 title: Spatial Access Equity
-summary: Infrastructure bridging the digital divide in spatial computing.
+summary: Infrastructure and programs ensuring equitable access to AR, VR, and mixed
+  reality technologies
 permalink: https://www.envisioning.com/liminal/spatial-access-equity
 collection: ethics-security
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125566/limin
 
 ## Summary
 
-Infrastructure bridging the digital divide in spatial computing.
+Infrastructure and programs ensuring equitable access to AR, VR, and mixed reality technologies
 
 ## Description
 

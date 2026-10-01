@@ -2,13 +2,13 @@
 slug: phantom-kill-switch
 hub: interface
 title: Phantom Kill Switch
-summary: Patented passive electronic technology locking transmission gear shifter
-  into "Park" position for vehicle theft prevention.
+summary: Locks a vehicle's gear shifter in Park until authorized, preventing theft
+  even if the engine starts
 permalink: https://www.envisioning.com/interface/phantom-kill-switch
-collection: advanced-interaction-modalities
+collection: ethics-security
 trl: 4
-impact: null
-investment: null
+impact: 3
+investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742815/interface/technologies/phantom-kill-switch-google-gemini-3-pro-image-preview-11g5xm.jpg
 ---
 
@@ -16,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765742815/inter
 
 ## Summary
 
-Patented passive electronic technology locking transmission gear shifter into "Park" position for vehicle theft prevention.
+Locks a vehicle's gear shifter in Park until authorized, preventing theft even if the engine starts
 
 ## Description
 

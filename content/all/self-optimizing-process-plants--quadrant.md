@@ -2,7 +2,8 @@
 slug: self-optimizing-process-plants
 hub: quadrant
 title: Self-Optimizing Process Plants
-summary: Continuously tuning plants for yield, energy, and safety.
+summary: Industrial plants that autonomously adjust operations to maximize yield,
+  efficiency, and safety
 permalink: https://www.envisioning.com/quadrant/self-optimizing-process-plants
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765127171/quadr
 
 ## Summary
 
-Continuously tuning plants for yield, energy, and safety.
+Industrial plants that autonomously adjust operations to maximize yield, efficiency, and safety
 
 ## Description
 

@@ -2,19 +2,21 @@
 slug: three-dimensional-integrated-circuits
 hub: horizons
 title: Three-Dimensional Integrated Circuits
-summary: Stacked die and wafer-level integration for memory and data processing.
+summary: Vertically stacked chips connected by through-silicon vias to boost density
+  and speed
 permalink: https://www.envisioning.com/horizons/three-dimensional-integrated-circuits
 collection: hardware
 trl: 7
 impact: 5
 investment: 5
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1774889170/horizons/technologies/7431157a-8f38-4d10-bc5a-8ad7ca8d2bf4-google-gemini-3.1-flash-image-preview-q04vdm.jpg
 ---
 
 # Three-Dimensional Integrated Circuits
 
 ## Summary
 
-Stacked die and wafer-level integration for memory and data processing.
+Vertically stacked chips connected by through-silicon vias to boost density and speed
 
 ## Description
 

@@ -2,7 +2,8 @@
 slug: satellite-swarm-coordination
 hub: apogee
 title: Satellite Swarm Coordination
-summary: Distributed autonomy for cooperative multi-satellite formations.
+summary: Distributed control systems enabling satellite groups to coordinate sensing,
+  mapping, and maneuvers
 permalink: https://www.envisioning.com/apogee/satellite-swarm-coordination
 collection: software
 trl: 4
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764180730/apoge
 
 ## Summary
 
-Distributed autonomy for cooperative multi-satellite formations.
+Distributed control systems enabling satellite groups to coordinate sensing, mapping, and maneuvers
 
 ## Description
 

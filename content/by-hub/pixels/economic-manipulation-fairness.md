@@ -2,7 +2,8 @@
 slug: economic-manipulation-fairness
 hub: pixels
 title: Economic Manipulation & Fairness
-summary: Governance for dynamic economies to avoid predatory design.
+summary: Oversight frameworks and audits to prevent exploitative scarcity and wealth
+  imbalance in game economies
 permalink: https://www.envisioning.com/pixels/economic-manipulation-fairness
 collection: ethics-security
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1764011593/pixel
 
 ## Summary
 
-Governance for dynamic economies to avoid predatory design.
+Oversight frameworks and audits to prevent exploitative scarcity and wealth imbalance in game economies
 
 ## Description
 

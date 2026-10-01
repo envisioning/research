@@ -2,7 +2,8 @@
 slug: ritual-orchestration-systems
 hub: eclipse
 title: Ritual Orchestration Systems
-summary: Engines that generate culturally-sensitive, personalized end-of-life rituals.
+summary: Platforms that design personalized end-of-life ceremonies blending cultural,
+  spiritual, and family needs
 permalink: https://www.envisioning.com/eclipse/ritual-orchestration-systems
 collection: software
 trl: 5
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126855/eclip
 
 ## Summary
 
-Engines that generate culturally-sensitive, personalized end-of-life rituals.
+Platforms that design personalized end-of-life ceremonies blending cultural, spiritual, and family needs
 
 ## Description
 

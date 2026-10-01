@@ -2,7 +2,8 @@
 slug: human-centric-exoskeletons
 hub: forge
 title: Active Industrial Exoskeletons
-summary: Powered wearable robotics to augment worker strength and reduce fatigue.
+summary: Motorized wearable robots that amplify worker strength and reduce physical
+  strain in factories
 permalink: https://www.envisioning.com/forge/human-centric-exoskeletons
 collection: hardware
 trl: 8
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765111346/forge
 
 ## Summary
 
-Powered wearable robotics to augment worker strength and reduce fatigue.
+Motorized wearable robots that amplify worker strength and reduce physical strain in factories
 
 ## Description
 

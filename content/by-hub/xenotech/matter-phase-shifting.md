@@ -2,21 +2,20 @@
 slug: matter-phase-shifting
 hub: xenotech
 title: Matter Phase Shifting
-summary: Theoretical technologies enabling solid matter to transition through energy
-  states for seamless passage through physical barriers.
+summary: Controlled atomic transitions enabling objects to pass through solid barriers
 permalink: https://www.envisioning.com/xenotech/matter-phase-shifting
 collection: temporal-dimensional
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1761655879/xenotech/technologies/matter-phase-shifting.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898702/xenotech/technologies/matter-phase-shifting-openrouter-google-gemini-3.1-flash-image-preview-z9c4dc.png
 ---
 
 # Matter Phase Shifting
 
 ## Summary
 
-Theoretical technologies enabling solid matter to transition through energy states for seamless passage through physical barriers.
+Controlled atomic transitions enabling objects to pass through solid barriers
 
 ## Description
 

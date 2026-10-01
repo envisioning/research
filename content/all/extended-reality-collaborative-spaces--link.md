@@ -2,7 +2,8 @@
 slug: extended-reality-collaborative-spaces
 hub: link
 title: Extended Reality Collaborative Spaces
-summary: Multi-user AR/VR environments for remote work and social interaction.
+summary: Shared AR/VR environments enabling real-time collaboration across distributed
+  teams
 permalink: https://www.envisioning.com/link/extended-reality-collaborative-spaces
 collection: applications
 trl: 4
@@ -15,7 +16,7 @@ image_url: null
 
 ## Summary
 
-Multi-user AR/VR environments for remote work and social interaction.
+Shared AR/VR environments enabling real-time collaboration across distributed teams
 
 ## Description
 

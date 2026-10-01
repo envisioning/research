@@ -2,7 +2,8 @@
 slug: battery-electric-mobile-equipment
 hub: stratum
 title: Battery-Electric Mobile Mining Equipment
-summary: Deploying battery-electric vehicles for underground and open-pit operations.
+summary: Electric-powered haul trucks, loaders, and drills replacing diesel fleets
+  in mines
 permalink: https://www.envisioning.com/stratum/battery-electric-mobile-equipment
 collection: applications
 trl: 7
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765178032/strat
 
 ## Summary
 
-Deploying battery-electric vehicles for underground and open-pit operations.
+Electric-powered haul trucks, loaders, and drills replacing diesel fleets in mines
 
 ## Description
 

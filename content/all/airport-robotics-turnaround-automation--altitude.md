@@ -2,7 +2,8 @@
 slug: airport-robotics-turnaround-automation
 hub: altitude
 title: Airport Robotics & Turnaround Automation
-summary: Robotics for baggage, cargo, cleaning, inspection, and ground support.
+summary: Robots handling baggage, cleaning, inspection, and ground support to speed
+  aircraft turnaround
 permalink: https://www.envisioning.com/altitude/airport-robotics-turnaround-automation
 collection: applications
 trl: 6
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765643239/altit
 
 ## Summary
 
-Robotics for baggage, cargo, cleaning, inspection, and ground support.
+Robots handling baggage, cleaning, inspection, and ground support to speed aircraft turnaround
 
 ## Description
 

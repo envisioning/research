@@ -2,9 +2,8 @@
 slug: amenidades-cobertura-inacessiveis-andares-inferiores
 hub: moradia
 title: Amenidades de Cobertura Inacessíveis a Andares Inferiores
-summary: Amenidades e espaços exclusivos em coberturas de edifícios que são inacessíveis
-  a moradores de andares inferiores, criando estratificação social vertical dentro
-  de edifícios.
+summary: Amenidades exclusivas em coberturas que criam estratificação social vertical
+  dentro de edifícios
 permalink: https://www.envisioning.com/moradia/amenidades-cobertura-inacessiveis-andares-inferiores
 collection: modelos-mercado-governanca
 trl: 4
@@ -17,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1766668503/habit
 
 ## Summary
 
-Amenidades e espaços exclusivos em coberturas de edifícios que são inacessíveis a moradores de andares inferiores, criando estratificação social vertical dentro de edifícios.
+Amenidades exclusivas em coberturas que criam estratificação social vertical dentro de edifícios
 
 ## Description
 

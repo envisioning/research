@@ -2,7 +2,8 @@
 slug: blockchain-smart-contracts
 hub: habitat
 title: Blockchain Smart Contracts
-summary: Self-executing contracts for transparent and automated real estate transactions.
+summary: Self-executing digital agreements that automate real estate transactions
+  without intermediaries
 permalink: https://www.envisioning.com/habitat/blockchain-smart-contracts
 collection: software
 trl: 3
@@ -15,7 +16,7 @@ image_url: https://res.cloudinary.com/envisioning/image/upload/v1765117168/habit
 
 ## Summary
 
-Self-executing contracts for transparent and automated real estate transactions.
+Self-executing digital agreements that automate real estate transactions without intermediaries
 
 ## Description
 
