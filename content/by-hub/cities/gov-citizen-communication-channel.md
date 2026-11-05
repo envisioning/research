@@ -9,7 +9,7 @@ collection: applications
 trl: 8
 impact: 3
 investment: 2
-image_url: https://www.datocms-assets.com/134194/1719240662-gov-citizen-communication-channel.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882033/cities/technologies/gov-citizen-communication-channel.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

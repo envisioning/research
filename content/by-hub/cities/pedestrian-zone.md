@@ -9,7 +9,7 @@ collection: applications
 trl: 9
 impact: 4
 investment: 3
-image_url: https://www.datocms-assets.com/134194/1718792055-pedestrian-zone.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882033/cities/technologies/pedestrian-zone.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

@@ -8,7 +8,7 @@ collection: hardware
 trl: 9
 impact: 3
 investment: 2
-image_url: https://www.datocms-assets.com/134194/1718792949-translating-earbud.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882024/cities/technologies/translating-earbud.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

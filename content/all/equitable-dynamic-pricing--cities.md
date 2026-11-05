@@ -9,7 +9,7 @@ collection: ethics-security
 trl: 4
 impact: 1
 investment: 1
-image_url: https://www.datocms-assets.com/134194/1719478960-envisioning-io_add_overlayed_symbol_of_justice_a_scale_a996cad7-8d16-4365-b48f-a60981c87228.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882015/cities/technologies/envisioning-io_add_overlayed_symbol_of_justice_a_scale_a996cad7-8d16-4365-b48f-a60981c87228.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

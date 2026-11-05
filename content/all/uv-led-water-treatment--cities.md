@@ -9,7 +9,7 @@ collection: hardware
 trl: 8
 impact: 3
 investment: 2
-image_url: https://www.datocms-assets.com/134194/1718792076-uv-led-water-treatment.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882024/cities/technologies/uv-led-water-treatment.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

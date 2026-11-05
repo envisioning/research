@@ -9,7 +9,7 @@ collection: hardware
 trl: 7
 impact: 3
 investment: 2
-image_url: https://www.datocms-assets.com/134194/1718792451-integrated-autonomous-energy-grid.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882015/cities/technologies/integrated-autonomous-energy-grid.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: hardware
 trl: 5
 impact: 1
 investment: 1
-image_url: https://www.datocms-assets.com/134194/1724869526-elastocalorics.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882032/cities/technologies/elastocalorics.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

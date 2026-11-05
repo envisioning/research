@@ -9,7 +9,7 @@ collection: hardware
 trl: 3
 impact: 2
 investment: 1
-image_url: https://www.datocms-assets.com/134194/1759843813-living-fungal-sensor.png
+image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882027/cities/technologies/living-fungal-sensor.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---
