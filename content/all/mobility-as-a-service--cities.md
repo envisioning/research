@@ -10,7 +10,7 @@ trl: 8
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882025/cities/technologies/mobility-as-a-service.png
-updated_at: '2026-05-25T12:53:52.153719+00:00'
+updated_at: '2026-11-05T12:34:27.875678+00:00'
 last_reviewed: null
 ---
 

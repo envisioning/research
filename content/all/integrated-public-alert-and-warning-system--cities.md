@@ -10,7 +10,7 @@ trl: 9
 impact: 3
 investment: 3
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882017/cities/technologies/integrated-public-alert-and-warning-system.png
-updated_at: '2026-05-25T12:53:52.153719+00:00'
+updated_at: '2026-11-05T12:34:24.144827+00:00'
 last_reviewed: null
 ---
 

@@ -9,7 +9,7 @@ trl: 9
 impact: 3
 investment: 2
 image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882024/cities/technologies/translating-earbud.png
-updated_at: '2026-05-25T12:53:52.153719+00:00'
+updated_at: '2026-11-05T12:34:27.408743+00:00'
 last_reviewed: null
 ---
 

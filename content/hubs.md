@@ -1,7 +1,7 @@
 # Research Hubs
 
 Source of truth: Supabase `research` table.
-Snapshot timestamp: `2026-10-01T09:35:23.210885+00:00`
+Snapshot timestamp: `2026-11-05T12:34:31.196173+00:00`
 
 ## Aegis (214)
 Defense systems, security technologies, intelligence architectures, and resilience mechanisms.
