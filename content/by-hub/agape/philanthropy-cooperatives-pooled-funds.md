@@ -9,7 +9,7 @@ collection: organizational-forms-ecosystems
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368637/agape/signals/philanthropy-cooperatives-pooled-funds-google-gemini-3-pro-image-preview-qiaipr.png
+image_url: https://media.envisioning.com/image/upload/v1769368637/agape/signals/philanthropy-cooperatives-pooled-funds-google-gemini-3-pro-image-preview-qiaipr.png
 updated_at: '2026-10-01T09:32:55.031797+00:00'
 last_reviewed: null
 ---

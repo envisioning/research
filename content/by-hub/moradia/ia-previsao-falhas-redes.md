@@ -9,7 +9,7 @@ collection: plataformas-dados
 trl: 2
 impact: 3
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1766584267/habitacao/technologies/ia-previsao-falhas-redes-google-gemini-3-pro-image-preview-7e09p8.jpg
+image_url: https://media.envisioning.com/image/upload/v1766584267/habitacao/technologies/ia-previsao-falhas-redes-google-gemini-3-pro-image-preview-7e09p8.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

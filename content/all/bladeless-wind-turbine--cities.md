@@ -9,7 +9,7 @@ collection: hardware
 trl: 5
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882030/cities/technologies/bladeless-wind-turbine.png
+image_url: https://media.envisioning.com/image/upload/v1793882030/cities/technologies/bladeless-wind-turbine.png
 updated_at: '2026-11-05T12:34:29.333798+00:00'
 last_reviewed: null
 ---

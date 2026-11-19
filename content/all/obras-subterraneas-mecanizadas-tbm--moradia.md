@@ -9,7 +9,7 @@ collection: metodos-execucao-obra
 trl: 3
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1766585882/habitacao/technologies/obras-subterraneas-mecanizadas-tbm-google-gemini-3-pro-image-preview-p7y7xy.png
+image_url: https://media.envisioning.com/image/upload/v1766585882/habitacao/technologies/obras-subterraneas-mecanizadas-tbm-google-gemini-3-pro-image-preview-p7y7xy.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

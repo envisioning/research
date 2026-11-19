@@ -9,7 +9,7 @@ collection: digital-platforms
 trl: 4
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768577251/sakan/technologies/smart-city-platforms-google-gemini-3-pro-image-preview-nxpx1z.jpg
+image_url: https://media.envisioning.com/image/upload/v1768577251/sakan/technologies/smart-city-platforms-google-gemini-3-pro-image-preview-nxpx1z.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

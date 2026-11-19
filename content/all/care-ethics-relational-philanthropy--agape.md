@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368526/agape/signals/care-ethics-relational-philanthropy-google-gemini-3-pro-image-preview-zga90f.jpg
+image_url: https://media.envisioning.com/image/upload/v1769368526/agape/signals/care-ethics-relational-philanthropy-google-gemini-3-pro-image-preview-zga90f.jpg
 updated_at: '2026-10-01T09:27:48.600295+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: organizational-forms-ecosystems
 trl: 1
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368688/agape/signals/government-philanthropy-formal-partnerships-google-gemini-3-pro-image-preview-wc0uiu.png
+image_url: https://media.envisioning.com/image/upload/v1769368688/agape/signals/government-philanthropy-formal-partnerships-google-gemini-3-pro-image-preview-wc0uiu.png
 updated_at: '2026-10-01T09:30:58.517941+00:00'
 last_reviewed: null
 ---

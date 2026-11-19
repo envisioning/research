@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 8
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1773224774/agora/technologies/accessibility-and-inclusion-assurance-8w7v5w.png
+image_url: https://media.envisioning.com/image/upload/v1773224774/agora/technologies/accessibility-and-inclusion-assurance-8w7v5w.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

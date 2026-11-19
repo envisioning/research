@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 1
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368006/agape/signals/low-cost-sensing-impact-measurement-google-gemini-3-pro-image-preview-43n353.jpg
+image_url: https://media.envisioning.com/image/upload/v1769368006/agape/signals/low-cost-sensing-impact-measurement-google-gemini-3-pro-image-preview-43n353.jpg
 updated_at: '2026-10-01T09:31:55.813256+00:00'
 last_reviewed: null
 ---

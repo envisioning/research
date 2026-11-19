@@ -9,7 +9,7 @@ collection: hardware
 trl: 9
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882015/cities/technologies/smart-vending-machine.png
+image_url: https://media.envisioning.com/image/upload/v1793882015/cities/technologies/smart-vending-machine.png
 updated_at: '2026-11-05T12:34:22.577701+00:00'
 last_reviewed: null
 ---

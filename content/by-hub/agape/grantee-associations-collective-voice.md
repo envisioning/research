@@ -9,7 +9,7 @@ collection: organizational-forms-ecosystems
 trl: 1
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368704/agape/signals/grantee-associations-collective-voice-google-gemini-3-pro-image-preview-3r7if9.jpg
+image_url: https://media.envisioning.com/image/upload/v1769368704/agape/signals/grantee-associations-collective-voice-google-gemini-3-pro-image-preview-3r7if9.jpg
 updated_at: '2026-10-01T09:31:01.516801+00:00'
 last_reviewed: null
 ---

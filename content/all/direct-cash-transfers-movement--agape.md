@@ -9,7 +9,7 @@ collection: capital-instruments-economic
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367726/agape/signals/direct-cash-transfers-movement-google-gemini-3-pro-image-preview-8bs54t.png
+image_url: https://media.envisioning.com/image/upload/v1769367726/agape/signals/direct-cash-transfers-movement-google-gemini-3-pro-image-preview-8bs54t.png
 updated_at: '2026-10-01T09:29:49.483832+00:00'
 last_reviewed: null
 ---

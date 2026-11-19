@@ -9,7 +9,7 @@ collection: knowledge-evidence-sensemaking
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371872/agape/signals/philanthropy-funding-epistemic-infrastructure-google-gemini-3-pro-image-preview-ag204t.png
+image_url: https://media.envisioning.com/image/upload/v1769371872/agape/signals/philanthropy-funding-epistemic-infrastructure-google-gemini-3-pro-image-preview-ag204t.png
 updated_at: '2026-10-01T09:33:02.980461+00:00'
 last_reviewed: null
 ---

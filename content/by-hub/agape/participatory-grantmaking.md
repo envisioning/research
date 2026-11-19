@@ -9,7 +9,7 @@ collection: power-agency-governance
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419165/philanthropy/signals/participatory-grantmaking-google-gemini-3-pro-image-preview-o4fm17.jpg
+image_url: https://media.envisioning.com/image/upload/v1768419165/philanthropy/signals/participatory-grantmaking-google-gemini-3-pro-image-preview-o4fm17.jpg
 updated_at: '2026-10-01T09:32:51.989334+00:00'
 last_reviewed: null
 ---

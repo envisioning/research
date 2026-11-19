@@ -9,7 +9,7 @@ collection: hardware
 trl: 8
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882028/cities/technologies/perovskite-solar-cell.png
+image_url: https://media.envisioning.com/image/upload/v1793882028/cities/technologies/perovskite-solar-cell.png
 updated_at: '2026-11-05T12:34:28.893484+00:00'
 last_reviewed: null
 ---

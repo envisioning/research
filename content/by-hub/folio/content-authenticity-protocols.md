@@ -8,7 +8,7 @@ collection: ethics-security
 trl: 7
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476957/folio/technologies/content-authenticity-protocols-google-gemini-3-pro-image-preview-bp5q5n.jpg
+image_url: https://media.envisioning.com/image/upload/v1765476957/folio/technologies/content-authenticity-protocols-google-gemini-3-pro-image-preview-bp5q5n.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

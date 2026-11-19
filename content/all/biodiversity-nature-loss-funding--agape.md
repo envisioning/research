@@ -9,7 +9,7 @@ collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368370/agape/signals/biodiversity-nature-loss-funding-google-gemini-3-pro-image-preview-2dmsek.jpg
+image_url: https://media.envisioning.com/image/upload/v1769368370/agape/signals/biodiversity-nature-loss-funding-google-gemini-3-pro-image-preview-2dmsek.jpg
 updated_at: '2026-10-01T09:27:42.993433+00:00'
 last_reviewed: null
 ---

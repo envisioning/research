@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368266/agape/signals/emergency-response-coordination-platforms-google-gemini-3-pro-image-preview-rkwihc.jpg
+image_url: https://media.envisioning.com/image/upload/v1769368266/agape/signals/emergency-response-coordination-platforms-google-gemini-3-pro-image-preview-rkwihc.jpg
 updated_at: '2026-10-01T09:30:05.457266+00:00'
 last_reviewed: null
 ---

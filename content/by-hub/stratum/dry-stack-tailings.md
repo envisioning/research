@@ -9,7 +9,7 @@ collection: hardware
 trl: 6
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765133016/stratum/technologies/dry-stack-tailings-google-gemini-3-pro-image-preview-oy3zqr.png
+image_url: https://media.envisioning.com/image/upload/v1765133016/stratum/technologies/dry-stack-tailings-google-gemini-3-pro-image-preview-oy3zqr.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

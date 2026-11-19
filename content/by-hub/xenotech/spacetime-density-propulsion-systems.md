@@ -9,7 +9,7 @@ collection: propulsion-physics
 trl: 3
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897974/xenotech/technologies/spacetime-density-propulsion-systems-openrouter-google-gemini-3.1-flash-image-preview-1kcf1h.png
+image_url: https://media.envisioning.com/image/upload/v1772897974/xenotech/technologies/spacetime-density-propulsion-systems-openrouter-google-gemini-3.1-flash-image-preview-1kcf1h.png
 updated_at: '2026-10-01T08:48:57.351931+00:00'
 last_reviewed: null
 ---

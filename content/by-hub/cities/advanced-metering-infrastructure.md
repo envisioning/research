@@ -9,7 +9,7 @@ collection: hardware
 trl: 9
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882030/cities/technologies/advanced-metering-infrastructure.png
+image_url: https://media.envisioning.com/image/upload/v1793882030/cities/technologies/advanced-metering-infrastructure.png
 updated_at: '2026-11-05T12:34:29.714139+00:00'
 last_reviewed: null
 ---

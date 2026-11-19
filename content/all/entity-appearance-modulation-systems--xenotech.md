@@ -9,7 +9,7 @@ collection: consciousness-interface
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1772897209/xenotech/technologies/entity-appearance-modulation-systems-openrouter-google-gemini-3.1-flash-image-preview-5oc06m.png
+image_url: https://media.envisioning.com/image/upload/v1772897209/xenotech/technologies/entity-appearance-modulation-systems-openrouter-google-gemini-3.1-flash-image-preview-5oc06m.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

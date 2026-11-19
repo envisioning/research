@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367854/agape/signals/cybersecurity-threats-civil-society-google-gemini-3-pro-image-preview-xvfbpz.png
+image_url: https://media.envisioning.com/image/upload/v1769367854/agape/signals/cybersecurity-threats-civil-society-google-gemini-3-pro-image-preview-xvfbpz.png
 updated_at: '2026-10-01T09:28:54.817009+00:00'
 last_reviewed: null
 ---

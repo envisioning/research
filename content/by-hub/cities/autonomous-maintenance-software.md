@@ -9,7 +9,7 @@ collection: software
 trl: 7
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882010/cities/technologies/autonomous-maintenance-software.png
+image_url: https://media.envisioning.com/image/upload/v1793882010/cities/technologies/autonomous-maintenance-software.png
 updated_at: '2026-11-05T12:34:18.728267+00:00'
 last_reviewed: null
 ---

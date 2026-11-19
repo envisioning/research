@@ -9,7 +9,7 @@ collection: construction-megaprojects
 trl: 4
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768576615/sakan/technologies/defects-warranty-analytics-google-gemini-3-pro-image-preview-wydgcq.png
+image_url: https://media.envisioning.com/image/upload/v1768576615/sakan/technologies/defects-warranty-analytics-google-gemini-3-pro-image-preview-wydgcq.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

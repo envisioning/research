@@ -8,7 +8,7 @@ collection: biology-hybridization
 trl: 5
 impact: 5
 investment: 6
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903564/xenotech/technologies/xenobots-synthetic-living-constructs-openrouter-google-gemini-3.1-flash-image-preview-hif1ef.png
+image_url: https://media.envisioning.com/image/upload/v1772903564/xenotech/technologies/xenobots-synthetic-living-constructs-openrouter-google-gemini-3.1-flash-image-preview-hif1ef.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

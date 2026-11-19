@@ -8,7 +8,7 @@ collection: software
 trl: 7
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882019/cities/technologies/envisioning-io_digital_documents_contracts_stamped_with_digital_65f6bd78-3025-4384-8e51-311538d13b40.png
+image_url: https://media.envisioning.com/image/upload/v1793882019/cities/technologies/envisioning-io_digital_documents_contracts_stamped_with_digital_65f6bd78-3025-4384-8e51-311538d13b40.png
 updated_at: '2026-11-05T12:34:25.401491+00:00'
 last_reviewed: null
 ---

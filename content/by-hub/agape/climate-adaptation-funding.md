@@ -9,7 +9,7 @@ collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419238/philanthropy/signals/climate-adaptation-funding-google-gemini-3-pro-image-preview-cbkeu2.png
+image_url: https://media.envisioning.com/image/upload/v1768419238/philanthropy/signals/climate-adaptation-funding-google-gemini-3-pro-image-preview-cbkeu2.png
 updated_at: '2026-10-01T09:28:28.542621+00:00'
 last_reviewed: null
 ---

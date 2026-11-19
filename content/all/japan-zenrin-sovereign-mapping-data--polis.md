@@ -10,7 +10,7 @@ collection: software
 trl: 8
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1774819108/polis/technologies/8eec2784-a6d2-433a-be23-84896f2fa23d-google-gemini-3.1-flash-image-preview-3grx72.jpg
+image_url: https://media.envisioning.com/image/upload/v1774819108/polis/technologies/8eec2784-a6d2-433a-be23-84896f2fa23d-google-gemini-3.1-flash-image-preview-3grx72.jpg
 updated_at: '2026-09-28T17:16:28.386782+00:00'
 last_reviewed: null
 ---

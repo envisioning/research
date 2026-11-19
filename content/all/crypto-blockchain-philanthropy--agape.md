@@ -9,7 +9,7 @@ collection: capital-instruments-economic
 trl: 1
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367701/agape/signals/crypto-blockchain-philanthropy-google-gemini-3-pro-image-preview-wvnnn8.jpg
+image_url: https://media.envisioning.com/image/upload/v1769367701/agape/signals/crypto-blockchain-philanthropy-google-gemini-3-pro-image-preview-wvnnn8.jpg
 updated_at: '2026-10-01T09:28:51.927077+00:00'
 last_reviewed: null
 ---

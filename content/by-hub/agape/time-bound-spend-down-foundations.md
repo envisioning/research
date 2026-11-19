@@ -9,7 +9,7 @@ collection: capital-instruments-economic
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419502/philanthropy/signals/time-bound-spend-down-foundations-google-gemini-3-pro-image-preview-euq373.jpg
+image_url: https://media.envisioning.com/image/upload/v1768419502/philanthropy/signals/time-bound-spend-down-foundations-google-gemini-3-pro-image-preview-euq373.jpg
 updated_at: '2026-10-01T09:35:12.399467+00:00'
 last_reviewed: null
 ---

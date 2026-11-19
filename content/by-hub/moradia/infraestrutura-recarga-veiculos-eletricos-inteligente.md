@@ -9,7 +9,7 @@ collection: sistemas-prediais-automacao
 trl: 3
 impact: 1
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1766360162/habitar/technologies/estacoes-recarga-ve-smart-google-gemini-3-pro-image-preview-9huqmn.jpg
+image_url: https://media.envisioning.com/image/upload/v1766360162/habitar/technologies/estacoes-recarga-ve-smart-google-gemini-3-pro-image-preview-9huqmn.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

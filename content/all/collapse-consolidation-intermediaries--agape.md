@@ -9,7 +9,7 @@ collection: organizational-forms-ecosystems
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372343/agape/signals/collapse-consolidation-intermediaries-google-gemini-3-pro-image-preview-16049u.png
+image_url: https://media.envisioning.com/image/upload/v1769372343/agape/signals/collapse-consolidation-intermediaries-google-gemini-3-pro-image-preview-16049u.png
 updated_at: '2026-10-01T09:28:31.5995+00:00'
 last_reviewed: null
 ---

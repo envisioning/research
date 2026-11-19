@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 1
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368491/agape/signals/longtermism-intergenerational-ethics-google-gemini-3-pro-image-preview-6to299.png
+image_url: https://media.envisioning.com/image/upload/v1769368491/agape/signals/longtermism-intergenerational-ethics-google-gemini-3-pro-image-preview-6to299.png
 updated_at: '2026-10-01T09:31:53.139635+00:00'
 last_reviewed: null
 ---

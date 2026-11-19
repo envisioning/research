@@ -9,7 +9,7 @@ collection: software
 trl: 7
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764083771/helix/technologies/multi-omic-aging-clocks-gemini-3-pro-8pnf5z.jpg
+image_url: https://media.envisioning.com/image/upload/v1764083771/helix/technologies/multi-omic-aging-clocks-gemini-3-pro-8pnf5z.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

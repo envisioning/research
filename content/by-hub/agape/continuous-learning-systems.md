@@ -9,7 +9,7 @@ collection: knowledge-evidence-sensemaking
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419369/philanthropy/signals/continuous-learning-systems-google-gemini-3-pro-image-preview-jehx95.jpg
+image_url: https://media.envisioning.com/image/upload/v1768419369/philanthropy/signals/continuous-learning-systems-google-gemini-3-pro-image-preview-jehx95.jpg
 updated_at: '2026-10-01T09:28:43.244653+00:00'
 last_reviewed: null
 ---

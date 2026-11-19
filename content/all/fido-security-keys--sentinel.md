@@ -9,7 +9,7 @@ collection: hardware
 trl: 9
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765463145/sentinel/technologies/fido-security-keys-google-gemini-3-pro-image-preview-vw8l0j.png
+image_url: https://media.envisioning.com/image/upload/v1765463145/sentinel/technologies/fido-security-keys-google-gemini-3-pro-image-preview-vw8l0j.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 1
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372202/agape/signals/spiritual-indigenous-non-western-models-google-gemini-3-pro-image-preview-upxay1.jpg
+image_url: https://media.envisioning.com/image/upload/v1769372202/agape/signals/spiritual-indigenous-non-western-models-google-gemini-3-pro-image-preview-upxay1.jpg
 updated_at: '2026-10-01T09:35:04.489431+00:00'
 last_reviewed: null
 ---

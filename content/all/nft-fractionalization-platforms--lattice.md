@@ -8,7 +8,7 @@ collection: applications
 trl: 6
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179938/lattice/technologies/nft-fractionalization-platforms-gemini-3-pro-a04pa6.jpg
+image_url: https://media.envisioning.com/image/upload/v1764179938/lattice/technologies/nft-fractionalization-platforms-gemini-3-pro-a04pa6.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

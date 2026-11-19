@@ -9,7 +9,7 @@ collection: hardware
 trl: 7
 impact: 4
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764526132/horizons/technologies/circular-battery-google-gemini-3-pro-image-preview-6kx50g.png
+image_url: https://media.envisioning.com/image/upload/v1764526132/horizons/technologies/circular-battery-google-gemini-3-pro-image-preview-6kx50g.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

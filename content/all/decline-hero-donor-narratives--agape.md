@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372224/agape/signals/decline-hero-donor-narratives-google-gemini-3-pro-image-preview-8giknp.png
+image_url: https://media.envisioning.com/image/upload/v1769372224/agape/signals/decline-hero-donor-narratives-google-gemini-3-pro-image-preview-8giknp.png
 updated_at: '2026-10-01T09:29:41.636056+00:00'
 last_reviewed: null
 ---

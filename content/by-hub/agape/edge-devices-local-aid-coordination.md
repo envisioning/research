@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 1
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368030/agape/signals/edge-devices-local-aid-coordination-google-gemini-3-pro-image-preview-h15z9h.png
+image_url: https://media.envisioning.com/image/upload/v1769368030/agape/signals/edge-devices-local-aid-coordination-google-gemini-3-pro-image-preview-h15z9h.png
 updated_at: '2026-10-01T09:30:00.460542+00:00'
 last_reviewed: null
 ---

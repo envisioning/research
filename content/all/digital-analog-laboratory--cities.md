@@ -9,7 +9,7 @@ collection: applications
 trl: 8
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882010/cities/technologies/digital-analog-laboratory.png
+image_url: https://media.envisioning.com/image/upload/v1793882010/cities/technologies/digital-analog-laboratory.png
 updated_at: '2026-11-05T12:34:20.652336+00:00'
 last_reviewed: null
 ---

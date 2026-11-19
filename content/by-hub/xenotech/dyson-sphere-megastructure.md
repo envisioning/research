@@ -9,7 +9,7 @@ collection: energy-systems
 trl: 1
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938708/xenotech/technologies/dyson-sphere-megastructure-imagegen-v1.png
+image_url: https://media.envisioning.com/image/upload/v1787938708/xenotech/technologies/dyson-sphere-megastructure-imagegen-v1.png
 updated_at: '2026-08-28T17:38:29.941581+00:00'
 last_reviewed: null
 ---

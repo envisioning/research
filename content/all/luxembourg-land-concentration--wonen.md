@@ -9,7 +9,7 @@ collection: barriers-opposition
 trl: 4
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1774887345/wonen/technologies/59b89f86-7774-47bf-a20e-d2d6c14680b4-google-gemini-3.1-flash-image-preview-lp8cty.jpg
+image_url: https://media.envisioning.com/image/upload/v1774887345/wonen/technologies/59b89f86-7774-47bf-a20e-d2d6c14680b4-google-gemini-3.1-flash-image-preview-lp8cty.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

@@ -8,7 +8,7 @@ collection: hardware
 trl: 9
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882024/cities/technologies/translating-earbud.png
+image_url: https://media.envisioning.com/image/upload/v1793882024/cities/technologies/translating-earbud.png
 updated_at: '2026-11-05T12:34:27.408743+00:00'
 last_reviewed: null
 ---

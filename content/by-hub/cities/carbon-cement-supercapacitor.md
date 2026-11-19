@@ -9,7 +9,7 @@ collection: hardware
 trl: 4
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882024/cities/technologies/carbon-cement-supercapacitor.png
+image_url: https://media.envisioning.com/image/upload/v1793882024/cities/technologies/carbon-cement-supercapacitor.png
 updated_at: '2026-11-05T12:34:27.190048+00:00'
 last_reviewed: null
 ---

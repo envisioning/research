@@ -9,7 +9,7 @@ collection: power-agency-governance
 trl: 1
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371685/agape/signals/community-accountability-mechanisms-google-gemini-3-pro-image-preview-0nzhbs.png
+image_url: https://media.envisioning.com/image/upload/v1769371685/agape/signals/community-accountability-mechanisms-google-gemini-3-pro-image-preview-0nzhbs.png
 updated_at: '2026-10-01T09:28:37.598748+00:00'
 last_reviewed: null
 ---

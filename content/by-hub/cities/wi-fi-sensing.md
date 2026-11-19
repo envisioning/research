@@ -9,7 +9,7 @@ collection: hardware
 trl: 5
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882017/cities/technologies/wi-fi-sensing.png
+image_url: https://media.envisioning.com/image/upload/v1793882017/cities/technologies/wi-fi-sensing.png
 updated_at: '2026-11-05T12:34:24.596598+00:00'
 last_reviewed: null
 ---

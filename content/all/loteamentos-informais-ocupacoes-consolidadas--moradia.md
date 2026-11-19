@@ -9,7 +9,7 @@ collection: modelos-mercado-governanca
 trl: 5
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1766592054/habitacao/technologies/loteamentos-informais-ocupacoes-consolidadas-google-gemini-3-pro-image-preview-sx8tw4.jpg
+image_url: https://media.envisioning.com/image/upload/v1766592054/habitacao/technologies/loteamentos-informais-ocupacoes-consolidadas-google-gemini-3-pro-image-preview-sx8tw4.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

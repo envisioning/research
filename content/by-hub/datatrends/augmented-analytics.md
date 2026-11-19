@@ -9,7 +9,7 @@ collection: agile-infrastructure
 trl: 4
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768593456/datatrends/technologies/augmented-analytics-google-gemini-3-pro-image-preview-x1gxx0.png
+image_url: https://media.envisioning.com/image/upload/v1768593456/datatrends/technologies/augmented-analytics-google-gemini-3-pro-image-preview-x1gxx0.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

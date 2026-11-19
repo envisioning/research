@@ -8,7 +8,7 @@ collection: perception-cognition
 trl: 1
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903107/xenotech/technologies/sensory-modulation-and-monitoring-systems-openrouter-google-gemini-3.1-flash-image-preview-u6oo59.png
+image_url: https://media.envisioning.com/image/upload/v1772903107/xenotech/technologies/sensory-modulation-and-monitoring-systems-openrouter-google-gemini-3.1-flash-image-preview-u6oo59.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

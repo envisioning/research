@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 2
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371909/agape/signals/ai-grant-triage-bias-auditing-google-gemini-3-pro-image-preview-u444hy.jpg
+image_url: https://media.envisioning.com/image/upload/v1769371909/agape/signals/ai-grant-triage-bias-auditing-google-gemini-3-pro-image-preview-u444hy.jpg
 updated_at: '2026-10-01T09:27:29.271673+00:00'
 last_reviewed: null
 ---

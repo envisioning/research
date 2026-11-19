@@ -9,7 +9,7 @@ collection: software
 trl: 5
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882018/cities/technologies/artificially-intelligent-governor.png
+image_url: https://media.envisioning.com/image/upload/v1793882018/cities/technologies/artificially-intelligent-governor.png
 updated_at: '2026-11-05T12:34:24.88955+00:00'
 last_reviewed: null
 ---

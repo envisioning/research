@@ -9,7 +9,7 @@ collection: software
 trl: 7
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882013/cities/technologies/cognitive-twin.png
+image_url: https://media.envisioning.com/image/upload/v1793882013/cities/technologies/cognitive-twin.png
 updated_at: '2026-11-05T12:34:22.243844+00:00'
 last_reviewed: null
 ---

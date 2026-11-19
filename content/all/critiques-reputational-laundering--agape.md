@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 2
 impact: 3
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372185/agape/signals/critiques-reputational-laundering-google-gemini-3-pro-image-preview-vcvwfc.png
+image_url: https://media.envisioning.com/image/upload/v1769372185/agape/signals/critiques-reputational-laundering-google-gemini-3-pro-image-preview-vcvwfc.png
 updated_at: '2026-10-01T09:28:45.9886+00:00'
 last_reviewed: null
 ---

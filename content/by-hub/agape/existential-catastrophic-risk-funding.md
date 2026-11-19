@@ -9,7 +9,7 @@ collection: geopolitics-planet-polycrisis
 trl: 1
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368409/agape/signals/existential-catastrophic-risk-funding-google-gemini-3-pro-image-preview-3d7uc4.jpg
+image_url: https://media.envisioning.com/image/upload/v1769368409/agape/signals/existential-catastrophic-risk-funding-google-gemini-3-pro-image-preview-3d7uc4.jpg
 updated_at: '2026-10-01T09:30:41.58555+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368221/agape/signals/continuous-donation-systems-google-gemini-3-pro-image-preview-wthfip.png
+image_url: https://media.envisioning.com/image/upload/v1769368221/agape/signals/continuous-donation-systems-google-gemini-3-pro-image-preview-wthfip.png
 updated_at: '2026-10-01T09:28:40.489551+00:00'
 last_reviewed: null
 ---

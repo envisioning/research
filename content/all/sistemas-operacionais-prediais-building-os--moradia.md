@@ -9,7 +9,7 @@ collection: plataformas-dados
 trl: 4
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1766533250/habitacao/technologies/cmms-manutencao-sla-fornecedores-google-gemini-3-pro-image-preview-cn42dm.jpg
+image_url: https://media.envisioning.com/image/upload/v1766533250/habitacao/technologies/cmms-manutencao-sla-fornecedores-google-gemini-3-pro-image-preview-cn42dm.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

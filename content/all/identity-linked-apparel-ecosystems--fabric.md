@@ -9,7 +9,7 @@ collection: applications
 trl: 6
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062520/threads/technologies/identity-linked-apparel-ecosystems-gemini-3-pro-p3pdeu.jpg
+image_url: https://media.envisioning.com/image/upload/v1764062520/threads/technologies/identity-linked-apparel-ecosystems-gemini-3-pro-p3pdeu.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

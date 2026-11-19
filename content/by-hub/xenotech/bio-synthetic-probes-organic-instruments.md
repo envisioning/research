@@ -9,7 +9,7 @@ collection: materials-structures
 trl: 3
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1787938707/xenotech/technologies/bio-synthetic-probes-organic-instruments-imagegen-v1.png
+image_url: https://media.envisioning.com/image/upload/v1787938707/xenotech/technologies/bio-synthetic-probes-organic-instruments-imagegen-v1.png
 updated_at: '2026-08-28T17:38:28.112417+00:00'
 last_reviewed: null
 ---

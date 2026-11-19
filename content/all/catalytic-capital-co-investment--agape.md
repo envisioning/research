@@ -9,7 +9,7 @@ collection: capital-instruments-economic
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371752/agape/signals/catalytic-capital-co-investment-google-gemini-3-pro-image-preview-d81krs.png
+image_url: https://media.envisioning.com/image/upload/v1769371752/agape/signals/catalytic-capital-co-investment-google-gemini-3-pro-image-preview-d81krs.png
 updated_at: '2026-10-01T09:27:50.791109+00:00'
 last_reviewed: null
 ---

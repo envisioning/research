@@ -9,7 +9,7 @@ collection: organizational-forms-ecosystems
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372320/agape/signals/talent-flows-philanthropy-activism-startups-google-gemini-3-pro-image-preview-c2ihnu.png
+image_url: https://media.envisioning.com/image/upload/v1769372320/agape/signals/talent-flows-philanthropy-activism-startups-google-gemini-3-pro-image-preview-c2ihnu.png
 updated_at: '2026-10-01T09:35:07.00986+00:00'
 last_reviewed: null
 ---

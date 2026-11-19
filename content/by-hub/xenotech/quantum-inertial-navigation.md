@@ -9,7 +9,7 @@ collection: temporal-dimensional
 trl: 5
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939882/xenotech/technologies/quantum-inertial-navigation-imagegen-v1.png
+image_url: https://media.envisioning.com/image/upload/v1787939882/xenotech/technologies/quantum-inertial-navigation-imagegen-v1.png
 updated_at: '2026-08-28T17:58:03.26596+00:00'
 last_reviewed: null
 ---

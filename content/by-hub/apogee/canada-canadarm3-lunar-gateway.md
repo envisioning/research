@@ -10,7 +10,7 @@ collection: hardware
 trl: 6
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1774871936/apogee/technologies/ef78daec-837e-4b46-b535-76fac996c91a-google-gemini-3.1-flash-image-preview-k4yc2p.jpg
+image_url: https://media.envisioning.com/image/upload/v1774871936/apogee/technologies/ef78daec-837e-4b46-b535-76fac996c91a-google-gemini-3.1-flash-image-preview-k4yc2p.jpg
 updated_at: '2026-09-28T17:17:06.479115+00:00'
 last_reviewed: null
 ---

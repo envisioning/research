@@ -9,7 +9,7 @@ collection: ethics-security
 trl: 3
 impact: 5
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1763986417/wintermute/technologies/identity-personhood-frameworks-gemini-3-pro-5aiz62.jpg
+image_url: https://media.envisioning.com/image/upload/v1763986417/wintermute/technologies/identity-personhood-frameworks-gemini-3-pro-5aiz62.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 2
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367894/agape/signals/ai-generated-applications-content-google-gemini-3-pro-image-preview-m0jcpl.png
+image_url: https://media.envisioning.com/image/upload/v1769367894/agape/signals/ai-generated-applications-content-google-gemini-3-pro-image-preview-m0jcpl.png
 updated_at: '2026-10-01T09:27:26.066063+00:00'
 last_reviewed: null
 ---

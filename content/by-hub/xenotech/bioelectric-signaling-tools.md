@@ -9,7 +9,7 @@ collection: biology-hybridization
 trl: 5
 impact: 5
 investment: 7
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939878/xenotech/technologies/bioelectric-signaling-tools-imagegen-v1.png
+image_url: https://media.envisioning.com/image/upload/v1787939878/xenotech/technologies/bioelectric-signaling-tools-imagegen-v1.png
 updated_at: '2026-08-28T17:57:58.792589+00:00'
 last_reviewed: null
 ---

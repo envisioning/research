@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 1
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367929/agape/signals/donation-routing-engines-google-gemini-3-pro-image-preview-2xbnky.jpg
+image_url: https://media.envisioning.com/image/upload/v1769367929/agape/signals/donation-routing-engines-google-gemini-3-pro-image-preview-2xbnky.jpg
 updated_at: '2026-10-01T09:29:54.663403+00:00'
 last_reviewed: null
 ---

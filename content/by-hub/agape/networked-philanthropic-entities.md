@@ -9,7 +9,7 @@ collection: organizational-forms-ecosystems
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419417/philanthropy/signals/networked-philanthropic-entities-google-gemini-3-pro-image-preview-p1hx0w.jpg
+image_url: https://media.envisioning.com/image/upload/v1768419417/philanthropy/signals/networked-philanthropic-entities-google-gemini-3-pro-image-preview-p1hx0w.jpg
 updated_at: '2026-10-01T09:32:09.334277+00:00'
 last_reviewed: null
 ---

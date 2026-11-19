@@ -9,7 +9,7 @@ collection: ethics-security
 trl: 6
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765435146/haul/technologies/cyber-physical-security-google-gemini-3-pro-image-preview-9xrs9o.png
+image_url: https://media.envisioning.com/image/upload/v1765435146/haul/technologies/cyber-physical-security-google-gemini-3-pro-image-preview-9xrs9o.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

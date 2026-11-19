@@ -9,7 +9,7 @@ collection: strategic-culture-literacy
 trl: 5
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768730686/datatrends/technologies/data-driven-culture-transformation-google-gemini-3-pro-image-preview-4lk9jh.jpg
+image_url: https://media.envisioning.com/image/upload/v1768730686/datatrends/technologies/data-driven-culture-transformation-google-gemini-3-pro-image-preview-4lk9jh.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

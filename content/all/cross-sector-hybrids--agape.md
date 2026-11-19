@@ -9,7 +9,7 @@ collection: organizational-forms-ecosystems
 trl: 1
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372268/agape/signals/cross-sector-hybrids-google-gemini-3-pro-image-preview-qf1ch5.jpg
+image_url: https://media.envisioning.com/image/upload/v1769372268/agape/signals/cross-sector-hybrids-google-gemini-3-pro-image-preview-qf1ch5.jpg
 updated_at: '2026-10-01T09:28:48.908802+00:00'
 last_reviewed: null
 ---

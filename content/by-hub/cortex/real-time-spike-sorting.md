@@ -9,7 +9,7 @@ collection: software
 trl: 6
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764062727/cortex/technologies/real-time-spike-sorting-gemini-3-pro-p2uwt4.jpg
+image_url: https://media.envisioning.com/image/upload/v1764062727/cortex/technologies/real-time-spike-sorting-gemini-3-pro-p2uwt4.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

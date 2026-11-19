@@ -9,7 +9,7 @@ collection: power-agency-governance
 trl: 2
 impact: 2
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367682/agape/signals/giving-circles-collective-giving-google-gemini-3-pro-image-preview-u6y7tr.jpg
+image_url: https://media.envisioning.com/image/upload/v1769367682/agape/signals/giving-circles-collective-giving-google-gemini-3-pro-image-preview-u6y7tr.jpg
 updated_at: '2026-10-01T09:30:49.980612+00:00'
 last_reviewed: null
 ---

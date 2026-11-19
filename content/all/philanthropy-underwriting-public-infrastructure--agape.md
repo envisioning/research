@@ -9,7 +9,7 @@ collection: capital-instruments-economic
 trl: 2
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371729/agape/signals/philanthropy-underwriting-public-infrastructure-google-gemini-3-pro-image-preview-22hskb.png
+image_url: https://media.envisioning.com/image/upload/v1769371729/agape/signals/philanthropy-underwriting-public-infrastructure-google-gemini-3-pro-image-preview-22hskb.png
 updated_at: '2026-10-01T09:33:10.743286+00:00'
 last_reviewed: null
 ---

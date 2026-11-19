@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371927/agape/signals/platformization-giving-mutual-aid-google-gemini-3-pro-image-preview-lp4pij.jpg
+image_url: https://media.envisioning.com/image/upload/v1769371927/agape/signals/platformization-giving-mutual-aid-google-gemini-3-pro-image-preview-lp4pij.jpg
 updated_at: '2026-10-01T09:33:13.492452+00:00'
 last_reviewed: null
 ---

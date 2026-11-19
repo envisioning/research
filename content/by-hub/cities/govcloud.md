@@ -9,7 +9,7 @@ collection: software
 trl: 9
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882033/cities/technologies/govcloud.png
+image_url: https://media.envisioning.com/image/upload/v1793882033/cities/technologies/govcloud.png
 updated_at: '2026-11-05T12:34:31.043499+00:00'
 last_reviewed: null
 ---

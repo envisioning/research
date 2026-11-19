@@ -9,7 +9,7 @@ collection: capital-instruments-economic
 trl: 1
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371772/agape/signals/outcome-based-regenerative-finance-google-gemini-3-pro-image-preview-tjeeyn.jpg
+image_url: https://media.envisioning.com/image/upload/v1769371772/agape/signals/outcome-based-regenerative-finance-google-gemini-3-pro-image-preview-tjeeyn.jpg
 updated_at: '2026-10-01T09:32:14.958843+00:00'
 last_reviewed: null
 ---

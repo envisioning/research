@@ -9,7 +9,7 @@ collection: hardware
 trl: 7
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882015/cities/technologies/integrated-autonomous-energy-grid.png
+image_url: https://media.envisioning.com/image/upload/v1793882015/cities/technologies/integrated-autonomous-energy-grid.png
 updated_at: '2026-11-05T12:34:23.728174+00:00'
 last_reviewed: null
 ---

@@ -8,7 +8,7 @@ collection: applications
 trl: 8
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765476606/folio/technologies/adaptive-learning-ecosystems-google-gemini-3-pro-image-preview-vmyree.jpg
+image_url: https://media.envisioning.com/image/upload/v1765476606/folio/technologies/adaptive-learning-ecosystems-google-gemini-3-pro-image-preview-vmyree.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: materials-structures
 trl: 4
 impact: 2
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1787939879/xenotech/technologies/onboard-living-biomes-imagegen-v1.png
+image_url: https://media.envisioning.com/image/upload/v1787939879/xenotech/technologies/onboard-living-biomes-imagegen-v1.png
 updated_at: '2026-08-28T17:58:00.943625+00:00'
 last_reviewed: null
 ---

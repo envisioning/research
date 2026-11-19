@@ -9,7 +9,7 @@ collection: software
 trl: 7
 impact: 5
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126824/vortex/technologies/synthetic-media-detection-systems-google-gemini-3-pro-image-preview-7coqoe.png
+image_url: https://media.envisioning.com/image/upload/v1765126824/vortex/technologies/synthetic-media-detection-systems-google-gemini-3-pro-image-preview-7coqoe.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

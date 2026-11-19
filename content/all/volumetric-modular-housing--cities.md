@@ -9,7 +9,7 @@ collection: hardware
 trl: 9
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882023/cities/technologies/volumetric-modular-housing.png
+image_url: https://media.envisioning.com/image/upload/v1793882023/cities/technologies/volumetric-modular-housing.png
 updated_at: '2026-11-05T12:34:26.871969+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 2
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372138/agape/signals/redefinition-altruism-cultures-generations-google-gemini-3-pro-image-preview-of8aeo.png
+image_url: https://media.envisioning.com/image/upload/v1769372138/agape/signals/redefinition-altruism-cultures-generations-google-gemini-3-pro-image-preview-of8aeo.png
 updated_at: '2026-10-01T09:34:53.087165+00:00'
 last_reviewed: null
 ---

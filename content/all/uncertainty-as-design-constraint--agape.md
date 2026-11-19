@@ -9,7 +9,7 @@ collection: knowledge-evidence-sensemaking
 trl: 1
 impact: 3
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769371890/agape/signals/uncertainty-as-design-constraint-google-gemini-3-pro-image-preview-w647d7.jpg
+image_url: https://media.envisioning.com/image/upload/v1769371890/agape/signals/uncertainty-as-design-constraint-google-gemini-3-pro-image-preview-w647d7.jpg
 updated_at: '2026-10-01T09:35:17.947473+00:00'
 last_reviewed: null
 ---

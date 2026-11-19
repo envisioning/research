@@ -9,7 +9,7 @@ collection: plataformas-dados
 trl: 2
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1766598442/habitacao/technologies/ia-orcamento-participativo-decisao-urbana-google-gemini-3-pro-image-preview-6khf0m.png
+image_url: https://media.envisioning.com/image/upload/v1766598442/habitacao/technologies/ia-orcamento-participativo-decisao-urbana-google-gemini-3-pro-image-preview-6khf0m.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

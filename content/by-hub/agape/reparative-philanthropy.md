@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 1
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419266/philanthropy/signals/reparative-philanthropy-google-gemini-3-pro-image-preview-nnbnxb.png
+image_url: https://media.envisioning.com/image/upload/v1768419266/philanthropy/signals/reparative-philanthropy-google-gemini-3-pro-image-preview-nnbnxb.png
 updated_at: '2026-10-01T09:34:55.942598+00:00'
 last_reviewed: null
 ---

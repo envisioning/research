@@ -9,7 +9,7 @@ collection: hardware
 trl: 4
 impact: 5
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764012306/apogee/technologies/advanced-radiation-shielding-gemini-3-pro-e9cn7z.jpg
+image_url: https://media.envisioning.com/image/upload/v1764012306/apogee/technologies/advanced-radiation-shielding-gemini-3-pro-e9cn7z.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

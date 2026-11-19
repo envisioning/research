@@ -9,7 +9,7 @@ collection: materials-structures
 trl: 1
 impact: 4
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1772898542/xenotech/technologies/jellyfish-uap-malfunction-drones-openrouter-google-gemini-3.1-flash-image-preview-71eaju.png
+image_url: https://media.envisioning.com/image/upload/v1772898542/xenotech/technologies/jellyfish-uap-malfunction-drones-openrouter-google-gemini-3.1-flash-image-preview-71eaju.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

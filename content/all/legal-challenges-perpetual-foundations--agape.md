@@ -9,7 +9,7 @@ collection: power-agency-governance
 trl: 1
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419482/philanthropy/signals/legal-challenges-perpetual-foundations-google-gemini-3-pro-image-preview-vkzitw.jpg
+image_url: https://media.envisioning.com/image/upload/v1768419482/philanthropy/signals/legal-challenges-perpetual-foundations-google-gemini-3-pro-image-preview-vkzitw.jpg
 updated_at: '2026-10-01T09:31:50.55167+00:00'
 last_reviewed: null
 ---

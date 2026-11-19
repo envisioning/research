@@ -9,7 +9,7 @@ collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419655/philanthropy/signals/disaster-philanthropy-permanent-google-gemini-3-pro-image-preview-k1d4u8.jpg
+image_url: https://media.envisioning.com/image/upload/v1768419655/philanthropy/signals/disaster-philanthropy-permanent-google-gemini-3-pro-image-preview-k1d4u8.jpg
 updated_at: '2026-10-01T09:29:51.917467+00:00'
 last_reviewed: null
 ---

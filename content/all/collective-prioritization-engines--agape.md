@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 1
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367988/agape/signals/collective-prioritization-engines-google-gemini-3-pro-image-preview-c7pncb.jpg
+image_url: https://media.envisioning.com/image/upload/v1769367988/agape/signals/collective-prioritization-engines-google-gemini-3-pro-image-preview-c7pncb.jpg
 updated_at: '2026-10-01T09:28:34.846147+00:00'
 last_reviewed: null
 ---

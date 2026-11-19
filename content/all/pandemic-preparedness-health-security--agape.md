@@ -9,7 +9,7 @@ collection: geopolitics-planet-polycrisis
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368392/agape/signals/pandemic-preparedness-health-security-google-gemini-3-pro-image-preview-smowza.png
+image_url: https://media.envisioning.com/image/upload/v1769368392/agape/signals/pandemic-preparedness-health-security-google-gemini-3-pro-image-preview-smowza.png
 updated_at: '2026-10-01T09:32:17.299309+00:00'
 last_reviewed: null
 ---

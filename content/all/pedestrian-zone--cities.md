@@ -9,7 +9,7 @@ collection: applications
 trl: 9
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1793882033/cities/technologies/pedestrian-zone.png
+image_url: https://media.envisioning.com/image/upload/v1793882033/cities/technologies/pedestrian-zone.png
 updated_at: '2026-11-05T12:34:30.703595+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 1
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367946/agape/signals/smart-contract-conditional-giving-google-gemini-3-pro-image-preview-hy1itp.jpg
+image_url: https://media.envisioning.com/image/upload/v1769367946/agape/signals/smart-contract-conditional-giving-google-gemini-3-pro-image-preview-hy1itp.jpg
 updated_at: '2026-10-01T09:35:01.796976+00:00'
 last_reviewed: null
 ---

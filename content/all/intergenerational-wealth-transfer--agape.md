@@ -9,7 +9,7 @@ collection: culture-values-narratives
 trl: 2
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769372160/agape/signals/intergenerational-wealth-transfer-google-gemini-3-pro-image-preview-30jnno.png
+image_url: https://media.envisioning.com/image/upload/v1769372160/agape/signals/intergenerational-wealth-transfer-google-gemini-3-pro-image-preview-30jnno.png
 updated_at: '2026-10-01T09:31:12.406206+00:00'
 last_reviewed: null
 ---

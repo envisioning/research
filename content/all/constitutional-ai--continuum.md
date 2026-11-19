@@ -9,7 +9,7 @@ collection: ethics-security
 trl: 5
 impact: 5
 investment: 5
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765125477/continuum/technologies/constitutional-ai-google-gemini-3-pro-image-preview-0s18qh.jpg
+image_url: https://media.envisioning.com/image/upload/v1765125477/continuum/technologies/constitutional-ai-google-gemini-3-pro-image-preview-0s18qh.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: capital-instruments-economic
 trl: 2
 impact: 2
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769367765/agape/signals/impact-measurement-fatigue-google-gemini-3-pro-image-preview-4ubqks.png
+image_url: https://media.envisioning.com/image/upload/v1769367765/agape/signals/impact-measurement-fatigue-google-gemini-3-pro-image-preview-4ubqks.png
 updated_at: '2026-10-01T09:31:04.361159+00:00'
 last_reviewed: null
 ---

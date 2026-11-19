@@ -9,7 +9,7 @@ collection: power-agency-governance
 trl: 1
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1768419329/philanthropy/signals/beneficiary-councils-google-gemini-3-pro-image-preview-lrcgbu.png
+image_url: https://media.envisioning.com/image/upload/v1768419329/philanthropy/signals/beneficiary-councils-google-gemini-3-pro-image-preview-lrcgbu.png
 updated_at: '2026-10-01T09:27:39.89655+00:00'
 last_reviewed: null
 ---

@@ -9,7 +9,7 @@ collection: propulsion-physics
 trl: 3
 impact: 4
 investment: 2
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1772903532/xenotech/technologies/high-frequency-gravitational-wave-generator-openrouter-google-gemini-3.1-flash-image-preview-esuueb.png
+image_url: https://media.envisioning.com/image/upload/v1772903532/xenotech/technologies/high-frequency-gravitational-wave-generator-openrouter-google-gemini-3.1-flash-image-preview-esuueb.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

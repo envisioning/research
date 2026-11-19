@@ -11,7 +11,7 @@ collection: applications
 trl: 5
 impact: 3
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1774861908/grid/technologies/df1b178d-a2bd-4c15-a295-f958315ae9a1-google-gemini-3.1-flash-image-preview-n97t9z.jpg
+image_url: https://media.envisioning.com/image/upload/v1774861908/grid/technologies/df1b178d-a2bd-4c15-a295-f958315ae9a1-google-gemini-3.1-flash-image-preview-n97t9z.jpg
 updated_at: '2026-09-28T17:17:51.308047+00:00'
 last_reviewed: null
 ---

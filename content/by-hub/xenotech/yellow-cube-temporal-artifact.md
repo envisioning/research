@@ -9,7 +9,7 @@ collection: consciousness-interface
 trl: 1
 impact: 1
 investment: 1
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1772905182/xenotech/technologies/yellow-cube-temporal-artifact-openrouter-google-gemini-3.1-flash-image-preview-z29hb4.png
+image_url: https://media.envisioning.com/image/upload/v1772905182/xenotech/technologies/yellow-cube-temporal-artifact-openrouter-google-gemini-3.1-flash-image-preview-z29hb4.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

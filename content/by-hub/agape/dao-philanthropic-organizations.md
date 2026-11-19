@@ -9,7 +9,7 @@ collection: technology-infrastructure
 trl: 1
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1769368196/agape/signals/dao-philanthropic-organizations-google-gemini-3-pro-image-preview-cr3161.png
+image_url: https://media.envisioning.com/image/upload/v1769368196/agape/signals/dao-philanthropic-organizations-google-gemini-3-pro-image-preview-cr3161.png
 updated_at: '2026-10-01T09:28:58.667049+00:00'
 last_reviewed: null
 ---

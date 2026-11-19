@@ -9,7 +9,7 @@ collection: software
 trl: 6
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764408372/pixels/technologies/ai-assisted-rendering-engines-gemini-3-pro-jx1whc.png
+image_url: https://media.envisioning.com/image/upload/v1764408372/pixels/technologies/ai-assisted-rendering-engines-gemini-3-pro-jx1whc.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

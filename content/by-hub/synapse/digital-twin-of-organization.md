@@ -8,7 +8,7 @@ collection: applications
 trl: 6
 impact: 4
 investment: 4
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1765126808/synapse/technologies/digital-twin-of-organization-google-gemini-3-pro-image-preview-08v581.png
+image_url: https://media.envisioning.com/image/upload/v1765126808/synapse/technologies/digital-twin-of-organization-google-gemini-3-pro-image-preview-08v581.png
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---

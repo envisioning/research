@@ -9,7 +9,7 @@ collection: applications
 trl: 6
 impact: 4
 investment: 3
-image_url: https://res.cloudinary.com/envisioning/image/upload/v1764179945/lattice/technologies/decentralized-identity-did-apps-gemini-3-pro-6p2oi5.jpg
+image_url: https://media.envisioning.com/image/upload/v1764179945/lattice/technologies/decentralized-identity-did-apps-gemini-3-pro-6p2oi5.jpg
 updated_at: '2026-05-25T12:53:52.153719+00:00'
 last_reviewed: null
 ---
